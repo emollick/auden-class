@@ -156,7 +156,7 @@ Okey takes the verb to mean understanding one another. The Italian Dante encyclo
 The plain sense is kept: to give back. Longfellow has *reflects*.
 
 [plates[0].lenses[3].ties[2].say] (a numbered remark)
-*Valore* is worth or power, and here a name for God. Okey writes *goodness*. Longfellow keeps the look of the word, *valour*, which in English means courage.
+*Valore* is worth or power, and here a name for God. Okey writes *goodness*. Longfellow keeps the English word from the same Latin root, *valour*, which now means courage and once meant worth.
 
 [plates[0].lenses[3].ties[3].say] (a numbered remark)
 *Bright* for *lucido*. Longfellow keeps the look-alike word, *lucid*.
@@ -165,7 +165,7 @@ The plain sense is kept: to give back. Longfellow has *reflects*.
 *Love* for *carità*, where Longfellow keeps *charity*.
 
 [plates[0].lenses[3].stands] (at the foot, under “What each caption stands on”)
-The two versions as they stand side by side. Auden’s class and this prose: Donald Pearce’s memoir, p. 153. Auden’s use of the lines: *The Dyer’s Hand*, p. 230. *Intendere* in the *Enciclopedia Dantesca*, and the commentaries of Natalino Sapegno and Anna Maria Chiavacci Leonardi on line 73. Longfellow’s words are in [his Canto 15](#/read/dante-longfellow/pur-15:22).
+The two versions as they stand side by side. Auden’s class and this prose: Donald Pearce’s memoir, p. 153. Auden’s use of the lines: *The Dyer’s Hand*, p. 230. *Intendere* in the *Enciclopedia Dantesca*, and the commentaries of Natalino Sapegno and Anna Maria Chiavacci Leonardi on line 73. *Valour* in the *Century Dictionary* and *A New English Dictionary*. Longfellow’s words are in [his Canto 15](#/read/dante-longfellow/pur-15:22).
 
 ## Passage 2: The rule of the mountain: lines 91 to 96 and 103 to 105  (plates[1], id "love", from dante-italian/pur-17)
 
@@ -594,15 +594,18 @@ Treccani, *Vocabolario on line*, under *lucido*, *quanto*, *quantunque*, *carit�
 Lewis and Short, *A Latin Dictionary* (1879), at the Perseus Digital Library, under *caritas*, *error*, *erro*, *animus*, *sementis* and *poena*.
 
 [sources[11]]
-*A New English Dictionary on Historical Principles*, vol. VII (Oxford: Clarendon Press, 1909), under Plutonian.
+*A New English Dictionary on Historical Principles* (Oxford: Clarendon Press): vol. VII (1909), under *Plutonian*; vol. X, part 2 (1928), under *valour*.
 
 [sources[12]]
-*Silva Rhetoricae* (rhetoric.byu.edu), under *simile*, *antithesis*, *zeugma* and *prozeugma*.
+*The Century Dictionary* (New York: The Century Co., 1889–91), under *valor*, *valour*.
 
 [sources[13]]
-Guido Cavalcanti, “In un boschetto trova’ pasturella,” in *The Oxford Book of Italian Verse*, edited by St. John Lucas (Oxford: Clarendon Press, 1910), p. 74, on Italian Wikisource. Dante, *Vita nuova*, chapter III, on Italian Wikisource. Ovid, *Metamorphoses* 5.385–401, at The Latin Library.
+*Silva Rhetoricae* (rhetoric.byu.edu), under *simile*, *antithesis*, *zeugma* and *prozeugma*.
 
 [sources[14]]
+Guido Cavalcanti, “In un boschetto trova’ pasturella,” in *The Oxford Book of Italian Verse*, edited by St. John Lucas (Oxford: Clarendon Press, 1910), p. 74, on Italian Wikisource. Dante, *Vita nuova*, chapter III, on Italian Wikisource. Ovid, *Metamorphoses* 5.385–401, at The Latin Library.
+
+[sources[15]]
 The counts on this page were made on the Italian printed here: the cantos and lines of the poem, the middle line, and the word *più* in Canto 15.
 
 ## Where this page may be wrong
@@ -623,4 +626,4 @@ In the second passage the Italian printed here has too much before too little. T
 The second passage leaves out lines 97 to 102 of its canto, and the third leaves out lines 43 to 48. The stresses marked in the third are one reader’s count by the rules of Italian verse; in two of its lines a syllable could fairly be marked otherwise.
 
 
-(4771 words)
+(4806 words)

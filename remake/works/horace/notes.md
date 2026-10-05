@@ -823,3 +823,35 @@ edits, each proved to change only the leaf it names (the file before is
   became `(Quintilian’s definition)`
 
 The checker says what it said before.
+
+## The lead after an outside review: what Auden means by hubris (5 October, 10:12 UTC)
+
+The owner passed on an outside reader's review of the site. One of its points was the last
+sentence of the Word tab of the second passage, which called hubris "a Greek word that first
+meant presumption toward the gods". Checked (`review/outside/hubris.md`, then
+`facts-hubris-valour.md`): the reviewer is right. The clause came from the Online Etymology
+Dictionary, which does say it. Liddell and Scott's Greek lexicon has no such sense, and in Homer
+and Hesiod the word is used of outrage done to other people.
+
+The reviewer's own replacement was not taken. Its last clause has Auden apply the word to the
+defiance of limits that a god has set, and Auden's sentence on p. 9 of *The Enchafèd Flood* names
+no god and no limit. The site's rule is Auden's view where there is one, so the history was cut
+and his own account of the word put in its place: "The Greeks and Us" (1948), in *Forewords and
+Afterwords*, pp. 19 and 21, where he spells it hybris.
+
+What changed (copy before: `lead/before-outside-review.json`; the edits:
+`review/outside/edits/horace.json`; the wording and the critics' four reports: `review/outside/`):
+
+- the caption's last sentence is now two, and the second gives Auden's account;
+- ground 6 is that account (kind "auden" where it was "source"), with a note of the change in
+  its source;
+- the "stands" line names the book in place of the etymology dictionary;
+- in the list of sources, pp. 19 and 21 are added to *Forewords and Afterwords* and "hubris" is
+  taken from the words read in the Online Etymology Dictionary.
+
+Notes above in this file that give the old gloss are left as they were written, and so are
+`critic.md` and `exam.md`.
+
+The checker: no problems, no warnings. The caption has 120 words, which is its limit: anything
+added to it later must be paid for with a cut. The sweeps against the scans report nothing new
+for this piece.

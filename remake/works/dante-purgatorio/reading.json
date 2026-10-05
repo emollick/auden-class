@@ -395,7 +395,7 @@
                 21,
                 22
               ],
-              "say": "*Valore* is worth or power, and here a name for God. Okey writes *goodness*. Longfellow keeps the look of the word, *valour*, which in English means courage."
+              "say": "*Valore* is worth or power, and here a name for God. Okey writes *goodness*. Longfellow keeps the English word from the same Latin root, *valour*, which now means courage and once meant worth."
             },
             {
               "a": [
@@ -426,7 +426,7 @@
           ],
           "caption": "The English beside the Italian is Okey’s prose, the version Auden set his class to learn and the wording he copied into his notes. It follows Dante closely: <i>bright body</i>, <i>giveth back</i>. At one word the translators part. <b>S’intende</b> becomes <i>comprehend each other</i>, and when Auden quotes the last three lines he brings them in to show that both love and understanding breed their like. Longfellow’s translation has <i>aspire</i>. The Italian Dante encyclopedia and the commentators Sapegno and Chiavacci Leonardi read the verb here in an old sense taken from Provençal, to love. On that reading lines 73 and 74, the seventh and eighth here, hold three verbs for loving and none for knowing.",
           "why": "The prose Auden quotes turns one old verb into comprehend each other, and his remark that love and understanding breed their like matches that wording; the reference work on Dante’s words reads the verb as love.",
-          "stands": "The two versions as they stand side by side. Auden’s class and this prose: Donald Pearce’s memoir, p. 153. Auden’s use of the lines: *The Dyer’s Hand*, p. 230. *Intendere* in the *Enciclopedia Dantesca*, and the commentaries of Natalino Sapegno and Anna Maria Chiavacci Leonardi on line 73. Longfellow’s words are in [his Canto 15](#/read/dante-longfellow/pur-15:22).",
+          "stands": "The two versions as they stand side by side. Auden’s class and this prose: Donald Pearce’s memoir, p. 153. Auden’s use of the lines: *The Dyer’s Hand*, p. 230. *Intendere* in the *Enciclopedia Dantesca*, and the commentaries of Natalino Sapegno and Anna Maria Chiavacci Leonardi on line 73. *Valour* in the *Century Dictionary* and *A New English Dictionary*. Longfellow’s words are in [his Canto 15](#/read/dante-longfellow/pur-15:22).",
           "grounds": [
             {
               "claim": "which English words answer which Italian words",
@@ -451,6 +451,11 @@
               "claim": "Longfellow’s words",
               "kind": "source",
               "source": "the hosted Longfellow text, dante-longfellow/pur-15, blocks 22 to 24"
+            },
+            {
+              "claim": "valour is from the same Latin word as valore; its living sense is courage; an older sense, worth or value, is marked obsolete",
+              "kind": "source",
+              "source": "The Century Dictionary (1889-91), under valor, valour: the etymology and senses 1 and 2; A New English Dictionary on Historical Principles, vol. X, part 2 (Oxford: Clarendon Press, 1928; this entry first published 1916), under valour, senses 1a, 1c and 2; both read in the scans at archive.org on 2026-10-05 (outside review, the same day: the note on valore used to say only that the word means courage in English, and gave no source; it now gives the older sense as well; the Boston edition of 1867, vol. II, p. 94, spells Longfellow’s word valor, and the London edition of the same year, p. 296, and the hosted text, which the note follows, have valour; both editions read in the scans at archive.org)"
             },
             {
               "claim": "the Okey prose shown agrees word for word with the Temple Classics volume",
@@ -1420,7 +1425,8 @@
     "*Enciclopedia Dantesca* (Rome: Istituto della Enciclopedia Italiana, 1970), at treccani.it, under *lucido*, *rendere*, *valore*, *carità*, *intendere*, *errore*, *errare*, *obietto*, *solo*, *primavera*, *Matelda* and *Cavalcanti, Guido*.",
     "Treccani, *Vocabolario on line*, under *lucido*, *quanto*, *quantunque*, *carità*, *valore*, *rendere*, *intendere*, *errare*, *obietto*, *oggetto*, *sementa*, *primavera*, *disviare*, *rimembrare*, *terzina*, *endecasillabo*, *sinalefe* and *dialefe*. Claudio Ciociola, “endecasillabo,” in *Enciclopedia dell’Italiano* (Rome: Istituto della Enciclopedia Italiana, 2010), at treccani.it.",
     "Lewis and Short, *A Latin Dictionary* (1879), at the Perseus Digital Library, under *caritas*, *error*, *erro*, *animus*, *sementis* and *poena*.",
-    "*A New English Dictionary on Historical Principles*, vol. VII (Oxford: Clarendon Press, 1909), under Plutonian.",
+    "*A New English Dictionary on Historical Principles* (Oxford: Clarendon Press): vol. VII (1909), under *Plutonian*; vol. X, part 2 (1928), under *valour*.",
+    "*The Century Dictionary* (New York: The Century Co., 1889–91), under *valor*, *valour*.",
     "*Silva Rhetoricae* (rhetoric.byu.edu), under *simile*, *antithesis*, *zeugma* and *prozeugma*.",
     "Guido Cavalcanti, “In un boschetto trova’ pasturella,” in *The Oxford Book of Italian Verse*, edited by St. John Lucas (Oxford: Clarendon Press, 1910), p. 74, on Italian Wikisource. Dante, *Vita nuova*, chapter III, on Italian Wikisource. Ovid, *Metamorphoses* 5.385–401, at The Latin Library.",
     "The counts on this page were made on the Italian printed here: the cantos and lines of the poem, the middle line, and the word *più* in Canto 15."

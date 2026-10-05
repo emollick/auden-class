@@ -623,3 +623,40 @@ ray comes to a bright body), so the reading now names them: `"join": [[0, 2], [1
 else changed, and the checker says of the piece what it said before (its three standing
 warnings). Copy before: `lead/before-join-share.json`. To look at after the merge and the build:
 the tab at 1280 and 390.
+
+## The lead after an outside review: Longfellow's *valour* (5 October, 10:12 UTC)
+
+The owner passed on an outside reader's review of the site. One of its points was the note on
+*valore* in the English tab of the first passage, which said that Longfellow "keeps the look of
+the word, *valour*, which in English means courage". The reviewer: the word also had the sense of
+worth, and the note makes Longfellow's choice look like a false equivalent.
+
+Checked (`review/outside/valour.md`, then `facts-hubris-valour.md`): right in part. The note had
+no source. *The Century Dictionary* and *A New English Dictionary* both bring the English word and
+Italian *valore* from one Latin word, both give courage as the living sense, and both record the
+sense of worth and mark it obsolete. So the reviewer's "can also carry the older sense" needs the
+past tense, and the claim about what modern readers will understand has no source and was not
+taken.
+
+What changed (copy before: `lead/before-outside-review.json`; the edits:
+`review/outside/edits/purgatorio.json`; the wording and the critics' reports: `review/outside/`):
+
+- the note now says that Longfellow keeps the English word from the same Latin root, which now
+  means courage and once meant worth;
+- a new ground (after "Longfellow's words") cites the two dictionaries, with a note of the change;
+- the "stands" line names them;
+- in the list of sources the entry for *A New English Dictionary* takes in vol. X, and *The
+  Century Dictionary* has an entry.
+
+Found on the way and recorded in the new ground: the Boston edition of 1867 spells Longfellow's
+word valor, and the London edition of that year and the hosted text have valour. The note
+follows the hosted text.
+
+Left as it is, for the owner to say: the note on *lucido* in the same tab ("the look-alike
+word, *lucid*"). By the research it is the same case (`review/outside/valour.md`, finding 6:
+*lucid* is from the same Latin root and could still mean shining in verse; no critic of facts
+has checked that yet), and the review did not ask for it. On the page it stands first of the five
+notes and the note on *valore* third.
+
+The checker says of the piece what it said before (its three standing warnings). The sweeps
+against the scans report nothing new for this piece.

@@ -157,7 +157,7 @@ The marks on the passage. That each pair agrees in gender, number and case: Alle
 Word
 
 [plates[1].lenses[1].caption] (the caption)
-The glosses are from Lewis and Short’s Latin dictionary. The stanza opens on <b>nequicquam</b>, to no purpose. The god is <b>prudens</b>, a short form of <i>providens</i>, seeing ahead; the dictionary puts this line under <i>knowing, wise</i>. The ships are <b>impiae</b>, without reverence for gods, parents or country, and the waters are not to be touched. The verb, <b>transiliunt</b>, means <i>leap across</i>: its other objects in the dictionary are walls, flames, nets and a river. The edition printed here finds in the ode a lament for the presumption of mankind. Auden, quoting the stanza, calls the attempt to cross the sea rash and close to hubris, a Greek word that first meant presumption toward the gods.
+The glosses are from Lewis and Short’s Latin dictionary. The stanza opens on <b>nequicquam</b>, to no purpose. The god is <b>prudens</b>, a short form of <i>providens</i>, seeing ahead; the dictionary puts this line under <i>knowing, wise</i>. The ships are <b>impiae</b>, without reverence for gods, parents or country, and the waters are not to be touched. The verb, <b>transiliunt</b>, means <i>leap across</i>: its other objects in the dictionary are walls, flames, nets and a river. The edition printed here finds in the ode a lament for the presumption of mankind. Auden, quoting the stanza, calls the attempt to cross the sea rash and close to hubris. Elsewhere he explains hubris as the Greek tragic hero’s belief that he is a god.
 
 [plates[1].lenses[1].notes[0].gloss] (set under the word)
 to no purpose
@@ -214,7 +214,7 @@ shallows, waters
 Properly a shallow place or a ford. In the poets it is a body of water, the sea.
 
 [plates[1].lenses[1].stands] (at the foot, under “What each caption stands on”)
-Each gloss is from the entry for the word in Lewis and Short’s *Latin Dictionary* (1879). The form of *touch* and the rule for a first word: Allen and Greenough’s *New Latin Grammar*, sections 500 and 597. The reading of *prudens* as foreseeing and the summary of the ode are from the notes of the edition printed here. *Hubris*: the Online Etymology Dictionary. Auden: *The Enchafèd Flood*, p. 9.
+Each gloss is from the entry for the word in Lewis and Short’s *Latin Dictionary* (1879). The form of *touch* and the rule for a first word: Allen and Greenough’s *New Latin Grammar*, sections 500 and 597. The reading of *prudens* as foreseeing and the summary of the ode: the notes of the edition printed here. Auden: *The Enchafèd Flood*, p. 9; *Forewords and Afterwords*, pp. 19 and 21.
 
 ### Tab “English” (compare)
 
@@ -488,7 +488,7 @@ Horace, *The Odes and Epodes*, with an English translation by C. E. Bennett (Loe
 W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Translating Opera Libretti,” written with Chester Kallman, p. 485.
 
 [sources[6]]
-W. H. Auden, *Forewords and Afterwords* (1973): “The Greeks and Us,” pp. 5–6; “A Civilized Voice,” p. 124.
+W. H. Auden, *Forewords and Afterwords* (1973): “The Greeks and Us,” pp. 5–6, 19 and 21; “A Civilized Voice,” p. 124.
 
 [sources[7]]
 W. H. Auden, “The Horatians” (written in 1968; in *City Without Walls*, 1969): not seen in full; its close as quoted by Edward Mendelson.
@@ -515,7 +515,7 @@ Cicero, *Pro Sestio*, sections 45–46 (the ship of the commonwealth): the Latin
 *Silva Rhetoricae* (rhetoric.byu.edu), under *antithesis*.
 
 [sources[15]]
-Online Etymology Dictionary: transgress, providence, prudent, hubris.
+Online Etymology Dictionary: transgress, providence, prudent.
 
 ## Where this page may be wrong
 
@@ -535,4 +535,4 @@ In the third passage *plurimum*, very much, is left unmarked. The edition printe
 The Latin here is a school edition of 1895, the English a translation of 1863 as printed in 1865. Auden’s reading list names the Loeb edition, and his quotations follow its Latin: in line two of the first passage it has an exclamation mark, not the question mark printed here.
 
 
-(4675 words)
+(4682 words)

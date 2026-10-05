@@ -206,3 +206,25 @@ changed against the deploy before: seven scripts, the stylesheet and
 `data/shelf.json`. Between 09:37 and 09:38 every one of the 1,263 files
 was fetched from the live address and compared with the build: all the
 same.
+
+## Found after the deploy, by a second check
+
+A second session checked the live scripts on its own after the deploy
+and reported at 10:35 UTC. It bore out the three mends. It also named
+four smaller things. Two are already above, under "Left as it is": a
+request has no time limit, and a page that is slow to come leaves the
+page before on the screen with its plates taken down. Two are new. Both
+were read in the script and neither is mended, since a change the owner
+did not ask for waits for the owner's word.
+
+- **A piece's file of the wrong shape.** If a listed piece's file comes
+  as sound JSON that is not a piece, the page says "Not found", with no
+  "Try again" (`site/js/piece.js`, line 75). The loader keeps an answer
+  that parsed, so the notice stays until the page is loaded anew. A file
+  cut short does not parse and says "Not loaded", as it should. Every
+  deploy is compared file by file with the build, so the case needs a
+  fault between the server and the reader that still yields sound JSON.
+- **A piece's own stylesheet** would be added to the document before the
+  router has checked that the reader is still on that page
+  (`site/js/piece.js`, line 78). No piece names a stylesheet today, so
+  nothing shows.

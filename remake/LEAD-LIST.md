@@ -421,6 +421,31 @@ Each is set out in `review/router/RECORD.md`, under "Left as it is".
 - Nothing tells a reader that a page is on its way, and nothing tells
   a screen reader that a page has come by a link.
 
+Two more, found by a second check of the live site after the deploy
+(set out in the same record, under "Found after the deploy"). Neither
+is mended: a change the owner did not ask for waits for the owner's
+word.
+
+- A piece on the list whose file comes as sound JSON of the wrong
+  shape says "Not found", with no "Try again", and goes on saying so
+  until the page is loaded anew, because the answer is kept
+  (`site/js/piece.js`, about line 75).
+- A piece's own stylesheet would be added before the check that the
+  reader is still on that page (`site/js/piece.js`, about line 78). No
+  piece names a stylesheet today.
+
+## From the outside review of what the site says (5 October), for the owner's word
+
+The record is `review/outside/RECORD.md`.
+
+- The Purgatorio's first passage, the tab "English": the note on
+  *lucido* still says "Longfellow keeps the look-alike word, *lucid*."
+  *Lucid* is from the same Latin root and its first sense in the
+  dictionaries is shining or bright, so "look-alike" can be read as
+  alike in looks only. The mend that claims nothing new: "*Bright* for
+  *lucido*, where Longfellow keeps *lucid*." The review did not ask for
+  it. Put to the owner on 5 October.
+
 ## Refused by the permission system: undone until the owner says
 
 See the lead's memory file on refusals. The owner said yes on 4

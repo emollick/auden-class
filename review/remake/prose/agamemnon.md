@@ -22,10 +22,10 @@ The typical Greek tragic situation is one in which whatever the hero does must b
 [view.source]
 “The Greeks and Us” (the introduction to *The Portable Greek Reader*, 1948), in *Forewords and Afterwords* (1973), p. 19
 
-## Passage 1: At Aulis, as the elders sing it  (plates[0], id "yoke", from agamemnon/p1)
+## Passage 1: The king at Aulis, as the elders sing it  (plates[0], id "yoke", from agamemnon/p1)
 
 [plates[0].heading]
-At Aulis, as the elders sing it
+The king at Aulis, as the elders sing it
 
 ### Tab “Figure” (figure)
 
@@ -478,4 +478,4 @@ The count of nets depends on what is counted. Nine places are counted in Morshea
 In the translator’s rhymes *took* and *yoke* agree only loosely, and *mind* and *wind* fully only in an older pronunciation of *wind*.
 
 
-(3390 words)
+(3392 words)
