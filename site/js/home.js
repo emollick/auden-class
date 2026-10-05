@@ -83,7 +83,6 @@ export function specimen(s, mounted, opts = {}) {
 
 export async function renderHome(main, site = {}, at = null) {
   const front = await getJSON('data/front.json');
-  document.title = site.name || 'Fate and the Individual';
   const mounted = [];
   const page = el('article', { class: 'home' });
 
@@ -153,7 +152,8 @@ export async function renderHome(main, site = {}, at = null) {
     cameTo = window.scrollY;
   };
   toWorks.addEventListener('click', (e) => {
-    if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    // (once the reader has asked for another page this one takes no step of its own: the link is followed)
+    if (main.left || e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
     e.preventDefault();
     stepTo('#/works');   // a step of its own, so that Back returns to this paragraph
     come();
@@ -162,7 +162,7 @@ export async function renderHome(main, site = {}, at = null) {
     if (h) h.focus({ preventScroll: true });
   });
 
-  main.replaceChildren(page);
+  main.show(page, site.name || 'Fate and the Individual');
   const leave = () => mounted.forEach((m) => m.destroy());
   // The address #/works opens the page at the list. (The router scrolls a new page to its top and then calls
   // this. The cards over the list take their true heights when the faces are in, so the list is come to again

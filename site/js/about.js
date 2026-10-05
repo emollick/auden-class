@@ -8,7 +8,6 @@ import { rich, para } from './rich.js';
 
 export async function renderAbout(main, site = {}) {
   const about = await getJSON('data/about.json');
-  document.title = [about.kicker, site.name].filter(Boolean).join(' · ');
   const page = el('article', { class: 'about' }, [
     el('header', { class: 'piece-hd about-hd' }, [el('p', { class: 'kicker', text: about.kicker }), el('h1', { text: about.title })]),
     para(about.lede, { class: 'about-lede' }),
@@ -23,5 +22,5 @@ export async function renderAbout(main, site = {}) {
       ...(s.after || []).map((t) => para(t, { class: 'after' })),
     ])),
   ]);
-  main.replaceChildren(page);
+  main.show(page, [about.kicker, site.name].filter(Boolean).join(' · '));
 }

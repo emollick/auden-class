@@ -97,7 +97,8 @@ export function arrived(back, top) {
 }
 
 export function stepTo(href) {
-  leave();
+  // (as in arriving(): while a page is being drawn the step now numbered is not the standing page's)
+  if (!settling) leave();
   holding = null;
   steps += 1;
   try { history.pushState({ k: steps }, '', href); } catch (e) { /* a frame that keeps no history of its own */ }

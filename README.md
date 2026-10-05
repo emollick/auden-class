@@ -37,7 +37,9 @@ The tools that open a browser use Playwright, and they import it from the
 path it had on the machine they were written on
 (`/opt/node22/lib/node_modules/playwright/index.mjs`). They are
 `review/remake/last-pass/tools/walk-site.mjs`, which opens every piece and
-presses every tab, the tools in `review/phone/tools/`, and
+presses every tab, the tools in `review/phone/tools/`,
+`review/router/tools/faults.mjs`, which holds back, spoils or drops the
+answers to requests and looks at what the reader is then shown, and
 `build/tools/shoot.mjs`. Change that path to use them elsewhere.
 
 ## Deploy
