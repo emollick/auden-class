@@ -1,0 +1,60 @@
+the site in site
+ok    a slow piece, then a second piece: asked for tempest, then hamlet: piece:hamlet at #/hamlet; the title is the second page’s
+ok    a slow piece, then the shelf: asked for tempest, then shelf: shelf at #/shelf; the title is the second page’s
+ok    a slow piece that fails in the end, then a second piece: asked for tempest, then hamlet: piece:hamlet at #/hamlet; the title is the second page’s
+ok    a slow piece that is not there, then a second piece: asked for no-such-piece, then hamlet: piece:hamlet at #/hamlet; the title is the second page’s
+ok    a slow script (the shelf’s), then a piece: asked for shelf, then hamlet: piece:hamlet at #/hamlet; the title is the second page’s
+ok    a slow script of a piece’s own, then a second piece: asked for tempest, then hamlet: piece:hamlet at #/hamlet; the title is the second page’s
+ok    three pieces, the first two slow: asked for tempest, phedre, hamlet: piece:hamlet at #/hamlet
+ok    a slow piece, then Back: asked for tempest, then went back: home at #/
+ok    a slow part of a book, then a piece: asked for read/dante-temple/inf-01, then hamlet: piece:hamlet at #/hamlet; the title is the second page’s
+ok    a slow part of a book that fails in the end, then a piece: asked for read/dante-temple/inf-01, then hamlet: piece:hamlet at #/hamlet; the title is the second page’s
+ok    1, no error left uncaught: none
+ok    opened at #/%: notice “Not found: There is no page at this address. The works.” at #/%
+ok    from a piece to #/%: notice “Not found: There is no page at this address. The works.” at #/%; the title is no longer the piece’s
+ok    opened at #/not/a/real-page: notice “Not found: There is no page at this address. The works.” at #/not/a/real-page
+ok    from a piece to #/not/a/real-page: notice “Not found: There is no page at this address. The works.” at #/not/a/real-page; the title is no longer the piece’s
+ok    opened at #/%E0%A4%A: notice “Not found: There is no page at this address. The works.” at #/%E0%A4%A
+ok    from a piece to #/%E0%A4%A: notice “Not found: There is no page at this address. The works.” at #/%E0%A4%A; the title is no longer the piece’s
+ok    opened at #/hamlet/%: notice “Not found: There is no page at this address. The works.” at #/hamlet/%
+ok    from a piece to #/hamlet/%: notice “Not found: There is no page at this address. The works.” at #/hamlet/%; the title is no longer the piece’s
+ok    opened at #/a/b/c/d: notice “Not found: There is no page at this address. The works.” at #/a/b/c/d
+ok    from a piece to #/a/b/c/d: notice “Not found: There is no page at this address. The works.” at #/a/b/c/d; the title is no longer the piece’s
+ok    opened at #/read: notice “Not found: There is no page at this address. The works.” at #/read
+ok    from a piece to #/read: notice “Not found: There is no page at this address. The works.” at #/read; the title is no longer the piece’s
+ok    Back from an address that names no page: piece:hamlet at #/hamlet
+ok    Forward to it again: notice “Not found: There is no page at this address. The works.” at #/not/a/real-page
+ok    the notice’s link: home at #/
+ok    a piece that is not there: notice “Not found: There is no page at this address. The works.” at #/no-such-piece
+ok    a book that is not there: notice “The shelf: There is no such book or part on this shelf. The shelf.” at #/read/no-such-book
+ok    a part that is not in its book: notice “The shelf: There is no such book or part on this shelf. The shelf.” at #/read/dante-temple/no-such-part
+ok    2, no error left uncaught: none
+ok    a piece whose request is dropped: the reader is told: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/hamlet
+ok    a piece whose request is dropped: trying while it still fails: notice “Not loaded: It still could not be loaded. Try again.” [button] at #/hamlet
+ok    a piece whose request is dropped: trying again brings the page: piece:hamlet at #/hamlet
+ok    a piece the server cannot give (503): the reader is told: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/hamlet
+ok    a piece the server cannot give (503): trying while it still fails: notice “Not loaded: It still could not be loaded. Try again.” [button] at #/hamlet
+ok    a piece the server cannot give (503): trying again brings the page: piece:hamlet at #/hamlet
+ok    a piece whose data is spoiled: the reader is told: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/hamlet
+ok    a piece whose data is spoiled: trying while it still fails: notice “Not loaded: It still could not be loaded. Try again.” [button] at #/hamlet
+ok    a piece whose data is spoiled: trying again brings the page: piece:hamlet at #/hamlet
+ok    a piece whose own script is dropped: the reader is told: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/tempest
+ok    a piece whose own script is dropped: trying while it still fails: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/tempest
+ok    a piece whose own script is dropped: trying again brings the page: piece:tempest at #/tempest
+ok    the script of a page dropped (about): the reader is told: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/about
+ok    the script of a page dropped (about): trying while it still fails: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/about
+ok    the script of a page dropped (about): trying again brings the page: about at #/about
+ok    the shelf’s list dropped: the reader is told: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/shelf
+ok    the shelf’s list dropped: trying while it still fails: notice “Not loaded: It still could not be loaded. Try again.” [button] at #/shelf
+ok    the shelf’s list dropped: trying again brings the page: shelf at #/shelf
+ok    a book whose contents the server cannot give (500): the reader is told: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/read/dante-temple
+ok    a book whose contents the server cannot give (500): trying while it still fails: notice “Not loaded: It still could not be loaded. Try again.” [button] at #/read/dante-temple
+ok    a book whose contents the server cannot give (500): trying again brings the page: book-page at #/read/dante-temple
+ok    a part of a book whose request is dropped: the reader is told: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/read/dante-temple/inf-01
+ok    a part of a book whose request is dropped: trying while it still fails: notice “Not loaded: It still could not be loaded. Try again.” [button] at #/read/dante-temple/inf-01
+ok    a part of a book whose request is dropped: trying again brings the page: part-page at #/read/dante-temple/inf-01
+ok    the front page’s data dropped as the site opens: notice “Not loaded: This page could not be loaded. Try again.” [button] at #/
+ok    trying again brings the front page: home at #/
+ok    3, no error left uncaught: none
+57 checks, 0 failed
+exit 0

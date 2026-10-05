@@ -3,7 +3,7 @@
 // printed come from data/shelf.json, which build/shelf.mjs writes.
 
 import { el } from './kit/draw.js';
-import { getJSON } from './piece.js';
+import { getJSON, absent } from './piece.js';
 import { player } from './kit/player.js';
 import { rich, para } from './rich.js';
 
@@ -110,28 +110,24 @@ function list(shelf, kind) {
 
 export async function renderShelf(main, site = {}) {
   const shelf = await getJSON('data/shelf.json');
-  document.title = titled(site, shelf.title);
   const page = el('article', { class: 'shelf' }, [
     head(shelf.kicker, shelf.title, shelf.where),
     bookcase(shelf),
     el('section', { class: 'home-intro' }, shelf.intro.map((t) => para(t))),
     ...['required', 'opera', 'critical'].map((kind) => list(shelf, kind)),
   ]);
-  main.replaceChildren(page);
+  main.show(page, titled(site, shelf.title));
 }
 
 // ---------- a book ----------
 
-const indexOf = (text) => getJSON(`data/texts/${text}/index.json`);
+// A book's contents, or null where there is no such book. The book's name is the address's own, so here a file
+// the server does not have is a book that is not there. A book that is there and did not come is another
+// matter: the router says of any page that it did not load, and offers to try again.
+const indexOf = (text) => getJSON(`data/texts/${text}/index.json`).catch((e) => { if (absent(e) || e.status === 404) return null; throw e; });
 
-function missing(main, shelf, site, why) {
-  // a book that is on the shelf and did not arrive is another matter from a book that is not there
-  if (why && !/: 404$|not in the book/.test(String(why.message || why))) {
-    main.replaceChildren(el('div', { class: 'sec' }, [el('h2', { text: shelf.title }), el('p', {}, [`${shelf.read.failed || 'The book could not be loaded.'} `, el('a', { href: '#/shelf', text: shelf.read.back }), '.'])]));
-    return undefined;
-  }
-  document.title = titled(site, shelf.title);
-  main.replaceChildren(el('div', { class: 'sec' }, [el('h2', { text: shelf.title }), el('p', {}, [`${shelf.read.missing} `, el('a', { href: '#/shelf', text: shelf.read.back }), '.'])]));
+function missing(main, shelf, site) {
+  main.show(el('div', { class: 'sec' }, [el('h2', { text: shelf.title }), el('p', {}, [`${shelf.read.missing} `, el('a', { href: '#/shelf', text: shelf.read.back.replace(/ /g, '\u00a0') }), '.'])]), titled(site, shelf.title));
 }
 
 // the other versions of a book printed here: Dante in three, Horace and Rimbaud each with the original
@@ -152,10 +148,9 @@ const pagesOf = (p) => { const n = p.pages ? Math.max(1, Math.round(p.pages)) : 
 
 export async function renderBook(main, site, text) {
   const shelf = await getJSON('data/shelf.json');
-  let index;
-  try { index = await indexOf(text); } catch (e) { return missing(main, shelf, site, e); }
+  const index = await indexOf(text);
+  if (!index) return missing(main, shelf, site);
   const title = index.title || shelf.read.contents;
-  document.title = titled(site, title);
   const own = shelf.texts[text];
   const work = own && shelf.works.find((w) => w.id === own.work);
 
@@ -188,7 +183,7 @@ export async function renderBook(main, site, text) {
   }
   page.append(toc);
   page.append(el('p', { class: 'read-back' }, [el('a', { href: '#/shelf', text: shelf.read.back })]));
-  main.replaceChildren(page);
+  main.show(page, titled(site, title));
 }
 
 // ---------- a part of a book ----------
@@ -215,12 +210,13 @@ function setBlocks(part, index) {
 
 export async function renderPart(main, site, text, partId, block) {
   const shelf = await getJSON('data/shelf.json');
-  let index; let part;
-  try { index = await indexOf(text); part = await getJSON(`data/texts/${text}/${partId}.json`); } catch (e) { return missing(main, shelf, site, e); }
-  const at = index.parts.findIndex((p) => p.id === partId);
-  const meta = index.parts[at] || {};
+  const index = await indexOf(text);
+  // (a part the book's contents do not list is not asked for: the contents themselves are no part, for one)
+  const at = index ? index.parts.findIndex((p) => p.id === partId) : -1;
+  if (at < 0) return missing(main, shelf, site);
+  const part = await getJSON(`data/texts/${text}/${partId}.json`);
+  const meta = index.parts[at];
   const label = part.label || meta.label || '';
-  document.title = titled(site, label, index.title);
 
   const page = el('article', { class: 'part-page' });
   const kicker = index.title ? [index.author ? `${index.author}\u00a0· ` : '', el('a', { href: `#/read/${text}`, text: index.title })] : null;
@@ -244,7 +240,7 @@ export async function renderPart(main, site, text, partId, block) {
   const turn = (p, word, cls) => (p ? el('a', { class: cls, href: `#/read/${text}/${p.id}` }, [el('span', { class: 'lab', text: word }), el('b', { text: p.label })]) : el('span', { class: cls }));
   page.append(el('nav', { class: 'read-turn', 'aria-label': index.title || shelf.read.contents }, [turn(prev, shelf.read.prev, 'turn-prev'), turn(next, shelf.read.next, 'turn-next')]));
   page.append(el('p', { class: 'read-back' }, [el('a', { href: `#/read/${text}`, text: index.title ? `${shelf.read.contents}: ${index.title}` : shelf.read.contents }), el('a', { href: '#/shelf', text: shelf.read.back })]));
-  main.replaceChildren(page);
+  main.show(page, titled(site, label, index.title));
 
   // open at the passage asked for: the router asks for this once the page stands at its top (and not when the
   // reader is coming back to a place they left)

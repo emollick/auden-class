@@ -31,6 +31,7 @@
     ! -path '*/__pycache__/*'
   find review/remake/grams review/class -maxdepth 1 -type f \( -name '*.txt' -o -name '*.json' \)
   find review/phone/measures -type f -name '*.txt'
+  find review/router -maxdepth 1 -type f -name '*.txt'
 
   # the first version, as kept
   find first-version -type f

@@ -403,6 +403,24 @@ From the reader who finished the look at the phone
   under the last plate on a phone. That changes the order of a page he
   has approved.
 
+## From the mending of the router (5 October), for a later pass
+
+Each is set out in `review/router/RECORD.md`, under "Left as it is".
+
+- A request that never answers has no time limit: the page before
+  stays up, its plates taken down, until the browser gives up.
+- A piece whose own script can never be had says "Not loaded" and
+  cannot be mended by trying again.
+- The first piece of a visit waits for the list of the pieces as well
+  as its own file. The piece could be shown when its own file comes,
+  and the list asked only when it does not.
+- The reader's notice for a book that is not on the shelf is not an
+  alert, and is headed "The shelf" where the router says "Not found".
+- A book's row of other versions is left out, with no word, where
+  another version's contents fail to load.
+- Nothing tells a reader that a page is on its way, and nothing tells
+  a screen reader that a page has come by a link.
+
 ## Refused by the permission system: undone until the owner says
 
 See the lead's memory file on refusals. The owner said yes on 4

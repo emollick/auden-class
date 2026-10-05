@@ -11,11 +11,20 @@ const cache = new Map();
 const shipped = (typeof window !== 'undefined' && window.AUDEN_DATA) || {};
 // a private preview keeps each book in one file: data/texts/<id>.pack.json holds { index, <part>, ... }
 const packed = typeof window !== 'undefined' && !!window.AUDEN_PACKED;
+// What is thrown for a page that is not there: a piece that is not on the list of the pieces, a part that is not
+// in its book. Any other failure is of the loading (the connection, the server, a file that came spoiled) and
+// may pass, so the router tells the two apart.
+export const none = (what) => Object.assign(new Error(what), { absent: true });
+export const absent = (e) => !!(e && e.absent);
+// (A file that did not come is forgotten, so that it can be asked for again, and its failure is marked `data`:
+// the router offers the reader another try, and a file of data can be had again where the reader stands. The
+// failure also carries the server's answer, `status`. That a file is not there, 404, makes no page missing by
+// itself: only the script that asked knows whether the name was the address's own.)
 export function getJSON(url) {
   if (!cache.has(url)) {
     const m = packed && !shipped[url] && url.match(/^data\/texts\/([\w-]+)\/([\w-]+)\.json$/);
-    if (m) cache.set(url, getJSON(`data/texts/${m[1]}.pack.json`).then((pack) => { if (!pack[m[2]]) throw new Error(`${url}: not in the book`); return pack[m[2]]; }));
-    else cache.set(url, shipped[url] ? Promise.resolve(shipped[url]) : fetch(url).then((r) => { if (!r.ok) throw new Error(`${url}: ${r.status}`); return r.json(); }));
+    if (m) cache.set(url, getJSON(`data/texts/${m[1]}.pack.json`).then((pack) => { if (!pack[m[2]]) throw none(`${url}: not in the book`); return pack[m[2]]; }));
+    else cache.set(url, shipped[url] ? Promise.resolve(shipped[url]) : fetch(url).then((r) => { if (!r.ok) throw Object.assign(new Error(`${url}: ${r.status}`), { status: r.status }); return r.json(); }).catch((e) => { throw Object.assign(e, { data: true }); }));
     cache.get(url).catch(() => cache.delete(url));
   }
   return cache.get(url);
@@ -50,12 +59,23 @@ function said(a, cls = 'said') {
 const GROUND = { plate: 'the marks on the passage', text: 'the lines themselves', source: 'the sources named above', auden: 'Auden, as cited above' };
 const NO_VIEW = 'Nothing that Auden wrote or said about this work was found for this site.';
 
+// (Like every page's script, this one draws off the document and then shows its page with its title, `main.show`:
+// the router puts them before the reader there and then, if the page is still the one asked for. See go() in main.js.)
 export async function renderPiece(main, id, site = {}, at = null) {
-  const piece = await getJSON(`data/pieces/${id}.json`);
-  let mod = null;
-  if (piece.module) { try { mod = (await import(`./pieces/${id}.js`)).default; } catch (e) { console.warn(e); } }
+  // The piece is asked for at once, and the list of the pieces says whether there is one of that name. So an
+  // address that names no piece is told from a piece that did not come, however the server answers for a file
+  // it does not have. (A preview of one piece names it itself and carries no list.)
+  const coming = getJSON(`data/pieces/${id}.json`);
+  coming.catch(() => { /* told below */ });
+  if (!site.only) {
+    const list = await getJSON('data/pieces/index.json');
+    if (!Array.isArray(list) || !list.some((p) => p.id === id)) throw none(`${id}: not on the list of the pieces`);
+  }
+  const piece = await coming;
+  if (!piece || !Array.isArray(piece.plates)) throw none(`data/pieces/${id}.json: not a piece`);
+  // (a piece's own script draws some of its tabs: where it does not come, the page has not loaded)
+  const mod = piece.module ? (await import(`./pieces/${id}.js`)).default : null;
   if (piece.style && !document.querySelector(`link[data-piece="${id}"]`)) document.head.append(el('link', { rel: 'stylesheet', href: `css/pieces/${id}.css`, 'data-piece': id }));
-  document.title = `${piece.title} · ${site.name || ''}`.replace(/ · $/, '');
 
   const page = el('article', { class: 'piece', 'data-piece': id });
   page.append(el('header', { class: 'piece-hd' }, [
@@ -167,7 +187,7 @@ export async function renderPiece(main, id, site = {}, at = null) {
   ]));
 
   if (mod && mod.after) mod.after(page, piece, mounted);
-  main.replaceChildren(page);
+  main.show(page, `${piece.title} · ${site.name || ''}`.replace(/ · $/, ''));
   const leave = () => mounted.forEach((m) => m.destroy());
   if (after) leave.after = after;
   return leave;

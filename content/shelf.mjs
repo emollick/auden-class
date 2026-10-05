@@ -67,6 +67,5 @@ export default {
     prev: 'Previous',
     next: 'Next',
     missing: 'There is no such book or part on this shelf.',
-    failed: 'The book could not be loaded. Try again in a moment.',
   },
 };

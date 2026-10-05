@@ -126,6 +126,8 @@ if (siteDir) {
   const index = json('data/pieces/index.json');
   const data = {};
   for (const f of ['data/front.json', 'data/shelf.json', 'data/about.json', 'data/class.json']) data[f] = json(f);
+  // (the list of the pieces: a piece's page asks it whether there is a piece of the name in the address)
+  data['data/pieces/index.json'] = index;
   const own = [];
   for (const row of index) {
     const piece = json(`data/pieces/${row.id}.json`);

@@ -1,0 +1,52 @@
+the site in site
+FAIL  a slow piece, then a second piece: asked for tempest, then hamlet: piece:tempest at #/hamlet; the title is not the second page’s
+FAIL  a slow piece, then the shelf: asked for tempest, then shelf: piece:tempest at #/shelf; the title is not the second page’s
+FAIL  a slow piece that fails in the end, then a second piece: asked for tempest, then hamlet: notice “Not found: There is no page at this address. The works.” at #/hamlet; the title is the second page’s
+FAIL  a slow piece that is not there, then a second piece: asked for no-such-piece, then hamlet: notice “Not found: There is no page at this address. The works.” at #/hamlet; the title is the second page’s
+FAIL  a slow script (the shelf’s), then a piece: asked for shelf, then hamlet: shelf at #/hamlet; the title is not the second page’s
+FAIL  a slow script of a piece’s own, then a second piece: asked for tempest, then hamlet: piece:tempest at #/hamlet; the title is not the second page’s
+FAIL  three pieces, the first two slow: asked for tempest, phedre, hamlet: piece:tempest at #/hamlet
+ok    a slow piece, then Back: asked for tempest, then went back: home at #/
+FAIL  a slow part of a book, then a piece: asked for read/dante-temple/inf-01, then hamlet: part-page at #/hamlet; the title is not the second page’s
+FAIL  a slow part of a book that fails in the end, then a piece: asked for read/dante-temple/inf-01, then hamlet: notice “The shelf: The book could not be loaded. Try again in a moment. The shelf.” at #/hamlet; the title is the second page’s
+ok    1, no error left uncaught: none
+FAIL  opened at #/%: blank at #/%
+FAIL  from a piece to #/%: piece:hamlet at #/%; the title is still the piece’s
+FAIL  opened at #/not/a/real-page: blank at #/not/a/real-page
+FAIL  from a piece to #/not/a/real-page: piece:hamlet at #/not/a/real-page; the title is still the piece’s
+FAIL  opened at #/%E0%A4%A: blank at #/%E0%A4%A
+FAIL  from a piece to #/%E0%A4%A: piece:hamlet at #/%E0%A4%A; the title is still the piece’s
+FAIL  opened at #/hamlet/%: blank at #/hamlet/%
+FAIL  from a piece to #/hamlet/%: piece:hamlet at #/hamlet/%; the title is still the piece’s
+FAIL  opened at #/a/b/c/d: blank at #/a/b/c/d
+FAIL  from a piece to #/a/b/c/d: piece:hamlet at #/a/b/c/d; the title is still the piece’s
+ok    opened at #/read: notice “Not found: There is no page at this address. The works.” at #/read
+FAIL  from a piece to #/read: notice “Not found: There is no page at this address. The works.” at #/read; the title is still the piece’s
+ok    Back from an address that names no page: piece:hamlet at #/hamlet
+FAIL  Forward to it again: piece:hamlet at #/not/a/real-page
+FAIL  the notice’s link: piece:hamlet at #/not/a/real-page
+ok    a piece that is not there: notice “Not found: There is no page at this address. The works.” at #/no-such-piece
+ok    a book that is not there: notice “The shelf: There is no such book or part on this shelf. The shelf.” at #/read/no-such-book
+ok    a part that is not in its book: notice “The shelf: There is no such book or part on this shelf. The shelf.” at #/read/dante-temple/no-such-part
+FAIL  2, no error left uncaught: URIError: URI malformed | URIError: URI malformed | URIError: URI malformed | URIError: URI malformed | URIError: URI malformed | URIError: URI malformed | URIError: URI malformed | URIError: URI malformed | URIError: URI malformed
+FAIL  a piece whose request is dropped: the reader is told: notice “Not found: There is no page at this address. The works.” at #/hamlet
+FAIL  a piece whose request is dropped: trying again brings the page: notice “Not found: There is no page at this address. The works.” at #/hamlet
+FAIL  a piece the server cannot give (503): the reader is told: notice “Not found: There is no page at this address. The works.” at #/hamlet
+FAIL  a piece the server cannot give (503): trying again brings the page: notice “Not found: There is no page at this address. The works.” at #/hamlet
+FAIL  a piece whose data is spoiled: the reader is told: notice “Not found: There is no page at this address. The works.” at #/hamlet
+FAIL  a piece whose data is spoiled: trying again brings the page: notice “Not found: There is no page at this address. The works.” at #/hamlet
+FAIL  a piece whose own script is dropped: the reader is told: piece:tempest at #/tempest
+ok    a piece whose own script is dropped: trying again brings the page: piece:tempest at #/tempest
+FAIL  the script of a page dropped (about): the reader is told: notice “Not found: There is no page at this address. The works.” at #/about
+FAIL  the script of a page dropped (about): trying again brings the page: notice “Not found: There is no page at this address. The works.” at #/about
+FAIL  the shelf’s list dropped: the reader is told: notice “Not found: There is no page at this address. The works.” at #/shelf
+FAIL  the shelf’s list dropped: trying again brings the page: notice “Not found: There is no page at this address. The works.” at #/shelf
+FAIL  a book whose contents the server cannot give (500): the reader is told: notice “The shelf: The book could not be loaded. Try again in a moment. The shelf.” at #/read/dante-temple
+FAIL  a book whose contents the server cannot give (500): trying again brings the page: notice “The shelf: The book could not be loaded. Try again in a moment. The shelf.” at #/read/dante-temple
+FAIL  a part of a book whose request is dropped: the reader is told: notice “The shelf: The book could not be loaded. Try again in a moment. The shelf.” at #/read/dante-temple/inf-01
+FAIL  a part of a book whose request is dropped: trying again brings the page: notice “The shelf: The book could not be loaded. Try again in a moment. The shelf.” at #/read/dante-temple/inf-01
+FAIL  the front page’s data dropped as the site opens: notice “Not found: There is no page at this address. The works.” at #/
+FAIL  trying again brings the front page: notice “Not found: There is no page at this address. The works.” at #/
+ok    3, no error left uncaught: none
+49 checks, 40 failed
+exit 1

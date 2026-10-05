@@ -210,7 +210,6 @@ function scene(s, ctx) {
 
 export async function renderClass(main, site = {}, at = null) {
   const page = await getJSON('data/class.json');
-  document.title = [page.title, site.name].filter(Boolean).join(' · ');
   const ctx = { mounted: [], stops: [], contents: page.contents, before: null };
   // small scenes that follow one another stand side by side
   const laid = [];
@@ -254,7 +253,8 @@ export async function renderClass(main, site = {}, at = null) {
     return !!node;
   };
   root.addEventListener('click', (e) => {
-    if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    // (once the reader has asked for another page this one takes no step of its own: its links are followed)
+    if (main.left || e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
     // the way back from an afternoon: the list is opened and come to, and the page is not drawn again
     const up = e.target && e.target.closest ? e.target.closest('a.scene-up') : null;
     if (up) {
@@ -280,7 +280,7 @@ export async function renderClass(main, site = {}, at = null) {
     come(id, true);
   });
 
-  main.replaceChildren(root);
+  main.show(root, [page.title, site.name].filter(Boolean).join(' · '));
   const leave = () => { ctx.mounted.forEach((m) => m.destroy()); ctx.stops.forEach((stop) => stop()); if (roomy && roomy.removeEventListener) roomy.removeEventListener('change', setToc); };
   // (the router scrolls a new page to its top and then calls this)
   leave.after = () => {
