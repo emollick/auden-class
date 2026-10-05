@@ -1,0 +1,44 @@
+{
+ "id": "o-magic-flute",
+ "original": true,
+ "lang": "de",
+ "parts": [
+  {
+   "id": "queen",
+   "label": "Schikaneder, Die Zauberflöte, Act 2, Scene 8: the Queen of the Night’s aria",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from the libretto printed in Vienna in 1791",
+    "url": "http://www.zeno.org/Literatur/M/Schikaneder,+Johann+Emanuel/Libretto/Die+Zauberfl%C3%B6te"
+   },
+   "file": "mozart_zauberfloete_de_zeno.txt",
+   "lines": "2212-2226",
+   "words": 53
+  },
+  {
+   "id": "trial",
+   "label": "Schikaneder, Die Zauberflöte, Act 2, Scene 3: the spoken dialogue before the trials",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from the libretto printed in Vienna in 1791",
+    "url": "http://www.zeno.org/Literatur/M/Schikaneder,+Johann+Emanuel/Libretto/Die+Zauberfl%C3%B6te"
+   },
+   "file": "mozart_zauberfloete_de_zeno.txt",
+   "lines": "1813-1881",
+   "words": 371
+  },
+  {
+   "id": "weddings",
+   "label": "Schikaneder, Die Zauberflöte, Act 2, Scenes 29 and 30",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from the libretto printed in Vienna in 1791",
+    "url": "http://www.zeno.org/Literatur/M/Schikaneder,+Johann+Emanuel/Libretto/Die+Zauberfl%C3%B6te"
+   },
+   "file": "mozart_zauberfloete_de_zeno.txt",
+   "lines": "3433-3433,3437-3437,3441-3441,3445-3445,3552-3558",
+   "left": [4],
+   "words": 47
+  }
+ ]
+}

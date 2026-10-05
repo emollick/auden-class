@@ -1,0 +1,22 @@
+adams-page-1280-3  1280x1400  3.56%  box x 300..979 y 807..1399  left 43155 right 20564
+adams-page-1280-4  1280x473 -> 1280x447  SIZE  7.00%  box x 30..1249 y 0..426  left 28519 right 11508
+agamemnon-yoke-2-rhyme-1280  1180x877  none above the threshold
+agamemnon-yoke-3-word-1280  1180x877  none above the threshold
+antigone-page-1280-3  1280x1400  2.27%  box x 300..979 y 1021..1399  left 25377 right 15236
+antigone-page-1280-4  1280x966 -> 1280x972  SIZE  10.49%  box x 30..1249 y 0..925  left 92093 right 37631
+dante-purgatorio-garden-1-figure-1280  1180x1224  none above the threshold
+don-giovanni-close-2-rhyme-1280  1180x949  0.00%  box x 380..388 y 154..159  left 10 right 0
+horace-page-1280-4  1280x1400  7.72%  box x 300..979 y 428..1399  left 89219 right 49206
+horace-page-1280-5  1280x470 -> 1280x476  SIZE  6.73%  box x 30..1249 y 0..429  left 30386 right 10123
+karamazov-page-1280-3  1280x1400  3.53%  box x 300..979 y 829..1395  left 42547 right 20681
+karamazov-page-1280-4  1280x473 -> 1280x447  SIZE  6.77%  box x 30..1249 y 3..427  left 26712 right 12051
+moby-dick-page-1280-3  1280x1400  2.16%  box x 300..979 y 1022..1399  left 25151 right 13606
+moby-dick-page-1280-4  1280x758 -> 1280x764  SIZE  8.90%  box x 30..1249 y 0..717  left 61270 right 25065
+orpheus-song-0-rhyme-1280  1180x949  none above the threshold
+orpheus-terms-0-word-1280  1180x879  none above the threshold
+pascal-page-1280-4  1280x1400  8.02%  box x 299..979 y 279..1328  left 99225 right 44413
+pascal-page-1280-5  1280x149 -> 1280x155  SIZE  4.52%  box x 30..1249 y 65..109  left 5900 right 2713
+rimbaud-page-1280-4  1280x1400  2.18%  box x 300..979 y 1008..1399  left 26358 right 12748
+rimbaud-page-1280-5  1280x864 -> 1280x870  SIZE  9.85%  box x 30..1249 y 0..824  left 74432 right 34493
+traviata-cabaletta-1-rhyme-1280  1180x951  0.00%  box x 295..295 y 525..526  left 2 right 0
+volpone-close-2-word-1280  1180x991  none above the threshold

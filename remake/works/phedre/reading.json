@@ -1,0 +1,1196 @@
+{
+  "piece": "phedre",
+  "title": "Racine’s line",
+  "where": "*Phèdre*, Act 1, Scenes 1 and 3, and Act 2, Scene 5",
+  "about": "Thésée, king of Athens, has been gone over six months, and his wife Phèdre is dying of a sickness she will not name. In the first passage his son Hippolyte, leaving to seek him, is asked by his tutor Théramène what drives him away; he answers in three lines, and Théramène begins to reply. In the second Phèdre has let her nurse Œnone name Hippolyte, her stepson, and tells how her love began. In the third Thésée is reported dead; Hippolyte says he may live, and she answers.",
+  "view": {
+    "says": "For Auden French classical tragedy belongs with opera. Its verse is a different language from prose, kept far from ordinary speech, and he thought nobody could know *Phèdre* without hearing a great performance of it. The noble poetry Racine gives his sinner he called a conjuring trick: told by a journalist, her story would be a pathological case. He also admitted that his English ear heard the French line wrongly.",
+    "quote": "I must confess that French classical tragedy strikes me as being opera for the unmusical.",
+    "source": "“Writing” and “The Globe,” in *The Dyer’s Hand* (1962), pp. 25 and 176; “Un Homme d’Esprit,” in *Forewords and Afterwords* (1973), pp. 358–59",
+    "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 1544-1571 (p. 25, between the running heads of pp. 25 and 26) and 8303-8328 (p. 176, under its running head), and in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 17000-17044 (the page number stands at the foot of each page: 358 under the first page of the essay, and the admission that his hearing is wrong on the next, p. 359), on 2026-10-03; read again by the finisher at 12:40 UTC, when two phrases of the paragraph were reworded: dh.txt lines 1558-1563 (reading Racine to oneself, and the great performance without which the play cannot be known) and fa.txt lines 17020-17038 (his ear takes the French line for an English measure, and he says he knows that hearing is mistaken); the paragraph as it now stands shares no run of four words with either scan (build/tools/runs.py)"
+  },
+  "plates": [
+    {
+      "id": "names",
+      "heading": "Hippolyte, then Théramène",
+      "turn": {
+        "0.1": 4
+      },
+      "label": "Racine, 1677",
+      "text": "o-phedre/a1s1",
+            "stage": { "0.0": { "name": 0, "text": "HIPPOLYTE" }, "1.0": { "name": 0, "text": "THÉRAMÈNE" } },
+      "rows": [
+        "0.0-0.2",
+        "1.0-1.1"
+      ],
+      "pair": {
+        "label": "Boswell, 1890",
+        "text": "phedre/act-1",
+        "rows": [
+          "12.0-12.2",
+          "14.0-14.1",
+          "14.2[0-1]"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Count",
+          "meterName": "twelve counted syllables, cut after the sixth; an accent on the sixth and on the twelfth",
+          "scan": {
+            "0.0": {
+              "meter": "...../...../",
+              "voice": "x xx \\ x / | x x x\\ x /~",
+              "div": {
+                "7": "chan|gé",
+                "9": "fa|ce,"
+              }
+            },
+            "0.1": {
+              "meter": "...../...../",
+              "voice": "x\\ x x x / | x \\ x xx/"
+            },
+            "0.2": {
+              "meter": "...../...../",
+              "voice": "x \\x x x/ | x x xxx/"
+            },
+            "1.0": {
+              "meter": "...../...../",
+              "voice": "x\\ x x x/ | x \\x x x/~",
+              "div": {
+                "0": "J’en|tends :",
+                "5": "cau|se",
+                "7": "con|nu|e."
+              }
+            },
+            "1.1": {
+              "meter": "...../...../",
+              "voice": "\\~ x\\ x x/~ | x \\x xx /~",
+              "div": {
+                "0": "Phè|dre",
+                "3": "cha|gri|ne,",
+                "5": "bles|se",
+                "6": "vo|tre",
+                "7": "vu|e."
+              }
+            }
+          },
+          "caption": "French verse is measured by count. Each line here has twelve syllables, and the voice rests after the sixth, at the cut. A final <i>e</i> counts before a consonant, as in <b>fille</b>. It is dropped before a vowel, as in <b>Phèdre ici</b>, and left out at the end of a line. A history of French verse says only the sixth and twelfth syllables must carry an accent. Auden found verse measured by count hard for an English ear, but in Racine, he wrote, at least every line has twelve syllables. In the third line the cut falls between two names: Phèdre’s father ends the first half, her mother the second.",
+          "why": "The third line is twelve syllables of Phèdre’s parentage and nothing else, and the cut after the sixth sets her father in one half and her mother in the other.",
+          "points": [
+            {
+              "at": [
+                "0.0",
+                4,
+                4
+              ],
+              "say": "The cut. Here it is a full stop."
+            },
+            {
+              "at": [
+                "0.2",
+                1,
+                1
+              ],
+              "say": "The final *e* is counted, because a consonant follows."
+            },
+            {
+              "at": [
+                "0.2",
+                3,
+                3
+              ],
+              "say": "The cut falls after her father’s name. Her mother’s ends the line."
+            },
+            {
+              "at": [
+                "1.0",
+                0,
+                0
+              ],
+              "say": "Théramène answers from here. His first word means I understand."
+            },
+            {
+              "at": [
+                "1.1",
+                0,
+                1
+              ],
+              "say": "The final *e* of her name runs into the vowel of *ici*, here, and is not counted."
+            }
+          ],
+          "grounds": [
+            {
+              "claim": "each line has twelve counted syllables and a word ends on the sixth; which final e is counted and which is not; the cut in the third line falls between the two names",
+              "kind": "plate"
+            },
+            {
+              "claim": "French verse rests on a fixed number of syllables; the last sounded syllable of the line and the one before the cut must be stressed, and the place of the other accents is free",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), p. 1"
+            },
+            {
+              "claim": "a mute e at the end of the line is never counted (p. 4); inside the line it is dropped before a vowel, whatever stop stands between (p. 5), and counted before a consonant (p. 7, rule VI)",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 4, 5 and 7"
+            },
+            {
+              "claim": "the cut of the twelve-syllable line comes after the sixth syllable, which is accented and ends its word; the voice rests there",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 82 and 91"
+            },
+            {
+              "claim": "an English ear can hardly take in verse measured by the number of syllables alone; in Racine the lines at least all have twelve",
+              "kind": "auden",
+              "source": "“Two Bestiaries,” in The Dyer’s Hand (1962), p. 297"
+            },
+            {
+              "claim": "the first word of the fourth line means I understand",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under entendre, where j’entends is glossed je comprends bien"
+            }
+          ],
+          "stands": "The marks on the passage. L. E. Kastner, *A History of French Versification*, pp. 1 to 7, for the count, the two fixed accents and the mute *e*, and pp. 82 and 91 for the cut after the sixth syllable. Littré under *entendre*. Auden on verse measured by count: *The Dyer’s Hand*, p. 297."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "periphrasis",
+          "plain": "the long way round: a description put in the place of a name",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "0.2",
+              "w": [
+                0,
+                6
+              ],
+              "tag": "A",
+              "label": "the description"
+            },
+            {
+              "row": "1.1",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "B",
+              "label": "the name"
+            },
+            {
+              "row": "0.2",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "C",
+              "label": "her father"
+            },
+            {
+              "row": "0.2",
+              "w": [
+                6,
+                6
+              ],
+              "tag": "C",
+              "label": "her mother"
+            },
+            {
+              "row": "0.1",
+              "w": [
+                5,
+                8
+              ],
+              "tag": "D",
+              "label": "the gods sent"
+            }
+          ],
+          "caption": "Asked what drives him away, Hippolyte answers without the name <i>Phèdre</i>. He says whose daughter she is, and the description fills the third line: rhetoric calls this periphrasis. The play’s list of persons describes her in the same words. Théramène, in the last two lines, supplies the name. Later the play says what each parent was. In Act 1, Scene 3 Phèdre recalls the <i>égarements</i>, strayings, into which love threw her mother; in Act 4 she says her father Minos judges the dead. The verb before the names is <b>ont envoyé</b>: the gods sent her. Racine’s preface says her destiny and the anger of the gods draw her into her passion.",
+          "why": "The line names Phèdre by her parents, and the play later says what each was, a mother whom love led astray and a father who judges the dead; the sentence makes the gods the ones who sent her.",
+          "grounds": [
+            {
+              "claim": "Hippolyte’s three lines of answer do not hold her name (he has used it eight lines earlier, at line 26); the third line holds her two parents; the name is the first word of the fifth line, which is Théramène’s; the verb before the names has the gods as its subject",
+              "kind": "plate"
+            },
+            {
+              "claim": "periphrasis is the substitution of a descriptive word or phrase for a proper name",
+              "kind": "source",
+              "source": "Gideon O. Burton, Silva Rhetoricae (Brigham Young University), under periphrasis"
+            },
+            {
+              "claim": "the list of persons enters Phèdre as wife of Thésée, daughter of Minos and of Pasiphaé",
+              "kind": "source",
+              "source": "the list of persons at the head of the play in Œuvres de Jean Racine (Paris: Firmin-Didot, 1854), and the same in the edition of 1697 (Paris: Claude Barbin) as Théâtre classique prints it"
+            },
+            {
+              "claim": "Théramène has asked what danger or grief drives Hippolyte from Trézène",
+              "kind": "text",
+              "source": "Phèdre, Act 1, Scene 1, lines 29 to 33"
+            },
+            {
+              "claim": "Phèdre speaks of the strayings into which love threw her mother",
+              "kind": "text",
+              "source": "Phèdre, Act 1, Scene 3, lines 249 and 250; in Boswell, phedre/act-1, block 98"
+            },
+            {
+              "claim": "Phèdre says her father holds the urn below and that Minos judges the dead",
+              "kind": "text",
+              "source": "Phèdre, Act 4, Scene 6, lines 1277 to 1280; in Boswell, phedre/act-4, block 95"
+            },
+            {
+              "claim": "égarement is first the act of losing one’s way, then a disorder of the heart, and the dictionary quotes this line of Phèdre’s for it",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under égarement, senses 1 and 3"
+            },
+            {
+              "claim": "she is drawn by her destiny and by the anger of the gods into an unlawful passion",
+              "kind": "source",
+              "source": "Racine’s preface to Phèdre (1677), in Œuvres de Jean Racine (Paris: Firmin-Didot, 1854)"
+            }
+          ],
+          "stands": "The marks on the passage, and *Silva Rhetoricae* under *periphrasis*. The list of persons at the head of the play in the editions of 1697 and 1854. What the play says of her mother in [Act 1, Scene 3](#/read/phedre/act-1:98) and of her father in [Act 4, Scene 6](#/read/phedre/act-4:95). Littré under *égarement*, which quotes the line about her mother, and Racine’s preface to the play."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            {
+              "a": [
+                "0.1",
+                5,
+                8
+              ],
+              "b": [
+                "p:12.2",
+                0,
+                2
+              ],
+              "say": "Both keep the gods as the ones who sent her."
+            },
+            {
+              "a": [
+                "0.2",
+                0,
+                6
+              ],
+              "b": [
+                "p:12.2",
+                3,
+                3
+              ],
+              "say": "Twelve syllables of parentage become one name."
+            },
+            {
+              "a": [
+                "1.1",
+                0,
+                0
+              ],
+              "b": [
+                "p:14.1",
+                3,
+                6
+              ],
+              "say": "Racine’s tutor answers with her name. Boswell has used the name already, and his tutor gives her rank."
+            }
+          ],
+          "caption": "Boswell writes the unrhymed five-beat line of Elizabethan drama, and it is shorter than Racine’s. Hippolyte’s three lines have thirty-six counted syllables; Boswell’s version of them has nineteen. The line of two names becomes one word, <b>Phaedra</b>, and where Théramène says <i>Phèdre</i> Boswell writes <b>the queen</b>. Auden wrote that English verse never lets the ear forget everyday speech, and that French poetry takes pride in standing apart from it: the verse and the prose of French drama, he said, are two languages.",
+          "why": "Boswell’s shorter English line gives her plain name where Racine spends twelve syllables on her descent; Auden says English verse stays near everyday speech and French verse takes pride in its distance from it.",
+          "grounds": [
+            {
+              "claim": "which words answer which; thirty-six counted syllables in the three French lines and nineteen in Boswell’s; the line of two names is one word in the English",
+              "kind": "plate"
+            },
+            {
+              "claim": "the unrhymed five-stress line called blank verse is the line of nearly all the Elizabethan drama",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, part 3, on blank verse"
+            },
+            {
+              "claim": "the English have wanted the language of verse kept near that of talk; English verse never lets the ear forget everyday speech",
+              "kind": "auden",
+              "source": "“Writing,” in The Dyer’s Hand (1962), p. 24"
+            },
+            {
+              "claim": "French poetry takes pride in standing apart from ordinary speech; the verse and the prose of French drama are two languages",
+              "kind": "auden",
+              "source": "“Writing,” in The Dyer’s Hand (1962), p. 25"
+            }
+          ],
+          "stands": "The two versions as they stand side by side, and a count of their syllables. Paull F. Baum, *The Principles of English Versification*, chapter 4, on blank verse. Auden on English and French verse: *The Dyer’s Hand*, pp. 24–25."
+        }
+      ]
+    },
+    {
+      "id": "sight",
+      "heading": "Phèdre tells how it began",
+      "turn": {
+        "0.1": 2,
+        "0.4": 2
+      },
+      "label": "Racine, 1677",
+      "text": "o-phedre/a1s3",
+      "rows": [
+        "0.0-0.5"
+      ],
+      "pair": {
+        "label": "Boswell, 1890",
+        "text": "phedre/act-1",
+        "rows": [
+          "126.4-126.9",
+          "126.10[0-0]"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "asyndeton",
+          "plain": "clauses set side by side with no joining word between them",
+          "draw": "list",
+          "parts": [
+            {
+              "row": "0.0",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "A",
+              "label": "I saw him"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                3,
+                4
+              ],
+              "tag": "A",
+              "label": "I blushed"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                5,
+                6
+              ],
+              "tag": "A",
+              "label": "I turned pale"
+            },
+            {
+              "row": "0.3",
+              "w": [
+                5,
+                6
+              ],
+              "tag": "B",
+              "label": "and go cold"
+            },
+            {
+              "row": "0.3",
+              "w": [
+                7,
+                8
+              ],
+              "tag": "B",
+              "label": "and burn"
+            }
+          ],
+          "caption": "The first line holds three clauses with nothing to join them: I saw him, I blushed, I turned pale. The verbs are <b>vis</b>, <b>rougis</b>, <b>pâlis</b>, and each closes a group of three syllables. A handbook of rhetoric calls this asyndeton and says it often gives a hurried or vehement effect; its example is Caesar’s <i>I came, I saw, I conquered</i>. Three lines down Racine does the opposite. Her body goes cold and burns, <b>et transir et brûler</b>, and each verb has its own <i>et</i>, the French for “and.” Littré’s dictionary says <i>et</i> repeated gives a phrase more force. The play, Racine writes in his preface, shows the passions only to show the disorder they cause.",
+          "why": "Racine leaves out the joining words where the sight of him and two changes of her face are told, a figure a handbook says often gives a hurried or vehement effect; his preface says passion is shown for its disorder.",
+          "grounds": [
+            {
+              "claim": "the first line holds three clauses with no joining word, and each of the three verbs closes a group of three syllables; in the fourth line each of the two verbs has its own et",
+              "kind": "plate"
+            },
+            {
+              "claim": "asyndeton is the omission of conjunctions between clauses, often resulting in a hurried rhythm or vehement effect; the example is Caesar’s veni, vidi, vici",
+              "kind": "source",
+              "source": "Gideon O. Burton, Silva Rhetoricae (Brigham Young University), under asyndeton"
+            },
+            {
+              "claim": "the three verbs mean saw, blushed and turned pale; the two in the fourth line mean to be seized with cold and to be burning hot",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under voir (sense 1 and the conjugation), rougir (senses 3 and 6), pâlir (sense 1), transir (sense 3) and brûler (sense 11); voir, pâlir, transir and brûler quote these lines"
+            },
+            {
+              "claim": "et repeated gives the phrase more force",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under et, sense 4"
+            },
+            {
+              "claim": "the passions are put before the eyes in this play only to show all the disorder they cause",
+              "kind": "source",
+              "source": "Racine’s preface to Phèdre (1677), in Œuvres de Jean Racine (Paris: Firmin-Didot, 1854)"
+            }
+          ],
+          "stands": "The marks on the passage. *Silva Rhetoricae* under *asyndeton*. Littré under *voir*, *pâlir*, *transir* and *brûler*, which quote these lines, and under *et* for the force of the word repeated. Racine’s preface to the play."
+        },
+        {
+          "kind": "beat",
+          "label": "Halves",
+          "meterName": "twelve counted syllables, cut after the sixth; an accent on the sixth and on the twelfth",
+          "scan": {
+            "0.0": {
+              "meter": "...../...../",
+              "voice": "x x \\ x x/ | x x\\ x x /~",
+              "div": {
+                "9": "vu|e ;"
+              }
+            },
+            "0.1": {
+              "meter": "...../...../",
+              "voice": "x \\x xx/ | x x \\~ xx/~",
+              "div": {
+                "1": "trou|ble",
+                "5": "â|me",
+                "6": "é|per|du|e ;"
+              }
+            },
+            "0.2": {
+              "meter": "...../...../",
+              "voice": "x \\ x xx / | x x x\\ x/",
+              "div": {
+                "3": "voy|aient"
+              }
+            },
+            "0.3": {
+              "meter": "...../...../",
+              "voice": "x x\\ x x / | x x\\ x x/"
+            },
+            "0.4": {
+              "meter": "...../...../",
+              "voice": "x xx\\ x/ | x x \\ xx/~",
+              "div": {
+                "6": "re|dou|ta|bles,"
+              }
+            },
+            "0.5": {
+              "meter": "...../...../",
+              "voice": "x \\ xx x/ | x\\ xxx/~",
+              "div": {
+                "5": "i|né|vi|ta|bles !"
+              }
+            }
+          },
+          "caption": "Phèdre lists what happened at the sight of him: a blush, a pallor, trouble in her soul, sight gone, speech gone, her body cold and burning. In all six lines a phrase ends on the sixth syllable, where the measure asks the sense to pause. The third line gives one loss to each half; the first and fourth fall into four groups of three. Auden noted that French poets work to hold the pause to a few fixed places, and English poets to shift it. He wrote too that a journalist’s telling would show Phèdre for a pathological case, and that her poetry is a splendid robe over nakedness.",
+          "why": "Each thing that happened to her is fitted to a measured part of a line, with the sense pausing at the cut; Auden wrote that Racine’s poetry robes what a journalist would report as a pathological case.",
+          "points": [
+            {
+              "at": [
+                "0.0",
+                0,
+                6
+              ],
+              "say": "Three verbs. Each closes a group of three syllables."
+            },
+            {
+              "at": [
+                "0.2",
+                0,
+                8
+              ],
+              "say": "She loses her sight in the first half and her speech in the second."
+            },
+            {
+              "at": [
+                "0.3",
+                5,
+                8
+              ],
+              "say": "Both verbs in one half-line: to go cold and to burn."
+            },
+            {
+              "at": [
+                "0.5",
+                5,
+                5
+              ],
+              "say": "The word for unavoidable fills four of the six syllables of its half."
+            }
+          ],
+          "grounds": [
+            {
+              "claim": "a phrase ends on the sixth syllable of each of the six lines; the third line has one clause in each half; the first and fourth lines divide into four threes",
+              "kind": "plate"
+            },
+            {
+              "claim": "she blushed and paled, a trouble rose in her soul, her eyes no longer saw, she could not speak, her body went cold and burned",
+              "kind": "text",
+              "source": "Phèdre, Act 1, Scene 3, lines 273 to 276"
+            },
+            {
+              "claim": "the first six syllables of the line should make a sense of their own, so that the sense rests at the cut: a rule held binding by French poets until the nineteenth century",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 89–90"
+            },
+            {
+              "claim": "each half of the line divides again, into three and three, two and four, four and two; the inner accents are slight",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 91–92"
+            },
+            {
+              "claim": "the pause inside the line is a second difficulty for his ear: an English poet takes pains to change its place from line to line, a French poet to hold it to a few fixed places",
+              "kind": "auden",
+              "source": "“Un Homme d’Esprit,” in Forewords and Afterwords (1973), p. 359, the footnote"
+            },
+            {
+              "claim": "told by a journalist, the story of Phèdre shows at once a pathological case; her poetry is a splendid robe over nakedness and does not come from a noble nature",
+              "kind": "auden",
+              "source": "“The Globe,” in The Dyer’s Hand (1962), p. 176"
+            }
+          ],
+          "stands": "The marks on the passage, and what the lines say. L. E. Kastner, *A History of French Versification*, pp. 89 to 92, on the pause of sense at the cut and the divisions of each half. Auden on the pause: *Forewords and Afterwords*, p. 359, in a footnote. Auden on the journalist and the robe: *The Dyer’s Hand*, p. 176."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "0.3",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "to be seized with cold",
+              "note": "Littré’s dictionary quotes this line under this sense, to be seized with cold.",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under transir, sense 3"
+            },
+            {
+              "row": "0.3",
+              "w": [
+                8,
+                8
+              ],
+              "gloss": "to be burning hot",
+              "note": "Littré quotes this line here too.",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under brûler, sense 11"
+            },
+            {
+              "row": "0.4",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "recognized",
+              "note": "Littré: to call back to mind what one knows, or to know by some sign a thing never seen.",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under reconnaître, senses 1 and 2; neither sense quotes this line"
+            },
+            {
+              "row": "0.4",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "fires: the passion of love",
+              "note": "A poets’ word, says Littré, quoting this line.",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under feu, sense 42"
+            },
+            {
+              "row": "0.4",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "to be dreaded",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under redoutable"
+            },
+            {
+              "row": "0.5",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "blood: race, family",
+              "note": "The word comes 36 times in the verse of the play. Boswell writes *race* here.",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under sang, sense 8; counted in the French text of the play"
+            },
+            {
+              "row": "0.5",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "pursues, persecutes",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under poursuivre, senses 1 and 3"
+            },
+            {
+              "row": "0.5",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "that cannot be avoided",
+              "note": "Boswell’s English has no word for it.",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under inévitable"
+            }
+          ],
+          "caption": "The last two lines name the cause. <b>Reconnus</b> is <i>recognized</i>, known again or known by its signs: earlier in the scene Phèdre spoke of the hatred of Venus and of what love did to her mother and her sister. <b>Feux</b>, fires, is the poets’ word for the passion of love; the line before ends on <b>brûler</b>, to burn. <b>Sang</b>, blood, means race or family, and <b>poursuit</b> is pursues or persecutes: Venus’s fires are the unavoidable torments of a bloodline she pursues. Auden set this Venus against Euripides’ Aphrodite, who cares about fish and birds as much as about people. Racine’s, he wrote, cares nothing for animals or the lower orders.",
+          "why": "The words make her love the act of a goddess against a family: she recognizes Venus, whose fires are the unavoidable torments of a blood she pursues; Auden notes that Racine’s Venus cares nothing for the lower orders.",
+          "grounds": [
+            {
+              "claim": "the senses of reconnaître (to call back to mind what one knows; to know by some sign a thing never seen), feu, brûler, sang, poursuivre and inévitable; the entries for feu and brûler quote these lines",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under reconnaître (senses 1 and 2), feu (sense 42), brûler (sense 11), sang (sense 8), poursuivre (senses 1 and 3) and inévitable"
+            },
+            {
+              "claim": "earlier in the scene Phèdre speaks of the hatred of Venus, of her mother, of her sister Ariane, and of herself as the last of that blood",
+              "kind": "text",
+              "source": "Phèdre, Act 1, Scene 3, lines 249 to 258; in Boswell, phedre/act-1, blocks 98 to 106"
+            },
+            {
+              "claim": "she recognized Venus and her fires, which the next line calls the unavoidable torments of a blood the goddess pursues; the line before ends on the verb to burn",
+              "kind": "text",
+              "source": "Phèdre, Act 1, Scene 3, lines 276 to 278"
+            },
+            {
+              "claim": "the Aphrodite of Euripides cares about fish and birds as much as about people; the Venus of Racine cares nothing for animals or for the lower orders",
+              "kind": "auden",
+              "source": "“Writing,” in The Dyer’s Hand (1962), p. 25"
+            }
+          ],
+          "stands": "Littré under *reconnaître*, *feu*, *brûler*, *sang*, *poursuivre* and *inévitable*; the entries for *feu* and *brûler* quote these lines. What Phèdre has said of Venus, her mother and her sister earlier in [Act 1, Scene 3](#/read/phedre/act-1:98). Auden on the two goddesses: *The Dyer’s Hand*, p. 25."
+        }
+      ]
+    },
+    {
+      "id": "slip",
+      "heading": "Phèdre to Hippolyte",
+      "turn": {
+        "0.2": 3,
+        "0.3": 2,
+        "p:91.1": 2,
+        "p:91.4": 3
+      },
+      "label": "Racine, 1677",
+      "text": "o-phedre/a2s5",
+      "rows": [
+        "0.0-0.7"
+      ],
+      "pair": {
+        "label": "Boswell, 1890",
+        "text": "phedre/act-2",
+        "rows": [
+          "91.0-91.9"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Ear",
+          "meterName": "twelve counted syllables, cut after the sixth; an accent on the sixth and on the twelfth",
+          "scan": {
+            "0.0": {
+              "meter": "...../...../",
+              "voice": "x x x \\ x / | x x\\x x /",
+              "div": {
+                "7": "ri|va|ge"
+              }
+            },
+            "0.1": {
+              "meter": "...../...../",
+              "voice": "x\\ xx x/~ | x \\ x xx /",
+              "div": {
+                "0": "Sei|gneur :",
+                "1": "puis|que",
+                "2": "Thé|sé|e",
+                "6": "som|bres"
+              }
+            },
+            "0.2": {
+              "meter": "...../...../",
+              "voice": "x \\ x xx/ | x \\ x x x/~",
+              "div": {
+                "8": "ren|voi|e ;"
+              }
+            },
+            "0.3": {
+              "meter": "...../...../",
+              "voice": "x x\\~ xx/ | x xx \\ x /~",
+              "div": {
+                "1": "l’a|va|re",
+                "4": "lâ|che",
+                "7": "proi|e."
+              }
+            },
+            "0.4": {
+              "meter": "...../...../",
+              "voice": "x \\~ x x x / | xx x\\~ x /",
+              "div": {
+                "6": "puis|qu’il",
+                "7": "res|pi|re"
+              }
+            },
+            "0.5": {
+              "meter": "...../...../",
+              "voice": "x\\ xx x / | x x \\ x x/"
+            },
+            "0.6": {
+              "meter": "...../...../",
+              "voice": "x x \\ x x /~ | x x \\ x x/~",
+              "div": {
+                "8": "cœur…",
+                "10": "m’é|ga|re,"
+              }
+            },
+            "0.7": {
+              "meter": "...../...../",
+              "voice": "x\\ x x~ x/ | xx \\ x x/~",
+              "div": {
+                "0": "Sei|gneur ;",
+                "7": "dé|cla|re."
+              }
+            }
+          },
+          "caption": "Auden quotes the seventh line. It reminded him of the line on the Assyrian in Byron’s “The Destruction of Sennacherib”: an English ear, he wrote, hears most such lines as anapests, two off-beats then a beat, which the English associate with light verse. The line does fall into four threes, a stop after each: I see him; I speak to him; and my heart; I lose my way. A history of French verse calls threes the commonest division and speaks of the line’s pendulum-like swing. But only the accents on the sixth and twelfth syllables are fixed: four of the six lines before open with a group of two. Auden knew the rules and called his hearing wrong.",
+          "why": "The line Auden heard as Byron’s anapests does fall into four threes, each closed by a stop; but the measure fixes only the sixth and twelfth accents, and four of the six lines before it open with two.",
+          "points": [
+            {
+              "at": [
+                "0.1",
+                0,
+                0
+              ],
+              "say": "A group of two. The stress falls on the second syllable, where an anapest has no beat."
+            },
+            {
+              "at": [
+                "0.4",
+                1,
+                2
+              ],
+              "say": "The final *e* runs into the next vowel across the question mark and is not counted."
+            },
+            {
+              "at": [
+                "0.6",
+                0,
+                2
+              ],
+              "say": "Three syllables and a stop. The second passage here opens with the same clause in the past tense, I saw him, in a line that also falls into four threes."
+            },
+            {
+              "at": [
+                "0.6",
+                6,
+                8
+              ],
+              "say": "The sentence about her heart stops on the ninth syllable."
+            }
+          ],
+          "grounds": [
+            {
+              "claim": "the seventh line divides three, three, three and three, with a stop after each group; the second, third, fifth and sixth lines open with a group of two syllables",
+              "kind": "plate"
+            },
+            {
+              "claim": "an English ear takes most French twelve-syllable lines for anapaests, a measure that English poetry links with light verse; the seventh line here calls up Byron’s on the Assyrian",
+              "kind": "auden",
+              "source": "“Two Bestiaries,” in The Dyer’s Hand (1962), p. 297"
+            },
+            {
+              "claim": "he has the classical French rules by study and still hears as before; he says his hearing is all wrong",
+              "kind": "auden",
+              "source": "“Un Homme d’Esprit,” in Forewords and Afterwords (1973), pp. 358–59"
+            },
+            {
+              "claim": "a stanza printed there with Byron’s name and the title The Destruction of Sennacherib under it is the example of the four-stress anapestic line, and it opens with the line on the Assyrian that Auden gives, one article apart; an anapest is two unstressed syllables and a stress",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, part 1, the examples of the line, and the glossary under Anapest"
+            },
+            {
+              "claim": "each half of the line may divide three and three, two and four or four and two; three and three preponderates, and with it the pendulum-like swing to which the classical line owes its name for monotony; the inner accents are slight beside the one at the cut",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 91–92"
+            },
+            {
+              "claim": "only the last sounded syllable of the line and the one before the cut must be stressed; the place of the other accents is free",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), p. 1"
+            },
+            {
+              "claim": "the first line of the second passage (Act 1, Scene 3, line 273; her account there begins four lines earlier, at line 269) opens with the same clause in the past tense and also falls into four threes",
+              "kind": "plate",
+              "source": "the second passage, first line"
+            }
+          ],
+          "stands": "The marks on the passage. Auden on how the line sounds to him: *The Dyer’s Hand*, p. 297, and *Forewords and Afterwords*, pp. 358–59. L. E. Kastner, *A History of French Versification*, pp. 1 and 91–92, on the fixed accents and the free stresses. Paull F. Baum, *The Principles of English Versification*, chapter 4, where a stanza of Byron’s “The Destruction of Sennacherib” is the example of the anapestic line."
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "0.0": "a",
+            "0.1": "a",
+            "0.2": "b",
+            "0.3": "b",
+            "0.4": "c",
+            "0.5": "c",
+            "0.6": "d",
+            "0.7": "d"
+          },
+          "tails": {
+            "0.0": 4,
+            "0.1": 4,
+            "0.2": 3,
+            "0.3": 3,
+            "0.4": 3,
+            "0.5": 3,
+            "0.6": 3,
+            "0.7": 3
+          },
+          "caption": "The lines rhyme in pairs of two kinds. <b>Morts</b> and <b>bords</b> end on the accented syllable: a masculine rhyme. <b>Renvoie</b> and <b>proie</b> add a mute <i>e</i> after the accent, a feminine rhyme. The kinds alternate through all 827 couplets of the play. A history of French verse says the rule was urged when poems were meant to be sung, and kept after verse parted from music. Auden wrote that sound has always counted for much more in traditional French verse than in English. The third pair rhymes <b>en vous</b>, in you, the stepson, with <b>époux</b>, the husband; the last rhymes <b>m’égare</b>, I lose my way, with <b>se déclare</b>, shows itself.",
+          "why": "Racine keeps the alternation of masculine and feminine couplets, a rule a history of French verse traces to song; here the rhymes join the stepson with the husband, and I lose my way with shows itself.",
+          "grounds": [
+            {
+              "claim": "which lines rhyme; the first and third pairs end on the accented syllable and the second and fourth add a mute e; the words in rhyme",
+              "kind": "plate"
+            },
+            {
+              "claim": "a rhyme is masculine if the accented syllable is the last of the word, feminine if a mute e follows it",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), p. 39"
+            },
+            {
+              "claim": "by the rule of alternation a masculine rhyme may not be followed at once by a different masculine rhyme, nor a feminine by a different feminine; couplets are by turns masculine and feminine",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 63 and 67"
+            },
+            {
+              "claim": "Ronsard and Du Bellay recommended the rule because they still thought of poetry as meant to be sung, when the mute e of feminine endings was heard like any vowel; the rule has been kept although poetry has long been parted from song",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), p. 65"
+            },
+            {
+              "claim": "the kinds alternate through all 827 couplets of the play",
+              "kind": "source",
+              "source": "counted in the French text of the play (Firmin-Didot, 1854): 1,654 lines in 827 couplets, 414 feminine and 413 masculine, no two neighbors of the same kind"
+            },
+            {
+              "claim": "effects of sound have always mattered far more in traditional French verse than in English",
+              "kind": "auden",
+              "source": "“Writing,” in The Dyer’s Hand (1962), p. 24"
+            },
+            {
+              "claim": "vous is the stepson she speaks to and époux the husband she thinks she sees; s’égarer is to lose one’s way and se déclarer to be made manifest",
+              "kind": "source",
+              "source": "Phèdre, Act 2, Scene 5, lines 627 to 630; Émile Littré, Dictionnaire de la langue française (1873–74), under égarer (sense 7) and déclarer (sense 5, which quotes these lines)"
+            }
+          ],
+          "stands": "The marks on the passage, and a count of the couplets in the French text of the play. L. E. Kastner, *A History of French Versification*, pp. 39 and 63 to 67, on the two kinds of rhyme and the rule that they alternate. Auden on sound in French verse: *The Dyer’s Hand*, p. 24. Littré under *égarer* and *déclarer*."
+        },
+        {
+          "kind": "figure",
+          "label": "Break",
+          "name": "aposiopesis",
+          "plain": "a sentence broken off in the middle, with the rest left unsaid",
+          "draw": "chain",
+          "join": [
+            [
+              1,
+              2
+            ],
+            [
+              3,
+              4
+            ]
+          ],
+          "parts": [
+            {
+              "row": "0.6",
+              "w": [
+                6,
+                8
+              ],
+              "tag": "break",
+              "label": "broken off"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "see",
+              "label": "sees"
+            },
+            {
+              "row": "0.1",
+              "w": [
+                3,
+                4
+              ],
+              "tag": "see",
+              "label": "has seen"
+            },
+            {
+              "row": "0.5",
+              "w": [
+                5,
+                6
+              ],
+              "tag": "see",
+              "label": "think I see"
+            },
+            {
+              "row": "0.6",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "see",
+              "label": "I see him"
+            },
+            {
+              "row": "0.4",
+              "w": [
+                0,
+                1
+              ],
+              "tag": "turn",
+              "label": "she corrects herself"
+            },
+            {
+              "row": "0.6",
+              "w": [
+                9,
+                10
+              ],
+              "tag": "self",
+              "label": "losing my way"
+            }
+          ],
+          "caption": "The verb <i>voir</i>, to see, comes four times. No one sees the shore of the dead twice, and Thésée has seen it. <b>Que dis-je</b>, what am I saying: he is not dead, he breathes in his son. Then the seeing is hers: <b>je crois voir</b>, I think I see; <b>Je le vois</b>, I see him. A clause begins <i>and my heart</i> and stops: rhetoric calls this aposiopesis. Her next words are <b>Je m’égare</b>, I lose my way.",
+          "why": "Her sentence breaks off as she sees her husband in his son, and her next words say she is losing her way; a handbook of rhetoric says the figure usually shows a speaker overcome by emotion.",
+          "grounds": [
+            {
+              "claim": "the verb voir stands in the first, second, sixth and seventh lines; the clause about her heart is left unfinished, and the words after the dots are the verb for losing one’s way",
+              "kind": "plate"
+            },
+            {
+              "claim": "no one sees the shore of the dead twice; since Thésée has seen it no god will send him back; he is not dead, since he breathes in Hippolyte; she thinks she sees her husband; she sees him and speaks to him; she says she is losing her way",
+              "kind": "text",
+              "source": "Phèdre, Act 2, Scene 5, lines 623 to 629"
+            },
+            {
+              "claim": "respirer en quelqu’un is said of one in whom a person seems to live again; croire is to think, to imagine; s’égarer is first to lose one’s way",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under respirer (sense 2, which quotes this line), croire (sense 4) and égarer (sense 7; sense 8, to let the mind wander, fits as well)"
+            },
+            {
+              "claim": "aposiopesis is breaking off suddenly in the middle of speaking, usually to portray being overcome with emotion",
+              "kind": "source",
+              "source": "Gideon O. Burton, Silva Rhetoricae (Brigham Young University), under aposiopesis"
+            },
+            {
+              "claim": "the dots after the word for heart stand in the edition of 1697 as well as in that of 1854",
+              "kind": "source",
+              "source": "Phèdre (Paris: Claude Barbin, 1697), as Théâtre classique prints it, line 629"
+            }
+          ],
+          "stands": "The marks on the passage, and what the lines say. Littré under *respirer*, which quotes the fifth line, and under *croire* and *égarer*. *Silva Rhetoricae* under *aposiopesis*. The edition of 1697, which has the dots too."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            {
+              "a": [
+                "0.5",
+                4,
+                6
+              ],
+              "b": [
+                "p:91.6",
+                5,
+                8
+              ],
+              "say": "Racine’s doubt is about the seeing: I think I see. Boswell moves it to the speaking."
+            },
+            {
+              "a": [
+                "0.5",
+                7,
+                8
+              ],
+              "b": [
+                "p:91.5",
+                8,
+                8
+              ],
+              "say": "Racine ends the line on the word for husband. Boswell has only *him*."
+            },
+            {
+              "a": [
+                "0.6",
+                6,
+                8
+              ],
+              "b": [
+                "p:91.7",
+                0,
+                1
+              ],
+              "say": "The broken clause. Boswell ends it with a dash."
+            },
+            {
+              "a": [
+                "0.6",
+                9,
+                10
+              ],
+              "b": [
+                "p:91.8",
+                1,
+                3
+              ],
+              "say": "The French verb is first to lose one’s way, then to let the mind wander and to be no longer master of one’s reason. Boswell takes the last."
+            },
+            {
+              "a": [
+                "0.7",
+                4,
+                5
+              ],
+              "b": [
+                "p:91.8",
+                4,
+                7
+              ],
+              "say": "Against my will, says the French. Boswell’s phrase means whatever I do."
+            },
+            {
+              "a": [
+                "0.7",
+                1,
+                7
+              ],
+              "b": [
+                "p:91.9",
+                0,
+                4
+              ],
+              "say": "In French the passion is the subject and shows itself. In English she is the subject and cannot hide it."
+            }
+          ],
+          "caption": "The last two lines differ in who acts. In Racine the subject of the last verb is <b>ma folle ardeur</b>, my mad passion, and the verb is <b>se déclare</b>: Littré quotes this line under the sense <i>to be made manifest</i>. Boswell makes her the subject: <b>I cannot hide my passion</b>. Racine writes in his preface that she would rather die than declare her passion. In his line the passion declares itself, <b>malgré moi</b>, against her will, and Hippolyte, answering, takes it for love of Thésée.",
+          "why": "In Racine’s line the passion is the subject and declares itself against her will, as his preface says she would sooner die than declare it; Boswell makes her the subject.",
+          "grounds": [
+            {
+              "claim": "which words answer which; in the French the passion is the subject of the last verb and in the English she is",
+              "kind": "plate"
+            },
+            {
+              "claim": "se déclarer is to be made manifest, and the dictionary quotes these two lines for it; déclarer son amour is to make one’s love known in words",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under déclarer, senses 5 and 1"
+            },
+            {
+              "claim": "s’égarer is to lose one’s way (sense 7); then to let the mind wander, with the further gloss of being no longer master of one’s reason, and a line of Racine’s Mithridate in which a lover excuses himself by the verb (sense 8)",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under égarer, senses 7 and 8"
+            },
+            {
+              "claim": "ardeur is lively heat, then love, passion; fou is contrary to reason; malgré moi is against my will",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under ardeur (senses 1 and 4), fou (sense 6) and malgré (sense 1)"
+            },
+            {
+              "claim": "she would rather let herself die than declare her passion to anyone",
+              "kind": "source",
+              "source": "Racine’s preface to Phèdre (1677), in Œuvres de Jean Racine (Paris: Firmin-Didot, 1854)"
+            },
+            {
+              "claim": "Hippolyte answers that he sees the effect of her love: Thésée, dead as he is, is present to her eyes, and her soul still burns with love for him",
+              "kind": "text",
+              "source": "Phèdre, Act 2, Scene 5, lines 631 to 633; in Boswell, phedre/act-2, block 93"
+            }
+          ],
+          "stands": "The two versions as they stand side by side. Littré under *déclarer*, which quotes these lines, and under *égarer*, *ardeur*, *fou* and *malgré*. Racine’s preface to the play, and Hippolyte’s [answer](#/read/phedre/act-2:93), which follows the passage."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Auden calls it a heresy to want poetry to come as near to music as it can. The poets of France have been readier for it than the English, he says, perhaps because effects of sound have always counted for more in their verse. The English have wanted poetic speech kept near everyday talk, and French poetry has prided itself on standing apart. He cites from Valéry a report that the actress Rachel ranged over two octaves in reciting; an actress who treated Shakespeare so would be laughed at. Reading Racine to oneself, he says, is like studying an opera score with barely the skill to play or sing it.",
+      "source": "“Writing,” in *The Dyer’s Hand* (1962), pp. 24–25",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 1518-1563 (the paragraph on French poets and music stands above the running head of p. 25, so it is on p. 24; Rachel and the opera score are on p. 25), on 2026-10-03"
+    },
+    {
+      "says": "Reading the *Hippolytus* of Euripides, Auden says, he finds its world akin to Shakespeare’s, while Racine’s world, like opera’s, is another planet. The Greek Aphrodite cares about fish and birds as much as about people. Racine’s Venus cares nothing for animals, and nothing for the lower orders either. Nobody in Racine could be imagined sneezing: his world has no weather and no nature. So the passions that eat up his characters can live only on the stage, where the speech and gesture of the players give them a body. Opera works the same way, but a speaking voice cannot match a great singing voice with an orchestra behind it.",
+      "source": "“Writing,” in *The Dyer’s Hand* (1962), pp. 25–26",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 1569-1595, on 2026-10-03; the sentence on sneezing stands above the running head of p. 26, so it is on p. 25, and what follows from it is on p. 26"
+    },
+    {
+      "says": "Auden doubts that tragedy can fully succeed among Christians, who do not hold that whoever suffers must be guilty. A noble and innocent sufferer gives pathos, and there can be no noble sinner, since sin makes a person ignoble. Shakespeare and Racine both meet the difficulty by having the sinner speak noble poetry, and both must privately have known it for a conjuring trick. The stories of Oedipus and Hippolytus would stay as tragic in a journalist’s telling as in the Greek poets’. Let him tell Phèdre’s, and she is a pathological case. Her poetry does not come from a noble nature: it is a splendid robe over nakedness.",
+      "source": "“The Globe,” in *The Dyer’s Hand* (1962), p. 176",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 8303-8328 (under the running head of p. 176), on 2026-10-03"
+    },
+    {
+      "says": "Writing on Marianne Moore, Auden says an English ear can hardly take in verse that counts syllables and ignores accents and feet. The French twelve-syllable line is his example, and the line he quotes is the seventh of the third passage here: try as he may, it calls up Byron’s line on the Assyrian. In Racine, he adds, the lines at least all have twelve syllables.",
+      "quote": "our ear cannot help hearing most alexandrines as anapaestic verse which, in English poetry, we associate with light verse",
+      "source": "“Two Bestiaries,” in *The Dyer’s Hand* (1962), p. 297",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 14088-14098 (under the running head of p. 297, “Marianne Moore”), on 2026-10-03"
+    },
+    {
+      "says": "Introducing Valéry, Auden doubts that a Frenchman ever learns to hear English verse, and is sure the English never hear French verse rightly. He knows the classical rules as a student knows them, and his ear goes on as before: the French twelve-syllable line sounds to him like the anapests of Byron’s line on the Assyrian. He admits that this hearing is mistaken and reports it all the same. English, he adds, does not let anapests carry a tragic subject. He is convinced that an Englishman who goes to *Phèdre* at the Comédie Française, whatever his French and however he admires the players’ delivery, is bound to find Racine comic.",
+      "source": "“Un Homme d’Esprit,” in *Forewords and Afterwords* (1973), pp. 358–59",
+      "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 17000-17044, on 2026-10-03; the scan drops most punctuation, so nothing is quoted from it. His example of the rhythm there is a line of Baudelaire, not of Racine"
+    },
+    {
+      "says": "In a footnote on the same page Auden names a second difficulty for his ear, the pause inside the line. French poets, he says, take pains to hold it to a few fixed places, and English poets take as much trouble to shift it from one line to the next.",
+      "source": "“Un Homme d’Esprit,” in *Forewords and Afterwords* (1973), p. 359, footnote",
+      "checked": "read by the examiner in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 17074-17076 (the note stands at the foot of the page, just above the page number 359), on 2026-10-03; the scan has lost the mark that ties the note to its place in the text"
+    },
+    {
+      "says": "Two reports at second hand. In 1947, in talk that Alan Ansen wrote down, Auden rates Racine below his reputation. Charles Miller, who took the class of 1941 and shared Auden’s house that term, remembered forty years later that Auden disliked Racine. No account has been found of what Auden said about *Phèdre* in the class itself.",
+      "source": "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1990); Charles H. Miller, *Auden: An American Friendship* (1983), p. 149",
+      "checked": "not read by me: both are reported in remake/research/C_auden_on_works.md, section 12 and appendices H7 and H10, as verified there from search snippets of restricted copies at archive.org. The note gives no page for the Table Talk"
+    }
+  ],
+  "next": "phedre/act-1:0",
+  "sources": [
+    "The French text: Jean Racine, *Phèdre* (first performed in 1677), from *Œuvres de Jean Racine* (Paris: Firmin-Didot, 1854), as French Wikisource prints it: lines 34 to 38, 273 to 278 and 623 to 630, with Racine’s preface and the list of persons.",
+    "The English beside it: Jean Racine, *Phaedra*, translated into English verse by Robert Bruce Boswell (1890), as Project Gutenberg prints it (no. 1977).",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Writing,” pp. 24–26; “The Globe,” p. 176; “Two Bestiaries,” p. 297.",
+    "W. H. Auden, “Un Homme d’Esprit,” in *Forewords and Afterwords* (1973), pp. 358–59: his introduction to a volume of Paul Valéry.",
+    "L. E. Kastner, *A History of French Versification* (Oxford, 1903): pp. 1 to 7, on the count, the accents and the mute *e*; pp. 39 and 63 to 67, on rhyme and the rule that masculine and feminine rhymes alternate; pp. 82 and 89 to 92, on the cut and the divisions of the twelve-syllable line.",
+    "Émile Littré, *Dictionnaire de la langue française* (Paris, 1873–74), at littre.org: *ardeur*, *brûler*, *croire*, *déclarer*, *égarement*, *égarer*, *entendre*, *et*, *feu*, *fou*, *inévitable*, *malgré*, *pâlir*, *poursuivre*, *reconnaître*, *redoutable*, *respirer*, *rougir*, *sang*, *transir*, *voir*.",
+    "Gideon O. Burton, *Silva Rhetoricae* (Brigham Young University), rhetoric.byu.edu: periphrasis, asyndeton, aposiopesis.",
+    "Paull F. Baum, *The Principles of English Versification* (1922): chapter 4, on the four-stress anapestic line, with a stanza of Byron’s “The Destruction of Sennacherib” as the example, and on blank verse; the glossary, under Anapest.",
+    "The edition of 1697: *Phèdre* (Paris: Claude Barbin, 1697), in the text established by Paul Fièvre for Théâtre classique, theatre-classique.fr: the words and the punctuation of the lines shown, and the list of persons.",
+    "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1990), and Charles H. Miller, *Auden: An American Friendship* (1983), p. 149: neither seen in full."
+  ],
+  "caveats": [
+    "The French follows an edition of 1854, and its punctuation is that editor’s. The edition of 1697 has the same words in the lines shown but punctuates several of them differently. The dots after the word for heart are in both.",
+    "French verse fixes only two accents, on the sixth and twelfth syllables. The lighter stresses marked inside each half-line are one reader’s hearing, and another reader could fairly place a few of them otherwise.",
+    "Auden’s remarks on how the French line sounds to an English ear come from an essay on Marianne Moore and an introduction to Valéry. No essay of his on *Phèdre* has been found, nor any account of what he said about it in the class of 1941.",
+    "That Auden thought Racine overrated, and that he disliked him, are reports by a friend and by a student. Their books were not seen in full.",
+    "The counts of couplets and of the word *sang* were made on the French text of 1854, with words counted as spelled. The English given for *Je m’égare*, I lose my way, keeps the first sense of the verb; it can as fairly be put as my mind wanders."
+  ],
+  "open": [
+    "Two remarks given under “auden” (the table talk of 1947 and Charles Miller’s memory that he disliked Racine) were not read by me. They stand in remake/research/C_auden_on_works.md, section 12 and appendices H7 and H10, as verified there from archive.org search snippets; the note gives no page for the Table Talk. The same note (its appendix of extracts) records two passing comparisons from the 1940s: Racine set beside Shakespeare, in a piece on Shakespeare that the note could not identify, and Racine set beside Baudelaire, in the introduction to his selection of Tennyson (1944). The note gives no page for either and neither is about Phèdre; they are left out.",
+    "The research note (C, section 12) puts Auden’s sentence about sneezing on p. 26 of The Dyer’s Hand. In the scan it stands above the running head of p. 26, so by the rule for these scans it is on p. 25; only its consequence, that the passions can exist only on stage, is on p. 26. The reading cites pp. 25–26.",
+    "The scan of Forewords and Afterwords drops most punctuation, so nothing is quoted from “Un Homme d’Esprit”. Its page numbers stand at the foot of each page: the essay begins on p. 358, and Byron’s line, the admission that his hearing is wrong and the remark on the Comédie Française are on p. 359. His example line there is Baudelaire’s; the line of Phèdre is quoted in The Dyer’s Hand, p. 297.",
+    "The French text is the Firmin-Didot edition of 1854 as French Wikisource prints it. Its punctuation differs from the edition of 1697 (read at theatre-classique.fr) in lines 34, 37, 273 to 278, 624, 625 and 628 to 630 (compared stop by stop), and Littré quotes lines 629 and 630 with a third punctuation. The words are the same in all nineteen lines, letter for letter apart from accents, which were not compared. No caption leans on a stop that only one edition has: the stops after the third, sixth, ninth and twelfth syllables of line 629 are in both, and so are the dots.",
+    "The French cuts carry no speakers’ names (the cut tool makes blocks of verse only), so the first passage does not show where Théramène begins. The “about”, the heading, a numbered remark in the first tab and the captions say that the first three lines are Hippolyte’s and the last two Théramène’s. Hippolyte goes on, after the passage, to say that Phèdre’s enmity is not what he fears and that he is fleeing Aricie; the captions claim only that he does not name Phèdre in this answer (he has named her eight lines earlier, at line 26).",
+    "In the scansions the meter is written with dots and two strokes (the count, with the two accents the measure fixes); in the voice / is kept for those two accents, the backslash marks the lighter accents inside each half-line, and ~ marks a mute e that is not counted, whether it runs into a vowel or ends the line. As the page draws it, the tie keyed “a syllable that is not counted: it runs into the next” stands only under an e elided into a following vowel; a mute e at a line end gets no tick and no tie, and the first caption says that such an e is left out. The page draws the lighter accents as small red dots, which its key explains by two entries, “a stress somewhere else” and “a light stress”: in French verse these are the free accents, and they are no departure from the measure.",
+    "The page was looked at twice in photographs: as the lead’s build of 05:38 UTC made it (build/tools/shoot.mjs with its output sent to my scratch folder, at widths of 1280 and 390), and, for the reading as it now stands, at 1280 and 390 from copies of the build script and the photograph tool kept in my scratch folder, which write nothing into the project. All ten tabs draw as meant. At 1280 the tool reports nothing. At 390 it reports one thing, both times, in the Rhyme tab of the third passage: the fifth line turns at that width, and the arc that joins the third pair of rhymes then runs out of the passage on the right. That is for whoever keeps the drawing code. (From the finisher: no longer so. The examiner’s note below says the stroke is gone since the kit’s change of 09:46 UTC, and the critic’s two runs of the picture tool, at 12:13 and 12:25 UTC, reported nothing on any tab.) I did not run the project’s own build, which writes outside my folder.",
+    "Boswell’s rows 91.7 and 91.8 of Act 2 are one English line of ten syllables that the Gutenberg text prints as two. The pair shows them as printed.",
+    "The count of 827 couplets was made on the local copy of the French text after one stray fragment was dropped (a word and a stage direction in Act 5, Scene 5, printed as a line of its own); verse endings in -aient were taken as masculine and plural verbs in -ent as feminine, as Kastner directs.",
+    "The lead about how few different words Racine uses was not made into a diagram. A count of the French text gives about 14,260 words in 2,785 different spelled forms, but a count of spelled forms in French cannot fairly be set beside one in English. The repeated verb voir in the third passage and the word sang (36 times in the play) carry the point instead.",
+    "From the examiner: every source behind the piece was opened again, and all nineteen French lines were scanned before the poet’s marks were read; the marks agree. The line numbers were checked against the numbering printed in the 1697 text at Théâtre classique. The counts were made again: 1,654 lines in 827 couplets, the two kinds alternating without a break, and sang 36 times in the verse (once more in the list of persons, so the note now says in the verse). What was mended, and why, is in exam.md.",
+    "From the examiner: the Words tab of the second passage gave reconnus only Littré’s second sense, to know by a sign a thing never seen. Littré quotes the line under neither sense, and the scene supports the first as well, to call back to mind what one knows: she has just spoken of the hatred of Venus for her mother and sister. The note and the caption now give both senses and do not choose.",
+    "From the examiner: Racine’s preface says she speaks with confusion when she is forced to disclose her passion. It names no scene, and the plainest case is the avowal to Œnone in Act 1. The Break tab of the third passage kept the sentence, with its condition, on the strength of line 630, where she says the passion shows itself against her will. From the finisher: the sentence is cut. Read again whole, the preface has its own sentence on this scene, in its paragraph on Plutarch: the report of Thésée’s death gives her the occasion for a declaration of love that she would never have dared to make while she believed her husband alive. That is not a disclosure forced from her. The caption’s last two sentences, the second half of the why, two grounds, the clauses of the printed note that named the preface and Littré’s entry for confusion, and that entry in the sources went with it. A poet who wants the preface under these lines has that other sentence to use.",
+    "From the examiner: the eighth line of the third passage is not yet the open avowal. Hippolyte takes it for love of Thésée (lines 631 to 633), she agrees at first (line 634), and she speaks plainly only at lines 670 to 673. The English tab’s caption now says how he takes it, and its note links his answer.",
+    "From the examiner: Auden’s footnote on the pause inside the line (Forewords and Afterwords, p. 359) was not in the poet’s reading, though it bears on the fixed cut the piece shows. It is now in the Halves tab of the second passage and in the list of what Auden said. The scan has lost the mark that ties the note to its sentence; the note stands at the foot of p. 359.",
+    "From the examiner: the comparison of Racine with Baudelaire that the research note could not place is in “Tennyson,” Forewords and Afterwords, at the foot of p. 230 and running on to p. 231: a parenthesis on verse technique that sets Pope beside Tennyson as Racine stands to Baudelaire. Racine is also named in passing in the piece on Goethe’s Italian Journey (p. 136). Neither is about Phèdre, and both stay out. The piece on Shakespeare is still not identified.",
+    "From the examiner: in the asyndeton figure the two verbs of the fourth line now carry labels (and go cold, and burn). The page numbers only the color with the most parts and gives each other color one key row made of its labels, so without labels the second color had no key at all. The sentence in notes.md that the page numbers every label of a list is out of date.",
+    "From the examiner: the Break figure of the third passage now has a join, [[1, 2], [3, 4]]: the first two forms of the verb for seeing, which are about Thésée, and the last two, which are hers. Those are the two pairs the caption makes, and the join keeps the page from leaving out either stroke as a chain’s long stroke. The page still draws a stroke only between forms on the same row or on neighboring rows. At 1280 both are drawn. On a phone (390, 360, 320) the second line turns at its cut, a half-line then stands between the first pair, and that pair is told by its color; the stroke of the second pair is drawn at every width.",
+    "From the examiner: I did not run the project’s build either, since it writes outside this folder. Other sessions write the copy in site/data/pieces; the one of 10:09 UTC is older than my last change (the title of Byron’s poem in the sources), so node build/pieces.mjs phedre must be run before the page is judged. (From the finisher: done since. The critic and the finisher each built the piece after their last change.) Photographed last at 10:17 UTC, after the kit’s sixth mending and a further change to the plate code at 10:14 UTC, from scratch copies of the build and the photograph tool, the reading as it stands draws as meant in all ten tabs at 1280, 390, 360 and 320, and the tool reports nothing. The rhyme stroke that ran past the right edge at 390 (the poet’s note above), and another at 360, are gone since the kit’s change of 09:46 UTC: a line that reaches the edge now turns.",
+    "From the examiner: five lines carry a turn, each after the word that ends the sixth syllable: the second line of the first passage, the second and fifth of the second, the third and fourth of the third. Left to itself the page turned each of them one word off the cut at 320, and the third line of the third passage at 360 too, though the piece is about that cut. With the turns set, the place where every line turns was measured in a browser at 44 widths from 320 to 1440, on every tab: each line that turns, turns at the cut.",
+    "From the examiner: the Break caption named the words for what am I saying with their question mark, which French sets off with a space. At widths from 380 to 400 and at 1024 the mark began a line of the caption by itself. It is dropped from the named words, which still light their place. At 380 to 390 those words are now divided at their hyphen at the end of a line, as any hyphened word may be; to hold a short named phrase on one line would be for the page’s code.",
+    "From the examiner: titles are set between asterisks where the page reads them (the line under the title, the view, what Auden said, and the source under each), and five words named as words in the small notes beside the passages are marked the same way, as the kit’s sixth mending allows. The title of Byron’s poem, a short one, now stands in quotation marks in the sources. Four of the notes on what a caption stands on had five or six sentences; they now have four, and the one for the Figure tab of the first passage says which line Littré quotes. Nothing else in the wording changed.",
+    "From the finisher: after the critic. The view now says that nobody could know the play without hearing a great performance of it, and that Auden admitted his ear heard the line wrongly; the paragraph shares no run of four words with either scan. The English tab of the third passage no longer closes on the conjuring trick, which stays in the view and in the list: nothing in Auden ties it to who acts in the two versions. The Ear caption names Byron’s poem, as Baum prints the title under his example of the four-stress anapestic line (chapter 4). Auden gives Byron’s line with one article different from Baum’s printing; the page prints neither, so nothing shows. The critic’s change 1, its American spelling of the foot (the why of the Ear tab now follows it) and its taking out of the entry from p. 364 stand. Each decision and its ground is at the end of notes.md."
+  ]
+}

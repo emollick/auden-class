@@ -1,0 +1,43 @@
+{
+ "id": "o-tristan",
+ "original": true,
+ "lang": "de",
+ "parts": [
+  {
+   "id": "minne",
+   "label": "Wagner, Tristan und Isolde, Act 2, Scene 1: Isolde’s answer to Brangäne",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from Richard Wagner, Die Musikdramen (Hamburg, 1971)",
+    "url": "http://www.zeno.org/Literatur/M/Wagner,+Richard/Musikdramen/Tristan+und+Isolde/2.+Akt/1.+Szene"
+   },
+   "file": "wagner_tristan_und_isolde_de_zeno.txt",
+   "lines": "2337-2387",
+   "words": 92
+  },
+  {
+   "id": "duet",
+   "label": "Wagner, Tristan und Isolde, Act 2, Scene 2: the last fourteen lines of the love duet",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from Richard Wagner, Die Musikdramen (Hamburg, 1971)",
+    "url": "http://www.zeno.org/Literatur/M/Wagner,+Richard/Musikdramen/Tristan+und+Isolde/2.+Akt/2.+Szene"
+   },
+   "file": "wagner_tristan_und_isolde_de_zeno.txt",
+   "lines": "3621-3625,3629-3633,3637-3651",
+   "words": 30
+  },
+  {
+   "id": "song",
+   "label": "Wagner, Tristan und Isolde, Act 3, Scene 3: Isolde’s last song",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from Richard Wagner, Die Musikdramen (Hamburg, 1971)",
+    "url": "http://www.zeno.org/Literatur/M/Wagner,+Richard/Musikdramen/Tristan+und+Isolde/3.+Akt/3.+Szene"
+   },
+   "file": "wagner_tristan_und_isolde_de_zeno.txt",
+   "lines": "5685-5793",
+   "words": 147
+  }
+ ]
+}

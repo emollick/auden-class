@@ -1,0 +1,445 @@
+{
+  "piece": "karamazov",
+  "title": "The Grand Inquisitor",
+  "where": "*The Brothers Karamazov*, Part II, Book V, Chapter 5",
+  "about": "Ivan Karamazov, twenty-three, sits in a tavern with his brother Alyosha, twenty and a novice in a monastery. Alyosha has just said that there is a Being who can forgive everything, and Ivan tells him a story he made up about a year ago and calls a poem. In Seville in the sixteenth century Christ comes back for a moment, and the Grand Inquisitor, a cardinal of almost ninety, has him arrested and comes alone at night to the prison. The English is Constance Garnett’s, of 1912.",
+  "view": {
+    "says": "Auden wrote that the evidence for Satan’s argument, when he holds out the world’s kingdoms to Jesus, is perhaps nowhere put so fully and forcefully as by the Grand Inquisitor. Jesus gives him no answer, as he gave none to Satan or to Pilate, because none is needed. Such men are answered by their own experience. They know they have failed, and that knowledge, with the hatred they have stirred up, makes them cry out.",
+    "quote": "their own experience answers for them and they know very well what they do, and that they have failed",
+    "source": "*The Prolific and the Devourer* (written 1939; Ecco Press, 1994), p. 51",
+    "checked": "Both sentences are quoted in remake/research/C_auden_on_works.md, section 18 (c) and the appendix (lines 1056 and 1174: PD pp. 50–51; also as quoted by Mendelson, Early Auden, Later Auden, p. 395, citing PD 51 and Prose II 435). The cry and its two causes (the knowledge of failure, and the hatred such men meet) and the place of the sentence in Auden’s account of the third temptation are from the summary in remake/research/E_pd_pearce.md, sections 1.2 and 1.3, which also fixes the page: p. 50 ends in the middle of the sentence about loving no one, and the Grand Inquisitor is first named about the middle of p. 51. Both notes read again on 2026-10-03. Earlier in this session the two sentences were also read in full-text-search snippets of the Internet Archive scan of the Ecco Press edition, with the foot line of p. 51 after them; those snippets could not be read a second time. Examiner, 2026-10-03: read again, twice, in the same scan (Internet Archive item prolificdevourer00aude, full-text-search snippets chained one to the next). Page numbers stand at the foot in this book (the foot line of p. 26 comes just before the heading of Part II, which the contents put at p. 27). Seen: the foot line of p. 50 in the middle of the sentence before these two, about loving no one; both sentences word for word, and the quotation is exact; the second sentence running on through the knowledge of failure and the hate aroused to the cry, which Auden quotes loosely as far as the refusal of love (hosted block 20, words 1047 to 1075); then the sentence on the attendant, after which the foot line of p. 51 follows. Mendelson, Early Auden, Later Auden (2017), p. 395, read in the full text at the Internet Archive, quotes the same passage through the first question of the cry. Finisher, 2026-10-03: p. 51 was read from its first words to its last in search snippets of the same scan, chained one to the next (remake/works/karamazov/finisher/pdread.py prints them and keeps nothing). The sentence before the one on the evidence is Auden’s comment that Satan, by claiming the kingdoms are his to give to Jesus, claims to be God; so the view now names that offer where it had “the third temptation”, a term the page had not yet explained, and the whole view stands on p. 51. Tested with build/tools/runs.py against p. 51 stitched in memory: the old wording shared a run of five words with him (the two words before the old man’s title, and the title); the new wording shares no run over four."
+  },
+  "plates": [
+    {
+      "id": "first",
+      "heading": "The first words in the prison",
+      "text": "karamazov/b05c05",
+      "rows": ["8.0[0-108]"],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Questions",
+          "name": "hypophora",
+          "plain": "a speaker asks a question and at once answers it himself",
+          "draw": "other",
+          "parts": [
+            { "row": "8.0", "w": [0, 3], "tag": "asks", "label": "he asks" },
+            { "row": "8.0", "w": [16, 20], "tag": "asks", "label": "he asks" },
+            { "row": "8.0", "w": [44, 51], "tag": "asks", "label": "he asks" },
+            { "row": "8.0", "w": [63, 70], "tag": "asks", "label": "he asks" },
+            { "row": "8.0", "w": [21, 43], "tag": "replies", "label": "his own statement" },
+            { "row": "8.0", "w": [52, 62], "tag": "replies", "label": "his own statement" },
+            { "row": "8.0", "w": [71, 108], "tag": "replies", "label": "his own statement" },
+            { "row": "8.0", "w": [5, 7], "tag": "none", "label": "no answer" },
+            { "row": "8.0", "w": [12, 15], "tag": "ban", "label": "an answer forbidden" }
+          ],
+          "caption": "The old man asks four questions here. The first, asked twice, gets no reply, and he forbids one: <b>Don’t answer, be silent</b>. After each of the others he goes straight on with a statement of his own. To ask and answer oneself is an old figure of argument, hypophora; one form of it asks an opponent what he can say: <b>What canst Thou say, indeed?</b> Of a later question Ivan tells Alyosha that the old man asks it and <i>answers the question for Him</i>. The old man’s reason for the silence is that the Prisoner has <b>no right to add anything</b>. Auden’s is that Jesus does not need to answer.",
+          "why": "Dostoevsky has the old man forbid an answer and supply his own, and has Ivan say so; the old man holds that the Prisoner has no right to add anything, and Auden that he has no need to answer.",
+          "grounds": [
+            { "claim": "Four questions, the first asked twice; after each of the other three he goes on with a statement of his own", "kind": "plate" },
+            { "claim": "No answer comes to the first question, and he forbids one", "kind": "text", "source": "karamazov/b05c05, block 8, words 4 to 15: Ivan’s aside and the old man’s next four words" },
+            { "claim": "Asking and at once answering one’s own question is a figure of reasoning, and an old one; in one form the speaker asks an adversary what can be said", "kind": "source", "source": "Gideon O. Burton, Silva Rhetoricae (rhetoric.byu.edu), entry anthypophora: a figure of reasoning in which one asks and then immediately answers one’s own questions; it sometimes takes the form of asking the audience or one’s adversary what can be said on a matter. The entry lists hypophora, subjectio and rogatio among its other names and cites the Ad Herennium 4.23.33-4.24.34 (subjectio), Peacham 1577 (hypophora) and Puttenham 1589. The entry hypophora reads: see anthypophora. Both opened and read again 2026-10-03." },
+            { "claim": "Ivan says of a later question that the old man asks it and answers it for Him", "kind": "text", "source": "karamazov/b05c05, block 12, words 108 to 138" },
+            { "claim": "The old man’s reason: the Prisoner may add nothing to what he said long ago", "kind": "text", "source": "the plate, words 29 to 43; Ivan gives Alyosha the same reason for the Prisoner’s silence in block 12, words 8 to 27" },
+            { "claim": "Jesus gives the Inquisitor no answer because none is needed", "kind": "auden", "source": "The Prolific and the Devourer (Ecco Press, 1994), p. 51, as quoted in remake/research/C_auden_on_works.md, section 18, and summarized in remake/research/E_pd_pearce.md, section 1.3. Read by the examiner in search snippets of the Internet Archive scan, 2026-10-03: Jesus does not answer him, any more than Satan or Pilate, because he does not need to" },
+            { "claim": "The questions, the ban and the statements are Dostoevsky’s: the Russian has them in the same order", "kind": "source", "source": "F. M. Dostoevsky, Sobranie sochinenii v 15 tomakh, vols 9-10 (Leningrad: Nauka, 1991), Part II, Book V, chapter V, as given at ilibrary.ru (text 1199, page 37), read 2026-10-03; Russian Wikisource agrees. In the Russian the last statement runs on, with only a comma, into the sentence about the people, which Garnett makes a sentence of its own." }
+          ],
+          "stands": "The marks on the passage, and the Russian text, which has the same questions and the same replies in the same order. *Silva Rhetoricae* under *anthypophora*, which it also calls hypophora. Ivan’s two remarks to Alyosha, [a little further on](#/read/karamazov/b05c05:12). Auden: *The Prolific and the Devourer*, p. 51."
+        },
+        {
+          "kind": "shape",
+          "label": "Voices",
+          "what": "Who speaks in the chapter, and inside whose speech",
+          "facts": {
+            "counted": "Counted on the hosted text karamazov/b05c05 with the site’s word-splitter (site/js/kit/syllables.js, tokens) by a script that gives each word to a voice by the quotation marks around it. Outside all marks: the narrator. Inside double marks: Ivan or Alyosha, whoever the paragraph belongs to. Inside single marks within Ivan’s paragraphs: the Grand Inquisitor in blocks 8, 12, 14, 17 to 21 and 31 (but not the 39 words of the Jesuits that Ivan quotes in block 12, words 45 to 53 and 56 to 85); the Prisoner for words 303 and 304 of block 6; otherwise the other voices Ivan quotes. Sayings of Christ that Ivan or the old man quotes from Scripture are counted as quotations, with the one who quotes them, and not as words of the Prisoner. The 261 words the old man himself quotes are part of his 4,988; the 9 words Alyosha quotes are part of his 507. The two verse quotations Ivan recites (blocks 1 and 3, 38 words) are counted with the other voices he quotes. Two words joined by a dash count once (there are 42 such words in the chapter), and a row of points that stands alone is joined by the splitter to the word before it and is not counted; there are seven such rows (blocks 24, twice, and 26, 31, 36, 37 and 42), so the total is 9,244 where the index of the hosted text, which counts by spaces, says 9,251. Checked: the six voices add up to 9,244, and the 56 rows of “paragraphs” add up to the same six totals.",
+            "key": "In “voices”, “inside” names the voice in whose speech this one is heard, by its short name. In “paragraphs”, n is the paragraph’s place in the chapter (its block number plus one; n 2 and n 4 are the two verse quotations), and each other entry is the number of words a voice speaks in that paragraph, under the voice’s short name. Paragraph 9 (block 8) holds the passage shown, paragraph 21 (block 20) the cry, paragraph 32 (block 31) the kiss. Alyosha’s four interruptions are paragraphs 10, 12, 14 and 16; the unbroken run is paragraphs 17 to 22.",
+            "chapter": { "name": "The Grand Inquisitor", "words": 9244, "read": "karamazov/b05c05:0" },
+            "voices": [
+              { "short": "narrator", "voice": "The narrator", "words": 394 },
+              { "short": "Alyosha", "voice": "Alyosha", "words": 507, "inside": "narrator" },
+              { "short": "Ivan", "voice": "Ivan, in his own voice", "words": 3114, "inside": "narrator" },
+              { "short": "Inquisitor", "voice": "The Grand Inquisitor", "words": 4988, "inside": "Ivan" },
+              { "short": "others", "voice": "Other voices Ivan quotes", "words": 239, "inside": "Ivan" },
+              { "short": "Prisoner", "voice": "The Prisoner", "words": 2, "inside": "Ivan" }
+            ],
+            "Ivan with all he quotes": 8343,
+            "the Grand Inquisitor": { "words": 4988, "his own": 4727, "words he quotes from others": 261 },
+            "the Prisoner": { "words in the poem": 2, "spoken": "to a dead child, before his arrest", "first said": "in the Gospel of Mark, chapter 5, verse 41, whose Aramaic the Russian keeps", "words in the prison": 0, "read": "karamazov/b05c05:6" },
+            "Alyosha breaks in": { "times": 4, "words each time": [27, 16, 10, 11], "words in all": 64 },
+            "unbroken": { "words": 4527, "the Grand Inquisitor": 4510, "Ivan": 17, "first paragraph": 17, "last paragraph": 22, "read": "karamazov/b05c05:16" },
+            "Ivan on his plan": [
+              { "what": "Christ says nothing in the poem", "read": "karamazov/b05c05:0" },
+              { "what": "the one thing that counts is for the old man to have his say", "read": "karamazov/b05c05:10" }
+            ],
+            "paragraphs": [
+              { "n": 1, "narrator": 2, "Ivan": 520, "others": 36 },
+              { "n": 2, "others": 14 },
+              { "n": 3, "Ivan": 195, "others": 25 },
+              { "n": 4, "others": 24 },
+              { "n": 5, "Ivan": 8 },
+              { "n": 6, "Ivan": 193, "others": 20 },
+              { "n": 7, "Ivan": 298, "others": 37, "Prisoner": 2 },
+              { "n": 8, "Ivan": 330, "others": 8 },
+              { "n": 9, "Ivan": 23, "Inquisitor": 136 },
+              { "n": 10, "narrator": 11, "Alyosha": 27 },
+              { "n": 11, "narrator": 7, "Ivan": 134 },
+              { "n": 12, "Alyosha": 16 },
+              { "n": 13, "narrator": 3, "Ivan": 93, "Inquisitor": 218, "others": 39 },
+              { "n": 14, "narrator": 3, "Alyosha": 10 },
+              { "n": 15, "Ivan": 43, "Inquisitor": 113 },
+              { "n": 16, "narrator": 2, "Alyosha": 11 },
+              { "n": 17, "Ivan": 12 },
+              { "n": 18, "Ivan": 5, "Inquisitor": 350 },
+              { "n": 19, "Inquisitor": 709 },
+              { "n": 20, "Inquisitor": 708 },
+              { "n": 21, "Inquisitor": 1793 },
+              { "n": 22, "Inquisitor": 950 },
+              { "n": 23, "narrator": 20 },
+              { "n": 24, "narrator": 31 },
+              { "n": 25, "narrator": 3, "Alyosha": 211 },
+              { "n": 26, "narrator": 2, "Ivan": 54 },
+              { "n": 27, "narrator": 4, "Alyosha": 28 },
+              { "n": 28, "Ivan": 190, "others": 5 },
+              { "n": 29, "narrator": 5, "Alyosha": 34 },
+              { "n": 30, "Ivan": 421, "others": 19 },
+              { "n": 31, "narrator": 27, "Alyosha": 21 },
+              { "n": 32, "Ivan": 120, "Inquisitor": 11 },
+              { "n": 33, "Alyosha": 4 },
+              { "n": 34, "Ivan": 14 },
+              { "n": 35, "narrator": 3, "Alyosha": 6 },
+              { "n": 36, "narrator": 2 },
+              { "n": 37, "Ivan": 77 },
+              { "n": 38, "narrator": 3, "Alyosha": 62 },
+              { "n": 39, "narrator": 6, "Ivan": 7 },
+              { "n": 40, "Alyosha": 2 },
+              { "n": 41, "Ivan": 10 },
+              { "n": 42, "Alyosha": 11 },
+              { "n": 43, "Ivan": 15 },
+              { "n": 44, "Alyosha": 16 },
+              { "n": 45, "Ivan": 5 },
+              { "n": 46, "Alyosha": 11 },
+              { "n": 47, "narrator": 9 },
+              { "n": 48, "narrator": 3, "Ivan": 37, "others": 3 },
+              { "n": 49, "narrator": 6 },
+              { "n": 50, "narrator": 6, "Ivan": 41, "others": 3 },
+              { "n": 51, "narrator": 13 },
+              { "n": 52, "narrator": 4, "Ivan": 22 },
+              { "n": 53, "narrator": 13 },
+              { "n": 54, "narrator": 11, "Ivan": 247, "others": 6 },
+              { "n": 55, "narrator": 143, "Alyosha": 37 },
+              { "n": 56, "narrator": 52 }
+            ]
+          },
+          "caption": "Of the chapter’s 9,244 words Ivan speaks 8,343, and inside his telling the old man speaks 4,988, more than half the chapter. Auden wrote that the evidence for Satan’s argument is perhaps nowhere put so fully and forcefully as by the Grand Inquisitor. Ivan says beforehand that in his poem Christ <i>says nothing</i>. He gives the Prisoner two words, said to a dead child before the arrest, and in the prison none; in the Russian the two are Aramaic, as Mark’s gospel gives them. Alyosha breaks in four times; after that nobody interrupts for 4,527 words. At the first interruption Ivan tells him that the one thing that counts is for the old man to have his say.",
+          "why": "Ivan gives the old man more than half the chapter and the Prisoner two words, and says the one thing that counts is for the old man to have his say; Auden finds Satan’s case perhaps nowhere more fully put.",
+          "grounds": [
+            { "claim": "9,244 words in the chapter; 8,343 inside Ivan’s speech; 4,988 the old man’s; 2 the Prisoner’s; four interruptions by Alyosha; then 4,527 words with no one breaking in", "kind": "source", "source": "a count on the hosted text karamazov/b05c05, made 2026-10-03; the method is under facts.counted" },
+            { "claim": "Ivan says beforehand that Christ says nothing in the poem", "kind": "text", "source": "karamazov/b05c05, block 0, words 467 to 483" },
+            { "claim": "The Prisoner’s two words are spoken to the dead child before the arrest; in the prison he says nothing", "kind": "text", "source": "karamazov/b05c05, block 6, words 292 to 308; block 7 (the arrest); blocks 8 to 31, and block 31, words 28 to 49" },
+            { "claim": "In the Russian the Prisoner’s two words are the two Aramaic words of Mark’s gospel", "kind": "source", "source": "the Russian text (Nauka, 1991, at ilibrary.ru; Russian Wikisource agrees), where his lips pronounce the two Aramaic words and the sentence goes on with the Gospel’s narrative in Church Slavonic; Mark 5:41 in the King James Bible (bible-api.com, opened 2026-10-03), the only Gospel that gives the Aramaic. Garnett’s sentence says his lips pronounce the words once more (block 6, words 297 to 304) and puts two English words for them; her two words are nearer Luke 8:54 in the King James Bible (opened by the examiner, 2026-10-03) than the English of Mark 5:41, so the caption rests the link with Mark on the Russian" },
+            { "claim": "Ivan says, when Alyosha first breaks in, that the one thing that counts is for the old man to have his say", "kind": "text", "source": "karamazov/b05c05, block 10, words 117 to 140, in Ivan’s reply to the interruption of block 9" },
+            { "claim": "The evidence for Satan’s argument is perhaps nowhere put more fully and forcefully than by the Grand Inquisitor", "kind": "auden", "source": "The Prolific and the Devourer (Ecco Press, 1994), p. 51, as quoted in remake/research/C_auden_on_works.md, section 18 and appendix. Read by the examiner in search snippets of the Internet Archive scan, 2026-10-03: his two adverbs are joined by and (completely and cogently), and the sentence closes his account of the third temptation" }
+          ],
+          "stands": "A count of the words of [the chapter](#/read/karamazov/b05c05) in the text printed here; each word is given to whoever is speaking it, by the quotation marks. Ivan’s two remarks on his plan: [before he begins](#/read/karamazov/b05c05:0) and [when Alyosha first breaks in](#/read/karamazov/b05c05:10). The Prisoner’s two words: Mark 5:41, whose Aramaic the Russian text keeps. Auden: *The Prolific and the Devourer*, p. 51."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            { "row": "8.0", "w": [2, 2], "gloss": "Russian *ty*, the familiar *you*", "source": "The Russian text (Nauka, 1991, at ilibrary.ru); Wiktionary, Russian entry ты: (familiar) second-person singular, you, thou; a count of Thou, Thee, Thy, Thine, Thyself and one lower-case thee on the hosted text, each read in its place" },
+            { "row": "8.0", "w": [50, 50], "gloss": "at root, to keep back", "note": "From an Old English word for harming or checking, built on a root that means behind. Five times the speech speaks of the Prisoner’s coming to hinder them, the last time as the reason for burning him.", "source": "Online Etymology Dictionary, hinder (v.): Old English hindrian, to harm, injure, impair, check, repress; a derivative verb from a root meaning on that side of, behind; thus the ground sense is to put or keep back. The five places: block 8, words 50 and 57; block 14, word 154; block 20, word 1053; block 21, word 930. The Russian verb is the same in all five (Wiktionary, мешать: to hinder, to impede, to prevent, to interfere with)." },
+            { "row": "8.0", "w": [89, 89], "gloss": "a likeness", "note": "He says he does not know, and does not care to know, whether this is Christ or only a likeness of him. Two thirds of the way through the speech he asks whether he does not know to whom he is speaking.", "source": "Online Etymology Dictionary, semblance: from Old French semblance, likeness, appearance; the meaning person or thing that resembles another is attested from the 1510s. Wiktionary, Russian entry подобие: similarity; semblance, likeness. The later question: block 20, words 1093 to 1100, which is word 3,328 of a speech of 4,977." },
+            { "row": "8.0", "w": [108, 108], "gloss": "Greek: one able to choose", "note": "The Russian word is the same Greek one.", "source": "Online Etymology Dictionary, heretic: from Greek hairetikos, able to choose, verbal adjective of hairein, to take; heresy: Greek hairesis, a taking or choosing for oneself, a choice. Wiktionary, Russian entry еретик: borrowed from Old Church Slavonic, from Ancient Greek hairetikos. The complaint: block 19, words 456 to 490 and 641 to 669." }
+          ],
+          "caption": "The old man says <b>Thou</b> twelve times here and <b>Thee</b> twice. The Russian has its ordinary familiar pronoun, which the brothers also use. Garnett gives the brothers <i>you</i> and keeps <i>thou</i>, long since a word of church and literary English, for what is said to Christ and God: 220 times in the chapter, and for no one else. So in her English the threat of burning comes in the pronoun of the chapter’s prayers. The threat names the Prisoner among the <b>heretics</b>, a word from the Greek for one able to choose. Later in the speech the old man complains that the Prisoner left men <i>the fearful burden of free choice</i>.",
+          "why": "Garnett keeps thou for Christ and God alone, so in English the old man threatens the Prisoner in the pronoun of the chapter’s prayers; and the word for those he burns means, at root, one who chooses.",
+          "grounds": [
+            { "claim": "Thou twelve times and Thee twice in the passage", "kind": "plate" },
+            { "claim": "The Russian has one familiar pronoun, to the Prisoner and between the brothers", "kind": "source", "source": "the Russian text (Nauka, 1991, at ilibrary.ru), Book V, chapter V: the old man’s first words, Alyosha’s question to Ivan after the poem and Ivan’s words after Alyosha’s kiss all have ты; Wiktionary, Russian entry ты" },
+            { "claim": "220 thou-forms in the chapter, every one said to Christ or to God; the brothers say you to each other, and no one says you to the Prisoner", "kind": "source", "source": "a count on the raw words of the hosted text karamazov/b05c05, made 2026-10-03: Thou 121, Thee 51 (and one lower-case thee, block 19, word 361, in a maxim about giving bread that the old man puts to the Prisoner), Thy 37, Thyself 8, Thine 2, in blocks 0, 2, 6, 8, 12, 14 and 17 to 21, each read in its place. Three of the 220 stand inside words joined by a dash (block 18, word 4; block 19, word 558; block 20, word 565), so a count by whole words gives 217. The four outside the old man’s speech are block 0, word 443; block 2, word 162; block 6, words 128 and 267. The eight you-forms inside the old man’s paragraphs (block 12, word 219; block 18, word 435; block 19, words 189, 200 and 202; block 20, words 1775, 1778 and 1788) are all in words he quotes, said by Christ to men, by peoples to one another, or by the people to the Church. The one you-form in block 6 (word 229) is the crowd’s to the mother." },
+            { "claim": "Thou had long been an archaic word kept up in church and literary language", "kind": "source", "source": "Merriam-Webster, thou: archaic, used especially in ecclesiastical or literary language and by Quakers as the universal form of address to one person; Online Etymology Dictionary, thou: the now-little-used pronoun of the second person singular (it says 2nd nominative singular personal pronoun), superseded in Middle English by plural form you but retained in certain dialects. Both read 2026-10-03, and opened again at the end." },
+            { "claim": "The chapter’s prayers are said in thou", "kind": "text", "source": "karamazov/b05c05, block 0, word 443 (a hymn of thanks to the Lord); block 2, word 162 (a prayer for his coming); block 6, words 128 and 267 (a blind man and a mother, to the Prisoner)" },
+            { "claim": "He is to be burned as the worst of heretics", "kind": "text", "source": "the plate, words 93 to 108" },
+            { "claim": "Heretic comes from the Greek for one able to choose", "kind": "source", "source": "Online Etymology Dictionary, heretic and heresy, read 2026-10-03; Wiktionary, Russian entry еретик" },
+            { "claim": "The old man’s complaint is that the Prisoner left men the burden of free choice", "kind": "text", "source": "karamazov/b05c05, block 19, words 456 to 490 and 641 to 669. Finisher, 2026-10-03: both places read again, with the threat (block 8, words 93 to 108). The caption now gives the root of the word and the complaint as two sentences, the second with its place in the speech, and no longer joins them with and" }
+          ],
+          "stands": "The marks on the passage. A count of *Thou*, *Thee*, *Thy*, *Thine* and *Thyself* in the text printed here, and of who is spoken to each time. The Russian text for the pronoun; Merriam-Webster under *thou*; the Online Etymology Dictionary under *hinder*, *semblance*, *heretic* and *heresy*. The complaint about free choice comes [later in the speech](#/read/karamazov/b05c05:19)."
+        }
+      ]
+    },
+    {
+      "id": "cry",
+      "heading": "The cry",
+      "label": "Two thirds of the way through the speech",
+      "text": "karamazov/b05c05",
+      "rows": ["20.0[1047-1146]"],
+      "pair": {
+        "label": "From the opening of the speech",
+        "text": "karamazov/b05c05",
+        "rows": ["8.0[12-62]", "12.0[290-303]"]
+      },
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Sentences",
+          "spans": [
+            { "from": ["20.0", 1047], "to": ["20.0", 1054], "tag": "question", "label": "a question" },
+            { "from": ["20.0", 1055], "to": ["20.0", 1068], "tag": "question", "label": "a question" },
+            { "from": ["20.0", 1069], "to": ["20.0", 1070], "tag": "command", "label": "a command" },
+            { "from": ["20.0", 1071], "to": ["20.0", 1080], "tag": "statement", "label": "a statement" },
+            { "from": ["20.0", 1081], "to": ["20.0", 1092], "tag": "question", "label": "a question" },
+            { "from": ["20.0", 1093], "to": ["20.0", 1100], "tag": "question", "label": "a question" },
+            { "from": ["20.0", 1101], "to": ["20.0", 1110], "tag": "statement", "label": "a statement" },
+            { "from": ["20.0", 1111], "to": ["20.0", 1121], "tag": "question", "label": "a question" },
+            { "from": ["20.0", 1122], "to": ["20.0", 1132], "tag": "statement", "label": "a statement" },
+            { "from": ["20.0", 1133], "to": ["20.0", 1134], "tag": "command", "label": "a command" },
+            { "from": ["20.0", 1135], "to": ["20.0", 1146], "tag": "secret", "label": "the secret told" }
+          ],
+          "caption": "These hundred words are eleven sentences: five questions, two commands and four statements, the last of them the secret. In the rest of the old man’s long argument a sentence averages 23 words; here, nine. The first two questions ask why, and no answer follows either. The first command is <b>Be angry</b>. The later questions he answers himself, and one answer is that whatever he has to tell <b>is known to Thee already</b>. Then he tells the secret, which nobody has asked for. The short questions are Dostoevsky’s; the two commands are sentences of their own only in Garnett’s English. Auden quotes the opening of these lines as the cry of men who know they have failed.",
+          "why": "A long argument breaks into short questions and commands put to a silent listener, and the secret comes out unasked; Auden quotes the opening of these lines as the cry of men who know they have failed.",
+          "grounds": [
+            { "claim": "Eleven sentences in a hundred words: five questions, two commands, four statements, of 8, 14, 2, 10, 12, 8, 10, 11, 11, 2 and 12 words", "kind": "plate" },
+            { "claim": "In the rest of the argument a sentence averages 23 words; here nine", "kind": "source", "source": "a count on the hosted text, made 2026-10-03: blocks 17 to 21 of karamazov/b05c05 without this passage have 190 sentences in 4,415 words (mean 23.2); with it, 201 in 4,515 (22.5); the passage has 11 in 100 (9.1). A sentence ends at a word ending in a period, question mark or exclamation mark (closing quotation marks allowed) when the next word begins with a capital. The only sentences of one or two words in those five blocks are the one-word command to speak (block 20, word 1022), the two commands here, and Dixi." },
+            { "claim": "No answer follows the first two questions; he says that all he can say is known already; he tells the secret unasked", "kind": "plate" },
+            { "claim": "The five questions are five sentences in the Russian too; the two commands stand inside longer sentences there", "kind": "source", "source": "the Russian text (Nauka, 1991, at ilibrary.ru; Russian Wikisource agrees), read 2026-10-03: the same lines are eight sentences in 89 words (7, 12, 12, 6, 7, 15, 8 and 22 words), where that paragraph averages 20.5; the command to be angry opens the third sentence and the command to listen stands inside the eighth. Garnett also leaves out a clause of the sixth (that he reads it in the Prisoner’s eyes). Finisher, 2026-10-03: opened again at ilibrary.ru to test the critic’s sharper sentence on the two commands: the command to be angry opens a sentence of 12 words, and the command to listen stands inside one of 22." },
+            { "claim": "Auden gives the opening of these lines as the cry of men who know they have failed", "kind": "auden", "source": "The Prolific and the Devourer (Ecco Press, 1994), p. 51, as summarized in remake/research/E_pd_pearce.md, section 1.3 (the cry runs from the question about hindering through the refusal of love: here, words 1047 to about 1080), with remake/research/C_auden_on_works.md, section 18, for the sentence on failure. Read by the examiner in search snippets of the Internet Archive scan, 2026-10-03: tormented by the knowledge of failure and of the hate they have aroused, they cry; his quotation is loose (his wording of the first question and of the refusal differs from Garnett’s) and ends with the refusal of love, so it covers words 1047 to 1075 here, the first two questions, the command to be angry and the first half of the statement after it" }
+          ],
+          "stands": "The marks on the passage. A count of sentences in the old man’s long argument, [from the three questions to his last word](#/read/karamazov/b05c05:17), in the text printed here: a sentence ends at a period, question mark or exclamation mark followed by a capital. The Russian text for how Dostoevsky divides the same lines. Auden: *The Prolific and the Devourer*, p. 51."
+        },
+        {
+          "kind": "compare",
+          "label": "Earlier",
+          "ties": [
+            { "a": ["20.0", 1047, 1054], "b": ["p:8.0", 44, 62], "say": "The same question, almost word for word. The first time he went straight on with a statement of his own. This time another question follows." },
+            { "a": ["20.0", 1060, 1060], "b": ["p:8.0", 12, 15], "say": "He ordered this silence himself. Now he asks why the Prisoner looks at him silently." },
+            { "a": ["20.0", 1066, 1070], "b": ["p:12.0", 290, 303], "say": "Early on he remarks that the Prisoner looks at him meekly and will not even be angry. Now he asks why, and orders him to be angry. In the Russian *meekly* and *mild* are forms of one word." },
+            { "a": ["20.0", 1101, 1110], "b": ["p:8.0", 21, 28], "say": "At first it was the old man who knew too well what the Prisoner would say. Now it is the Prisoner who knows all that he can say." }
+          ],
+          "caption": "The other lines shown come from the opening of the speech, about three thousand words earlier. There the old man forbids an answer, says he knows <b>too well</b> what the Prisoner would say, and remarks that the Prisoner looks at him <b>meekly</b> and will not even be angry. Here each of these comes back turned around, and in between the Prisoner has not spoken. Auden holds that such men are answered by their own experience.",
+          "why": "The old man’s opening terms come back turned around after about three thousand words in which the Prisoner has said nothing; Auden holds that such men are answered by their own experience.",
+          "grounds": [
+            { "claim": "The four pairs of places marked: the question about hindering, the silence, the meek look and the anger, who knows what will be said", "kind": "plate" },
+            { "claim": "The earlier lines stand about three thousand words before the cry", "kind": "source", "source": "a count of the old man’s words on the hosted text, made 2026-10-03: the first earlier passage is words 5 to 55 of his speech, the second words 292 to 305, and the cry begins at word 3,282; so 3,226 and 2,976 of his words lie between" },
+            { "claim": "The Prisoner does not speak in the prison", "kind": "text", "source": "karamazov/b05c05, blocks 8 to 31; block 31, words 28 to 49, says he listened all the time and did not wish to reply" },
+            { "claim": "The same pairs answer each other in the Russian; the words behind meekly and mild are forms of one word", "kind": "source", "source": "the Russian text (Nauka, 1991, at ilibrary.ru), read 2026-10-03: the order to be silent and the adverb silently share a root; the adverb and the adjective for the look are кротко and кроткими; Wiktionary, Russian entry кроткий: gentle, meek, mild. In the Russian the remark about the meek look is itself put as a question." },
+            { "claim": "Such men are answered by their own experience", "kind": "auden", "source": "The Prolific and the Devourer (Ecco Press, 1994), p. 51, as quoted in remake/research/C_auden_on_works.md, section 18. Read by the examiner in search snippets of the Internet Archive scan, 2026-10-03: he says it of the Grand Inquisitor with Satan and Pilate, and goes straight on to quote these lines as their cry" }
+          ],
+          "stands": "The marks on the two passages, both from [the same chapter](#/read/karamazov/b05c05:8). A count of the old man’s words between them in the text printed here. The Russian text, in which the same words answer each other, with Wiktionary’s Russian entry for the word behind *meekly* and *mild*. Auden: *The Prolific and the Devourer*, p. 51."
+        },
+        {
+          "kind": "word",
+          "label": "Mystery",
+          "notes": [
+            { "row": "20.0", "w": [1097, 1097], "gloss": "at first he did not know", "note": "In his first words he said he did not know who the Prisoner was, and did not care to know. Here his question takes it as known.", "source": "karamazov/b05c05, block 8, words 71 to 91 (on the first passage of this piece)" },
+            { "row": "20.0", "w": [1120, 1121], "gloss": "one of the three powers", "note": "The three powers, he says, hold men’s conscience captive.", "source": "karamazov/b05c05, block 20, words 58, 920, 931, 940, 960 and 985; the three powers at words 30 to 60 and 974 to 987; what the people must follow, words 926 to 969. (The uses at 920 and 931 are of the Prisoner’s own way, which the old man calls a mystery that cannot be understood.)" },
+            { "row": "20.0", "w": [1143.1, 1143.1], "gloss": "the tempter", "note": "The spirit who tempted Christ in the wilderness. The next sentences say that the Church has been on his side for eight centuries, and took from him the last gift Christ refused, the kingdoms of the earth.", "source": "karamazov/b05c05, block 17, words 0 to 35; block 20, words 1147 to 1216" },
+            { "row": "20.0", "w": [1146, 1146], "gloss": "in Russian, mystery or secret", "note": "Where Alyosha speaks of the old man’s secret, the Russian has a plainer word.", "source": "Wiktionary, Russian entry тайна: mystery (something secret or unexplainable); secret; secrecy. The Russian text (Nauka, 1991, at ilibrary.ru) has тайна at all eleven places where block 20 has mystery, and Garnett has secret for the same word in block 19 (words 38, 242 and 402) and block 21 (words 450 and 492). Alyosha and Ivan: block 28, words 21 to 38, and block 29, words 0 to 20, where the Russian has секрет." }
+          ],
+          "caption": "The paragraph has used <b>mystery</b> six times before these lines. It is one of the three powers the old man names, <i>miracle, mystery and authority</i>, and it is what the people <i>must follow blindly</i>. Here it is the rulers’ own. <b>Our mystery</b> is what they hide: that they work with the tempter and not with Christ. The Russian word means both a mystery and a secret, and Garnett keeps <i>mystery</i> throughout the paragraph. After the poem Alyosha gives his own account of it: the old man has no belief in God, <i>that’s his secret</i>, and Ivan agrees.",
+          "why": "The word that named one of the Church’s three powers over the people here names what the rulers hide, that they work with the tempter; afterward Alyosha calls the secret unbelief, and Ivan agrees.",
+          "grounds": [
+            { "claim": "Mystery comes twice in the passage, the second time as the name of the confession", "kind": "plate" },
+            { "claim": "Six earlier uses in the paragraph; it is one of the three powers, and what the people must follow blindly", "kind": "text", "source": "karamazov/b05c05, block 20, words 58, 920, 931, 940, 960 and 985" },
+            { "claim": "Him is the spirit who tempted Christ in the wilderness", "kind": "text", "source": "karamazov/b05c05, block 17, words 0 to 35; block 20, words 1147 to 1187" },
+            { "claim": "The Russian word means both mystery and secret, and Garnett keeps mystery for it throughout the paragraph", "kind": "source", "source": "Wiktionary, Russian entry тайна, read 2026-10-03; the Russian text (Nauka, 1991, at ilibrary.ru) set beside the eleven uses of mystery in block 20" },
+            { "claim": "Alyosha says the old man’s secret is that he has no belief in God; Ivan agrees", "kind": "text", "source": "karamazov/b05c05, block 28, words 21 to 38; block 29, words 0 to 20" }
+          ],
+          "stands": "The marks on the passage. A count of *mystery* in [this paragraph](#/read/karamazov/b05c05:20) of the text printed here. The Russian text, with Wiktionary’s Russian entry for the word. What Alyosha and Ivan say of the secret [after the poem](#/read/karamazov/b05c05:28)."
+        },
+        {
+          "kind": "shape",
+          "label": "Plan",
+          "what": "The old man’s speech from its first word to its last, and where these lines fall in it",
+          "facts": {
+            "counted": "Counted on the hosted text karamazov/b05c05 with the site’s word-splitter: the old man’s words, his own and those he quotes, in blocks 8, 12, 14 and 17 to 21, taken in order as one run, leaving out Ivan’s own words between them and the Jesuits’ words that Ivan quotes in block 12. Word 1 is the first word of his first question (block 8, word 0); word 4,977 is Dixi (block 21, word 949). The eleven words he says after the kiss (block 31) are not in the run. A “start” is the place of a part’s first word in the run. The parts follow the paragraphs of the hosted text: blocks 8, 12 and 14 (136, 218 and 113 words); block 17; blocks 18 and 19; block 20 to word 1015; block 20, words 1016 to 1146; block 20 from word 1147 with block 21 to word 894; block 21, words 895 to 949. The seven parts add up to 4,977. Each temptation is placed at the first word of the sentence in which the old man takes it up: block 18, word 11; block 20, word 74; block 20, word 1160 (the words pinnacle and kingdoms themselves stand at block 20, words 84 and 1184, and nowhere earlier in his speech in this sense). The phrase about hindering: block 8, words 50 and 57; block 14, word 154; block 20, word 1053; block 21, word 930.",
+            "key": "Under “Auden quotes”, each start is the first word, in the hosted text, of the sentence or clause that the research notes (remake/research/E_pd_pearce.md, sections 1.2 to 1.4) say Auden quotes or prints: block 17, word 267; block 18, word 56; block 19, word 142; block 20, word 974; block 20, word 1047. How much of each he prints was not seen by the poet, and he may quote other places that the notes do not record. Examiner, 2026-10-03: all five were seen in search snippets of the Internet Archive scan of the book, and each is quoted loosely. The epigraph on p. 48 is the sentence that begins at block 17, word 267, with a parenthesis of Auden’s naming the three temptations and the name Dostoyevsky under it. The three sentences that head the parts of the reply answer to block 18 from word 56, block 19 from word 142 and block 20 from word 974. The cry on p. 51 answers to block 20, words 1047 to 1075.",
+            "speech": { "words": 4977, "last word": "Dixi", "the last word means": "*I have spoken*, in Latin: the formal close of a speech" },
+            "parts": [
+              { "part": "First words in the prison", "start": 1, "words": 467, "pieces": [136, 218, 113], "read": "karamazov/b05c05:8" },
+              { "part": "The three questions of the wilderness", "start": 468, "words": 350, "read": "karamazov/b05c05:17" },
+              { "part": "The first: bread, and freedom of choice", "start": 818, "words": 1417, "read": "karamazov/b05c05:18" },
+              { "part": "The second: the pinnacle of the temple; miracle, mystery, authority", "start": 2235, "words": 1016, "read": "karamazov/b05c05:20" },
+              { "part": "The cry and the secret", "start": 3251, "words": 131 },
+              { "part": "The third: the kingdoms of the earth, and the Church’s coming rule", "start": 3382, "words": 1541 },
+              { "part": "The threat of burning, said again", "start": 4923, "words": 55, "read": "karamazov/b05c05:21" }
+            ],
+            "temptations": [
+              { "name": "Bread", "taken up at word": 829 },
+              { "name": "The pinnacle of the temple", "taken up at word": 2309 },
+              { "name": "The kingdoms of the earth", "taken up at word": 3395 }
+            ],
+            "order in the gospels": { "Matthew": "bread, the pinnacle of the temple, the kingdoms", "Luke": "bread, the kingdoms, the pinnacle of the temple" },
+            "the passage": { "name": "The cry", "start": 3282, "words": 100 },
+            "hinder": [
+              { "word": 43, "as": "a question" },
+              { "word": 50, "as": "a statement" },
+              { "word": 466, "as": "a question" },
+              { "word": 3288, "as": "a question, in the cry" },
+              { "word": 4958, "as": "the reason for the burning" }
+            ],
+            "Auden quotes": [
+              { "start": 730, "what": "the three questions foretell the whole history of mankind", "how": "at the head of his account of the temptations" },
+              { "start": 874, "what": "nothing is harder for men to bear than freedom", "how": "the first sentence he answers" },
+              { "start": 1669, "what": "the wish to worship in common", "how": "the second sentence he answers" },
+              { "start": 3209, "what": "the work corrected and rested on miracle, mystery and authority", "how": "the third sentence he answers" },
+              { "start": 3282, "what": "the opening of this passage", "how": "as the cry of men who know they have failed" }
+            ]
+          },
+          "caption": "The old man’s speech runs 4,977 words from its first question to its last word, the Latin <i>Dixi</i>, with which an orator closed a speech. He builds the speech on the three temptations in the wilderness, in Matthew’s order: bread, the pinnacle of the temple, the kingdoms of the earth. These hundred words stand between the second and the third, and their secret leads into the third: his Church, he goes on, took from the tempter the last gift the Prisoner refused. Auden names the Grand Inquisitor in his account of that temptation. The words <b>hinder us</b> come five times in the speech, the last time as the reason for the burning.",
+          "why": "The speech follows the three temptations in order, and the secret told in these lines opens the third, the gift the Prisoner refused and the Church took; it is at the third that Auden names the Grand Inquisitor.",
+          "grounds": [
+            { "claim": "4,977 words from the first question to Dixi; the passage is words 3,282 to 3,381; the phrase about hindering comes five times", "kind": "source", "source": "a count on the hosted text karamazov/b05c05, made 2026-10-03; the method is under facts.counted" },
+            { "claim": "Dixi is the formal close of a speech", "kind": "source", "source": "Lewis and Short, A Latin Dictionary, under dico (Perseus, entry dico2): dixi, the technical term at the end of a speech, I have done (Cicero, Verrines 1, at the end). The Russian edition’s footnote translates the word: thus I have spoken (Latin). Both read 2026-10-03." },
+            { "claim": "The speech is built on the three temptations, which he calls three questions; bread, then the pinnacle of the temple, then the kingdoms", "kind": "text", "source": "karamazov/b05c05, block 17 (the three questions, in which the whole history of mankind is foretold: words 267 to 301); block 18, word 11 (the first question), with the stones and the bread at words 75 and 85; block 20, words 74 to 146 (the pinnacle); block 20, words 1160 to 1187 (the last gift, the kingdoms)" },
+            { "claim": "That is Matthew’s order; Luke has the kingdoms second", "kind": "source", "source": "King James Bible, Matthew 4:1-11 and Luke 4:1-13 (bible-api.com, read 2026-10-03)" },
+            { "claim": "After the confession he says the Church took from the tempter the last gift the Prisoner refused", "kind": "text", "source": "karamazov/b05c05, block 20, words 1147 to 1216" },
+            { "claim": "Auden names the Grand Inquisitor in his account of the third temptation", "kind": "auden", "source": "The Prolific and the Devourer (Ecco Press, 1994), pp. 49–51, as summarized in remake/research/E_pd_pearce.md, section 1.3: the third temptation runs from p. 49 to p. 51, and the sentence on the Grand Inquisitor closes it on p. 51. Read by the examiner in search snippets of the Internet Archive scan, 2026-10-03: only the opening words of the third temptation stand on p. 49 (the foot line of that page cuts them), Satan’s speech fills p. 50 and runs over, and the sentences on the Grand Inquisitor follow Auden’s comment on it on p. 51" },
+            { "claim": "The last time, hindering is the reason for the burning", "kind": "text", "source": "karamazov/b05c05, block 21, words 895 to 931" }
+          ],
+          "stands": "A count of the old man’s words in the text printed here, his own and those he quotes, from [his first question](#/read/karamazov/b05c05:8) to *Dixi*. Matthew 4 and Luke 4 in the King James Bible, for the order of the temptations, and Lewis and Short’s *Latin Dictionary* under *dico*, for *Dixi*. The gift taken from the tempter: [later in the same paragraph](#/read/karamazov/b05c05:20). Auden: *The Prolific and the Devourer*, pp. 49–51."
+        }
+      ]
+    },
+    {
+      "id": "kiss",
+      "heading": "The kiss",
+      "label": "The end of Ivan’s poem",
+      "text": "karamazov/b05c05",
+      "rows": ["31.0[50-130]", "32.0", "33.0", "34.0"],
+      "pair": {
+        "label": "Later in the same talk",
+        "text": "karamazov/b05c05",
+        "rows": ["48.0", "49.0[36-49]", "50.0", "51.0[0-14]", "53.0[255-263]"]
+      },
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Answer",
+          "spans": [
+            { "from": ["31.0", 50], "to": ["31.0", 62], "tag": "wants", "label": "he wants words" },
+            { "from": ["31.0", 63], "to": ["31.0", 80], "tag": "act", "label": "what the Prisoner does" },
+            { "from": ["31.0", 81], "to": ["31.0", 85], "tag": "named", "label": "what the story calls it" },
+            { "from": ["31.0", 86], "to": ["31.0", 126], "tag": "after", "label": "what the old man does" },
+            { "from": ["31.0", 104], "to": ["31.0", 114], "tag": "says", "label": "his eleven words" },
+            { "from": ["31.0", 127], "to": ["31.0", 130], "tag": "act", "label": "what the Prisoner does" }
+          ],
+          "caption": "The old man wants words: he <b>longed for Him to say something</b>. Auden writes that Jesus gives him no answer, having no need to. What comes is a kiss, told in one sentence of eighteen words, and then five words that name it: <b>That was all His answer</b>. The Prisoner’s verbs are <b>approached</b>, <b>kissed</b> and <b>went away</b>, none of them a verb of speech. The old man, after 4,977 words, says eleven more and lets out the man he was to burn. The sentences are as short in the Russian. Asked what becomes of the old man, Ivan says: <b>The kiss glows in his heart</b>, and his idea stays as it was.",
+          "why": "The old man wants words and gets one act, which the story calls all the answer; after 4,977 words he says eleven more, lets the Prisoner go, and keeps his idea. Auden holds that Jesus has no need to answer.",
+          "grounds": [
+            { "claim": "Eight sentences of 13, 18, 5, 4, 3, 22, 12 and 4 words; the Prisoner’s verbs are approached, kissed and went away", "kind": "plate" },
+            { "claim": "The old man wants the Prisoner to speak; the story calls the kiss all the answer he gets", "kind": "plate" },
+            { "claim": "A speech of 4,977 words, and eleven words after the kiss", "kind": "source", "source": "a count on the hosted text karamazov/b05c05, made 2026-10-03: the old man’s words from block 8 to Dixi in block 21, and his words in block 31 (words 104 to 114)" },
+            { "claim": "He was to burn the Prisoner the next day", "kind": "text", "source": "karamazov/b05c05, block 8, words 93 to 108; block 21, words 895 to 948" },
+            { "claim": "The sentences are as short in the Russian", "kind": "source", "source": "the Russian text (Nauka, 1991, at ilibrary.ru; Russian Wikisource agrees), read 2026-10-03: the same lines are seven sentences of 13, 16, 4, 2, 25, 7 and 2 words, 69 in all, against Garnett’s eight sentences in 81 words; Garnett makes a sentence of the moving lips, which the Russian joins to the next by a semicolon, and puts into the past what the Russian tells in the present from the kiss on (all but one verb)" },
+            { "claim": "Ivan says the kiss glows in the old man’s heart and that he keeps to his idea", "kind": "plate" },
+            { "claim": "Jesus gives the Inquisitor no answer because he does not need to", "kind": "auden", "source": "The Prolific and the Devourer (Ecco Press, 1994), p. 51, read by the examiner in search snippets of the Internet Archive scan, 2026-10-03. He says it of the silence in the prison and goes on to quote the cry. A search of the same scan finds no form of the word kiss anywhere in the book, so he is cited here for the silence and not for the kiss. Finisher, 2026-10-03: read again in snippets of the same scan. The sentence follows at once on the one that names the Grand Inquisitor; after it come the cry and, last on the page, the remark that Jesus might have given an answer had the speaker been an attendant merely saying his master’s words over. So it is said of the silence kept toward the old man himself. The critic moved the caption’s sentence from fourth place to second, after the old man’s wish for words, and it is kept there: it reports him on that silence, before the kiss is told" }
+          ],
+          "stands": "The marks on the passage. A count of the old man’s words in the text printed here: 4,977 in [his speech](#/read/karamazov/b05c05:8) and eleven after the kiss. His promise to burn the Prisoner closes [the speech](#/read/karamazov/b05c05:21). The Russian text, where the sentences are as short and the kiss is told in the present tense. Auden: *The Prolific and the Devourer*, p. 51."
+        },
+        {
+          "kind": "compare",
+          "label": "Again",
+          "ties": [
+            { "a": ["31.0", 53, 58], "b": ["p:49.0", 43.2, 49], "say": "Each kiss comes where words were asked for. The old man longs for the Prisoner to say something. Ivan asks Alyosha a question." },
+            { "a": ["31.0", 70, 71], "b": ["p:48.0", 4, 5], "say": "Each kiss comes out of a silence. In the Russian Alyosha also kisses him *silently*, a word Garnett leaves out." },
+            { "a": ["31.0", 73, 80], "b": ["p:50.0", 7, 12], "say": "The same act in nearly the same words. The Russian has an old poetic word for the old man’s lips and the everyday word for Ivan’s." },
+            { "a": ["31.0", 104, 114], "b": ["p:53.0", 255, 263], "say": "The old man says *go* and never come again. Ivan asks for the kiss once more and then says *go*, in the Russian the same word." },
+            { "a": ["34.0", 0, 5], "b": ["p:51.0", 6, 11], "say": "Alyosha asks whether Ivan is with the old man. Ivan says that Alyosha’s kiss comes from the Prisoner’s." }
+          ],
+          "caption": "When the poem is over Alyosha asks Ivan <b>And you with him, you too?</b> Later Ivan asks whether Alyosha will renounce him, and Alyosha does what the Prisoner did: he <b>softly kissed him on the lips</b>, in the Russian with the same adverb and verb. Ivan names it at once: <b>You stole that from my poem</b>. Alyosha’s question sets Ivan beside the old man, and Ivan’s remark on the kiss sets Alyosha beside the Prisoner. The old man shudders at the kiss and says <b>come no more</b>. Ivan is <b>highly delighted</b>, and at parting asks to be kissed <b>once more</b>.",
+          "why": "Dostoevsky has the poem’s one listener answer Ivan with the Prisoner’s kiss, in the same words, and has Ivan say where it comes from; the old man sends the Prisoner away for good, and Ivan asks for the kiss again.",
+          "grounds": [
+            { "claim": "The five pairs of places marked: the words asked for, the silence, the kiss, the two dismissals, and Alyosha’s question with Ivan’s naming of the kiss", "kind": "plate" },
+            { "claim": "Alyosha is the poem’s one listener", "kind": "text", "source": "karamazov/b05c04, block 30: Ivan calls him his first reader, that is listener, and asks why an author should forgo even one listener" },
+            { "claim": "The Russian has the same adverb and verb for the two kisses, an old poetic word for the old man’s lips and the everyday word for Ivan’s, the adverb silently twice of Alyosha, and the same word for go in both dismissals", "kind": "source", "source": "the Russian text (Nauka, 1991, at ilibrary.ru), Book V, chapter V, read 2026-10-03; Wiktionary, Russian entries тихо (quietly, softly, gently), целовать (to kiss; imperfective, with the perfective поцеловать), уста ((archaic or poetic) mouth, lips), губа (lip), молча (silently). Finisher, 2026-10-03: opened again at ilibrary.ru to test the critic’s reworded remarks: the adverb for silently stands at the Prisoner’s kiss, at Alyosha’s look and at Alyosha’s kiss; the two kisses have the same adverb and verb, with the old poetic word for lips at the first and the everyday word at the second" },
+            { "claim": "The old man shudders and sends the Prisoner away for good; Ivan is delighted and asks to be kissed once more", "kind": "plate" }
+          ],
+          "stands": "The marks on the two passages: the end of the poem, and [the brothers’ talk a little later](#/read/karamazov/b05c05:48) in the same chapter. The Russian text for the words the two kisses share, with Wiktionary’s Russian entries for the adverb, the verb and the two words for lips."
+        },
+        {
+          "kind": "word",
+          "label": "Russian",
+          "notes": [
+            { "row": "31.0", "w": [73, 73], "gloss": "Russian: quietly, gently", "note": "Garnett writes *softly* four times in the chapter: for the Prisoner’s coming, his two words to the dead child, this kiss and Alyosha’s. The Russian adverb is the same in all four, and comes four more times, where she writes *slowly*, *peacefully* and *gently*.", "source": "A count on the hosted text: softly at block 6, words 2 and 301; block 31, word 73; block 50, word 7. Wiktionary, Russian entry тихо: quietly, softly, gently, faintly, silently; calmly, peacefully; slowly. The Russian text (Nauka, 1991, at ilibrary.ru) has the adverb eight times in the chapter; for the other four Garnett has slowly (block 7, word 329, of the old man coming up to the Prisoner), peacefully twice (block 21, words 600 and 604) and gently (block 31, word 40, of the Prisoner listening)." },
+            { "row": "31.0", "w": [79, 80], "gloss": "Russian: ninety-year-old lips", "note": "The Russian has an old poetic word for the mouth, and the same word names the lips from which the Prisoner was to hear the secret.", "source": "The Russian text (Nauka, 1991, at ilibrary.ru). Wiktionary, Russian entries девяностолетний (ninety-year; ninety-year-old) and уста ((archaic or poetic) mouth, lips). The ninety years: block 7, words 22 to 28, and block 10, words 117 to 140. From my lips: block 20, words 1122 to 1132. The same Russian word also stands for the Prisoner’s lips at block 6, word 298. The sentence after the kiss, on the old man’s moving lips (block 31, word 91), has the everyday word." },
+            { "row": "31.0", "w": [85, 85], "gloss": "what he forbade at first", "note": "When his speech is over the old man waits for the Prisoner to answer him, and this is what comes.", "source": "karamazov/b05c05, block 8, words 4 to 15; block 31, words 7 to 21. The Russian has the same noun in the first place and here (Wiktionary, Russian entry ответ: answer, reply)." },
+            { "row": "33.0", "w": [2, 2], "gloss": "Russian: burns", "note": "Garnett has *burns* for the same Russian verb earlier, where love burns in the Prisoner’s heart as he comes among the people.", "source": "The Russian text (Nauka, 1991, at ilibrary.ru): the verb горит with the noun for heart twice in the chapter, at the Prisoner’s coming (in his heart) and here (on his heart; Garnett has in for both). Wiktionary, Russian entry гореть: to burn; to be lit; figuratively, to burn with emotion; to gleam, to shine. Garnett’s burns: block 6, words 59 to 66. The threat of burning has a different Russian verb." }
+          ],
+          "caption": "Four words of the ending go back to earlier places in the chapter. The Prisoner kisses <b>softly</b>, as he came softly and spoke softly to the dead child. The word <b>answer</b> goes back to the old man’s first words, which met no answer and forbade one. Where Garnett writes <b>aged lips</b> Dostoevsky has <i>ninety-year-old lips</i>. The old man is almost ninety, and by Ivan’s account he has kept silent for ninety years. Where she writes <b>glows</b> Dostoevsky has <i>burns</i>. At the Prisoner’s coming it is love that <i>burns in His heart</i>; at the end, in the same Russian verb and noun, the kiss burns on the old man’s heart.",
+          "why": "The ending repeats words from earlier in the chapter: those of the Prisoner’s quiet coming, the forbidden answer, the old man’s ninety years and the love burning in the Prisoner’s heart; Garnett’s English keeps two of the four.",
+          "grounds": [
+            { "claim": "The words marked: softly, aged lips, answer, glows", "kind": "plate" },
+            { "claim": "The Prisoner comes softly and speaks softly to the dead child", "kind": "text", "source": "karamazov/b05c05, block 6, words 0 to 2 and 297 to 304; the Russian has the same adverb in both places and at the two kisses" },
+            { "claim": "The Russian has ninety-year-old lips, with an old poetic word for the mouth, and the verb burns with the noun heart", "kind": "source", "source": "the Russian text (Nauka, 1991, at ilibrary.ru; Russian Wikisource agrees), read 2026-10-03; Wiktionary, Russian entries девяностолетний, уста, губа and гореть, read 2026-10-03" },
+            { "claim": "The old man is almost ninety, and has kept his thought silent for ninety years", "kind": "text", "source": "karamazov/b05c05, block 7, words 22 to 28; block 10, words 117 to 140. Finisher, 2026-10-03: both read again, and the Russian of Ivan’s remark opened at ilibrary.ru (text 1199, page 37): he has been silent all ninety years; the same page has the ninety-year-old lips at the kiss. The caption now gives the age and the silence in a sentence of their own, where it joined the silence to the lips with and" },
+            { "claim": "His first words met no answer and forbade one; at the end he waits for an answer", "kind": "text", "source": "karamazov/b05c05, block 8, words 4 to 15; block 31, words 7 to 21" },
+            { "claim": "At the Prisoner’s coming love burns in his heart, in the same Russian verb and noun", "kind": "text", "source": "karamazov/b05c05, block 6, words 59 to 66, with the Russian of that sentence" },
+            { "claim": "Garnett has softly four times, aged once, glows once", "kind": "source", "source": "a count on the hosted text karamazov/b05c05, made 2026-10-03" }
+          ],
+          "stands": "The marks on the passage, and a count of *softly* in the text printed here. The Russian text, with Wiktionary’s Russian entries for the words behind *aged*, *lips*, *glows* and *softly*. The old man’s age and his ninety years of silence: [earlier in the chapter](#/read/karamazov/b05c05:10). The Prisoner’s [coming](#/read/karamazov/b05c05:6)."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Auden’s account of the temptations in the wilderness stands under a sentence from this chapter, signed Dostoyevsky: the old man’s remark that the three questions gather up the whole of mankind’s later history. Auden reads them as the temptations of childhood, of adolescence and of maturity. In the third, he says, Satan appeals to reason: truth is tested by success or failure, people love only themselves, and so the true way lies in being stronger than one’s neighbor. By claiming that he can give the kingdoms, Auden adds, Satan claims to be God.",
+      "source": "*The Prolific and the Devourer* (written 1939; Ecco Press, 1994), pp. 48–51",
+      "checked": "remake/research/E_pd_pearce.md, sections 1.2 and 1.3, a summary made from search snippets of the Internet Archive scan; read 2026-10-03. Pages 48 to 50 were not seen by me. Examiner, 2026-10-03, in search snippets of the same scan (prolificdevourer00aude): the epigraph, which opens with the three questions, carries a parenthesis of Auden’s naming the temptations in the wilderness and is signed Dostoyevsky (it is the sentence at hosted block 17, word 267, quoted loosely); the first temptation called that of childhood and the second that of adolescence; the third, the temptation of maturity, beginning with the last words of p. 49; Satan’s speech on p. 50 and the head of p. 51 (he appeals to reason; the test is the experience of success or failure; the true way is to be stronger than one’s neighbor, since people love only themselves); and Auden’s comment after it on p. 51, that Satan in claiming to be able to offer the kingdoms is claiming to be God. The poet’s wording, that Satan argues from experience that every man loves only himself, was brought nearer to this. Finisher, 2026-10-03: the entry was held against the places it reports, read again in snippets of the same scan (remake/works/karamazov/finisher/pdruns.py: the counting of build/tools/runs.py, with words broken at a line’s end closed up). It shared three runs of five words or more with Auden’s text: six with his parenthesis in the epigraph (words 5 to 10 of the entry as it stood), five in Satan’s speech (words 73 to 77) and six in the comment after it on p. 51 (the entry’s last six words). Each was said again with nothing added: the number dropped from the first, the verb changed in the second and the tense in the third. Tested again after the change: see the finisher’s section of notes.md."
+    },
+    {
+      "says": "Auden then writes the answer Jesus might have made if he had been listening to an attendant who only repeated his master’s words, and not to the Inquisitor. It takes up three of the old man’s sentences in turn: that men find nothing harder to bear than freedom, that the wish to worship in common is their chief misery, and that the Church has corrected Christ’s work and rested it on miracle, mystery and authority. The freedom Jesus holds out, the answer says, is freedom to know what is true, and each person must find that by his own faith and effort.",
+      "source": "*The Prolific and the Devourer* (written 1939; Ecco Press, 1994), pp. 51–58",
+      "checked": "remake/research/E_pd_pearce.md, sections 1.3 and 1.4 (summary, with the three headings quoted), read 2026-10-03. The sentence on the attendant, on p. 51, was among the snippets read earlier in this session; pp. 52 to 58 were not seen by me. Examiner, 2026-10-03, in search snippets of the Internet Archive scan: the sentence on the attendant, the last on p. 51; the three sentences of the old man that head the parts of the reply, each quoted loosely (they answer to hosted block 18 from word 56, block 19 from word 142 and block 20 from word 974); the freedom offered, called the same that the Inquisitor professes to offer and the only one there is, the freedom to know the truth; no other way to the truth but individual faith and individual effort; and the last words of the reply with the foot line of p. 58 after them, just before the heading of Part III. Finisher, 2026-10-03: the last sentence of p. 51 and the passages on freedom and on faith and effort were read again in snippets of the scan and the entry held against them (finisher/pdruns.py). The critic’s new order of the first sentence had made a run of five words with Auden’s (the entry’s words 26 to 30 as it stood; the scan breaks the last of them at a line’s end, which hides the run from build/tools/runs.py). The last word of the five was dropped; nothing else in the entry shares a run over four with what was read."
+    },
+    {
+      "says": "In that answer Jesus says that the Inquisitor, and not he, has turned the Last Supper into a mystery. Later in the book Auden states what history must show if Jesus was right: a general movement toward unity and equality, which the way of love has always helped, and which the way of hatred and force has always hindered and has always failed in the end to prevent. If history does not show it, he writes, then Jesus was mistaken and the right lay with Satan and the Inquisitor.",
+      "source": "*The Prolific and the Devourer* (written 1939; Ecco Press, 1994), pp. 54 and 62",
+      "checked": "remake/research/E_pd_pearce.md, sections 1.2 and 1.4, read 2026-10-03. Not seen by me. Examiner, 2026-10-03, in search snippets of the Internet Archive scan: the remark on the Last Supper closes the second part of the reply, after the foot line of p. 53 and before that of p. 54; on p. 62, after the foot line of p. 61, come the Way of love and understanding, which must always have assisted events so to move, the Way of hate and coercion, which must have always hindered them and always failed finally to prevent them, and then the sentence on Satan and the Inquisitor, which begins from history not offering this evidence. The direction itself is set out just before, at the foot of p. 61: the unity of mankind, and equality with it. The poet’s wording, that his account of the two Ways is not borne out by history, was made exact from these. Finisher, 2026-10-03: p. 62 from the foot line of p. 61 to the end of the sentence on Satan and the Inquisitor, and the remark on p. 54, were read again in snippets of the scan and the entry held against them (finisher/pdruns.py). Making the wording exact had left a run of six of Auden’s words, his name for the second Way (words 51 to 56 of the entry as it stood). Its two nouns were said again in plainer words, hatred and force; no run over four is left."
+    },
+    {
+      "says": "Charles Miller, a student in the class who also shared Auden’s house, gives Auden’s words at the first meeting, in early October 1941, as he reconstructs them. Auden named *The Brothers Karamazov* among the great books the students would be examined on, with the *Divine Comedy*, Augustine’s *Confessions* and four plays of Shakespeare. No record has been found of what he said in class about the novel.",
+      "source": "Charles H. Miller, *Auden: An American Friendship* (1983), pp. 26–27",
+      "checked": "remake/research/C_auden_on_works.md, the appendix (line 1140: Miller pp. 26–27, from an OCR snippet), and line 1009 for the absence of any record of a class on Dostoevsky; remake/research/A_michigan_course.md, lines 25, 204 and 265, for Miller, the reconstruction and the date. Read 2026-10-03. Miller’s book was not opened by me. Examiner, 2026-10-03, in search snippets of the Internet Archive scan (audenamericanfri00mill): the date and the classroom, and the speech with the four titles in the order given here (the scan garbles the novel’s name, so a search for it finds nothing). The page was not seen as an image; the book’s own index gives Dostoyevsky at pp. 19, 26 and 89, Augustine at p. 26 and Dante at pp. 26–27, which puts the naming of the novel on p. 26 and the account of the meeting on pp. 26–27."
+    },
+    {
+      "says": "In the spring of 1943 Auden put a chart on the table of his seminar on Romanticism at Swarthmore College. In its row for the hero it lists the Grand Inquisitor with Iago and Stavrogin under The Demonic Villain, in the column headed “Hell of the Pure Word,” knowledge without power.",
+      "source": "Chart of 1943, reproduced in Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (2017), pp. 554–55",
+      "checked": "remake/research/C_auden_on_works.md, section 18 (line 475) and the appendix (lines 1019 and 1071): read by the researcher from a scan of the reproduction, who says the placing of the name in that column is his own reading; remake/research/B_pedagogy.md, 1.W2, for the seminar. Read 2026-10-03. Not seen by me. Examiner, 2026-10-03: Mendelson’s full text at the Internet Archive read at p. 554 (in the spring of 1943 Auden was teaching a seminar at Swarthmore that the printed catalogue called Romanticism, and one day, without comment, he put the diagram on the seminar table; the note to p. 554 says the chart is transcribed from the more polished of two copies, now in Swarthmore College Library), and the image of p. 555 fetched and looked at. The chart has a column of row names at the left and three columns: Hell of the Pure Deed, This World, Hell of the Pure Word (Knowledge without Power). In the row Hero the last column reads The Demonic Villain, a line about sex appeal, then Iago, Stavrogin, The Grand Inquisitor, and a last line about master-crooks. So the placing is plain on the page, and the hedge that it was the researcher’s reading was taken out of the entry. Finisher, 2026-10-03: the chart’s cells read in the full text of Mendelson’s book at the Internet Archive (item early-auden-later-auden-a-critical-biography-edward-mendelson-2017, the lines that follow the page mark 554). The last column is headed Hell, of, the Pure Word on three lines, with Knowledge without Power on the line under them, as the first is headed Hell of the Pure Deed with Power without Purpose under it; the cell reads The Demonic Villain, a line on sex appeal, Iago, Stavrogin, The Grand Inquisitor and a line on master-crooks. The two labels are Auden’s own words, three and five of them. The heading of the column was a run of five of his words outside a quotation, and the critic found that a reader could not tell where it ended; it now stands in quotation marks, the second quotation of the piece after the one in the view. The three-word label keeps its capitals, as the examiner set it (quotation marks were tried on it too and taken off again, so that the piece holds two quotations and no more). No word was changed."
+    }
+  ],
+  "next": "karamazov/b01c01:0",
+  "sources": [
+    "The text: Fyodor Dostoevsky, *The Brothers Karamazov*, translated by Constance Garnett (1912), as Project Gutenberg prints it (no. 28054). The Modern Library edition named on Auden’s list is the same translation.",
+    "W. H. Auden, *The Prolific and the Devourer*, written in 1939 and not published in his lifetime, with a preface by Edward Mendelson (Ecco Press, 1994): pp. 48–58 and 62, and the preface. Not seen in full.",
+    "Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (2017): p. 395, which quotes Auden’s two sentences on the Grand Inquisitor, and pp. 554–55, on his seminar of 1943, with the chart he gave it.",
+    "Charles H. Miller, *Auden: An American Friendship* (1983), pp. 26–27. Not seen in full.",
+    "The Russian text: F. M. Dostoevsky, *Sobranie sochinenii v pyatnadtsati tomakh*, vols. 9–10 (Leningrad: Nauka, 1991), Part II, Book V, chapter 5, in the copy at ilibrary.ru; also the copy at Russian Wikisource.",
+    "Gideon O. Burton, *Silva Rhetoricae* (Brigham Young University), under *anthypophora*, which it also calls hypophora.",
+    "Online Etymology Dictionary: thou, hinder, semblance, heretic, heresy.",
+    "Merriam-Webster’s dictionary: thou.",
+    "Wiktionary, the Russian entries ты (you), мешать (to hinder), подобие (likeness), еретик (heretic), кроткий (meek), тайна (mystery, secret), секрет (secret), уста and губа (lips), девяностолетний (ninety-year-old), гореть (to burn), тихо (softly), целовать (to kiss), молча (silently) and ответ (answer).",
+    "The King James Bible: Matthew 4:1–11 and Luke 4:1–13, for the order of the three temptations; Mark 5:41, for the words to the dead girl.",
+    "Charlton T. Lewis and Charles Short, *A Latin Dictionary* (1879), under *dico*, for *dixi* as the formal close of a speech."
+  ],
+  "caveats": [
+    "Auden’s view is from *The Prolific and the Devourer*, written in 1939 and not published by him, which was read here only in search snippets of a scanned copy. No mention of the kiss was found in it, so the third passage cites him only for the Prisoner’s silence.",
+    "Nothing Auden said about the novel in the 1941 class is on record. That he named it at the first meeting comes from a student’s memoir written about forty years later.",
+    "The English is Constance Garnett’s. She sometimes cuts Dostoevsky’s sentences shorter, tells the kiss in the past tense where he uses the present, and does not always keep his repeated words (*aged* for ninety-year-old, *glows* for burns).",
+    "The counts follow the text printed here. A row of dots is not counted as a word, two words joined by a dash count as one, the quotation marks decide who speaks each word, and a sentence ends at a period, question mark or exclamation mark before a capital.",
+    "The figure in the first passage has several names. The handbook used here lists it under anthypophora and gives hypophora, the name Peacham used for it in 1577, as another."
+  ],
+  "open": [
+    "Nothing by Auden on the kiss, on Alyosha’s kiss, or on any part of the novel outside this chapter was found in the research notes (the third and fourth leads in pieces.json). The third passage therefore keeps to the text and the Russian; only its tab Answer cites him, and only for the Prisoner’s silence (see the examiner’s entry below).",
+    "The Russian was read in an online copy of the 1991 Nauka edition (ilibrary.ru) and at Russian Wikisource, not in the first edition of 1880. The capital letters Garnett gives to pronouns for Christ were not compared with any Russian edition, and the piece says nothing about them. No Russian text is hosted, so no Russian is shown; every Russian fact is given as a gloss or a note.",
+    "That heretic comes from the Greek for one able to choose is a fact of the word; nothing read says Dostoevsky meant the link with free choice, and the caption gives the two facts in two sentences, the second with its place in the speech, and draws no conclusion from them (loosened by the finisher, 2026-10-03).",
+    "The sentence counts rest on Garnett’s punctuation and on one rule for the end of a sentence (given in the caveats). The parts of the speech in the Plan follow the paragraphs of the text printed here; in the Russian copy read the long argument is one paragraph.",
+    "On the second and third passages a second set of lines is given as the “pair” for one tab only (Earlier, Again): two cuts from two paragraphs of the opening, and five short paragraphs from the brothers’ later talk. The plates do not set “beside”, so that, as the kit now works for another passage of the same work, those lines show only on the tab that marks them. The two sets have different numbers of rows (1 and 2, 4 and 5), so they are never set line under line; if the rows are ever changed so that the numbers are equal, “beside”: true must be set. The page has since been built and photographed by the examiner and the critic; the examiner found the second set of lines only on its own tab, beside the passage at 1280 px and under it at 390 px, with numbered underlines and no strokes across.",
+    "From the examiner (the poet’s three entries that this one overtook were taken out by the finisher): I read The Prolific and the Devourer myself in full-text-search snippets of the Internet Archive scan (prolificdevourer00aude), which answer as often as they are asked, about fifteen words at a time: pp. 48 to 51 nearly whole, the three sentences that head the parts of the reply, its passages on freedom, the remark on the Last Supper (p. 54), its last words (p. 58), and the two conditions and the sentence on p. 62. Everything the piece gives as Auden’s was found there at the page given. A full copy has still not been seen, and what lies between the snippets was not read. Mendelson was read in the full text at the Internet Archive (pp. 351 note, 395, 554 and its note, the list of abbreviations) and the image of p. 555 was looked at; New Year Letter and Miller were read in snippets of their scans.",
+    "From the examiner: the year of the Ecco Press book is not settled, and the question touches every piece that cites it. The catalog record of the first trade edition (Open Library OL1395108M, built from the Library of Congress record, LCCN 93002409) and the Internet Archive’s record of the scanned copy give 1994. The cataloging data printed in the book carries 1993 in its call number, the book prints no other year for this edition, and Mendelson’s list of abbreviations cites the Ecco Press edition as 1993. The piece keeps 1994. The contents page says Preface by Edward Mendelson and the book nowhere says edited by, so the sources now say with a preface by.",
+    "From the examiner, for the research notes and for other pieces: the note to line 1566 in New Year Letter (Faber, 1941) is on p. 153, not pp. 152–53, because in that book the page number stands at the foot (the same note holds the sentence about how most American books might begin, which a piece on Moby-Dick may cite). Auden’s two adverbs for the Grand Inquisitor are joined by and. In Mendelson’s reproduction of the 1943 chart the Grand Inquisitor stands plainly in the row Hero, in the column Hell of the Pure Word (Knowledge without Power), under The Demonic Villain, between Stavrogin and a last line about master-crooks; the placing is not a matter of reading the scan. Miller’s page was not seen as an image: his index gives Dostoyevsky at pp. 19, 26 and 89, Augustine at p. 26 and Dante at pp. 26–27.",
+    "From the examiner: the third passage now cites Auden once, on the tab Answer and in its why, for the silence only: Jesus gives the Inquisitor no answer, having no need to. A search of the scan of his book finds no form of the word kiss, and Ivan and Alyosha are not named in it; the first caveat tells the reader so.",
+    "From the examiner: the figure’s name was tested against the first passage. Only the last of the four questions is answered in its own terms (what will be tomorrow). The second is the form the handbook describes in which a speaker asks an adversary what he can say; after the third the old man repeats his charge. So the parts are labeled as statements of his own, not as answers, and the caption rests the name on the handbook and on Ivan’s own words about a later question. Two captions set two facts side by side and claim no link that a source makes: heretics and free choice (Words), the ninety-year-old lips and the ninety years of silence (Russian). Each fact was checked; no source read says Dostoevsky meant either link.",
+    "From the finisher, 2026-10-03: three entries of the poet’s that the examiner’s reading overtook, and the examiner’s account of the morning’s builds, were taken out of this list; the page has been built again from the reading as it now stands, and every tab changed since the critic was photographed at 1280 and 390 px, with the whole page (remake/works/karamazov/shots/finisher). What changed, and why, is at the end of notes.md. In short: the view names Satan’s offer of the kingdoms where it had the third temptation; the captions of Words and Russian give their two facts in separate sentences; the entry on the note in New Year Letter was taken out of the list and is kept whole at the end of notes.md, with its line in the sources; on Mystery the last note’s mark covers word 1146 alone; five strings of the two drawn tabs were set; and seven runs of five or six of Auden’s own words (one each in the view, the caption of Voices and the second and third entries of the list, three in the first entry) were said again in the page’s words, with the five-word heading of his chart put in quotation marks. The Prolific and the Devourer is not among the scans on this machine, so build/tools/runs-sweep.py cannot hold the page against it. The places the page reports were held against search snippets of the Internet Archive scan instead (finisher/pdruns.py): p. 51 whole, and elsewhere only the places the list reports (the epigraph and the names of the first and third temptations, Satan’s speech, the remark on the Last Supper, the sentences on freedom and on faith and effort, and the two Ways with the sentence after them). The rest of the book was not tested. The caption of Plan names the three temptations in the wilderness in the same six words as Auden’s parenthesis in his epigraph on p. 48; they are the common name of the episode, the sentence does not report him, and it was left."
+  ]
+}

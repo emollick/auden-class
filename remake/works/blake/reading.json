@@ -1,0 +1,1481 @@
+{
+  "piece": "blake",
+  "title": "The voice of the Devil",
+  "where": "The section of that name, the first “Memorable Fancy” and “Proverbs of Hell”",
+  "about": "William Blake wrote this short book in prose and verse between 1790 and 1793 and printed it from copper that he had etched with acid. Under the heading “The Voice of the Devil” it sets three errors, blamed on all Bibles or sacred codes, against three contraries. Then the speaker tells how he walked among the fires of Hell and collected some of its proverbs. Coming home, he sees a mighty Devil write one sentence with corroding fires, and after that sentence he gives the proverbs.",
+  "view": {
+    "says": "Auden wrote that a law of God imposed like men’s laws, with an eternal penalty, would imply two Gods: a Creator within the world, a Judge beyond it. He called the *Marriage* a great polemic, an argument against a doctrine, in liberal theology’s rightful reaction against that dualism. Blake detested the Judge, he wrote later, and tried to turn the dualism upside down: for Blake, God is and acts only in existing beings or men.",
+    "quote": "not to overcome the dualism, but to stand it on its head",
+    "source": "“Red Lizards and White Stallions,” *The Saturday Review of Literature*, 13 April 1946, p. 22; *The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 49–50",
+    "checked": "The review of 1946 was read whole by the examiner on 2026-10-03 in the scan of the magazine at the Internet Archive (item saturday-review_202511, vol. 29, no. 15, 13 April 1946, p. 22); what is used is its first paragraph, where the magazine prints imminent for immanent. In Prose, vol. II (2002) the review begins on p. 292 by that volume’s index and textual notes, seen through full-text search; the page itself was not seen. The Enchafèd Flood was read in the scan, research/auden/ef.txt, lines 2066–2140, on 2026-10-03. In that scan the page number stands at the foot of its page: the Judge is on p. 49 and the dualism stood on its head on p. 50. The finisher read lines 2084–2140 again on 2026-10-03: the last words of the paraphrase, on where God acts and is, are the book’s own (blake/marriage, block 63), which Auden repeats with and where the book has or (lines 2137–2138 of the scan). The paraphrase now keeps the book’s or, so that its last words are the book’s own and share no run of five words with Auden’s page; with and, the sweep had found five. The plain words given for polemic follow A New English Dictionary on Historical Principles, vol. VII (Oxford, 1909), under Polemic, B. sb., sense 1 (argument against an opinion or a doctrine; aggressive controversy), read by the finisher on 2026-10-03 in the scan on this machine, scratchpad/othello-poet/ned_oed07arch.txt, lines 442879–442899."
+  },
+  "plates": [
+    {
+      "id": "creed",
+      "heading": "The errors and their contraries",
+      "text": "blake/marriage",
+      "rows": [
+        "11.0-14.0"
+      ],
+      "label": "The errors",
+      "beside": true,
+      "pair": {
+        "label": "The contraries",
+        "text": "blake/marriage",
+        "rows": [
+          "15.0-18.0"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "compare",
+          "label": "Answer",
+          "ties": [
+            {
+              "a": [
+                "11.0",
+                12,
+                12
+              ],
+              "b": [
+                "p:15.0",
+                3,
+                7
+              ],
+              "say": "The errors are given a cause, all Bibles or sacred codes. The contraries are given none. They are called *true*."
+            },
+            {
+              "a": [
+                "12.0",
+                4,
+                4
+              ],
+              "b": [
+                "p:16.0",
+                3,
+                3
+              ],
+              "say": "*Two* is answered by *no*: man has no Body that is distinct from his Soul."
+            },
+            {
+              "a": [
+                "12.0",
+                10,
+                13
+              ],
+              "b": [
+                "p:16.0",
+                12,
+                17
+              ],
+              "say": "Both nouns are kept. Body is no longer a second thing beside Soul. It is a portion of Soul, the one that the five senses discern."
+            },
+            {
+              "a": [
+                "13.0",
+                2,
+                9
+              ],
+              "b": [
+                "p:17.0",
+                1,
+                10
+              ],
+              "say": "Kept: Energy is from the Body. Dropped: the name *Evil* and the adverb *alone*. Added: the adjective *only*, with a larger claim. *Energy is the only life*."
+            },
+            {
+              "a": [
+                "13.0",
+                12,
+                19
+              ],
+              "b": [
+                "p:17.0",
+                12,
+                20
+              ],
+              "say": "Reason loses its name, *Good*, and its source, the Soul. It is given a place: the limit and outer edge of Energy."
+            },
+            {
+              "a": [
+                "14.0",
+                2,
+                7
+              ],
+              "b": [
+                "p:18.0",
+                1,
+                4
+              ],
+              "say": "*God*, *man* and the future tense are gone. *Eternity* comes back as the adjective *Eternal*. Where the error had *torment*, the contrary has *Delight*."
+            }
+          ],
+          "caption": "Each error is set against its contrary, and the same number in the same color marks the words that answer each other. The contraries keep the errors’ nouns <b>Body</b>, <b>Soul</b>, <b>Energy</b> and <b>Reason</b>, and <i>Eternity</i> returns as <b>Eternal</b>. <b>Evil</b>, <b>Good</b> and <b>God</b> do not come back. The third error has God <b>torment</b> man in Eternity. Auden called it a misunderstanding of the doctrine of Hell to think of God’s law as imposed like men’s laws, with an eternal penalty.",
+          "why": "The contraries keep the errors’ nouns, Body, Soul, Energy and Reason, and leave out Evil, Good and God: the third error has God torment man in Eternity, and Auden called an eternal penalty imposed by God a misunderstanding of Hell.",
+          "grounds": [
+            {
+              "claim": "which nouns of the errors come back in the contraries, and which words do not",
+              "kind": "plate"
+            },
+            {
+              "claim": "what the contraries say of Body, of Energy and of Reason",
+              "kind": "text",
+              "source": "blake/marriage, blocks 16 and 17"
+            },
+            {
+              "claim": "the third error has God torment man in Eternity for following his Energies",
+              "kind": "text",
+              "source": "blake/marriage, block 14"
+            },
+            {
+              "claim": "Auden: the first misunderstanding of the doctrine of Hell was to think of God’s law as men’s laws are, imposed, with an eternal penalty imposed for breaking it; that would imply two Gods, a Creator within the world and a Judge beyond it; liberal theology rightly reacted against such a dualism, and the Marriage is one of the great polemics in that reaction",
+              "kind": "auden",
+              "source": "“Red Lizards and White Stallions,” The Saturday Review of Literature, 13 April 1946, p. 22, first paragraph (read in the scan of the magazine at the Internet Archive, item saturday-review_202511); in Prose, vol. II (2002) the review begins on p. 292"
+            }
+          ],
+          "stands": "The marks on the passage, and the lines themselves. Auden on the law and the eternal penalty: “Red Lizards and White Stallions,” *The Saturday Review of Literature*, 13 April 1946, p. 22."
+        },
+        {
+          "kind": "sentence",
+          "label": "Grammar",
+          "spans": [
+            {
+              "from": [
+                "11.0",
+                0
+              ],
+              "to": [
+                "11.0",
+                12
+              ],
+              "tag": "frame",
+              "label": "the main clause"
+            },
+            {
+              "from": [
+                "12.0",
+                1
+              ],
+              "to": [
+                "12.0",
+                13
+              ],
+              "tag": "that",
+              "label": "a clause hung on errors"
+            },
+            {
+              "from": [
+                "13.0",
+                1
+              ],
+              "to": [
+                "13.0",
+                9
+              ],
+              "tag": "that"
+            },
+            {
+              "from": [
+                "13.0",
+                11
+              ],
+              "to": [
+                "13.0",
+                19
+              ],
+              "tag": "that"
+            },
+            {
+              "from": [
+                "14.0",
+                1
+              ],
+              "to": [
+                "14.0",
+                11
+              ],
+              "tag": "that"
+            },
+            {
+              "from": [
+                "14.0",
+                3
+              ],
+              "to": [
+                "14.0",
+                4
+              ],
+              "tag": "future",
+              "label": "the one future"
+            },
+            {
+              "from": [
+                "p:15.0",
+                0
+              ],
+              "to": [
+                "p:15.0",
+                7
+              ],
+              "tag": "frame"
+            },
+            {
+              "from": [
+                "p:16.0",
+                1
+              ],
+              "to": [
+                "p:16.0",
+                8
+              ],
+              "tag": "stated",
+              "label": "a full sentence"
+            },
+            {
+              "from": [
+                "p:16.0",
+                9
+              ],
+              "to": [
+                "p:16.0",
+                30
+              ],
+              "tag": "stated"
+            },
+            {
+              "from": [
+                "p:17.0",
+                1
+              ],
+              "to": [
+                "p:17.0",
+                20
+              ],
+              "tag": "stated"
+            },
+            {
+              "from": [
+                "p:18.0",
+                1
+              ],
+              "to": [
+                "p:18.0",
+                4
+              ],
+              "tag": "stated"
+            },
+            {
+              "from": [
+                "p:16.0",
+                2
+              ],
+              "to": [
+                "p:16.0",
+                2
+              ],
+              "tag": "present",
+              "label": "a present verb"
+            },
+            {
+              "from": [
+                "p:16.0",
+                13
+              ],
+              "to": [
+                "p:16.0",
+                13
+              ],
+              "tag": "present"
+            },
+            {
+              "from": [
+                "p:17.0",
+                2
+              ],
+              "to": [
+                "p:17.0",
+                2
+              ],
+              "tag": "present"
+            },
+            {
+              "from": [
+                "p:17.0",
+                7
+              ],
+              "to": [
+                "p:17.0",
+                7
+              ],
+              "tag": "present"
+            },
+            {
+              "from": [
+                "p:17.0",
+                13
+              ],
+              "to": [
+                "p:17.0",
+                13
+              ],
+              "tag": "present"
+            },
+            {
+              "from": [
+                "p:18.0",
+                2
+              ],
+              "to": [
+                "p:18.0",
+                2
+              ],
+              "tag": "present"
+            }
+          ],
+          "caption": "Each error begins with <b>That</b>. None is a sentence of its own: each is a clause hung on the word <b>errors</b>, the way reported speech hangs on <i>he said that</i>. The errors are reported and nowhere asserted. Each contrary begins with its subject, and its verbs are present: <i>has</i> once, <i>is</i> five times. The one future tense in the passage is <b>will torment</b>, and its answer is the shortest sentence here, four words. Auden ranked the book among the great polemics. A polemic is an argument in a controversy. Here the errors blamed on the sacred codes stand in dependent clauses, and the reply in plain statements.",
+          "why": "The errors are clauses hung on the word errors, so they are reported and never asserted, and the contraries are full sentences in the present tense: the opponent reported and answered, in what Auden calls a polemic.",
+          "grounds": [
+            {
+              "claim": "each error is a clause beginning That; each contrary is one or two full sentences; the tense of every verb",
+              "kind": "plate"
+            },
+            {
+              "claim": "a clause beginning that is a dependent clause: it gives the content of a noun or of a verb of reporting",
+              "kind": "source",
+              "source": "Wikipedia, “Content clause” (declarative content clauses), read 2026-10-03"
+            },
+            {
+              "claim": "Auden ranked the Marriage among the great polemics, and called Blake a strongly polemical writer",
+              "kind": "auden",
+              "source": "“Red Lizards and White Stallions,” The Saturday Review of Literature, 13 April 1946, p. 22 (read in the scan of the magazine at the Internet Archive); The Enchafèd Flood (1950), p. 44 in the Vintage edition (1967), where the words are highly polemical"
+            },
+            {
+              "claim": "a polemic is a controversial argument or discussion, a controversy; the word is from the Greek for war",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under polemic"
+            }
+          ],
+          "stands": "The marks on the passage. A clause that begins with *that* as a dependent clause, giving the content of a noun or of a verb of saying: Wikipedia, “Content clause.” Auden on the book as a polemic: *The Saturday Review of Literature*, 13 April 1946, p. 22. *Polemic*: the Online Etymology Dictionary."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "11.0",
+              "w": [
+                3,
+                4
+              ],
+              "gloss": "books · books of law",
+              "note": "Johnson’s dictionary of 1755 gives *code* two senses: a book, and a book of the civil law.",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under Code"
+            },
+            {
+              "row": "12.0",
+              "w": [
+                8,
+                8
+              ],
+              "gloss": "to wit, that is",
+              "note": "The Latin *videlicet* written short. The gloss is Johnson’s definition.",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under Viz and Videlicet"
+            },
+            {
+              "row": "13.0",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "force, vigor",
+              "note": "Johnson (1755): power not exerted in action; force, vigor, influence; and of speech, spirit, life. One of his examples speaks of God’s eternal energy. The sense in physics is first recorded in 1802.",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under Energy; Oxford English Dictionary, energy, n., sense 6.a.i (1802–)"
+            },
+            {
+              "row": "13.0",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "so named by the religious",
+              "note": "Just before this section the book says that *Good* and *Evil* are what the religious call them.",
+              "source": "blake/marriage, block 8"
+            },
+            {
+              "row": "14.0",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "answered by Delight",
+              "note": "Soon after, the speaker walks through Hell’s fires and is delighted with enjoyments that, he says, look to Angels like torment and insanity.",
+              "source": "blake/marriage, block 30"
+            },
+            {
+              "row": "p:15.0",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "opposites · opposed statements",
+              "note": "Johnson: a thing of opposite qualities; a proposition contrary to some other. The book has just said that there is no progression without contraries.",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under Contrary, n.s., senses 1 and 2; blake/marriage, block 7"
+            },
+            {
+              "row": "p:16.0",
+              "w": [
+                25,
+                25
+              ],
+              "gloss": "ways in, entrances",
+              "note": "Johnson: passage, place of ingress, entrance. His examples include Milton’s *inlet of each sense* and Locke, whose *Essay* calls the senses *inlets*, and perception *the inlet of all knowledge*.",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under Inlet; John Locke, An Essay Concerning Human Understanding (1690), book 2, chapter 9, sections 14 and 15"
+            },
+            {
+              "row": "p:17.0",
+              "w": [
+                15,
+                18
+              ],
+              "gloss": "limit · the line drawn round",
+              "note": "Johnson: *bound*, a limit; *circumference*, the line including and surrounding any thing. His first example for *circumference* is Milton’s: the Son of God, whom Milton also names Messiah, says *bounds* and *circumference* as he marks out the world with golden compasses.",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under Bound, n.s., and Circumference; John Milton, Paradise Lost, book 7, lines 216–231, and books 5 and 6 for the name Messiah"
+            }
+          ],
+          "caption": "<b>Energy</b> was not yet a word of physics: that sense is first recorded in 1802. Johnson’s dictionary of 1755 gives force and vigor and, of speech, spirit and life. The second contrary calls it <i>the only life</i>. Locke used <b>inlets</b> for the senses, the passages by which ideas enter. Auden quotes a statement of Blake’s in which unbelief means Bacon, Newton and Locke. The first contrary limits the word twice: the <i>chief</i> inlets, <i>in this age</i>. <b>Bound</b>, as <i>bounds</i>, and <b>circumference</b> are words Milton’s Son of God, the Messiah, speaks as he marks out the world with compasses. Soon the book says that in <i>Paradise Lost</i> Reason is called Messiah.",
+          "why": "The first contrary uses inlets, a word Locke used for the senses, and limits it with chief and in this age; the second gives Reason bound and circumference, words Milton’s Son of God speaks as he marks out the world.",
+          "grounds": [
+            {
+              "claim": "the senses of energy in 1755, and the first record of the sense in physics",
+              "kind": "source",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under Energy; Oxford English Dictionary, energy, n., sense 6.a.i (1802–)"
+            },
+            {
+              "claim": "Energy is the only life",
+              "kind": "text",
+              "source": "blake/marriage, block 17"
+            },
+            {
+              "claim": "Locke calls the senses inlets, the passages by which ideas enter",
+              "kind": "source",
+              "source": "John Locke, An Essay Concerning Human Understanding (1690), book 2, chapter 9, sections 14 and 15; Samuel Johnson, A Dictionary of the English Language (1755), under Inlet, which quotes Locke and Milton"
+            },
+            {
+              "claim": "Auden quotes a statement of Blake’s in which unbelief means Bacon, Newton and Locke: its speaker calls madness a refuge from unbelief, and the three names follow at once as what is fled",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950), p. 44 in the Vintage edition (1967); read again by the finisher on 2026-10-03 in research/auden/ef.txt, lines 1883–1890"
+            },
+            {
+              "claim": "the first contrary says the chief inlets, and in this age",
+              "kind": "plate"
+            },
+            {
+              "claim": "bounds and circumference are spoken as the Son marks out the world with compasses; Milton names the Son Messiah",
+              "kind": "source",
+              "source": "John Milton, Paradise Lost, book 7, lines 216–231, and books 5 and 6 for the name Messiah; Samuel Johnson, A Dictionary of the English Language (1755), under Circumference, whose first example is these lines"
+            },
+            {
+              "claim": "the book says, a few lines on in the same section, that the Governor or Reason is called Messiah in Paradise Lost (the sentence is given to the book and not to the Devil, because block 25 of the same section speaks of the Devil’s account in the third person)",
+              "kind": "text",
+              "source": "blake/marriage, block 21"
+            }
+          ],
+          "stands": "*Energy*: Johnson’s *Dictionary* (1755) and the *Oxford English Dictionary*, energy, sense 6.a.i. *Inlets*: Johnson under Inlet; Locke’s *Essay*, book 2, chapter 9, sections 14 and 15. Auden’s quotation of Blake: *The Enchafèd Flood*, p. 44. *Bound* and *circumference*: Johnson; *Paradise Lost*, book 7, lines 216–231. The lines themselves, and [the sentence on Milton](#/read/blake/marriage:21) a few lines on."
+        }
+      ]
+    },
+    {
+      "id": "sentence",
+      "heading": "The Devil’s sentence",
+      "text": "blake/marriage",
+      "rows": [
+        "32.0-32.1"
+      ],
+      "turn": { "32.0": 6 },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "fourteen syllables and seven beats, the line beginning off the beat",
+          "scan": {
+            "32.0": {
+              "meter": "x/x/x/x/x/x/x/",
+              "voice": "/ x x / x /x / x / x /x /"
+            },
+            "32.1": {
+              "meter": "x/x/x/x/x/x/x/",
+              "voice": "x x x/ / x x/ | / x x /x /"
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "32.0",
+                0,
+                1
+              ],
+              "say": "These two syllables can be heard two ways: with the stress on *How*, as marked, or on *do*, which is the measure itself. From the third syllable on, voice and measure agree to the end of the line."
+            },
+            {
+              "at": [
+                "32.0",
+                6,
+                6
+              ],
+              "say": "The eighth syllable. The old long line paused here, and the ballad stanza breaks it here into eight syllables and six. In the second line the comma falls at the same place."
+            },
+            {
+              "at": [
+                "32.1",
+                2,
+                3
+              ],
+              "say": "Two stresses side by side. The beats on either side of them fall on *an* and *of*, which the voice passes over."
+            },
+            {
+              "at": [
+                "32.1",
+                6,
+                6
+              ],
+              "say": "A stress where the measure has no beat. This is commonly called an inversion, and a handbook of verse notes that it nearly always stands next to a pause."
+            }
+          ],
+          "caption": "Each line has fourteen syllables and seven beats, the old long line that broke after its eighth syllable into the ballad stanza. The first line is nearly two lines of a ballad by Thomas Chatterton, with a <b>bird</b> for the ballad’s dart, and after two syllables voice and measure agree. In the second they part. <b>World</b> takes a stress straight after <b>immense</b>. Two stresses together slow a line, and here it slows on what every bird is. After the comma <b>closed</b> takes a stress where the measure has no beat. A handbook of verse counts such a syllable as a foot by itself, one unit of the measure, set off by the pause.",
+          "why": "The line that is close to Chatterton’s ballad keeps the ballad’s measure; in the next the voice slows on immense world, where two stresses meet, and after the comma closed is scanned as a foot by itself.",
+          "grounds": [
+            {
+              "claim": "the measure of each line, and where the voice leaves it",
+              "kind": "plate"
+            },
+            {
+              "claim": "the line of fourteen syllables and seven stresses paused after its fourth foot and broke into the ballad stanza",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the septenary; Samuel Johnson, Life of Dryden, in Lives of the Poets (the break always at the eighth syllable; quatrains of eight and six)"
+            },
+            {
+              "claim": "the first line is close to two lines of Chatterton’s ballad, which has a dart where Blake has a bird",
+              "kind": "source",
+              "source": "Thomas Chatterton, Bristowe Tragedie, lines 133–134, in the Rowley Poems (Tyrwhitt’s third edition, 1778; Project Gutenberg no. 13037), whose note says the poem was printed at London in 1772; Jonathan Lamb, “Bard of Tropes,” London Review of Books, 20 September 2001, on the stanza’s phrases heard again in the Marriage"
+            },
+            {
+              "claim": "stresses that fall together slow a line",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on lines overweighted with stress"
+            },
+            {
+              "claim": "a stressed syllable where a light one is due is commonly called an inversion; Baum scans it as a foot of one syllable after a rest, and says it nearly always stands next to a pause; his glossary defines a foot as the smallest metrical unit of rhythm",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on inversion (.cache/handbooks/baum-versification-pg21342.txt, lines 6599–6622), and the glossary under Foot (line 7404), read by the finisher on 2026-10-03 for the words one unit of the measure, which the critic added to the caption"
+            },
+            {
+              "claim": "every bird is an immense world",
+              "kind": "text",
+              "source": "rows 32.0 and 32.1"
+            }
+          ],
+          "stands": "The marks on the passage. The line of fourteen syllables and the ballad stanza: Paull F. Baum, *The Principles of English Versification*, chapter 4, and Samuel Johnson’s *Life of Dryden*. The ballad: Thomas Chatterton, *Bristowe Tragedie*, lines 133–136; a reviewer in the *London Review of Books*, 20 September 2001, hears its phrases in the *Marriage*. Stresses that fall together, and a stress after a pause: Baum, chapter 5."
+        },
+        {
+          "kind": "sentence",
+          "label": "Question",
+          "spans": [
+            {
+              "from": [
+                "32.0",
+                0
+              ],
+              "to": [
+                "32.0",
+                3
+              ],
+              "tag": "main",
+              "label": "the main clause"
+            },
+            {
+              "from": [
+                "32.0",
+                4
+              ],
+              "to": [
+                "32.0",
+                4
+              ],
+              "tag": "but",
+              "label": "otherwise than that"
+            },
+            {
+              "from": [
+                "32.0",
+                5
+              ],
+              "to": [
+                "32.0",
+                11
+              ],
+              "tag": "subject",
+              "label": "the subject"
+            },
+            {
+              "from": [
+                "32.1",
+                0
+              ],
+              "to": [
+                "32.1",
+                0
+              ],
+              "tag": "verb",
+              "label": "its verb"
+            },
+            {
+              "from": [
+                "32.1",
+                1
+              ],
+              "to": [
+                "32.1",
+                5
+              ],
+              "tag": "what",
+              "label": "what it is"
+            },
+            {
+              "from": [
+                "32.1",
+                6
+              ],
+              "to": [
+                "32.1",
+                10
+              ],
+              "tag": "what"
+            }
+          ],
+          "caption": "The Devil writes one sentence, a question. Its main clause is the first four words, and they are about <b>you</b>: the prose says men read it on earth. <b>But</b> after <i>know</i> has the sense Johnson’s dictionary gives as <i>otherwise than that</i>: the question is how you know that it is not so. The claim that every bird is a world is nowhere asserted. It hangs on a question about what the reader knows. Its subject fills out the first line and its verb, <b>Is</b>, opens the second, so the sense runs on where the measure pauses. The sentence begins with your knowing and ends on <b>your senses five</b>.",
+          "why": "The claim that every bird is a world is never asserted: it is the dependent clause of a question about what you know, and the sentence that begins with your knowing ends on your senses five.",
+          "grounds": [
+            {
+              "claim": "the main clause, the clause hung on it, the subject in one line and its verb in the next, the first and last words",
+              "kind": "plate"
+            },
+            {
+              "claim": "the measure has a pause at the end of every line; a line whose sense runs over into the next without a grammatical pause is a run-on line",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 3, on the metrical pause, and the glossary under Run-on line and Overflow (.cache/handbooks/baum-versification-pg21342.txt, lines 2123–2131, 7487–7489 and 7566–7567)"
+            },
+            {
+              "claim": "the prose before the sentence says that men now perceive it and read it on earth",
+              "kind": "text",
+              "source": "blake/marriage, block 31"
+            },
+            {
+              "claim": "but after a verb of knowing: otherwise than that; that not",
+              "kind": "source",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under But, sense 7; Webster’s Revised Unabridged Dictionary (1913), under But, prep., adv. & conj., sense 4"
+            }
+          ],
+          "stands": "The marks on the passage. The prose [just before the sentence](#/read/blake/marriage:31), which says that men read it on earth. *But* after a verb of knowing: Johnson’s *Dictionary* (1755), But, sense 7, and *Webster’s Revised Unabridged Dictionary* (1913), But, sense 4. The run-on line: Paull F. Baum, *The Principles of English Versification*, chapter 3 and the glossary."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "32.0",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "otherwise than that",
+              "note": "Johnson lists this sense in 1755. A later dictionary adds: that not.",
+              "source": "Samuel Johnson, A Dictionary of the English Language (1755), under But, sense 7; Webster’s Revised Unabridged Dictionary (1913), under But, prep., adv. & conj., sense 4"
+            },
+            {
+              "row": "32.0",
+              "w": [
+                8,
+                11
+              ],
+              "gloss": "a ballad’s phrase",
+              "note": "In Chatterton’s ballad a knight condemned to die says he despises death: in battle he never knew that any dart flying through the air would not reach his heart and close his eyes for ever.",
+              "source": "Thomas Chatterton, Bristowe Tragedie, lines 133–136 (Rowley Poems, 1778; Project Gutenberg no. 13037)"
+            },
+            {
+              "row": "32.1",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "not measured",
+              "note": "Latin *immensus*: *in-*, not, and *mensus*, measured. Johnson gives unlimited, unbounded, infinite. The second contrary calls Reason the bound of Energy.",
+              "source": "Online Etymology Dictionary, under immense; Samuel Johnson, A Dictionary of the English Language (1755), under Immense; blake/marriage, block 17"
+            },
+            {
+              "row": "32.1",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "what Energy is",
+              "note": "The last word of the third contrary in the first passage: *Energy is Eternal Delight*.",
+              "source": "blake/marriage, block 18"
+            },
+            {
+              "row": "32.1",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "shut · the ballad’s verb",
+              "note": "The verb of the last line of the ballad’s stanza, where it is said of eyes shut by death. Later the book uses it again: man *has closed himself up*, and sees all things through the chinks of a cave.",
+              "source": "Thomas Chatterton, Bristowe Tragedie, line 136; blake/marriage, block 51"
+            },
+            {
+              "row": "32.1",
+              "w": [
+                9,
+                10
+              ],
+              "gloss": "the number comes last",
+              "note": "The prose of the book says *the five senses*, three times. Here the order is turned, and the number is the last word, on the last beat.",
+              "source": "blake/marriage, blocks 16, 27 and 31"
+            }
+          ],
+          "caption": "<b>Immense</b> is from the Latin for <i>not measured</i>; Johnson gives unlimited, unbounded, infinite. <b>Closed</b> is the last verb of the ballad stanza that the first line resembles, said there of eyes shut by death. Later the book’s prose says that if the <i>doors of perception</i> were cleansed everything would appear infinite, and that man <i>has closed himself up</i>. The prose says <i>the five senses</i> three times; the verse turns the order and ends on <b>five</b>. <b>Delight</b> is what the third contrary says Energy is. Auden’s verse on Blake has him hear something holy singing within every thing that dies.",
+          "why": "Immense is by its Latin not measured, and closed is the ballad’s verb for eyes shut by death; the book’s prose says later that man has closed himself up, and that with perception cleansed everything would appear infinite.",
+          "grounds": [
+            {
+              "claim": "immense: Latin for not measured; in 1755 unlimited, unbounded, infinite",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under immense; Samuel Johnson, A Dictionary of the English Language (1755), under Immense"
+            },
+            {
+              "claim": "the book’s prose says the five senses three times",
+              "kind": "text",
+              "source": "blake/marriage, blocks 16, 27 and 31"
+            },
+            {
+              "claim": "five is the last word of the sentence and stands on the last beat",
+              "kind": "plate"
+            },
+            {
+              "claim": "close is the verb of the ballad stanza’s last line, said of eyes",
+              "kind": "source",
+              "source": "Thomas Chatterton, Bristowe Tragedie, line 136 (Rowley Poems, 1778; Project Gutenberg no. 13037)"
+            },
+            {
+              "claim": "Energy is Eternal Delight",
+              "kind": "text",
+              "source": "blake/marriage, block 18"
+            },
+            {
+              "claim": "if the doors of perception were cleansed everything would appear to man as it is, infinite; for man has closed himself up",
+              "kind": "text",
+              "source": "blake/marriage, blocks 50 and 51; the word closed comes in the book only here and in the Devil’s sentence"
+            },
+            {
+              "claim": "Auden’s lines on what Blake heard in every mortal thing",
+              "kind": "auden",
+              "source": "New Year Letter (1941), Part I: the lines found word for word by full-text search in the scans of New Year Letter (Faber, 1941) and The Double Man (1941) at the Internet Archive, 2026-10-03; the pages in The Collected Poetry of W. H. Auden (1945), pp. 269–70, are from remake/research/C_auden_on_works.md, section 13"
+            }
+          ],
+          "stands": "*Immense*: the Online Etymology Dictionary and Johnson’s *Dictionary* (1755). The ballad’s verb: Thomas Chatterton, *Bristowe Tragedie*, line 136. The book’s own prose, [later on](#/read/blake/marriage:50). A count of *the five senses* in the text printed here: three times, all in prose. The third contrary, in the first passage. Auden’s lines on Blake: *New Year Letter* (1941), Part I."
+        }
+      ]
+    },
+    {
+      "id": "proverbs",
+      "heading": "Six Proverbs of Hell",
+      "text": "blake/marriage",
+      "rows": [
+        "34.20-34.25"
+      ],
+      "turn": { "34.21": 4, "34.22": 4, "34.23": 4, "34.24": 3 },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Frame",
+          "name": "parallelism",
+          "plain": "sentences of the same build, set side by side",
+          "draw": "align",
+          "parts": [
+            {
+              "row": "34.21",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "sin",
+              "label": "sin or shame"
+            },
+            {
+              "row": "34.21",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "creature",
+              "label": "who has it"
+            },
+            {
+              "row": "34.21",
+              "w": [
+                5,
+                5
+              ],
+              "tag": "is",
+              "label": "is"
+            },
+            {
+              "row": "34.21",
+              "w": [
+                7,
+                7
+              ],
+              "tag": "gods",
+              "label": "what is God’s"
+            },
+            {
+              "row": "34.21",
+              "w": [
+                9,
+                9
+              ],
+              "tag": "God",
+              "label": "God"
+            },
+            {
+              "row": "34.22",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "sin",
+              "label": "sin or shame"
+            },
+            {
+              "row": "34.22",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "creature",
+              "label": "who has it"
+            },
+            {
+              "row": "34.22",
+              "w": [
+                5,
+                5
+              ],
+              "tag": "is",
+              "label": "is"
+            },
+            {
+              "row": "34.22",
+              "w": [
+                7,
+                7
+              ],
+              "tag": "gods",
+              "label": "what is God’s"
+            },
+            {
+              "row": "34.22",
+              "w": [
+                9,
+                9
+              ],
+              "tag": "God",
+              "label": "God"
+            },
+            {
+              "row": "34.23",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "sin",
+              "label": "sin or shame"
+            },
+            {
+              "row": "34.23",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "creature",
+              "label": "who has it"
+            },
+            {
+              "row": "34.23",
+              "w": [
+                5,
+                5
+              ],
+              "tag": "is",
+              "label": "is"
+            },
+            {
+              "row": "34.23",
+              "w": [
+                7,
+                7
+              ],
+              "tag": "gods",
+              "label": "what is God’s"
+            },
+            {
+              "row": "34.23",
+              "w": [
+                9,
+                9
+              ],
+              "tag": "God",
+              "label": "God"
+            },
+            {
+              "row": "34.24",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "sin",
+              "label": "sin or shame"
+            },
+            {
+              "row": "34.24",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "creature",
+              "label": "who has it"
+            },
+            {
+              "row": "34.24",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "is",
+              "label": "is"
+            },
+            {
+              "row": "34.24",
+              "w": [
+                6,
+                6
+              ],
+              "tag": "gods",
+              "label": "what is God’s"
+            },
+            {
+              "row": "34.24",
+              "w": [
+                8,
+                8
+              ],
+              "tag": "God",
+              "label": "God"
+            }
+          ],
+          "caption": "Four lines keep one frame: the X of a creature is the Y of God. The Book of Proverbs uses the same frame. In the first place stand <b>pride</b>, <b>lust</b> and <b>wrath</b>, three of the seven deadly sins, and <b>nakedness</b>, for which Adam in Genesis is afraid and hides. In the last place stands <b>God</b>. The verb between is <b>is</b>, with no <i>like</i> or <i>as</i>, and no line gives a reason. An aphorist, says a foreword Auden signed, states his point and does not argue for it. Later the book says that God acts and is only <i>in existing beings or men</i>, and Auden gives that as Blake’s position.",
+          "why": "A frame of the Bible’s proverbs joins a sin or a shame to what is God’s with the bare verb is; Auden gives as Blake’s position that God acts and exists only in existing beings and men.",
+          "grounds": [
+            {
+              "claim": "the four lines keep one order of words, with is between and God last",
+              "kind": "plate"
+            },
+            {
+              "claim": "parallelism: similarity of structure in a series of related clauses",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under parallelism"
+            },
+            {
+              "claim": "verses of the Book of Proverbs are built on the frame The … of … is the … of …",
+              "kind": "source",
+              "source": "Proverbs 1:7, 9:10, 15:33, 20:27 and 20:29 (King James Version); 33 of the book’s 915 verses begin The … of … is, counted in Project Gutenberg no. 10"
+            },
+            {
+              "claim": "pride, lust and wrath are three of the seven deadly sins",
+              "kind": "source",
+              "source": "Catholic Encyclopedia (1912), under Sin: vainglory (pride), lust and anger among the seven capital sins; Oxford English Dictionary, pride, n.1, sense I.1.c; Wikipedia, “Seven deadly sins,” whose standard list names wrath"
+            },
+            {
+              "claim": "Adam is afraid because he is naked, and hides",
+              "kind": "source",
+              "source": "Genesis 3:7–10 (King James Version)"
+            },
+            {
+              "claim": "the aphorist states his point and gives no argument or explanation",
+              "kind": "auden",
+              "source": "Foreword to The Viking Book of Aphorisms, edited by W. H. Auden and Louis Kronenberger (1962), signed with the initials of both editors: the sentence found by full-text search in the scans of the Viking and Faber editions at the Internet Archive, 2026-10-03; it begins at the foot of p. vii in The Faber Book of Aphorisms (1964), and in the Viking printing of 1963 the foreword ends on p. vi"
+            },
+            {
+              "claim": "to Blake, God acts and exists only in beings that exist and in men",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950), p. 50 in the Vintage edition (1967)"
+            },
+            {
+              "claim": "the speaker’s own answer, later in the book, on where God acts and is",
+              "kind": "text",
+              "source": "blake/marriage, block 63"
+            }
+          ],
+          "stands": "The marks on the passage. Parallelism as *Silva Rhetoricae* defines it. Proverbs 1:7, 9:10, 15:33, 20:27 and 20:29, and Genesis 3:7–10, in the King James Bible. The seven deadly sins: the *Catholic Encyclopedia*, under Sin. The foreword to *The Viking Book of Aphorisms* (1962). The book’s own sentence on [where God acts and is](#/read/blake/marriage:63). Auden on Blake’s position: *The Enchafèd Flood*, p. 50."
+        },
+        {
+          "kind": "sentence",
+          "label": "Yoke",
+          "spans": [
+            {
+              "from": [
+                "34.20",
+                0
+              ],
+              "to": [
+                "34.20",
+                6
+              ],
+              "tag": "half",
+              "label": "a half of the line"
+            },
+            {
+              "from": [
+                "34.20",
+                1
+              ],
+              "to": [
+                "34.20",
+                2
+              ],
+              "tag": "verb",
+              "label": "the verb, said once"
+            },
+            {
+              "from": [
+                "34.20",
+                7
+              ],
+              "to": [
+                "34.20",
+                11
+              ],
+              "tag": "half"
+            },
+            {
+              "from": [
+                "34.20",
+                0
+              ],
+              "to": [
+                "34.20",
+                0
+              ],
+              "tag": "built",
+              "label": "what is built"
+            },
+            {
+              "from": [
+                "34.20",
+                7
+              ],
+              "to": [
+                "34.20",
+                7
+              ],
+              "tag": "built"
+            },
+            {
+              "from": [
+                "34.20",
+                4
+              ],
+              "to": [
+                "34.20",
+                4
+              ],
+              "tag": "with",
+              "label": "with what"
+            },
+            {
+              "from": [
+                "34.20",
+                9
+              ],
+              "to": [
+                "34.20",
+                9
+              ],
+              "tag": "with"
+            },
+            {
+              "from": [
+                "34.20",
+                6
+              ],
+              "to": [
+                "34.20",
+                6
+              ],
+              "tag": "of",
+              "label": "of what"
+            },
+            {
+              "from": [
+                "34.20",
+                11
+              ],
+              "to": [
+                "34.20",
+                11
+              ],
+              "tag": "of"
+            }
+          ],
+          "caption": "The line has two halves and one verb. <b>Are built</b> is said once, of <b>prisons</b>, and the second half leaves it out. Rhetoric calls this a yoking, in Greek <i>zeugma</i>: one verb governs two clauses. The second half borrows the verb, so its nouns pair with the first’s: <b>brothels</b> with prisons, <b>bricks</b> with <b>stones</b>, <b>religion</b> with <b>law</b>. The Law of Moses was written on stone, and the book later speaks of <i>the stony law</i>. Auden wrote that Blake detested a God who is a Judge, laying down the moral law and punishing. In this line law is what prisons are built with, and the one verb sets religion beside it.",
+          "why": "One verb, are built, serves both halves, so brothels and bricks of religion are yoked to prisons and stones of law; Auden says Blake detested the Judge who lays down the moral law.",
+          "grounds": [
+            {
+              "claim": "one verb in the first half and none in the second; the three pairs of nouns",
+              "kind": "plate"
+            },
+            {
+              "claim": "zeugma, a yoking: one part of speech, most often the main verb, governs two or more parts of a sentence; the verb of the first clause is left out of the others",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under zeugma and prozeugma"
+            },
+            {
+              "claim": "the Law is given to Moses on tables of stone",
+              "kind": "source",
+              "source": "Exodus 24:12 and 31:18 (King James Version)"
+            },
+            {
+              "claim": "the stony law is stamped to dust",
+              "kind": "text",
+              "source": "blake/marriage, block 117"
+            },
+            {
+              "claim": "Blake detested the Judge who makes the moral law and punishes those who break it",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950), p. 49 in the Vintage edition (1967)"
+            },
+            {
+              "claim": "what prisons are built with, and what the one verb sets beside it",
+              "kind": "text",
+              "source": "row 34.20"
+            }
+          ],
+          "stands": "The marks on the passage, and the line itself. Zeugma and prozeugma as *Silva Rhetoricae* defines them. The tables of stone: Exodus 24:12 and 31:18, in the King James Bible. *The stony law*: near the end of the book, in [“A Song of Liberty”](#/read/blake/marriage:117). Auden on the Judge: *The Enchafèd Flood*, p. 49."
+        },
+        {
+          "kind": "figure",
+          "label": "Cross",
+          "name": "chiasmus",
+          "plain": "a crossing: two things are named, then named again in the opposite order",
+          "draw": "cross",
+          "parts": [
+            {
+              "row": "34.25",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "A",
+              "label": "grief"
+            },
+            {
+              "row": "34.25",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "B",
+              "label": "mirth"
+            },
+            {
+              "row": "34.25",
+              "w": [
+                6,
+                6
+              ],
+              "tag": "B",
+              "label": "mirth"
+            },
+            {
+              "row": "34.25",
+              "w": [
+                7,
+                7
+              ],
+              "tag": "A",
+              "label": "grief"
+            },
+            {
+              "row": "34.25",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "excess",
+              "label": "the same noun"
+            },
+            {
+              "row": "34.25",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "excess",
+              "label": "the same noun"
+            }
+          ],
+          "caption": "The two halves are built alike: <b>excess</b>, a feeling, a verb. The ideas run the other way. Grief comes first and last, in <b>sorrow</b> and <b>weeps</b>; mirth stands in the middle, in <b>laughs</b> and <b>joy</b>. Rhetoric calls ideas that return in the opposite order a chiasmus, a crossing. Here the crossing gives each feeling the other’s verb. The noun the halves share is <b>excess</b>, from the Latin for going beyond, and it is the subject of both verbs. An earlier proverb sets wisdom’s palace at the end of <i>the road of excess</i>. A later one takes the expected verbs away: joys do not laugh and sorrows do not weep.",
+          "why": "The halves match in grammar and cross in sense, so sorrow gets the verb of joy and joy the verb of sorrow; excess, the noun they share, is the subject of both verbs.",
+          "grounds": [
+            {
+              "claim": "the order of the four words of grief and mirth, and the noun that stands at the head of each half",
+              "kind": "plate"
+            },
+            {
+              "claim": "chiasmus: repetition of ideas in inverted order",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under chiasmus"
+            },
+            {
+              "claim": "excess is from Latin excessus, a going beyond",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under excess"
+            },
+            {
+              "claim": "an earlier proverb: the road of excess and the palace of wisdom",
+              "kind": "text",
+              "source": "blake/marriage, row 34.2"
+            },
+            {
+              "claim": "joys laugh not; sorrows weep not",
+              "kind": "text",
+              "source": "blake/marriage, row 34.58"
+            }
+          ],
+          "stands": "The marks on the passage. Chiasmus as *Silva Rhetoricae* defines it: ideas repeated in inverted order. *Excess*: the Online Etymology Dictionary. Two other proverbs in [the same list](#/read/blake/marriage:34): the third, on the road of excess, and the fifty-ninth, on joys and sorrows."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "34.20",
+              "w": [
+                4,
+                6
+              ],
+              "gloss": "in Exodus, tables of stone",
+              "note": "In Exodus the Law is given to Moses on tables of stone. Near its end the book speaks of *the stony law*.",
+              "source": "Exodus 24:12 and 31:18 (King James Version); blake/marriage, block 117"
+            },
+            {
+              "row": "34.21",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "the sin · the spread tail",
+              "note": "The first of the seven deadly sins. In heraldry a peacock *in his pride* is one with its tail spread, and Johnson’s dictionary of 1755 lists ornament, show and splendor among the senses of *pride*.",
+              "source": "Oxford English Dictionary, pride, n.1, senses I.1.c and P.2 (with examples of 1766 and 1790); Samuel Johnson, A Dictionary of the English Language (1755), under Pride, senses 6 and 7; Online Etymology Dictionary, under peacock"
+            },
+            {
+              "row": "34.21",
+              "w": [
+                7,
+                9
+              ],
+              "gloss": "a Bible phrase",
+              "note": "*The glory of God* comes sixteen times in the King James Bible, *the wisdom of God* five times and *the work of God* six. *The bounty of God* is not in it.",
+              "source": "King James Bible (Project Gutenberg no. 10), counted on 2026-10-03"
+            },
+            {
+              "row": "34.22",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "desire · once pleasure",
+              "note": "In Old English the word meant desire and pleasure; the sense of sinful desire came from its use in Bible translations. Johnson records an old sense, vigor, as no longer used, and defines *goatish* by rankness and lust.",
+              "source": "Online Etymology Dictionary, under lust; Samuel Johnson, A Dictionary of the English Language (1755), under Lust, sense 3, and Goatish"
+            },
+            {
+              "row": "34.22",
+              "w": [
+                7,
+                7
+              ],
+              "gloss": "goodness, generous giving",
+              "note": "From Latin *bonitas*, goodness, through French. Johnson: generosity, liberality, munificence.",
+              "source": "Online Etymology Dictionary, under bounty; Samuel Johnson, A Dictionary of the English Language (1755), under Bounty"
+            },
+            {
+              "row": "34.23",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "anger · also God’s",
+              "note": "The Old English word was used especially of the anger of a god. *The wrath of God* is a phrase of the English Bible, and in Proverbs the wrath of a king is likened to the roar of a lion.",
+              "source": "Online Etymology Dictionary, under wrath; Proverbs 19:12 (King James Version); the phrase counted in Project Gutenberg no. 10"
+            },
+            {
+              "row": "34.24",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "why Adam was afraid",
+              "note": "In Genesis the man and the woman are naked and not ashamed until the Fall; then Adam is afraid because he is naked, and hides. Leviticus 18 uses the word two dozen times in its prohibitions.",
+              "source": "Genesis 2:25 and 3:7–10; Leviticus 18:6–19 (King James Version)"
+            },
+            {
+              "row": "34.25",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "a going beyond",
+              "note": "From Latin *excessus*, a going beyond. Johnson: more than enough; exuberance; violence of passion; transgression of due limits.",
+              "source": "Online Etymology Dictionary, under excess; Samuel Johnson, A Dictionary of the English Language (1755), under Excess"
+            }
+          ],
+          "caption": "<b>Pride</b> is the first of the deadly sins, and in heraldry a peacock <i>in his pride</i> is one with its tail spread. <b>Lust</b> meant desire and pleasure in Old English; its sinful sense came from Bible translations, and Johnson’s dictionary names it as a quality of the goat. <b>Wrath</b> in the Bible is God’s as well as man’s, and Proverbs likens a king’s wrath to a lion’s roar. Each of the three sins stands with an animal already tied to it. <b>Nakedness</b> is the word of the prohibitions in Leviticus. Three of the four endings are Bible phrases: the glory, the wisdom and the work of God.",
+          "why": "Each of the three sins stands with an animal tied to it: a peacock in his pride has its tail spread, Johnson names lust as a goat’s quality, and Proverbs likens a king’s wrath to a lion’s roar.",
+          "grounds": [
+            {
+              "claim": "pride: the first of the seven deadly sins; in heraldry a peacock with its tail spread; ornament and splendor in 1755",
+              "kind": "source",
+              "source": "Oxford English Dictionary, pride, n.1, senses I.1.c and P.2; Samuel Johnson, A Dictionary of the English Language (1755), under Pride, senses 6 and 7"
+            },
+            {
+              "claim": "lust: desire and pleasure in Old English; the sinful sense from Bible translations; lust given as a quality of the goat",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under lust; Samuel Johnson, A Dictionary of the English Language (1755), under Goatish (resembling a goat in any qualities: as, rankness; lust)"
+            },
+            {
+              "claim": "wrath is said of God and of man in the English Bible; a king’s wrath is likened to the roaring of a lion",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under wrath; the wrath of God, ten times in the King James Bible (Project Gutenberg no. 10); the wrath of man, Psalm 76:10 and James 1:20; Proverbs 19:12"
+            },
+            {
+              "claim": "the glory of God, the wisdom of God and the work of God are phrases of the English Bible; the bounty of God is not",
+              "kind": "source",
+              "source": "King James Bible (Project Gutenberg no. 10), counted on 2026-10-03"
+            },
+            {
+              "claim": "nakedness is the word of the prohibitions in Leviticus 18, where it comes two dozen times",
+              "kind": "source",
+              "source": "Leviticus 18:6–19 (King James Version), counted in Project Gutenberg no. 10"
+            },
+            {
+              "claim": "lust and wrath are among the seven deadly sins",
+              "kind": "source",
+              "source": "Catholic Encyclopedia (1912), under Sin (lust; anger); Wikipedia, “Seven deadly sins,” whose standard list names lust and wrath"
+            },
+            {
+              "claim": "which word stands in which place of each line",
+              "kind": "plate"
+            }
+          ],
+          "stands": "*Pride*: the *Oxford English Dictionary*, pride, senses I.1.c and P.2. *Lust* and *wrath*: the Online Etymology Dictionary; Johnson’s *Dictionary* (1755) under Goatish; Proverbs 19:12. Counts in the King James Bible of *the glory of God*, *the wisdom of God* and *the work of God*, and of *nakedness* in Leviticus 18. The seven deadly sins: the *Catholic Encyclopedia*, under Sin."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In an essay of 1935, “Psychology and Art To-day,” Auden remarked in a parenthesis that Blake’s book holds all that Freud taught.",
+      "source": "“Psychology and Art To-day,” in *The Arts To-day*, edited by Geoffrey Grigson (1935); in *Prose*, vol. I (1996), p. 99",
+      "checked": "The remark was found by the examiner on 2026-10-03, by full-text search, in the scan of The Arts To-day (London: John Lane, 1935) at the Internet Archive (item artstoday0000unse) and in The English Auden; it closes a parenthesis. Only the snippet was seen, and no page of The Arts To-day. The page in Prose, vol. I is as Edward Mendelson cites it (Early Auden, Later Auden, 2017, pp. 390–92), by remake/research/C_auden_on_works.md, section 13."
+    },
+    {
+      "says": "In 1939 Auden began a prose book of his own on this model. He took its title, *The Prolific and the Devourer*, from the *Marriage*, and its epigraph is Blake’s passage on the two classes of men. In a letter of May 1939 he described it as his own new version of Blake’s book.",
+      "source": "*The Prolific and the Devourer* (written 1939; Ecco Press, 1994), with Edward Mendelson’s preface, which quotes the letter",
+      "checked": "remake/research/C_auden_on_works.md, section 13 and the appendix (title, epigraph, letter). On 2026-10-03 the examiner found the sentence of the letter, by full-text search, in the preface of the Ecco edition at the Internet Archive (item prolificdevourer00aude, dated 1994 in its record), in the notes of Prose, vol. II (which cite the Bodleian Library) and in Humphrey Carpenter’s biography (which names Mrs Dodds as the recipient); the letter itself was not seen. The Dyer’s Hand read in the scan, research/auden/dh.txt, lines 19298–19329, on 2026-10-03: the sentence begins at the foot of p. 409 and ends on p. 410, and its verb is suspect. The passage on the two classes of men is blake/marriage, blocks 61 to 64."
+    },
+    {
+      "says": "In *New Year Letter*, published in 1941, the year of the Michigan course, Blake is the second of the poets Auden imagines sitting in judgment on him. The lines call him self-taught, say that he broke with Newton’s universe, and have him talk with Isaiah in a London street; in the *Marriage* the speaker dines with Isaiah and Ezekiel. A note to the poem credits Blake with pointing out that dualism arises when the creation is pictured on the model of human politics.",
+      "quote": "And heard inside each mortal thing / Its holy emanation sing",
+      "source": "*New Year Letter* (1941), Part I, and the note to line 560; the lines also in *The Collected Poetry of W. H. Auden* (1945), pp. 269–70",
+      "checked": "The lines on Blake and the note headed Line 560 were found word for word by the examiner on 2026-10-03, by full-text search, in the scans of New Year Letter (Faber, 1941) and The Double Man (1941) at the Internet Archive (items newyearletter0000aude and doubleman0000aude); only snippets were seen. Part I and the pages of The Collected Poetry (1945) are from remake/research/C_auden_on_works.md, section 13 and the appendix. The dinner with Isaiah and Ezekiel is blake/marriage, block 37."
+    },
+    {
+      "says": "Auden wrote that Blake saw, as surely as ever, that the quarrel turned on the Incarnation and on the Forgiveness of Sins. If God is only a Judge, he has no power to forgive, only to find guilty or to clear. In a footnote Auden calls the theology of the deists and that of the romantics heresies alike. In his account the first has a God beyond the world, the second a God wholly within it.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 48–50",
+      "checked": "read in the scan, research/auden/ef.txt, lines 2066–2162, on 2026-10-03: the transcendent God on p. 48, the points at issue, the purely immanent God and the footnote (these heresies) on p. 50. Lines 2127–2132 read again by the finisher on 2026-10-03: Auden’s praise of Blake’s insight opens the sentence that names the two doctrines, and the next sentence is the one on the Judge. The finisher turned the two sentences of the entry that report these so that they share no run of five words with that page (the sweep had found six); nothing was added."
+    },
+    {
+      "says": "Auden called Blake a strongly polemical writer. Blake’s Enemy, he wrote, was a way of picturing the universe that Blake tied to Newton and held to do grave harm to the mind, to religion, to politics and to art. In his review of 1946, after saying that liberalism went on to adopt a doctrine of inevitable progress, he remarked that Blake was no meliorist. A meliorist believes that human effort can make the world better.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 44–45; “Red Lizards and White Stallions,” *The Saturday Review of Literature*, 13 April 1946, p. 22",
+      "checked": "The Enchafèd Flood read in the scan, research/auden/ef.txt, lines 1873–1937, on 2026-10-03 (highly polemical on p. 44, the Enemy on p. 45); the remark of 1946 read by the examiner in the scan of the magazine at the Internet Archive (item saturday-review_202511), first paragraph of the review. The Enchafèd Flood, lines 1883–1937, read again by the finisher on 2026-10-03. The last sentence of the entry is the dictionary’s sense of the word and not Auden’s: A New English Dictionary on Historical Principles, vol. VI (Oxford, 1908), under Meliorism, sense 1, and Meliorist, read by the finisher on 2026-10-03 in the scan on this machine, scratchpad/othello-poet/ned_oed6barch.txt, lines 139852–139896 (the title page with the year is in ned_oed6aarch.txt); a note there adds that some writers use the word of a belief that society tends to improve."
+    },
+    {
+      "says": "In a conversation that Alan Ansen wrote down between 1946 and 1948, Auden named Blake among the greatest aphorists, with Pascal, Baudelaire, Nietzsche and Kafka. The foreword that he and Louis Kronenberger signed to their book of aphorisms says that an aphorism must convince every reader that it holds universally, or of the whole class of things it speaks of, and that the aphorist states his point and gives no argument for it.",
+      "source": "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1991); foreword to *The Viking Book of Aphorisms*, edited by W. H. Auden and Louis Kronenberger (1962), p. vii in the Faber edition of 1964",
+      "checked": "Both found by the examiner on 2026-10-03 by full-text search in scans at the Internet Archive; only snippets were seen. Table Talk: item tabletalkofwhaud0000anse (Faber, 1991), no page seen. The date of this conversation was not found: remake/research/C_auden_on_works.md, section 13, labels every Table Talk remark (1947), and the editor’s foreword, seen in snippets, says the record runs from November 1946 to April 1948, so the reading gives that span. Foreword: signed W. H. A. and L. K.; the sentence on the aphorist begins at the foot of p. vii in The Faber Book of Aphorisms (item faberbookofaphor0000unse, 1964) and in the Viking printing of 1966; in the Viking printing of February 1963 (item vikingbookofapho0000unse) the foreword ends on p. vi, so the sentence is on p. v there by inference."
+    },
+    {
+      "says": "The one remark on Blake in Donald Pearce’s notes of the 1941 class comes in the lecture on *The Tempest* that December. By those notes, Auden said that, as Blake put it, a man is ruled by his spectre until he sees its reflection, and can then tell the self he seems from the self he is. The saying is not in the *Marriage*. No notes of a class on the *Marriage* itself are among the sources read for this site.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 151",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, on 2026-10-03; the hosted text of the Marriage was searched for the word spectre"
+    }
+  ],
+  "next": "blake/marriage:0",
+  "sources": [
+    "The text: William Blake, *The Marriage of Heaven and Hell*, in the edition of John W. Luce and Company (Boston, 1906), which modernizes Blake’s spelling and stops, as Project Gutenberg prints it (no. 45315).",
+    "Blake’s own spelling and stops: the transcription of his etched pages (copy D) at Wikisource.",
+    "W. H. Auden, “Red Lizards and White Stallions,” a review of C. S. Lewis, *The Great Divorce*: *The Saturday Review of Literature*, 13 April 1946, p. 22; reprinted in his *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), beginning on p. 292.",
+    "W. H. Auden, *The Enchafèd Flood, or The Romantic Iconography of the Sea* (1950; Vintage Books edition, 1967), pp. 44–45 and 48–50.",
+    "W. H. Auden, *New Year Letter* (1941), Part I and the note to line 560; the lines on Blake are also in *The Collected Poetry of W. H. Auden* (1945), pp. 269–70.",
+    "W. H. Auden, “Psychology and Art To-day,” in *The Arts To-day*, edited by Geoffrey Grigson (1935); reprinted in his *Prose*, vol. I (1996), p. 99.",
+    "W. H. Auden, *The Prolific and the Devourer* (written in 1939; Ecco Press, 1994), with a preface by Edward Mendelson, which quotes the letter of May 1939.",
+    "W. H. Auden and Louis Kronenberger, *The Viking Book of Aphorisms* (1962), the foreword, signed by both editors; p. vii in the Faber edition, *The Faber Book of Aphorisms* (1964).",
+    "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1991): Ansen’s record of Auden’s conversation between November 1946 and April 1948.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 151: notes made after Auden’s lectures in the fall of 1941.",
+    "Samuel Johnson, *A Dictionary of the English Language* (1755), at johnsonsdictionaryonline.com: Bound, Bounty, But, Circumference, Code, Contrary, Energy, Excess, Goatish, Immense, Inlet, Lust, Pride, Videlicet, Viz and Wrath.",
+    "*Oxford English Dictionary* (oed.com): energy, n., sense 6.a.i; pride, n.1, senses I.1.c and P.2.",
+    "*A New English Dictionary on Historical Principles* (Oxford): vol. VI (1908), under Meliorism and Meliorist; vol. VII (1909), under Polemic.",
+    "Online Etymology Dictionary: bounty, excess, immense, lust, peacock, polemic and wrath.",
+    "*Webster’s Revised Unabridged Dictionary* (1913), under But.",
+    "John Locke, *An Essay Concerning Human Understanding* (1690), book 2, chapter 9, sections 14 and 15.",
+    "John Milton, *Paradise Lost*, book 7, lines 216–231; the name Messiah in books 5 and 6.",
+    "Thomas Chatterton, *Bristowe Tragedie*, lines 133–136, in the *Rowley Poems* as reprinted from Thomas Tyrwhitt’s third edition of 1778 (Project Gutenberg no. 13037).",
+    "Jonathan Lamb, “Bard of Tropes,” *London Review of Books*, 20 September 2001.",
+    "The King James Bible: Genesis 2–3, Exodus 24 and 31, Leviticus 18, Psalm 76, Proverbs and James 1; phrases counted in the text of Project Gutenberg no. 10.",
+    "Paull F. Baum, *The Principles of English Versification* (1922): chapter 3, on the pause at the end of a line; chapter 4, on the line of seven stresses; chapter 5, on inversion and on lines overweighted with stress; the glossary under Foot and Run-on line.",
+    "Samuel Johnson, *Life of Dryden*, in *Lives of the Poets*: the measure of fourteen syllables and its break.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu): chiasmus, parallelism, prozeugma and zeugma.",
+    "*Catholic Encyclopedia* (1912), under Sin; Wikipedia, “Seven deadly sins,” “Content clause,” “William Blake” and “The Marriage of Heaven and Hell.”"
+  ],
+  "caveats": [
+    "The text printed here is an edition of 1906 in modern spelling. On Blake’s own etched page the Devil’s sentence drops a syllable from two words, which keeps each line to fourteen, and has a comma after its first line; the proverb on excess is two sentences there.",
+    "The view at the head joins two texts. The review of 1946 is about the *Marriage*. The pages of *The Enchafèd Flood* (1950) are about Blake and the romantics and do not name the book, though the sentence Auden gives there as Blake’s position comes from it.",
+    "Auden’s essay of 1935, *New Year Letter* and its note, the letter of 1939 and the foreword on aphorisms were read only in extracts of scanned copies. His words in class in 1941 and in conversation between 1946 and 1948 come from listeners’ notes, Donald Pearce’s and Alan Ansen’s.",
+    "That Blake had Chatterton’s ballad in mind rests on the likeness of the wording and on a reviewer’s remark of 2001. No statement by Blake was found.",
+    "The stresses marked are one reader’s hearing. The first two syllables of the Devil’s sentence can be stressed either way, and the first word of its second line can take a light stress."
+  ],
+  "open": [
+    "The examiner read Auden’s review of 1946 whole in the scan of The Saturday Review of Literature (13 April 1946, p. 22) at the Internet Archive; the magazine itself prints imminent where immanent is meant. The page in Prose, vol. II was not seen: the review begins on p. 292 by that volume’s index and textual notes.",
+    "The page numbers for The Enchafèd Flood are those of the Vintage edition of 1967, which is the scan on this machine. They were not checked against the first edition of 1950.",
+    "The view joins two texts: the sentence of 1946, which is about the Marriage, and pages of 1950, which are about Blake and do not name the book. The sentence Auden gives as Blake’s position is from the Marriage.",
+    "The remark of 1935, the lines and note of New Year Letter, the letter of May 1939, the Table Talk and the foreword to the book of aphorisms were found by the examiner by full-text search in scans at the Internet Archive, as snippets only: no full page of any of them was seen. The Table Talk has no page, and the date of the conversation on aphorists was not found: the research notes label it 1947, the editor’s foreword gives November 1946 to April 1948 for the whole record, and the reading now prints that span. Part I for the lines of New Year Letter, and the pages of The Collected Poetry (1945) and of Prose, vol. I rest on the research notes. The research notes name the recipient of the letter in two ways (Humphrey Carpenter’s biography says Mrs Dodds), and the letter itself was not seen.",
+    "The foreword to The Viking Book of Aphorisms is signed with the initials of both editors, so the reading says that Auden signed it, not that he wrote it. Its page differs by edition: the sentence on the aphorist begins on p. vii in the Faber edition (1964) and in the Viking printing of 1966; in the Viking printing of February 1963 the foreword ends on p. vi.",
+    "Under the heading The Voice of the Devil the book speaks of the Devil’s account in the third person (block 25). So the captions of the first passage name the contraries or the book as the speaker, and not the Devil. The Devil’s sentence is his by block 31.",
+    "The checker now warns when a sentence or figure tab has more than five kinds of mark. The examiner brought three tabs down to five kinds: in Grammar the sentence that gives the reason is ruled as a full sentence; in Question the marks on you and your are gone and the two parts of the predicate share a color; in Yoke the two halves share a color. Each of those three shared colors then carried two labels, which the key printed as one name; on 2026-10-03 the finisher gave each kind a single label (Grammar: the main clause; Question: what it is; Yoke: a half of the line).",
+    "The hosted text is an edition of 1906 in modern spelling and punctuation. By the Wikisource transcription of Blake’s own plates, he wrote ev’ry and clos’d in the Devil’s sentence, put a comma after its first line, capitalized Law, Brothels and Religion, and made the proverb on excess two sentences. On the first plate he has causes in the plural, capitals on Errors, Contraries and True, and the first contrary as one sentence, where the hosted text makes two. The plates themselves could not be opened at the Blake Archive.",
+    "The Devil’s sentence is shown as two lines of verse, as the hosted edition prints it. The Wikisource transcription gives it as one paragraph, with a capital on Is after the comma, which agrees with a new line there.",
+    "That Blake took the Devil’s first line from Chatterton rests on the wording of the two passages and on a remark in a review of 2001. No statement by Blake was found.",
+    "The first two syllables of the Devil’s sentence can be heard two ways, and the opening Is of its second line can take a light stress.",
+    "The full entries of the Oxford English Dictionary could be opened only for energy and pride. Other words rest on Johnson’s dictionary of 1755 and the Online Etymology Dictionary. The plain words for polemic in the view and for meliorist in the list are from A New English Dictionary on Historical Principles (vol. VII, 1909, and vol. VI, 1908), read by the finisher in the scans on this machine.",
+    "No record was found of what Auden said in class about the Marriage in 1941.",
+    "The artist proposed turn keys for the plates sentence (32.0 after w6) and proverbs (34.21 to 34.24). They are not set: the check that must follow an edit was refused in the artist’s session, and the finisher was told to leave them."
+  ]
+}

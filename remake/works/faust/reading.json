@@ -1,0 +1,432 @@
+{
+  "piece": "faust",
+  "title": "The changing measures of Faust",
+  "where": "*Faust*, Part I: the Prologue in Heaven, the first Study scene and Gretchen’s room",
+  "about": "In Heaven three archangels end their hymn to the Lord’s creation, and Mephistopheles, the devil of the play, speaks next. In the second passage he has come into the study of the scholar Faust, first as a poodle and then as a traveling scholar, and Faust asks who he is. In the third, Gretchen, the girl Faust has courted with the devil’s help, sits alone at her spinning wheel. Faust has kissed her and has since gone off into the forest. The English printed here calls her Margaret.",
+  "view": {
+    "says": "Auden thought *Faust* rich in poetry and in wise sayings but not exciting as drama. He likened it to a variety show: the scenes are of interest one by one and have no real continuity. No translation, he wrote, can show how many styles of poetry Goethe commanded. Auden’s own age, he held, worships possibility, and the Devil of such an age comes as Mephisto, that is, as an actor, to whom no name belongs.",
+    "quote": "Goethe’s amazing command of every style of poetry, from the coarse to the witty to the lyrical to the sublime",
+    "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 115 and 118; “Italian Journey,” in *Forewords and Afterwords* (1973), p. 131",
+    "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 5475–5497 (p. 115, running head at the top of the page) and 5637–5650 (p. 118), and in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 6330–6345 (p. 131: the essay begins there, page numbers at the foot); the quotation also found by full-text search of the Internet Archive scan forewordsafterwo00aude; read again on 2026-10-03. Examiner, 2026-10-03: read again at the same lines; the book’s contents list (fa.txt, line 95) gives 131 for the essay, and the foot numbers 128 and 129 stand two and one pages before it. Finisher, 2026-10-03: all four sentences read again at the same lines of the two scans. The first now keeps his own two words for what the play holds besides poetry (dh.txt, line 5477; the critic’s doubt was that wisdom says more than wise sayings do). The last now says that the thought is his and that the age is his own: on p. 118 (dh.txt, lines 5643–5649) he writes of our age, sets it against earlier ages, and says its idolatry is of possibility. Neither new sentence shares a run of four words with any of the four scans (runs.py)"
+  },
+  "plates": [
+    {
+      "id": "heaven",
+      "heading": "The archangels and Mephistopheles",
+      "turn": { "1.6": 4 },
+      "speakers": { "THE THREE": "the three archangels" },
+      "label": "Goethe, 1808",
+      "text": "o-faust/himmel",
+      "rows": ["0.0-0.3", "1.0-1.7"],
+      "pair": { "label": "Bayard Taylor, 1870", "text": "faust/prologue", "rows": ["9.0-9.3", "11.4-11.11"] },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "four beats to the line for the archangels; five beats, then six, for Mephistopheles; the line beginning off the beat throughout",
+          "scan": {
+            "0.0": { "meter": "x/x/x/x/x", "voice": "x /x / x /x /x", "div": { "4": "En|geln", "5": "Stär|ke," } },
+            "0.1": { "meter": "x/x/x/x/", "voice": "x /x \\ x/x /" },
+            "0.2": { "meter": "x/x/x/x/x", "voice": "x /x /x /x /x", "div": { "2": "dei|ne", "4": "Wer|ke" } },
+            "0.3": { "meter": "x/x/x/x/", "voice": "x /x \\ x /x /" },
+            "1.0": { "meter": "x/x/x/x/x/x", "voice": "x/ x / x /x /x /x", "div": { "4": "ho|he", "5": "Wor|te" } },
+            "1.1": { "meter": "x/x/x/x/x/", "voice": "x \\ x / x /x / x/", "div": { "5": "gan|ze" } },
+            "1.2": { "meter": "x/x/x/x/x/x", "voice": "x /x /x \\ x/ x /x", "div": { "2": "bräch|te" } },
+            "1.3": { "meter": "x/x/x/x/x/", "voice": "/ x x / x /x /x\\" },
+            "1.4": { "meter": "x/x/x/x/x/x", "voice": "x / x /x / x / x /x" },
+            "1.5": { "meter": "x/x/x/x/x/x", "voice": "x /x / x \\ x /x /x", "div": { "1": "se|he" } },
+            "1.6": { "meter": "x/x/x/x/x/x/", "voice": "x /x / x / | x / x /x /", "div": { "1": "klei|ne" } },
+            "1.7": { "meter": "x/x/x/x/x/x/", "voice": "x \\ x /x\\ | x \\ x /x /" }
+          },
+          "points": [
+            { "at": ["0.3", 2, 5], "say": "The three archangels end their hymn. Each of its lines has four beats, in nine syllables and eight by turns." },
+            { "at": ["1.0", 4, 5], "say": "From here Mephistopheles is speaking, four lines into his speech, in five beats. *Hohe Worte*: high words." },
+            { "at": ["1.3", 0, 0], "say": "The voice starts on a stress and passes over the first beat. The line can also be said with the stress on *du*, you." },
+            { "at": ["1.6", 4, 4], "say": "Six beats, with a pause after the third." }
+          ],
+          "why": "The measure changes where the speaker changes: the archangels keep the four-beat stanza of their hymn, and Mephistopheles, who says he cannot make high words, speaks the mixed rhymed lines in which the Lord then answers him.",
+          "caption": "The first four lines end the archangels’ hymn: four beats a line, as in the twenty-four before. With Mephistopheles the measure changes. Here he has six lines of five beats, then two of six that break in the middle; the rest of his speech mixes four, five and six. The Lord answers him in the same mixed lines, which are the verse of most of the play. In his first line here Mephistopheles says he cannot make <b>hohe Worte</b>, high words: fine phrases like the archangels’, as an edition of 1892 explains them.",
+          "grounds": [
+            { "claim": "four beats in each of the four hymn lines shown; five beats in the next six lines, six in the last two, each of those with a break after the third beat", "kind": "plate" },
+            { "claim": "the hymn has 28 lines of four beats, so 24 before these; the rest of Mephistopheles’ speech mixes lines of four, five and six beats", "kind": "source", "source": "count made in this session in the German text, Project Gutenberg no. 2229 (.cache/originals/faust_german.txt), standard lines 243–270 (hymn) and 271–292 (speech): 271–280 five beats, 281–282 six, 283–292 run 4, 6, 4, 5, 5, 5, 4, 5, 5, 5" },
+            { "claim": "the Lord answers in the same rhymed lines of changing length, and such lines are the verse of the greater part of the play", "kind": "source", "source": "the German text, Project Gutenberg no. 2229, lines 293–353, counted by the examiner: the Lord’s first reply (293–295) has lines of four, four and five beats, and the rest of the scene runs in rhymed lines of eight to thirteen syllables with no stanza. Bayard Taylor’s preface (Project Gutenberg no. 14591) says the greater part of the work is in an irregular measure, lines of three to six feet, rhymes arranged at the author’s will. German Wikipedia, “Madrigalvers”, read 2026-10-03: four- to six-beat madrigal verse in Faust I, also called Faustvers." },
+            { "claim": "he says he cannot make high words", "kind": "text", "source": "German line 275, the first line of the second group shown" },
+            { "claim": "an edition glosses the phrase: to make fine phrases, as the archangels have just been doing", "kind": "source", "source": "Goethes Faust, edited by Calvin Thomas, vol. I (Boston: D. C. Heath, 1892), note on line 275, read in the Internet Archive scan" }
+          ],
+          "stands": "The marks on the passage. A count of the beats in the hymn, in Mephistopheles’ speech and in the Lord’s reply, lines 243 to 295 of the German: [the Prologue in Heaven](#/read/faust/prologue:13). That most of the play is in this mixed verse: Bayard Taylor’s preface, and German Wikipedia under *Madrigalvers*. High words: Calvin Thomas’s edition of 1892, note on line 275."
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": { "0.0": "a", "0.1": "b", "0.2": "a", "0.3": "b", "1.0": "c", "1.1": "d", "1.2": "c", "1.3": "d", "1.4": "e", "1.5": "e", "1.6": "b", "1.7": "b" },
+          "tails": { "0.0": 4, "0.1": 2, "0.2": 4, "0.3": 2, "1.0": 5, "1.1": 4, "1.2": 5, "1.3": 4, "1.4": 4, "1.5": 4, "1.6": 2, "1.7": 2 },
+          "threads": [],
+          "why": "Rhyme by turns runs through the hymn and the devil’s excuse; at his subject he turns to pairs, and the pair that judges man, one closed sentence, lands on the hymn’s own rhyme and its last word, day.",
+          "caption": "The letters at the line ends mark the rhymes. The hymn rhymes by turns: <i>Stärke</i> with <i>Werke</i>, <i>mag</i> with <i>Tag</i>. Mephistopheles keeps that order while he excuses himself. When he comes to his subject, how men torment themselves, he changes to pairs and stays in pairs to the end of his speech. A rhyme that returns at once makes its two lines one unit, able to hold one complete idea. His second pair is one sentence, and it says what he thinks of man. Its rhyme, <b>Schlag</b>, stamp or kind, with <b>Tag</b>, is the rhyme the hymn ended on, and <b>Tag</b>, day, is the hymn’s last word.",
+          "grounds": [
+            { "claim": "the hymn lines rhyme by turns; Mephistopheles’ first four lines here rhyme by turns, his next four in pairs; his last pair has the rhyme of the hymn’s second and fourth lines", "kind": "plate" },
+            { "claim": "he stays in pairs to the end of his speech", "kind": "source", "source": "the German text, Project Gutenberg no. 2229, lines 279–292: seven pairs, read and counted in this session; in the English printed here, faust/prologue block 11, rows 8–21" },
+            { "claim": "the first four of his lines here are an excuse; the first pair says he sees only how men torment themselves; the second pair is one sentence about man, the little god of the world", "kind": "text", "source": "German lines 275–282" },
+            { "claim": "a rhyme that returns at once makes the couplet a unit; closed couplets hold an independent idea", "kind": "source", "source": "Paull F. Baum, The Principles of English Versification (1922), chapter IV, on the short couplet (.cache/handbooks/baum-versification-pg21342.txt)" },
+            { "claim": "Schlag: a stamp or kind (of one stamp)", "kind": "source", "source": "Digitales Wörterbuch der deutschen Sprache, “Schlag”, sense 15 (vom gleichen Schlage), read 2026-10-03" }
+          ],
+          "stands": "The marks on the passage, and the lines themselves. The rest of Mephistopheles’ speech, which keeps to pairs: [the Prologue in Heaven](#/read/faust/prologue:11). That a rhyme returning at once makes its two lines one unit: Paull F. Baum, *The Principles of English Versification*, chapter 4, on the short couplet. *Schlag*: the *Digitales Wörterbuch der deutschen Sprache*."
+        },
+        {
+          "kind": "figure",
+          "label": "Parody",
+          "name": "parody",
+          "plain": "the form and wording of a dignified piece closely imitated and made ridiculous by an unfitting subject",
+          "draw": "align",
+          "parts": [
+            { "row": "0.2", "w": [3, 4], "tag": "high", "label": "high works" },
+            { "row": "1.0", "w": [4, 5], "tag": "high", "label": "high words" },
+            { "row": "0.3", "w": [1, 1], "tag": "adjective", "label": "glorious" },
+            { "row": "1.7", "w": [3, 3], "tag": "adjective", "label": "odd" },
+            { "row": "0.3", "w": [2, 5], "tag": "day", "label": "the first day" },
+            { "row": "1.7", "w": [5, 8], "tag": "day", "label": "the first day" }
+          ],
+          "why": "Mephistopheles keeps the hymn’s closing words, as on the first day, and its word high, and changes what they are said of: glorious works become odd man, and the Lord hears an accusation.",
+          "caption": "The hymn ends on <b>wie am ersten Tag</b>, as on the first day. The Lord’s <b>hohen Werke</b>, high works, are <b>herrlich</b>, glorious, as on that day. The archangel Raphael’s stanza, the hymn’s first, ended on the same line, so the hymn says it twice. Mephistopheles takes the words up. He says he cannot make <b>hohe Worte</b>, high words, and that man is <b>wunderlich</b>, odd, as on the first day. He keeps the line’s end and changes the adjective. That is parody. An edition of 1892 notes that his line parodies the hymn’s. When he ends, the Lord asks whether he always comes only to accuse.",
+          "grounds": [
+            { "claim": "the same four words end the hymn’s last line and Mephistopheles’ last line here; the adjective before them differs; the word for high stands in the hymn and in his first line here", "kind": "plate" },
+            { "claim": "the last line of Raphael’s stanza is the hymn’s last line, word for word", "kind": "source", "source": "the German text, Project Gutenberg no. 2229, lines 250 and 270, compared in this session; in the English printed here the two lines differ slightly (faust/prologue blocks 3 and 9)" },
+            { "claim": "herrlich: glorious, splendid; wunderlich: odd, strange", "kind": "source", "source": "Digitales Wörterbuch der deutschen Sprache, “herrlich” and “wunderlich”, read 2026-10-03; Thomas glosses wunderlich as ‘singular’" },
+            { "claim": "parody: the form and expression of dignified writing closely imitated and made ridiculous by an inappropriate subject or method", "kind": "source", "source": "Online Etymology Dictionary, “parody”, read 2026-10-03" },
+            { "claim": "an edition’s notes: the archangels have been making fine phrases; line 282 parodies lines 250 and 270", "kind": "source", "source": "Goethes Faust, edited by Calvin Thomas, vol. I (Boston: D. C. Heath, 1892), notes on lines 275 and 282, read in the Internet Archive scan" },
+            { "claim": "when the speech ends, ten lines after the last line shown, the Lord asks whether he always comes only to accuse (anklagen: to bring a charge, to accuse)", "kind": "text", "source": "German lines 293–295; Digitales Wörterbuch der deutschen Sprache, “anklagen”, read 2026-10-03. In the English printed here (faust/prologue block 13) Taylor has ill intention where Goethe has the verb for accusing." }
+          ],
+          "stands": "The marks on the passage, and the lines themselves. The line that ends Raphael’s stanza and [the Lord’s question](#/read/faust/prologue:13) are in the Prologue as printed here; where Goethe has a word for accusing, Taylor’s English has *ill intention*. *Herrlich* and *wunderlich*: the *Digitales Wörterbuch der deutschen Sprache*. Parody as the Online Etymology Dictionary defines it. Calvin Thomas’s edition of 1892, notes on lines 275 and 282."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            { "a": ["0.3", 2, 5], "b": ["p:9.3", 2, 5], "say": "As on the first day: Taylor has *Creation’s hour*." },
+            { "a": ["1.7", 5, 8], "b": ["p:11.11", 4, 7], "say": "The same four German words as at the hymn’s close; in English *hour* becomes *day*." },
+            { "a": ["0.2", 3, 4], "b": ["p:9.2", 3, 6], "say": "High works: Taylor has *sublime and splendid*." },
+            { "a": ["1.0", 4, 5], "b": ["p:11.5", 1, 2], "say": "High words: Taylor has *lofty speech*." },
+            { "a": ["0.3", 1, 1], "b": ["p:9.3", 1, 1], "say": "Glorious becomes *bright*." },
+            { "a": ["1.7", 3, 3], "b": ["p:11.11", 3, 3], "say": "Odd, strange: Taylor has *whimsical*." },
+            { "a": ["0.0", 4, 5], "b": ["p:9.1", 3, 6], "say": "Taylor’s first two lines stand in the opposite order to Goethe’s." }
+          ],
+          "why": "Taylor keeps the beats and the order of the rhymes, and the exact returns on which the parody turns come out loosened; Auden held that no translation shows how many styles Goethe commanded.",
+          "caption": "Auden wrote that no translation can show how many styles of poetry Goethe commanded. Under each German line stands Bayard Taylor’s English of 1870. His title page says <i>in the original metres</i>, and he keeps Goethe’s beats line for line, four, then five, then six, and the order of the rhymes. The words Goethe repeats come out looser. Goethe ends two lines on the same four words; Taylor has <b>Creation’s hour</b>, then <b>Creation’s day</b>, and his last pair no longer rhymes with the hymn’s close. <i>Hohen Werke</i> and <i>hohe Worte</i> become <b>works, sublime and splendid</b> and <b>lofty speech</b>.",
+          "grounds": [
+            { "claim": "Auden: no translation lets a reader see how fully Goethe had every style of poetry at his command", "kind": "auden", "source": "“Italian Journey,” Forewords and Afterwords (1973), p. 131; research/auden/fa.txt, lines 6330–6345" },
+            { "claim": "Taylor’s lines have four, then five, then six beats, as Goethe’s do, and rhyme in the same order; his two closing phrases differ where Goethe’s are the same; his last pair does not rhyme with his hymn’s close; his words for high differ; his first two lines are in the opposite order", "kind": "plate" },
+            { "claim": "the title page says the translation is in the original metres; the preface says this has very nearly been accomplished", "kind": "source", "source": "Faust, translated by Bayard Taylor, Project Gutenberg no. 14591 (.cache/texts/pg14591_faust_taylor.txt), title page and preface, read in this session" }
+          ],
+          "stands": "The two versions as they stand, line under line. Taylor’s title page and preface, on keeping the original meters. Auden: *Forewords and Afterwords*, p. 131."
+        }
+      ]
+    },
+    {
+      "id": "name",
+      "heading": "Mephistopheles names himself",
+      "label": "Goethe, 1808",
+      "text": "o-faust/studierzimmer",
+      "rows": ["0.0-0.1", "1.0-1.1", "2.0", "3.0-3.6"],
+      "pair": { "label": "Bayard Taylor, 1870", "text": "faust/s03", "rows": ["33.3-33.4", "35.0-35.1", "37.0", "39.0-39.6"] },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "rhymed lines of six, five and four beats, the line beginning off the beat",
+          "scan": {
+            "0.0": { "meter": "x/x/x/x/x/x/", "voice": "x \\ x /x\\ | x/x /x /", "div": { "3": "Flie|gen|gott," } },
+            "0.1": { "meter": "x/x/x/", "voice": "x / x / x \\" },
+            "1.0": { "meter": "x/x/x/", "voice": "x / x /x /" },
+            "1.1": { "meter": "x/x/x/x/x/x/", "voice": "x / x /x / | x / x /x /", "div": { "3": "Bö|se", "8": "Gu|te" } },
+            "2.0": { "meter": "x/x/x/x/x/", "voice": "x \\ x /x /x\\ x/" },
+            "3.0": { "meter": "x/x/x/x/", "voice": "x \\ x / x / x/" },
+            "3.1": { "meter": "x/x/x/x/x/", "voice": "x / x / | x /x \\ x/", "div": { "5": "al|les," } },
+            "3.2": { "meter": "x/x/x/x/", "voice": "x / x \\ x/x /", "div": { "4": "zu|grun|de" } },
+            "3.3": { "meter": "x/x/x/x/x", "voice": "x /x / x / x/x", "div": { "5": "ent|stün|de." } },
+            "3.4": { "meter": "x/x/x/x/x", "voice": "x \\ x /x \\ x /x", "div": { "3": "al|les,", "6": "Sün|de," } },
+            "3.5": { "meter": "x/x/x/x/", "voice": "x/x / x /x /", "div": { "3": "Bö|se" } },
+            "3.6": { "meter": "x/x/x/x/", "voice": "x /x\\x \\x/" }
+          },
+          "points": [
+            { "at": ["0.0", 3, 3], "say": "Faust speaks. Six beats, and the line breaks after the first of the three names." },
+            { "at": ["0.1", 5, 5], "say": "Faust’s question is half a line. Mephistopheles’ first words, just below, are the other half: six beats between the two speakers." },
+            { "at": ["1.1", 4, 4], "say": "The riddle: six beats, breaking after *will*, wills." },
+            { "at": ["2.0", 5, 5], "say": "Faust again, in five beats. *Gemeint*, meant, waits for its rhyme in the answer: *verneint*." },
+            { "at": ["3.0", 6, 6], "say": "Mephistopheles answers in four beats." }
+          ],
+          "why": "The riddle comes in the six-beat line that divides into two equal halves, which Schiller told Goethe puts French plays under the rule of opposition; asked what it means, Mephistopheles begins his answer in four beats.",
+          "caption": "Faust’s line of three names has six beats and breaks in the middle. His question and Mephistopheles’ first words make a second such line, and the next line, the riddle, is a third. This is the alexandrine, the long line of French verse. Schiller wrote to Goethe in 1799 that it divides into two equal halves and rhymes in pairs, and that this puts everything in the French plays under the rule of opposition. Faust asks what the riddle means, and the answer begins in four beats: <b>der Geist, der stets verneint</b>, the spirit who always says no. Six of the answer’s seven lines have four beats.",
+          "grounds": [
+            { "claim": "the first line has six beats and a break after its sixth syllable; the second and third lines together have six beats; the fourth has six and a break after its sixth syllable; Faust’s next line has five; six of Mephistopheles’ last seven lines have four beats and one has five", "kind": "plate" },
+            { "claim": "the alexandrine: a line of twelve or thirteen syllables with a break in the middle into two halves of six; the standard line of classical French verse; it tends to split into three and three", "kind": "source", "source": "Meyers Großes Konversations-Lexikon, 6th ed. (1905–09), “Alexandriner” (vol. 1, p. 305), read at Wörterbuchnetz 2026-10-03; Paull F. Baum, The Principles of English Versification (1922), chapter IV (.cache/handbooks/baum-versification-pg21342.txt)" },
+            { "claim": "Schiller to Goethe: the alexandrine’s property of dividing into two equal halves, and rhyme making a couplet of two alexandrines, determine the whole inner spirit of the French plays; everything is put under the rule of opposition", "kind": "source", "source": "Schiller to Goethe, Jena, 15 October 1799, Briefwechsel zwischen Schiller und Goethe, letter 654, read at Projekt Gutenberg-DE 2026-10-03 (scratchpad faust/schiller_ch3.txt)" },
+            { "claim": "Faust asks what the riddle-word means; the answer begins: I am the spirit who always says no", "kind": "text", "source": "German lines 1337–1338" }
+          ],
+          "stands": "The marks on the passage. The alexandrine: *Meyers Großes Konversations-Lexikon* under *Alexandriner*, and Paull F. Baum, *The Principles of English Versification*, chapter 4. Schiller’s letter to Goethe of 15 October 1799, which is about French plays in translation. The lines themselves."
+        },
+        {
+          "kind": "figure",
+          "label": "Antithesis",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "pair",
+          "parts": [
+            { "row": "1.1", "w": [1, 1], "tag": "what it wills", "label": "always" },
+            { "row": "1.1", "w": [2, 3], "tag": "what it wills", "label": "evil" },
+            { "row": "1.1", "w": [4, 4], "tag": "what it wills", "label": "wills" },
+            { "row": "1.1", "w": [6, 6], "tag": "what it makes", "label": "always" },
+            { "row": "1.1", "w": [7, 8], "tag": "what it makes", "label": "good" },
+            { "row": "1.1", "w": [9, 9], "tag": "what it makes", "label": "works" }
+          ],
+          "why": "The line’s matching halves set what this power wills against what it brings about, and Faust calls it a riddle; Auden, quoting it, could hardly see any good or evil that Mephisto does to Faust.",
+          "caption": "The riddle’s line has two halves built alike: <b>stets</b>, always, then a noun, then a verb. <b>Das Böse</b>, evil, stands against <b>das Gute</b>, good, and <b>will</b>, wills, against <b>schafft</b>, works. Contraries set close in matching words are an antithesis. It sets what the power wants against what it brings about; Faust calls it a riddle. In the Prologue the Lord used this verb of the companion he gives man, who must, as devil, <i>schaffen</i>. Auden quoted those lines in 1941 and wrote that the Devil brings about the loss of his own wager. Later, quoting the riddle, he could hardly see any good or evil that Mephisto does to Faust.",
+          "grounds": [
+            { "claim": "the two halves of the line have the same build: always, a noun, a verb; evil against good, wills against works (works is the word of the English printed under the line: Taylor’s row for line 1336, word 7, read by the finisher 2026-10-03)", "kind": "plate" },
+            { "claim": "antithesis: the bringing of contrary ideas or terms in close opposition; contrasting words or ideas set side by side, often though not always in parallel structure", "kind": "source", "source": "Online Etymology Dictionary, “antithesis”, for the first half; Silva Rhetoricae (Gideon Burton, Brigham Young University), “antithesis”, for the second; both read 2026-10-03" },
+            { "claim": "stets: always; böse: morally bad; schaffen: to bring forth, to bring about", "kind": "source", "source": "Digitales Wörterbuch der deutschen Sprache, “stets”, “böse”, “schaffen”, read 2026-10-03" },
+            { "claim": "Faust calls it a riddle-word and asks what is meant", "kind": "text", "source": "German line 1337" },
+            { "claim": "the Lord says he gives man the companion who stirs and works and must, as devil, create (schaffen)", "kind": "text", "source": "German lines 340–343; in the English printed here faust/prologue block 37, where Taylor has create for the verb of line 343 and works for the verb before it (row 7; the German at line 500 of .cache/originals/faust_german.txt), read by the finisher 2026-10-03" },
+            { "claim": "Auden quoted the Lord’s lines and wrote that the Devil himself brings about the loss of his wager", "kind": "auden", "source": "“The Wandering Jew,” The New Republic, 10 February 1941 (Prose, vol. II, pp. 110–13): research notes C section 14 and appendix H17b; the sentence also read in a snippet of the Internet Archive scan of the magazine" },
+            { "claim": "Auden quotes the riddle couplet and says he can hardly make out any good or evil that Mephisto does to Faust", "kind": "auden", "source": "“Balaam and His Ass,” The Dyer’s Hand (1962), p. 117; research/auden/dh.txt, lines 5598–5607" }
+          ],
+          "stands": "The marks on the line, and Faust’s question after it. Antithesis as the Online Etymology Dictionary and *Silva Rhetoricae* define it; the German words from the *Digitales Wörterbuch der deutschen Sprache*. The Lord’s lines are in [the Prologue in Heaven](#/read/faust/prologue:37), where Taylor’s English has *create* for *schaffen*. Auden: “The Wandering Jew,” *The New Republic*, 10 February 1941, and *The Dyer’s Hand*, p. 117."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            { "row": "0.0", "w": [3, 3], "gloss": "god of flies", "note": "Goethe’s German for *Beelzebub*, lord of the fly: a Philistine god’s name, which the New Testament gives to the prince of devils.", "source": "Goethes Faust, ed. Calvin Thomas, vol. I (1892), note on line 1334; Grimm, Deutsches Wörterbuch, “fliegengott” (vol. 3, col. 1787), which cites this line; both read 2026-10-03" },
+            { "row": "0.0", "w": [4, 4], "gloss": "destroyer", "note": "The Destroyer of Revelation 9:11: *Abaddon* in Hebrew, *Apollyon* in Greek.", "source": "Goethes Faust, ed. Calvin Thomas, vol. I (1892), note on line 1334" },
+            { "row": "0.0", "w": [5, 5], "gloss": "liar", "note": "In John 8:44 the devil is a liar and the father of lying.", "source": "Goethes Faust, ed. Calvin Thomas, vol. I (1892), note on line 1334" },
+            { "row": "1.0", "w": [0, 1], "gloss": "a part", "note": "English *deal* is the same word.", "source": "Digitales Wörterbuch der deutschen Sprache, “Teil”, with Pfeifer’s etymology, read 2026-10-03" },
+            { "row": "2.0", "w": [4, 4], "gloss": "riddle-word", "note": "German *Rätsel* and English *riddle* are one old Germanic word.", "source": "Digitales Wörterbuch der deutschen Sprache, “Rätsel”; Online Etymology Dictionary, “riddle”; read 2026-10-03" },
+            { "row": "3.0", "w": [3, 3], "gloss": "spirit", "note": "English *ghost* is the same word.", "source": "Digitales Wörterbuch der deutschen Sprache, “Geist”, with Pfeifer’s etymology, read 2026-10-03" },
+            { "row": "3.0", "w": [6, 6], "gloss": "says no, denies", "note": "Made from *nein*, no. Grimm’s dictionary sets this line beside the Lord’s line in the Prologue about the spirits who deny.", "source": "Grimm, Deutsches Wörterbuch, “verneinen” (vol. 25, col. 915), sense 1a, whose first examples are lines 338 and 1338 of Faust; Digitales Wörterbuch der deutschen Sprache, “verneinen”; read 2026-10-03" },
+            { "row": "3.1", "w": [7, 7], "gloss": "comes to be", "source": "Digitales Wörterbuch der deutschen Sprache, “entstehen”, read 2026-10-03" },
+            { "row": "3.2", "w": [4, 5], "gloss": "perishes", "note": "Word for word: goes to the ground.", "source": "Digitales Wörterbuch der deutschen Sprache, “zugrunde”, read 2026-10-03" },
+            { "row": "3.6", "w": [1, 2], "gloss": "own, proper element", "note": "*Eigentlich* is made from *eigen*, own. A person’s *Element* is the surroundings that suit him.", "source": "Digitales Wörterbuch der deutschen Sprache, “eigentlich” and “Element” (sense 4), read 2026-10-03" }
+          ],
+          "why": "Asked his name, the devil gives a description, the spirit who always says no; Auden named the Devil by this line in 1941, and later wrote that a spirit rejecting everything actual must hate creation.",
+          "caption": "Faust has asked Mephistopheles his name and got no answer. He cites three names for devils. Two put Bible names into German: <b>Fliegengott</b>, god of flies, is Beelzebub, and <b>Verderber</b>, destroyer, is Apollyon. <b>Lügner</b>, liar, is what John’s Gospel calls the devil. The answer takes none of them. It gives <b>ein Teil</b>, a part, then a description: <b>der Geist, der stets verneint</b>, the spirit who always says no. In <i>New Year Letter</i> (1941) Auden names the Devil by this line in English, and his note gives the German. He later wrote that a spirit which rejects everything actual must hate creation; here Mephistopheles says that all that comes to be, <b>entsteht</b>, deserves to perish.",
+          "grounds": [
+            { "claim": "Faust asks his name; Mephistopheles says the question seems small; Faust says the nature of such gentlemen can be read from their names; the answer gives a part of a power, then the spirit who always denies; all that comes to be is worth perishing", "kind": "text", "source": "German lines 1327–1340; in the English printed here faust/s03 blocks 29 to 39" },
+            { "claim": "Fliegengott translates Beelzebub and Verderber translates Apollyon, the Destroyer of Revelation 9:11; Lügner translates no devil’s name, but John 8:44 calls the devil a liar", "kind": "source", "source": "Goethes Faust, ed. Calvin Thomas, vol. I (1892), note on line 1334, read in the Internet Archive scan 2026-10-03; the verses read by the examiner in the King James Version (Revelation 9:11, John 8:44, Matthew 12:24, 2 Kings 1:2) at bible-api.com, 2026-10-03" },
+            { "claim": "the glosses under the words", "kind": "source", "source": "the dictionary entries named in each note, read 2026-10-03" },
+            { "claim": "Auden’s poem names the Devil by this line in English; his note quotes the German line and cites Faust, Part I, Scene 3", "kind": "auden", "source": "New Year Letter (London: Faber, 1941), line 384 and the note to it: research notes C section 14 and appendix H6; snippets of the Internet Archive scan" },
+            { "claim": "Auden, on Mephisto’s account of himself as a part of the part: to a spirit that turns away from everything actual, creation can only be hateful", "kind": "auden", "source": "“Balaam and His Ass,” The Dyer’s Hand (1962), p. 117; research/auden/dh.txt, lines 5576–5587" }
+          ],
+          "stands": "The lines themselves, with Faust’s question and the first reply just before them in [the first Study scene](#/read/faust/s03:29). The three names: Calvin Thomas’s edition of 1892, note on line 1334, with Revelation 9:11 and John 8:44. The glosses: the *Digitales Wörterbuch der deutschen Sprache* and Grimm’s *Deutsches Wörterbuch*. Auden: *New Year Letter* (1941), line 384 and its note, and *The Dyer’s Hand*, p. 117."
+        },
+        {
+          "kind": "shape",
+          "label": "Names",
+          "what": "what Mephistopheles is called in Part I, and what he comes as",
+          "facts": [
+            { "kind": "the name over his speeches", "German": "Mephistopheles", "in English": "nobody speaks it", "who says it": "no one", "line": "", "speeches under it": 255, "counted": "German text (Project Gutenberg no. 2229): the name occurs 284 times: 253 headings of his own speeches, 1 heading shared with Faust and the will-o’-the-wisp, 29 in stage directions and scene headings, 1 spoken (the short form, line 4183). English printed here (Taylor): 255 speech headings, 1 heading shared with another speaker, 28 in directions, 1 spoken. Counted by script in this session. Finisher, 2026-10-03: the artist’s count (art.md, proposal 1) run again at 13:39 UTC on the English printed here: 255 speech headings that are the name alone and 1 shared (faust/s21, block 14); a second count, part by part, sums to the same 255. The key speeches under it holds that number, the one a reader can check in the book this page opens." },
+            { "kind": "what he is called", "German": "Mephisto", "in English": "the short form, spoken once", "who says it": "Faust", "line": "4183", "read": "faust/s21:173" },
+            { "kind": "what he is called", "German": "der Schalk", "in English": "the rogue, the joker", "who says it": "the Lord", "line": "339", "read": "faust/prologue:37", "source": "Digitales Wörterbuch der deutschen Sprache, “Schalk”; Thomas, note on line 339 (‘wag’)" },
+            { "kind": "what he is called", "German": "des Pudels Kern", "in English": "the poodle’s core: the scholar inside the poodle", "who says it": "Faust", "line": "1323", "read": "faust/s03:25", "source": "Finisher, 2026-10-03: read in the English printed here, faust/s03 block 25, where Faust’s words give a traveling scholar as the poodle’s core, just after the direction (block 22) in which Mephistopheles steps out in a traveling scholar’s costume; German line 1323" },
+            { "kind": "what he is called", "German": "Fliegengott, Verderber, Lügner", "in English": "god of flies, destroyer, liar: what devils are called", "who says it": "Faust", "line": "1334", "read": "faust/s03:33" },
+            { "kind": "what he is called", "German": "ein Teil von jener Kraft", "in English": "a part of that power", "who says it": "he himself", "line": "1335", "read": "faust/s03:35" },
+            { "kind": "what he is called", "German": "der Geist, der stets verneint", "in English": "the spirit who always says no", "who says it": "he himself", "line": "1338", "read": "faust/s03:39" },
+            { "kind": "what he is called", "German": "Junker Satan", "in English": "Squire Satan; he forbids the name", "who says it": "a witch", "line": "2504", "read": "faust/s06:109", "source": "Digitales Wörterbuch der deutschen Sprache, “Junker” (a young nobleman)" },
+            { "kind": "what he is called", "German": "Herr Baron", "in English": "Baron, as he asks to be called", "who says it": "he himself", "line": "2510", "read": "faust/s06:115" },
+            { "kind": "what he is called", "German": "ein Kavalier, wie andre Kavaliere", "in English": "a gentleman like other gentlemen", "who says it": "he himself", "line": "2511", "read": "faust/s06:115" },
+            { "kind": "what he is called", "German": "Junker Voland", "in English": "Squire Voland, an old name of the devil", "who says it": "he himself", "line": "4023", "read": "faust/s21:87", "source": "Thomas, note on line 4023 (Middle High German vâlant)" },
+            { "kind": "what he comes as", "German": "ein schwarzer Pudel", "in English": "a black poodle", "who says it": "Faust and his attendant Wagner", "line": "1147 to 1321", "read": "faust/s02:93", "source": "Finisher, 2026-10-03: Faust speaks of the black dog and Wagner calls it a poodle (faust/s02 blocks 93 and 99). Faust calls Wagner his Famulus just before Wagner first enters (faust/s01 block 39); the New English Dictionary under Famulus: an attendant, especially on a scholar or a magician" },
+            { "kind": "what he comes as", "German": "ein fahrender Scholastikus", "in English": "a traveling scholar", "who says it": "the stage direction", "line": "before 1322", "read": "faust/s03:22" },
+            { "kind": "what he comes as", "German": "ein edler Junker", "in English": "a noble squire: red coat trimmed with gold, cloak of stiff silk, cock’s feather, long sword", "who says it": "he himself", "line": "1535 to 1539", "read": "faust/s04:12" },
+            { "kind": "what he comes as", "German": "die Maske", "in English": "the mask, his costume: Faust’s gown and cap", "who says it": "he himself", "line": "1846 to 1847", "read": "faust/s04:95", "source": "Digitales Wörterbuch der deutschen Sprache, “Maske”: sense 1 a covering for the face, sense 2 costuming, above all an actor’s made-up face; Pfeifer dates ‘costume’ to the 17th century. Taylor’s English at this place has no mask: he has cap and mantle and playing the comedy, and his direction says that he disguises himself." },
+            { "kind": "what he comes as", "German": "den Teufel spielen", "in English": "to play the devil, said aside", "who says it": "he himself", "line": "2010", "read": "faust/s04:155" }
+          ],
+          "why": "Auden says the Devil of an age that worships possibility is an actor, to whom no name belongs; in Part I nobody speaks the name Mephistopheles, he refuses the name Satan, and he calls Faust’s gown his costume.",
+          "caption": "Auden wrote that in Mephisto the Devil comes as an actor, and that no name belongs to an actor: his name is Legion, the name of the many devils in the Gospel. In Part I the name Mephistopheles stands over more than 250 speeches and nobody speaks it. Faust says the short form, <i>Mephisto</i>, once. The Lord calls him <i>der Schalk</i>, the rogue. A witch greets him as <i>Junker Satan</i>, Squire Satan; he forbids the name and asks to be called Baron. He comes as a poodle, a traveling scholar and a squire in red. In Faust’s gown, which he calls <i>die Maske</i>, his costume, he says aside that he must play the devil again.",
+          "grounds": [
+            { "claim": "Auden: where possibility is the idol, the Devil takes the shape of Mephisto, which is to say of an actor; what marks an actor is that no name is his own, for (he says, in the Gospel’s phrase) his name is Legion", "kind": "auden", "source": "“Balaam and His Ass,” The Dyer’s Hand (1962), p. 118; research/auden/dh.txt, lines 5637–5650" },
+            { "claim": "Legion: the name an unclean spirit gives when it is asked its name, because the devils in the man are many", "kind": "source", "source": "Mark 5:9 and Luke 8:30, King James Version, read at bible-api.com 2026-10-03" },
+            { "claim": "the name stands over more than 250 speeches and the full name is never spoken in Part I; the short form is spoken once", "kind": "source", "source": "count by script in this session: German text (Project Gutenberg no. 2229) 253 headings of his own speeches, 1 shared heading, 29 occurrences in directions and scene headings, 1 spoken (Mephisto, line 4183); Taylor’s English as printed here 255 speech headings, 1 shared, 28 in directions, 1 spoken. Counted again by the examiner, with the same numbers" },
+            { "claim": "the Lord calls him the rogue; the witch’s greeting, his refusal, Baron; the poodle, the traveling scholar, the squire’s dress; the gown and cap, which he calls his Maske, and the direction that then has him in Faust’s long gown; the aside about playing the devil, said in that gown", "kind": "text", "source": "German lines 339; 2504–2511; 1147–1321 and the direction before 1322; 1535–1539; 1846–1847 and the directions after 1847 and 1850; 2009–2010. In the English printed here: faust/prologue block 37; s06 blocks 109 and 115; s02 block 93; s03 block 22; s04 blocks 12, 95 and 155" },
+            { "claim": "Schalk: rogue, joker; Junker: a young nobleman, squire; Maske: a mask, and the costume or make-up of an actor", "kind": "source", "source": "Digitales Wörterbuch der deutschen Sprache, “Schalk”, “Junker” and “Maske” (sense 2), read 2026-10-03; Thomas, note on line 339" }
+          ],
+          "stands": "A count of the name in the German text and in the English printed here: speech headings, stage directions and spoken lines. The places: [the Lord’s word for him](#/read/faust/prologue:37), [the traveling scholar](#/read/faust/s03:22), [the squire’s dress](#/read/faust/s04:12), [Faust’s gown and cap](#/read/faust/s04:95), [Squire Satan](#/read/faust/s06:109) and [Mephisto](#/read/faust/s21:173). *Maske*: the *Digitales Wörterbuch der deutschen Sprache*. Legion is the many devils’ name in Mark 5:9. Auden: *The Dyer’s Hand*, p. 118."
+        }
+      ]
+    },
+    {
+      "id": "wheel",
+      "heading": "Gretchen at the spinning wheel",
+      "label": "Goethe, 1808",
+      "text": "o-faust/gretchen",
+      "rows": ["0.0-0.3", "1.0-1.3", "2.0-2.3"],
+      "pair": { "label": "Bayard Taylor, 1870", "text": "faust/s15", "rows": ["7.0-7.3", "8.0-8.3", "9.0-9.3"] },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "two beats to the line, in lines of three to six syllables",
+          "scan": {
+            "0.0": { "meter": "x/x/", "voice": "x /x /" },
+            "0.1": { "meter": "x/xx/", "voice": "x /x x/", "div": { "2": "Ge|stalt," } },
+            "0.2": { "meter": "xx/x/x", "voice": "xx /x /x", "div": { "0": "Sei|nes", "1": "Mun|des" } },
+            "0.3": { "meter": "xx/xx/", "voice": "xx /x x/" },
+            "1.0": { "meter": "x/x/x", "voice": "x \\x /x", "div": { "2": "Re|de" } },
+            "1.1": { "meter": "/x/", "voice": "/x\\" },
+            "1.2": { "meter": "x/x/", "voice": "x /x\\", "div": { "1": "Hän|de|druck," } },
+            "1.3": { "meter": "x/x/", "voice": "x / x /" },
+            "2.0": { "meter": "xx/x/", "voice": "xx / x /", "div": { "0": "Mei|ne" } },
+            "2.1": { "meter": "x/x/", "voice": "x / x /" },
+            "2.2": { "meter": "x/xx/x", "voice": "x /x x /x", "div": { "1": "fin|de" } },
+            "2.3": { "meter": "x/x/", "voice": "x /x\\" }
+          },
+          "points": [
+            { "at": ["0.0", 0, 2], "say": "Gretchen speaks, alone. Two beats, one thing to a line." },
+            { "at": ["1.1", 0, 0], "say": "One word fills the line: *Zauberfluß*, magic flow. The item began in the line above." },
+            { "at": ["1.3", 3, 3], "say": "*Kuß*, the kiss. The list ends here, with no verb." },
+            { "at": ["2.0", 0, 3], "say": "The first stanza of the scene comes back, for the second time." }
+          ],
+          "why": "Two beats give each thing of his a line to itself; at the kiss the list stops without a verb and the opening stanza of the scene returns word for word.",
+          "caption": "Every line here can be said with two beats, and so can every line of the scene, forty in all. Goethe’s direction does not say that she sings; Schubert made a song of the scene in 1814. A line holds one thing of Faust’s: his walk, his figure, his smile, his eyes. One item runs over: <b>seiner Rede Zauberfluß</b>, the magic flow of his talk, is cut in two, and its second line is a single word. After <b>sein Kuß</b>, his kiss, the sentence stops without a verb, and the scene’s first stanza comes back word for word, as it did once before.",
+          "grounds": [
+            { "claim": "each of the twelve lines shown has two beats; each of the first four holds one thing; one item runs over two lines and its second line is one word; the list ends at the kiss with no verb", "kind": "plate" },
+            { "claim": "all forty lines of the scene can be said with two beats; the scene has ten stanzas of four lines; the first stanza returns word for word as the fourth and the eighth", "kind": "source", "source": "count made in this session in the German text, Project Gutenberg no. 2229, lines 3374–3413 (three to six syllables to a line); German Wikipedia, “Gretchen am Spinnrade”, fetched 2026-10-03: only two beats with free filling, ten stanzas, the fourth and eighth repeating the first" },
+            { "claim": "the direction says she is at the spinning wheel, alone, and does not say that she sings", "kind": "text", "source": "the direction at the head of the scene, before German line 3374; in the English printed here faust/s15 block 1. Thomas’s note takes the scene as a lyric monologue rather than a song." },
+            { "claim": "Schubert set the scene as a song in 1814", "kind": "source", "source": "German Wikipedia, “Gretchen am Spinnrade” (composed 1814, published 1821 as Op. 2, D 118); English Wikipedia, “Gretchen am Spinnrade” (19 October 1814); both fetched 2026-10-03" }
+          ],
+          "stands": "The marks on the passage. A count of beats and syllables in the forty lines of the scene in the German, and a comparison of its first, fourth and eighth stanzas. The stage direction at the head of [Gretchen’s room](#/read/faust/s15:1). Schubert’s song: German Wikipedia, under *Gretchen am Spinnrade*."
+        },
+        {
+          "kind": "figure",
+          "label": "Anaphora",
+          "name": "anaphora",
+          "plain": "the same word at the head of line after line",
+          "draw": "align",
+          "parts": [
+            { "row": "0.0", "w": [0, 0], "tag": "his, at the head", "label": "his, first word" },
+            { "row": "0.1", "w": [0, 0], "tag": "his, at the head", "label": "his, first word" },
+            { "row": "0.2", "w": [0, 0], "tag": "his, at the head", "label": "his, first word" },
+            { "row": "0.3", "w": [0, 0], "tag": "his, at the head", "label": "his, first word" },
+            { "row": "1.2", "w": [0, 0], "tag": "his, at the head", "label": "his, first word" },
+            { "row": "1.0", "w": [1, 1], "tag": "his, after and", "label": "his, after and" },
+            { "row": "1.3", "w": [2, 2], "tag": "his, after and", "label": "his, after and" },
+            { "row": "2.0", "w": [0, 0], "tag": "my, I", "label": "my" },
+            { "row": "2.1", "w": [0, 0], "tag": "my, I", "label": "my" },
+            { "row": "2.2", "w": [0, 0], "tag": "my, I", "label": "I" }
+          ],
+          "why": "The possessive at the head of the items makes the seven things that are his one list without a verb, running to the kiss and stopping there; the stanza that returns begins with my and I.",
+          "caption": "Seven things of Faust’s are named in eight lines. Five begin with <b>sein</b>, his, at the head of the line; two have it after <i>und</i>, and. A word repeated at the head of line after line is anaphora; it makes the items a list, here without a verb. The list goes from his walk, figure, smile and eyes to his talk and then to touch: <b>Händedruck</b>, the pressure of his hand, and <b>Kuß</b>, the kiss. There it stops, and the returning stanza begins <b>Meine</b>, <b>Mein</b>, <b>Ich</b>: my, my, I.",
+          "grounds": [
+            { "claim": "the possessive stands first in five of the first eight lines and after und in two; the last stanza’s first three lines begin with my, my and I", "kind": "plate" },
+            { "claim": "seven things are named: gait, figure, the smile of his mouth, the power of his eyes, the magic flow of his talk, the pressure of his hand, his kiss; there is no verb; the list ends at the kiss", "kind": "text", "source": "German lines 3394–3401" },
+            { "claim": "anaphora: the same word or group of words repeated at the beginning of successive clauses, sentences or lines; repeating a word at the head of each item makes the items a list", "kind": "source", "source": "Silva Rhetoricae (Gideon Burton, Brigham Young University), “anaphora”, which gives the place of the repetition; Online Etymology Dictionary, “anaphora” (repetition of a word or phrase in successive clauses); both read 2026-10-03. The second half is the craft knowledge the poet’s instructions name, and is what the marks show here" },
+            { "claim": "Gang: a way of walking; Gestalt: a person’s outward form, build; Gewalt: power; Rede: speech, talk; Händedruck: pressure of the hand; Zauberfluß, of speech", "kind": "source", "source": "Digitales Wörterbuch der deutschen Sprache, “Gang”, “Gestalt”, “Gewalt”, “Rede”, “Händedruck”; Grimm, Deutsches Wörterbuch, “händedruck” (vol. 10, col. 367, citing this line) and “zauberflusz” (vol. 31, col. 334, sense 2, of speech, citing Goethe); read 2026-10-03" }
+          ],
+          "stands": "The marks on the passage, and the lines themselves. Anaphora as *Silva Rhetoricae* and the Online Etymology Dictionary define it. The German words: the *Digitales Wörterbuch der deutschen Sprache* and Grimm’s *Deutsches Wörterbuch*, which cites this line under *Händedruck*."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            { "a": ["0.0", 0, 0], "b": ["p:7.0", 0, 0], "say": "Taylor keeps *His* at the head of the first two lines." },
+            { "a": ["0.2", 0, 0], "b": ["p:7.2", 3, 3], "say": "From the third line on, *his* moves inside the line, and *The*, *And*, *Of* or *In* stands first." },
+            { "a": ["0.1", 2, 2], "b": ["p:7.1", 2, 2], "say": "*Gestalt* is a person’s figure or build. Taylor has *size*, which rhymes with *eyes*." },
+            { "a": ["1.1", 0, 0], "b": ["p:8.0", 2, 3], "say": "*Zauberfluß*: magic flow. Taylor turns the two lines round, the flow first and the talk after." },
+            { "a": ["1.2", 1, 1], "b": ["p:8.2", 2, 5], "say": "*Händedruck*: the pressure of a hand. Before it Taylor has *the bliss*, which is not in the German and gives him the rhyme for *kiss*." },
+            { "a": ["1.3", 3, 3], "b": ["p:8.3", 3, 3], "say": "The kiss ends the list in both." }
+          ],
+          "why": "Taylor keeps the beats and the rhymes and gives up the repeated possessive at the head of the lines; Auden wrote that in translation Goethe is likely to seem too intellectual and short of passion.",
+          "caption": "Taylor keeps the two beats in every line and the rhyme of each stanza’s second and fourth lines. What he gives up is the repeated word. Goethe’s <i>sein</i> heads five of the eight lines; Taylor’s <b>His</b> heads two, and then <i>The</i>, <i>And</i>, <i>Of</i> and <i>In</i> take its place. <b>Size</b> stands for <i>Gestalt</i>, a person’s figure, and <b>the bliss</b> is not in the German; both appear to be there for the rhymes with <i>eyes</i> and <i>kiss</i>. A reader who knows <i>Faust</i> only in translation, Auden wrote, will probably think Goethe too intellectual and short of passion.",
+          "grounds": [
+            { "claim": "Taylor’s twelve lines have two beats each and rhyme second with fourth in each stanza, as Goethe’s do; his His heads two lines, where Goethe’s possessive heads five; size and the bliss stand at the rhymes", "kind": "plate" },
+            { "claim": "Gestalt: a person’s outward form, figure, build", "kind": "source", "source": "Digitales Wörterbuch der deutschen Sprache, “Gestalt”, read 2026-10-03" },
+            { "claim": "Auden: a reader who has Faust in translation will probably come away thinking Goethe over-intellectual and wanting in passion", "kind": "auden", "source": "“Italian Journey,” Forewords and Afterwords (1973), p. 131; research/auden/fa.txt, lines 6330–6345" }
+          ],
+          "stands": "The two versions as they stand, line under line. *Gestalt*: the *Digitales Wörterbuch der deutschen Sprache*. Auden: *Forewords and Afterwords*, p. 131."
+        },
+        {
+          "kind": "shape",
+          "label": "Measures",
+          "what": "nine of the measures of Part\u00a0I, each with a place to read it",
+          "facts": [
+            { "measure": "ottava rima", "beats": 5, "in plain words": "stanzas of eight five-beat lines, rhymed a b a b a b c c", "scene": "Dedication", "who speaks": "the poet", "lines": "1 to 32", "read": "faust/dedication:0", "counted": "four stanzas of eight lines, eleven and ten syllables, in the German text", "source": "Meyers Großes Konversations-Lexikon, “Stanze” (the epic measure of the Italians: Ariosto, Tasso); Thomas, note on the Dedication" },
+            { "measure": "the archangels’ stanza", "beats": 4, "in plain words": "four beats to a line, nine and eight syllables by turns, rhymed by turns", "scene": "Prologue in Heaven", "who speaks": "the three archangels", "lines": "243 to 270", "read": "faust/prologue:3", "counted": "28 lines in the German text" },
+            { "measure": "madrigal verse", "beats": [4, 5, 6], "in plain words": "rhymed lines of changing length, here of four, five and six beats in no fixed order: the verse of the greater part of the play", "scene": "Prologue in Heaven", "who speaks": "Mephistopheles", "lines": "271 to 292", "read": "faust/prologue:11", "counted": "22 lines in the German text: ten of five beats, two of six, then 4, 6, 4, 5, 5, 5, 4, 5, 5, 5", "source": "German Wikipedia, “Madrigalvers” and “Faust. Eine Tragödie”; Taylor’s preface; Thomas’s note on the Prelude describes its verse the same way", "note": "this verse is already that of the Prelude on the Stage, lines 33 to 242, by Thomas’s note; the Prelude was not counted here" },
+            { "measure": "Knittelvers", "beats": 4, "in plain words": "four beats in eight to eleven syllables, rhymed mostly in pairs: the verse of Hans Sachs and the sixteenth century", "scene": "Night", "who speaks": "Faust", "lines": "354 to 385", "read": "faust/s01:2", "counted": "32 lines in the German text; the first four rhyme by turns, the rest in pairs", "source": "Meyers Großes Konversations-Lexikon, “Knüttelverse”; Thomas, introduction, p. xxxviii" },
+            { "measure": "the alexandrine", "beats": 6, "break after": 3, "in plain words": "six beats with a break in the middle, mixed into the dialogue", "scene": "Study", "who speaks": "Faust and Mephistopheles", "lines": "1334 to 1336", "read": "faust/s03:33", "counted": "three lines in the German text, one of them shared by the two speakers; lines 1345, 1349 and 1350 are of the same build", "source": "Meyers Großes Konversations-Lexikon, “Alexandriner”" },
+            { "measure": "a song stanza", "beats": 3, "in plain words": "four lines of three beats", "scene": "Evening", "who speaks": "Gretchen, singing “The King of Thule”", "lines": "2759 to 2782", "read": "faust/s08:43", "counted": "six stanzas of four lines in the German text; the direction says she sings" },
+            { "measure": "blank verse", "beats": 5, "in plain words": "five beats to a line, without rhyme", "scene": "Forest and Cavern", "who speaks": "Faust, alone", "lines": "3217 to 3250", "read": "faust/s14:2", "counted": "34 unrhymed lines in the German text, one of them of six beats; rhyme returns when Mephistopheles enters" },
+            { "measure": "the two-beat line", "beats": 2, "in plain words": "ten stanzas of four lines, the first returning twice", "scene": "Gretchen’s Room", "who speaks": "Gretchen, alone", "lines": "3374 to 3413", "read": "faust/s15:2", "counted": "forty lines in the German text, three to six syllables each" },
+            { "measure": "prose", "in plain words": "the one scene of Part I not in verse", "scene": "Dreary Day. A Field", "who speaks": "Faust and Mephistopheles", "lines": "after 4398", "read": "faust/s23:3", "source": "German Wikipedia, “Faust. Eine Tragödie”: all of the play is in verse except this scene" }
+          ],
+          "why": "The verse of Part I changes measure with scene and speaker, from the eight-line stanza to prose; Auden compared the play to a variety show and wrote that Goethe commanded every style of poetry.",
+          "caption": "Auden likened <i>Faust</i> to a variety show: one scene after another, each of interest in itself. The verse keeps changing too. Part I opens in ottava rima, the eight-line stanza of the Italian epics. The archangels’ hymn has four beats. Faust’s first speech opens in Knittelvers, the four-beat rhymed line that ruled German verse in the sixteenth century, when the first book about Faust was printed. Most of the play is in rhymed lines of changing length. Gretchen sings a song in three beats; Faust, alone in the forest, speaks unrhymed lines of five; Gretchen at her wheel has two beats; and one scene is prose.",
+          "grounds": [
+            { "claim": "Auden: Faust is like a variety show, one scene following another, each interesting by itself, with nothing that truly joins them", "kind": "auden", "source": "“Balaam and His Ass,” The Dyer’s Hand (1962), p. 115; research/auden/dh.txt, lines 5475–5497" },
+            { "claim": "the measure at each place named: stanza form, beats, syllables and rhymes", "kind": "source", "source": "counts made in this session in the German text, Project Gutenberg no. 2229, at the lines given in the facts. Finisher, 2026-10-03: the keys beats and break after give as numbers what each row’s own words already say (five-beat, four beats, four, five and six beats, six beats with a break in the middle, three beats, five beats, two-beat), so that the drawing no longer has to read them out of the English; no count was changed" },
+            { "claim": "ottava rima is the epic measure of the Italians; Knittelvers was the ruling form of the sixteenth century and was revived by Goethe after Hans Sachs", "kind": "source", "source": "Meyers Großes Konversations-Lexikon, 6th ed. (1905–09), “Stanze” (vol. 18, p. 852) and “Knüttelverse” (vol. 11, p. 196), read at Wörterbuchnetz 2026-10-03; Thomas, introduction, p. xxxviii, and note on the Dedication" },
+            { "claim": "the Faust-book dates from 1587", "kind": "source", "source": "Goethes Faust, ed. Calvin Thomas, vol. I (1892), note on the name Mephistopheles, before line 243" },
+            { "claim": "the greater part of the play is in rhymed lines of changing length; one scene is prose", "kind": "source", "source": "German Wikipedia, “Madrigalvers” and “Faust. Eine Tragödie”, fetched 2026-10-03; Taylor’s preface (the greater part of the work is in an irregular measure)" },
+            { "claim": "Gretchen sings The King of Thule; Faust is alone in Forest and Cavern; Gretchen is alone at her wheel", "kind": "text", "source": "the stage directions of those scenes; in the English printed here faust/s08 block 42, s14 block 1 and s15 block 1" }
+          ],
+          "stands": "A count of beats, syllables and rhymes in the German text at each place named. The measures and their histories: *Meyers Großes Konversations-Lexikon* under *Stanze* and *Knüttelverse*, Calvin Thomas’s edition of 1892, German Wikipedia under *Madrigalvers*. Places to read: [the Dedication](#/read/faust/dedication:0), [Faust’s first speech](#/read/faust/s01:2), [“The King of Thule”](#/read/faust/s08:43), [Forest and Cavern](#/read/faust/s14:2), [Dreary Day](#/read/faust/s23:3). Auden: *The Dyer’s Hand*, p. 115."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {"says": "In February 1941 Auden reviewed three books of Kafka and turned the review into a history of the hero who goes on a quest. With *Faust*, he wrote, something new comes into the story that *Pilgrim’s Progress* did not have: irony. He quoted the Lord’s lines about the companion who must work as a devil, and concluded that the Devil himself brings about the loss of his wager. Faust and Peer Gynt, he added, are exceptional for being morally worse than ordinary people; God and men favor them because they take what is arbitrary in themselves for what is necessary.", "quote": "Faust is saved because he is never content, and he is never content because Mephistopheles will never let him rest", "source": "“The Wandering Jew,” *The New Republic*, 10 February 1941; reprinted in *Prose*, vol. II (2002), pp. 110–13", "checked": "not seen in full. The sentence quoted, the Lord’s lines before it (in Latham’s translation) and the sentence on the ironical were read in snippets of the Internet Archive scans of the magazine (sim_new-republic_1941-02-10_104_1367) and of Prose II earlier in this session, on 2026-10-03; the rest is from research notes C section 14, part four item 6 and appendix H17b; the Prose page numbers are as the research notes give them. Examiner, 2026-10-03: the whole sentence was found again, word for word, in snippets of the magazine scan and of a scan of the Prose reprint (prosetravelbooks0000aude); Mendelson’s Later Auden quotes it with small differences. The quotation is now the first twenty words of the sentence, and the paraphrase gives its close. Finisher, 2026-10-03: the article is not on this machine (it is in none of the four scans) and could not be opened again. Two things follow. The words by God and men, which the critic added from the transcript in research notes C, appendix H17b, are out again: the transcript has them, but they could not be read in the article. The clause on the Lord’s lines no longer follows the English of the translation Auden quoted, which was seen only in a snippet: it now gives German lines 340–343 in the page’s own words, the same as in the entry on New Year Letter, with work for the verb of line 343, which is the riddle’s verb and is works in the English printed under the riddle (faust/s03 block 35, row 1; the German read at line 500 of .cache/originals/faust_german.txt). The lead, 2026-10-03, 14:30 UTC: an exact-phrase search of the scan of the Prose reprint (prosetravelbooks0000aude) finds the words favored of God and men once, and the words on the arbitrary and the necessary once; the words by God and men are back in the entry"},
+    {"says": "Auden could well imagine every actor wanting the part of Mephisto, who never fails to entertain, while whoever plays Faust goes unnoticed as long as Mephisto is on stage. He blamed the play’s faults as drama on the myth itself and held that Goethe did not lack talent as a dramatist. Faust’s story, as he read it, is about a man who will not be anyone and wants only to turn into someone else, and Mephisto makes visible what is possible and not actual. In an ideal production, he said, identical twins would play the two.", "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 115–16", "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 5475–5513 (running heads at the top of each page: p. 115 before line 5475, “116 ]” before line 5511), on 2026-10-03"},
+    {"says": "Mephisto calls himself a part of the part that was once everything. Auden read this as a refusal of everything finite: a spirit that turns down whatever is actual can only hate creation. Of the riddle shown here he said he could hardly tell what good or what evil Mephisto does to Faust. With his help Faust may do others a great deal of harm, but nothing Faust does alters Faust. He lets Mephisto entertain him, and these shows change his character as little as watching the play changes its audience.", "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), p. 117", "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 5583–5607 (the running head “[ 117” stands before line 5571; “118 ]” after line 5615), on 2026-10-03"},
+    {"says": "Auden held that Faust escapes damnation and yet cannot sensibly be called saved: the angels who carry him to Heaven speak of him as still a pupa, and a creature in that state cannot be judged. In 1946 he found the ending of the play unsatisfying as art: the reader does not believe that Faust is saved, and neither, he thought, does Goethe. In 1948 he wrote that Marlowe, though less clever than Goethe, had the sounder sense, since his Faustus ends in hell.", "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), p. 117; “K.’s Quest,” in *The Kafka Problem*, edited by Angel Flores (1946), p. 49; “Squares and Oblongs,” in *Poets at Work* (1948), reprinted in *Prose*, vol. II (2002), pp. 349–50", "checked": "The Dyer’s Hand: read in the scan, research/auden/dh.txt, lines 5571–5574, on 2026-10-03. “K.’s Quest” and “Squares and Oblongs”: not seen in full; each sentence read in a snippet of an Internet Archive scan earlier in this session and in research notes C section 14; page numbers as the research notes give them. Examiner, 2026-10-03: both sentences found again by full-text search of the Internet Archive, the first in two scans of The Kafka Problem (kafkaproblem0000ange, the edition of 1946, and kafkaproblem00flor, a reprint of 1975 whose pages are numbered differently) and in the scan of Prose II, the second in a scan of Poets at Work (poetsatwork0000char) and in Prose II. The snippets carry no page numbers"},
+    {"says": "In class in December 1941, lecturing on *The Tempest*, Auden said that Prospero’s giving up of his magic for ordinary life belongs to a very old theme, and that Faust gives up something like it. Faust lets go of wide learning and power so that he can be of direct use to other people, in his case by joining in the building of dikes. The reference is to the end of Part II. This comes from notes a student made after the lecture.", "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 150", "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, on 2026-10-03; the page number stands at the foot of each page of the scan, before the next page’s heading, and the passage lies between the numbers 149 and 150"},
+    {"says": "In *New Year Letter*, the long poem he published in 1941, Auden names the Devil by Mephistopheles’ line, put into English, and a note gives the German and cites *Faust*, Part I, Scene 3. A little later the poem addresses Mephistopheles as one who has been cheated and only thinks he is having his own way. Another note quotes, in German, the Lord’s lines about the companion who must work as a devil.", "source": "*New Year Letter* (London: Faber, 1941), lines 384 and 400, with the notes to lines 384 and 395", "checked": "not seen in full. The two lines of the poem and the note to line 384 were read in snippets of an Internet Archive scan earlier in this session, on 2026-10-03; the note to line 395 and the line numbers are from research notes C section 14 and appendix H6. Examiner, 2026-10-03: found again by full-text search of the Internet Archive. In snippets of the Faber scan (newyearletter0000aude and newyearletter0000unse) the number 400 stands beside the line on Mephistopheles, and the note with the German line and Faust, Part I, Scene 3 stands just before the heading Line 395; in snippets of The Double Man (doubleman0000aude) the note headed 395 begins with the Lord’s lines in German. Searched again later the same day: in the Faber scan the first note is headed Line 384 and begins with the poem’s English for the line, and the next is headed Line 395; so the three line numbers are the book’s own. The pages themselves were not seen"},
+    {"says": "Writing of the Romantic hero and his lack of any lasting interest in other people, Auden set Faust beside Ibsen’s Peer Gynt. Each comes across a great many people, and what matters about both, he said, is that they go on and the others stay where they were.", "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 107", "checked": "read in the scan of The Enchafèd Flood, research/auden/ef.txt, on 2026-10-03; page numbers stand at the foot of each page of the scan, and the sentence lies between the numbers 106 and 107"}
+  ],
+  "next": "faust/dedication:0",
+  "sources": [
+    "The German: Johann Wolfgang von Goethe, *Faust. Der Tragödie erster Teil* (first printed 1808), in the modern-spelling text of Project Gutenberg (no. 2229), with the line numbers of the standard editions.",
+    "The English under it, and the copy to read here: *Faust*, Part I, translated in the original metres by Bayard Taylor (1870), as Project Gutenberg prints it (no. 14591), with Taylor’s preface.",
+    "The first edition, used for the numbering of the lines: *Faust. Eine Tragödie* (Tübingen: Cotta, 1808), as transcribed at German Wikisource.",
+    "*Goethes Faust*, edited by Calvin Thomas, vol. I: The First Part (Boston: D. C. Heath, 1892): introduction, p. xxxviii; the notes on the Dedication, the Prelude and the name Mephistopheles; on lines 275, 282, 339, 1334, 1336 and 4023; and on Gretchen’s room.",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Balaam and His Ass,” pp. 115–18.",
+    "W. H. Auden, *Forewords and Afterwords* (1973): “Italian Journey,” p. 131.",
+    "W. H. Auden, “The Wandering Jew,” *The New Republic*, 10 February 1941; reprinted in *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 110–13. Not seen in full.",
+    "W. H. Auden, *New Year Letter* (London: Faber, 1941): lines 384 and 400, and the notes to lines 384 and 395. Not seen in full.",
+    "W. H. Auden, “K.’s Quest,” in *The Kafka Problem*, edited by Angel Flores (1946), p. 49, and “Squares and Oblongs,” in *Poets at Work* (1948), reprinted in *Prose*, vol. II, pp. 349–50. Not seen in full.",
+    "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 107.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 150: notes made after Auden’s lectures in the fall of 1941.",
+    "Friedrich Schiller to Goethe, 15 October 1799, in *Briefwechsel zwischen Schiller und Goethe*, at Projekt Gutenberg-DE.",
+    "*Meyers Großes Konversations-Lexikon*, 6th edition (1905–09), at Wörterbuchnetz: Alexandriner, Knüttelverse, Stanze.",
+    "Jacob and Wilhelm Grimm, *Deutsches Wörterbuch*, at Wörterbuchnetz: fliegengott, händedruck, verneinen, zauberflusz.",
+    "*Digitales Wörterbuch der deutschen Sprache*, with Wolfgang Pfeifer’s etymological dictionary: anklagen, böse, eigentlich, Element, entstehen, Gang, Geist, Gestalt, Gewalt, Händedruck, herrlich, Junker, Maske, Rätsel, Rede, schaffen, Schalk, Schlag, stets, Teil, verneinen, wunderlich, zugrunde.",
+    "Online Etymology Dictionary: anaphora, antithesis, parody, riddle.",
+    "Gideon O. Burton, *Silva Rhetoricae* (Brigham Young University): anaphora, antithesis.",
+    "The Bible in the King James Version: 2 Kings 1:2; Matthew 12:24; Mark 5:9; Luke 8:30; John 8:44; Revelation 9:11.",
+    "Paull F. Baum, *The Principles of English Versification* (1922): chapter 4, on the short couplet and the alexandrine.",
+    "German Wikipedia: Madrigalvers; Faust. Eine Tragödie; Gretchen am Spinnrade. English Wikipedia: Gretchen am Spinnrade."
+  ],
+  "caveats": [
+    "Auden names no passages for the styles he lists, and does not point to the names and costumes of Mephistopheles; his variety show is a remark about the scenes. The passages and these matchings are this page’s choice, as is setting Schiller’s remark on French plays beside the riddle.",
+    "The stresses marked are one reader’s hearing of the German. Another reader could fairly mark some syllables otherwise, above all the first words of lines, and some of Gretchen’s lines can be heard with three beats.",
+    "An editor of 1892 reads the riddle as the devil’s own opinion: in doing what men call bad he does what he thinks good, and admits no higher power that turns it to good. He finds no special effect meant in the six-beat lines of the Prelude at the Theatre.",
+    "Auden’s article of 1941, his notes to *New Year Letter* and his essays of 1946 and 1948 were read here only in snippets of scanned copies. What he said in class comes from notes a student, Donald Pearce, made after the lectures.",
+    "The course’s reading list names the Everyman edition, which is Albert Latham’s translation, and “Omit” is written by hand against the title. The English here is Bayard Taylor’s. The German is a modern-spelling text and not the spelling of 1808."
+  ],
+  "open": [
+    "The German passages carry no speakers’ names (the cut holds only the lines), so the captions and the numbered remarks of the Beat tabs say who speaks. In the first passage the first four lines are the three archangels’ and the rest Mephistopheles’; in the second the speakers change four times. The lead may want speaker labels drawn.",
+    "The 1941 reading list has “Omit” written by hand against Faust (research notes A and C section 14). Whose hand it is, and whether the book was in fact dropped, is not known. The piece is built on what Auden wrote of the work in 1941 and after.",
+    "Not seen in full: “The Wandering Jew” (1941), New Year Letter with its notes (1941), “K.’s Quest” (1946), “Squares and Oblongs” (1948). Each sentence used was read in a snippet of an Internet Archive scan and in the research notes; the page numbers in Prose, vol. II are the research notes’, not checked by me.",
+    "“Balaam and His Ass” is cited from The Dyer’s Hand (1962); the research notes date the essay 1954. The captions say “later” and give no year.",
+    "Madrigal verse: the name and its history (La Fontaine’s fables, the German fables after them, its use in Faust) rest on German Wikipedia and on Taylor’s preface. Meyers has no entry I could open under Madrigalvers. The Prelude on the Stage is said by Thomas’s note to be in this verse; I did not count it.",
+    "The counts of the name Mephistopheles are from the two Project Gutenberg texts (German no. 2229, Taylor no. 14591) and depend on how those texts print speech headings and directions: 253 headings in the German, 255 in the English and one shared. That the full name is never spoken in Part I holds in both.",
+    "The scansion is my hearing of the German; notes.md gives the other ways of hearing each doubtful line. The lines of Gretchen’s scene are marked with two beats, which is the usual account; three of those shown can also be heard with three.",
+    "The Measures table lists nine measures and is not complete: the songs and choruses of Part I (the Easter choruses, the spirits’ song, the songs in Auerbach’s Cellar, the Walpurgis Night’s Dream, the Cathedral scene) are not in it.",
+    "The line numbers are those of the standard editions, taken from the numbering of the first edition as German Wikisource transcribes it (a mark every fifth line) and checked against the notes of Thomas’s edition.",
+    "From the examiner (2026-10-03): the Beat tab of the first passage no longer says that rhymed lines of changing length were the verse of fables. German Wikipedia does say so, but the Lord answers in the same verse and most of the play is in it, so the fact gave no reason why Mephistopheles speaks it. The caption now says the measure changes from the hymn’s stanza to the play’s common verse, and gives Thomas’s gloss on high words. If the history of madrigal verse is wanted on the page, the Measures table is the place for it.",
+    "From the examiner: three paraphrases kept Auden’s sentences nearly word for word and were in effect further quotations: the sentence on Faust and Peer Gynt (The Enchafèd Flood, p. 107) in the Anaphora caption and in the list, Pearce’s report of the Tempest lecture, and the first half of the sentence from “The Wandering Jew”, which with the quotation after it gave the whole sentence. All are now in other words. The piece has two quotations of 20 words each: one in the view, and one at the head of the list, which is now the first twenty words of the sentence from “The Wandering Jew” (the poet had its last 21, which began in the middle with he and read oddly as a display line). A script was then run for any run of five or more words shared between the printed prose and the four scans; the three it found (the actor’s name, the faults of the play, the heroes worse than the average) were reworded, and it now finds only titles and one German phrase. Auden’s remark on the riddle has the word evil where the paraphrases of it had harm; evil is back.",
+    "From the examiner: Taylor’s English differs from the German at two places the notes send a reader to. Where the Lord asks whether Mephistopheles comes only to accuse, Taylor has ill intention; where Mephistopheles calls Faust’s gown and cap his Maske, Taylor has no mask (he has cap and mantle, and playing the comedy). Both are now said under the tabs. The English calls Gretchen Margaret, and the opening paragraph now says so.",
+    "From the examiner: the Names caption now gives Auden’s own reason from the same sentence (his name is Legion; Mark 5:9), and Maske is glossed as costume (DWDS, sense 2). The Anaphora key had two entries that both read his; the labels now tell them apart. No join was set on any figure: the strokes drawn (the two closing phrases; the three matched pairs of the riddle; the five line-heads, and my, my, I) are the ones the captions join.",
+    "From the examiner: not verified beyond what the poet says above: the page numbers in Prose, vol. II and in The Kafka Problem (another session’s research notes, F on Rilke, record the title of “The Wandering Jew” at the head of p. 110 and its source line at the foot of p. 113). The line numbers of New Year Letter are confirmed in snippets of the Faber scan: 400 is printed in the margin, and the two notes are headed Line 384 and Line 395. Whether Goethe meant the six-beat lines of the second passage as alexandrines for the sake of the antithesis is not known; Thomas says of those in the Prelude that no special effect was meant. The caption states the form and Schiller’s remark, and the caveats say the rest.",
+    "From the examiner, for the artist: on a phone (390 px) the Rhyme tab of the first passage draws the long stroke that joins the hymn’s last rhyme to Mephistopheles’ last pair out past the right edge of the passage, where the eleventh line turns over; the photograph tool reports it as a mark outside its passage. At desktop width it is sound. Nothing in the reading causes it, and the reading was not changed for it.",
+    "From the finisher (2026-10-03): the sentence from “Italian Journey” (p. 131) now stands four times and not six: the quotation, the view and the two English tabs. The Beat tabs of the first and third passages no longer close on it. The Anaphora tab no longer sets Auden’s remark on Faust and Peer Gynt beside Gretchen’s list, so no caption now leans on the last entry of the list (an examiner’s entry above still speaks of that caption). The riddle’s verb is works in the Antithesis caption and its key, as in the English under the line, and work in both list entries; Taylor has create for the same verb in the Lord’s lines, which the note under that tab now says. The Names drawing prints 255 speeches, the count in the English printed here. The words by God and men are out of the first list entry, because the article of 1941 could not be opened here; the research notes’ transcript has them."
+  ]
+}

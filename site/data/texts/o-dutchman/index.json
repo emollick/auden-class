@@ -1,0 +1,32 @@
+{
+ "id": "o-dutchman",
+ "original": true,
+ "lang": "de",
+ "parts": [
+  {
+   "id": "ballad",
+   "label": "Wagner, Der fliegende Holländer, Act 2, Scene 1: Senta’s ballad",
+   "lang": "de",
+   "source": {
+    "name": "Project Gutenberg, no. 27769: the German text of the Metropolitan Opera libretto published by Fred. Rullman, New York",
+    "url": "https://www.gutenberg.org/ebooks/27769"
+   },
+   "file": "wagner_fliegende_hollaender_27769.txt",
+   "lines": "727-727,728-735,736-740,741-747,748-752,753-759,763-764,768-770",
+   "words": 287
+  },
+  {
+   "id": "end",
+   "label": "Wagner, Der fliegende Holländer: lines from Act 1, Scene 2, from Act 2, Scene 3, and from the last scene of Act 3",
+   "lang": "de",
+   "source": {
+    "name": "Project Gutenberg, no. 27769: the German text of the Metropolitan Opera libretto published by Fred. Rullman, New York",
+    "url": "https://www.gutenberg.org/ebooks/27769"
+   },
+   "file": "wagner_fliegende_hollaender_27769.txt",
+   "lines": "262-267,1162-1165,1587-1588,1639-1640",
+   "left": [1, 2, 3],
+   "words": 90
+  }
+ ]
+}

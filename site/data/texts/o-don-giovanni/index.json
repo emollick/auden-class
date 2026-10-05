@@ -1,0 +1,31 @@
+{
+ "id": "o-don-giovanni",
+ "original": true,
+ "lang": "it",
+ "parts": [
+  {
+   "id": "catalogue",
+   "label": "Da Ponte, Don Giovanni, Act 1, Scene 5: Leporello’s catalogue",
+   "lang": "it",
+   "source": {
+    "name": "Italian Wikisource, proofread from the libretto printed in Florence by Eduardo Ducci in 1867",
+    "url": "https://it.wikisource.org/wiki/Don_Giovanni"
+   },
+   "file": "mozart_don_giovanni_it_wikisource.txt",
+   "lines": "333-333,334-334,336-336,338-338,339-342,344-349,350-357,358-359,360-361,362-365",
+   "words": 138
+  },
+  {
+   "id": "duet",
+   "label": "Da Ponte, Don Giovanni, Act 1, Scene 9: the duet of Don Giovanni and Zerlina",
+   "lang": "it",
+   "source": {
+    "name": "Italian Wikisource, proofread from the libretto printed in Florence by Eduardo Ducci in 1867",
+    "url": "https://it.wikisource.org/wiki/Don_Giovanni"
+   },
+   "file": "mozart_don_giovanni_it_wikisource.txt",
+   "lines": "543-548,550-553,554-557,558-561,562-564",
+   "words": 100
+  }
+ ]
+}

@@ -1,0 +1,2304 @@
+{
+  "piece": "tempest",
+  "title": "Ariel’s song",
+  "where": "*The Tempest*, Act 1, Scene 2, with Act 3, Scene 2 and the Epilogue",
+  "about": "Ferdinand, a young prince, has come ashore alone from a shipwreck and believes his father, the king, has drowned. Ariel, a spirit he cannot see, sings this to him. His father is alive, on another part of the island, and Ariel knows it. The second passage is spoken by Caliban, a slave, when Ariel’s unseen music frightens the butler and the jester he is leading to kill his master, Prospero, the magician who rules the island. The third is Prospero’s own, spoken to the audience when the play is over.",
+  "view": {
+    "says": "Auden wrote that this song is a dirge in form only. The feelings of a mourning son are no part of it. It is a spell, and what it does is change Ferdinand’s attitude to his grief, from rebellion to awe and acceptance. The loss is not made less. The song lets him accept that his father belongs to the past, and then his future is in front of him: Miranda.",
+    "quote": "It is a magic spell, the effect of which is, not to lessen his feeling of loss, but to change his attitude towards his grief",
+    "source": "“Music in Shakespeare,” in *The Dyer’s Hand* (1962), pp. 525–26",
+    "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 24966-24992, and read again on 2026-10-03"
+  },
+  "plates": [
+    {
+      "id": "song",
+      "text": "tempest/a1s2",
+      "rows": [
+        "225.0-225.6",
+        "227.0-227.1"
+      ],
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "seven syllables and four beats, the line beginning on a beat",
+          "scan": {
+            "225.0": {
+              "meter": "x/x/x/x/",
+              "voice": "/ /x / x /x /"
+            },
+            "225.1": {
+              "meter": "/x/x/x/",
+              "voice": "x x / x /x /"
+            },
+            "225.2": {
+              "meter": "/x/x/x/",
+              "voice": "/ x / x / x /"
+            },
+            "225.3": {
+              "meter": "/x/x/x/",
+              "voice": "/x x / x x /"
+            },
+            "225.4": {
+              "meter": "/x/x/x/",
+              "voice": "x x /x x //"
+            },
+            "225.5": {
+              "meter": "/x/x/x/",
+              "voice": "/x /x / x /"
+            },
+            "225.6": {
+              "meter": "/x/x/x/",
+              "voice": "/x /x / x /"
+            },
+            "227.1": {
+              "meter": "/xx/x/x/",
+              "voice": "/ x x / x // /"
+            }
+          },
+          "caption": "From its second line to its seventh the song keeps one measure: seven syllables, four beats, the line beginning on a beat. Oberon and Puck say their charms in this measure in <i>A Midsummer Night’s Dream</i>, and so do the witches in <i>Macbeth</i>. Auden called this song a magic spell, and this is the measure of those spells. The rule under each line is the measure and the dots are the speaking voice. They part most in the fourth and fifth lines, which say what is happening to the body. At <b>sea-change</b> two stresses fall together, which slows the voice on a word that was new. In the next line, <b>Into something rich and strange</b>, voice and measure agree again.",
+          "why": "The song is in the measure of the charms in A Midsummer Night’s Dream and Macbeth, and Auden calls it a spell; the voice leaves the measure most where two stresses slow it on the new word.",
+          "points": [
+            {
+              "at": [
+                "225.0",
+                0,
+                5
+              ],
+              "say": "The first line has eight syllables and begins off the beat. Three of its first four syllables are stressed."
+            },
+            {
+              "at": [
+                "227.1",
+                5,
+                6
+              ],
+              "say": "The last line has eight syllables too. It ends on three stresses in a row. The first two are the sound of the bell: *ding-dong* is a word made from it."
+            }
+          ],
+          "grounds": [
+            {
+              "claim": "the measure of each line, and where the voice leaves it",
+              "kind": "plate"
+            },
+            {
+              "claim": "Oberon, Puck and the witches say their charms in this measure",
+              "kind": "source",
+              "source": "A Midsummer Night’s Dream 2.2 (Oberon over Titania, Puck over Lysander) and 3.2 (Oberon over Demetrius); Macbeth 1.3 and 4.1 (the witches)"
+            },
+            {
+              "claim": "Auden called the song a magic spell",
+              "kind": "auden",
+              "source": "“Music in Shakespeare,” in The Dyer’s Hand (1962), p. 525"
+            },
+            {
+              "claim": "stresses that fall together slow a line",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on lines overweighted with stress"
+            },
+            {
+              "claim": "sea-change was a new word",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. VIII, part 2, under Sea: its one example is this song"
+            },
+            {
+              "claim": "ding-dong is made from the sound of bells",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Ding-dong"
+            }
+          ],
+          "stands": "The marks on the passage. The charms in this measure: *A Midsummer Night’s Dream*, Act 2, Scene 2 and Act 3, Scene 2; *Macbeth*, Act 1, Scene 3 and Act 4, Scene 1. Auden calls the song a spell in *The Dyer’s Hand*, p. 525. Stresses that fall together: Paull F. Baum, *The Principles of English Versification*, chapter 5. *Sea-change* as a new word: *A New English Dictionary*, under Sea."
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "225.0": "a",
+            "225.1": "b",
+            "225.2": "a",
+            "225.3": "b",
+            "225.4": "c",
+            "225.5": "c",
+            "225.6": "d",
+            "227.1": "d"
+          },
+          "tails": {
+            "225.0": 3,
+            "225.1": 3,
+            "225.2": 4,
+            "225.3": 3,
+            "225.4": 4,
+            "225.5": 4,
+            "225.6": 3,
+            "227.1": 3
+          },
+          "threads": [
+            {
+              "sound": "f",
+              "at": [
+                [
+                  "225.0",
+                  0,
+                  0,
+                  1
+                ],
+                [
+                  "225.0",
+                  1,
+                  0,
+                  1
+                ],
+                [
+                  "225.0",
+                  2,
+                  0,
+                  1
+                ],
+                [
+                  "225.0",
+                  4,
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "sound": "s",
+              "at": [
+                [
+                  "225.4",
+                  2,
+                  0,
+                  1
+                ],
+                [
+                  "225.4",
+                  4,
+                  0,
+                  1
+                ],
+                [
+                  "225.5",
+                  1,
+                  0,
+                  1
+                ],
+                [
+                  "225.5",
+                  4,
+                  0,
+                  1
+                ]
+              ]
+            }
+          ],
+          "caption": "The first four lines rhyme by turns: <i>lies</i> with <i>eyes</i>, <i>made</i> with <i>fade</i>. Each rhyme waits a line for its partner. From <b>sea-change</b> on the song rhymes in pairs, and <b>strange</b> answers <b>change</b> at once. A rhyme that comes back at once makes its two lines one unit, a couplet. This one holds the words Auden gave his class in 1941 as the central theme of the sea scenes in <i>Pericles</i> and <i>The Tempest</i>. Sounds come back inside the lines as well: <b>f</b> four times in the first line, and <b>s</b> four times across the couplet.",
+          "why": "The rhyme changes from alternate lines to couplets at the sentence about the sea-change, so those two lines are heard as one unit; Auden took their words as the theme of the sea scenes in Pericles and The Tempest.",
+          "grounds": [
+            {
+              "claim": "which lines rhyme, and which letters come back",
+              "kind": "plate"
+            },
+            {
+              "claim": "the quick return of the rhyme makes a couplet felt as one unit",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the short couplet"
+            },
+            {
+              "claim": "Auden gave these words as the central theme of the sea scenes in Pericles and The Tempest",
+              "kind": "auden",
+              "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in W. H. Auden: The Far Interior (1985), p. 149"
+            }
+          ],
+          "stands": "The marks on the passage. That a rhyme which returns at once makes its two lines one unit: Paull F. Baum, *The Principles of English Versification*, chapter 4, on the short couplet. What Auden told his class about these words: Donald Pearce’s notes of the lecture, p. 149."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "chiasmus",
+          "plain": "a crossing: two things are named, then named again in the opposite order",
+          "draw": "cross",
+          "parts": [
+            {
+              "row": "225.1",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "A",
+              "label": "the body"
+            },
+            {
+              "row": "225.1",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "B",
+              "label": "the sea"
+            },
+            {
+              "row": "225.2",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "B",
+              "label": "the sea"
+            },
+            {
+              "row": "225.2",
+              "w": [
+                6,
+                6
+              ],
+              "tag": "A",
+              "label": "the body"
+            },
+            {
+              "row": "225.1",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "verb",
+              "label": "the verb, present"
+            },
+            {
+              "row": "225.2",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "verb",
+              "label": "the verb, present"
+            },
+            {
+              "row": "225.2",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "verb-past",
+              "label": "the verb, past"
+            }
+          ],
+          "caption": "Two lines say one thing in opposite order. The first goes from the body to the sea: <b>bones</b>, then <b>coral</b>. The second goes from the sea to the body: <b>pearls</b>, then <b>eyes</b>. Neither line says <i>like</i>. The verbs are plain ones, <i>are</i> and <i>were</i>: coral is made of his bones, and what are pearls now were his eyes. Auden told his class that the theme named in this song is transformation, almost transmutation in the alchemist’s sense, one substance changed into another. These two lines state such a change as fact, twice.",
+          "why": "The two lines name body and sea in crossed order and join them with the plain verbs are and were, never with like; Auden said the theme the song names is transformation, close to an alchemist’s transmutation.",
+          "grounds": [
+            {
+              "claim": "the order of the four nouns and the verbs between them",
+              "kind": "plate"
+            },
+            {
+              "claim": "neither line uses a word of likeness; each states the change with are or were",
+              "kind": "text",
+              "source": "rows 225.1 and 225.2"
+            },
+            {
+              "claim": "transformation, almost transmutation in the alchemical sense",
+              "kind": "auden",
+              "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in W. H. Auden: The Far Interior (1985), p. 149"
+            },
+            {
+              "claim": "transmutation is the change of one substance into another",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under transmutation"
+            }
+          ],
+          "stands": "The marks on the passage, and the two lines themselves. Auden on transformation: Donald Pearce’s notes of the lecture, p. 149. What transmutation means: the Online Etymology Dictionary."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "225.0",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "six feet · an arm-span",
+              "note": "Old English *fæthm* was the length of the outstretched arms, and also an embrace.",
+              "source": "Online Etymology Dictionary, under fathom; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Fathom"
+            },
+            {
+              "row": "225.3",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "perish",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Fade, sense 3",
+              "note": "The lexicon of Shakespeare’s words puts this line under the sense: to be perishable."
+            },
+            {
+              "row": "225.4",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "undergo",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Suffer, sense 5",
+              "note": "The same lexicon puts this line under the sense: to undergo or experience, in a good or a bad sense."
+            },
+            {
+              "row": "225.4",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "first recorded here",
+              "note": "The first edition of the Oxford dictionary gives this song as its only example of the word.",
+              "source": "A New English Dictionary, vol. VIII, part 2, under Sea (the entry was first published in 1911); the current entry dates its earliest evidence before 1616, in Shakespeare."
+            },
+            {
+              "row": "225.5",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "wonderful · foreign · new",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Strange, senses 1, 3 and 7"
+            },
+            {
+              "row": "225.6",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "the sound of a funeral bell",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Knell"
+            }
+          ],
+          "caption": "The Oxford dictionary’s earliest example of <b>sea-change</b> is this song, and Shakespeare appears to have made the word for this line. <b>Suffer</b> here means <i>undergo</i>, and <b>fade</b> means <i>perish</i>. So the sentence says that every part of him that could perish is changed by the sea instead. <b>Strange</b> could mean <i>foreign</i> or <i>new</i> as well as <i>wonderful</i>. <b>Fathom</b> is six feet, at first the length of two outstretched arms. <b>Knell</b> is the sound of a bell rung at a funeral. The words are those of a dirge, and Auden’s point is that the song is a dirge in form only.",
+          "why": "The sentence turns on a word first recorded here, sea-change, and on suffer in its sense of undergo: the text says the body is changed and does not perish, which is the transformation Auden names.",
+          "grounds": [
+            {
+              "claim": "sea-change is first recorded in this song",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. VIII, part 2, under Sea; Oxford English Dictionary, sea-change, n."
+            },
+            {
+              "claim": "the senses of fade, suffer, strange, knell and fathom in Shakespeare",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under each word; Fade 3 and Suffer 5 quote this line"
+            },
+            {
+              "claim": "a fathom was at first the length of the outstretched arms",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under fathom"
+            },
+            {
+              "claim": "every part that could perish is changed instead",
+              "kind": "text",
+              "source": "rows 225.3 to 225.5"
+            },
+            {
+              "claim": "a dirge in form only",
+              "kind": "auden",
+              "source": "“Music in Shakespeare,” in The Dyer’s Hand (1962), p. 525"
+            }
+          ],
+          "stands": "*A New English Dictionary*, under Sea, for the first record of *sea-change*. Alexander Schmidt’s *Shakespeare-Lexicon* for *suffer*, *fade*, *strange*, *fathom* and *knell*; its entries for *fade* and *suffer* quote this line. The Online Etymology Dictionary for the fathom as two arms’ length. The lines themselves. Auden on the dirge: *The Dyer’s Hand*, p. 525."
+        }
+      ]
+    },
+    {
+      "id": "noises",
+      "heading": "Caliban on the island’s noises",
+      "text": "tempest/a3s2",
+      "rows": [
+        "127.0-127.8",
+        "129.0"
+      ],
+      "lenses": [
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "127.0",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "afraid",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Afeard: afraid, being in fear; it cites Caliban’s question two lines before this one (III, 2, 142)"
+            },
+            {
+              "row": "127.0",
+              "w": [
+                8,
+                8
+              ],
+              "gloss": "music",
+              "note": "A tavern band is called a *noise* in *Henry IV, Part 2*.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Noise, sense 3, which quotes this line; Henry IV, Part 2, Act 2, Scene 4"
+            },
+            {
+              "row": "127.1",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "pieces of music",
+              "note": "In Act 1 Ferdinand uses the word of Ariel’s first song.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Air (the third entry), which cites this line; The Tempest, Act 1, Scene 2"
+            },
+            {
+              "row": "127.2",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "shrill, jingling",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Twangling, which quotes this line"
+            },
+            {
+              "row": "127.6",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "I dreamt",
+              "note": "The lexicon puts this line under the sense: it seemed to me in sleep, I dreamt.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Methought"
+            },
+            {
+              "row": "127.7",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "so that",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under That (the conjunction), sense 3, which cites this line"
+            },
+            {
+              "row": "127.8",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "demanded eagerly",
+              "note": "The verb can mean to weep, but the lexicon puts this line under the sense: to cry for something, to demand it eagerly.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Cry (the verb), sense 5, which quotes this line"
+            }
+          ],
+          "caption": "<b>Noises</b> is Caliban’s first word for what Ariel has just played, unseen, on a pipe and a tabor, a small drum. The lexicon of Shakespeare’s words puts this line under the sense music; a band of musicians was called a noise. Then come <i>sounds</i> and <b>sweet airs</b>: an air is a piece of music, played or sung. He speaks of instruments and voices and of no player, and he never says Ariel’s name in the play. In Act 4 Ariel reports that with his tabor he charmed the ears of Caliban and his two companions. Auden wrote that without Prospero Ariel can be known to Caliban only as these sounds and sweet airs.",
+          "why": "Caliban’s words name what is heard, music and airs, instruments and voices, and no player; Auden says that without Prospero Ariel can be known to Caliban only as these sounds and sweet airs.",
+          "grounds": [
+            {
+              "claim": "Ariel, invisible, plays the tune on a tabor and pipe, and this is Caliban’s first word for it",
+              "kind": "text",
+              "source": "The Tempest, Act 3, Scene 2: the directions for Ariel’s entry and for the tabor and pipe, and the speeches between the tune and this one"
+            },
+            {
+              "claim": "noise here means music, and a company of musicians was called a noise",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Noise, sense 3, which quotes this line; Henry IV, Part 2, Act 2, Scene 4"
+            },
+            {
+              "claim": "an air is a piece of music, played or sung",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Air (the third entry), which cites this line"
+            },
+            {
+              "claim": "a tabor is a small drum, played with a pipe",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Tabor: a small drum used for festivity, accompanied by a pipe; the entry cites Ariel’s report in Act 4"
+            },
+            {
+              "claim": "Caliban speaks of instruments and voices, and of no player",
+              "kind": "plate"
+            },
+            {
+              "claim": "Caliban never says Ariel’s name",
+              "kind": "source",
+              "source": "counted in the hosted text of the play: the name is spoken sixteen times by Prospero and once by Ariel, and by no one else"
+            },
+            {
+              "claim": "Ariel says that with his tabor he charmed the ears of the three",
+              "kind": "text",
+              "source": "The Tempest, Act 4, Scene 1, Ariel’s report to Prospero of where he left Caliban, Stephano and Trinculo"
+            },
+            {
+              "claim": "without Prospero, Ariel can be known to Caliban only as sounds and sweet airs",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 131"
+            }
+          ],
+          "stands": "The stage directions for [Ariel’s entry](#/read/tempest/a3s2:36) and for [the tabor and pipe](#/read/tempest/a3s2:111). Alexander Schmidt’s *Shakespeare-Lexicon* under Noise and Air, which cite these lines, and under Tabor. A count of who speaks Ariel’s name in the text printed here. Ariel’s [report in Act 4](#/read/tempest/a4s1:97). Auden: *The Dyer’s Hand*, p. 131."
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "127.2",
+                0
+              ],
+              "to": [
+                "127.3",
+                4
+              ],
+              "tag": "awake",
+              "label": "awake"
+            },
+            {
+              "from": [
+                "127.3",
+                5
+              ],
+              "to": [
+                "127.5",
+                4
+              ],
+              "tag": "asleep",
+              "label": "into sleep"
+            },
+            {
+              "from": [
+                "127.5",
+                5
+              ],
+              "to": [
+                "127.7",
+                4
+              ],
+              "tag": "dream",
+              "label": "the dream"
+            },
+            {
+              "from": [
+                "127.7",
+                5
+              ],
+              "to": [
+                "127.8",
+                4
+              ],
+              "tag": "awake",
+              "label": "awake"
+            },
+            {
+              "from": [
+                "127.3",
+                0
+              ],
+              "to": [
+                "127.3",
+                1
+              ],
+              "tag": "custom-or-past",
+              "label": "what happens or happened"
+            },
+            {
+              "from": [
+                "127.5",
+                0
+              ],
+              "to": [
+                "127.5",
+                1
+              ],
+              "tag": "custom-or-past",
+              "label": "what happens or happened"
+            },
+            {
+              "from": [
+                "127.6",
+                3
+              ],
+              "to": [
+                "127.6",
+                4
+              ],
+              "tag": "custom-or-past",
+              "label": "what happens or happened"
+            },
+            {
+              "from": [
+                "127.4",
+                4
+              ],
+              "to": [
+                "127.4",
+                5
+              ],
+              "tag": "custom-or-past",
+              "label": "what happens or happened"
+            },
+            {
+              "from": [
+                "127.6",
+                2
+              ],
+              "to": [
+                "127.6",
+                2
+              ],
+              "tag": "custom-or-past",
+              "label": "what happens or happened"
+            },
+            {
+              "from": [
+                "127.7",
+                8
+              ],
+              "to": [
+                "127.7",
+                8
+              ],
+              "tag": "custom-or-past",
+              "label": "what happens or happened"
+            },
+            {
+              "from": [
+                "127.8",
+                1
+              ],
+              "to": [
+                "127.8",
+                1
+              ],
+              "tag": "custom-or-past",
+              "label": "what happens or happened"
+            },
+            {
+              "from": [
+                "129.0",
+                1
+              ],
+              "to": [
+                "129.0",
+                2
+              ],
+              "tag": "future",
+              "label": "what will be"
+            },
+            {
+              "from": [
+                "129.0",
+                10
+              ],
+              "to": [
+                "129.0",
+                11
+              ],
+              "tag": "future",
+              "label": "what will be"
+            }
+          ],
+          "caption": "The last seven lines are one sentence. <i>And sometimes</i>, <i>and then</i> and <i>that, when</i> join waking to sleep, sleep to the dream, and the dream to waking. The lexicon of Shakespeare’s words puts <b>will hum</b> and <b>would open</b> under use and custom, what happens again and again, and <i>will make</i> is the same will. The sentence’s other verbs are past: <i>methought</i>, <i>cried</i>. No verb in this speech is a future, though earlier in the scene Caliban plots in the future tense. Auden took Caliban to stand for the natural, which keeps to what is necessary and cannot imagine possibility; a vague dream, he wrote, is the nearest it comes. Stephano answers in the future: <b>will prove</b>, <b>shall have</b>.",
+          "why": "One sentence joins waking, sleep, dream and waking, and its verbs tell custom and the past, with no future among them; Auden says the natural cannot imagine possibility and comes nearest to it in a vague dream.",
+          "grounds": [
+            {
+              "claim": "where the long sentence runs, the words that join its parts, and the verbs marked",
+              "kind": "plate"
+            },
+            {
+              "claim": "the last seven lines are one sentence in this text, in the Cambridge edition of 1863 and in the Folio, which has no full stop anywhere before the end of the speech",
+              "kind": "source",
+              "source": "Internet Shakespeare Editions, The Tempest, Folio 1 (1623), Act 3, Scene 2, through-line numbers 1492 to 1500; The Works of William Shakespeare, edited by W. G. Clark and J. Glover (Cambridge, 1863), vol. 1"
+            },
+            {
+              "claim": "will hum and would open are the will and would of use and custom",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Will (the verb), where the sense of use and custom quotes the line of will hum and cites the line of would open"
+            },
+            {
+              "claim": "no verb in the speech is a future; will make follows the second sometimes as will hum follows the first; methought and cried are past",
+              "kind": "text",
+              "source": "rows 127.0 to 127.8"
+            },
+            {
+              "claim": "earlier in the scene Caliban speaks in the future as he lays the plot against Prospero",
+              "kind": "text",
+              "source": "The Tempest, Act 3, Scene 2: Caliban’s speeches to Stephano at blocks 54, 58, 62, 82, 90 and 98 of the hosted text"
+            },
+            {
+              "claim": "the natural cannot imagine possibility; a vague dream is the nearest it comes",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 131"
+            },
+            {
+              "claim": "Caliban is the natural in the essay",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 132"
+            },
+            {
+              "claim": "Stephano speaks of what will be his",
+              "kind": "text",
+              "source": "row 129.0"
+            }
+          ],
+          "stands": "The marks on the passage. The Folio of 1623 and the Cambridge edition of 1863, which both run the last seven lines as one sentence. Alexander Schmidt’s *Shakespeare-Lexicon* under Will, for the *will* and *would* of custom. The lines themselves, Stephano’s reply, and Caliban’s plot [earlier in the scene](#/read/tempest/a3s2:54). Auden: *The Dyer’s Hand*, pp. 131–32."
+        },
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "ten syllables and five beats, the line beginning off the beat, without rhyme",
+          "scan": {
+            "127.0": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x / x/ | x / x / x /x",
+              "div": {
+                "4": "isle"
+              }
+            },
+            "127.1": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "/ x / / x / x/ x / \\"
+            },
+            "127.2": {
+              "meter": "x/x/x/x/x/",
+              "voice": "/x x /x /x /x\\"
+            },
+            "127.3": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x / x/ x / | x /x /x"
+            },
+            "127.4": {
+              "meter": "x/x/x/x/x/",
+              "voice": "x x x / x / /x / /"
+            },
+            "127.5": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x / x / x/ | x / x /x"
+            },
+            "127.6": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x / x/ x /x x / /x"
+            },
+            "127.7": {
+              "meter": "x/x/x/xx/x/",
+              "voice": "/x x / x/ x | x x x /"
+            },
+            "127.8": {
+              "meter": "x/x/x/",
+              "voice": "x / x / x/"
+            }
+          },
+          "caption": "Five of the nine lines run a syllable past the last beat: <b>noises</b>, <b>hurt not</b>, <b>voices</b>, <b>dreaming</b>, <b>riches</b>. A handbook of verse counts such extra syllables among the freedoms of Shakespeare’s late verse, and says the placing of a pause can fit verse to meaning. The long sentence pauses three times after a third beat, at <i>ears</i>, at <i>sleep again</i> and at <i>upon me</i>, and each time goes on in the same line. So sleep, the dream and the waking each begin in mid-line.",
+          "why": "The pauses of the long sentence fall inside the line, so sleep, the dream and the waking each begin in mid-line; five lines run a syllable past the measure, a freedom a handbook finds in Shakespeare’s late verse.",
+          "points": [
+            {
+              "at": [
+                "127.1",
+                2,
+                3
+              ],
+              "say": "Two stresses fall together, which slows the voice. The same happens at *long sleep*, in the fifth line."
+            },
+            {
+              "at": [
+                "127.3",
+                4,
+                5
+              ],
+              "say": "This is the first of three pauses, each after a third beat."
+            },
+            {
+              "at": [
+                "127.8",
+                0,
+                4
+              ],
+              "say": "The speech stops on a line of three beats. Three earlier lines paused after their third beat and went on."
+            },
+            {
+              "at": [
+                "129.0",
+                0,
+                15
+              ],
+              "say": "This text prints the reply as prose, so no measure is drawn under it."
+            }
+          ],
+          "grounds": [
+            {
+              "claim": "the measure of each line, the syllables past the last beat, where the pauses fall, and where two stresses meet",
+              "kind": "plate"
+            },
+            {
+              "claim": "extra syllables are among the freedoms that mark Shakespeare’s later blank verse",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on blank verse, where lines from The Tempest are the example. The handbook names unusual pauses there too, but the pauses of this speech fall after the third beat, and chapter 5 says the pause comes most often near the middle of the line, so the caption does not call them unusual"
+            },
+            {
+              "claim": "an extra unstressed syllable at the end of a rising line stands outside the measure",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the line, and the glossary under Feminine ending"
+            },
+            {
+              "claim": "where the pause is placed can fit the verse to the meaning",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on the pause"
+            },
+            {
+              "claim": "stresses that fall together slow a line",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on lines overweighted with stress"
+            },
+            {
+              "claim": "Stephano’s reply is prose, and prose has no framework of meter",
+              "kind": "source",
+              "source": "the hosted text and the Cambridge edition of 1863 print the reply as prose; Paull F. Baum, The Principles of English Versification (1922), chapter 2"
+            }
+          ],
+          "stands": "The marks on the passage. Paull F. Baum, *The Principles of English Versification*, chapter 4, on Shakespeare’s late blank verse and on the extra syllable at the end of a line, and chapter 5, on the pause and on stresses that fall together."
+        },
+        {
+          "kind": "shape",
+          "label": "Scene",
+          "what": "who speaks verse and who speaks prose in Act 3, Scene 2",
+          "facts": [
+            {
+              "speaker": "Stephano",
+              "listed as": "a drunken butler",
+              "speeches": 28,
+              "in prose": 28,
+              "in verse": 0,
+              "lines of verse": "2, sung",
+              "says monster": 11,
+              "where": {
+                "speeches": [
+                  [
+                    1,
+                    3,
+                    "prose",
+                    25,
+                    0,
+                    0
+                  ],
+                  [
+                    3,
+                    7,
+                    "prose",
+                    14,
+                    0,
+                    0
+                  ],
+                  [
+                    5,
+                    11,
+                    "prose",
+                    41,
+                    0,
+                    0
+                  ],
+                  [
+                    7,
+                    15,
+                    "prose",
+                    5,
+                    0,
+                    0
+                  ],
+                  [
+                    9,
+                    19,
+                    "prose",
+                    12,
+                    0,
+                    0
+                  ],
+                  [
+                    15,
+                    31,
+                    "prose",
+                    27,
+                    0,
+                    0
+                  ],
+                  [
+                    17,
+                    35,
+                    "prose",
+                    14,
+                    0,
+                    0
+                  ],
+                  [
+                    21,
+                    44,
+                    "prose",
+                    20,
+                    0,
+                    0
+                  ],
+                  [
+                    23,
+                    48,
+                    "prose",
+                    6,
+                    0,
+                    0
+                  ],
+                  [
+                    25,
+                    52,
+                    "prose",
+                    3,
+                    0,
+                    0
+                  ],
+                  [
+                    27,
+                    56,
+                    "prose",
+                    13,
+                    0,
+                    0
+                  ],
+                  [
+                    31,
+                    64,
+                    "prose",
+                    29,
+                    0,
+                    0
+                  ],
+                  [
+                    33,
+                    68,
+                    "prose",
+                    6,
+                    0,
+                    0
+                  ],
+                  [
+                    35,
+                    72,
+                    "prose",
+                    16,
+                    0,
+                    0
+                  ],
+                  [
+                    38,
+                    80,
+                    "prose",
+                    8,
+                    0,
+                    0
+                  ],
+                  [
+                    40,
+                    84,
+                    "prose",
+                    3,
+                    0,
+                    0
+                  ],
+                  [
+                    42,
+                    88,
+                    "prose",
+                    6,
+                    0,
+                    0
+                  ],
+                  [
+                    44,
+                    92,
+                    "prose",
+                    29,
+                    0,
+                    0
+                  ],
+                  [
+                    46,
+                    96,
+                    "prose",
+                    21,
+                    0,
+                    0
+                  ],
+                  [
+                    48,
+                    100,
+                    "prose",
+                    4,
+                    0,
+                    0
+                  ],
+                  [
+                    51,
+                    106,
+                    "prose",
+                    16,
+                    0,
+                    2
+                  ],
+                  [
+                    53,
+                    113,
+                    "prose",
+                    4,
+                    0,
+                    0
+                  ],
+                  [
+                    55,
+                    117,
+                    "prose",
+                    20,
+                    0,
+                    0
+                  ],
+                  [
+                    57,
+                    121,
+                    "prose",
+                    12,
+                    0,
+                    0
+                  ],
+                  [
+                    59,
+                    125,
+                    "prose",
+                    4,
+                    0,
+                    0
+                  ],
+                  [
+                    61,
+                    129,
+                    "prose",
+                    16,
+                    0,
+                    0
+                  ],
+                  [
+                    63,
+                    133,
+                    "prose",
+                    10,
+                    0,
+                    0
+                  ],
+                  [
+                    65,
+                    137,
+                    "prose",
+                    17,
+                    0,
+                    0
+                  ]
+                ]
+              },
+              "note": "All 28 speeches are prose, 401 words; inside one of them he sings two lines of a catch. One speech stands in two blocks, 72 and 74, with a stage direction between them.",
+              "source": "Counted from the hosted text (tempest/a3s2) with the build tools. A speech is one turn under a speaker’s name; verse and prose are as that text prints them. Each speech under “where” is [its number among the scene’s 66 speeches, the block it begins at, prose or verse, words spoken, lines of verse, lines sung].",
+              "speech by speech": [
+                {
+                  "speech": 1,
+                  "form": "prose",
+                  "read": "tempest/a3s2:3"
+                },
+                {
+                  "speech": 3,
+                  "form": "prose",
+                  "read": "tempest/a3s2:7"
+                },
+                {
+                  "speech": 5,
+                  "form": "prose",
+                  "read": "tempest/a3s2:11"
+                },
+                {
+                  "speech": 7,
+                  "form": "prose",
+                  "read": "tempest/a3s2:15"
+                },
+                {
+                  "speech": 9,
+                  "form": "prose",
+                  "read": "tempest/a3s2:19"
+                },
+                {
+                  "speech": 15,
+                  "form": "prose",
+                  "read": "tempest/a3s2:31"
+                },
+                {
+                  "speech": 17,
+                  "form": "prose",
+                  "read": "tempest/a3s2:35"
+                },
+                {
+                  "speech": 21,
+                  "form": "prose",
+                  "read": "tempest/a3s2:44"
+                },
+                {
+                  "speech": 23,
+                  "form": "prose",
+                  "read": "tempest/a3s2:48"
+                },
+                {
+                  "speech": 25,
+                  "form": "prose",
+                  "read": "tempest/a3s2:52"
+                },
+                {
+                  "speech": 27,
+                  "form": "prose",
+                  "read": "tempest/a3s2:56"
+                },
+                {
+                  "speech": 31,
+                  "form": "prose",
+                  "read": "tempest/a3s2:64"
+                },
+                {
+                  "speech": 33,
+                  "form": "prose",
+                  "read": "tempest/a3s2:68"
+                },
+                {
+                  "speech": 35,
+                  "form": "prose",
+                  "read": "tempest/a3s2:72"
+                },
+                {
+                  "speech": 38,
+                  "form": "prose",
+                  "read": "tempest/a3s2:80"
+                },
+                {
+                  "speech": 40,
+                  "form": "prose",
+                  "read": "tempest/a3s2:84"
+                },
+                {
+                  "speech": 42,
+                  "form": "prose",
+                  "read": "tempest/a3s2:88"
+                },
+                {
+                  "speech": 44,
+                  "form": "prose",
+                  "read": "tempest/a3s2:92"
+                },
+                {
+                  "speech": 46,
+                  "form": "prose",
+                  "read": "tempest/a3s2:96"
+                },
+                {
+                  "speech": 48,
+                  "form": "prose",
+                  "read": "tempest/a3s2:100"
+                },
+                {
+                  "speech": 51,
+                  "form": "prose",
+                  "lines sung": 2,
+                  "read": "tempest/a3s2:106"
+                },
+                {
+                  "speech": 53,
+                  "form": "prose",
+                  "read": "tempest/a3s2:113"
+                },
+                {
+                  "speech": 55,
+                  "form": "prose",
+                  "read": "tempest/a3s2:117"
+                },
+                {
+                  "speech": 57,
+                  "form": "prose",
+                  "read": "tempest/a3s2:121"
+                },
+                {
+                  "speech": 59,
+                  "form": "prose",
+                  "read": "tempest/a3s2:125"
+                },
+                {
+                  "speech": 61,
+                  "form": "prose",
+                  "read": "tempest/a3s2:129"
+                },
+                {
+                  "speech": 63,
+                  "form": "prose",
+                  "read": "tempest/a3s2:133"
+                },
+                {
+                  "speech": 65,
+                  "form": "prose",
+                  "read": "tempest/a3s2:137"
+                }
+              ]
+            },
+            {
+              "speaker": "Trinculo",
+              "listed as": "a jester",
+              "speeches": 14,
+              "in prose": 14,
+              "in verse": 0,
+              "lines of verse": 0,
+              "says monster": 6,
+              "where": {
+                "speeches": [
+                  [
+                    2,
+                    5,
+                    "prose",
+                    30,
+                    0,
+                    0
+                  ],
+                  [
+                    4,
+                    9,
+                    "prose",
+                    19,
+                    0,
+                    0
+                  ],
+                  [
+                    6,
+                    13,
+                    "prose",
+                    8,
+                    0,
+                    0
+                  ],
+                  [
+                    8,
+                    17,
+                    "prose",
+                    13,
+                    0,
+                    0
+                  ],
+                  [
+                    11,
+                    23,
+                    "prose",
+                    48,
+                    0,
+                    0
+                  ],
+                  [
+                    13,
+                    27,
+                    "prose",
+                    11,
+                    0,
+                    0
+                  ],
+                  [
+                    22,
+                    46,
+                    "prose",
+                    4,
+                    0,
+                    0
+                  ],
+                  [
+                    32,
+                    66,
+                    "prose",
+                    11,
+                    0,
+                    0
+                  ],
+                  [
+                    36,
+                    76,
+                    "prose",
+                    35,
+                    0,
+                    0
+                  ],
+                  [
+                    45,
+                    94,
+                    "prose",
+                    1,
+                    0,
+                    0
+                  ],
+                  [
+                    54,
+                    115,
+                    "prose",
+                    13,
+                    0,
+                    0
+                  ],
+                  [
+                    56,
+                    119,
+                    "prose",
+                    5,
+                    0,
+                    0
+                  ],
+                  [
+                    64,
+                    135,
+                    "prose",
+                    13,
+                    0,
+                    0
+                  ],
+                  [
+                    66,
+                    139,
+                    "prose",
+                    3,
+                    0,
+                    0
+                  ]
+                ]
+              },
+              "note": "All 14 speeches are prose, 214 words.",
+              "source": "Counted from the hosted text (tempest/a3s2) with the build tools. A speech is one turn under a speaker’s name; verse and prose are as that text prints them. Each speech under “where” is [its number among the scene’s 66 speeches, the block it begins at, prose or verse, words spoken, lines of verse, lines sung].",
+              "speech by speech": [
+                {
+                  "speech": 2,
+                  "form": "prose",
+                  "read": "tempest/a3s2:5"
+                },
+                {
+                  "speech": 4,
+                  "form": "prose",
+                  "read": "tempest/a3s2:9"
+                },
+                {
+                  "speech": 6,
+                  "form": "prose",
+                  "read": "tempest/a3s2:13"
+                },
+                {
+                  "speech": 8,
+                  "form": "prose",
+                  "read": "tempest/a3s2:17"
+                },
+                {
+                  "speech": 11,
+                  "form": "prose",
+                  "read": "tempest/a3s2:23"
+                },
+                {
+                  "speech": 13,
+                  "form": "prose",
+                  "read": "tempest/a3s2:27"
+                },
+                {
+                  "speech": 22,
+                  "form": "prose",
+                  "read": "tempest/a3s2:46"
+                },
+                {
+                  "speech": 32,
+                  "form": "prose",
+                  "read": "tempest/a3s2:66"
+                },
+                {
+                  "speech": 36,
+                  "form": "prose",
+                  "read": "tempest/a3s2:76"
+                },
+                {
+                  "speech": 45,
+                  "form": "prose",
+                  "read": "tempest/a3s2:94"
+                },
+                {
+                  "speech": 54,
+                  "form": "prose",
+                  "read": "tempest/a3s2:115"
+                },
+                {
+                  "speech": 56,
+                  "form": "prose",
+                  "read": "tempest/a3s2:119"
+                },
+                {
+                  "speech": 64,
+                  "form": "prose",
+                  "read": "tempest/a3s2:135"
+                },
+                {
+                  "speech": 66,
+                  "form": "prose",
+                  "read": "tempest/a3s2:139"
+                }
+              ]
+            },
+            {
+              "speaker": "Caliban",
+              "listed as": "a savage and deformed slave",
+              "speeches": 20,
+              "in prose": 5,
+              "in verse": 15,
+              "lines of verse": 54,
+              "says monster": 0,
+              "where": {
+                "speeches": [
+                  [
+                    10,
+                    21,
+                    "prose",
+                    17,
+                    0,
+                    0
+                  ],
+                  [
+                    12,
+                    25,
+                    "prose",
+                    11,
+                    0,
+                    0
+                  ],
+                  [
+                    14,
+                    29,
+                    "prose",
+                    9,
+                    0,
+                    0
+                  ],
+                  [
+                    16,
+                    33,
+                    "prose",
+                    20,
+                    0,
+                    0
+                  ],
+                  [
+                    18,
+                    38,
+                    "prose",
+                    23,
+                    0,
+                    0
+                  ],
+                  [
+                    20,
+                    42,
+                    "verse",
+                    18,
+                    3,
+                    0
+                  ],
+                  [
+                    24,
+                    50,
+                    "verse",
+                    30,
+                    4,
+                    0
+                  ],
+                  [
+                    26,
+                    54,
+                    "verse",
+                    10,
+                    1,
+                    0
+                  ],
+                  [
+                    28,
+                    58,
+                    "verse",
+                    18,
+                    2,
+                    0
+                  ],
+                  [
+                    30,
+                    62,
+                    "verse",
+                    41,
+                    5,
+                    0
+                  ],
+                  [
+                    37,
+                    78,
+                    "verse",
+                    3,
+                    1,
+                    0
+                  ],
+                  [
+                    39,
+                    82,
+                    "verse",
+                    11,
+                    2,
+                    0
+                  ],
+                  [
+                    41,
+                    86,
+                    "verse",
+                    138,
+                    17,
+                    0
+                  ],
+                  [
+                    43,
+                    90,
+                    "verse",
+                    15,
+                    2,
+                    0
+                  ],
+                  [
+                    47,
+                    98,
+                    "verse",
+                    13,
+                    2,
+                    0
+                  ],
+                  [
+                    50,
+                    104,
+                    "verse",
+                    23,
+                    3,
+                    0
+                  ],
+                  [
+                    52,
+                    110,
+                    "verse",
+                    4,
+                    1,
+                    0
+                  ],
+                  [
+                    58,
+                    123,
+                    "verse",
+                    3,
+                    1,
+                    0
+                  ],
+                  [
+                    60,
+                    127,
+                    "verse",
+                    72,
+                    9,
+                    0
+                  ],
+                  [
+                    62,
+                    131,
+                    "verse",
+                    4,
+                    1,
+                    0
+                  ]
+                ]
+              },
+              "note": "The first five speeches are prose, 80 words; the other fifteen are verse, 403 words. The speech on the plate is block 127, the sixtieth of the scene’s 66 speeches: 9 lines, 72 words. Stephano’s reply is the sixty-first. His longest is block 86: 17 lines, 138 words.",
+              "source": "Counted from the hosted text (tempest/a3s2) with the build tools. A speech is one turn under a speaker’s name; verse and prose are as that text prints them. Each speech under “where” is [its number among the scene’s 66 speeches, the block it begins at, prose or verse, words spoken, lines of verse, lines sung].",
+              "speech by speech": [
+                {
+                  "speech": 10,
+                  "form": "prose",
+                  "read": "tempest/a3s2:21"
+                },
+                {
+                  "speech": 12,
+                  "form": "prose",
+                  "read": "tempest/a3s2:25"
+                },
+                {
+                  "speech": 14,
+                  "form": "prose",
+                  "read": "tempest/a3s2:29"
+                },
+                {
+                  "speech": 16,
+                  "form": "prose",
+                  "read": "tempest/a3s2:33"
+                },
+                {
+                  "speech": 18,
+                  "form": "prose",
+                  "read": "tempest/a3s2:38"
+                },
+                {
+                  "speech": 20,
+                  "form": "verse",
+                  "lines": 3,
+                  "read": "tempest/a3s2:42"
+                },
+                {
+                  "speech": 24,
+                  "form": "verse",
+                  "lines": 4,
+                  "read": "tempest/a3s2:50"
+                },
+                {
+                  "speech": 26,
+                  "form": "verse",
+                  "lines": 1,
+                  "read": "tempest/a3s2:54"
+                },
+                {
+                  "speech": 28,
+                  "form": "verse",
+                  "lines": 2,
+                  "read": "tempest/a3s2:58"
+                },
+                {
+                  "speech": 30,
+                  "form": "verse",
+                  "lines": 5,
+                  "read": "tempest/a3s2:62"
+                },
+                {
+                  "speech": 37,
+                  "form": "verse",
+                  "lines": 1,
+                  "read": "tempest/a3s2:78"
+                },
+                {
+                  "speech": 39,
+                  "form": "verse",
+                  "lines": 2,
+                  "read": "tempest/a3s2:82"
+                },
+                {
+                  "speech": 41,
+                  "form": "verse",
+                  "lines": 17,
+                  "read": "tempest/a3s2:86"
+                },
+                {
+                  "speech": 43,
+                  "form": "verse",
+                  "lines": 2,
+                  "read": "tempest/a3s2:90"
+                },
+                {
+                  "speech": 47,
+                  "form": "verse",
+                  "lines": 2,
+                  "read": "tempest/a3s2:98"
+                },
+                {
+                  "speech": 50,
+                  "form": "verse",
+                  "lines": 3,
+                  "read": "tempest/a3s2:104"
+                },
+                {
+                  "speech": 52,
+                  "form": "verse",
+                  "lines": 1,
+                  "read": "tempest/a3s2:110"
+                },
+                {
+                  "speech": 58,
+                  "form": "verse",
+                  "lines": 1,
+                  "read": "tempest/a3s2:123"
+                },
+                {
+                  "speech": 60,
+                  "form": "verse",
+                  "lines": 9,
+                  "read": "tempest/a3s2:127"
+                },
+                {
+                  "speech": 62,
+                  "form": "verse",
+                  "lines": 1,
+                  "read": "tempest/a3s2:131"
+                }
+              ]
+            },
+            {
+              "speaker": "Ariel, unseen",
+              "listed as": "an airy spirit",
+              "speeches": 4,
+              "in prose": "",
+              "in verse": "",
+              "lines of verse": "",
+              "says monster": 0,
+              "where": {
+                "speeches": [
+                  [
+                    19,
+                    40,
+                    "",
+                    2,
+                    0,
+                    0
+                  ],
+                  [
+                    29,
+                    60,
+                    "",
+                    5,
+                    0,
+                    0
+                  ],
+                  [
+                    34,
+                    70,
+                    "",
+                    2,
+                    0,
+                    0
+                  ],
+                  [
+                    49,
+                    102,
+                    "",
+                    6,
+                    0,
+                    0
+                  ]
+                ]
+              },
+              "note": "Three times he breaks in to give Caliban the lie, in two to five words, and once he speaks a line to himself. The text prints his two-word interruption once as a line of verse and once as prose, so his speeches are not counted as either and no lines are counted for him.",
+              "source": "Counted from the hosted text (tempest/a3s2) with the build tools. A speech is one turn under a speaker’s name; verse and prose are as that text prints them. Each speech under “where” is [its number among the scene’s 66 speeches, the block it begins at, prose or verse, words spoken, lines of verse, lines sung].",
+              "speech by speech": [
+                {
+                  "speech": 19,
+                  "form": "",
+                  "read": "tempest/a3s2:40"
+                },
+                {
+                  "speech": 29,
+                  "form": "",
+                  "read": "tempest/a3s2:60"
+                },
+                {
+                  "speech": 34,
+                  "form": "",
+                  "read": "tempest/a3s2:70"
+                },
+                {
+                  "speech": 49,
+                  "form": "",
+                  "read": "tempest/a3s2:102"
+                }
+              ]
+            }
+          ],
+          "caption": "As this text prints it, the scene has 66 speeches. Stephano, a butler, and Trinculo, a jester, speak 42, all in prose; two lines are sung. Caliban speaks 20: the first five are prose and the other fifteen verse, 54 lines. Ariel, unseen, has the other four, each a few words. Shakespeare sometimes gives prose to characters of low rank and verse to those above them. Here the two servants keep to prose, and the slave, whom they call <i>monster</i> seventeen times, speaks verse, as Prospero, Miranda and Ferdinand do in every speech they have. Auden wrote that Caliban, his savage innocence lost, is open to further corruption by the vices of civilization that these two bring.",
+          "why": "Shakespeare gives the butler and the jester prose and gives the slave they call monster the verse of Prospero and the lovers; Auden says the two men bring civilized vices to a Caliban who has lost his savage innocence.",
+          "grounds": [
+            {
+              "claim": "the number of speeches, who speaks them, which are verse, and how often monster is said",
+              "kind": "source",
+              "source": "counted in the hosted text of Act 3, Scene 2, as that text prints verse and prose. Of the seventeen, three are servant-monster, one is man-monster and one is a possessive; all are said of Caliban. Ariel’s four speeches have two, five, two and six words"
+            },
+            {
+              "claim": "Prospero, Miranda and Ferdinand speak verse in every speech they have",
+              "kind": "source",
+              "source": "counted in the hosted text, scene by scene: no speech of theirs is printed as prose"
+            },
+            {
+              "claim": "a butler, a jester, a slave",
+              "kind": "source",
+              "source": "the list of persons at the head of the play in Project Gutenberg no. 1540, the edition the text is taken from"
+            },
+            {
+              "claim": "prose sometimes goes to characters of low rank and verse to those above them; Shakespeare changed between the two as subject or tone required",
+              "kind": "source",
+              "source": "Royal Shakespeare Company, Shakespeare Learning Zone, on the language of The Tempest, Macbeth and A Midsummer Night’s Dream; Shakespeare’s Globe, “Verse and Prose”; Paull F. Baum, The Principles of English Versification (1922), chapter 4, on blank verse"
+            },
+            {
+              "claim": "Caliban, his savage innocence lost, is open to further corruption by the civilized vices of Trinculo and Stephano",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 130"
+            }
+          ],
+          "stands": "Counts in the text printed here: the speeches of [Act 3, Scene 2](#/read/tempest/a3s2), a speech being one turn under a speaker’s name, with verse and prose as that text prints them; the word *monster*, compounds included; and every speech of Prospero, Miranda and Ferdinand. The play’s list of persons. On prose and rank: the Royal Shakespeare Company’s and Shakespeare’s Globe’s pages on his language. Auden: *The Dyer’s Hand*, p. 130."
+        }
+      ]
+    },
+    {
+      "id": "epilogue",
+      "heading": "Prospero to the audience",
+      "label": "The Epilogue, lines 1 to 10, 19 and 20",
+      "text": "tempest/epilogue",
+      "rows": [
+        "1.0-1.9",
+        "1.18-1.19"
+      ],
+      "pair": {
+        "label": "To Caliban, Act 5, Scene 1",
+        "text": "tempest/a5s1",
+        "rows": [
+          "171.2[5-7]",
+          "171.3"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "four beats in seven or eight syllables, rhymed in pairs",
+          "scan": {
+            "1.0": {
+              "meter": "/x/x/x/",
+              "voice": "/ x / x / x/"
+            },
+            "1.1": {
+              "meter": "/x/x/x/",
+              "voice": "x x / x / x /",
+              "div": {
+                "4": "have’s"
+              }
+            },
+            "1.2": {
+              "meter": "/x/x/x/",
+              "voice": "x x / / | / x /"
+            },
+            "1.3": {
+              "meter": "x/x/x/x/",
+              "voice": "x / x / x/ x /"
+            },
+            "1.4": {
+              "meter": "x/x/x/x/",
+              "voice": "x / x /x | / x /",
+              "div": {
+                "3": "Na|ples."
+              }
+            },
+            "1.5": {
+              "meter": "/x/x/x/",
+              "voice": "x x \\ x /x /",
+              "div": {
+                "4": "duke|dom"
+              }
+            },
+            "1.6": {
+              "meter": "x/x/x/x/",
+              "voice": "x /x x x/x /"
+            },
+            "1.7": {
+              "meter": "x/x/x/x/",
+              "voice": "x x / /x x x /"
+            },
+            "1.8": {
+              "meter": "/x/x/x/",
+              "voice": "x x/ x x x /"
+            },
+            "1.9": {
+              "meter": "/x/x/x/",
+              "voice": "x x / x x / /"
+            },
+            "1.18": {
+              "meter": "x/x/x/x/",
+              "voice": "x / x / x /x /"
+            },
+            "1.19": {
+              "meter": "x/x/x/x/",
+              "voice": "x / x/x / x /"
+            }
+          },
+          "caption": "Four beats, seven or eight syllables, and rhyme: this is the measure of Ariel’s song, the first passage here. Shakespeare gives it to charms, and Puck closes <i>A Midsummer Night’s Dream</i> in it, asking for pardon and for the clapping of hands, as Prospero does. Prospero speaks it for the first time here, as he says his <b>charms</b> are overthrown. In the third line the sentence stops at <b>most faint</b>. A handbook of verse says a strong pause inside so short a line can break its rhythm. Auden taught in 1941 that the play deals with an old theme, the giving up of more than ordinary powers.",
+          "why": "Prospero first speaks the measure of Shakespeare’s charms, and of Puck’s last speech, as he says his own charms are overthrown, and it stops in mid-line at most faint; Auden’s theme for the play is such powers given up.",
+          "points": [
+            {
+              "at": [
+                "1.0",
+                0,
+                5
+              ],
+              "say": "Voice and measure agree on every syllable."
+            },
+            {
+              "at": [
+                "1.2",
+                2,
+                4
+              ],
+              "say": "Stress meets stress across the full stop."
+            },
+            {
+              "at": [
+                "1.4",
+                3,
+                4
+              ],
+              "say": "A second full stop inside a line. Here the beat is kept."
+            },
+            {
+              "at": [
+                "1.18",
+                0,
+                0
+              ],
+              "say": "Lines 11 to 18 of the Epilogue are left out before this line."
+            }
+          ],
+          "grounds": [
+            {
+              "claim": "the measure of each line, where the voice leaves it, and the full stop in the third line",
+              "kind": "plate"
+            },
+            {
+              "claim": "it is the measure of Ariel’s song on the first plate",
+              "kind": "plate"
+            },
+            {
+              "claim": "Shakespeare gives this measure to charms",
+              "kind": "source",
+              "source": "A Midsummer Night’s Dream 2.2 (Oberon over Titania, Puck over Lysander); Macbeth 4.1 (the witches)"
+            },
+            {
+              "claim": "Puck closes his play in it, asking for pardon and for hands",
+              "kind": "source",
+              "source": "A Midsummer Night’s Dream 5.1, the last speech"
+            },
+            {
+              "claim": "Prospero speaks it nowhere before the Epilogue",
+              "kind": "source",
+              "source": "counted in the hosted text: in his 655 lines of verse before the Epilogue no two lines of seven or eight syllables stand together and rhyme"
+            },
+            {
+              "claim": "his charms are overthrown; he asks for hands and for pardon",
+              "kind": "text",
+              "source": "rows 1.0, 1.9, 1.18 and 1.19"
+            },
+            {
+              "claim": "a strong pause in the middle of so short a line can break its rhythm",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the short couplet"
+            },
+            {
+              "claim": "an old theme: more than ordinary powers given up for the blessings of ordinary life",
+              "kind": "auden",
+              "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in W. H. Auden: The Far Interior (1985), p. 150"
+            }
+          ],
+          "stands": "The marks on the passage. The charms in this measure: *A Midsummer Night’s Dream*, Act 2, Scene 2, and *Macbeth*, Act 4, Scene 1; Puck’s last speech ends the *Dream*. A count of Prospero’s verse in the text printed here. Paull F. Baum, *The Principles of English Versification*, chapter 4, on the pause inside a short couplet. Auden’s theme for the play: Donald Pearce’s notes, p. 150."
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "1.0": "a",
+            "1.1": "a",
+            "1.2": "b",
+            "1.3": "b",
+            "1.4": "c",
+            "1.5": "c",
+            "1.6": "d",
+            "1.7": "d",
+            "1.8": "e",
+            "1.9": "e",
+            "1.18": "f",
+            "1.19": "f"
+          },
+          "tails": {
+            "1.0": 3,
+            "1.1": 3,
+            "1.2": 2,
+            "1.3": 2,
+            "1.4": 2,
+            "1.5": 2,
+            "1.6": 3,
+            "1.7": 3,
+            "1.8": 4,
+            "1.9": 4,
+            "1.18": 1,
+            "1.19": 2
+          },
+          "threads": [],
+          "caption": "The lines rhyme in pairs. A rhyme that returns at once makes each pair one unit, a couplet, and in so short a line the sense usually pauses with the line. Prospero’s first two sentences stop in mid-line, in the third line and the fifth. In the twelve lines shown a sentence ends with its couplet twice, at <b>hands</b> and at <b>free</b>, and both sentences ask the audience to release him. At the first of these the rhyme words differ by one letter: the <b>bands</b> hold him, and the hands can free him.",
+          "why": "In the lines shown a sentence closes with its couplet, the unit the rhyme makes, only at hands and at free, the two places where Prospero asks the audience to release him; the other two stop inside a line.",
+          "grounds": [
+            {
+              "claim": "which lines rhyme, and where each sentence stops",
+              "kind": "plate"
+            },
+            {
+              "claim": "the quick return of the rhyme makes a couplet one unit; in so short a line the sense usually pauses with the line",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the short couplet"
+            },
+            {
+              "claim": "the sentences that end at hands and at free ask the audience to release him",
+              "kind": "text",
+              "source": "rows 1.4 to 1.9 and 1.18 to 1.19"
+            },
+            {
+              "claim": "the bands hold him, and the hands can free him",
+              "kind": "text",
+              "source": "rows 1.8 and 1.9"
+            }
+          ],
+          "stands": "The marks on the passage, and the lines themselves. Paull F. Baum, *The Principles of English Versification*, chapter 4, on the short couplet."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "1.0",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "magic power",
+              "note": "As Act 5 opens Prospero says that his charms do not crack. The word comes through French from Latin *carmen*, a song, a verse, an enchantment.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Charm (the noun), sense 1, which cites this line; Online Etymology Dictionary, under charm; The Tempest, Act 5, Scene 1"
+            },
+            {
+              "row": "1.3",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "kept to one place",
+              "note": "In Act 5 Ariel reports the king and his followers confined together, all prisoners, who cannot move till Prospero releases them.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Confine (the verb), sense 3, which quotes this line; The Tempest, Act 5, Scene 1"
+            },
+            {
+              "row": "1.7",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "charm, magic",
+              "note": "In Act 5 Prospero tells the court they are spell-stopped, and has Ariel untie the spell on Caliban and the two men.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Spell (the noun), which cites this line; The Tempest, Act 5, Scene 1"
+            },
+            {
+              "row": "1.8",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "set free from confinement",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Release (the verb), sense 1, which quotes both lines"
+            },
+            {
+              "row": "1.8",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "fetters",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Band (the noun), sense 1, which quotes this line"
+            },
+            {
+              "row": "1.9",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "clapping, applause",
+              "note": "The lexicon sets this line beside Puck’s request at the close of *A Midsummer Night’s Dream*, which it explains as clap hands, applaud.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Hand, sense 1"
+            },
+            {
+              "row": "1.18",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "heavy offenses",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Crime, which cites this line"
+            },
+            {
+              "row": "1.19",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "leniency · absolution",
+              "note": "The lexicon gives leniency first, and quotes these two lines under the church’s sense.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Indulgence"
+            },
+            {
+              "row": "1.19",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "at liberty, not confined",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Free (the adjective), sense 1, which cites this line; The Tempest, Act 5, Scene 1"
+            }
+          ],
+          "caption": "In Act 5 four of these words are Prospero’s to use on others: the king’s party is <i>confin’d</i> until his order to <i>release</i> it, he has a <i>spell</i> untied, and his last words to Ariel set him <i>free</i>. In the Epilogue each is turned on Prospero: <b>confin’d by you</b>, <b>your spell</b>, <b>release me</b>, <b>set me free</b>. Auden wrote that Prospero forgives with contempt, as a man whose enemies are entirely in his power. Here the power is the audience’s, and he asks their <b>indulgence</b>. The lexicon of Shakespeare’s words puts this line under the word’s sense in the Roman Catholic church: absolution from censure and punishment.",
+          "why": "Confined, spell, release and free are words of Prospero’s power in Act 5; in the Epilogue each is turned on him, and the man whose pardon Auden calls contemptuous asks his hearers for indulgence.",
+          "grounds": [
+            {
+              "claim": "in Act 5 the charms, the confining, the release, the spell and the freeing are Prospero’s",
+              "kind": "text",
+              "source": "The Tempest, Act 5, Scene 1: his first speech, Ariel’s report of the king’s party, the order to release them, the order to untie the spell, and his last words to Ariel"
+            },
+            {
+              "claim": "in these lines Prospero is the one confined, held by a spell, released and set free, and the audience is the one who does it",
+              "kind": "plate"
+            },
+            {
+              "claim": "Prospero’s forgiving is a contemptuous pardon, that of a man who has his enemies in his power",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 129"
+            },
+            {
+              "claim": "the lexicon puts this line under indulgence in the sense of the Roman Catholic church: absolution from censure and punishment",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Indulgence"
+            }
+          ],
+          "stands": "Act 5 in the text printed here: [the king’s party confined](#/read/tempest/a5s1:9), [the order to release it](#/read/tempest/a5s1:15), [the spell untied](#/read/tempest/a5s1:133) and [Prospero’s last words to Ariel](#/read/tempest/a5s1:188). The lines themselves. Auden: *The Dyer’s Hand*, p. 129. Alexander Schmidt’s *Shakespeare-Lexicon* under Indulgence."
+        },
+        {
+          "kind": "compare",
+          "label": "Pardon",
+          "ties": [
+            {
+              "a": [
+                "1.18",
+                0,
+                1
+              ],
+              "b": [
+                "p:171.2",
+                5,
+                6
+              ],
+              "say": "Both begin with *As you*: what the hearer hopes for comes first."
+            },
+            {
+              "a": [
+                "1.18",
+                5,
+                5
+              ],
+              "b": [
+                "p:171.3",
+                2,
+                3
+              ],
+              "say": "To Caliban the pardon is Prospero’s to give. In the Epilogue it is the pardon his hearers hope for themselves."
+            },
+            {
+              "a": [
+                "1.19",
+                0,
+                5
+              ],
+              "b": [
+                "p:171.3",
+                4,
+                6
+              ],
+              "say": "Then what the hearer is to do. Caliban is to make Prospero’s cell neat. The audience is asked to set Prospero free."
+            }
+          ],
+          "caption": "Set against the last two lines are Prospero’s words to Caliban near the end of Act 5. Auden found in these words Prospero’s attitude to all the enemies he pardons, and wrote that the thought that he too may have done wrong and need forgiving never comes to him. The two sentences are built alike: <i>as you</i> hope for pardon, then what the hearer is to do. To Caliban the pardon is <i>my pardon</i>. In the Epilogue the hearers are the ones who <b>would pardon’d be</b>, for their own <b>crimes</b>, and Prospero asks their <b>indulgence</b> for himself.",
+          "why": "The Epilogue’s last couplet is built like the words to Caliban in which Auden finds Prospero’s attitude to all those he pardons; there the pardon is his to give, and here he asks his hearers for indulgence.",
+          "grounds": [
+            {
+              "claim": "the two sentences share their opening and the word pardon, and each then tells the hearer what to do",
+              "kind": "plate"
+            },
+            {
+              "claim": "to Caliban the pardon is Prospero’s to give, and the cell is to be made neat",
+              "kind": "source",
+              "source": "The Tempest, Act 5, Scene 1, Prospero’s speech to Caliban; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Trim (the verb), sense 1, and Handsomely, both of which cite the line"
+            },
+            {
+              "claim": "Prospero’s attitude to all those he pardons is expressed in these words; it never occurs to him that he might have erred and need pardon",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 129"
+            },
+            {
+              "claim": "the hearers would be pardoned for crimes, and Prospero asks their indulgence",
+              "kind": "text",
+              "source": "rows 1.18 and 1.19"
+            }
+          ],
+          "stands": "The two passages as they stand together on the page. Prospero’s [words to Caliban](#/read/tempest/a5s1:171) in Act 5, with Alexander Schmidt’s *Shakespeare-Lexicon* under Trim and Handsomely. Auden: *The Dyer’s Hand*, p. 129."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Donald Pearce, who took the class, wrote down what he could after the lectures. According to his notes, Auden said in December 1941 that the sea in Shakespeare is always where new life comes from, where the old is laid down and treasure is found. What this song says is the central theme of the sea scenes in *Pericles* and *The Tempest*. The change comes close to transmutation, as an alchemist would mean the word, and it works on people too, on their minds and their lives, not only on things.",
+      "quote": "What Shakespeare is dealing with here is transformation",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 134 and 148–49",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, and read again on 2026-10-03"
+    },
+    {
+      "says": "Of Ariel’s voice Auden wrote that it should be as little personal and as much like an instrument as a voice can be, because Ariel has no human feelings to express. The songs sung to the Duke in *Twelfth Night* and to Mariana in *Measure for Measure*, he wrote, do not change their hearers, and only settle each more firmly in a mood already there. The effect of Ariel’s two songs on Ferdinand is more like that of the instrumental music a physician orders for the unconscious Thaisa in *Pericles*.",
+      "source": "“Music in Shakespeare,” in *The Dyer’s Hand* (1962), pp. 508 and 525",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 24936-24950, and read again on 2026-10-03; the examiner read the sentence on the effect of the songs at lines 24953-24956 (p. 525), where the comparison is with the effect of instrumental music on Thaisa, and the physician’s music for her at lines 24035-24041 (p. 508); the lead read lines 24946-24954 again on 2026-10-03 and put the comparison with the two other songs in place of Auden’s three closing adjectives"
+    },
+    {
+      "says": "In Pearce’s notes of the December lecture Auden called the play a fairy tale: a hero who has erred comes home from a land of marvels to rule again. Prospero’s error was to neglect his dukedom out of an egotistical wish to perfect himself in secret arts. The theme is an old one, the giving up of more than ordinary powers for the blessings of ordinary life, as Faust gives them up. What Prospero learns on the island is the art of life, though he learns magic too. Caliban is what is beastly in human nature: it has to be held in its place and cannot be removed or ignored.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 150–51",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, on 2026-10-03; the page number stands at the foot of each page of the scan, before the next page’s heading"
+    },
+    {
+      "says": "In *The Dyer’s Hand* Auden takes Caliban to stand for the natural and Ariel for the spirit of imagination, ideally an unseen voice. Shakespeare, he says, has written the part so that Caliban, brutal and corrupt as he is, has the better of his argument with Prospero, who is largely to blame for his corruption. Prospero and Ariel are bound by a contract, and Ariel is released when the play ends.",
+      "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 129–34",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 6215-6221, 6297-6306, 6377-6390 and 6438-6443, on 2026-10-03"
+    },
+    {
+      "says": "Auden called the play a disquieting work. The guilty repent and the injured pardon, he wrote, more in form than in fact, and only Alonso seems truly sorry. Prospero is to be admired for his gifts and for his strength, and cannot be liked. In “Music in Shakespeare” Auden adds that the play ends more sourly than the three comedies before it, and that the victory of justice seems to Prospero a duty more than a joy.",
+      "source": "“Balaam and His Ass” and “Music in Shakespeare,” in *The Dyer’s Hand* (1962), pp. 128–29 and 526–27",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 6168-6209 and 24997-25040, on 2026-10-03"
+    },
+    {
+      "says": "Auden judged the play manichean, because it blames nature for the conflict of nature and spirit and makes spirit innocent. He set *The Magic Flute* against it, as too optimistic where this play is too pessimistic. In the opera Papageno, who stands for the natural, gets his Papagena as a reward, and their duet shows, humbly and innocently, the attitude that Caliban shows, guilty and defiant, when Prospero charges him with trying to rape Miranda.",
+      "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 130 and 134",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 6273-6277 and 6447-6472, on 2026-10-03"
+    },
+    {
+      "says": "In “Music in Shakespeare” Auden says that Shakespeare uses instrumental music in two ways: on social occasions, and, unexpectedly, as an image in sound of a world of magic or of the supernatural. Spirits such as Oberon and Ariel may command such music, and so may a wise man such as Prospero, to work magically on human beings. Solemn music mostly comes from off stage, where no one sees who plays it, so that those on stage cannot choose how to answer it: either they do not hear it or it does to them what they cannot control.",
+      "source": "“Music in Shakespeare,” in *The Dyer’s Hand* (1962), pp. 507–8",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 24012-24045, on 2026-10-03"
+    }
+  ],
+  "next": "tempest/a1s1:0",
+  "sources": [
+    "The text: William Shakespeare, *The Tempest*, as Project Gutenberg prints it (no. 1540).",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Balaam and His Ass,” pp. 128–34; “Music in Shakespeare,” pp. 507–8 and 525–27.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 134 and 148–51: notes made after Auden’s lectures in the fall of 1941.",
+    "*A New English Dictionary on Historical Principles* (the first edition of the Oxford English Dictionary), vol. VIII, part 2, under Sea (first published in 1911): the first record of *sea-change*.",
+    "Alexander Schmidt, *Shakespeare-Lexicon* (Berlin, 1902), at the Perseus Digital Library: Fade, Suffer, Strange, Knell, Fathom and Ding-dong; Afeard, Noise, Air, Tabor, Twangling, Methought, That, Cry and Will; Charm, Confine, Spell, Release, Band, Hand, Crime, Indulgence, Free, Trim and Handsomely.",
+    "Paull F. Baum, *The Principles of English Versification* (1922): chapter 2, on verse and prose; chapter 4, on the short couplet, the extra syllable at the end of a line and Shakespeare’s blank verse; chapter 5, on the pause and on lines overweighted with stress.",
+    "Online Etymology Dictionary: charm, fathom, transmutation.",
+    "Shakespeare’s other plays: *A Midsummer Night’s Dream*, Act 2, Scene 2 and Act 3, Scene 2 (the charms of Oberon and Puck) and Act 5, Scene 1 (Puck’s last speech); *Macbeth*, Act 1, Scene 3 and Act 4, Scene 1 (the witches); [*Henry IV, Part 2*, Act 2, Scene 4](#/read/henry-iv-2/a2s4:7), for a band called a noise.",
+    "The Folio of 1623: Internet Shakespeare Editions, *The Tempest*, Folio 1, Act 3, Scene 2.",
+    "*The Works of William Shakespeare*, edited by W. G. Clark and J. Glover (Cambridge, 1863), vol. 1: how editors print Caliban’s speeches in Act 3, Scene 2.",
+    "On verse and prose by rank: Royal Shakespeare Company, Shakespeare Learning Zone, the pages on the language of *The Tempest*, *Macbeth* and *A Midsummer Night’s Dream*; Shakespeare’s Globe, “Verse and Prose.”"
+  ],
+  "caveats": [
+    "What Auden said in class in 1941 is known from notes that a student, Donald Pearce, wrote down after the lectures. It is not Auden’s own text.",
+    "The stresses marked are one reader’s hearing of the lines. Another reader could fairly mark a few syllables otherwise.",
+    "Editions do not print Act 3, Scene 2 alike. The counts of verse and prose follow the text printed here. The Folio of 1623 sets two of Caliban’s first five speeches as verse, and sets several speeches of Stephano and Trinculo, the reply shown here among them, as short lines.",
+    "The two full stops inside Caliban’s speech are an editor’s. The Folio has a comma and a colon there, and no full stop before the end of the speech.",
+    "The third passage leaves out lines 11 to 18 of the Epilogue. In those lines a third sentence ends with its couplet."
+  ],
+  "open": [
+    "Editions do not print Act 3, Scene 2 alike. The counts on the second plate follow the text given here, which prints Caliban’s first five speeches and every speech of Stephano and Trinculo as prose. The Folio of 1623 sets the first and the fifth of those five as lines of verse, and sets several speeches of the two men, Stephano’s reply on the plate among them, as short lines that begin with capitals. The Cambridge edition of 1863 prints the first of the five as verse and notes that Steevens printed all Caliban’s speeches as verse.",
+    "The two full stops inside Caliban’s speech, in its first line and at the end of its second, are an editor’s. The Folio of 1623 has a comma and a colon there, and no full stop before the end of the speech.",
+    "From the examiner: in the Sentence tab of the second passage the caption now says that Caliban plots in the future tense earlier in the scene. The count of tenses holds for this one speech only, and the sentence of Auden’s that follows the one used (about creatures that have no future tense) is kept out for that reason.",
+    "From the examiner: the Rhyme tab of the third passage had a thread under you and your, one place in each of five lines, and a closing sentence that counted them. The page’s key calls a thread a sound coming back inside the line, which is not so here, so the thread and the sentence were taken out. If the kit learns to mark a word that returns from line to line, they can go back: rows 1.3, 1.7, 1.9, 1.18 and 1.19.",
+    "From the examiner: the Pardon tab’s caption no longer says the words to Caliban stand beside the last two lines, because on the page they stand at the top of the other column on a wide screen and under the passage on a phone. If the kit comes to set them level with those lines, the caption still holds."
+  ]
+}

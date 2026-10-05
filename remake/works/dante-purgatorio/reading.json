@@ -1,0 +1,1452 @@
+{
+  "piece": "dante-purgatorio",
+  "title": "Three places on the mountain",
+  "where": "*Purgatorio*, Cantos 15, 17 and 28",
+  "about": "Dante, a living man, climbs the mountain of Purgatory with the dead poet Virgil as his guide. On the stair above the terrace of envy he asks how a good can make its owners richer the more of them share it. A terrace later, at nightfall, when no one may climb, Virgil explains how the mountain is ordered. At the top Virgil tells him that his will is now free, upright and whole, and Dante walks into the garden of Eden and sees a lady across a stream.",
+  "view": {
+    "says": "Auden went back to Virgil’s speech in canto 17 more than once. In 1941 he copied nine lines of it into the notes of *New Year Letter* and quoted their conclusion in a review. In *The Dyer’s Hand* he set three of those lines against *The Tempest*, which in his reading blames nature and makes spirit innocent. Dante, he wrote, holds the exact opposite: what is natural cannot err, and only the mind’s love can.",
+    "quote": "The natural can never desire too much or too little because the natural good is the mean",
+    "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 130–31; *New Year Letter* (London: Faber, 1941), the note just before the note to line 1432",
+    "checked": "The Dyer's Hand read in the scan, research/auden/dh.txt, lines 6266-6306, and read again by the examiner on 2026-10-03: the passage runs from the foot of p. 130 to p. 131, and the sentence quoted is on p. 131, exact. The note in New Year Letter was seen by the examiner in search snippets of the Faber edition at archive.org (newyearletter0000aude): it quotes canto 17, lines 91-96, a gap, then 103-105 in Okey's wording, is signed with the canto, and stands just before the note headed Line 1432. Not seen in full; its page number was not seen."
+  },
+  "plates": [
+    {
+      "id": "share",
+      "heading": "The good that grows by being shared: lines 67 to 75",
+      "label": "Dante",
+      "text": "dante-italian/pur-15",
+      "rows": [
+        "22.0-24.2"
+      ],
+      "pair": {
+        "label": "Okey’s prose, 1901",
+        "text": "dante-temple/pur-15",
+        "rows": [
+          "22.0-24.0"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Simile",
+          "name": "simile",
+          "plain": "a comparison that says one thing is like another",
+          "draw": "map",
+                    "join": [[0, 2], [1, 3]],
+          "parts": [
+            {
+              "row": "22.0",
+              "w": [
+                0,
+                4
+              ],
+              "tag": "A",
+              "label": "the good"
+            },
+            {
+              "row": "22.2",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "A",
+              "label": "a ray"
+            },
+            {
+              "row": "22.1",
+              "w": [
+                7,
+                7
+              ],
+              "tag": "B",
+              "label": "love"
+            },
+            {
+              "row": "22.2",
+              "w": [
+                2,
+                3
+              ],
+              "tag": "B",
+              "label": "a bright body"
+            },
+            {
+              "row": "22.1",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "hinge",
+              "label": "so"
+            },
+            {
+              "row": "22.2",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "hinge",
+              "label": "as"
+            },
+            {
+              "row": "24.2",
+              "w": [
+                1,
+                2
+              ],
+              "tag": "C",
+              "label": "like a mirror"
+            },
+            {
+              "row": "24.2",
+              "w": [
+                3,
+                6
+              ],
+              "tag": "C",
+              "label": "each gives back"
+            }
+          ],
+          "caption": "Dante has asked how a good can make its owners richer the more of them share it. Virgil answers with a comparison, marked by <b>così</b> (so) and <b>com’</b> (as): the good above runs to love as a ray comes to a <b>lucido corpo</b>, a bright body. <i>Lucido</i> is said of a polished surface that throws light back. Landino, commenting in 1481, gives the point: a ray is not made less by the number of bodies it lights. Virgil’s reasoning ends on a second comparison, <b>come specchio</b>, like a mirror: each gives back to the other. Auden copied these last three lines into the notes of <i>New Year Letter</i> in 1941.",
+          "why": "A question about dividing goods is answered by likening the good to light and the souls to bright bodies that give it back: light is not made less by the number receiving it. Auden copied the closing lines in 1941.",
+          "stands": "The marks on the passage. Dante’s question and Virgil’s words on earthly goods, earlier in [Canto 15](#/read/dante-italian/pur-15:16). Simile as *Silva Rhetoricae* defines it. *Lucido* in the Treccani *Vocabolario* and the *Enciclopedia Dantesca*. Cristoforo Landino’s commentary of 1481 on these lines, at the Dartmouth Dante Project. Auden: *New Year Letter* (1941), the note to line 1705.",
+          "grounds": [
+            {
+              "claim": "the two comparisons and the words that mark them",
+              "kind": "plate"
+            },
+            {
+              "claim": "Dante’s question; earthly shares are lessened by company; earthly things set against true light; in the next line Virgil calls what he has said his reasoning, and his speech then runs on to line 81",
+              "kind": "text",
+              "source": "Purgatorio 15.49-51, 61-66 and 76-81"
+            },
+            {
+              "claim": "a simile is an explicit comparison, often made with like or as",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), simile"
+            },
+            {
+              "claim": "lucido is said of a polished surface that sends light back",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (Treccani), lucido; Treccani, Vocabolario, lucido, sense 1a"
+            },
+            {
+              "claim": "the comparison shows that the good is not made less by being shared: the light is no less in one body because there are more bodies to receive it",
+              "kind": "source",
+              "source": "Cristoforo Landino (1481) on Purgatorio 15.67-72, at the Dartmouth Dante Project (dante.dartmouth.edu), also quoted by Natalino Sapegno (1955-57) on 15.67-69. The souls as mirrors that give the light to one another: Charles S. Singleton (1970-75) on 15.75; Bosco and Reggio (1979) on 15.74-75"
+            },
+            {
+              "claim": "Auden copied lines 73 to 75 into his notes in 1941",
+              "kind": "auden",
+              "source": "New Year Letter (London: Faber, 1941), the note to line 1705; seen by the examiner in search snippets of the scanned copy at archive.org (newyearletter0000aude), not in full"
+            }
+          ]
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "23.0",
+                0
+              ],
+              "to": [
+                "23.0",
+                2
+              ],
+              "tag": "then",
+              "label": "what rises: so much it gives"
+            },
+            {
+              "from": [
+                "23.0",
+                3
+              ],
+              "to": [
+                "23.0",
+                5
+              ],
+              "tag": "as",
+              "label": "what it rises with: as it finds ardor"
+            },
+            {
+              "from": [
+                "23.1",
+                2
+              ],
+              "to": [
+                "23.1",
+                5
+              ],
+              "tag": "as",
+              "label": "however far love reaches"
+            },
+            {
+              "from": [
+                "23.2",
+                0
+              ],
+              "to": [
+                "23.2",
+                4
+              ],
+              "tag": "then",
+              "label": "the worth grows"
+            },
+            {
+              "from": [
+                "24.0",
+                1
+              ],
+              "to": [
+                "24.0",
+                6
+              ],
+              "tag": "as",
+              "label": "the more souls"
+            },
+            {
+              "from": [
+                "24.1",
+                0
+              ],
+              "to": [
+                "24.1",
+                4
+              ],
+              "tag": "then",
+              "label": "the more to love"
+            },
+            {
+              "from": [
+                "24.1",
+                6
+              ],
+              "to": [
+                "24.1",
+                8
+              ],
+              "tag": "then",
+              "label": "the more love"
+            }
+          ],
+          "caption": "After the comparison come three statements, and each is a proportion. <b>Tanto</b> and <b>quanto</b>: it gives as much as it finds. <b>Quantunque</b>: however far love reaches, the worth grows on it. <b>Quanta</b>, with <b>più</b> three times: the more souls, the more to love and the more love. A sentence of this build ties two amounts together, so that as one rises the other does. Dante’s question took sharing for division: more owners, so a smaller share, which is what Virgil has just said of earthly goods (lines 49 to 51). <i>Più</i>, more, comes ten times between lines 55 and 75, three of them in the last three lines.",
+          "why": "Dante asked a question in division; each statement of the answer is built as a proportion whose two sides rise together, so the grammar states a good that grows with the number who share it.",
+          "stands": "The marks on the passage. *Quanto* and *quantunque* in the Treccani *Vocabolario*. Anna Maria Chiavacci Leonardi’s commentary, which calls lines 70 to 72 a proportion. Dante’s question and Virgil’s words on earthly goods, earlier in [Canto 15](#/read/dante-italian/pur-15:16). A count of *più* in lines 55 to 75 of the Italian printed here; Robert Hollander’s commentary notes the same run of the word.",
+          "grounds": [
+            {
+              "claim": "the three paired constructions: as much as, however far, the more",
+              "kind": "plate"
+            },
+            {
+              "claim": "quanto with a word for more, answered by another more, states a proportion",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, quanto (1), sense 3c, which gives the build with tanto più; quantunque, the old senses 2 and 3"
+            },
+            {
+              "claim": "the second statement is a proportion, between what is given and the soul’s readiness to receive it",
+              "kind": "source",
+              "source": "Anna Maria Chiavacci Leonardi (1991-97) on Purgatorio 15.70-72, at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "Dante’s question, and Virgil’s remark that earthly shares are lessened by company",
+              "kind": "text",
+              "source": "Purgatorio 15.49-51 and 61-63"
+            },
+            {
+              "claim": "più comes ten times in lines 55 to 75, three of them in lines 73 to 75",
+              "kind": "text",
+              "source": "counted by the poet and again by the examiner in the hosted Italian text, dante-italian/pur-15, blocks 18 to 24: lines 55, 56, 57, 58, 60, 62 (twice), 73 and 74 (twice). Robert Hollander (2000-07) on 15.67-75, citing Teodolinda Barolini, counts the seven of lines 55 to 62 and notes those of 73 and 74"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "23.0",
+              "w": [
+                1,
+                2
+              ],
+              "gloss": "gives itself",
+              "source": "the hosted Temple text, dante-temple/pur-15, block 23"
+            },
+            {
+              "row": "23.1",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "love · Latin: dearness",
+              "note": "Latin *caritas*, from *carus*, dear, is first dearness, a high price, and then esteem and love.",
+              "source": "Lewis and Short, A Latin Dictionary, caritas; Treccani, Vocabolario, carità"
+            },
+            {
+              "row": "23.2",
+              "w": [
+                3,
+                4
+              ],
+              "gloss": "the eternal worth: God",
+              "note": "The dictionary cites this line: in the *Comedy* the word *valore*, worth, can be a name for God himself.",
+              "source": "Treccani, Vocabolario, valore, sense 1a"
+            },
+            {
+              "row": "24.2",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "gives back",
+              "source": "Enciclopedia Dantesca (Treccani), rendere; Treccani, Vocabolario, rendere, senses 1a and 3a"
+            },
+            {
+              "row": "22.2",
+              "w": [
+                2,
+                3
+              ],
+              "gloss": "a polished, shining body",
+              "note": "*Lucido* is said of a body that sends back light; some commentators take this one to be a mirror.",
+              "source": "Enciclopedia Dantesca (Treccani), lucido; Treccani, Vocabolario, lucido, sense 1a"
+            }
+          ],
+          "caption": "Dante’s question is in the words of property: <i>distributo</i>, shared out, <i>posseditor</i>, owners, <i>ricchi</i>, rich (lines 61 to 63). The answer has no word of owning. Its words are of light and love, and two verbs are of giving: the good <b>si dà</b>, gives itself, and each soul <b>rende</b>, gives back. <i>Rendere</i> is first to return what is owed, and is also said of a mirror that sends back an image. Auden quoted the last three lines in an essay on <i>The Merchant of Venice</i>, to show that love breeds love, and went on to usury, where money breeds money.",
+          "why": "A question asked in the words of owning is answered in words of light, love and giving back; Virgil has told Dante that his mind is fixed on earthly things. Auden set the lines beside usury, where money breeds money.",
+          "stands": "The lines themselves, with Dante’s question and Virgil’s rebuke just before them in [Canto 15](#/read/dante-italian/pur-15:20). Anna Maria Chiavacci Leonardi’s commentary, on the words of light and love. *Rendere* and *valore* in the *Enciclopedia Dantesca* and the Treccani *Vocabolario*, which cite these lines. *Caritas* in Lewis and Short. Auden: *The Dyer’s Hand*, p. 230.",
+          "grounds": [
+            {
+              "claim": "the words of Dante’s question; Virgil’s rebuke that his mind is fixed on earthly things",
+              "kind": "text",
+              "source": "Purgatorio 15.61-66"
+            },
+            {
+              "claim": "no word of owning stands in the nine lines of the answer; its verbs are gives itself and gives back",
+              "kind": "plate"
+            },
+            {
+              "claim": "the vocabulary of these lines centers on light and love",
+              "kind": "source",
+              "source": "Anna Maria Chiavacci Leonardi (1991-97) on Purgatorio 15.67-75, and Robert Hollander (2000-07) on the same lines, at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "rendere is first to give back what is owed, and is said of a mirror that returns an image, with this line cited",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (Treccani), rendere; Treccani, Vocabolario, rendere, senses 1a and 3a"
+            },
+            {
+              "claim": "valore names God in this line",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, valore, sense 1a, which cites Purgatorio 15.72; Enciclopedia Dantesca (Treccani), valore"
+            },
+            {
+              "claim": "caritas is first dearness, a high price, then love (in the word’s note only; the caption does not lean on it)",
+              "kind": "source",
+              "source": "Lewis and Short, A Latin Dictionary, caritas; Treccani, Vocabolario, carità"
+            },
+            {
+              "claim": "Auden quoted lines 73 to 75 after saying it is well known that love and understanding breed love and understanding, and went straight on to usury, where money breeds money, as a figure poets used for love",
+              "kind": "auden",
+              "source": "“Brothers & Others,” in The Dyer’s Hand (1962), p. 230; the last word of his sentence, dropped in the working scan, was read in a search snippet of the 1962 copy at archive.org (dyershandotheres0000aude)"
+            }
+          ]
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            {
+              "a": [
+                "24.0",
+                6,
+                6
+              ],
+              "b": [
+                "p:24.0",
+                7,
+                9
+              ],
+              "say": "Okey takes the verb to mean understanding one another. The Italian Dante encyclopedia gives it here an old sense borrowed from Provençal: to love. Longfellow writes *aspire*."
+            },
+            {
+              "a": [
+                "24.2",
+                6,
+                6
+              ],
+              "b": [
+                "p:24.0",
+                28,
+                29
+              ],
+              "say": "The plain sense is kept: to give back. Longfellow has *reflects*."
+            },
+            {
+              "a": [
+                "23.2",
+                3,
+                4
+              ],
+              "b": [
+                "p:23.0",
+                21,
+                22
+              ],
+              "say": "*Valore* is worth or power, and here a name for God. Okey writes *goodness*. Longfellow keeps the look of the word, *valour*, which in English means courage."
+            },
+            {
+              "a": [
+                "22.2",
+                2,
+                3
+              ],
+              "b": [
+                "p:22.0",
+                21,
+                22
+              ],
+              "say": "*Bright* for *lucido*. Longfellow keeps the look-alike word, *lucid*."
+            },
+            {
+              "a": [
+                "23.1",
+                3,
+                3
+              ],
+              "b": [
+                "p:23.0",
+                19,
+                19
+              ],
+              "say": "*Love* for *carità*, where Longfellow keeps *charity*."
+            }
+          ],
+          "caption": "The English beside the Italian is Okey’s prose, the version Auden set his class to learn and the wording he copied into his notes. It follows Dante closely: <i>bright body</i>, <i>giveth back</i>. At one word the translators part. <b>S’intende</b> becomes <i>comprehend each other</i>, and when Auden quotes the last three lines he brings them in to show that both love and understanding breed their like. Longfellow’s translation has <i>aspire</i>. The Italian Dante encyclopedia and the commentators Sapegno and Chiavacci Leonardi read the verb here in an old sense taken from Provençal, to love. On that reading lines 73 and 74, the seventh and eighth here, hold three verbs for loving and none for knowing.",
+          "why": "The prose Auden quotes turns one old verb into comprehend each other, and his remark that love and understanding breed their like matches that wording; the reference work on Dante’s words reads the verb as love.",
+          "stands": "The two versions as they stand side by side. Auden’s class and this prose: Donald Pearce’s memoir, p. 153. Auden’s use of the lines: *The Dyer’s Hand*, p. 230. *Intendere* in the *Enciclopedia Dantesca*, and the commentaries of Natalino Sapegno and Anna Maria Chiavacci Leonardi on line 73. Longfellow’s words are in [his Canto 15](#/read/dante-longfellow/pur-15:22).",
+          "grounds": [
+            {
+              "claim": "which English words answer which Italian words",
+              "kind": "plate"
+            },
+            {
+              "claim": "this is the prose version Auden set his class to write from memory, and he quotes the lines in this wording",
+              "kind": "auden",
+              "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in W. H. Auden: The Far Interior (1985), p. 153; The Dyer’s Hand (1962), p. 230; New Year Letter (1941), the note to line 1705"
+            },
+            {
+              "claim": "Auden brings the lines in to show that love and understanding breed their like",
+              "kind": "auden",
+              "source": "“Brothers & Others,” in The Dyer’s Hand (1962), p. 230"
+            },
+            {
+              "claim": "intendersi at this line is an old word for to love, from Provençal",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (Treccani), intendere; Treccani, Vocabolario, intendere, senses 6 and 7; Natalino Sapegno (1955-57) and Anna Maria Chiavacci Leonardi (1991-97) on Purgatorio 15.73-75, and C. H. Grandgent (1909-13) on 15.73, at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "Longfellow’s words",
+              "kind": "source",
+              "source": "the hosted Longfellow text, dante-longfellow/pur-15, blocks 22 to 24"
+            },
+            {
+              "claim": "the Okey prose shown agrees word for word with the Temple Classics volume",
+              "kind": "source",
+              "source": "The Purgatorio of Dante Alighieri (London: J. M. Dent, fourth edition, 1904), canto 15, read by the examiner in the scan at archive.org"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "love",
+      "heading": "The rule of the mountain: lines 91 to 96 and 103 to 105",
+      "label": "Dante",
+      "text": "dante-italian/pur-17",
+      "rows": [
+        "30.0-31.2",
+        "34.0-34.2"
+      ],
+      "pair": {
+        "label": "Okey’s prose, 1901",
+        "text": "dante-temple/pur-17",
+        "rows": [
+          "30.0-31.0",
+          "34.0"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "31.0",
+              "w": [
+                0,
+                1
+              ],
+              "tag": "A",
+              "label": "love by nature"
+            },
+            {
+              "row": "31.0",
+              "w": [
+                2,
+                3
+              ],
+              "tag": "A",
+              "label": "is always"
+            },
+            {
+              "row": "31.1",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "B",
+              "label": "the mind’s love"
+            },
+            {
+              "row": "31.1",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "B",
+              "label": "can"
+            },
+            {
+              "row": "31.0",
+              "w": [
+                4,
+                5
+              ],
+              "tag": "err",
+              "label": "without error"
+            },
+            {
+              "row": "31.1",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "err",
+              "label": "err"
+            },
+            {
+              "row": "31.1",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "turn",
+              "label": "but"
+            }
+          ],
+          "caption": "Two lines set two loves against each other, turning on <b>ma</b>, but. The first is the love a creature has by nature, and gets <i>è sempre</i>, is always. The second, the love of the mind, gets another verb: <b>puote</b>, can. The same root stands on both sides, <i>errore</i> and <i>errar</i>, first denied and then allowed. In the next canto Virgil explains: the first desire is in man as the urge to make honey is in the bee and earns no praise or blame, and merit begins with the power that keeps the threshold of assent, free will. Auden’s comment: what is natural obeys necessity and cannot picture what might be.",
+          "why": "Is always goes with the love a creature cannot help and can with the love of the mind, so one changed verb carries Auden’s point about these lines: nature cannot err, and the blame lies with spirit, which is free.",
+          "stands": "The marks on the passage. Antithesis as *Silva Rhetoricae* defines it. Virgil’s own explanation in the next canto, [Canto 18](#/read/dante-italian/pur-18:18): the bee, praise and blame, the threshold of assent, free will. The commentaries of Natalino Sapegno and of Umberto Bosco and Giovanni Reggio, on the two loves. Auden: *The Dyer’s Hand*, pp. 130–31.",
+          "grounds": [
+            {
+              "claim": "the two subjects, the two verbs and the repeated root",
+              "kind": "plate"
+            },
+            {
+              "claim": "an antithesis sets contrasting words or ideas side by side, often in parallel structure",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), antithesis"
+            },
+            {
+              "claim": "the first love is inborn and cannot err; the second is the love that is chosen, in which mind and will take part, and it can err",
+              "kind": "source",
+              "source": "Hermann Oelsner (the notes of the Temple Classics volume, 1899) on Purgatorio 17.91-139; Natalino Sapegno (1955-57) on 17.91; Bosco and Reggio (1979) on 17.91-93 and 94-96, at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "the bee, praise and blame, the threshold of assent and free will",
+              "kind": "text",
+              "source": "Purgatorio 18.55-75"
+            },
+            {
+              "claim": "the natural obeys necessity and cannot imagine possibility; The Tempest blames nature and makes spirit innocent, and Dante holds the exact opposite; man as a being with consciousness and will has the freedom of the spirit",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), pp. 130-31"
+            }
+          ]
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "30.0": "a",
+            "30.1": "b",
+            "30.2": "a",
+            "31.0": "b",
+            "31.1": "c",
+            "31.2": "b",
+            "34.0": "d",
+            "34.1": "e",
+            "34.2": "d"
+          },
+          "tails": {
+            "30.0": 2,
+            "30.1": 3,
+            "30.2": 2,
+            "31.0": 3,
+            "31.1": 4,
+            "31.2": 3,
+            "34.0": 3,
+            "34.1": 3,
+            "34.2": 3
+          },
+          "caption": "Dante’s rhyme is a chain. In each group of three lines, a tercet, the middle line gives its rhyme to the outer lines of the next. Here the middle line of the first tercet ends on <b>amore</b>, love. The second tercet has to answer it, and answers with <b>errore</b>, error, and <b>vigore</b>, the force that love can have too much or too little of. So the lines about error are rhymed on love. The conclusion states the tie outright: love is the seed of every virtue and of every act that deserves punishment.",
+          "why": "The form makes each tercet take its rhyme from the middle line of the one before; Dante ends that line on amore, so the lines on error are rhymed on love, the tie that Virgil’s conclusion states in plain words.",
+          "stands": "The marks on the passage. *Terzina* in the Treccani *Vocabolario*: the middle line of each group of three gives its rhyme to the first and third lines of the next. The conclusion is in the lines themselves.",
+          "grounds": [
+            {
+              "claim": "which line ends rhyme, and the letters that carry the rhyme",
+              "kind": "plate"
+            },
+            {
+              "claim": "in this form the middle line gives its rhyme to the first and third lines of the next tercet; it is called the chained tercet, or Dante’s",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, terzina"
+            },
+            {
+              "claim": "love is the seed of every virtue and of every punishable act",
+              "kind": "text",
+              "source": "rows 34.0 to 34.2"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "31.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "fault · Latin: a straying",
+              "note": "Latin *error* is first a wandering or straying, then a going off the right way, and so a mistake.",
+              "source": "Lewis and Short, A Latin Dictionary, error"
+            },
+            {
+              "row": "31.1",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "wander · be wrong",
+              "note": "The Italian verb keeps both senses of Latin *errare*; at canto 7, line 59, it is plain wandering about the hillside.",
+              "source": "Treccani, Vocabolario, errare; Lewis and Short, erro; Purgatorio 7.59"
+            },
+            {
+              "row": "30.2",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "of the mind",
+              "note": "Latin *animus* is the rational soul, the mind that thinks, feels and wills. Okey writes *rational*; Longfellow, *spiritual*.",
+              "source": "Lewis and Short, animus; the hosted Temple and Longfellow texts"
+            },
+            {
+              "row": "31.1",
+              "w": [
+                5,
+                6
+              ],
+              "gloss": "an evil object",
+              "note": "*Obietto* is an old word of poets and philosophers, from medieval Latin *obiectum*, a thing put before: what a desire is directed at.",
+              "source": "Treccani, Vocabolario, obietto and oggetto"
+            },
+            {
+              "row": "34.1",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "seed for sowing",
+              "note": "The word means the sowing and the seed sown; the dictionary cites this line for the sense of origin or cause.",
+              "source": "Treccani, Vocabolario, sementa; Lewis and Short, sementis"
+            },
+            {
+              "row": "34.2",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "penalties · pains",
+              "note": "Latin *poena* is first a payment that makes good a wrong, then punishment, then pain. On the sixth terrace a soul says he ought to call his *pena* solace (canto 23, line 72).",
+              "source": "Lewis and Short, poena; Purgatorio 23.70-72"
+            }
+          ],
+          "caption": "<b>Errore</b> and <b>errar</b> come from the Latin for wandering and going astray; being wrong is the second sense. The poem opens with the straight way lost (<i>Inferno</i> 1, line 3). In the lines left out love moves: it <i>si torce</i>, twists, toward evil, or <i>corre</i>, runs, at the good with too much or too little care. In the conclusion love is <b>sementa</b>, seed, of every virtue and of every act that earns <b>pene</b>, penalties or pains. Auden quoted these words near the end of a review of 1941. The love in them, he wrote, is the basic will of every creature to become itself, and grace changes that love and does not add another.",
+          "why": "Going wrong is named with a word for straying and love with a word for seed, so good and bad acts are given one origin; Auden read that seed as the love that grace changes and does not destroy.",
+          "stands": "*Error*, *erro*, *animus*, *sementis* and *poena* in Lewis and Short. *Errore*, *errare* and *obietto* in the *Enciclopedia Dantesca*; *sementa* in the Treccani *Vocabolario*, which cites this line. The lines left out, in [Canto 17](#/read/dante-italian/pur-17:33), and the opening of [the *Inferno*](#/read/dante-italian/inf-01:0). Auden: “Eros and Agape” (1941), in his *Prose*, vol. II, pp. 137–40.",
+          "grounds": [
+            {
+              "claim": "error and errare are first wandering and going astray, then being wrong; in these lines the sense is fault, and at canto 7, line 59, plain wandering",
+              "kind": "source",
+              "source": "Lewis and Short, A Latin Dictionary, error and erro; Treccani, Vocabolario, errare; Enciclopedia Dantesca (Treccani), errore and errare, which cite Purgatorio 17.94-95 under the moral sense and 7.59 under wandering"
+            },
+            {
+              "claim": "the straight way lost; love twists toward evil or runs at the good with more or less care than it should",
+              "kind": "text",
+              "source": "Inferno 1.3; Purgatorio 17.100-101"
+            },
+            {
+              "claim": "obietto is what will or love is directed at; malo obietto, an object it is sinful to turn to",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (Treccani), obietto, which cites Purgatorio 17.95; Treccani, Vocabolario, obietto and oggetto"
+            },
+            {
+              "claim": "animus is the rational soul; d’animo names the chosen love",
+              "kind": "source",
+              "source": "Lewis and Short, animus; Oelsner and Bosco and Reggio on Purgatorio 17.91-93, at the Dartmouth Dante Project; the hosted Temple and Longfellow texts for rational and spiritual"
+            },
+            {
+              "claim": "sementa is the sowing and the seed, cited for this line in the sense of origin or cause",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, sementa; Lewis and Short, sementis"
+            },
+            {
+              "claim": "love as the seed of virtue and of punishable acts",
+              "kind": "text",
+              "source": "rows 34.0 to 34.2"
+            },
+            {
+              "claim": "poena is compensation, then punishment, then pain; a soul on the sixth terrace ought to call his pena solace",
+              "kind": "source",
+              "source": "Lewis and Short, poena; Purgatorio 23.70-72"
+            },
+            {
+              "claim": "Auden quoted the seed line near the end of a review of 1941: the love in it is every creature’s basic will to become itself, and Agape is that love changed by grace, not another love added",
+              "kind": "auden",
+              "source": "“Eros and Agape,” The Nation, 28 June 1941; in Prose, volume II (Princeton, 2002), pp. 137-40; seen by the examiner in search snippets of the scanned copy at archive.org (prosetravelbooks0000aude), not in full. The review does not end on this sentence: it goes on after it"
+            }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Mountain",
+          "what": "the mountain of Purgatory: its seven terraces sorted by the three ways love goes wrong, the cantos given to each level, and where these lines stand in the poem",
+          "facts": {
+            "poem": {
+              "cantos": {
+                "Inferno": 34,
+                "Purgatorio": 33,
+                "Paradiso": 33,
+                "all": 100
+              },
+              "lines": {
+                "Inferno": 4720,
+                "Purgatorio": 4755,
+                "Paradiso": 4758,
+                "all": 14233
+              },
+              "source": "counted in the hosted Italian text, dante-italian"
+            },
+            "thisCanto": {
+              "canto": "Purgatorio 17",
+              "inPurgatorio": "17th of 33: sixteen cantos before it and sixteen after",
+              "inPoem": "51st of 100",
+              "lines": 139,
+              "linesOnPlate": "91 to 96 and 103 to 105",
+              "speechOnLove": "lines 91 to 139, the end of the canto",
+              "middleLineOfPoem": "line 7,117 of 14,233 is *Purgatorio* 17, line 125: the line in which Virgil turns from the love wept for on the three terraces below to the other love, that of this terrace and the three above",
+              "source": "counted in the hosted Italian text: 4,720 lines in the Inferno and 2,272 in Purgatorio 1 to 16"
+            },
+            "linesInTheSevenMiddleCantos": {
+              "14": 151,
+              "15": 145,
+              "16": 145,
+              "17": 139,
+              "18": 145,
+              "19": 145,
+              "20": 151,
+              "note": "the counts match each other in pairs around canto 17",
+              "source": "counted in the hosted Italian text"
+            },
+            "linesInEachCantoOfPurgatorio": [136, 133, 145, 139, 136, 151, 136, 139, 145, 139, 142, 136, 154, 151, 145, 145, 139, 145, 145, 151, 136, 154, 133, 154, 139, 148, 142, 148, 154, 145, 145, 160, 145],
+            "levels": [
+              {
+                "level": "below the gate",
+                "cantos": "1 to 9",
+                "what": "the shore and the lower slopes, where souls wait before they may begin",
+                "source": "the gate is seen at 9.76 and passed at 9.133-145; seven letters P are cut on Dante’s forehead at 9.112"
+              },
+              {
+                "terrace": 1,
+                "sin": "pride",
+                "error": "evil object",
+                "cantos": "10 to 12",
+                "named": "*superbia*, 11.88",
+                "reached": "10.17-21",
+                "left": "12.109-111"
+              },
+              {
+                "terrace": 2,
+                "sin": "envy",
+                "error": "evil object",
+                "cantos": "13 to 15",
+                "named": "*invidia*, 13.38",
+                "reached": "13.1-6",
+                "left": "15.34-39",
+                "plate": "the first passage is spoken on the stair above this terrace: 15.67-75"
+              },
+              {
+                "terrace": 3,
+                "sin": "anger",
+                "error": "evil object",
+                "cantos": "15 to 17",
+                "named": "*iracundia*, 16.24",
+                "reached": "15.82-84",
+                "left": "17.64-69"
+              },
+              {
+                "terrace": 4,
+                "sin": "sloth",
+                "error": "too little",
+                "cantos": "17 to 19",
+                "named": "*lento amore*, 17.130; *accidia*, 18.132",
+                "reached": "17.76-78",
+                "left": "19.43-51",
+                "plate": "Virgil makes the speech on love here, at the top of the stair: 17.91-139"
+              },
+              {
+                "terrace": 5,
+                "sin": "avarice, and its opposite, waste",
+                "error": "too much",
+                "cantos": "19 to 21",
+                "named": "*avarizia*, 19.115; its opposite, 22.34-36",
+                "reached": "19.70-72",
+                "left": "by 22.1-6"
+              },
+              {
+                "terrace": 6,
+                "sin": "gluttony",
+                "error": "too much",
+                "cantos": "22 to 24",
+                "named": "*gola*, followed beyond measure, 23.65",
+                "reached": "22.115-117",
+                "left": "24.139-154"
+              },
+              {
+                "terrace": 7,
+                "sin": "lust",
+                "error": "too much",
+                "cantos": "25 to 27",
+                "named": "*lussuria*, 26.42",
+                "reached": "25.109-111",
+                "left": "27.7-12 and 46-57"
+              },
+              {
+                "level": "the garden of Eden",
+                "cantos": "28 to 33",
+                "plate": "the third passage, the lady across the stream, with six lines left out: 28.37-51",
+                "source": "the forest is entered at 28.1-6"
+              }
+            ],
+            "errors": [
+              {
+                "error": "evil object",
+                "words": {
+                  "row": "31.1",
+                  "inRow": "31.1",
+                  "w": [
+                    5,
+                    6
+                  ]
+                },
+                "terraces": [
+                  1,
+                  2,
+                  3
+                ],
+                "virgil": "17.112-126: the evil that is loved is a neighbor’s, and it is loved in three ways; that love, in its three forms, is wept for below"
+              },
+              {
+                "error": "too little",
+                "words": {
+                  "row": "31.2",
+                  "inRow": "31.2",
+                  "w": [
+                    5,
+                    5
+                  ]
+                },
+                "terraces": [
+                  4
+                ],
+                "virgil": "17.85-87 and 130-132: slow love is made good on this ledge"
+              },
+              {
+                "error": "too much",
+                "words": {
+                  "row": "31.2",
+                  "inRow": "31.2",
+                  "w": [
+                    2,
+                    2
+                  ]
+                },
+                "terraces": [
+                  5,
+                  6,
+                  7
+                ],
+                "virgil": "17.133-139: love that gives itself too much to a good that cannot make man happy is wept for in three circles above; he does not name them and tells Dante to seek them himself"
+              }
+            ],
+            "wordOrder": "The Italian line shown names too much before too little; on the mountain too little (terrace 4) lies below too much (terraces 5 to 7). Okey’s prose beside it has too little first, and so does the Italian printed opposite his prose in the Temple Classics edition. The Italian Auden prints in The Dyer’s Hand has that order too.",
+            "night": "No one can climb the mountain after sunset (7.43-60). The travelers reach the top of the stair as the stars come out (17.70-78), and Dante asks Virgil to go on speaking while their feet are stopped (17.84).",
+            "hell": "Virgil gives the plan of lower Hell in the same way, during a halt, in Inferno 11.10-24: every malice has injury for its end, done through force or through fraud. Lust is punished in the second circle of Hell, the first after Limbo (Inferno 5.1-2 and 37-39), and is the last sin purged on the mountain (cantos 25 to 27).",
+            "auden": "Auden on the structure: Forewords and Afterwords (1973), p. 269.",
+            "source": "every canto and line number was read in the hosted Italian text"
+          },
+          "caption": "The three ways of going wrong that Virgil names are the plan of the mountain. Love of an <b>evil object</b> is wept for on the three terraces already climbed: pride, envy, anger. Love with <b>too little</b> force is made good on this one. Love with <b>too much</b> is wept for on the three above. Virgil’s plan of lower Hell in <i>Inferno</i> 11 sorts by injury done, through force or fraud; this one sorts by love. The speech comes at night, when no one may climb, and by count of lines the middle of the whole poem falls inside it. Cantos 14 to 20 match in length, pair by pair. Auden noted that Dante’s structure settles even the number of verses.",
+          "why": "Given in a halt at the midpoint, after three terraces have been walked, the three errors sort seven sins into one scheme of love with a wrong object or a wrong measure; Auden noted how exactly Dante’s structure is counted.",
+          "stands": "Virgil’s speech to the end of [Canto 17](#/read/dante-italian/pur-17:35); the rule of the night in [Canto 7](#/read/dante-italian/pur-07:14); the plan of Hell in [*Inferno* 11](#/read/dante-italian/inf-11:7). The commentaries of Natalino Sapegno and Charles S. Singleton, on which terraces answer to which error. A count of the lines of the Italian printed here; Robert Hollander’s commentary puts the middle of the poem at the same place. Auden: *Forewords and Afterwords*, p. 269.",
+          "grounds": [
+            {
+              "claim": "which terraces answer to which error",
+              "kind": "text",
+              "source": "Purgatorio 17.85-87 and 106-139; the sins are named at 11.88; 13.38; 16.24; 18.132; 19.115; 23.65; 26.42. Every canto and line in the facts was read again by the examiner in the hosted Italian text"
+            },
+            {
+              "claim": "the evil object is pride, envy and anger; too little is sloth; too much is avarice, gluttony and lust; the mountain is sorted by the leanings of love, where Hell is sorted by deeds done",
+              "kind": "source",
+              "source": "Natalino Sapegno (1955-57) on Purgatorio 17.91; Charles S. Singleton (1970-75) on 17.95-96; Bosco and Reggio (1979) on 17.91-139; Robert Hollander (2000-07) on 17.93-96, at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "no climbing at night; the halt at the top of the stair",
+              "kind": "text",
+              "source": "Purgatorio 7.43-60; 17.70-84"
+            },
+            {
+              "claim": "the counts of cantos and lines, the middle line of the poem, and the lines of cantos 14 to 20, which match in pairs round canto 17",
+              "kind": "text",
+              "source": "counted in the hosted Italian text (Project Gutenberg no. 1012) by the poet, by the artist and again by the examiner: 4,720 + 4,755 + 4,758 = 14,233 lines; 4,720 + 2,272 = 6,992 lines before canto 17, so that its line 125 is line 7,117, with 7,116 before it and 7,116 after. Robert Hollander (2000-07) on 17.124-125 puts the midpoint of the 14,233 lines at these two lines. Counted again by the finisher on 2026-10-03, by script over the hosted Italian: the same sums, and 151, 145, 145, 139, 145, 145 and 151 lines in cantos 14 to 20"
+            },
+            {
+              "claim": "the plan of lower Hell sorts by injury done, through force or fraud, and is given during a halt",
+              "kind": "text",
+              "source": "Inferno 11.10-24"
+            },
+            {
+              "claim": "Dante’s structure settles even the number of verses",
+              "kind": "auden",
+              "source": "“George MacDonald,” in Forewords and Afterwords (1973), p. 269"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "garden",
+      "heading": "A lady across a stream: lines 37 to 42 and 49 to 51",
+      "label": "Dante",
+      "text": "dante-italian/pur-28",
+      "rows": [
+        "12.0-13.2",
+        "16.0-16.2"
+      ],
+      "pair": {
+        "label": "Okey’s prose, 1901",
+        "text": "dante-temple/pur-28",
+        "rows": [
+          "12.0-13.0",
+          "16.0"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "12.0",
+                0
+              ],
+              "to": [
+                "12.0",
+                2
+              ],
+              "tag": "verb",
+              "label": "the verb comes first"
+            },
+            {
+              "from": [
+                "12.0",
+                3
+              ],
+              "to": [
+                "12.2",
+                4
+              ],
+              "tag": "held",
+              "label": "the comparison fills the wait"
+            },
+            {
+              "from": [
+                "13.0",
+                0
+              ],
+              "to": [
+                "13.0",
+                2
+              ],
+              "tag": "subject",
+              "label": "the subject, at last"
+            },
+            {
+              "from": [
+                "13.0",
+                3
+              ],
+              "to": [
+                "13.2",
+                6
+              ],
+              "tag": "after",
+              "label": "what she is doing"
+            }
+          ],
+          "caption": "The verb comes first: <b>m’apparve</b>, there appeared to me. Its subject is kept back through the rest of that line and two more, and until then the sentence does not say what appeared. The wait is filled with a comparison: as a thing appears, suddenly, that through wonder turns every other thought aside. Only then comes <b>una donna soletta</b>, a lady all alone. The poem names her once, five cantos later: Matelda. What appears in the comparison is only <i>cosa</i>, a thing, and its verb is the verb of the event again: <i>apparve</i>, <i>appare</i>. Okey’s prose, the version Auden’s class had to write out from memory, keeps the order: <i>appeared</i>, then the comparison, then <i>a lady solitary</i>.",
+          "why": "The subject is held back behind a comparison about a sudden sight that drives out other thoughts, so the sentence tells the wonder first and brings the lady only after it.",
+          "stands": "The marks on the passage, in the Italian and in Okey’s prose. *Soletto* in the *Enciclopedia Dantesca*, under *solo*. The lady’s name: [Canto 33](#/read/dante-italian/pur-33:39), line 119. The examination: Donald Pearce’s memoir, pp. 153–54, which names this canto among those Auden announced.",
+          "grounds": [
+            {
+              "claim": "the order of verb, comparison and subject, in the Italian and in the prose; the subject stands three lines below its verb",
+              "kind": "plate"
+            },
+            {
+              "claim": "what the comparison says",
+              "kind": "text",
+              "source": "rows 12.0 to 12.2"
+            },
+            {
+              "claim": "soletta is all alone, with this line cited",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (Treccani), solo, section 3; Wiktionary, soletto"
+            },
+            {
+              "claim": "the class had to write cantos out from memory in this prose version; canto 28 is the one Purgatorio canto Pearce names",
+              "kind": "auden",
+              "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in W. H. Auden: The Far Interior (1985), pp. 153-54"
+            },
+            {
+              "claim": "the poem names the lady once, at Purgatorio 33.119; the lady named there answers that she has already told Dante of the waters, which the lady of this canto does at lines 121-133",
+              "kind": "text",
+              "source": "Purgatorio 33.118-123, and 28.121-133, read by the finisher on 2026-10-03 in the hosted Italian (dante-italian/pur-33, block 39) and in Okey’s prose; a script searched all 100 cantos of the hosted Italian for the name and found it once, at pur-33, line 119. Okey’s prose spells it Matilda"
+            }
+          ]
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "zeugma",
+          "plain": "one verb is made to serve two clauses: it is said in the first and left out of the second",
+          "draw": "chain",
+          "parts": [
+            {
+              "row": "16.1",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "verb",
+              "label": "lost, said once"
+            },
+            {
+              "row": "16.2",
+              "w": [
+                0,
+                1
+              ],
+              "tag": "A",
+              "label": "the mother"
+            },
+            {
+              "row": "16.2",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "B",
+              "label": "her, what is lost"
+            },
+            {
+              "row": "16.2",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "B",
+              "label": "she, the one who loses"
+            },
+            {
+              "row": "16.2",
+              "w": [
+                5,
+                5
+              ],
+              "tag": "C",
+              "label": "the spring"
+            }
+          ],
+          "caption": "<b>Perdette</b>, lost, is said once and serves two clauses: the mother lost the girl, and the girl lost the spring. With the verb in the line before, the last line holds two pairs: the mother and <b>lei</b> (her); <b>ella</b> (she) and the spring. The two words for the girl meet at the comma. On one side she is what is lost, on the other the one who loses. Okey’s prose says the verb twice. <b>Primavera</b> returns at the canto’s end: here, the lady says, it is always spring. In the myth Pluto, god of the underworld, carries Proserpina off. Chiavacci Leonardi’s commentary reads it as the loss of innocence, which Christians could take for the loss of this garden.",
+          "why": "One verb is made to cover two losses, so the mother’s loss and the girl’s are told together, and the girl stands on both sides of the comma, as the one lost and the one who loses.",
+          "stands": "The marks on the passage, in the Italian and in Okey’s prose. Zeugma, and the kind of it called prozeugma, as *Silva Rhetoricae* defines them. The lady’s words near the end of [the canto](#/read/dante-italian/pur-28:47). Anna Maria Chiavacci Leonardi’s commentary on line 49, at the Dartmouth Dante Project. The myth: Hermann Oelsner’s note on lines 49 to 51 in the Temple Classics edition; *Plutonian* in *A New English Dictionary*.",
+          "grounds": [
+            {
+              "claim": "the single verb in the line before, the two pairs in the last line, the two words for the girl at the comma, and the verb said twice in the prose",
+              "kind": "plate"
+            },
+            {
+              "claim": "a verb said in the first clause and left out of the next is zeugma, of the kind called prozeugma",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), zeugma and prozeugma"
+            },
+            {
+              "claim": "here it is always spring; here the human root was innocent",
+              "kind": "text",
+              "source": "Purgatorio 28.142-143"
+            },
+            {
+              "claim": "Dante names his source here; the myth of Proserpina stood for the loss of the innocence and happiness of youth, and for Christians the loss of the earthly paradise",
+              "kind": "source",
+              "source": "Anna Maria Chiavacci Leonardi (1991-97) on Purgatorio 28.49, at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "in the myth Proserpina is carried off by Pluto; Pluto is the god of the infernal regions",
+              "kind": "source",
+              "source": "H. Oelsner’s note on lines 49-51 in The Purgatorio of Dante Alighieri (Temple Classics; London: J. M. Dent, fourth edition, 1904), read by the finisher on 2026-10-03 in the scan kept in the project, .cache/temple/purgatorioofdant00dant_0_djvu.xml; A New English Dictionary, vol. VII (Oxford: Clarendon Press, 1909), Plutonian, whose etymology calls Pluto the god of the infernal regions, read in the scan ned_oed07arch.txt"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Sources",
+          "notes": [
+            {
+              "row": "13.0",
+              "w": [
+                2,
+                5
+              ],
+              "gloss": "all alone, going along",
+              "note": "In a song by Guido Cavalcanti, whom Dante calls the first of his friends, a shepherd girl sings like a girl in love and says she goes *sola sola* through the wood. Dante’s next canto opens by nearly repeating the line about her singing.",
+              "source": "Cavalcanti, In un boschetto trovai pasturella (Italian Wikisource); Dante, Vita nuova, III; Purgatorio 29.1; Wiktionary, soletto"
+            },
+            {
+              "row": "16.2",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "spring · its flowers",
+              "note": "Ovid’s grove where Proserpina is seized has *perpetuum ver*, lasting spring, and the flowers she has gathered fall from her dress. Old commentators read *primavera* here as those flowers, or as the meadow she lost.",
+              "source": "Ovid, Metamorphoses 5.391 and 5.399 (The Latin Library); Treccani, Vocabolario, primavera, sense 2b; Enciclopedia Dantesca, primavera"
+            },
+            {
+              "row": "16.0",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "remember",
+              "note": "With this verb Dante points to his source, Ovid’s story of Proserpina: Pluto carries her off as she gathers flowers.",
+              "source": "Treccani, Vocabolario, rimembrare. The story: H. Oelsner’s note on lines 49-51 in The Purgatorio of Dante Alighieri (Temple Classics; London: J. M. Dent, fourth edition, 1904), read by the finisher on 2026-10-03 in the scan kept in the project, .cache/temple/purgatorioofdant00dant_0_djvu.xml"
+            },
+            {
+              "row": "12.1",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "turns off the road",
+              "note": "Made from *via*, road, the word that ends the sentence four lines on. Like *errore* in the second passage, it is a word for leaving the way.",
+              "source": "Treccani, Vocabolario, disviare; Lewis and Short, A Latin Dictionary, error"
+            }
+          ],
+          "caption": "The first sight of the lady is made partly of other poets’ words. In a song by Dante’s friend Guido Cavalcanti a shepherd girl goes <i>sola sola</i>, all alone, through a wood, singing. Dante’s lady is <b>soletta</b>, and commentators name the song at that line. The next canto opens by nearly repeating a line of the song. The second source Dante points to himself: she makes him <b>rimembrar</b> (remember) Proserpina, and <b>primavera</b> and the flowers are in Ovid’s telling, where the grove has <i>perpetuum ver</i>, lasting spring. At the canto’s end the lady says that the old poets who sang of the golden age perhaps dreamed of this place.",
+          "why": "The lady comes in words that recall a friend’s love song and Ovid’s tale of Proserpina, and the canto ties the old poets to the garden: they sang of a golden age, she says, and perhaps dreamed of this place.",
+          "stands": "Guido Cavalcanti’s song “In un boschetto trova’ pasturella,” lines 7 and 12, beside these lines and the first line of [Canto 29](#/read/dante-italian/pur-29:0); the commentaries of Charles S. Singleton and Anna Maria Chiavacci Leonardi name the song here. Dante’s *Vita nuova*, chapter III. Ovid, *Metamorphoses* 5.385–401, and Hermann Oelsner’s note on lines 49 to 51. *Primavera* in the *Enciclopedia Dantesca*. The lady’s words near the end of [the canto](#/read/dante-italian/pur-28:46).",
+          "grounds": [
+            {
+              "claim": "the wording shared with Cavalcanti’s song: its line 12 for the lady going all alone, its line 7 for the opening of the next canto",
+              "kind": "source",
+              "source": "Guido Cavalcanti, In un boschetto trova’ pasturella, in The Oxford Book of Italian Verse, edited by St. John Lucas, p. 74, at Italian Wikisource, compared with rows 13.0 to 13.1 and Purgatorio 29.1"
+            },
+            {
+              "claim": "commentators name this song at this line, and at the first line of canto 29",
+              "kind": "source",
+              "source": "Charles S. Singleton (1970-75) and Anna Maria Chiavacci Leonardi (1991-97) on Purgatorio 28.40; Sapegno, Singleton, Bosco and Reggio, Chiavacci Leonardi and Hollander on 29.1, at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "Cavalcanti as the first of Dante’s friends",
+              "kind": "source",
+              "source": "Dante, Vita nuova, III, at Italian Wikisource; Enciclopedia Dantesca (Treccani), Cavalcanti, Guido"
+            },
+            {
+              "claim": "soletta is all alone",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (Treccani), solo, section 3, which cites this line"
+            },
+            {
+              "claim": "commentators find bookish images, above all Ovid’s, behind the lady, and one reading likens the meeting to Provençal song and to Cavalcanti",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (Treccani), Matelda, which reports both remarks; its author does not accept all of the second"
+            },
+            {
+              "claim": "Ovid’s grove with its lasting spring and the fallen flowers; Dante names his source in these lines; primavera read as the flowers or as the meadow",
+              "kind": "source",
+              "source": "Ovid, Metamorphoses 5.385-401, at The Latin Library; Oelsner (1899), Sapegno, Singleton, Bosco and Reggio and Chiavacci Leonardi on Purgatorio 28.49-51, at the Dartmouth Dante Project; Enciclopedia Dantesca (Treccani), primavera; Treccani, Vocabolario, primavera, sense 2b"
+            },
+            {
+              "claim": "the old poets perhaps dreamed of this place",
+              "kind": "text",
+              "source": "Purgatorio 28.139-144"
+            },
+            {
+              "claim": "disviare is made from via and means to turn from the right way",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, disviare"
+            },
+            {
+              "claim": "which words are marked",
+              "kind": "plate"
+            },
+            {
+              "claim": "in the story Dante points to, Proserpina is carried off by Pluto while gathering flowers (the note on the verb for remembering)",
+              "kind": "source",
+              "source": "H. Oelsner’s note on lines 49-51 in The Purgatorio of Dante Alighieri (Temple Classics; London: J. M. Dent, fourth edition, 1904), read by the finisher on 2026-10-03 in the scan kept in the project, .cache/temple/purgatorioofdant00dant_0_djvu.xml; the note refers to Ovid, Metamorphoses v. 385 ff. Ovid’s own lines were not opened by the finisher: the fetch was refused"
+            }
+          ]
+        },
+        {
+          "kind": "beat",
+          "label": "Measure",
+          "meterName": "eleven syllables: the last accent always on the tenth and, as a rule, another on the fourth or the sixth",
+          "scan": {
+            "12.0": {
+              "meter": "..././.../.",
+              "voice": "x / x/x | / x /~ x/x",
+              "div": {
+                "2": "m’ap|par|ve,",
+                "6": "ap|pa|re"
+              }
+            },
+            "12.1": {
+              "meter": "..././.../.",
+              "voice": "xxx/x /x x x/x",
+              "div": {
+                "0": "su|bi|ta|men|te",
+                "3": "di|svi|a"
+              }
+            },
+            "12.2": {
+              "meter": "..././.../.",
+              "voice": "x xx/x /~ /x x/x",
+              "div": {
+                "1": "ma|ra|vi|glia",
+                "4": "pen|sa|re,"
+              }
+            },
+            "13.0": {
+              "meter": "...../.../.",
+              "voice": "xx /x x/x x x /x"
+            },
+            "13.1": {
+              "meter": "...../.../.",
+              "voice": "x x/~ x x/x / x /x",
+              "div": {
+                "3": "sce|glien|do",
+                "4": "fior",
+                "6": "fio|re"
+              }
+            },
+            "13.2": {
+              "meter": "..././.../.",
+              "voice": "x /x /x /x x x /x",
+              "div": {
+                "5": "sua"
+              }
+            },
+            "16.0": {
+              "meter": "...../.../.",
+              "voice": "x x / xx/ /~ x x /x",
+              "div": {
+                "4": "do|ve"
+              }
+            },
+            "16.1": {
+              "meter": "...../.../.",
+              "voice": "x/xx x /x x x/x",
+              "div": {
+                "4": "per|det|te"
+              }
+            },
+            "16.2": {
+              "meter": "..././.../.",
+              "voice": "x /x / | x /x xx/x",
+              "div": {
+                "1": "ma|dre"
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "12.0",
+                5,
+                6
+              ],
+              "say": "Two vowels meet between two words and count as one syllable. It happens four times in these nine lines."
+            },
+            {
+              "at": [
+                "13.0",
+                1,
+                2
+              ],
+              "say": "The stress lands on the third syllable and the sixth, and the fourth is unstressed."
+            },
+            {
+              "at": [
+                "13.1",
+                1,
+                3
+              ],
+              "say": "The two things she is doing take the same two places, third and sixth."
+            },
+            {
+              "at": [
+                "16.2",
+                2,
+                4
+              ],
+              "say": "*Lei* on the fourth, *ella* on the sixth. At the comma the vowels of *lei* and *ed* meet and are kept apart."
+            }
+          ],
+          "caption": "Dante’s line has eleven syllables, the last accent always on the tenth and, as a rule, another on the fourth or the sixth. Vowels that meet between words usually count as one syllable. The first three lines each open on five syllables stressed on the fourth: <i>e là m’apparve</i>, <i>subitamente</i>, <i>per maraviglia</i>. The two lines that bring the lady have no stress on the fourth: their main stress is on the sixth. Their first seven syllables hold the whole subject, <b>una donna soletta</b>, then two things she is doing, <b>cantando</b>, <b>scegliendo</b>. In the last line <b>lei</b> and <b>ella</b> take the fourth and sixth places, and the vowels that meet at the comma between them are kept apart.",
+          "why": "The line changes kind where the held-back subject arrives, and its longer first half holds the subject whole; in the Proserpina line the two words for the girl take the fourth and sixth stresses, with a break between.",
+          "stands": "The marks on the passage, counted by the rules of the Italian line. The rules: Claudio Ciociola’s article *endecasillabo* in the *Enciclopedia dell’Italiano*, for the two kinds of line, whose first halves have five syllables and seven; the Treccani *Vocabolario* under *endecasillabo*, *sinalefe* and *dialefe*, for vowels that run together or stay apart.",
+          "grounds": [
+            {
+              "claim": "where the stresses fall, and where vowels run together or stay apart; the examiner counted the nine lines before reading these marks and agrees with them",
+              "kind": "plate"
+            },
+            {
+              "claim": "the eleven-syllable line: a stress on the tenth and on the fourth or the sixth; the two kinds of line, whose first halves equal a five-syllable and a seven-syllable line; a line with no stress on the fourth is of the second kind, with a lighter stress on the second or third",
+              "kind": "source",
+              "source": "Claudio Ciociola, endecasillabo, in Enciclopedia dell’Italiano (Treccani, 2010); Treccani, Vocabolario, endecasillabo"
+            },
+            {
+              "claim": "vowels that meet between words count once, or are kept apart when the first is stressed",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, sinalefe and dialefe"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In the notes to *New Year Letter*, printed in 1941, the year of the course, Auden copied out two passages of the *Purgatorio* in the prose he would set his class. One is the nine lines of the second passage here, with the same six lines left out. The other is the three lines that close the first passage. Two lines from earlier in the same exchange stand in Italian at the head of a section of “Balaam and His Ass,” the essay in *The Dyer’s Hand* that sets Dante against *The Tempest*.",
+      "source": "*New Year Letter* (London: Faber, 1941), the note just before the note to line 1432 and the note to line 1705; “Balaam and His Ass,” in *The Dyer’s Hand* (1962), p. 139",
+      "checked": "New Year Letter: seen by the examiner on 2026-10-03 in search snippets of the Faber edition at archive.org (newyearletter0000aude). One note quotes canto 17.91-96, a gap, then 103-105; the note headed Line 1705 quotes canto 15.73-75; both in Okey's wording, compared with dante-temple/pur-17, blocks 30, 31 and 34, and dante-temple/pur-15, block 24. Not seen in full. The Dyer's Hand read in the scan, research/auden/dh.txt, lines 6680-6698: p. 139 is the head of section IX of the essay, with two epigraphs, Luke 22:26 and canto 15, lines 55-56, in Italian."
+    },
+    {
+      "says": "In the poem itself a poet may choose which of the dead masters will judge him, and when Auden’s name is called it is Dante who presides on his case. Dante, the lines say, wrecked a career in the world, brought all his powers of feeling, sense, will and mind to what lies beyond it, and had rational love, which Auden names in Latin, for his guide through the three realms of the dead.",
+      "source": "*New Year Letter* (1941), Part I, in *The Collected Poetry of W. H. Auden* (1945), pp. 269–70",
+      "checked": "read by the examiner on 2026-10-03 in the open scan of The Collected Poetry of W. H. Auden (New York: Random House, 1945) at archive.org: the lines begin at the foot of p. 269 and run on to p. 270. Dante is not named; he is the judge presiding on the poet's case"
+    },
+    {
+      "says": "In an essay on *The Merchant of Venice* Auden quoted the three lines that close the first passage, in the same prose, as an instance of something well known: love and understanding breed their like. He went straight on to money. Once money could breed money in a trading economy, he wrote, it amused poets to use usury, a base trade, as a figure for love, the noblest of human acts.",
+      "source": "“Brothers & Others,” in *The Dyer’s Hand* (1962), p. 230",
+      "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 10934-10946, and again by the examiner on 2026-10-03; the scan drops the last word of the sentence that brings in the quotation, and a search snippet of the 1962 copy at archive.org (dyershandotheres0000aude) gives it: understanding"
+    },
+    {
+      "says": "In June 1941, near the end of a review of a book about romantic love, Auden quoted the words about the seed in Italian. Eros, he wrote, is that love: the basic will of every creature to become itself, and no creature can exist without it.",
+      "quote": "Agape is that Eros mutated by Grace, a conversion, not an addition, the Law fulfilled, not the Law destroyed",
+      "source": "“Eros and Agape,” a review of Denis de Rougemont, *Love in the Western World*, *The Nation*, 28 June 1941; in *Prose*, vol. II (2002), pp. 137–40",
+      "checked": "seen by the examiner on 2026-10-03 in search snippets of the scanned Prose, volume II, at archive.org (prosetravelbooks0000aude): the seed line in Italian, the sentence on Eros, and the words quoted here, which are exact. The review does not end on that sentence: it goes on after it and closes on another. The index gives p. 137 for the review. Not seen in full; not among the scans"
+    },
+    {
+      "says": "Setting three lines of the second passage against *The Tempest*, Auden added that no animal can fall. The tempter’s promise is in the future tense; a creature that only obeys necessity cannot picture doing what has never been done. The Italian he prints has too little before too much, the other way round from the Italian printed here.",
+      "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 130–31",
+      "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 6266-6306"
+    },
+    {
+      "says": "By Donald Pearce’s account, the final examination was to write out cantos of the poem from memory, in the prose version that, Auden told the class, Eliot had used for *The Waste Land*. Pearce gives canto 28 as his one example of the *Purgatorio* cantos Auden announced. When the class protested, Auden cut seven cantos to five. Pearce wrote for three hours and filled five examination books.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 153–54",
+      "checked": "read in the scan of Pearce's essay, research/auden/pearce.txt: the announcement is on p. 153 and the examination on p. 154. In this scan each page number stands at the foot of its page, before the next page's heading."
+    },
+    {
+      "says": "For Auden the master of dream literature is Dante. In him, he wrote, an endless flow of images goes together with a strict structure of logic and number that settles even how many verses there are.",
+      "source": "“George MacDonald,” the introduction to *The Visionary Novels of George MacDonald* (1954), in *Forewords and Afterwords* (1973), p. 269",
+      "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 12838-12841; the scan drops punctuation"
+    },
+    {
+      "says": "Writing on Kierkegaard in 1952, Auden quoted the soul on the sixth terrace who says that he calls his suffering pain and ought to call it solace (canto 23, lines 70 to 72). The lines, he wrote, state the paradox of the place suffering has in Christianity: its message is in the end good news, and to a man’s self-love it is at first the worst of news.",
+      "source": "“Søren Kierkegaard,” the introduction to *The Living Thoughts of Kierkegaard* (1952), in *Forewords and Afterwords* (1973), p. 169",
+      "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 8086-8099, and again by the examiner on 2026-10-03. The page carries no printed number in the scan; the contents list puts the start of the essay at p. 168 and the quotation is on its second page, so p. 169. Auden names the soul: Forese"
+    }
+  ],
+  "next": "dante-temple/pur-15:13",
+  "sources": [
+    "The text printed here: Dante Alighieri, *La Divina Commedia*, [the Italian](#/read/dante-italian) from Project Gutenberg, no. 1012, and beside it [the prose translation of the Temple Classics](#/read/dante-temple) (London: J. M. Dent), whose *Purgatorio* is Thomas Okey’s (1901, in the printing of 1904). The Modern Library reprinted that translation in 1932, and its volume is the edition named on Auden’s list for the course. The Temple Classics volume prints its own Italian opposite the prose, and after each canto the notes of its editor, Hermann Oelsner.",
+    "[The translation of Henry Wadsworth Longfellow](#/read/dante-longfellow) (1867), from Project Gutenberg, no. 1004, for the words set against Okey’s.",
+    "W. H. Auden, *The Dyer’s Hand* (1962): “Balaam and His Ass,” pp. 130–31 and 139; “Brothers & Others,” p. 230.",
+    "W. H. Auden, *Forewords and Afterwords* (1973): “Søren Kierkegaard,” p. 169; “George MacDonald,” p. 269.",
+    "W. H. Auden, *New Year Letter* (London: Faber, 1941): the note that quotes *Purgatorio* 17, which stands just before the note to line 1432, and the note to line 1705. Not seen in full. The lines on Dante in Part I of the poem: *The Collected Poetry of W. H. Auden* (New York: Random House, 1945), pp. 269–70.",
+    "W. H. Auden, “Eros and Agape,” *The Nation*, 28 June 1941, in his *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 137–40. Not seen in full.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 153–54: a student’s account of the examination of 1941.",
+    "Commentaries on the *Purgatorio* at the Dartmouth Dante Project (dante.dartmouth.edu), in their notes on the lines shown and on the first line of Canto 29: Cristoforo Landino (1481), Hermann Oelsner (1899), C. H. Grandgent (1909–13), Natalino Sapegno (1955–57), Charles S. Singleton (1970–75), Umberto Bosco and Giovanni Reggio (1979), Anna Maria Chiavacci Leonardi (1991–97) and Robert Hollander (2000–07).",
+    "*Enciclopedia Dantesca* (Rome: Istituto della Enciclopedia Italiana, 1970), at treccani.it, under *lucido*, *rendere*, *valore*, *carità*, *intendere*, *errore*, *errare*, *obietto*, *solo*, *primavera*, *Matelda* and *Cavalcanti, Guido*.",
+    "Treccani, *Vocabolario on line*, under *lucido*, *quanto*, *quantunque*, *carità*, *valore*, *rendere*, *intendere*, *errare*, *obietto*, *oggetto*, *sementa*, *primavera*, *disviare*, *rimembrare*, *terzina*, *endecasillabo*, *sinalefe* and *dialefe*. Claudio Ciociola, “endecasillabo,” in *Enciclopedia dell’Italiano* (Rome: Istituto della Enciclopedia Italiana, 2010), at treccani.it.",
+    "Lewis and Short, *A Latin Dictionary* (1879), at the Perseus Digital Library, under *caritas*, *error*, *erro*, *animus*, *sementis* and *poena*.",
+    "*A New English Dictionary on Historical Principles*, vol. VII (Oxford: Clarendon Press, 1909), under Plutonian.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu), under *simile*, *antithesis*, *zeugma* and *prozeugma*.",
+    "Guido Cavalcanti, “In un boschetto trova’ pasturella,” in *The Oxford Book of Italian Verse*, edited by St. John Lucas (Oxford: Clarendon Press, 1910), p. 74, on Italian Wikisource. Dante, *Vita nuova*, chapter III, on Italian Wikisource. Ovid, *Metamorphoses* 5.385–401, at The Latin Library.",
+    "The counts on this page were made on the Italian printed here: the cantos and lines of the poem, the middle line, and the word *più* in Canto 15."
+  ],
+  "caveats": [
+    "Auden’s two notes in *New Year Letter* and his review of 1941 were read here only in extracts from scanned copies, not in full.",
+    "The examination is known from one student’s memoir, Donald Pearce’s. He names Canto 28 among the cantos Auden first announced, and does not say which five were kept. Other students remembered six cantos.",
+    "The verb *s’intende* in the first passage is read three ways: comprehend each other (Okey), aspire (Longfellow) and love (the *Enciclopedia Dantesca* and several commentators). Auden’s remark on love and understanding matches Okey’s wording.",
+    "In the second passage the Italian printed here has too much before too little. The Temple Classics edition, whose prose Auden set, prints its Italian with too little first, and so does Auden when he quotes the lines.",
+    "The second passage leaves out lines 97 to 102 of its canto, and the third leaves out lines 43 to 48. The stresses marked in the third are one reader’s count by the rules of Italian verse; in two of its lines a syllable could fairly be marked otherwise."
+  ],
+  "open": [
+    "Auden's two notes in New Year Letter and his review “Eros and Agape” were seen by the examiner only in search snippets of the scanned books at archive.org (newyearletter0000aude; prosetravelbooks0000aude), not in full. The page numbers of the two notes in the Faber edition were not seen. The review does not end on the sentence that quotes the seed line, as the poet had it; the reading now says near the end.",
+    "The Dyer's Hand, p. 230: the working scan drops the last word of the sentence that brings in the lines from canto 15. A search snippet of the 1962 copy at archive.org (dyershandotheres0000aude) gives the sentence whole: love and understanding breed love and understanding. Settled.",
+    "The verb s'intende at canto 15, line 73: the examiner read the commentaries at the Dartmouth Dante Project. Grandgent, Sapegno and Chiavacci Leonardi read it as love; Chiavacci Leonardi also reports a variant, s'incende, in some old manuscripts. Settled, and a caveat tells the reader of the three readings.",
+    "Canto 17, line 96: the Italian of the Temple Classics volume (fourth edition, 1904, read in the scan at archive.org) has too little before too much, with senza and obbietto, as Auden prints the lines in The Dyer's Hand, and Okey's prose follows it. The hosted Italian has too much first. Settled, and a caveat tells the reader.",
+    "The hosted Temple text marks cantos 15, 17 and 18 as not yet read through against the scans. The examiner compared the prose shown beside all three passages with the scan of the 1904 printing at archive.org (purgatorioofdant00dant_0), and it agrees word for word; the scan differs only by marginal headings and one line-end hyphen.",
+    "Cavalcanti's song was read at Italian Wikisource in the text of The Oxford Book of Italian Verse (1910), p. 74. Singleton and Chiavacci Leonardi name the song at canto 28, line 40, and five commentaries name it at canto 29, line 1, so the match no longer rests on the poet's own comparison.",
+    "The page of Forewords and Afterwords that quotes canto 23 carries no printed number in the scan. The contents list puts the start of the essay at p. 168 and the quotation is on its second page, so p. 169 stands.",
+    "Pearce gives canto 28 as an example of the Purgatorio cantos in the examination as Auden first announced it, with seven cantos. He does not say which five were kept. Other members of the class remembered six cantos; the accounts are set side by side in the research notes, remake/research/A_michigan_course.md, section 3.1.",
+    "Robert Hollander's note on canto 17, lines 124-125, numbers them 7116 and 7117 and puts the midpoint of the poem between them. By the count made here (poet, artist and examiner agree) line 125 is the 7,117th of 14,233, with 7,116 lines on each side of it. The reading keeps line 125.",
+    "The second and third passages each leave out six lines (17.97-102; 28.43-48). The kit now sets three small points in both columns where the lines are left out (seen by the finisher in the pictures of 2026-10-03), and the fifth caveat says which lines. Settled.",
+    "Bosco and Reggio call the last line of the third passage a chiasmus. Its grammar does not cross (subject and object, then subject and object), so the reading keeps zeugma, which fits the definition in Silva Rhetoricae.",
+    "The finisher (2026-10-03) could not open Ovid’s text: the permission system refused the fetch, and no other way was tried. The sentence of the myth added to the Figure caption of the third passage, and the one in the note on the verb for remembering, stand on H. Oelsner’s note on lines 49-51 in the Temple Classics volume (the scan kept in the project) and on A New English Dictionary under Plutonian, not on Ovid’s own lines.",
+    "The lady of the third passage is named once in the poem, at canto 33, line 119. The Italian printed here has Matelda and Okey’s prose has Matilda; the Sentence caption gives the Italian form.",
+    "The facts of the Mountain tab give the name of the fourth terrace’s sin in its plain spelling; at canto 18, line 132, the Italian printed here sets a diaeresis on the i.",
+    "By count of lines cantos 14 to 20 read the same from both ends (151, 145, 145, 139, 145, 145, 151). The same test over the whole poem finds one other run of seven, Purgatorio 3 to 9 (145, 139, 136, 151, 136, 139, 145). The Mountain caption states the count and claims no design."
+  ]
+}

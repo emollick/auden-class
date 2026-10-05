@@ -1,0 +1,1524 @@
+{
+  "piece": "dante-inferno",
+  "title": "Three voices in Hell",
+  "where": "*Inferno*, Cantos 3, 5 and 26",
+  "about": "Dante tells the poem as his own journey. Lost in a dark wood halfway through his life, he is led down through Hell by the shade of the Roman poet Virgil. At the entrance he reads the writing over the gate. In the second circle Francesca, killed with her lover by her husband, tells him that love led them to one death. Far lower, the Greek hero Ulysses, speaking from inside a flame, tells how a short speech sent his old crew on a last voyage.",
+  "view": {
+    "says": "Auden cited the writing over Hell’s gate when he explained the wrath of God. That phrase, he wrote, describes no mood in God. It tells what God is like to a person if he twists or denies his tie to God. So Dante, he said, wrote over Hell that Power, Wisdom and Love made it. He added, crediting Landor, that the people of the *Inferno* have no wish to leave.",
+    "quote": "the way in which I experience God if I distort or deny my relation to him",
+    "source": "Introduction to *The Living Thoughts of Kierkegaard* (1952), reprinted as “Søren Kierkegaard” in *Forewords and Afterwords* (1973), p. 176",
+    "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 8435-8440, and read again on 2026-10-03; in this scan the page number stands at the foot of its page"
+  },
+  "plates": [
+    {
+      "id": "gate",
+      "heading": "The writing over the gate: lines 1 to 12",
+      "label": "Dante",
+      "text": "dante-italian/inf-03",
+      "rows": [
+        "0.0-3.2"
+      ],
+      "pair": {
+        "label": "Longfellow, 1867",
+        "text": "dante-longfellow/inf-03",
+        "rows": [
+          "0.0-3.2"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "0.0": "a",
+            "0.1": "b",
+            "0.2": "a",
+            "1.0": "b",
+            "1.1": "c",
+            "1.2": "b",
+            "2.0": "c",
+            "2.1": "d",
+            "2.2": "c",
+            "3.0": "d",
+            "3.1": "e",
+            "3.2": "d"
+          },
+          "tails": {
+            "0.0": 4,
+            "0.1": 3,
+            "0.2": 4,
+            "1.0": 3,
+            "1.1": 3,
+            "1.2": 3,
+            "2.0": 3,
+            "2.1": 3,
+            "2.2": 3,
+            "3.0": 3,
+            "3.1": 4,
+            "3.2": 3
+          },
+          "why": "The chain of rhyme hands each middle sound on: here it rhymes pain, maker and love, and the rhyme the gate leaves open is completed after it; to an Italian, Auden wrote, parting Dante’s matter from this form is unthinkable.",
+          "caption": "Letters mark the rhymes. In each group of three the first and third lines rhyme, and the middle one sets the rhyme of the next. Dante devised this chain, <i>terza rima</i>, for the poem and built it on the number three, which his prose ties to the Trinity. To an Italian, Auden wrote, parting what Dante says from this form is unthinkable. Here the second rhyme joins <b>dolore</b>, pain, <b>fattore</b>, maker, and <b>amore</b>, love: what the gate leads to, and who made it. The chain keeps every group open to the next: when the writing ends, <b>duro</b>, <i>I last</i>, has no rhyme yet, and the next three supply <b>oscuro</b>, dark, and <b>duro</b> again.",
+          "grounds": [
+            {
+              "claim": "which line ends rhyme; the middle sound of each three is taken up by the next three; the three words on the second rhyme; duro, in the gate’s eighth line, is answered in the tenth and the twelfth",
+              "kind": "plate"
+            },
+            {
+              "claim": "Dante devised this chained form for the poem, most likely from the stanza of the serventese; its whole arrangement rests on the number three: three lines to a group, each rhyme three times",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “terzina” (Ignazio Baldelli), sections 1 and 2; Paull F. Baum, The Principles of English Versification (1922), end of chapter 4: terza rima is the meter of the Divine Comedy, riming aba, bcb, cdc"
+            },
+            {
+              "claim": "in Dante’s own prose three is the number of the Father, the Son and the Holy Spirit",
+              "kind": "source",
+              "source": "Vita Nuova 29.3, as quoted in Enciclopedia Dantesca (1970), read at treccani.it, “terzina,” section 1, and “fattore”"
+            },
+            {
+              "claim": "the unbroken chaining of the rhymes keeps each group of three open as well as closed",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “terzina,” section 6"
+            },
+            {
+              "claim": "Auden wrote that to an Italian it is unthinkable to part what Dante says from the terza rima it is said in",
+              "kind": "auden",
+              "source": "“The Essence of Dante,” The New York Times Book Review, 29 June 1947, in Prose, vol. 2, 1939–1948, edited by Edward Mendelson (2002), p. 324"
+            },
+            {
+              "claim": "the writing says that through the gate is the way into eternal pain, that justice moved its maker, and that power, wisdom and the first love made it",
+              "kind": "text",
+              "source": "rows 0.1 and 1.0 to 1.2"
+            },
+            {
+              "claim": "the gate’s writing is the first nine lines of the canto; the last middle sound on the plate, at porta, is taken up at lines 13 and 15",
+              "kind": "text",
+              "source": "rows 0.0 to 2.2 for the writing and 3.0 to 3.2 for the three lines after it; Inferno 3.13 and 3.15 in the hosted Italian text"
+            }
+          ],
+          "stands": "The rhyme letters marked on the passage, and what its lines say; its last open sound, at *porta*, returns in [the next three lines](#/read/dante-italian/inf-03:4). The *Enciclopedia Dantesca* under *terzina*: Dante devised the chain, built it on three, and kept each group open to the next; it quotes his *Vita Nuova* on three and the Trinity. Baum, *Principles of English Versification*, chapter 4. Auden: *Prose*, vol. II, p. 324."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "anaphora",
+          "plain": "the same words at the head of line after line",
+          "draw": "align",
+          "parts": [
+            {
+              "row": "0.0",
+              "w": [
+                0,
+                3
+              ],
+              "tag": "A",
+              "label": "the same words"
+            },
+            {
+              "row": "0.1",
+              "w": [
+                0,
+                3
+              ],
+              "tag": "A",
+              "label": "the same words"
+            },
+            {
+              "row": "0.2",
+              "w": [
+                0,
+                3
+              ],
+              "tag": "A",
+              "label": "the same words"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                4,
+                7
+              ],
+              "tag": "B",
+              "label": "a city"
+            },
+            {
+              "row": "0.1",
+              "w": [
+                4,
+                6
+              ],
+              "tag": "B",
+              "label": "a pain"
+            },
+            {
+              "row": "0.2",
+              "w": [
+                4,
+                7
+              ],
+              "tag": "B",
+              "label": "a people"
+            },
+            {
+              "row": "2.2",
+              "w": [
+                3,
+                4
+              ],
+              "tag": "C",
+              "label": "you who enter"
+            }
+          ],
+          "why": "The threefold opening belongs to the poem’s grave style of pronouncement and says three times where the way leads.",
+          "caption": "Three lines begin with the same words, <b>Per me si va</b>: <i>through me is the way</i>. Beginning line after line alike is called anaphora, and it belongs to the poem’s grave style of pronouncement. Each line changes only where the way leads: into the sorrowing city, into eternal pain, among the lost people. The <i>me</i> is a gate. Medieval city gates carried verse inscriptions, and this writing is made in their likeness. In the writing only the ninth line turns to anyone: <b>voi ch’intrate</b>, you who enter.",
+          "grounds": [
+            {
+              "claim": "three lines begin with the same four words and differ in what follows; only the ninth line of the writing addresses anyone (so too Chiavacci Leonardi’s note on Inferno 3.9); the canto says in the next two lines that the words stand over a gate",
+              "kind": "plate"
+            },
+            {
+              "claim": "the sense of the opening words",
+              "kind": "source",
+              "source": "the hosted Temple Classics prose (Carlyle), Inferno 3, first sentence, and Longfellow’s line on the plate"
+            },
+            {
+              "claim": "anaphora is the same word or words at the start of successive clauses or lines",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under anaphora; Enciclopedia Dantesca (1970), read at treccani.it, “anafora” (Francesco Tateo)"
+            },
+            {
+              "claim": "in the Comedy anaphora is above all a part of the grave style of pronouncement, and this threefold opening is the example given",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “anafora”"
+            },
+            {
+              "claim": "the gates of medieval cities carried inscriptions in verse, and these nine lines are made in their likeness and sound as a warning to whoever enters (Chiavacci Leonardi); many cities of Dante’s time bore an inscription over the gate, and such inscriptions spoke to the one who entered (Bosco and Reggio); the gate speaks in the first person (Bosco and Reggio; Chiavacci Leonardi on 3.1)",
+              "kind": "source",
+              "source": "the notes of Chiavacci Leonardi on Inferno 3.1-9 and 3.1 and of Bosco and Reggio on 3.1-15 and 3.1-9, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "claim": "the way leads into the sorrowing city, into eternal pain and among the lost people",
+              "kind": "text",
+              "source": "rows 0.0 to 0.2; for dolente, Enciclopedia Dantesca (1970), read at treccani.it, “dolente”"
+            }
+          ],
+          "stands": "The marks on the passage and what its lines say; the English of the opening words is Carlyle’s prose. Anaphora as *Silva Rhetoricae* defines it; the *Enciclopedia Dantesca* under *anafora* gives this opening as its example of the poem’s grave style. The verses over city gates: the notes of Bosco and Reggio and of Chiavacci Leonardi on these lines, at the Dartmouth Dante Project."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "1.1",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "power · the Father",
+              "note": "In his own prose Dante assigns power, wisdom and love to the Father, the Son and the Holy Spirit.",
+              "source": "Singleton’s note on Inferno 3.5-6, citing Dante’s Convivio 2.5.8, and the notes of Bosco and Reggio on 3.5 and Chiavacci Leonardi on 3.5-6, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "row": "1.2",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "wisdom · the Son",
+              "source": "Singleton’s note on Inferno 3.5-6, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "row": "1.2",
+              "w": [
+                5,
+                6
+              ],
+              "gloss": "first love · the Spirit",
+              "source": "Singleton’s note on Inferno 3.5-6, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "row": "2.1",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "forever",
+              "note": "The third *eternal* of the nine lines. Here the word works as an adverb: I last forever.",
+              "source": "Singleton’s note on Inferno 3.8 and Bosco and Reggio’s on 3.7-8, read at the Dartmouth Dante Project (dante.dartmouth.edu); the three are at rows 0.1 and 2.1"
+            },
+            {
+              "row": "2.1",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "I last",
+              "note": "From Latin *durare*, to make hard, to hold out, to last. That verb comes from *durus*, hard.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “durare,” which cites this line; Lewis and Short, A Latin Dictionary, under duro, at the Perseus Digital Library"
+            },
+            {
+              "row": "2.2",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "leave",
+              "note": "Five lines on, Virgil uses the same verb: here all distrust must be left.",
+              "source": "Inferno 3.14 in the hosted Italian text and in the hosted Temple Classics prose; Enciclopedia Dantesca (1970), read at treccani.it, “lasciare,” which gives lines 9 and 14 together under the sense of abandoning"
+            },
+            {
+              "row": "3.0",
+              "w": [
+                3,
+                4
+              ],
+              "gloss": "dark color",
+              "note": "Most readers take it as black letters. Others take it as dark, threatening words.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “oscuro”; Bosco and Reggio’s note on Inferno 3.10-11, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "row": "3.2",
+              "w": [
+                7,
+                7
+              ],
+              "gloss": "hard",
+              "note": "Hard to understand, or hard to bear: readers have long been divided. In the Latin Gospel many of the disciples call a teaching of Christ *durus*, hard.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “duro”; the notes of Singleton and Chiavacci Leonardi on Inferno 3.12, read at the Dartmouth Dante Project (dante.dartmouth.edu); the Latin Vulgate, John 6:61, at the Perseus Digital Library"
+            }
+          ],
+          "why": "The gate names its maker by the established attributes of the Trinity, in the lines Auden quoted to explain the wrath of God; and the traveler then uses the gate’s own word, duro, in a second sense.",
+          "caption": "The fifth and sixth lines name the gate’s maker as the three persons of God, each by its established attribute: <b>podestate</b>, power, the Father; <b>sapïenza</b>, wisdom, the Son; <b>primo amore</b>, first love, the Spirit. Auden quoted them to explain the wrath of God: what God is like to a person if he twists or denies his tie to God. On the gate <b>duro</b> is a verb, <i>I last</i>, from the Latin for <i>hard</i>. Four lines later the traveler calls the writing’s sense <b>duro</b>, hard. The two rhyme. A rhyme of one form in two senses sets them against each other: the gate lasts, and its meaning is hard to him.",
+          "grounds": [
+            {
+              "claim": "power, wisdom and first love are the established attributes of the Father, the Son and the Holy Spirit",
+              "kind": "source",
+              "source": "Singleton’s note on Inferno 3.5-6, citing Convivio 2.5.8; the notes of Bosco and Reggio on 3.5 and Chiavacci Leonardi on 3.5-6; read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "claim": "Auden quotes the gate’s fifth and sixth lines to explain the wrath of God",
+              "kind": "auden",
+              "source": "Introduction to The Living Thoughts of Kierkegaard (1952), reprinted as “Søren Kierkegaard” in Forewords and Afterwords (1973), p. 176"
+            },
+            {
+              "claim": "duro on the gate is the verb durare, to last, from Latin duro (to make hard, to hold out, to last), from durus, hard",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “durare,” which cites this line; Lewis and Short, A Latin Dictionary, under duro, at the Perseus Digital Library"
+            },
+            {
+              "claim": "the traveler’s word, four lines later, is the same form as an adjective, and rhymes with it",
+              "kind": "plate"
+            },
+            {
+              "claim": "the traveler’s duro means hard, whether hard to understand or hard to bear",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “duro”; the notes of Singleton and Chiavacci Leonardi on Inferno 3.12, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "claim": "an equivocal rhyme sets two senses of one form against each other, and this pair is one of the examples listed",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “rima” (Ignazio Baldelli), section 2.6"
+            },
+            {
+              "claim": "the gate says of itself that it lasts; the traveler says the sense is hard to him",
+              "kind": "text",
+              "source": "rows 2.1 and 3.2"
+            }
+          ],
+          "stands": "The words marked on the passage and what its lines say. The attributes of the Trinity: the notes of Singleton, of Bosco and Reggio and of Chiavacci Leonardi on lines 5 and 6. The two senses of *duro*, and a rhyme of one form in two senses: the *Enciclopedia Dantesca* under *durare*, *duro* and *rima*; Lewis and Short under *duro*. Auden: *Forewords and Afterwords*, p. 176."
+        },
+        {
+          "kind": "compare",
+          "label": "Compare",
+          "ties": [
+            {
+              "a": [
+                "0.0",
+                7,
+                7
+              ],
+              "b": [
+                "p:0.0",
+                8,
+                8
+              ],
+              "say": "*Dolent* is an archaic English word for sorrowful, from the same Latin root."
+            },
+            {
+              "a": [
+                "0.1",
+                6,
+                6
+              ],
+              "b": [
+                "p:0.1",
+                7,
+                7
+              ],
+              "say": "*Dole* is an old word for grief, from the same root. In his note Longfellow hears a funeral bell tolling in the two Italian line ends."
+            },
+            {
+              "a": [
+                "2.2",
+                0,
+                2
+              ],
+              "b": [
+                "p:2.2",
+                0,
+                2
+              ],
+              "say": "Dante’s line begins with the command, *leave*. Longfellow’s begins with what is to be left."
+            },
+            {
+              "a": [
+                "2.1",
+                6,
+                6
+              ],
+              "b": [
+                "p:2.1",
+                5,
+                5
+              ],
+              "say": "The gate’s *duro*: I last."
+            },
+            {
+              "a": [
+                "3.2",
+                7,
+                7
+              ],
+              "b": [
+                "p:3.2",
+                6,
+                6
+              ],
+              "say": "The traveler’s *duro*: hard."
+            }
+          ],
+          "why": "Longfellow gave up rhyme to keep fidelity, as his journal says: each line keeps its place and the chain is lost; Auden wrote that an English Dante, in prose or in Dante’s rhyme, loses something either way.",
+          "caption": "Longfellow’s version of 1867 gives each of Dante’s lines one English line, in nearly the same word order. It does not rhyme. In translating Dante, he wrote in his journal, something must be given up, and it must be the rhyme, to keep what he valued more: fidelity. Auden in 1947 weighed an English Dante in prose against one in Dante’s rhyme. English has few rhymes, he wrote, so even the best attempt to keep the form is driven to a falsely poetic choice and order of words. Either way, he said, something is lost. Here the chain is absent, and Dante’s one word <b>duro</b> becomes <b>last</b> and <b>hard</b>.",
+          "grounds": [
+            {
+              "claim": "one English line to each Italian line, in nearly the same order (the words for I beheld move up from the eleventh line to the tenth, and the ninth line puts what is left before the command); no rhyme among the twelve English line ends; dolent and dole; last and hard",
+              "kind": "plate"
+            },
+            {
+              "claim": "Longfellow wrote that in translating Dante something must be given up, and that it must be the rhyme, to keep fidelity",
+              "kind": "source",
+              "source": "his journal for 7 May 1864, in Samuel Longfellow, Life of Henry Wadsworth Longfellow, with Extracts from His Journals and Correspondence, vol. 3 (Boston: Houghton, Mifflin, 1891; vol. 14 of the Works), read in the archive.org scan, p. 35"
+            },
+            {
+              "claim": "he tried to make the version rhythmic and also as close to the letter as a translation in prose",
+              "kind": "source",
+              "source": "his letter to Robert Ferguson, 8 May 1867, in Samuel Longfellow, Life of Henry Wadsworth Longfellow, with Extracts from His Journals and Correspondence, vol. 3 (Boston: Houghton, Mifflin, 1891; vol. 14 of the Works), read in the archive.org scan, p. 88"
+            },
+            {
+              "claim": "Auden, setting a prose translation against verse that keeps Dante’s form, wrote that the scarcity of rhymes in English forces a falsely poetic wording and order of words on even the best such attempt, and that something is lost either way",
+              "kind": "auden",
+              "source": "“The Essence of Dante,” The New York Times Book Review, 29 June 1947, in Prose, vol. 2, 1939–1948, edited by Edward Mendelson (2002), p. 324"
+            },
+            {
+              "claim": "his note on the first line says the canto opens on repeated sounds that toll like a funeral bell, and gives dolente and dolore",
+              "kind": "source",
+              "source": "Longfellow’s note on Inferno 3.1 (1867), read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "claim": "dolent (sorrowful) and dole (grief) are old English words from Latin dolere, now marked archaic",
+              "kind": "source",
+              "source": "Wiktionary, under dolent and dole; Online Etymology Dictionary, under doleful (for Middle English dole)"
+            }
+          ],
+          "stands": "The two versions read line against line, and the words tied between them. Longfellow’s reasons are his own: his journal for 7 May 1864 and a letter of 8 May 1867, in Samuel Longfellow’s *Life* of him, vol. 3, pp. 35 and 88, and his note on the first line of the canto. *Dolent* and *dole*: Wiktionary; the Online Etymology Dictionary under *doleful*. Auden: *Prose*, vol. II, p. 324."
+        }
+      ]
+    },
+    {
+      "id": "francesca",
+      "heading": "Francesca’s three sentences: lines 100 to 108",
+      "turn": { "33.0": 4 },
+      "label": "Dante",
+      "text": "dante-italian/inf-05",
+      "rows": [
+        "33.0-35.2"
+      ],
+      "pair": {
+        "label": "Longfellow, 1867",
+        "text": "dante-longfellow/inf-05",
+        "rows": [
+          "33.0-35.2"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "33.0",
+                0
+              ],
+              "to": [
+                "33.0",
+                0
+              ],
+              "tag": "love",
+              "label": "the subject: Love"
+            },
+            {
+              "from": [
+                "33.0",
+                1
+              ],
+              "to": [
+                "33.0",
+                5
+              ],
+              "tag": "law",
+              "label": "a law, in the present"
+            },
+            {
+              "from": [
+                "33.1",
+                0
+              ],
+              "to": [
+                "33.1",
+                1
+              ],
+              "tag": "act",
+              "label": "one act, in the past"
+            },
+            {
+              "from": [
+                "33.1",
+                1
+              ],
+              "to": [
+                "33.1",
+                1
+              ],
+              "tag": "object",
+              "label": "the lovers: him, me, us"
+            },
+            {
+              "from": [
+                "33.2",
+                4
+              ],
+              "to": [
+                "33.2",
+                8
+              ],
+              "tag": "still",
+              "label": "what still holds"
+            },
+            {
+              "from": [
+                "34.0",
+                0
+              ],
+              "to": [
+                "34.0",
+                0
+              ],
+              "tag": "love",
+              "label": "the subject: Love"
+            },
+            {
+              "from": [
+                "34.0",
+                1
+              ],
+              "to": [
+                "34.0",
+                5
+              ],
+              "tag": "law",
+              "label": "a law, in the present"
+            },
+            {
+              "from": [
+                "34.1",
+                0
+              ],
+              "to": [
+                "34.1",
+                1
+              ],
+              "tag": "act",
+              "label": "one act, in the past"
+            },
+            {
+              "from": [
+                "34.1",
+                0
+              ],
+              "to": [
+                "34.1",
+                0
+              ],
+              "tag": "object",
+              "label": "the lovers: him, me, us"
+            },
+            {
+              "from": [
+                "34.2",
+                3
+              ],
+              "to": [
+                "34.2",
+                5
+              ],
+              "tag": "still",
+              "label": "what still holds"
+            },
+            {
+              "from": [
+                "35.0",
+                0
+              ],
+              "to": [
+                "35.0",
+                0
+              ],
+              "tag": "love",
+              "label": "the subject: Love"
+            },
+            {
+              "from": [
+                "35.0",
+                1
+              ],
+              "to": [
+                "35.0",
+                5
+              ],
+              "tag": "act",
+              "label": "one act, in the past"
+            },
+            {
+              "from": [
+                "35.0",
+                2
+              ],
+              "to": [
+                "35.0",
+                2
+              ],
+              "tag": "object",
+              "label": "the lovers: him, me, us"
+            }
+          ],
+          "why": "Each sentence names Love first, as the cause, and leaves the lovers as its objects; twice she adds what still holds, and Auden repeated a remark that the people of the Inferno have no wish to leave.",
+          "caption": "Francesca makes three sentences on one frame, each with <b>Amor</b>, Love, as its subject. The first two add a law in the present and an act in the past: love seized <b>costui</b>, this man; love seized <b>mi</b>, me. The third is one line: love led <b>noi</b>, us, to one death. One use of such repeating, a handbook of 1593 says, is to put the cause before each effect. In her eight lines here no verb has <i>I</i> or <i>we</i> as subject. Twice she adds what still holds, with <b>ancor</b>, still; the second time it is the love. Explaining the wrath of God, Auden repeated a remark he credited to Landor: the people of the <i>Inferno</i> have no wish to leave.",
+          "grounds": [
+            {
+              "claim": "three sentences begin with Amor as subject; the first two add a clause in the present and a verb in the past; the lovers appear as costui, mi, noi and ci, objects of the verbs; ancor comes twice",
+              "kind": "plate"
+            },
+            {
+              "claim": "in the eight lines of her speech on the plate no verb has I or we as subject: the subjects are Love (six verbs), the fair body that was taken, the manner, you (the traveler), Caina and the one who killed them",
+              "kind": "text",
+              "source": "rows 33.0 to 35.1, counted verb by verb"
+            },
+            {
+              "claim": "the chief use of a word repeated at the head of successive clauses is to repeat a word of importance, as when the cause is repeated before each of its effects",
+              "kind": "source",
+              "source": "Henry Peacham, The Garden of Eloquence (1593), read at the Perseus Digital Library, under Epanaphora, “The use of this figure”"
+            },
+            {
+              "claim": "the threefold Amor at the head of three groups of lines is an example of the poem’s grave style; Francesca is recalling the doctrine of love",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “anafora” (Francesco Tateo)"
+            },
+            {
+              "claim": "the two statements in the present are laws of love (Singleton’s word), the three groups of lines share one build of sentence (Bosco and Reggio), and the build lays what happened on Love as a force: she is excusing herself and Paolo, since nobody can resist Love (Singleton), her account tends to move the responsibility from herself to Love (Bosco and Reggio), and she puts the blame on Love (Hollander)",
+              "kind": "source",
+              "source": "the notes of Singleton on Inferno 5.100-108, of Bosco and Reggio on 5.100-107 and of Hollander on 5.100-106, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "claim": "she says the manner still offends her and that the love still does not leave her",
+              "kind": "text",
+              "source": "rows 33.2 and 34.2; for Love as the subject of the second, Bosco and Reggio’s note on Inferno 5.105, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "claim": "Auden repeats, and calls just, a remark he credits to Landor: those who are in the Inferno have no wish to leave it; he gives it as a remark about the Inferno, in the same sentence as the words over the gate and straight after his sentence on the wrath of God, and names no one in the poem",
+              "kind": "auden",
+              "source": "Introduction to The Living Thoughts of Kierkegaard (1952), reprinted as “Søren Kierkegaard” in Forewords and Afterwords (1973), p. 176; read again by the finisher on 2026-10-03 in the scan, research/auden/fa.txt, lines 8435 to 8440"
+            }
+          ],
+          "stands": "The marks on the passage. In the Italian of her eight lines here eleven verbs take a subject, and none is *I* or *we*. What such repeating does: an English handbook, Henry Peacham’s *The Garden of Eloquence* (1593), under *Epanaphora*; the *Enciclopedia Dantesca* under *anafora* cites these lines, and Bosco and Reggio’s note names Love as the subject in line 105, the sixth here. Auden: *Forewords and Afterwords*, p. 176."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "polyptoton",
+          "plain": "one root repeated in different forms",
+          "draw": "chain",
+          "parts": [
+            {
+              "row": "34.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "A",
+              "label": "love, the noun"
+            },
+            {
+              "row": "34.0",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "B",
+              "label": "one loved"
+            },
+            {
+              "row": "34.0",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "C",
+              "label": "to love"
+            }
+          ],
+          "why": "Three forms of one root in one line set being loved and loving side by side as near kin, as the law claims; the poem later restates the law with a condition: love kindled by virtue.",
+          "caption": "One root comes three times in a single line, each time in a new form: <b>Amor</b>, the noun, love; <b>amato</b>, one who is loved; <b>amar</b>, to love. The figure is called polyptoton. A handbook of 1593 says that words derived from one another please the ear and make the mind consider how near akin the things are. The line is Francesca’s second law: love spares no one who is loved from loving. Later in the poem Virgil says nearly the same with a condition added: love kindled by virtue has always kindled love, once its flame showed (<i>Purgatorio</i> 22, lines 10 to 12).",
+          "grounds": [
+            {
+              "claim": "one root three times in the line, as noun, participle and infinitive",
+              "kind": "plate"
+            },
+            {
+              "claim": "polyptoton is the repeating of a word in a different form, or the use of a word of the same root close by; paregmenon is the general name for repeating a word or the words akin to it in a short sentence",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under polyptoton and paregmenon"
+            },
+            {
+              "claim": "words derived one from another delight the ear and move the mind to consider the near affinity of the things; three such words are sometimes set in one sentence",
+              "kind": "source",
+              "source": "Henry Peacham, The Garden of Eloquence (1593), read at the Perseus Digital Library, under Paregmenon"
+            },
+            {
+              "claim": "the line says that love lets no one who is loved off loving in return; perdona here means spares, lets off",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “perdonare,” which explains this line"
+            },
+            {
+              "claim": "Virgil says that love kindled by virtue has always kindled other love, provided its flame showed outwardly",
+              "kind": "text",
+              "source": "Purgatorio 22.10-12 in the hosted Italian text; the two places are set side by side in Bosco and Reggio’s note on Inferno 5.103, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            }
+          ],
+          "stands": "The three words marked in the line. Polyptoton as *Silva Rhetoricae* defines it; what it does is from an English handbook, Henry Peacham’s *The Garden of Eloquence* (1593), under *Paregmenon*. The sense of the line: the *Enciclopedia Dantesca* under *perdonare*. Virgil’s words are in [*Purgatorio* 22](#/read/dante-longfellow/pur-22:3), lines 10 to 12; Bosco and Reggio’s note on this line (103 of the canto) sets the two places side by side."
+        },
+        {
+          "kind": "beat",
+          "label": "Measure",
+          "meterName": "eleven syllables: the last accent always on the tenth, and in these lines another on the sixth",
+          "scan": {
+            "33.0": {
+              "meter": "...../.../.",
+              "voice": "x/ x / x/ /x x/x",
+              "div": {
+                "5": "s’ap|pren|de,"
+              }
+            },
+            "34.0": {
+              "meter": "...../.../.",
+              "voice": "x/ x /~ x/~ x/ x/x"
+            },
+            "35.0": {
+              "meter": "...../.../.",
+              "voice": "x/ x/x / x /x /x",
+              "div": {
+                "1": "con|dus|se",
+                "5": "mor|te."
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "33.0",
+                3,
+                4
+              ],
+              "say": "Stresses meet on the sixth and seventh syllables. The second of them falls on *ratto*, at once."
+            },
+            {
+              "at": [
+                "34.0",
+                2,
+                4
+              ],
+              "say": "Seven written syllables count as five: twice a final vowel runs into the vowel that follows."
+            },
+            {
+              "at": [
+                "35.0",
+                2,
+                3
+              ],
+              "say": "Here the two vowels stay apart, which is regular after a word like *noi*. The accent on the sixth syllable falls on *noi*, us."
+            }
+          ],
+          "why": "The second and third Amor lines put an accent on every second syllable; the first breaks the run with an accent on the seventh, beside the sixth, a placing that often brings out its word: ratto, at once.",
+          "caption": "Dante’s line goes by count: eleven syllables, the last accent always on the tenth. A vowel ending one word usually runs into a vowel beginning the next, and the two count as one syllable. The three lines that begin with <b>Amor</b>, Love, are marked: the rule under each shows the count, and the dots show the voice’s stresses. In the second and third the stresses fall on every second syllable. The first keeps that run to the sixth, then stresses the seventh, right beside it. A stress so placed often brings out its word. The word is <b>ratto</b>, at once: in her first law love takes hold at once.",
+          "grounds": [
+            {
+              "claim": "the count of each line and the place of each accent: the second, fourth, sixth, seventh and tenth syllables in the first line scanned, and every second syllable, from the second to the tenth, in the other two",
+              "kind": "plate"
+            },
+            {
+              "claim": "the line is the hendecasyllable: eleven syllables with the tenth accented",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “endecasillabo” (Ignazio Baldelli), section 4"
+            },
+            {
+              "claim": "a final vowel and the vowel that begins the next word are fused into one syllable; after a falling diphthong such as noi they are regularly kept apart",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “sinalefe” and “dialefe” (Gian Luigi Beccaria)"
+            },
+            {
+              "claim": "a strong accent just before or just after a main accent often gives the line a labored intensity and brings out the word that carries it; the examples include accents after the sixth",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “endecasillabo,” section 6"
+            },
+            {
+              "claim": "ratto in this line means quickly, at once",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “ratto” (Lucia Onder), which cites this line"
+            },
+            {
+              "claim": "the first law says that love takes hold quickly in the noble heart",
+              "kind": "text",
+              "source": "row 33.0"
+            }
+          ],
+          "stands": "The marks drawn on the three lines follow the stresses of the Italian words. The rules of the line are from the *Enciclopedia Dantesca* under *endecasillabo*, *sinalefe* and *dialefe*: eleven syllables, the tenth accented; vowels that meet run together; a stress set beside a main accent often brings out its word. *Ratto* as *at once*: the same work under *ratto*, which cites this line."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "33.0",
+              "w": [
+                2,
+                3
+              ],
+              "gloss": "the noble heart",
+              "note": "A phrase of the love poets. Guido Guinizzelli’s song begins with love coming home to the noble heart, and Dante cites that line in his own prose.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “gentile”; Guinizzelli, Al cor gentil rempaira sempre amore, on Italian Wikisource"
+            },
+            {
+              "row": "33.0",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "at once",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “ratto,” which cites this line"
+            },
+            {
+              "row": "33.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "takes hold",
+              "note": "Guinizzelli’s verb. In his song the fire of love takes hold in the noble heart.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “apprendere,” which quotes Guinizzelli’s line and names Dante’s sonnet; Guinizzelli, Al cor gentil, on Italian Wikisource"
+            },
+            {
+              "row": "33.1",
+              "w": [
+                4,
+                5
+              ],
+              "gloss": "fair body",
+              "note": "*Persona* here is the body. The word was a mark of the chivalric and sensual idea of love and beauty.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “persona,” which cites this line"
+            },
+            {
+              "row": "33.2",
+              "w": [
+                7,
+                7
+              ],
+              "gloss": "still",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “ancora” (Freya Anceschi), sense 1, even now, still, which lists this line"
+            },
+            {
+              "row": "34.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "spares, lets off",
+              "note": "The verb’s only use in the *Inferno*. The sense is that of sparing a life.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “perdonare”"
+            },
+            {
+              "row": "34.1",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "charm, beauty",
+              "source": "the notes of Singleton and Chiavacci Leonardi on Inferno 5.104, read at the Dartmouth Dante Project (dante.dartmouth.edu); Enciclopedia Dantesca (1970), read at treccani.it, “piacere”"
+            },
+            {
+              "row": "34.2",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "still",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “ancora” (Freya Anceschi), sense 1, even now, still, which lists this line"
+            },
+            {
+              "row": "35.1",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "Cain’s place",
+              "note": "Named for Cain: the first zone of the lowest circle, for those who betrayed their kin. Her husband killed his wife and his own brother. The poem reaches the place in canto 32.",
+              "source": "Inferno 32.58 in the hosted text; Singleton’s note on 32.58 and Grandgent’s on 5.107, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "row": "35.1",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "put out",
+              "note": "In its proper sense the verb is used of flames. From the image of life as a flame it comes to mean kill.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “spegnere,” which cites this line"
+            }
+          ],
+          "why": "Francesca states her law in the love poets’ own words, Guinizzelli’s and the young Dante’s; Auden found a warning in her story, and the poem’s later account of love, which he quoted, is that the mind’s love can err.",
+          "caption": "Francesca’s first law is the doctrine of the love poets, in their words. <b>Cor gentil</b>, the noble heart, opens Guinizzelli’s song on love, and <b>s’apprende</b>, takes hold, is his verb for love’s fire. An early sonnet of Dante’s says love and the noble heart are one. Auden said in a lecture that Romeo and Juliet do not tell romance from love, and ended by quoting this scene: her story, he said, holds a warning. Elsewhere he quoted the poem’s later account, from <i>Purgatorio</i> 17, as Dante’s view: natural love cannot err, and the mind’s love can. The canto has said that those punished here put reason under desire.",
+          "grounds": [
+            {
+              "claim": "cor gentil is the phrase of Guinizzelli’s opening line, which Dante cites in the Convivio; s’apprende is the verb of Guinizzelli’s line on the fire of love",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “gentile” and “apprendere”; Guinizzelli, Al cor gentil rempaira sempre amore, on Italian Wikisource"
+            },
+            {
+              "claim": "Dante’s sonnet in the Vita Nuova says that love and the noble heart are one thing, and names Guinizzelli’s song as its authority",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “Amore e ’l cor gentil sono una cosa”"
+            },
+            {
+              "claim": "in these lines Francesca is recalling the doctrine of love",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “anafora”"
+            },
+            {
+              "claim": "in his lecture on Romeo and Juliet, as rebuilt from students’ notes, Auden says that those two do not tell romance from love, then that the tale of Paolo and Francesca holds a warning which ought to be heeded, and ends the lecture with the scene in the Carlyle and Wicksteed prose, the lines of this passage among it",
+              "kind": "auden",
+              "source": "Lecture on Romeo and Juliet, 6 November 1946, in Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch from students’ notes (2000), p. 51; the quotation of the canto runs on to p. 52"
+            },
+            {
+              "claim": "Auden quotes Purgatorio 17 as what Dante holds, the reverse of the view he finds in The Tempest: natural love never errs, and the other love can err through a bad object, or through too little force or too much",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), pp. 130–31"
+            },
+            {
+              "claim": "the other love is the love of the mind: line 93 names the two loves, natural and of the mind, and lines 94 to 96, the three Auden quotes, say which can err",
+              "kind": "text",
+              "source": "Purgatorio 17.91-96 in the hosted Italian text"
+            },
+            {
+              "claim": "the carnal sinners of this circle are those who put reason under desire",
+              "kind": "text",
+              "source": "Inferno 5.37-39 in the hosted Italian text"
+            }
+          ],
+          "stands": "The glosses: the *Enciclopedia Dantesca* under each word; for *piacer* and *Caina*, notes of Singleton, Grandgent and Chiavacci Leonardi. Guinizzelli’s song is on Italian Wikisource; Dante’s sonnet, in the *Enciclopedia Dantesca* under its first line. Auden: *Lectures on Shakespeare*, p. 51, from students’ notes; *The Dyer’s Hand*, pp. 130–31, quoting [*Purgatorio* 17](#/read/dante-longfellow/pur-17:30), lines 94 to 96 (the mind’s love: line 93). Who is punished: [Canto 5](#/read/dante-longfellow/inf-05:12), lines 37 to 39."
+        }
+      ]
+    },
+    {
+      "id": "ulysses",
+      "heading": "Ulysses to his crew: lines 118 to 126",
+      "label": "Dante",
+      "text": "dante-italian/inf-26",
+      "rows": [
+        "39.0-41.2"
+      ],
+      "pair": {
+        "label": "Longfellow, 1867",
+        "text": "dante-longfellow/inf-26",
+        "rows": [
+          "39.0-41.2"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Antithesis",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "39.1",
+              "w": [
+                4,
+                6
+              ],
+              "tag": "A",
+              "label": "live like brutes"
+            },
+            {
+              "row": "39.2",
+              "w": [
+                2,
+                5
+              ],
+              "tag": "B",
+              "label": "virtue and knowledge"
+            },
+            {
+              "row": "39.1",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "hinge",
+              "label": "not, but"
+            },
+            {
+              "row": "39.2",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "hinge",
+              "label": "not, but"
+            }
+          ],
+          "why": "The antithesis sets two ways to live against each other, a brute’s and the pursuit of virtue and knowledge; Auden heard in this speech the Serpent’s words to Eve, whose promise was knowledge, the speech’s last word.",
+          "caption": "The first three lines end the speech Ulysses made to his old crew at the marks Hercules set so that no one should go farther. Its last two lines set two ways of living against each other, hinged on <b>non</b>, <i>not</i>, and <b>ma</b>, <i>but</i>: <b>viver come bruti</b>, to live like brutes, and <b>seguir virtute e canoscenza</b>, to follow virtue and knowledge. An antithesis can make a thing clear by its contrary. Auden, who quoted the same three lines, said that in this speech Ulysses is again the counselor of evil, and that his words are like the Serpent’s to Eve. The Serpent promised Eve knowledge, and <b>canoscenza</b>, knowledge, is the last word of the speech.",
+          "grounds": [
+            {
+              "claim": "two phrases set against each other on not and but; canoscenza is the last word before the speech closes",
+              "kind": "plate"
+            },
+            {
+              "claim": "the crew are old and slow, and the ship has come to the strait where Hercules set his marks so that man should go no farther",
+              "kind": "text",
+              "source": "Inferno 26.106-109 in the hosted Italian text"
+            },
+            {
+              "claim": "antithesis sets two words or statements of contrary sense side by side in parallel; one of its uses is to make the sense of a word clear through its contrary",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “antitesi” (Francesco Tateo); Silva Rhetoricae, under antithesis"
+            },
+            {
+              "claim": "Auden quotes this sentence in Carlyle’s prose and says that when Ulysses speaks to his crew he is again what he was at Troy, a giver of evil counsel, and that his words echo the Serpent’s to Eve",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 10"
+            },
+            {
+              "claim": "the Serpent tells the woman that their eyes will be opened and they will be as gods, knowing good and evil",
+              "kind": "source",
+              "source": "Genesis 3:4-5 in the Latin Vulgate, at the Perseus Digital Library"
+            }
+          ],
+          "stands": "The two phrases marked on the passage. Where the speech is made: [Canto 26](#/read/dante-longfellow/inf-26:35), lines 106 to 109. Antithesis and its use: the *Enciclopedia Dantesca* under *antitesi*, and *Silva Rhetoricae*. Auden: *The Enchafèd Flood*, p. 10; the Serpent’s words are Genesis 3:4–5."
+        },
+        {
+          "kind": "figure",
+          "label": "Metaphor",
+          "name": "metaphor",
+          "plain": "one thing spoken of as another",
+          "draw": "map",
+          "join": [
+            [
+              0,
+              1
+            ],
+            [
+              3,
+              2
+            ]
+          ],
+          "parts": [
+            {
+              "row": "41.1",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "A",
+              "label": "oars"
+            },
+            {
+              "row": "41.1",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "B",
+              "label": "wings"
+            },
+            {
+              "row": "41.1",
+              "w": [
+                6,
+                6
+              ],
+              "tag": "B",
+              "label": "a flight"
+            },
+            {
+              "row": "41.1",
+              "w": [
+                5,
+                5
+              ],
+              "tag": "C",
+              "label": "mad"
+            }
+          ],
+          "why": "The line turns oars to wings and the voyage to a flight, the poem’s figure for the movement of the soul, and sets folle, mad, inside it: the ship’s speed and a judgment on the voyage in one line.",
+          "caption": "One thing is called by the name of another: <b>remi</b>, oars, are made <b>ali</b>, wings, and the voyage is a <b>volo</b>, a flight. Virgil had called the wings of Daedalus an oarage of wings, and Dante turns the phrase around. Elsewhere in the poem wings and flight are a regular figure for the soul’s movement, as in its rising to God. Between the wings and the flight stands <b>folle</b>, mad. So the flight is at once the ship’s swift course and a going astray. <b>Folle</b> is the speaker’s own word, said from inside the flame. For Dante, Auden said, what Ulysses did was at bottom Adam’s original sin.",
+          "grounds": [
+            {
+              "claim": "oars are called wings and the voyage a flight; folle stands between the two words",
+              "kind": "plate"
+            },
+            {
+              "claim": "metaphor uses, in place of the proper word, a word taken from another field of meaning",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “metafora” (Francesco Tateo); Silva Rhetoricae, under metaphor"
+            },
+            {
+              "claim": "Virgil’s Daedalus dedicates the oarage of his wings; Dante uses the phrase in reverse",
+              "kind": "source",
+              "source": "Virgil, Aeneid 6.14-19, at the Perseus Digital Library; Chiavacci Leonardi’s note on Inferno 26.125, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            },
+            {
+              "claim": "in the Comedy flight and wings are the fitting metaphor for the movement of the spirit, and the rising of the soul is a winged thing’s soaring; the mad flight is a metaphor of the ship’s swift course and at the same time of a moral going astray",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “metafora,” which discusses this line"
+            },
+            {
+              "claim": "folle means senseless, mad; of a thing done, reckless",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “folle” (Guido Favati); Treccani, Vocabolario on line, under folle (1), sense 1b, which quotes this line"
+            },
+            {
+              "claim": "Ulysses tells the voyage himself, from inside the flame",
+              "kind": "text",
+              "source": "Inferno 26.85-90 in the hosted Italian text; the mad flight is line 125"
+            },
+            {
+              "claim": "for Dante, Auden says, what Ulysses did was at bottom Adam’s original sin",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 10"
+            }
+          ],
+          "stands": "The words marked on the passage; the speaking flame is in [Canto 26](#/read/dante-longfellow/inf-26:28), lines 85 to 90. The *Enciclopedia Dantesca* under *metafora* discusses this line, and wings and flight as the poem’s figure for the soul; under *folle* it gives the word’s sense, as does the Treccani *Vocabolario*. Virgil’s phrase is *Aeneid* 6.19, with Chiavacci Leonardi’s note on that line (125). Auden: *The Enchafèd Flood*, p. 10."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "39.0",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "seed · origin",
+              "note": "Your seed: the human kind you come from.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “semenza,” which explains this line"
+            },
+            {
+              "row": "39.2",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "virtue · worth",
+              "note": "From Latin *virtus*, which comes from *vir*, a man: manliness, courage, worth, virtue. Here it has been read as courage.",
+              "source": "Lewis and Short, A Latin Dictionary, under virtus, at the Perseus Digital Library; Enciclopedia Dantesca (1970), read at treccani.it, “virtù”"
+            },
+            {
+              "row": "39.2",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "knowledge",
+              "source": "Longfellow’s line on the plate; Carlyle’s prose in the hosted Temple Classics text"
+            },
+            {
+              "row": "40.0",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "keen, eager",
+              "note": "The base sense is sharp, pointed.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “acuto (aguto),” which cites this line"
+            },
+            {
+              "row": "40.1",
+              "w": [
+                2,
+                3
+              ],
+              "gloss": "little speech",
+              "note": "*Orazione* is a term of rhetoric for a set speech, here an exhortation. *Picciola*, little, is his third use of the word in twenty-one lines: his crew, the waking time left to them, his speech.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “orazione,” which cites this line; lines 102, 114 and 122 of the canto in the hosted text"
+            },
+            {
+              "row": "41.1",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "mad · reckless",
+              "note": "From Latin *follis*, a bellows or a bag puffed with air, and so an empty head. English *fool* comes from the same Latin word.",
+              "source": "Treccani, Vocabolario on line, under folle (1) and folle (2); Lewis and Short, A Latin Dictionary, under follis; Online Etymology Dictionary, under fool"
+            },
+            {
+              "row": "41.2",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "left",
+              "note": "They keep bearing to the left, that is, to the south-west.",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “mancino,” which cites this line"
+            }
+          ],
+          "why": "Virtute, the speech’s word for what men are made to follow, is also the poet’s word, early in the canto, for what must guide his own wit; those lines, Auden wrote, perhaps mean that Dante felt the temptation himself.",
+          "caption": "<b>Semenza</b> is <i>seed</i>: the crew are told to consider the stock they come from. <b>Virtute</b> comes from the Latin for <i>manliness</i>, which also meant courage and worth. The word comes once more in the canto, in the poet’s own voice near its start: he reins in his wit so that it does not run where virtue does not guide it. Those lines, Auden wrote, perhaps mean that Dante himself felt the temptation of Ulysses, a lust of curiosity. Ulysses calls his words an <b>orazion</b>, a term of rhetoric for a set speech, and says it made the men so <b>aguti</b>, keen, that he could hardly have held them back.",
+          "grounds": [
+            {
+              "claim": "semenza is seed, and in this line the human kind and its origin",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “semenza”"
+            },
+            {
+              "claim": "virtute is Latin virtus, from vir, a man: manliness, courage, worth, virtue",
+              "kind": "source",
+              "source": "Lewis and Short, A Latin Dictionary, under virtus, at the Perseus Digital Library"
+            },
+            {
+              "claim": "the word comes twice in canto 26, at line 22 and at line 120; at line 22 the poet says he curbs his wit so that it does not run where virtue does not guide it",
+              "kind": "text",
+              "source": "Inferno 26.19-24 and 26.120 in the hosted Italian text, searched with show.mjs for the letters virt"
+            },
+            {
+              "claim": "the dictionary itself sets the two places together: the theme of line 120 is prepared at line 22, by contrast, in the wit that works inside the bounds of virtue; in line 120 the word carries the sense of an impulse to act, and so of courage",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “virtù”, where it treats Inferno 26.120"
+            },
+            {
+              "claim": "Auden quotes those lines, calls them Dante’s opening remarks, and says they perhaps mean that Dante felt the same temptation himself, which he names as a lust of curiosity (his word is concupiscence)",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 10; read again by the finisher on 2026-10-03 in the scan, research/auden/ef.txt, lines 474 to 508"
+            },
+            {
+              "claim": "orazione is a term of rhetoric for a complete speech on one subject, with the shade of exhortation in this line; aguti here is eager, ready",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), read at treccani.it, “orazione” and “acuto (aguto)”"
+            },
+            {
+              "claim": "Ulysses says that with this little speech he made his companions so keen for the way that he could hardly have held them back",
+              "kind": "text",
+              "source": "rows 40.0 to 40.2"
+            }
+          ],
+          "stands": "The glosses are from the *Enciclopedia Dantesca* under *semenza*, *virtù*, *acuto*, *orazione* and *mancino*; Lewis and Short under *virtus* and *follis*; the Treccani *Vocabolario* under *folle*. In the Italian of Canto 26 printed here *virtù* or *virtute* comes twice, at [line 22](#/read/dante-italian/inf-26:7) and in the third line here (120). Auden: *The Enchafèd Flood*, p. 10. What the speech did to the crew is in the lines themselves."
+        },
+        {
+          "kind": "shape",
+          "label": "Poem",
+          "what": "Where folle, mad, comes in the poem’s hundred cantos (34 of Inferno, 33 of Purgatorio, 33 of Paradiso), and where it is said of a journey",
+          "facts": {
+            "counted": "Counted on the hosted Italian text (dante-italian, all 100 parts) in this session: every word that holds the letters foll was listed, with show.mjs --grep and again by going through each line. Eighteen words hold them. The adjective comes 14 times, as folle 13 times and folli once (Inferno 5, Purgatorio 3, Paradiso 6). Not counted: the noun follia, twice (Purgatorio 1.59, Paradiso 7.93); folletto, once (Inferno 30.32); and the verb in l’affollar, once (Purgatorio 24.72). A line number is three times the block number, plus the row, plus one. Who speaks, and of what, was read in the lines around each place; “the traveler, telling the poem” is the first person of the narration, and “the traveler, to Virgil” is his speech inside the story. Each “read” is the block of the hosted Italian that holds the word. The same fourteen places are listed in the Enciclopedia Dantesca under folle.",
+            "wholePoem": {
+              "cantos": 100,
+              "uses": 14,
+              "of a journey": 4
+            },
+            "parts": [
+              {
+                "part": "Inferno",
+                "cantos": 34,
+                "uses": 5
+              },
+              {
+                "part": "Purgatorio",
+                "cantos": 33,
+                "uses": 3
+              },
+              {
+                "part": "Paradiso",
+                "cantos": 33,
+                "uses": 6
+              }
+            ],
+            "places": [
+              {
+                "place": "Inferno 2, line 35",
+                "canto of 100": 2,
+                "said by": "the traveler, to Virgil, before he sets out",
+                "said of": "his own coming (venuta)",
+                "a journey": "yes",
+                "read": "dante-italian/inf-02:11",
+                "note": "the first of the fourteen uses"
+              },
+              {
+                "place": "Inferno 8, line 91",
+                "canto of 100": 8,
+                "said by": "the devils at the gate of the city of Dis",
+                "said of": "the traveler’s road (strada)",
+                "a journey": "yes",
+                "read": "dante-italian/inf-08:30"
+              },
+              {
+                "place": "Inferno 12, line 49",
+                "canto of 100": 12,
+                "said by": "the traveler, telling the poem",
+                "said of": "anger",
+                "a journey": "no",
+                "read": "dante-italian/inf-12:16"
+              },
+              {
+                "place": "Inferno 19, line 88",
+                "canto of 100": 19,
+                "said by": "the traveler, telling the poem",
+                "said of": "himself, for his bold words to a pope",
+                "a journey": "no",
+                "read": "dante-italian/inf-19:29"
+              },
+              {
+                "place": "Inferno 26, line 125",
+                "canto of 100": 26,
+                "said by": "Ulysses, from inside the flame",
+                "said of": "his own flight (volo)",
+                "a journey": "yes",
+                "in this passage": "yes",
+                "read": "dante-italian/inf-26:41"
+              },
+              {
+                "place": "Purgatorio 12, line 43",
+                "canto of 100": 46,
+                "said by": "the traveler, telling the poem",
+                "said of": "Arachne",
+                "a journey": "no",
+                "read": "dante-italian/pur-12:14"
+              },
+              {
+                "place": "Purgatorio 13, line 113",
+                "canto of 100": 47,
+                "said by": "Sapia, a soul",
+                "said of": "herself",
+                "a journey": "no",
+                "read": "dante-italian/pur-13:37"
+              },
+              {
+                "place": "Purgatorio 20, line 109",
+                "canto of 100": 54,
+                "said by": "Hugh Capet, a soul",
+                "said of": "Achan",
+                "a journey": "no",
+                "read": "dante-italian/pur-20:36"
+              },
+              {
+                "place": "Paradiso 5, line 71",
+                "canto of 100": 72,
+                "said by": "Beatrice",
+                "said of": "the foolish, set beside the wise",
+                "a journey": "no",
+                "read": "dante-italian/par-05:23"
+              },
+              {
+                "place": "Paradiso 8, line 2",
+                "canto of 100": 75,
+                "said by": "the traveler, telling the poem",
+                "said of": "love",
+                "a journey": "no",
+                "read": "dante-italian/par-08:0"
+              },
+              {
+                "place": "Paradiso 17, line 31",
+                "canto of 100": 84,
+                "said by": "the traveler, telling the poem",
+                "said of": "the people before Christ",
+                "a journey": "no",
+                "read": "dante-italian/par-17:10"
+              },
+              {
+                "place": "Paradiso 19, line 122",
+                "canto of 100": 86,
+                "said by": "the Eagle",
+                "said of": "the Scot and the Englishman",
+                "a journey": "no",
+                "read": "dante-italian/par-19:40"
+              },
+              {
+                "place": "Paradiso 22, line 81",
+                "canto of 100": 89,
+                "said by": "the founder of Monte Cassino, a soul",
+                "said of": "the heart of the monks",
+                "a journey": "no",
+                "read": "dante-italian/par-22:26"
+              },
+              {
+                "place": "Paradiso 27, lines 82 and 83",
+                "canto of 100": 94,
+                "said by": "the traveler, telling what he saw from the stars",
+                "said of": "the crossing (varco) of Ulysses, past Cadiz",
+                "a journey": "yes",
+                "read": "dante-italian/par-27:27",
+                "note": "the last of the fourteen uses"
+              }
+            ]
+          },
+          "why": "The first of the fourteen uses of folle is the traveler’s fear for his own journey and the last his look back at Ulysses’s crossing, so one word marks both journeys.",
+          "caption": "In the poem’s hundred cantos <b>folle</b>, mad, comes fourteen times. Four times it is said of a journey. The first of all is the traveler’s: he is not Aeneas and not Paul, he says, and fears his own going may be mad (canto 2). Devils call his road mad (canto 8), and Ulysses says it of his flight (canto 26). The last comes as the traveler tells what he saw from the stars: the mad crossing of Ulysses (canto 94, <i>Paradiso</i> 27). So the poem sets one word on both journeys, first and last in the traveler’s own voice.",
+          "grounds": [
+            {
+              "claim": "a hundred cantos; the adjective fourteen times, four of a journey; the first of the fourteen is Inferno 2.35, in the traveler’s speech to Virgil, and the last Paradiso 27.83, in his telling of what he saw",
+              "kind": "text",
+              "source": "the hosted Italian text, counted with show.mjs and again line by line; the fourteen places are those listed in Enciclopedia Dantesca (1970), read at treccani.it, “folle” (Guido Favati), which sets the four journeys together"
+            },
+            {
+              "claim": "the traveler says he is not Aeneas and not Paul and fears his coming may be mad",
+              "kind": "text",
+              "source": "Inferno 2.31-35 in the hosted Italian text"
+            },
+            {
+              "claim": "the devils at the gate of Dis say he should go back alone by the mad road",
+              "kind": "text",
+              "source": "Inferno 8.82-93; the city is named at 8.68 (dante-longfellow/inf-08, block 22, row 1, as the finisher read it)"
+            },
+            {
+              "claim": "from the heaven of the stars the traveler sees, beyond Cadiz, the mad crossing of Ulysses",
+              "kind": "text",
+              "source": "Paradiso 27.79-84"
+            },
+            {
+              "claim": "the word’s full sense in Ulysses’s line comes out from the other places where Dante uses it of his own life (Inferno 2.35, and the noun at Purgatorio 1.59), and high in the Paradiso the same adjective is again given to the voyage of Ulysses (27.82-83)",
+              "kind": "source",
+              "source": "Chiavacci Leonardi’s note on Inferno 26.125, read at the Dartmouth Dante Project (dante.dartmouth.edu)"
+            }
+          ],
+          "stands": "A count of the adjective *folle* (*folle* or *folli*) in the Italian of the whole poem printed here: fourteen places, the same fourteen the *Enciclopedia Dantesca* lists under *folle*. The noun *follia* was left out; who speaks, and of what, was read at each place. The other three journeys: [*Inferno* 2](#/read/dante-italian/inf-02:11), line 35; [*Inferno* 8](#/read/dante-italian/inf-08:30), line 91; [*Paradiso* 27](#/read/dante-italian/par-27:27), lines 82 and 83."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In an unfinished book of 1939, Auden said everyone meets a few people he can only feel to be damned, usually intelligent, sensitive and well placed. Hell’s gates, he wrote, stand wide open. The lost may go when they wish; but that would mean admitting there is another life outside, and they fear to, because they would then have to live it. All this they know, and the knowledge is Hell’s flame. Many people, perhaps most, stand with the good pagans of the *Inferno*, desiring without hope; but Limbo, their place, belongs, he said, at the bottom of Purgatory, not at the top of Hell, where Dante’s poem puts it.",
+      "source": "“The Prolific and the Devourer,” an unfinished book written mostly in 1939; in *Prose*, vol. II (2002), Appendix I, p. 428",
+      "checked": "read on 2026-10-03 in search snippets of the scanned Prose, vol. 2, at archive.org (item prosetravelbooks0000aude, a restricted scan of which only snippets can be read), where the book is printed as Appendix I. The passage was read whole by following it from snippet to snippet: it begins directly after the running head of p. 428 and ends with the sentences on Limbo, after which a paragraph on Paradise begins; before it stands a paragraph on conscience and the Evil One. The editor’s note calls the book unfinished and says most of it was written in the summer of 1939. Found by searching the scan; it is not in the research notes. Auden’s words on the good pagans follow Virgil’s at Inferno 4.42 in the Carlyle prose, with they for we. That Limbo is the first circle of Hell in the poem: Inferno 4.24 and 4.45 in the hosted texts, and Purgatorio 22.14"
+    },
+    {
+      "says": "In 1946 Auden reviewed C. S. Lewis’s *The Great Divorce*. Its teaching aim, he wrote, is to set right a mistaken idea of what Christians hold about Hell and to make plain the words Dante saw over the gate; he quoted the gate’s fourth, fifth and sixth lines in Carlyle’s prose translation. The mistake was to liken God’s law to human law, with an eternal penalty imposed on people without their consent. On doctrine he had two objections, and one touched Dante: whatever Dante did, he said, theology lets no writer show a historical person as a lost soul. Nobody may believe that even of Hitler, still less hope it.",
+      "source": "“Red Lizards and White Stallions,” *The Saturday Review of Literature*, April 1946; in *Prose*, vol. II (2002), pp. 292–95",
+      "checked": "read on 2026-10-03 in search snippets of the scanned Prose, vol. 2, at archive.org (item prosetravelbooks0000aude, a restricted scan of which only snippets can be read): the review’s opening sentence on the book’s purpose, which runs over from p. 292 to the next page, the gate’s lines quoted at its end, the title, and the date line. Then, by following the text from snippet to snippet: the paragraph on the mistaken idea (God’s law thought of as like the laws of men; the two Gods that would imply; the reaction of liberal theology, with Blake named, and its own denial of freedom; the sentence on being free eternally); his account of the book, which brings back the dream device of the Middle Ages (the bus from the Grey Town to the plain, the ghosts and what each of them clings to, and George MacDonald’s spirit, who is Virgil to Lewis’s Dante and explains choice and time to the dreamer); a few small faults he finds; and last the two places he thinks open to heresy, which begin directly after the running head of p. 295. The first: no historical character (in the book, Napoleon) may be shown among the lost; invented ones, such as Othello, may; then the sentence on Hitler. The second is about the lizard and the stallion of the title. So the review was read through, apart from a few words where the text is split at a line end. The index and the editor’s note in the same volume give p. 292. The date line reads 22 April 1946 in the scan; that day was a Monday, and the research notes recall 13 April, a Saturday, so only the month is printed. The opening extract is in remake/research/C_auden_on_works.md, section 1 and appendix block H17i; the rest is not in the research notes"
+    },
+    {
+      "says": "In a talk of January 1943 Auden drew on the canto of the gate. A student of literature in whom nothing happens, he said, finds it out. In a student of physics nothing may happen either, but his skill gets him a good post in industry, so he may live out his life and never learn that he has no passion: that he is one of the trimmers of the *Inferno*, the souls just inside the gate, who earned neither blame nor praise. Auden then gave Virgil’s words about them in the Carlyle and Wicksteed prose of the Modern Library, the edition on his list for the course.",
+      "source": "“Vocation and Society,” an essay based on a talk of January 1943, in *‘In Solitude, for Company’: W. H. Auden after 1940*, edited by Katherine Bucknell and Nicholas Jenkins (1995), pp. 25–26; also in *Prose*, vol. II (2002), p. 180",
+      "checked": "read on 2026-10-03 in search snippets of two restricted scans at archive.org. In ‘In Solitude, for Company’ (item insolitudeforcom0000aude): the words from the running head of p. 26 to the end of the quotation of Inferno 3.50-51, and the editors’ footnote, which names the canto and the Modern Library edition of the Carlyle-Wicksteed translation; the index of the volume gives the Inferno at p. 26. The running head falls inside the sentence, which therefore begins on p. 25. In Prose, vol. 2 (item prosetravelbooks0000aude), where the essay begins on p. 175 and the editor’s note says it grew from a talk Auden gave at Swarthmore on 15 January 1943, to the college’s chapter of Phi Beta Kappa: the whole passage, followed from snippet to snippet, from the sentences on teachers of literature and of science, through the two students, the sentence on the trimmers and Virgil’s words, into the passage of Nietzsche on science that comes next. The running head of p. 181 falls inside that passage of Nietzsche, some 175 words after the sentence begins, so the sentence is on p. 180; the head of p. 180 was not seen. An earlier state of this entry, written before the start of the sentence had been read, said that the man comes to see he has no passion. Auden says the reverse, and the entry was corrected. Who the souls are: Inferno 3.34-42 in the hosted texts. That the list for the course names the Modern Library edition, and that this edition is the Temple Classics translation, are from remake/research/A_michigan_course.md (the table of the list) and remake/research/D_texts.md (the entry for Dante)"
+    },
+    {
+      "says": "Auden spoke of Francesca at the end of his New York lecture on *Romeo and Juliet*, given on 6 November 1946 and rebuilt from students’ notes. Romeo and Juliet, he said, do not tell romance from love. He cited Kierkegaard: romantic love can be shown in a single moment, and married love cannot, since a good husband is one every day. Then he said that the tale of Paolo and Francesca holds a warning to be heeded, and gave the scene in the Carlyle and Wicksteed prose, her three sentences on Love included, down to the last words of the canto.",
+      "source": "Lecture on *Romeo and Juliet*, 6 November 1946, in *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), pp. 51–52",
+      "checked": "read on 2026-10-03 in search snippets of a restricted scan at archive.org (item lecturesonshakes00aude); found by searching the scan for her name, and not in the research notes. Seen: the heading of the lecture with its date; the sentences on suicide and on romance and love; the passage he quotes from Kierkegaard’s Either/Or on romantic and conjugal love, which runs over the running head of p. 51; the sentence on the warning; his summary of the scene; the quotation from Inferno 5 in the Carlyle-Wicksteed prose, beginning with the three sentences shown in the second passage here, with the running head of p. 52 standing after the line that follows them; and the last words of the canto, followed at once by the heading of the next lecture (A Midsummer Night’s Dream, 13 November 1946). The editor’s notes give p. 50 for the Kierkegaard passage and p. 51 for Paolo and Francesca, and name the translation as the Carlyle-Wicksteed of the Modern Library. Not every line of the long quotation was seen. Auden does not say what the warning is. A second mention, in the lecture on Pericles and Cymbeline (the editor’s note is keyed to p. 272), sets against her line on recalling a happy time in misery the joy that remembered suffering brings at the end of a late play; it is not used here"
+    },
+    {
+      "says": "Writing on *The Tempest*, Auden said the play shows Nature and Spirit in conflict, lays the fault on Nature and clears Spirit. Dante, he said, holds just the reverse. He quoted three lines of *Purgatorio* 17 in Italian, which say that natural love never errs and that the other love can err by choosing a bad object, or by too little force or too much. In 1941, the year of the course, he had gone to the same canto twice, both times to its lines on love as the seed of all virtue and of each act that earns punishment.",
+      "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 130–31; the notes to *New Year Letter* (1941); “Eros and Agape,” *The Nation*, 28 June 1941",
+      "checked": "The Dyer’s Hand read in the scan, research/auden/dh.txt, lines 6277-6296, and read again on 2026-10-03. “Eros and Agape” was read on 2026-10-03 in the text of The Nation for 28 June 1941 at archive.org (item sim_nation_1941-06-28_152_26), where the machine reading is rough: Auden gives lines 104-105 of Purgatorio 17 in Italian as what Eros is, the will of every creature to realize itself; the page number could not be read there. The note in New Year Letter was read on 2026-10-03 in search snippets of the scanned Faber edition at archive.org (item newyearletter0000aude, a restricted scan of which only snippets can be read): it gives Purgatorio 17 in English prose, on the natural love that does not err and on love as the seed, signs it Dante: Purgatorio, Canto XVII, and stands just before the note headed Line 1432. The same extract is in remake/research/C_auden_on_works.md, section 1 and appendix block H6"
+    },
+    {
+      "says": "Auden noted that the last voyage of Ulysses seems to be Dante’s invention. Ulysses is damned as a giver of evil counsel. Auden quoted, in Carlyle’s prose, Dante on holding his talent in check, Ulysses on his ardor to know the world, and the close of the speech to the crew. There, he said, Ulysses is again what he was at Troy. He acts like the sea hero of the Romantics, which in Tennyson he becomes. For Dante the deed was worse than blameworthy: at bottom it was Adam’s original sin. Dante’s words on his talent, he added, may mean that Dante felt the same temptation: a lust of curiosity.",
+      "quote": "the Evil Counsellor whose words echo the words of the Serpent to Eve",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 9–10",
+      "checked": "read in the scan of The Enchafèd Flood, research/auden/ef.txt, lines 474-508, and read again on 2026-10-03; in this scan the page number stands at the foot of its page, and all but the first sentence is on p. 10"
+    },
+    {
+      "says": "In 1947 Auden reviewed *The Portable Dante*, whose *Comedy* is Binyon’s translation, in Dante’s rhyme. He judged that version the best so far and set a passage of it beside Longfellow’s and Cary’s, which he counted among the best known. To an Italian, he wrote, parting what Dante says from the form is unthinkable. A reader of English is troubled by the falsely poetic wording and word order that a language poor in rhymes forces on even the best attempt to keep the form. The best English imitation of Dante, he noted, is a passage of Eliot’s in unrhymed three-line groups. Prose or verse, he said, something is lost.",
+      "source": "“The Essence of Dante,” *The New York Times Book Review*, 29 June 1947; in *Prose*, vol. II (2002), pp. 322–25",
+      "checked": "read on 2026-10-03 in search snippets of the scanned Prose, vol. 2, at archive.org (item prosetravelbooks0000aude, a restricted scan of which only snippets can be read): the heading of the review, which names The Portable Dante, edited by Paolo Milano (Viking); the sentences on the choice of translation and on Binyon’s version; a passage of Inferno 7, on Fortune, in Italian and in the versions of Longfellow, Cary and Binyon; the sentences on prose and verse, which follow the running head of p. 324; the parenthesis on the second section of Eliot’s “Little Gidding”; two translations of Purgatorio 23.61-75 set one after the other, the second of them Binyon’s and the first, by the editor’s note on the review, Carlyle’s, which is to say the prose; the sentence on the loss either way, with which p. 324 ends; the running head of p. 325; the end of the last sentence; and the date line. The index and the editor’s note give p. 322 for the start. Not seen: most of the last paragraph, and the name printed under the first of the two translations of Purgatorio 23. Three sentences of the review are also in remake/research/C_auden_on_works.md, appendix block H17p, which gives pp. 322–24; the scan’s running head puts the last paragraph on p. 325. That Binyon’s version is in terza rima and was chosen for The Portable Dante: Wikipedia, under Laurence Binyon, read on 2026-10-03"
+    },
+    {
+      "says": "By Donald Pearce’s account, the final examination of the 1941 course was to write out cantos of the *Comedy* from memory, in the Carlyle and Wicksteed prose version. The list began with *Inferno* 3 and 5, the cantos of the first two passages here. Auden asked for seven cantos and came down to five when the class protested. Other witnesses give six.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 153",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, and read again on 2026-10-03; in this scan the page number stands at the foot of its page, before the next page’s heading. The other witnesses are set out in remake/research/A_michigan_course.md, section 3.1. Of these, Charles H. Miller’s memoir was read on 2026-10-03 in search snippets of a restricted scan at archive.org (item audenamericanfri00mill): Auden, as Miller reports him, tells the class to memorize six cantos, and a fellow student speaks of her six. Its page numbers are those of the research notes"
+    }
+  ],
+  "next": "dante-temple/inf-01:0",
+  "sources": [
+    "The text printed here: Dante Alighieri, *La Divina Commedia*, [the Italian](#/read/dante-italian) from Project Gutenberg, no. 1012, and beside it [the translation of Henry Wadsworth Longfellow](#/read/dante-longfellow) (1867), from Project Gutenberg, no. 1004. Auden’s English quotations of the *Inferno* follow [the prose translation of the Temple Classics](#/read/dante-temple) (London: J. M. Dent), whose *Inferno* is John Aitken Carlyle’s. The Modern Library reprinted that translation in 1932, and its volume is the edition named on Auden’s list for the course.",
+    "W. H. Auden, introduction to *The Living Thoughts of Kierkegaard* (1952), reprinted as “Søren Kierkegaard” in *Forewords and Afterwords* (1973), p. 176.",
+    "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 9–10.",
+    "W. H. Auden, “Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 130–31.",
+    "W. H. Auden, “Eros and Agape,” *The Nation*, 28 June 1941; “Morality in an Age of Change,” *The Nation*, 24 December 1938, p. 689.",
+    "W. H. Auden, *New Year Letter* (London: Faber, 1941), the note that quotes *Purgatorio* 17, which stands just before the note to line 1432. Not seen in full.",
+    "W. H. Auden, *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002): “The Prolific and the Devourer,” an unfinished book written mostly in 1939, Appendix I, p. 428; “Vocation and Society” (1943), p. 180; “Red Lizards and White Stallions,” *The Saturday Review of Literature*, April 1946, pp. 292–95; “The Essence of Dante,” *The New York Times Book Review*, 29 June 1947, pp. 322–25. Not seen in full.",
+    "W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000): the lecture on *Romeo and Juliet* of 6 November 1946, pp. 51–52. Not seen in full.",
+    "W. H. Auden, “Vocation and Society,” an essay based on a talk given at Swarthmore College in January 1943, in *‘In Solitude, for Company’: W. H. Auden after 1940*, edited by Katherine Bucknell and Nicholas Jenkins (Oxford: Clarendon Press, 1995), pp. 25–26. Not seen in full.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 153: a student’s account of the examination of 1941.",
+    "Charles H. Miller, *Auden: An American Friendship* (1983), pp. 26–27 and 77–78, for the students who remembered six cantos. Not seen in full.",
+    "*Enciclopedia Dantesca* (Rome: Istituto della Enciclopedia Italiana, 1970–78), at treccani.it, under *terzina*, *endecasillabo* and *rima* (Ignazio Baldelli); *anafora*, *antitesi* and *metafora* (Francesco Tateo); *sinalefe* and *dialefe* (Gian Luigi Beccaria); *folle* (Guido Favati); *ancora* (Freya Anceschi); *ratto* (Lucia Onder); *virtù*; “Amore e ’l cor gentil sono una cosa”; *dolente*, *duro*, *durare*, *oscuro*, *fattore*, *lasciare*, *apprendere*, *gentile*, *persona*, *perdonare*, *piacere*, *spegnere*, *semenza*, *acuto*, *orazione* and *mancino*.",
+    "Dante, *Vita Nuova* 29.3, as quoted in the *Enciclopedia Dantesca* under *terzina* and *fattore*; *Convivio* 2.5.8, as cited in Charles S. Singleton’s note on *Inferno* 3.5–6.",
+    "Commentaries on the *Inferno* at the Dartmouth Dante Project (dante.dartmouth.edu), in their notes on the lines shown and on 32.58: Henry Wadsworth Longfellow (1867), C. H. Grandgent (1909–13), Natalino Sapegno (1955–57), Charles S. Singleton (1970–75), Umberto Bosco and Giovanni Reggio (1979), Anna Maria Chiavacci Leonardi (1991–97) and Robert Hollander (2000–07).",
+    "Henry Peacham, *The Garden of Eloquence* (1593), under *Epanaphora* and *Paregmenon*, at the Perseus Digital Library. *Silva Rhetoricae* (rhetoric.byu.edu), under *anaphora*, *polyptoton*, *paregmenon*, *antithesis* and *metaphor*.",
+    "Samuel Longfellow, *Life of Henry Wadsworth Longfellow, with Extracts from His Journals and Correspondence*, vol. 3 (Boston: Houghton, Mifflin, 1891), pp. 35 and 88.",
+    "Paull F. Baum, *The Principles of English Versification* (1922), chapter 4, on terza rima.",
+    "Wikipedia (en.wikipedia.org), under Laurence Binyon, for his translation of the *Comedy* in terza rima (1933–43) and its choice for *The Portable Dante*, edited by Paolo Milano (New York: Viking, 1947).",
+    "Lewis and Short, *A Latin Dictionary* (1879), under *duro*, *follis* and *virtus*. Treccani, *Vocabolario on line*, under *folle*. Online Etymology Dictionary (etymonline.com), under *fool* and *doleful*. Wiktionary (en.wiktionary.org), under *dolent* and *dole*.",
+    "Guido Guinizzelli, “Al cor gentil rempaira sempre amore,” on Italian Wikisource.",
+    "Virgil, *Aeneid* 6.14–19. The Latin Vulgate: Genesis 3:4–5 and John 6:61.",
+    "The counts on this page were made on the Italian printed here, among them the adjective *folle* in the whole poem, *virtù* in Canto 26, *ancor* in Canto 5 and the subjects of the verbs in Francesca’s eight lines here."
+  ],
+  "caveats": [
+    "What Auden said of Francesca comes from a 1946 lecture rebuilt from students’ notes; he said her story holds a warning and did not say what it is. The remark he credited to Landor has not been found in Landor’s writings, and in 1938 Auden was unsure whose it was.",
+    "Six things of Auden’s were read only in extracts from scanned copies: a book of 1939, a note of 1941, a talk of 1943, a lecture of 1946 and two reviews. In 1939 he wrote of Hell’s gates and did not name Dante’s gate.",
+    "In the first of Francesca’s lines here the voice may lean harder on *gentil* or on *ratto*; that the meeting stresses bring out *ratto* is this page’s own use of a general rule. In the sixth the subject, read here as Love, is by another reading Paolo.",
+    "On the speech of Ulysses the commentaries divide. Some read it as a last piece of false counsel, as Auden did. Others, Bosco and Reggio among them, hear in it what Dante himself held: that to want knowledge is natural to every man.",
+    "Under *Poem*, the count of fourteen takes the adjective *folle* alone; the noun *follia* comes twice more in the poem. Auden’s list for the course named an English prose translation; the passages are shown here in Dante’s Italian, with Longfellow’s verse beside it."
+  ],
+  "open": [
+    "Auden credits Landor with the remark that the people of the Inferno have no wish to leave. The remark has not been found in Landor; the search is set out in remake/research/webfacts.md, no. 7, and was not repeated. The earlier form, with Auden’s doubt about whose it was, was read in this session in the text of The Nation for 24 December 1938 at archive.org (item sim_nation_1938-12-24_147_3834), on the page numbered 689.",
+    "What Auden said of Francesca was found late, by searching the scanned Lectures on Shakespeare at archive.org (item lecturesonshakes00aude) for her name. It is not in the research notes. The book is an editor’s reconstruction from students’ notes, and only search snippets of it could be read. Auden says there is a warning in the tale of the two lovers and does not say what it is; the reading does not say either. It reports, as he gives them, his remark a little earlier that Romeo and Juliet do not tell romance from love, and the passage of Kierkegaard he quotes between the two. The first caption on Francesca’s lines still leans on his remark about the people of the Inferno, and the fourth on his quotation of Purgatorio 17; he applies neither to Francesca himself. Since the finisher’s change (3 October 2026) the first caption says on what occasion he made the remark: while explaining the wrath of God, as a remark about the Inferno and its people at large (Forewords and Afterwords, p. 176; research/auden/fa.txt, lines 8435 to 8440, read again). A second mention of her, in the lecture on Pericles and Cymbeline in the same book, was read in one snippet and is not used. Her name was also searched in the scanned Prose, vols. 2 and 3, and in Secondary Worlds: nothing. On Dante’s rhyme Auden speaks in his review of The Portable Dante (1947), which was found by searching the scanned Prose, vol. 2, for the name of the form; the research notes hold three other sentences of the review (appendix block H17p) and not this one.",
+    "Auden’s note on Purgatorio 17 in New Year Letter (1941) and his 1946 review of The Great Divorce were read on 2026-10-03 only in search snippets of restricted scans at archive.org (items newyearletter0000aude and prosetravelbooks0000aude), not in a full copy. The snippets bear out what the research notes report. His talk of 1943 was read the same way (item insolitudeforcom0000aude, and again in Prose, vol. 2), and so were his review of The Portable Dante (1947), in Prose, vol. 2, and his lecture on Romeo and Juliet in Lectures on Shakespeare (item lecturesonshakes00aude). Of that review most of the last paragraph, on p. 325, was not seen. He sets two translations of Purgatorio 23.61-75 one after the other before he says that something is lost either way; the second is Binyon’s, and the first is the prose only by the editor’s note, which calls it the quotation from Carlyle. The research notes give pp. 322–24 for the review, and the scan’s running head puts its last paragraph on p. 325. The date of the 1946 review is given only as April 1946: the date line in the scan of Prose, vol. 2, reads 22 April 1946, which was a Monday, and the research notes recall 13 April, a Saturday. The magazine’s own issue was not found. “Eros and Agape” was read in the text of The Nation for 28 June 1941 at archive.org, where the machine reading is rough and the page number could not be read.",
+    "Three things were found late, by following the text of the scanned Prose, vol. 2, from one search snippet to the next, and none of them is in the research notes. First, the sentence of 1943 on the trimmers: an earlier state of this reading, made when only the end of the sentence had been seen, said that the man comes to see he has no passion; Auden says that a student of physics can go through life without finding it out, and the entry now says so. The page in Prose, vol. 2 (p. 180) is worked out from the running head of p. 181, which follows; the head of p. 180 was not seen. Second, the rest of the 1946 review after the gate’s lines: its argument, his account of the book, and at the end, on p. 295, the two places he thinks open to heresy. Third, the passage on the open gates of Hell in “The Prolific and the Devourer” (Appendix I, p. 428), which was read whole. It stood in the second caption on the gate’s lines until the finisher cut it there (3 October 2026). There Auden writes of Hell’s gates and of the lost in general, and names the Inferno a few sentences later, so the sentence was not about the gate shown; to say so in the caption needed p. 428 opened again, and Prose, vol. 2, is not among the scans on this machine. The passage now stands only in the list under the passages, which names the people he is writing of, and the second caveat still tells the reader that he does not name Dante’s gate. One more sentence of the same volume names the Inferno beside Aristophanes’ Lysistrata; its context was not read and it is not used.",
+    "The list under the view holds eight things Auden said: those that bear on a passage shown or on the course of 1941. Four more, each a remark made in passing in an essay on another subject, are true and checked and stand at the end of notes.md: Dante as the master of dream literature (Forewords and Afterwords, p. 269), the Comedy as the dream quest (the essay on Kafka), Dante and the love poets of Provence (The Dyer’s Hand, pp. 475–76), and the people of the Comedy (The Dyer’s Hand, p. 340).",
+    "Auden writes that the last sentence shows the voyage to be, at bottom, Adam’s original sin. He may mean the last sentence he has quoted, which is the one on the plate, or the last sentence of the canto. The captions say only that he quotes the sentence on the plate.",
+    "Readers divide on Ulysses’s speech. Hollander, with Carroll, reads it as a last piece of false counsel, as Auden does. Bosco and Reggio reject that and hear a duty Dante himself held, the desire to know. The captions keep to Auden’s view and to what the lines say; the fourth caveat tells the reader.",
+    "In Inferno 5.102 the words about what still offends her are read two ways, as the manner of her death (Singleton) or as the force of the love (Sapegno, Bosco and Reggio); Hollander says the wording allows either. Nothing on the page chooses between them. In 5.105 the subject of the verb is taken here as Love, with Bosco and Reggio, whose note sets aside the reading that it is Paolo. In 5.104 piacer is glossed as charm or beauty, with most of the commentaries; Singleton allows that it may mean Paolo’s pleasure in her.",
+    "In the three scanned lines the accents are the word accents of the Italian. In line 100 a reader may lean harder on gentil or on ratto; both carry a word accent, and the caption needs only that they meet. No published scansion of these three lines was found; the rule for the meeting accents is the Enciclopedia Dantesca’s, and applying it to line 100 is this reading’s own step.",
+    "The handbook of 1593 named in two captions is English (Henry Peacham, The Garden of Eloquence). It is used for what the two figures do, as common teaching of rhetoric, and is no source for what Dante read.",
+    "That many cities of Dante’s time had verses over their gates is taken from two modern commentaries (Bosco and Reggio; Chiavacci Leonardi). No such inscription was looked up.",
+    "The first use of folle (Inferno 2.35) is in the traveler’s speech to Virgil. The last (Paradiso 27.83) is in the narration, where he tells what he saw from the stars. The caption now says so, and calls both his own voice; the facts name the teller and the speaker in the story as one person, the traveler.",
+    "The spelling and punctuation of the Italian are those of the hosted text. Some editions read etterna for etterno in the gate’s eighth line; the sense is the same.",
+    "The Oxford English Dictionary’s public pages could not be opened in this session. The histories of dolent, dole and fool are from the Online Etymology Dictionary and Wiktionary.",
+    "The Enciclopedia Dantesca and one commentary give line 21 or line 23 for Guinizzelli’s line about the fire of love. On Italian Wikisource it is line 11, the first line of the second stanza. No line number is given in the reading.",
+    "Charles H. Miller’s memoir, cited for the students who remembered six cantos, was read on 2026-10-03 only in search snippets of a restricted scan at archive.org (item audenamericanfri00mill). The snippets show the six cantos, in Auden’s words to the class as Miller reports them and in a fellow student’s. Another snippet has Auden letting those who cannot manage six learn four. The page numbers are those given in remake/research/A_michigan_course.md, section 3.1, and were not seen.",
+    "From the examiner (2026-10-03; the whole record is in exam.md). The piece was examined and mended; no tab was cut. The rule of this run kept the examiner from writing under site/, so the piece was built and photographed in a copy outside the project. The artist’s builds in place picked up the mends as they were made. The last mend was made at 09:37 UTC, and the artist’s build of 09:37:34 UTC was compared field by field with a build of the final reading: no difference, so every mend is in the copy under site/data/pieces. Build again only if the reading changes after that. It has changed since (the critic, the lead’s two settings, the finisher); the finisher built it again after the last change, and the time is in the finisher’s record at the end of notes.md.",
+    "From the examiner. The drawing under Poem (the tab was labeled Journeys when the examiner wrote; site/js/pieces/dante-inferno.js, as it stood at 09:25 UTC) was looked at in the outside build at 1280 and 390 px: its four flags (cantos 2, 8, 26 and 94), its ten strokes, and the counts under the three parts agree with the facts and with the caption. It reads the fact keys parts (part, cantos) and places (place, canto of 100, said by, said of, a journey, in this passage, read); the examiner renamed and reshaped none. The key wholePoem is read by nothing; it would head a row only if the drawing failed and the kit fell back to its plain table, and it was left as it is. All fourteen places in the facts were read again in their lines (speaker, subject, line number, canto out of a hundred) and are right. The join of the Metaphor tab was set by the examiner: oars to wings, and mad to flight; before that a stroke joined oars to flight, which the caption does not say.",
+    "From the examiner, brought up to date by the finisher (3 October 2026). Two judgments the examiner left for the lead; both are settled. The sentence of 1939 in the second caption on the gate was about Hell’s gates in general: the finisher cut it from the caption, and it stands only in the list. His review of 1946 has a sentence that is squarely about the words over Dante’s gate, if one is ever wanted in that caption; it would need the review opened again. And the entry of 1943 in the list bears on the canto of the first passage, not on the lines shown; it stays, by the lead’s decision, because he quotes the canto there in the translation he set for the course."
+  ]
+}

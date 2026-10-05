@@ -1,0 +1,11 @@
+{
+  "name": "fate-and-the-individual",
+  "private": true,
+  "type": "module",
+  "description": "W. H. Auden's 1941 University of Michigan course, English 135, as thirty-five pieces that open the works on his list.",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build": "node build/pieces.mjs",
+    "serve": "npx http-server site -p 8135 -c-1 -s"
+  }
+}

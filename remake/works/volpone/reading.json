@@ -1,0 +1,1047 @@
+{
+  "piece": "volpone",
+  "title": "The Fox’s gold, song and sentence",
+  "where": "*Volpone*, Acts 1, 3 and 5",
+  "about": "Volpone, a rich Venetian with no heir, pretends to be dying so that men who hope to inherit will bring him gifts, and his servant Mosca lets each think he is the heir. In the first passage Volpone greets his gold. In the second he sings to Celia, whose husband has left her alone with him in hope of the inheritance. In the third a judge closes the trial at which Volpone, Mosca and the three men they cheated have been sentenced, and Volpone steps forward to the audience.",
+  "view": {
+    "says": "One remark by Auden on this play was found. In conversation that Alan Ansen noted down in his entry for January 8, 1947, he said he had a special liking for *The Alchemist* and *Bartholomew Fair*, and found *Volpone* too unpleasant. Of Jonson’s comedies as a group he wrote that they are classical where Shakespeare’s are Christian. Christian comedy ends with its people exposed and forgiven, classical comedy with its people exposed and punished.",
+    "quote": "In classical comedy the characters are exposed and punished: when the curtain falls, the audience is laughing and those on stage are in tears.",
+    "source": "“The Globe,” in *The Dyer’s Hand* (1962), p. 177; Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1991), p. 18",
+    "checked": "The Dyer’s Hand: read in the scan, research/auden/dh.txt, lines 8376-8385, between the running heads for pp. 177 and 178, and read again on 2026-10-03. The Table Talk remark: the poet had it only from the research notes (remake/research/C_auden_on_works.md, section 10 and appendix H10). The examiner found it on 2026-10-03 in the full-text search of the Internet Archive’s scan tabletalkofwhaud0000anse (Alan Ansen, The Table Talk of W. H. Auden, edited by Nicholas Jenkins, with an introduction by Richard Howard; London: Faber and Faber, 1991; xv + 119 pp.). The scan is lent, not open, so it was read only in the short extracts the search returns, never as a page. In those extracts the remark stands in the entry headed January 8, 1947 (talk while walking home after the lecture), in a run of passing opinions that follows the running head of p. 18 with no other running head between; the heading January 15, 1947 comes straight after it. The page number is that of the London edition of 1991. The copyright lines in that scan are dated 1990, and the poet’s notes cite the book as of 1990, so an earlier printing may exist; it was not seen and may be paged differently."
+  },
+  "plates": [
+    {
+      "id": "gold",
+      "heading": "Volpone to his gold: the first lines of the scene",
+      "turn": { "3.0": 4, "3.1": 2, "5.0": 5, "5.1": 2, "5.3": 3, "5.4": 2, "5.5": 5, "5.8": 4, "5.10": 2 },
+      "text": "volpone/a1s1",
+      "rows": [
+        "3.0-3.1",
+        "5.0-5.10"
+      ],
+      "lenses": [
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "3.1",
+              "w": [2, 2],
+              "gloss": "a saint’s casket · Latin scrinium, chest",
+              "note": "From Latin *scrinium*, a case or chest for books or papers. The Oxford dictionary quotes these first two lines among figurative uses, where a person or thing is venerated or idolized.",
+              "source": "A New English Dictionary, vol. VIII, part 2, Shrine, sb.: the etymology (Latin scrinium, case or chest for books or papers); sense 1 (a box, coffer; a cabinet, chest; marked obsolete; last examples 1516, 1560 and 1658); sense 2 (the box, casket, or other repository in which the relics of a saint are preserved); and sense 5c (figurative, in contexts referring to the veneration or idolizing of some person or thing), where the dictionary quotes rows 3.0 and 3.1 of this passage under the date 1605. Read again on 2026-10-03"
+            },
+            {
+              "row": "3.1",
+              "w": [8, 8],
+              "gloss": "Latin sanctus, holy",
+              "note": "Later in the speech he calls the gold *dear saint* again, and in Act 3 Bonario, who frees Celia from him, speaks of *this altar* and calls Volpone’s treasure *dross* and his *idol*.",
+              "source": "A New English Dictionary, vol. VIII, part 2, Saint; Volpone, Act 1, Scene 1 (block 5, row 18) and Act 3, Scene 6 (block 128)"
+            },
+            {
+              "row": "5.0",
+              "w": [0, 0],
+              "gloss": "a greeting · Latin ave",
+              "note": "The dictionary gives it as the English for Latin *ave*, and *Hail Mary* as the angel’s greeting to Mary and the prayer, *Ave Maria*.",
+              "source": "A New English Dictionary, vol. V, Hail, int., and Hail Mary"
+            },
+            {
+              "row": "5.0",
+              "w": [2, 3],
+              "gloss": "what gives the world life",
+              "note": "After Latin *anima mundi*, the early philosophers’ name for the principle that animates the world.",
+              "source": "A New English Dictionary, vol. IX, part 1, Soul, sb.: the soul of the world"
+            },
+            {
+              "row": "5.1",
+              "w": [1, 1],
+              "gloss": "pregnant · fertile",
+              "source": "A New English Dictionary, vol. IX, part 2, Teeming, ppl. a., senses 1 and 2"
+            },
+            {
+              "row": "5.2",
+              "w": [6, 7],
+              "gloss": "Aries, in the zodiac",
+              "note": "The Ram is the constellation of the zodiac that the sun enters in March: on the 21st, by the dictionary’s reckoning.",
+              "source": "A New English Dictionary, vol. I, Aries"
+            },
+            {
+              "row": "5.6",
+              "w": [3, 3],
+              "gloss": "the formless matter before creation",
+              "source": "A New English Dictionary, vol. II, Chaos, sense 2"
+            },
+            {
+              "row": "5.7",
+              "w": [2, 2],
+              "gloss": "the center of the earth",
+              "source": "A New English Dictionary, vol. II, Centre, sense 2a"
+            },
+            {
+              "row": "5.7",
+              "w": [5, 7],
+              "gloss": "Sol: the sun · gold",
+              "note": "In alchemy *Sol*, the sun, was the name for gold.",
+              "source": "A New English Dictionary, vol. IX, part 1, Sol, sb.1, senses 1 and 2a"
+            },
+            {
+              "row": "5.9",
+              "w": [1, 1],
+              "gloss": "worship",
+              "note": "Latin *adorare* is to address, salute or reverence, and in late Latin to worship.",
+              "source": "A New English Dictionary, vol. I, Adoration, sense 1, and Adore"
+            },
+            {
+              "row": "5.9",
+              "w": [5, 5],
+              "gloss": "a saint’s remains, kept holy",
+              "note": "From Latin *reliquiae*, remains: a part of a saint’s body or belongings, kept and venerated.",
+              "source": "A New English Dictionary, vol. VIII, part 1, Relic"
+            },
+            {
+              "row": "5.10",
+              "w": [1, 1],
+              "gloss": "made holy · consecrated",
+              "source": "A New English Dictionary, vol. VIII, part 2, Sacred, a., sense 3"
+            },
+            {
+              "row": "5.10",
+              "w": [5, 5],
+              "gloss": "consecrated, holy",
+              "source": "A New English Dictionary, vol. I, Blessed, ppl. a., sense 1"
+            }
+          ],
+          "caption": "Volpone addresses his gold in words of Christian worship. It is his <b>Saint</b>. He greets it with <b>Hail</b>, the greeting that begins the prayer to Mary. He asks to kiss it <i>with adoration</i>, and each <b>relick</b> of the hoard besides, which he calls <b>sacred</b> treasure in a <b>blessed</b> room. A <b>shrine</b> was the casket of a saint’s relics. Auden wrote that the basic pattern of Jonson’s comedy of humors is the morality play with one of the seven deadly sins made its hero. A humor was a person’s temperament, his habitual bent. A morality play had qualities such as virtues and vices for its chief persons. The hero of this comedy begins Act 1 by worshipping money.",
+          "why": "Volpone greets his gold in the words of Christian worship, saint, hail, adoration, relic, shrine, so Act 1 opens on a man worshipping money; Auden says a Jonson hero is one of the seven deadly sins.",
+          "stands": "The marks on the passage and what its lines say; the speech in full, with *dear saint*, is in [Act 1, Scene 1](#/read/volpone/a1s1:5). *A New English Dictionary*, under Shrine, Saint, Hail, Hail Mary, Soul, Teeming, Aries, Chaos, Centre, Sol, Adoration, Adore, Relic, Sacred, Blessed, Morality and Humour. Bonario’s altar and idol: [Act 3, Scene 6](#/read/volpone/a3s6:128). Auden, “The Globe,” in *The Dyer’s Hand* (1962), p. 173.",
+          "grounds": [
+            {
+              "claim": "the words Volpone uses of his gold, and that Act 1 begins with them",
+              "kind": "text",
+              "source": "Act 1, Scene 1: the lines on the plate (blocks 0 to 5 of the hosted text)"
+            },
+            {
+              "claim": "shrine: the box, casket or other repository in which a saint’s relics are kept (sense 2); the dictionary quotes the first two lines of this passage, dated 1605, under sense 5c, the figurative use in contexts referring to the veneration or idolizing of some person or thing; the root is Latin scrinium, a case or chest for books or papers, and sense 1, a box or coffer, is marked obsolete, with examples from about 1000 to 1658",
+              "kind": "source",
+              "source": "A New English Dictionary on Historical Principles, vol. VIII, part 2, Shrine, sb., the etymology and senses 1, 2 and 5c, read again on 2026-10-03"
+            },
+            {
+              "claim": "hail, adoration, relic, sacred, blessed and saint as words of Christian worship",
+              "kind": "source",
+              "source": "A New English Dictionary, under Hail (int.) and Hail Mary, Adoration (sense 1), Relic, Sacred (sense 3), Blessed (sense 1) and Saint"
+            },
+            {
+              "claim": "the morality: the kind of drama, popular in the sixteenth century, whose chief characters were personifications of abstract qualities; the entry’s examples name Everyman as a morality and tell of one in which the seven virtues are besieged by the seven deadly sins",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. VI, part 2, Morality, sense 4b, read on 2026-10-03"
+            },
+            {
+              "claim": "a humor: mental disposition, originally as determined by the proportion of the bodily humours; constitutional or habitual tendency; temperament",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. V, Humour, sb., sense 4, read by the critic and again by the lead on 2026-10-03"
+            },
+            {
+              "claim": "the basic pattern of Jonson’s comedy of humors: the morality play with Everyman taken away and one of the seven deadly sins put in his place as hero",
+              "kind": "auden",
+              "source": "“The Globe,” in The Dyer’s Hand (1962), p. 173"
+            }
+          ]
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            { "from": ["5.0", 6], "to": ["5.0", 7], "tag": "main", "label": "what he is" },
+            { "from": ["5.0", 8], "to": ["5.2", 7], "tag": "than", "label": "the comparison" },
+            { "from": ["5.3", 0], "to": ["5.3", 1], "tag": "main", "label": "verb and subject" },
+            { "from": ["5.3", 2], "to": ["5.3", 7], "tag": "gold", "label": "what gladdens him" },
+            { "from": ["5.4", 0], "to": ["5.7", 2], "tag": "gold", "label": "the gold’s likenesses" },
+            { "from": ["5.1", 7], "to": ["5.1", 7], "tag": "sun", "label": "the sun" },
+            { "from": ["5.3", 7], "to": ["5.3", 7], "tag": "sun", "label": "the sun" }
+          ],
+          "caption": "The sentence starts with what he is, <b>more glad</b>, and keeps back who is glad. First comes the comparison: the <i>teeming</i> earth sees the sun enter the Ram, as it does in March. Verb and subject come three lines later: <b>Am I</b>. Keeping back the main words holds a hearer in suspense, which throws the emphasis on the words waited for. The earth’s gladness at the longed-for sun is told in full; then the speaker outdoes it. What gladdens him is the gold’s <i>splendour darkening his</i>, and <b>his</b> is the sun’s. Then the gold is likened to a flame at night and to <i>the day struck out of chaos</i>.",
+          "why": "The sentence keeps back its verb and subject, Am I, for three lines and fills the wait with the earth’s gladness at the longed-for sun, so that gladness is told first and then outdone by a man looking at gold.",
+          "stands": "The marks on the passage: the order of the sentence’s parts, and the three lines from *more glad* to *Am I*. What the lines say. Suspense, the emphasis it throws on the words waited for, and the adjective set before its subject: Edwin A. Abbott, *How to Write Clearly* (1883), rules 30 and 33. The Ram and *teeming*: *A New English Dictionary*, under Aries and Teeming.",
+          "grounds": [
+            {
+              "claim": "the order of the parts, and the wait of three lines for Am I",
+              "kind": "plate"
+            },
+            {
+              "claim": "he is more glad than the earth at the longed-for sun; the gold’s splendor darkens the sun’s; it shows like a flame at night, and like the day struck from chaos",
+              "kind": "text",
+              "source": "Act 1, Scene 1: the lines on the plate"
+            },
+            {
+              "claim": "the Ram is the constellation of the zodiac that the sun enters on the 21st of March; teeming means pregnant or fertile",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. I, Aries, and vol. IX, part 2, Teeming, ppl. a., senses 1 and 2"
+            },
+            {
+              "claim": "a sentence written so that it is felt to be incomplete until its full stop keeps its reader in suspense, and suspense throws increased emphasis on the words waited for (rule 30); a long suspense is tolerable at the opening of a poem, with two openings in which subject and verb come last (rule 31); suspense is gained by setting an adjective that qualifies the subject before the subject, which is the build of more glad ... Am I (rule 33)",
+              "kind": "source",
+              "source": "Edwin A. Abbott, How to Write Clearly (Boston: Roberts Brothers, 1883), rules 30, 31 and 33, read in Project Gutenberg no. 22600 on 2026-10-03 by the poet and again by the examiner. Also William Strunk, Jr., The Elements of Style (New York: Harcourt, Brace; copyright 1918 and 1919 by Strunk, 1920 by the publisher), rule 18, on the periodic sentence and on words made emphatic by their place (Project Gutenberg no. 37134), and Wikipedia, “Periodic sentence”"
+            }
+          ]
+        },
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "blank verse: ten syllables and five beats, the line beginning off the beat",
+          "scan": {
+            "3.0": { "meter": "x/x/x/x/x/", "voice": "x /x x x / x / x /" },
+            "3.1": { "meter": "x/x/x/x/x/", "voice": "/x x / x x x / x /" },
+            "5.0": { "meter": "x/x/x/x/x/", "voice": "/ x / / x / x / x x" },
+            "5.1": { "meter": "x/x/x/x/x/", "voice": "x /x / x / x /x /" },
+            "5.2": { "meter": "x/x/x/x/x/", "voice": "/ x x / x x x/x /" },
+            "5.3": { "meter": "x/x/x/x/x/", "voice": "x / x / x /x /x /", "div": { "6": "dark|ening" } },
+            "5.4": { "meter": "x/x/x/x/x/", "voice": "x /x / x/ x /x /" },
+            "5.5": { "meter": "x/x/x/x/x/", "voice": "/ x x / x / x x x /" },
+            "5.6": { "meter": "x/x/x/x/x/", "voice": "/ / x /x x / /x /" },
+            "5.7": { "meter": "x/x/x/x/x/", "voice": "/x x /x / x / x /", "div": { "2": "cen|tre." } },
+            "5.8": { "meter": "x/x/x/x/x/", "voice": "x /x x x /x / x /" },
+            "5.9": { "meter": "x/x/x/x/x/x", "voice": "x /x/x / x /x /x" },
+            "5.10": { "meter": "x/x/x/x/x/", "voice": "x /x /x x x /x /", "div": { "1": "sa|cred", "5": "bless|ed" } }
+          },
+          "points": [
+            {
+              "at": ["3.0", 0, 4],
+              "say": "The greeting to the day: six syllables, three of them unstressed and in a row."
+            },
+            {
+              "at": ["5.0", 0, 5],
+              "say": "The greeting to the gold: six syllables, four stresses. Two of them meet at *world’s soul*."
+            },
+            {
+              "at": ["5.3", 0, 1],
+              "say": "The first beat falls on *I*, which the sentence has kept back for three lines."
+            }
+          ],
+          "caption": "These lines are blank verse: ten syllables to the line, a beat on every second one, and no pattern of rhyme. One line, ending <b>relick</b>, runs a syllable past the last beat. Volpone gives two greetings of six syllables. In <i>Good morning to the day</i> three unstressed syllables run together before <b>day</b>. <b>Hail the world’s soul, and mine</b> has four stresses: it starts on one, against the measure, and at <b>world’s soul</b> two stand together, which slows the line. He names the gold second and gives it the heavier, slower greeting.",
+          "why": "Volpone greets the day and then the gold in six syllables each: the gold’s greeting has four stresses, more than the day’s, and two stand side by side, so the line slows on the gold’s name, the world’s soul.",
+          "stands": "The marks on the passage: the measure of each line, the stresses of the two greetings, the beat on *I*. What the lines say. Blank verse, the extra syllable at a line’s end, and the slowing of a line when a stress is crowded in where the measure has no beat: Paull F. Baum, *The Principles of English Versification* (1922), chapters 4 and 5.",
+          "grounds": [
+            {
+              "claim": "the measure of each line, the stresses in the two greetings, the two stresses at world’s soul, the beat on I",
+              "kind": "plate"
+            },
+            {
+              "claim": "he names the day first and the gold next; the world’s soul is his name for the gold; the subject, I, comes three lines after the sentence begins",
+              "kind": "text",
+              "source": "Act 1, Scene 1: the lines on the plate"
+            },
+            {
+              "claim": "blank verse is the unrhymed line of five stresses, the line of nearly all Elizabethan drama; a line may add a light syllable at the end",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on blank verse and on the feminine ending"
+            },
+            {
+              "claim": "a stressed syllable crowded into a light place slows the line",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on lines overweighted with stress"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "song",
+      "heading": "Volpone’s song to Celia: lines 1 to 10 and 15 to 18",
+      "text": "volpone/a3s6",
+      "rows": [
+        "106.0-106.9",
+        "106.14-106.17"
+      ],
+      "lenses": [
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "106.0": "a",
+            "106.1": "a",
+            "106.2": "b",
+            "106.3": "b",
+            "106.4": "c",
+            "106.5": "c",
+            "106.6": "d",
+            "106.7": "d",
+            "106.8": "e",
+            "106.9": "e",
+            "106.14": "h",
+            "106.15": "h",
+            "106.16": "i",
+            "106.17": "i"
+          },
+          "tails": {
+            "106.0": 3,
+            "106.1": 3,
+            "106.2": 4,
+            "106.3": 4,
+            "106.4": 3,
+            "106.5": 3,
+            "106.6": 4,
+            "106.7": 4,
+            "106.8": 3,
+            "106.9": 3,
+            "106.14": 3,
+            "106.15": 3,
+            "106.16": 3,
+            "106.17": 3
+          },
+          "threads": [
+            {
+              "sound": "s",
+              "at": [
+                ["106.14", 2, 0, 1],
+                ["106.14", 6, 0, 1],
+                ["106.15", 2, 0, 1],
+                ["106.16", 5, 0, 1]
+              ]
+            }
+          ],
+          "caption": "The song is in short couplets: lines of four beats, rhymed in pairs. The quick return of the rhyme makes each pair a unit, and the short line, so often repeated, gives an effect of hurry. Hurry is what the song urges: love <i>while we can</i>. Twice a pair is split: its second line starts a statement that runs through the next pair. The first is the three lines on <b>suns</b>, light and night, taken from the Latin poet Catullus. The second is the rule that closes the song, where the split pair rhymes <b>steal</b> with <b>reveal</b>, the act with its discovery. One sound picks out four words of the rule: <b>sin</b>, <b>steal</b>, <b>sweet</b>, <b>seen</b>.",
+          "why": "The song is in short rhymed pairs, a form that gives an effect of hurry, and hurry is what it urges; the pair split at the closing rule rhymes steal with reveal, the act with its discovery.",
+          "stands": "The marks on the passage, and a count of the nine rhymed pairs of the whole song in [Act 3, Scene 6](#/read/volpone/a3s6:106): two are split. The short couplet, its hurry, and the repeated first sound: Paull F. Baum, *The Principles of English Versification* (1922), chapters 4 and 5. The lines on suns: Catullus, poem 5, lines 4 to 6, in E. T. Merrill’s edition (1893).",
+          "grounds": [
+            {
+              "claim": "which lines rhyme, where the statements end, and the letters that come back",
+              "kind": "plate"
+            },
+            {
+              "claim": "the short couplet: the quick return of the rhyme makes the pair felt as a unit; the short line and couplet, so often repeated, give an effect of hurry; a couplet can be divided so that its second line belongs to a new sentence",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the short couplet"
+            },
+            {
+              "claim": "a repeated first sound is a means of emphasis",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on alliteration"
+            },
+            {
+              "claim": "the song urges love while they can, since time will not be theirs for ever, and asks why they should defer; to steal is the act and to reveal is its discovery",
+              "kind": "text",
+              "source": "Act 3, Scene 6: the song (block 106 of the hosted text)"
+            },
+            {
+              "claim": "the three lines on suns, light and night follow lines 4 to 6 of Catullus’s poem",
+              "kind": "source",
+              "source": "Catullus, poem 5, lines 4 to 6, in E. T. Merrill’s edition (1893), read at the Perseus Digital Library"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "106.0",
+              "w": [5, 5],
+              "gloss": "try · come to know",
+              "note": "From Latin *probare*, to test: to *prove* a thing was to make trial of it, and so to know it by experience.",
+              "source": "A New English Dictionary, vol. VII, Prove, v., senses 1 and 3"
+            },
+            {
+              "row": "106.5",
+              "w": [0, 0],
+              "gloss": "Catullus: soles, suns",
+              "note": "Line 4 of Catullus’s poem says that suns can set and come back.",
+              "source": "Catullus, poem 5, line 4, in E. T. Merrill’s edition (1893), read at the Perseus Digital Library; Lewis and Short, A Latin Dictionary, sol"
+            },
+            {
+              "row": "106.6",
+              "w": [4, 4],
+              "gloss": "lose, in an old spelling",
+              "source": "A New English Dictionary, vol. VI, part 1: Loose, obsolete form or variant of Lose"
+            },
+            {
+              "row": "106.6",
+              "w": [6, 6],
+              "gloss": "Catullus: brevis lux, short light",
+              "source": "Catullus, poem 5, line 5; Lewis and Short, A Latin Dictionary, brevis and lux"
+            },
+            {
+              "row": "106.7",
+              "w": [3, 4],
+              "gloss": "Catullus: nox perpetua",
+              "note": "In Catullus it is one unbroken night that must be slept through.",
+              "source": "Catullus, poem 5, line 6; Lewis and Short, A Latin Dictionary, perpetuus and nox"
+            },
+            {
+              "row": "106.9",
+              "w": [0, 0],
+              "gloss": "report",
+              "source": "The glossary of the hosted edition (Project Gutenberg no. 4039), under Fame"
+            },
+            {
+              "row": "106.9",
+              "w": [2, 2],
+              "gloss": "Catullus: rumores, common talk",
+              "note": "In Catullus all of it is to be valued at one *as*, a copper coin.",
+              "source": "Catullus, poem 5, lines 2 and 3; Lewis and Short, A Latin Dictionary, rumor (I.A) and as (II.A.1)"
+            },
+            {
+              "row": "106.9",
+              "w": [5, 5],
+              "gloss": "trifles",
+              "source": "A New English Dictionary, vol. X, part 1, Toy, sb., sense 5"
+            },
+            {
+              "row": "106.15",
+              "w": [2, 3],
+              "gloss": "Latin furta: secret loves",
+              "note": "Latin poets called a stolen or secret love a theft, *furtum*, mostly in the plural; Virgil’s *Georgics* has *dulcia furta*, the sweet thefts of Mars.",
+              "source": "Lewis and Short, A Latin Dictionary, furtum, I (theft) and II.B.2 (stolen or secret love, intrigue, mostly in the plural), read again at the Perseus Digital Library on 2026-10-03; Virgil, Georgics 4.346, in J. B. Greenough’s edition (1900), read at the Perseus Digital Library. The gloss names the Latin usage, not Virgil, so that it does not read as a claim that Jonson took the phrase from him"
+            },
+            {
+              "row": "106.16",
+              "w": [2, 2],
+              "gloss": "caught in the act",
+              "note": "In Act 4 the lawyer Voltore tells the court, falsely, that Celia has been *taken in the act* with Bonario, the man who freed her.",
+              "source": "A New English Dictionary, vol. IX, part 2, Take, v., sense 8; Volpone, Act 4, Scene 2 (block 96)"
+            },
+            {
+              "row": "106.17",
+              "w": [2, 2],
+              "gloss": "offenses · Latin crimen, a charge",
+              "note": "Latin *crimen* is first a charge or accusation, then the offense charged.",
+              "source": "Lewis and Short, A Latin Dictionary, crimen, I and II; A New English Dictionary, vol. II, Crime"
+            }
+          ],
+          "caption": "The song is made from a Latin poem, Catullus’s to Lesbia, which opens with a call to live and love. Jonson’s <b>suns</b> that set and rise are Catullus’s <i>soles</i>, his <b>perpetual night</b> is <i>nox perpetua</i>, and <b>rumour</b> is the <i>rumores</i>, the talk of stern old men, which Catullus values at one copper coin. Catullus goes on to count kisses. This song turns to watchers: the four lines left out here ask whether spies and a man’s ears cannot be deceived. The closing rule is not in Catullus’s poem. Latin poets called secret loves thefts, <i>furta</i>, and the rule carries the figure through: <b>steal</b>, <b>thefts</b>, <b>taken</b>, <b>crimes</b>.",
+          "why": "The song takes its call to love, its suns, its perpetual night and its idle talk from Catullus; where he counts kisses it turns to spies and a rule on being caught, in the words of theft.",
+          "stands": "Catullus, poem 5, in E. T. Merrill’s edition (1893), set beside the song; Wikipedia, “Catullus 5,” on Jonson’s use of the poem. Lewis and Short, *A Latin Dictionary*, under *sol*, *brevis*, *lux*, *nox*, *perpetuus*, *rumor*, *as*, *furtum* and *crimen*. Virgil, *Georgics* 4.346. *A New English Dictionary*, under Prove, Loose, Toy, Take and Crime. The four lines left out: [the whole song](#/read/volpone/a3s6:106). The lawyer’s charge: [Act 4, Scene 2](#/read/volpone/a4s2:96).",
+          "grounds": [
+            {
+              "claim": "what the song takes from Catullus, how Catullus’s poem goes on, and that the closing rule is not in it",
+              "kind": "source",
+              "source": "Catullus, poem 5, in E. T. Merrill’s edition (1893), read at the Perseus Digital Library and set beside the song. Wikipedia, “Catullus 5,” says Jonson drew on the poem in “Song. To Celia,” poem 5 of The Forest, which is this song (read at anthony.sogang.ac.kr/Forest.htm)"
+            },
+            {
+              "claim": "soles, lux, nox perpetua and rumores; the as, a copper coin",
+              "kind": "source",
+              "source": "Lewis and Short, A Latin Dictionary, under sol, lux, nox, perpetuus, rumor (I.A) and as (II.A.1)"
+            },
+            {
+              "claim": "the four lines not shown: household spies, and the ears of a man their trick has removed",
+              "kind": "text",
+              "source": "Act 3, Scene 6: lines 11 to 14 of the song (block 106, rows 10 to 13 of the hosted text)"
+            },
+            {
+              "claim": "furtum, a theft, used by Latin poets for a secret love; Virgil’s dulcia furta",
+              "kind": "source",
+              "source": "Lewis and Short, A Latin Dictionary, furtum, II.B.2; Virgil, Georgics 4.346, in J. B. Greenough’s edition (1900), read at the Perseus Digital Library"
+            },
+            {
+              "claim": "taken: caught in some action; crime, and Latin crimen, a charge",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. IX, part 2, Take, v., sense 8, and vol. II, Crime; Lewis and Short, crimen, I and II"
+            }
+          ]
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "pair",
+          "join": [["act", "found"]],
+          "parts": [
+            { "row": "106.14", "w": [3, 6], "tag": "act", "label": "the act" },
+            { "row": "106.15", "w": [1, 5], "tag": "found", "label": "being found out" },
+            { "row": "106.16", "w": [0, 2], "tag": "found", "label": "being found out" },
+            { "row": "106.16", "w": [3, 5], "tag": "found", "label": "being found out" },
+            { "row": "106.14", "w": [1, 2], "tag": "verdict", "label": "the verdict" },
+            { "row": "106.17", "w": [2, 2], "tag": "verdict", "label": "the verdict" }
+          ],
+          "caption": "The last four lines are an antithesis. On one side is the act: to <b>steal</b> love’s fruits is <b>no sin</b>. On the other is being found out: to <b>reveal</b> the theft, to be <b>taken</b> or <b>seen</b>, these are the <b>crimes</b>. Celia’s husband has argued the same way earlier in the scene, asking who shall know it. Before the scene ends Bonario rushes in to free her, and Volpone cries that he is unmasked and undone. In the last scene he throws off his own disguise. Auden says that classical comedy ends with its people exposed and punished.",
+          "why": "The song’s last four lines set the act against its discovery: stealing is no sin, being revealed, taken or seen is the crime; before the scene ends Volpone is unmasked, and Auden says classical comedy exposes and punishes its people.",
+          "stands": "The marks on the passage. Antithesis as *A New English Dictionary* defines it. Corvino’s question: [earlier in the scene](#/read/volpone/a3s6:24). Bonario’s entrance and Volpone’s cry: [after the song](#/read/volpone/a3s6:128). The disguise thrown off: [Act 5, Scene 8](#/read/volpone/a5s8:189). Auden, “The Globe,” in *The Dyer’s Hand* (1962), p. 177.",
+          "grounds": [
+            {
+              "claim": "the matching parts of the last four lines",
+              "kind": "plate"
+            },
+            {
+              "claim": "antithesis: opposed ideas expressed in neighboring clauses by words that are opposites or strongly contrasted",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. I, Antithesis, sense 1"
+            },
+            {
+              "claim": "Corvino asks who shall know it",
+              "kind": "text",
+              "source": "Act 3, Scene 6, before the song (block 24 of the hosted text)"
+            },
+            {
+              "claim": "Bonario rushes in and frees Celia; Volpone says he is unmasked and undone",
+              "kind": "text",
+              "source": "Act 3, Scene 6, after the song (blocks 126 to 131)"
+            },
+            {
+              "claim": "Volpone throws off his disguise",
+              "kind": "text",
+              "source": "Act 5, Scene 8 (blocks 189 to 190)"
+            },
+            {
+              "claim": "classical comedy ends with its people exposed and punished",
+              "kind": "auden",
+              "source": "“The Globe,” in The Dyer’s Hand (1962), p. 177"
+            }
+          ]
+        },
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "seven syllables and four beats, the line beginning on a beat",
+          "scan": {
+            "106.0": { "meter": "/x/x/x/", "voice": "/ x /x / x /", "div": { "2": "Ce|lia," } },
+            "106.1": { "meter": "/x/x/x/", "voice": "x x / x / x /" },
+            "106.2": { "meter": "/x/x/x/x", "voice": "/ x / x / x /x" },
+            "106.3": { "meter": "/x/x/x/x", "voice": "/ x / x / x /x" },
+            "106.4": { "meter": "/x/x/x/", "voice": "/ x / x / x /" },
+            "106.5": { "meter": "/x/x/x/", "voice": "/ x / x / x/" },
+            "106.6": { "meter": "/x/x/x/", "voice": "x x / x / x /" },
+            "106.7": { "meter": "/x/x/x/", "voice": "x x / x/x /", "div": { "3": "per|pet|ual" } },
+            "106.8": { "meter": "/x/x/x/", "voice": "/ x x x/ x /" },
+            "106.9": { "meter": "/x/x/x/", "voice": "/ x /x x x /" },
+            "106.14": { "meter": "/x/x/x/", "voice": "x x / / / x /", "div": { "3": "love’s" } },
+            "106.15": { "meter": "/x/x/x/", "voice": "x x / / x x/" },
+            "106.16": { "meter": "/x/x/x/", "voice": "x x /x x x /" },
+            "106.17": { "meter": "/x/x/x/", "voice": "/ x / x/x /" }
+          },
+          "points": [
+            {
+              "at": ["106.14", 3, 3],
+              "say": "*love’s* can also be said lightly; the line then keeps every stress on a beat."
+            },
+            {
+              "at": ["106.15", 2, 3],
+              "say": "Two stresses together: the line slows here."
+            },
+            {
+              "at": ["106.16", 0, 5],
+              "say": "Seven syllables, two of them stressed."
+            }
+          ],
+          "caption": "The measure is seven syllables and four beats, the line beginning on a beat. Six lines of Ariel’s song in <i>The Tempest</i> keep the same one. Two lines, ending <b>ever</b> and <b>sever</b>, run a syllable past the last beat. In the ten lines shown first the voice can keep every stress on a beat; in the closing rule it cannot. At <b>sweet thefts</b> two stresses stand together, and a stressed word crowded in where the measure has no beat slows the line. The line after has only two stresses, on <b>taken</b> and <b>seen</b>. A line short of stresses turns attention to the words that keep them. Those two words name what the rule calls crimes.",
+          "why": "For ten lines the song’s stresses can all fall on its four beats; in the closing rule two stresses meet at sweet thefts and slow the line, and the next line keeps only two, on taken and seen, the crime.",
+          "stands": "The marks on the passage. The measure of Ariel’s song: the first passage of [the page on *The Tempest*](#/tempest). The slowing of a line where two stresses meet, and the attention that a line short of stresses turns on its important words: Paull F. Baum, *The Principles of English Versification* (1922), chapter 5. What the last two lines say.",
+          "grounds": [
+            {
+              "claim": "the measure of each line, and where the voice leaves it",
+              "kind": "plate"
+            },
+            {
+              "claim": "six lines of Ariel’s song keep the same measure",
+              "kind": "source",
+              "source": "The Tempest, Act 1, Scene 2: the first plate of the piece on The Tempest, which scans the song line by line"
+            },
+            {
+              "claim": "a stressed syllable crowded into a light place slows the line; a line short of its stresses turns the attention to the important words",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on lines overweighted with stress and on lines with less than the normal stress"
+            },
+            {
+              "claim": "to be taken and to be seen are what the rule calls crimes",
+              "kind": "text",
+              "source": "Act 3, Scene 6: the last two lines of the song"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "close",
+      "heading": "The court’s last words and the Fox’s",
+      "turn": { "265.1": 5, "265.2": 5, "265.3": 3, "265.4": 6, "269.1": 3, "269.2": 3, "269.3": 2 },
+      "speakers": { "1 AVOC": "the first judge" },
+      "text": "volpone/a5s8",
+      "rows": [
+        "265.0[5-7]",
+        "265.1-265.5",
+        "269.0-269.5"
+      ],
+      "lenses": [
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "265.0": "x",
+            "265.1": "x",
+            "265.2": "x",
+            "265.3": "x",
+            "265.4": "a",
+            "265.5": "a",
+            "269.0": "b",
+            "269.1": "b",
+            "269.2": "c",
+            "269.3": "c",
+            "269.4": "d",
+            "269.5": "d"
+          },
+          "tails": {
+            "265.4": 3,
+            "265.5": 3,
+            "269.0": 4,
+            "269.1": 3,
+            "269.2": 2,
+            "269.3": 2,
+            "269.4": 4,
+            "269.5": 4
+          },
+          "caption": "The judge’s speech has no rhyme until its last two lines, <b>feed</b> and <b>bleed</b>. On Shakespeare’s stage rhyme was often used to end a scene, and Acts 2 and 3 of this play end on a rhymed pair. This pair ends the trial, and the court goes out. Then the Fox comes forward and speaks six lines, all in rhymed pairs. Each rhyme joins a word of his case to a word of the audience: <b>laws</b> with <b>applause</b>, <b>due</b> with <b>you</b>, <b>stands</b> with <b>hands</b>. The court has judged him, and in these rhymes he puts his case to the audience, to censure him or to clap.",
+          "why": "The judge’s speech rhymes only in its last two lines, feed and bleed, as rhyme often closed a scene on that stage; the Fox’s three rhymes then join each word of his case to a word of the audience.",
+          "stands": "The marks on the passage, and [the directions printed between the two speeches](#/read/volpone/a5s8:266). Rhyme used to end a scene: E. A. Abbott, *A Shakespearian Grammar* (1870), paragraph 515. The rhymed pairs that end [Act 2](#/read/volpone/a2s3:98) and [Act 3](#/read/volpone/a3s6:254) in the text printed here. What the Fox’s six lines say.",
+          "grounds": [
+            {
+              "claim": "which lines rhyme and which do not",
+              "kind": "plate"
+            },
+            {
+              "claim": "rhyme was often used to end a scene",
+              "kind": "source",
+              "source": "E. A. Abbott, A Shakespearian Grammar (revised and enlarged edition, London: Macmillan, 1870), paragraph 515, pp. 428-29: read at the Perseus Digital Library, and again on 2026-10-03 in the Internet Archive scan (grammarshakesp00abbouoft). Abbott writes of Shakespeare’s plays and of the stage of the time"
+            },
+            {
+              "claim": "Acts 2 and 3 end on a rhymed pair",
+              "kind": "text",
+              "source": "Act 2, Scene 3 and Act 3, Scene 6: the last two lines of each in the hosted text"
+            },
+            {
+              "claim": "the court goes out and Volpone comes forward",
+              "kind": "text",
+              "source": "Act 5, Scene 8: the directions on the plate (blocks 266 and 267 of the hosted text)"
+            },
+            {
+              "claim": "the Fox is punished by the laws, hopes no suffering is due, stands doubtful, and tells the audience to censure him or to clap their hands",
+              "kind": "text",
+              "source": "Act 5, Scene 8: the six lines on the plate"
+            }
+          ]
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "simile",
+          "plain": "a comparison that says one thing is like another",
+          "draw": "map",
+          "parts": [
+            { "row": "265.4", "w": [7, 7], "tag": "A", "label": "wrongs" },
+            { "row": "265.5", "w": [1, 1], "tag": "B", "label": "beasts" },
+            { "row": "265.4", "w": [8, 8], "tag": "C", "label": "said of both" },
+            { "row": "265.5", "w": [5, 5], "tag": "C", "label": "said of both" },
+            { "row": "265.5", "w": [9, 9], "tag": "C", "label": "said of both" },
+            { "row": "269.1", "w": [3, 3], "tag": "D", "label": "the next speaker" }
+          ],
+          "caption": "The judge’s last sentence says that <b>Mischiefs</b>, wrongs, <b>feed</b> like <b>beasts</b> till they are <b>fat</b>, and then <b>bleed</b>, which could mean to die by bloodshed. Volpone has used these words before. In the first scene he boasts that he does not <i>fat</i> beasts to <i>feed</i> the shambles, the slaughterhouse, and calls his visitors birds of prey who think him a carcass. One scene before this he says that unless a vein is closed he and Mosca <i>bleed dead</i>. He speaks next, and calls himself the <b>Fox</b>.",
+          "why": "The judge’s closing simile, wrongs that feed like beasts till fat and then bleed, uses Volpone’s own words: fat, beasts and feed from the first scene, bleed from the scene before, and he speaks next as the Fox.",
+          "stands": "The marks on the passage. *A New English Dictionary*, under Simile, Mischief, Bleed and Shamble. Volpone’s boast that he fats no beasts, and his birds of prey: [Act 1, Scene 1](#/read/volpone/a1s1:9) and [later in that scene](#/read/volpone/a1s1:83). *Bleed dead*: [Act 5, Scene 7](#/read/volpone/a5s7:3).",
+          "grounds": [
+            {
+              "claim": "the parts of the simile, and the Fox named in the next speech",
+              "kind": "plate"
+            },
+            {
+              "claim": "simile: a comparison of one thing with another",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. IX, part 1, Simile"
+            },
+            {
+              "claim": "mischief: an injury, evil-doing, and one who does harm; bleed: to lose blood from severe or fatal wounds, to shed one’s blood or die by bloodshed; shambles: the place where animals are killed for meat, a slaughterhouse, the sense under which the dictionary quotes Volpone’s own words on fatting beasts for the shambles (Act 1, Scene 1, block 9, rows 4 and 5), dated 1605. An earlier draft glossed it as the meat market, which is the dictionary’s sense 3",
+              "kind": "source",
+              "source": "A New English Dictionary, under Mischief (senses 2b, 6 and 7), vol. I, Bleed, v. (sense 2), and vol. VIII, part 2, Shamble, sb.1 (sense 4, which cites Volpone I. i), read by the examiner on 2026-10-03"
+            },
+            {
+              "claim": "beasts fed till they are fat and then bled: a fattening for slaughter",
+              "kind": "text",
+              "source": "Act 5, Scene 8: the judge’s last sentence, on the plate"
+            },
+            {
+              "claim": "Volpone says he fats no beasts for the shambles; his visitors are birds of prey who think him a carcass",
+              "kind": "text",
+              "source": "Act 1, Scene 1 (blocks 9 and 83 of the hosted text)"
+            },
+            {
+              "claim": "Mosca must help close the vein, or he and Volpone bleed dead",
+              "kind": "text",
+              "source": "Act 5, Scene 7 (block 3)"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "265.1",
+              "w": [1, 1],
+              "gloss": "the song’s word for being seen",
+              "note": "In Act 3 Volpone sang that to be revealed, taken or seen is what is counted a crime.",
+              "source": "Volpone, Act 3, Scene 6: the second plate"
+            },
+            {
+              "row": "265.3",
+              "w": [7, 7],
+              "gloss": "repaid · punished",
+              "note": "To *reward* was to repay, for good or for ill; in Act 3 Bonario, freeing Celia, says that Volpone shall meet his *just reward*.",
+              "source": "A New English Dictionary, vol. VIII, part 1, Reward, v., senses 6b and 7; Volpone, Act 3, Scene 6 (block 128)"
+            },
+            {
+              "row": "265.4",
+              "w": [7, 7],
+              "gloss": "wrongs · wrongdoers",
+              "note": "The word meant an injury or evil-doing, and also a person who does harm: in Act 5 Volpone calls Mosca his *witty mischief*.",
+              "source": "A New English Dictionary, vol. VI, part 2, Mischief, sb., senses 2b, 6 and 7; Volpone, Act 5, Scene 1 (block 269)"
+            },
+            {
+              "row": "265.5",
+              "w": [9, 9],
+              "gloss": "die by bloodshed",
+              "source": "A New English Dictionary, vol. I, Bleed, v., sense 2"
+            },
+            {
+              "row": "269.0",
+              "w": [1, 1],
+              "gloss": "what flavors a dish",
+              "note": "The Prologue speaks of the *palates* of the season, and says the poet’s ink keeps only a little *salt*, to rub the audience’s cheeks red with laughter.",
+              "source": "A New English Dictionary, vol. VIII, part 2, Seasoning, vbl. sb., sense 2 (first example 1580); Volpone, Prologue, lines 3 and 33 to 36"
+            },
+            {
+              "row": "269.1",
+              "w": [3, 3],
+              "gloss": "Volpone, in English",
+              "note": "An Italian dictionary of 1611 gives *volpone* as an old fox, and also an old, crafty, subtle, sneaking companion.",
+              "source": "John Florio, Queen Anna’s New World of Words (1611), under Volpone"
+            },
+            {
+              "row": "269.3",
+              "w": [2, 2],
+              "gloss": "deed · crime",
+              "note": "An evil deed or crime was the commonest sense of the word in the sixteenth and seventeenth centuries; in Act 4 the lawyer calls the adultery he alleges *this foul fact*.",
+              "source": "A New English Dictionary, vol. IV, Fact, sense 1c; the glossary of the hosted edition, under Fact; Volpone, Act 4, Scene 2 (block 96)"
+            },
+            {
+              "row": "269.4",
+              "w": [3, 3],
+              "gloss": "judge · pass sentence on",
+              "note": "A few speeches earlier the judge tells Volpone that a gentleman cannot fall under *like censure*, meaning a sentence like Mosca’s.",
+              "source": "A New English Dictionary, vol. II, Censure, sb., sense 1, and v., senses 1 and 4; the glossary of the hosted edition, under Censure; Volpone, Act 5, Scene 8 (block 246)"
+            },
+            {
+              "row": "269.4",
+              "w": [7, 7],
+              "gloss": "in doubt · in fear",
+              "source": "A New English Dictionary, vol. III, Doubtful, senses 2 and 5"
+            },
+            {
+              "row": "269.5",
+              "w": [2, 2],
+              "gloss": "get on · feed",
+              "note": "To *fare* was to get on, and also to be fed, as the rich man in the Bible of 1611 *fared sumptuously every day*; *fare well* was the wish at parting.",
+              "source": "A New English Dictionary, vol. IV, Fare, v., senses 7, 8 and 9"
+            },
+            {
+              "row": "269.5",
+              "w": [3, 3],
+              "gloss": "merrily",
+              "note": "*Jovial* also meant under the influence of the planet Jupiter, held to be the source of joy; before his song Volpone says he is in *jovial plight*.",
+              "source": "A New English Dictionary, vol. V, Jovial; Volpone, Act 3, Scene 6 (block 104)"
+            }
+          ],
+          "caption": "The Fox uses words of the table and of the court. Applause is a play’s <b>seasoning</b>, and <b>fare</b> meant to feed as well as to get on. A <b>fact</b> was a deed, most often a crime, and to <b>censure</b> could mean to pass sentence: the judge used the word of Mosca’s punishment. In the letter printed before the play Jonson grants that his ending may <i>meet with censure</i> by the strict law of comedy, and answers that the ancients’ comedies do not always end in joy and that a comic poet must imitate justice. Auden calls Jonson’s comedies classical, and says classical comedy ends with its people exposed and punished.",
+          "why": "The Fox’s word to the audience, censure, is the court’s word for a sentence and Jonson’s word, in the letter before the play, for what strict comedy may say of an ending that punishes, as Auden says classical comedy does.",
+          "stands": "*A New English Dictionary*, under Fact, Censure, Seasoning, Fare, Reward, Mischief, Bleed, Doubtful and Jovial; the glossary of the Project Gutenberg text, under Fact and Censure. The judge’s *censure*: [earlier in the scene](#/read/volpone/a5s8:246). Jonson on his ending: [the Epistle](#/read/volpone/epistle:3). The palates and the salt: [the Prologue](#/read/volpone/prologue:0). John Florio, *Queen Anna’s New World of Words* (1611), under *Volpone*. Auden, “The Globe,” in *The Dyer’s Hand* (1962), p. 177.",
+          "grounds": [
+            {
+              "claim": "fact, censure, seasoning and fare in the senses of Jonson’s day",
+              "kind": "source",
+              "source": "A New English Dictionary, under Fact (sense 1c), Censure (sb., sense 1; v., senses 1 and 4), Seasoning (sense 2) and Fare, v. (senses 7 and 8); the glossary of the hosted edition, under Fact and Censure"
+            },
+            {
+              "claim": "the judge uses censure of a sentence like Mosca’s",
+              "kind": "text",
+              "source": "Act 5, Scene 8 (block 246 of the hosted text)"
+            },
+            {
+              "claim": "Jonson on his ending: it may meet with censure by the strict law of comedy; his aim was to answer those who cry that plays never punish vice; the ancients’ comedies do not always end joyfully; a comic poet’s office is to imitate justice",
+              "kind": "text",
+              "source": "The Epistle printed before the play (block 3 of the hosted Epistle)"
+            },
+            {
+              "claim": "the Fox’s words to the audience",
+              "kind": "text",
+              "source": "Act 5, Scene 8: the lines on the plate"
+            },
+            {
+              "claim": "Jonson’s comedies are classical, and classical comedy ends with its people exposed and punished",
+              "kind": "auden",
+              "source": "“The Globe,” in The Dyer’s Hand (1962), p. 177"
+            }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Names",
+          "what": "the creatures of the play: what each name means, what each bird brings the Fox, and what the court gives each",
+          "facts": {
+            "source": "Working note, not printed. The meanings of the names are from John Florio’s Italian and English dictionary, Queen Anna’s New World of Words (1611), read in the facsimile at pbm.com/~lindahl/florio. The roles (each \"listed\") are from the list of persons at the head of the Project Gutenberg text, no. 4039. Gifts, what each is called and the sentences are from the hosted text: each \"read\" is the block where the thing stands, and each \"where\" lists the other blocks. That a chequin is a gold coin is from the glossary of the same edition and from A New English Dictionary (Chequeen); that the Berlina is a pillory is from the glossary and from Florio (Berlina). Voltore’s gift is called a piece of plate in the play; A New English Dictionary, Plate, sb., sense 15, gives utensils for table and domestic use, ornaments and the like, originally of silver or gold (the scan misprints the number as 16; the senses on either side are 14, bullion, and 16, the heraldic roundel). The play does not name the metal of the piece. The play’s word is printed: the reading lists it in ownWords, so the checker does not take it for a name for a part of the page (set by the lead, 3 October 2026). That a gorcrow is the carrion crow is from A New English Dictionary, vol. IV, Gorcrow, which cites this line of the play as its first example.",
+            "creatures": [
+              {
+                "who": "Volpone",
+                "short": "old fox",
+                "listed": "a Magnifico",
+                "nameMeans": "an old fox; also an old, crafty, subtle, sneaking companion",
+                "called": {
+                  "as": "the Fox, by himself and by Mosca",
+                  "read": "volpone/a5s3:19",
+                  "where": "by Mosca: a5s3, blocks 19 and 26. By himself: a5s1, block 285; a5s8, blocks 189, 249 and 269"
+                },
+                "part": {
+                  "what": "pretends to be dying and takes every gift",
+                  "read": "volpone/a1s1:21"
+                },
+                "sentence": {
+                  "what": "his goods go to a hospital, the Incurabili; he is to lie in prison, in irons, until he is sick and lame in earnest",
+                  "read": "volpone/a5s8:246"
+                }
+              },
+              {
+                "who": "Mosca",
+                "short": "fly",
+                "listed": "his Parasite",
+                "nameMeans": "any kind of fly",
+                "called": {
+                  "as": "flesh-fly, by Voltore",
+                  "read": "volpone/a5s5:43"
+                },
+                "part": {
+                  "what": "lets each of the three think himself the heir; in Act 5 Volpone puts Mosca’s name in the will, and Mosca takes the keys",
+                  "read": "volpone/a1s1:545",
+                  "where": "a1s1, blocks 185 (to Voltore), 393 to 405 (to Corbaccio) and 545 (to Corvino); a5s1, block 80 (the will); a5s3, block 26 (the keys)"
+                },
+                "sentence": {
+                  "what": "to be whipped, then a prisoner for life in the galleys",
+                  "read": "volpone/a5s8:238"
+                }
+              },
+              {
+                "who": "Voltore",
+                "short": "vulture",
+                "listed": "an Advocate",
+                "nameMeans": "a ravenous bird called a vulture",
+                "called": {
+                  "as": "the vulture, by Volpone",
+                  "read": "volpone/a1s1:229"
+                },
+                "brings": {
+                  "what": "a great antique piece of plate (ware of silver or gold), engraved with Volpone’s name and arms",
+                  "read": "volpone/a1s1:139",
+                  "where": "a1s1, blocks 87 to 91 and 139"
+                },
+                "sentence": {
+                  "what": "banished from his profession and from the state",
+                  "read": "volpone/a5s8:251"
+                }
+              },
+              {
+                "who": "Corbaccio",
+                "short": "great raven",
+                "listed": "an old Gentleman",
+                "nameMeans": "a filthy great raven (Florio spells it Corbacchio)",
+                "called": {
+                  "as": "the old raven, by Volpone",
+                  "read": "volpone/a1s1:229"
+                },
+                "brings": {
+                  "what": "a bag of chequins, gold coin; then a will that cuts off his own son",
+                  "read": "volpone/a1s1:345",
+                  "where": "a1s1, block 345 (the coin) and blocks 393 to 405 (the will proposed); a3s6, block 169 (the will brought)"
+                },
+                "sentence": {
+                  "what": "his estate goes to his son; he is confined to a monastery to learn to die well",
+                  "read": "volpone/a5s8:251"
+                }
+              },
+              {
+                "who": "Corvino",
+                "short": "raven-like",
+                "listed": "a Merchant",
+                "nameMeans": "of a raven’s nature or color",
+                "called": {
+                  "as": "the fine bird with moral emblems on his name, who dropped his cheese and let the Fox laugh (by Volpone)",
+                  "read": "volpone/a5s5:16"
+                },
+                "brings": {
+                  "what": "a pearl and a diamond; then his wife, Celia",
+                  "read": "volpone/a1s1:516",
+                  "where": "a1s1, blocks 516 (the pearl) and 535 (the diamond); a3s6 (Celia)"
+                },
+                "sentence": {
+                  "what": "to be rowed round Venice in a cap with ass’s ears and set in the pillory, the Berlina; his wife goes home to her father with three times her dowry",
+                  "read": "volpone/a5s8:257",
+                  "where": "a5s8, blocks 257 to 261"
+                }
+              }
+            ],
+            "others": [
+              {
+                "who": "Lady Would-be",
+                "listed": "Sir Politick’s Wife",
+                "called": {
+                  "as": "my she-wolf, by Volpone",
+                  "read": "volpone/a5s1:76",
+                  "where": "a5s1, block 76. That she is the she-wolf is inferred: she is the one woman among the four who come on the news (a5s1, blocks 134, 146, 162 and 172)"
+                },
+                "brings": {
+                  "what": "a cap of her own work",
+                  "read": "volpone/a3s2:159"
+                }
+              },
+              {
+                "who": "Bonario",
+                "listed": "son to Corbaccio",
+                "nameMeans": "honest, uncorrupt",
+                "part": {
+                  "what": "accused in court in Act 4; found innocent and set free in Act 5",
+                  "read": "volpone/a5s8:212",
+                  "where": "a4s2, block 96; a5s8, blocks 212 to 218"
+                }
+              },
+              {
+                "who": "Celia",
+                "listed": "Corvino’s Wife",
+                "part": {
+                  "what": "accused in court in Act 4; found innocent and set free in Act 5",
+                  "read": "volpone/a5s8:212",
+                  "where": "a4s2, block 96; a5s8, blocks 212 to 218"
+                }
+              }
+            ],
+            "theHope": {
+              "what": "Volpone has no heir, and his visitors send presents in hope that the gifts will come back tenfold when he dies",
+              "read": "volpone/a1s1:21"
+            },
+            "theGiftsCounted": {
+              "what": "alone near the end of Act 1, Volpone counts the morning’s gifts: a pearl, a diamond, plate, chequins",
+              "read": "volpone/a1s1:610"
+            },
+            "volponeSays": [
+              {
+                "what": "vulture, kite, raven and gorcrow (the carrion crow) are all his birds of prey, who think he is turning into a carcass",
+                "read": "volpone/a1s1:83"
+              },
+              {
+                "what": "he asks whether he is not like a fox that lies stretched out on the ground, mocking a gaping crow",
+                "read": "volpone/a1s1:93"
+              },
+              {
+                "what": "his Vulture, Crow and Raven will come flying to peck for carrion",
+                "read": "volpone/a5s1:76"
+              }
+            ],
+            "dictionary": {
+              "what": "The meanings are from John Florio’s Italian and English dictionary, *Queen Anna’s New World of Words* (1611)."
+            },
+            "bestiary": {
+              "what": "The hungry fox rolls in red earth, lies still and holds its breath; birds take it for dead and settle on it, and it seizes and eats them.",
+              "book": "the Aberdeen Bestiary, folio 16r, in the University of Aberdeen’s translation"
+            },
+            "sentenced": 5
+          },
+          "caption": "The five persons the court sentences have creatures’ names, which an Italian dictionary of Jonson’s day explains. <i>Volpone</i> is an old fox, <i>Mosca</i> a fly, <i>Voltore</i> a vulture, <i>Corbaccio</i> a filthy great raven, <i>Corvino</i> of a raven’s nature. A medieval book of beasts tells how the fox shams death until birds settle on it, then eats them. Each bird brings the Fox a gift in hope of his estate: a piece of plate, gold coin, a pearl, a diamond. Auden describes what happens in a comedy by Jonson: a rascal with brains cheats a fool with money, and the fool deserves it, since he wants nothing more moral than the rascal does. The court punishes all five.",
+          "why": "Three birds of prey bring gifts to a fox they take for carrion, and the fox and his fly take the gifts; the court sentences cheats and cheated alike, and Auden says the fool in a Jonson comedy deserves it.",
+          "stands": "John Florio, *Queen Anna’s New World of Words* (1611), under *Volpone*, *Mosca*, *Voltore*, *Corbacchio* and *Corvino*. The Aberdeen Bestiary, folio 16r, in the University of Aberdeen’s translation. The gifts and the hope: [Act 1, Scene 1](#/read/volpone/a1s1:21), and Volpone’s [count of the gifts](#/read/volpone/a1s1:610). The five sentences: [Act 5, Scene 8](#/read/volpone/a5s8:238). *A New English Dictionary*, under Chequeen. Auden, “The Joker in the Pack,” in *The Dyer’s Hand* (1962), p. 252.",
+          "grounds": [
+            {
+              "claim": "what the names mean",
+              "kind": "source",
+              "source": "John Florio, Queen Anna’s New World of Words (1611), under Volpone, Mosca, Voltore, Corbacchio and Corvino"
+            },
+            {
+              "claim": "the fox that shams death to catch birds",
+              "kind": "source",
+              "source": "The Aberdeen Bestiary (Aberdeen University Library MS 24), folio 16r, in the university’s translation"
+            },
+            {
+              "claim": "the gifts, the hope of the estate, and Volpone’s names for his visitors",
+              "kind": "text",
+              "source": "Act 1, Scene 1 (blocks 21, 83 to 93, 139, 229, 345, 516, 535 and 610 of the hosted text)"
+            },
+            {
+              "claim": "a chequin is a gold coin; a piece of plate is a piece of ware of silver or gold",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. II, Chequeen (a gold coin of Italy and Turkey; it cites this play), and vol. VII, Plate, sb., sense 15 (utensils for table and domestic use, ornaments, etc., originally of silver or gold; the scan prints the number as 16, between senses 14 and 16); the glossary of the hosted edition, under Chequin"
+            },
+            {
+              "claim": "the five sentences",
+              "kind": "text",
+              "source": "Act 5, Scene 8 (blocks 238 to 261)"
+            },
+            {
+              "claim": "the situation of a comedy by Jonson: a clever rascal cheats a rich fool, and the fool deserves it, his desire being no more moral than the rogue’s",
+              "kind": "auden",
+              "source": "“The Joker in the Pack,” in The Dyer’s Hand (1962), p. 252"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Writing of the Elizabethan playwrights, Auden calls Jonson the one highbrow among them and says his debt to the morality play is greater than his debt to Latin comedy. Remove the morality play’s hero, Everyman, he says, and make a deadly sin, one of the seven, the hero in his place; let the remaining six band together to gain by it. That gives the plan on which Jonson’s comedies of humors are built.",
+      "source": "“The Globe,” in *The Dyer’s Hand* (1962), p. 173",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 8182-8188, above the running head for p. 174, on 2026-10-03; the research notes give pp. 173-74"
+    },
+    {
+      "says": "Auden writes that the first sight of Iago and Roderigo together, in *Othello*, shows the situation of a comedy by Jonson: a clever rascal is cheating a rich fool, and the fool deserves it, since he wants nothing more moral than the rogue does. If *Othello* were a comedy, he adds, Roderigo would find out at last and not dare go to law, since the whole truth would make him look ridiculous or shameful.",
+      "source": "“The Joker in the Pack,” in *The Dyer’s Hand* (1962), p. 252",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 11990-11999, between the running heads for pp. 252 and 253, on 2026-10-03"
+    },
+    {
+      "says": "In an essay of 1948 Auden describes a type of comedy, invented by the Greeks, which grew, he says, into several kinds, among them the comedy of humors that Jonson wrote. Its target is the man who breaks the common rule, not believing that it binds him. He collides with others who stand as far outside the law as he does, while the law leaves him alone. He suffers; the audience, who do not see themselves in him, do not. His suffering teaches him to keep the law, out of caution if not out of conscience.",
+      "source": "“The Greeks and Us” (1948), in *Forewords and Afterwords* (1973), p. 30",
+      "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 1486-1506, on 2026-10-03; in this scan the page number stands at the foot of the page (30, at line 1519)"
+    }
+  ],
+  "next": "volpone/a1s1:0",
+  "sources": [
+    "The text printed here: Ben Jonson, *Volpone; or, The Fox*, from Project Gutenberg no. 4039, a text with an introduction by Felix E. Schelling, a list of the persons and a glossary. The list and the glossary (under Berlina, Censure, Chequin, Fact and Fame) are used here. Act and scene numbers are those of this text.",
+    "W. H. Auden, “The Globe” and “The Joker in the Pack,” in *The Dyer’s Hand and Other Essays* (1962), pp. 173, 177 and 252.",
+    "W. H. Auden, “The Greeks and Us” (1948), in *Forewords and Afterwords* (1973), p. 30.",
+    "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (London: Faber and Faber, 1991), p. 18, in the entry for January 8, 1947; not seen in full.",
+    "*A New English Dictionary on Historical Principles* (Oxford, 1884 to 1928), the first edition of the Oxford English Dictionary, under Adoration, Adore, Antithesis, Aries, Bleed, Blessed, Censure, Centre, Chaos, Chequeen, Crime, Doubtful, Fact, Fare, Gorcrow, Hail, Hail Mary, Humour, Jovial, Loose, Mischief, Morality, Prove, Relic, Reward, Sacred, Saint, Seasoning, Shamble, Shrine, Simile, Sol, Soul, Take, Teeming and Toy; and, for Voltore’s gift, under Plate (sense 15).",
+    "Charlton T. Lewis and Charles Short, *A Latin Dictionary* (1879), under *as*, *brevis*, *crimen*, *furtum*, *lux*, *nox*, *perpetuus*, *rumor* and *sol*, at the Perseus Digital Library.",
+    "Catullus, poem 5, in E. T. Merrill’s edition (Cambridge: Harvard University Press, 1893), at the Perseus Digital Library.",
+    "Virgil, *Georgics* 4.345 to 346, in J. B. Greenough’s edition (Boston, 1900), at the Perseus Digital Library.",
+    "Jonson’s use of Catullus: Wikipedia, “Catullus 5”; Ben Jonson, *The Forest*, poem 5, “Song. To Celia,” in the text at anthony.sogang.ac.kr/Forest.htm.",
+    "John Florio, *Queen Anna’s New World of Words* (1611), under *Volpone*, *Mosca*, *Voltore*, *Corbacchio*, *Corvino*, *Bonario* and *Berlina*, in the facsimile at pbm.com/~lindahl/florio.",
+    "The Aberdeen Bestiary (Aberdeen University Library MS 24, written in England around 1200), folio 16r, with the university’s translation, at abdn.ac.uk/bestiary.",
+    "Paull F. Baum, *The Principles of English Versification* (1922), chapter 4 (blank verse, the feminine ending, the short couplet) and chapter 5 (alliteration, lines overweighted with stress, lines with less than the normal stress).",
+    "E. A. Abbott, *A Shakespearian Grammar* (1870), paragraph 515, on rhyme at the end of a scene.",
+    "Edwin A. Abbott, *How to Write Clearly* (Boston, 1883), rules 30, 31 and 33, on suspense; William Strunk, Jr., *The Elements of Style* (New York: Harcourt, Brace, copyright 1920), rule 18; Wikipedia, “Periodic sentence.”",
+    "The measure of Ariel’s song: *The Tempest*, Act 1, Scene 2, as marked on [the page on *The Tempest*](#/tempest)."
+  ],
+  "ownWords": ["plate"],
+  "caveats": [
+    "No account of *Volpone* by Auden was found, only one remark made in conversation. What he says here about Jonson’s comedies as a group is set beside these passages by this page; he did not apply it to these lines himself.",
+    "His remark that *Volpone* is too unpleasant comes from Alan Ansen’s record of his conversation, not from Auden’s own writing. The book was not seen in full: the words, the page and the date were read in short extracts of a scanned copy.",
+    "Some syllables can fairly be stressed another way, among them *Good* in the first line of Act 1, and *no* and *love’s* in the song’s line on sin. The captions rest only on stresses that are not in doubt.",
+    "The Oxford dictionary quotes the *shrine* lines among figurative uses of the word for a place of worship; the casket is its older sense. The second senses given for *fare* (to feed) and *mischiefs* (wrongdoers) were in use in Jonson’s time; that he meant both at once is an inference.",
+    "The song is shown without its lines 11 to 14. Act and scene numbers are this text’s: the Oxford dictionary cites a line of its Act 1, Scene 1 as Act 1, Scene 3 of Jonson’s folio of 1616, so other editions may number these scenes differently."
+  ],
+  "open": [
+    "No writing by Auden on Volpone itself was found, and no record that he lectured on it in 1941. The view is his account of Jonson’s comedies as a group, with one remark on the play from conversation. The lenses set his general statements beside these passages; he did not apply them to these lines himself.",
+    "The remark that Volpone was too unpleasant: the poet read it only in the research notes, which record it from a search snippet of Alan Ansen’s Table Talk. From the examiner: it was found again on 2026-10-03 in the search extracts of a scanned copy of the London edition (Faber and Faber, 1991), which is lent and could not be read as pages. In those extracts the running head of p. 18 stands before the passage, the heading January 15, 1947 right after it, and the entry is the one headed January 8, 1947. The view, its source line, the list of sources and a caveat now give that page and date. Someone with the book in hand should confirm the page, and say whether the printing of 1990 that the poet’s notes cite is paged the same. A second look at where the entry’s heading stands was stopped by the harness, which refused a further search of the scan; the date rests on the first look.",
+    "Word senses are from the first edition of the Oxford dictionary, read in scans. The current online edition could not be opened from here.",
+    "Shrine: the dictionary quotes the first two lines of the first passage, dated 1605, under sense 5c (figurative, in contexts referring to the veneration or idolizing of some person or thing), which stands under sense 5, a place where worship is offered. The gloss and the caption give sense 2, the casket of a saint’s relics, as the thing that is opened; the note beside the passage reports the dictionary’s quotation, and a caveat says how the dictionary files the lines. An earlier draft also claimed the sense of a chest or coffer for the line. The dictionary marks that sense obsolete (last examples: two Scottish town records, of 1516 and 1560, and a wordbook of 1658), so it is no longer claimed: the gloss gives the Latin root, and the note under the word gives the dictionary’s record.",
+    "Act and scene numbers are those of the text given here. The folio of 1616, as the dictionary cites it, divides the scenes differently: under Chequeen it cites as Volpone I. iii a line that stands here in Act 1, Scene 1 (block 215). The Gutenberg file does not name the printed edition it follows. The research notes on the texts say it follows the Everyman edition with Schelling’s introduction; that was not checked, and the sources entry names only what the file itself shows.",
+    "The second plate leaves out lines 11 to 14 of the song. Nothing on the plate marks the gap; the heading says which lines are shown, and so does a caveat. In those lines the man whose ears are to be deceived is not named.",
+    "That the song’s sweet thefts match Virgil’s dulcia furta is a fact about the two phrases. It is not claimed that Jonson took the words from Virgil: the gloss under the words names the Latin usage, and the note gives Virgil as one example of it.",
+    "Fare in the sense of feeding and mischiefs in the sense of wrongdoers are senses the dictionary records for the time. That Jonson meant both senses at once is an inference.",
+    "Several syllables can be stressed in more than one way; the scansions in doubt are listed in the notes. The captions lean only on stresses that are not in doubt. The first Beat caption was rewritten for this: it no longer counts the stresses of the greeting to the day, since an actor could stress Good; it says only that three light syllables run together there, and that the gold’s greeting has four stresses.",
+    "The play’s word for Voltore’s gift, plate, is also this project’s name for a part of the page, and the checker would refuse it in a printed field. The lead made an exception on 3 October 2026, as the critic recommended: the reading lists the word in ownWords, and the caption, the facts and the list of sources use it, in sense 15 of the dictionary’s entry (the examiner corrected the number: the scan misprints it as 16). The play itself does not say what metal the piece is of.",
+    "That Lady Would-be is the she-wolf of Act 5, Scene 1 is an inference: she is the one woman among the four who come on the news of Volpone’s death.",
+    "The Names tab has no drawing yet. Its facts give each creature’s name, meaning, gift and sentence, each with a \"read\" address for a link into the play.",
+    "From the examiner: the Names caption used to say that five persons have creatures’ names. It now says that the five persons the court sentences have them, because the cast has other names that may be creatures’ too (Peregrine, and Sir Politick’s short name, Pol), and those were not looked up: Florio’s dictionary only sends Peregrino to another entry, which was not followed. The facts were not changed in shape; every \"read\" address in them was opened and holds what is said."
+  ]
+}

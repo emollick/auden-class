@@ -1,0 +1,1917 @@
+{
+  "piece": "hamlet",
+  "title": "Three speeches of Hamlet",
+  "where": "*Hamlet*, Act 1, Scene 2; Act 3, Scene 1; Act 5, Scene 2",
+  "about": "Hamlet, prince of Denmark, has come home from university after his father’s death and found his mother married to his uncle, who is now king. In the first passage he answers her before the court. His father’s ghost then tells him that the uncle was the murderer, and in the second passage, two acts later, the uncle still reigns and Hamlet is talking to himself. In the third, the King has rigged a fencing match to kill him, and his friend Horatio has just said he will put it off.",
+  "view": {
+    "says": "Auden wrote that Hamlet has no faith in God or in himself, so he can say who he is only through other people: the man whose uncle murdered his father and is married to his mother. He wishes to be what the hero of a Greek tragedy is, someone made by his situation. That is why he cannot act: he can only “act,” which Auden glosses as playing at possibilities.",
+    "quote": "Hence his inability to act, for he can only “act,” i.e., play at possibilities.",
+    "source": "“Genius & Apostle,” in *The Dyer’s Hand* (1962), pp. 451–52",
+    "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 21421-21436 (the page heads are at lines 21382 and 21433)"
+  },
+  "plates": [
+    {
+      "id": "seems",
+      "heading": "Hamlet to the Queen",
+      "turn": {
+        "32.0": 4,
+        "32.5": 3,
+        "32.8": 3
+      },
+      "text": "hamlet/a1s2",
+      "rows": [
+        "32.0-32.10"
+      ],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "32.1",
+                0
+              ],
+              "to": [
+                "32.1",
+                1
+              ],
+              "tag": "frame",
+              "label": "a denial opens"
+            },
+            {
+              "from": [
+                "32.1",
+                3
+              ],
+              "to": [
+                "32.1",
+                5
+              ],
+              "tag": "item",
+              "label": "the signs listed"
+            },
+            {
+              "from": [
+                "32.2",
+                1
+              ],
+              "to": [
+                "32.2",
+                5
+              ],
+              "tag": "item",
+              "label": "the signs listed"
+            },
+            {
+              "from": [
+                "32.3",
+                1
+              ],
+              "to": [
+                "32.3",
+                5
+              ],
+              "tag": "item",
+              "label": "the signs listed"
+            },
+            {
+              "from": [
+                "32.4",
+                2
+              ],
+              "to": [
+                "32.4",
+                7
+              ],
+              "tag": "item",
+              "label": "the signs listed"
+            },
+            {
+              "from": [
+                "32.5",
+                1
+              ],
+              "to": [
+                "32.5",
+                6
+              ],
+              "tag": "item",
+              "label": "the signs listed"
+            },
+            {
+              "from": [
+                "32.6",
+                2
+              ],
+              "to": [
+                "32.6",
+                7
+              ],
+              "tag": "item",
+              "label": "the signs listed"
+            },
+            {
+              "from": [
+                "32.2",
+                0
+              ],
+              "to": [
+                "32.2",
+                0
+              ],
+              "tag": "nor",
+              "label": "*nor*, four times"
+            },
+            {
+              "from": [
+                "32.3",
+                0
+              ],
+              "to": [
+                "32.3",
+                0
+              ],
+              "tag": "nor",
+              "label": "*nor*, four times"
+            },
+            {
+              "from": [
+                "32.4",
+                0
+              ],
+              "to": [
+                "32.4",
+                1
+              ],
+              "tag": "nor",
+              "label": "*nor*, four times"
+            },
+            {
+              "from": [
+                "32.5",
+                0
+              ],
+              "to": [
+                "32.5",
+                0
+              ],
+              "tag": "nor",
+              "label": "*nor*, four times"
+            },
+            {
+              "from": [
+                "32.7",
+                0
+              ],
+              "to": [
+                "32.7",
+                4
+              ],
+              "tag": "verb",
+              "label": "verb kept back"
+            },
+            {
+              "from": [
+                "32.9",
+                3
+              ],
+              "to": [
+                "32.9",
+                4
+              ],
+              "tag": "within",
+              "label": "no noun"
+            }
+          ],
+          "caption": "After the first line, one sentence runs for six lines and a half. It opens <b>’Tis not</b>, so a denial is coming. Then it lists, a line to each, the cloak, the black suits, the sigh, the tears, the face, then all the rest, and four times <b>nor</b> brings in the next. What they cannot do comes only in the last five words: <b>That can denote me truly</b>. A verb kept to the end holds the sense open until every sign of mourning has been named. Two lines later Hamlet says what he does have and gives it no noun: <b>that within</b>.",
+          "why": "The sentence lists every outward sign of grief, a line to each, before its last words say what they cannot do; a verb kept to the end holds the sense open until all are named.",
+          "grounds": [
+            {
+              "claim": "where the sentence runs, the list of signs, the four nors and the place of the verb",
+              "kind": "plate"
+            },
+            {
+              "claim": "a sentence that keeps its main point to the end is not complete until then",
+              "kind": "source",
+              "source": "Wikipedia, Periodic sentence"
+            },
+            {
+              "claim": "he says he has something within and calls it only that",
+              "kind": "text",
+              "source": "row 32.9"
+            }
+          ],
+          "stands": "The marks on the passage, and the lines themselves. How a sentence that keeps its main point to the end holds the sense open: Wikipedia, “Periodic sentence.”"
+        },
+        {
+          "kind": "figure",
+          "label": "Naming",
+          "name": "periphrasis",
+          "plain": "the long way round: a description put in the place of a name",
+          "draw": "align",
+          "parts": [
+            {
+              "row": "32.3",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "adjective",
+              "label": "an adjective"
+            },
+            {
+              "row": "32.3",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "noun",
+              "label": "a noun"
+            },
+            {
+              "row": "32.3",
+              "w": [
+                3,
+                5
+              ],
+              "tag": "where",
+              "label": "where it shows"
+            },
+            {
+              "row": "32.4",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "adjective",
+              "label": "an adjective"
+            },
+            {
+              "row": "32.4",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "noun",
+              "label": "a noun"
+            },
+            {
+              "row": "32.4",
+              "w": [
+                5,
+                7
+              ],
+              "tag": "where",
+              "label": "where it shows"
+            },
+            {
+              "row": "32.5",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "adjective",
+              "label": "an adjective"
+            },
+            {
+              "row": "32.5",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "noun",
+              "label": "a noun"
+            },
+            {
+              "row": "32.5",
+              "w": [
+                4,
+                6
+              ],
+              "tag": "where",
+              "label": "where it shows"
+            }
+          ],
+          "caption": "Three lines are cut to one pattern: an adjective, a noun, then the breath, the eye or the face it belongs to. Hamlet does not say sigh, tears or sad face. He says <b>suspiration</b>, a word found in Shakespeare only here; a <b>river in the eye</b>; and the <b>haviour</b>, the bearing, of the <b>visage</b>. Rhetoric calls this periphrasis, the long way round. Each phrase names a sign by where it shows. Three lines on, the speech says what the signs are: <i>actions that a man might play</i>. In Act 2 Hamlet describes a player in tears by much the same signs: his <i>visage</i>, <i>tears in his eyes</i>, <i>a broken voice</i>.",
+          "why": "Three signs of grief are named the long way round, by the breath, eye or face where each shows; the speech calls them actions a man might play, and Hamlet later describes a weeping player by much the same signs.",
+          "grounds": [
+            {
+              "claim": "three lines built alike: adjective, noun, then the breath, the eye or the face",
+              "kind": "plate"
+            },
+            {
+              "claim": "suspiration is breathing and is cited from this line alone; haviour is outward carriage and deportment; fruitful is copious; visage is face",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare Lexicon (3rd ed., 1902), under Suspiration, Haviour, Fruitful, Visage; the complete works (Project Gutenberg no. 100) searched for suspiration: one place; Online Etymology Dictionary, suspiration (n.), which glosses it as sighing, a long deep breath"
+            },
+            {
+              "claim": "periphrasis: saying a thing the long way round, by a phrase",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, periphrasis (n.)"
+            },
+            {
+              "claim": "the speech calls these signs actions that a man might play",
+              "kind": "text",
+              "source": "row 32.8"
+            },
+            {
+              "claim": "Hamlet describes the weeping player by his visage, his eyes and his voice",
+              "kind": "text",
+              "source": "Hamlet, Act 2, Scene 2: hamlet/a2s2, block 380, rows 5 to 7"
+            }
+          ],
+          "stands": "The marks on the passage, and the lines themselves. Alexander Schmidt’s *Shakespeare-Lexicon* under Suspiration, Haviour, Fruitful and Visage; a search of the complete works finds *suspiration* once. The Online Etymology Dictionary for periphrasis and for *suspiration* as sighing. The player’s tears: [Act 2, Scene 2](#/read/hamlet/a2s2:380)."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "32.0",
+              "w": [
+                8,
+                8
+              ],
+              "gloss": "only appears to be",
+              "source": "Schmidt, Shakespeare Lexicon, Seem, senses 1 and 2"
+            },
+            {
+              "row": "32.7",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "mark out",
+              "source": "Schmidt, Shakespeare Lexicon, Denote: to indicate, to mark (citing this line)"
+            },
+            {
+              "row": "32.8",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "gestures, movements of the body",
+              "note": "The lexicon of Shakespeare’s words puts this line under *action* as the motions of the body that go with words, beside Hamlet’s order to the players in Act 3 to *suit the action to the word*.",
+              "source": "Schmidt, Shakespeare Lexicon, Action, sense 7; Hamlet, Act 3, Scene 2 (hamlet/a3s2, block 7)"
+            },
+            {
+              "row": "32.8",
+              "w": [
+                8,
+                8
+              ],
+              "gloss": "act, as on a stage",
+              "source": "Schmidt, Shakespeare Lexicon, Play (verb), sense 7: to act on the stage (this line is not among those the entry cites)"
+            },
+            {
+              "row": "32.9",
+              "w": [
+                7,
+                7
+              ],
+              "gloss": "display · a stage show",
+              "note": "The lexicon of Shakespeare’s words puts this line under *show* as the act of showing.",
+              "source": "Schmidt, Shakespeare Lexicon, Show (noun), senses 1 and 5; Hamlet, Act 3, Scene 2 (hamlet/a3s2, block 98)"
+            },
+            {
+              "row": "32.10",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "ornaments, first a horse’s",
+              "note": "Trappings were the ornamental cloths of a horse before they were any outward ornament.",
+              "source": "Schmidt, Shakespeare Lexicon, Trapping; Online Etymology Dictionary, trappings (n.)"
+            },
+            {
+              "row": "32.10",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "clothes",
+              "source": "Schmidt, Shakespeare Lexicon, Suit, sense 4: dress, apparel (citing this line)"
+            }
+          ],
+          "caption": "The Queen has asked why, if death is common, it <i>seems</i> so particular with Hamlet. The verb could mean <i>appears</i>; he takes it as <i>is so in appearance only</i>. Three of his words for outward grief are also playhouse words. <b>Actions</b> are the gestures that go with speech; in Act 3 he tells the players to <i>suit the action to the word</i>. To <b>play</b> is to act a part. A <b>show</b> is a display, and also a stage spectacle, like the players’ dumb show, a scene acted without words. <b>Trappings</b> and <b>suits</b> are things put on. Auden’s account of Hamlet turns on a playhouse word with two senses: he cannot act, he can only “act.”",
+          "why": "Hamlet’s words for the outward signs of grief are stage words: actions are gestures, to play is to act, a show is a spectacle; Auden’s account of him turns on the two senses of act.",
+          "grounds": [
+            {
+              "claim": "the Queen asks why it seems so particular with him, and Hamlet sets seems against is",
+              "kind": "text",
+              "source": "hamlet/a1s2, block 30, and row 32.0"
+            },
+            {
+              "claim": "the senses of seem, denote, action, play, show, trappings and suit",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare Lexicon (3rd ed., 1902), under Seem (senses 1 and 2), Denote, Action (sense 7, citing this line), Play (verb, sense 7), Show (noun, senses 1 and 5), Trapping, Suit (sense 4); Online Etymology Dictionary, trappings (n.)"
+            },
+            {
+              "claim": "Hamlet tells the players to suit the action to the word, and they give a dumb show",
+              "kind": "text",
+              "source": "Hamlet, Act 3, Scene 2: hamlet/a3s2, blocks 7 and 98; the show itself is block 99, one stage direction of 121 words with no speech in it, which the finisher read on 2026-10-03 for the words the critic added to the caption (a scene acted without words)"
+            },
+            {
+              "claim": "Hamlet cannot act, he can only “act”",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 452"
+            }
+          ],
+          "stands": "What the Queen says just before. Alexander Schmidt’s *Shakespeare-Lexicon* under Seem, Denote, Action, Play, Show, Trapping and Suit; the Online Etymology Dictionary for *trappings*. Hamlet’s [advice to the players](#/read/hamlet/a3s2:7) and their [dumb show](#/read/hamlet/a3s2:98) in Act 3, Scene 2. Auden: *The Dyer’s Hand*, p. 452."
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "32.0": "x",
+            "32.1": "x",
+            "32.2": "x",
+            "32.3": "x",
+            "32.4": "x",
+            "32.5": "x",
+            "32.6": "x",
+            "32.7": "x",
+            "32.8": "x",
+            "32.9": "a",
+            "32.10": "a"
+          },
+          "tails": {
+            "32.9": 2,
+            "32.10": 2
+          },
+          "threads": [
+            {
+              "sound": "seem",
+              "at": [
+                [
+                  "32.0",
+                  0,
+                  0,
+                  4
+                ],
+                [
+                  "32.0",
+                  8,
+                  0,
+                  4
+                ],
+                [
+                  "32.7",
+                  7,
+                  0,
+                  4
+                ]
+              ]
+            },
+            {
+              "sound": "show",
+              "at": [
+                [
+                  "32.6",
+                  5,
+                  0,
+                  4
+                ],
+                [
+                  "32.9",
+                  7,
+                  0,
+                  4
+                ]
+              ]
+            }
+          ],
+          "caption": "Hamlet speaks blank verse, the unrhymed five-beat line, and for nine lines the line-ends do not rhyme. The last two do: <b>show</b>, <b>woe</b>. The quick return of a rhyme makes two lines felt as one closed unit. On Shakespeare’s stage a rhymed pair often marked a scene’s end: ten of this play’s twenty scenes end on one. The players’ play in Act 3 rhymes in pairs. Here a rhymed pair closes a speech in mid-scene, and the King answers. <i>Seem</i> comes three times, <i>show</i> twice, last as the rhyme. Hamlet has set himself apart from <i>actions that a man might play</i>. Auden, lecturing on the play in 1947, said that Hamlet is an actor and acts theatrically.",
+          "why": "The speech is unrhymed until its last two lines; a rhymed pair was often the stage’s way of ending a scene, so the speech that sets Hamlet apart from playing closes on a closing device of the stage.",
+          "grounds": [
+            {
+              "claim": "which line-ends rhyme and which words come back",
+              "kind": "plate"
+            },
+            {
+              "claim": "the quick return of the rhyme makes a couplet felt as a unit, a closed couplet",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the short couplet; the section on the five-stress couplet refers back to it"
+            },
+            {
+              "claim": "rhyme was often used to end a scene, a convention that told the audience the scene was finished",
+              "kind": "source",
+              "source": "E. A. Abbott, A Shakespearian Grammar (revised edition, 1870), paragraph 515, read at the Perseus Digital Library"
+            },
+            {
+              "claim": "ten of the play’s twenty scenes end on a rhymed pair, this scene among them",
+              "kind": "source",
+              "source": "counted in the hosted text: the last two lines of 1.2, 2.1, 2.2, 3.1, 3.2, 3.3, 4.1, 4.3, 4.4 and 5.1; counted again by the examiner, with the same ten"
+            },
+            {
+              "claim": "the Player King and the Player Queen speak in rhymed pairs",
+              "kind": "text",
+              "source": "Hamlet, Act 3, Scene 2: hamlet/a3s2, blocks 126 to 149"
+            },
+            {
+              "claim": "the King answers and the scene goes on",
+              "kind": "text",
+              "source": "hamlet/a1s2, block 34"
+            },
+            {
+              "claim": "Hamlet sets himself apart from actions that a man might play",
+              "kind": "text",
+              "source": "rows 32.7 to 32.9"
+            },
+            {
+              "claim": "Hamlet is an actor, and acts theatrically",
+              "kind": "auden",
+              "source": "Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch (2000), the lecture on Hamlet of 12 February 1947, p. 164; seen only in snippets of the scanned book (archive.org full-text search, and Google Books’ search within the volume, which labels the page, 2026-10-03) and in the extracts of remake/research/C_auden_on_works.md, section 8"
+            }
+          ],
+          "endsKey": "x marks a line-end that rhymes with no other",
+          "stands": "The marks on the passage, and the lines themselves. Paull F. Baum, *The Principles of English Versification*, chapter 4, on the short couplet. E. A. Abbott, *A Shakespearian Grammar*, paragraph 515, on rhyme at a scene’s end; a count of the last two lines of each scene in the text printed here. The players’ play: [Act 3, Scene 2](#/read/hamlet/a3s2:126). Auden: *Lectures on Shakespeare*, p. 164."
+        }
+      ]
+    },
+    {
+      "id": "to-be",
+      "heading": "Hamlet to himself",
+      "turn": {
+        "46.3": 3
+      },
+      "text": "hamlet/a3s1",
+      "rows": [
+        "46.0-46.9"
+      ],
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "ten syllables and five beats, the line beginning off the beat, without rhyme; some lines run one unstressed syllable past the last beat",
+          "scan": {
+            "46.0": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x / x / x / / x x /x"
+            },
+            "46.1": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "/x x /x x x / x /x"
+            },
+            "46.2": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x / x /x x x/x /x"
+            },
+            "46.3": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x x / / x/ x / x /x",
+              "div": {
+                "8": "trou|bles,"
+              }
+            },
+            "46.4": {
+              "meter": "x/x/x/xx/x/",
+              "voice": "x x x/x / x | x /x /"
+            },
+            "46.5": {
+              "meter": "x/x/x/x/x/",
+              "voice": "/ / | x x x / x / x /"
+            },
+            "46.6": {
+              "meter": "x/x/x/x/x/",
+              "voice": "x /x x x /x /x /",
+              "div": {
+                "5": "nat|ural"
+              }
+            },
+            "46.7": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x / x / x | x x /x/x"
+            },
+            "46.8": {
+              "meter": "x/x/x/x/x/",
+              "voice": "x/x x x / | x / x /"
+            },
+            "46.9": {
+              "meter": "x/x/x/x/x/",
+              "voice": "x / x/ x /|/ / x /",
+              "div": {
+                "5": "there’s"
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "46.0",
+                6,
+                7
+              ],
+              "say": "Two ways to say it: the stress on *that*, as marked here, or on *is*."
+            },
+            {
+              "at": [
+                "46.0",
+                9,
+                9
+              ],
+              "say": "The eleventh syllable, unstressed: a weak ending."
+            },
+            {
+              "at": [
+                "46.4",
+                4,
+                4
+              ],
+              "say": "An extra unstressed syllable before the pause in mid-line. The question ends here."
+            },
+            {
+              "at": [
+                "46.4",
+                7,
+                7
+              ],
+              "say": "The first line of the speech to end on a beat."
+            },
+            {
+              "at": [
+                "46.7",
+                7,
+                7
+              ],
+              "say": "The weak ending again, the fifth in these ten lines."
+            },
+            {
+              "at": [
+                "46.9",
+                4,
+                5
+              ],
+              "say": "The line stops at the dash. *Ay* is then stressed where the line has no beat, between the beats on *dream* and *there’s*."
+            }
+          ],
+          "caption": "The play’s verse line has ten syllables, every second one a beat, the last included. Five of the ten lines, the first four and the eighth, add an unstressed eleventh: a weak ending, which tends to give the line a falling rhythm, from stressed to unstressed. The question fills four such lines and stops inside the fifth, on another unstressed syllable, <i>them</i>. The sixth, eighth, ninth and tenth also stop inside the line. Auden said in 1947 that in <i>Hamlet</i> Shakespeare tries out the stop inside the line to make a voice between passion and prose. At <b>ay</b> a stress stands between two beats; stresses side by side slow the voice before <i>there’s the rub</i>.",
+          "why": "Five lines run a syllable past the last beat, which tends to give a falling rhythm, and five stop inside the line; Auden said that in Hamlet Shakespeare tries out such stops to make a voice between passion and prose.",
+          "grounds": [
+            {
+              "claim": "the scansion: which lines end on an eleventh syllable, which on a beat, where a line stops inside itself at a point heavier than a comma, and where a stress stands between two beats",
+              "kind": "plate"
+            },
+            {
+              "claim": "a final unstressed syllable makes a weak or feminine ending; the first line of this speech is the example given; the extra syllable may also come before a pause in mid-line",
+              "kind": "source",
+              "source": "Wikipedia, Iambic pentameter and Masculine and feminine endings"
+            },
+            {
+              "claim": "the normal line has five stressed and five unstressed syllables; a weak extra syllable at the end tends to give a line a falling rhythm; a line overweighted with stress is slowed",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on the extra syllable at the end of the line and on lines overweighted with stress; for the two glosses the critic added (rising, from unstressed to stressed; falling, from stressed to unstressed) the finisher read on 2026-10-03 chapter 4, where iambic and anapestic movements are called rising and dactylic and trochaic falling, and the glossary under Iamb (an unstress and a stress) and Trochee (a stress and an unstress): .cache/handbooks/baum-versification-pg21342.txt, lines 2562-2565, 7439 and 7668"
+            },
+            {
+              "claim": "the question runs from the first line to the middle of the fifth",
+              "kind": "text",
+              "source": "rows 46.0 to 46.4"
+            },
+            {
+              "claim": "a clause or a sentence ends inside the sixth, eighth, ninth and tenth lines: at a semicolon, a colon, a full stop and a dash (the dash stands inside a joined word, so no pause mark can be drawn there)",
+              "kind": "text",
+              "source": "rows 46.5, 46.7, 46.8 and 46.9"
+            },
+            {
+              "claim": "in Hamlet Shakespeare experiments with the stop in the middle of the line, to get a voice between the passionate and the prosaic",
+              "kind": "auden",
+              "source": "Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch (2000), the lecture on Hamlet of 12 February 1947, p. 160; seen only in snippets (Google Books, search within the volume, id 5ImCDwAAQBAJ, which labels the page, 2026-10-03)"
+            }
+          ],
+          "stands": "The marks on the passage, which are one reader’s hearing of the lines, and the lines themselves. The weak ending, and the extra syllable before a pause: Wikipedia, “Iambic pentameter,” whose example is the first of these lines. The falling rhythm, and the slowing where stresses fall together: Paull F. Baum, *The Principles of English Versification*, chapter 5. Auden: *Lectures on Shakespeare*, p. 160."
+        },
+        {
+          "kind": "sentence",
+          "label": "Verbs",
+          "spans": [
+            {
+              "from": [
+                "46.0",
+                0
+              ],
+              "to": [
+                "46.0",
+                1
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.0",
+                4
+              ],
+              "to": [
+                "46.0",
+                5
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.1",
+                6
+              ],
+              "to": [
+                "46.1",
+                7
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.3",
+                1
+              ],
+              "to": [
+                "46.3",
+                2
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.4",
+                5
+              ],
+              "to": [
+                "46.4",
+                6.1
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.4",
+                6.2
+              ],
+              "to": [
+                "46.4",
+                7
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.5",
+                6
+              ],
+              "to": [
+                "46.5",
+                7
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.8",
+                1
+              ],
+              "to": [
+                "46.8",
+                3
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.8",
+                4
+              ],
+              "to": [
+                "46.8",
+                5
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.8",
+                6
+              ],
+              "to": [
+                "46.8",
+                7
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.9",
+                0
+              ],
+              "to": [
+                "46.9",
+                1
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.9",
+                3
+              ],
+              "to": [
+                "46.9",
+                4.1
+              ],
+              "tag": "infinitive",
+              "label": "an infinitive"
+            },
+            {
+              "from": [
+                "46.0",
+                7
+              ],
+              "to": [
+                "46.0",
+                7
+              ],
+              "tag": "subject",
+              "label": "has a subject"
+            },
+            {
+              "from": [
+                "46.1",
+                1
+              ],
+              "to": [
+                "46.1",
+                1
+              ],
+              "tag": "subject",
+              "label": "has a subject"
+            },
+            {
+              "from": [
+                "46.5",
+                8
+              ],
+              "to": [
+                "46.5",
+                9
+              ],
+              "tag": "person",
+              "label": "the only subject that is a person"
+            },
+            {
+              "from": [
+                "46.7",
+                2
+              ],
+              "to": [
+                "46.7",
+                2
+              ],
+              "tag": "subject",
+              "label": "has a subject"
+            },
+            {
+              "from": [
+                "46.7",
+                5
+              ],
+              "to": [
+                "46.7",
+                5
+              ],
+              "tag": "subject",
+              "label": "has a subject"
+            },
+            {
+              "from": [
+                "46.9",
+                5
+              ],
+              "to": [
+                "46.9",
+                5
+              ],
+              "tag": "subject",
+              "label": "has a subject"
+            }
+          ],
+          "caption": "Twelve times in ten lines <i>to</i> is followed by a verb: <b>to be</b>, <b>to die</b>, <b>to sleep</b>. This is the infinitive, the form tied to no person: it names an act without its doer. Only six verbs have a subject: five forms of <i>is</i>, and <b>we end</b>. In thirty-three lines to himself Hamlet never says <i>I</i>, <i>me</i> or <i>my</i>; his six other long speeches to himself each say them at least seven times. In his 1947 lecture Auden said that this speech can be lifted out of the play and out of the character. He wrote that Hamlet cannot act, only play at possibilities. The thirty-three lines end on <i>lose the name of action</i>.",
+          "why": "Twelve times in ten lines a verb comes as an infinitive, the form with no person, and in thirty-three lines Hamlet never says I; Auden said this speech can be lifted out of the character and the play.",
+          "grounds": [
+            {
+              "claim": "the twelve infinitives and the six verbs that have a subject; of the six subjects one is a person (row 46.5, word 8, which since the finisher’s change of 3 October has a tag and a key row of its own), and the other five are not: a demonstrative (row 46.0, word 6), it inside the verb twice (rows 46.1 and 46.7), a noun for the body (row 46.7, word 1) and there inside the verb (row 46.9)",
+              "kind": "plate"
+            },
+            {
+              "claim": "infinitive: from the Latin for unlimited, because the form is not limited to a person or a number",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, infinitive (n.)"
+            },
+            {
+              "claim": "no I, me or my in the 33 lines he says to himself here, before he sees Ophelia; 7 to 35 in each of the other six speeches",
+              "kind": "source",
+              "source": "counted in the hosted text: hamlet/a3s1 block 46, rows 0 to 32, against a1s2:43, a1s5:40 and 42, a2s2:380, a3s2:315, a3s3:23 and a4s4:40; the numbers are in the third plate’s Shape lens"
+            },
+            {
+              "claim": "the speech to himself ends on the words lose the name of action",
+              "kind": "text",
+              "source": "row 46.32 of the same speech"
+            },
+            {
+              "claim": "the soliloquies of Hamlet can be detached from the character and the play, and this speech is a clear example",
+              "kind": "auden",
+              "source": "Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch (2000), the lecture on Hamlet of 12 February 1947, pp. 159–60 (the running head of p. 160 falls inside the sentence); seen only in snippets of the scanned book (archive.org full-text search, and Google Books’ search within the volume, which labels the page, 2026-10-03), and as quoted by Mark Edmundson, Self and Soul (2015)"
+            },
+            {
+              "claim": "Hamlet cannot act; he can only play at possibilities",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 452"
+            }
+          ],
+          "stands": "The marks on the passage. The Online Etymology Dictionary under *infinitive*. A count of *I*, *me* and *my* in Hamlet’s seven long speeches to himself, in the text printed here; this [speech](#/read/hamlet/a3s1:46) turns to Ophelia after *action*. Auden: *Lectures on Shakespeare*, pp. 159–60, and *The Dyer’s Hand*, p. 452."
+        },
+        {
+          "kind": "figure",
+          "label": "Chain",
+          "name": "anadiplosis",
+          "plain": "a doubling back: the words that end one clause begin the next",
+          "draw": "chain",
+          "join": [[2, 3]],
+          "parts": [
+            {
+              "row": "46.4",
+              "w": [
+                5,
+                7
+              ],
+              "tag": "first",
+              "label": "the first time"
+            },
+            {
+              "row": "46.8",
+              "w": [
+                4,
+                5
+              ],
+              "tag": "A",
+              "label": "*die*"
+            },
+            {
+              "row": "46.8",
+              "w": [
+                6,
+                7
+              ],
+              "tag": "B",
+              "label": "*sleep*"
+            },
+            {
+              "row": "46.9",
+              "w": [
+                0,
+                1
+              ],
+              "tag": "B",
+              "label": "*sleep* again"
+            },
+            {
+              "row": "46.9",
+              "w": [
+                2,
+                4.1
+              ],
+              "tag": "C",
+              "label": "a new step"
+            },
+            {
+              "row": "46.9",
+              "w": [
+                7,
+                7
+              ],
+              "tag": "rub",
+              "label": "the check"
+            }
+          ],
+          "caption": "Twice Hamlet says <b>to die, to sleep</b>. The first time he adds <i>No more</i>, and the sentence goes on to what a sleep would end. The second time the line stops on <i>sleep</i>, and its last two words begin the next line. Rhetoric calls this anadiplosis: what ends one clause begins the next. The repeated word becomes the start of a further step. He has called death a sleep, and from sleep the next step is dreaming, <b>perchance to dream</b>. He says at once what that is: <b>the rub</b>. The next lines give the reason: the dreams that may come <i>must give us pause</i>.",
+          "why": "The second time he says to die, to sleep, the last words begin the next line, and the repeated word leads one step on, to dream; the speech calls that step the rub that checks the wish.",
+          "grounds": [
+            {
+              "claim": "the words that end row 46.8 begin row 46.9; the first time, the phrase is followed by No more",
+              "kind": "plate"
+            },
+            {
+              "claim": "anadiplosis: a line or phrase begins by repeating the word or words that ended the one before; it is often used to build to a climax",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, anadiplosis (n.); Wikipedia, Anadiplosis"
+            },
+            {
+              "claim": "he calls death a sleep",
+              "kind": "text",
+              "source": "rows 46.4, 46.8 and 46.10 of the same speech"
+            },
+            {
+              "claim": "the dreams that may come in that sleep must give us pause",
+              "kind": "text",
+              "source": "rows 46.10 to 46.12 of the same speech"
+            }
+          ],
+          "stands": "The marks on the passage, and the lines that follow it in the [same speech](#/read/hamlet/a3s1:46). Anadiplosis, and its use to build toward a climax: the Online Etymology Dictionary and Wikipedia, “Anadiplosis.”"
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "46.2",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "violent · past all bounds",
+              "note": "From French *outrage*, which goes back to Latin *ultra*, beyond: at root, a passing beyond bounds. English ears came to hear *rage* in it.",
+              "source": "Schmidt, Shakespeare Lexicon, Outrageous (citing this line); Oxford English Dictionary, outrageous, adj.; Online Etymology Dictionary, outrage (n.)"
+            },
+            {
+              "row": "46.6",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "violent collisions, as of armies",
+              "source": "Schmidt, Shakespeare Lexicon, Shock (noun): a violent collision, a conflict, encounter (citing this line beside the shock of arms in Richard II and Richard III)"
+            },
+            {
+              "row": "46.7",
+              "w": [
+                7,
+                7
+              ],
+              "gloss": "a finishing · an end",
+              "note": "From Latin *consummare*, to sum up, to finish.",
+              "source": "Schmidt, Shakespeare Lexicon, Consummation: end, death (citing this line); Online Etymology Dictionary, consummation (n.)"
+            },
+            {
+              "row": "46.8",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "with devotion, earnestly",
+              "source": "Schmidt, Shakespeare Lexicon, Devoutly (citing this line)"
+            },
+            {
+              "row": "46.9",
+              "w": [
+                7,
+                7
+              ],
+              "gloss": "an obstacle · from bowls",
+              "note": "A rub was an unevenness in the ground, and in bowls anything that slows a bowl or turns it from its course; so any obstacle.",
+              "source": "Online Etymology Dictionary, rub (n.); Schmidt, Shakespeare Lexicon, Rub (noun and verb); compare Richard II, Act 3, Scene 4, where the Queen is asked to play at bowls; Auden’s gloss to his class, spring 1947: Lectures on Shakespeare (2000), p. 327"
+            }
+          ],
+          "caption": "The question is asked in the words of a fight: <i>slings</i>, <i>arrows</i>, <i>take arms</i>, <i>opposing</i>. <b>Shocks</b> belongs with them: a shock was a violent collision, as of armies. <b>Outrageous</b> meant violent; it comes from the Latin for <i>beyond</i> and has no root in <i>rage</i>. Dying gets other words: <i>sleep</i>, <i>end</i>, and <b>consummation</b>, from the Latin for summing up and finishing. It is to be wished for <b>devoutly</b>, with devotion. The word that stops the wish is a term from the game of bowls, as Auden told his class in 1947. A <b>rub</b> is whatever slows the bowl or turns it from its course. The speech turns there, from the wish to the dread of what may come after death.",
+          "why": "The question is put in a fight’s words and dying in words of rest and finishing; the word that stops the wish, rub, is a bowler’s word, as Auden told his class, for what turns the bowl from its course.",
+          "grounds": [
+            {
+              "claim": "the senses of outrageous, shock, consummation, devoutly and rub in Shakespeare",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare Lexicon (3rd ed., 1902), under Outrageous, Shock, Consummation, Devoutly, Rub (noun and verb)"
+            },
+            {
+              "claim": "where outrageous, consummation and rub come from",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, outrage (n.), consummation (n.), rub (n.); Oxford English Dictionary, outrageous, adj."
+            },
+            {
+              "claim": "which words belong to the question and which to dying",
+              "kind": "plate"
+            },
+            {
+              "claim": "after the rub the speech speaks of the dread of something after death",
+              "kind": "text",
+              "source": "rows 46.10 to 46.12 and 46.22 of the same speech"
+            },
+            {
+              "claim": "rub is a technical term of the game of bowls: a ball that grazes another is deflected",
+              "kind": "auden",
+              "source": "Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch (2000), Appendix I (Alan Ansen’s notes of Auden’s Saturday classes, spring 1947), p. 327, at III.i.65; seen only in snippets (Google Books, search within the volume, id 5ImCDwAAQBAJ, which labels the page, 2026-10-03)"
+            }
+          ],
+          "stands": "Alexander Schmidt’s *Shakespeare-Lexicon* under Outrageous, Shock, Consummation, Devoutly and Rub, each of which cites these lines. The Online Etymology Dictionary under *outrage*, *consummation* and *rub*; the *Oxford English Dictionary* under *outrageous* and *rub*. Auden on *rub*: *Lectures on Shakespeare*, p. 327. Where the speech turns: the lines that follow in the [same speech](#/read/hamlet/a3s1:46)."
+        }
+      ]
+    },
+    {
+      "id": "readiness",
+      "heading": "Hamlet to Horatio",
+      "text": "hamlet/a5s2",
+      "rows": [
+        "161.0"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Crossing",
+          "name": "antimetabole",
+          "plain": "the same words said again in the opposite order",
+          "draw": "cross",
+          "parts": [
+            {
+              "row": "161.0",
+              "w": [
+                19,
+                19
+              ],
+              "tag": "A",
+              "label": "*now*"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                21,
+                23
+              ],
+              "tag": "B",
+              "label": "*not to come*"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                27,
+                29
+              ],
+              "tag": "B",
+              "label": "*not to come*"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                33,
+                33
+              ],
+              "tag": "A",
+              "label": "*now*"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                37,
+                38
+              ],
+              "tag": "third",
+              "label": "one term changed"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                41,
+                42
+              ],
+              "tag": "third",
+              "label": "the same end"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                17,
+                18
+              ],
+              "tag": "it",
+              "label": "*it*, never named"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                20,
+                20
+              ],
+              "tag": "it",
+              "label": "*it*, never named"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                25,
+                26
+              ],
+              "tag": "it",
+              "label": "*it*, never named"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                30,
+                32
+              ],
+              "tag": "it",
+              "label": "*it*, never named"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                35,
+                36
+              ],
+              "tag": "it",
+              "label": "*it*, never named"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                40,
+                40
+              ],
+              "tag": "it",
+              "label": "*it*, never named"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                43,
+                46
+              ],
+              "tag": "sum",
+              "label": "the next sentence"
+            }
+          ],
+          "caption": "Three clauses begin with <i>if</i>. The first sets <b>now</b> against <b>not to come</b>. The second says the same two things in the opposite order: <b>not to come</b>, then <b>now</b>. The third changes one term, <i>not now</i>, and ends <b>it will come</b>. Whichever case holds, it comes. The verb of the second passage, <i>be</i>, is here again, and now it has a time and a subject, <i>it</i>, which is never named. Auden wrote of the character as a whole that Hamlet wishes to be what the hero of a Greek tragedy is, someone made by his situation. In these clauses what is coming is the subject of every verb; the next sentence has a noun for its subject, <b>readiness</b>.",
+          "why": "The two terms, now and to come, are said and then said again in the opposite order, so each case is tried and each ends the same: it comes; the subject of the next sentence is a noun, readiness.",
+          "grounds": [
+            {
+              "claim": "the order of now and not to come in the three clauses, and the subject it with its forms of be",
+              "kind": "plate"
+            },
+            {
+              "claim": "antimetabole: words said again in the opposite order",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, antimetabole (n.); Wikipedia, Antimetabole"
+            },
+            {
+              "claim": "on the second plate the verb be stands as an infinitive, with no subject",
+              "kind": "text",
+              "source": "hamlet/a3s1, row 46.0"
+            },
+            {
+              "claim": "the sentence after the three clauses has readiness for its subject",
+              "kind": "text",
+              "source": "row 161.0, words 43 to 46"
+            },
+            {
+              "claim": "Hamlet wishes to be what the hero of a Greek tragedy is, someone made by his situation; Auden says it of the character as a whole, in four sentences under a heading that sets Hamlet beside Don Quixote, and says nothing there of this speech",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), pp. 451–52; read again by the finisher on 2026-10-03 in the scan, research/auden/dh.txt, lines 21421-21436, when the caption was made to say of what he said it"
+            }
+          ],
+          "stands": "The marks on the passage. Antimetabole: the Online Etymology Dictionary and Wikipedia, “Antimetabole.” The verb *be* with no subject: the first line of the second passage, [Act 3, Scene 1](#/read/hamlet/a3s1:46). Auden: *The Dyer’s Hand*, pp. 451–52."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "161.0",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "reject, scorn",
+              "source": "Schmidt, Shakespeare Lexicon, Defy, sense 2: to slight, to despise, to renounce (citing this line)"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "telling the future from signs",
+              "note": "The Roman augurs made known what was to come from signs: lightning, the flight and cries of birds, the feeding of sacred fowl. Reading the flight of birds was the most common kind.",
+              "source": "Lewis and Short, A Latin Dictionary, augur and augurium; Online Etymology Dictionary, augury (n.); Schmidt, Shakespeare Lexicon, Augury"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                8,
+                9
+              ],
+              "gloss": "God’s care for each single thing",
+              "note": "*Providence* is from Latin *providentia*, a seeing ahead. Calvin’s chapter on it, in the English of 1845, says God governs by a special providence, down to a sparrow.",
+              "source": "Schmidt, Shakespeare Lexicon, Special (sense 1) and Providence (sense 2: the care of God, citing this line); Lewis and Short, providentia; Calvin, Institutes 1.16.1, translated by Henry Beveridge (1845)"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                15,
+                15
+              ],
+              "gloss": "the Gospel’s bird: Matthew 10:29",
+              "note": "The verse says that sparrows sell two for a farthing, and yet none of them falls to the ground without the Father.",
+              "source": "Matthew 10:29 in the Geneva Bible (1599 printing); Thomas Carter, Shakespeare and Holy Scripture (1905), p. 381, sets this speech beside the verse"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                44,
+                44
+              ],
+              "gloss": "being prepared",
+              "note": "Compare Matthew 24:44 in the Geneva Bible: be ready, because the Son of man comes in an hour you do not expect.",
+              "source": "Schmidt, Shakespeare Lexicon, Readiness, sense 1 (citing this line); Matthew 24:44 in the Geneva Bible (1599 printing); Thomas Carter, Shakespeare and Holy Scripture (1905), p. 381, sets this speech beside the verse"
+            },
+            {
+              "row": "161.0",
+              "w": [
+                60,
+                60
+              ],
+              "gloss": "early",
+              "source": "Schmidt, Shakespeare Lexicon, Betimes, sense 2 (citing this line)"
+            }
+          ],
+          "caption": "Horatio has told Hamlet to obey his misgiving. <b>Augury</b> was the Roman art of telling what is to come from signs, most often the flight of birds. Hamlet <b>defies</b> it: rejects it. His next sentence names a bird. The <b>sparrow</b> is the Gospel’s: in Matthew not one falls to the ground without the Father. <b>Special providence</b> is theology’s term for that care over each single thing. Calvin’s chapter on it infers from the sparrow that the flight of birds is ruled by God’s counsel. Hamlet refuses the art that reads birds for warnings, and goes from the bird whose fall is in God’s care to the three ifs.",
+          "why": "Augury read what is to come most often from the flight of birds; Hamlet rejects it and at once names the Gospel’s bird, the sparrow whose fall is in God’s care: one sentence refuses omens and the next asserts providence.",
+          "grounds": [
+            {
+              "claim": "augury: the Roman augurs made the future known by watching lightning, the flight or notes of birds and other signs, and the kind that watched the flight of birds was the most common; in English the word’s first sense was foretelling from how birds fly",
+              "kind": "source",
+              "source": "Lewis and Short, A Latin Dictionary, augur and augurium; Online Etymology Dictionary, augury (n.)"
+            },
+            {
+              "claim": "defy as reject; providence as the care of God; readiness; betimes",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare Lexicon (3rd ed., 1902), under Defy (sense 2), Special, Providence (sense 2), Readiness, Betimes"
+            },
+            {
+              "claim": "not one of the sparrows falls to the ground without the Father",
+              "kind": "source",
+              "source": "Matthew 10:29, Geneva Bible (1599 printing), read at biblegateway.com"
+            },
+            {
+              "claim": "a study of Shakespeare’s use of the Bible sets this speech beside Matthew 10:29 and Matthew 24:44",
+              "kind": "source",
+              "source": "Thomas Carter, Shakespeare and Holy Scripture, with the Version He Used (London, 1905), p. 381, read in the Internet Archive’s text of the book"
+            },
+            {
+              "claim": "special providence, down to a sparrow; and from the sparrow verse, that the flight of birds is governed by the counsel of God",
+              "kind": "source",
+              "source": "John Calvin, Institutes of the Christian Religion, book 1, chapter 16, sections 1 and 5, translated by Henry Beveridge (1845), read at ccel.org"
+            },
+            {
+              "claim": "Hamlet speaks of his misgiving, and Horatio tells him to obey it and says he will stop the others from coming",
+              "kind": "text",
+              "source": "hamlet/a5s2, blocks 157 and 159"
+            },
+            {
+              "claim": "the order of the sentences: augury, the sparrow, then the three ifs",
+              "kind": "plate"
+            }
+          ],
+          "stands": "What Horatio says just before. Alexander Schmidt’s *Shakespeare-Lexicon* under Defy, Augury, Special, Providence, Readiness and Betimes. Augury at Rome: Lewis and Short, *A Latin Dictionary*, under *augur*. Matthew 10:29 and 24:44 in the Geneva Bible, set beside this speech by Thomas Carter, *Shakespeare and Holy Scripture*, p. 381. Calvin, *Institutes*, book 1, chapter 16, in the English of 1845."
+        },
+        {
+          "kind": "shape",
+          "label": "Shape",
+          "what": "where Hamlet talks to himself, and where he speaks verse and where prose, scene by scene",
+          "facts": {
+            "counted": "Every number is counted from the hosted text (hamlet, Project Gutenberg no. 1524) with scripts written for this piece. A word is what stands between spaces or long dashes. Verse and prose are as this text sets them. It sets a few short prose lines as verse (for example a2s2 block 342 and a3s2 block 313), so the counts are near, not exact, at those places. Counted again by the examiner on 2026-10-03 with separate scripts: every figure agrees.",
+            "soliloquies": [
+              {
+                "place": "Act 1, Scene 2",
+                "block": "a1s2:43",
+                "lines": 31,
+                "words": 260,
+                "iMeMy": 11
+              },
+              {
+                "place": "Act 1, Scene 5",
+                "block": "a1s5:40 and a1s5:42",
+                "lines": 21,
+                "words": 159,
+                "iMeMy": 12,
+                "note": "one speech, set as two blocks with the stage direction Writing between them; the me in the Ghost’s words, which he repeats, is not counted"
+              },
+              {
+                "place": "Act 2, Scene 2",
+                "block": "a2s2:380",
+                "lines": 58,
+                "words": 459,
+                "iMeMy": 35
+              },
+              {
+                "place": "Act 3, Scene 1",
+                "block": "a3s1:46",
+                "rows": "0 to 32, to the sixth word of row 32",
+                "lines": 33,
+                "words": 262,
+                "iMeMy": 0,
+                "note": "the second plate shows its first ten lines; we and us come seven times"
+              },
+              {
+                "place": "Act 3, Scene 2",
+                "block": "a3s2:315",
+                "lines": 12,
+                "words": 100,
+                "iMeMy": 7
+              },
+              {
+                "place": "Act 3, Scene 3",
+                "block": "a3s3:23",
+                "lines": 22,
+                "words": 193,
+                "iMeMy": 8
+              },
+              {
+                "place": "Act 4, Scene 4",
+                "block": "a4s4:40",
+                "lines": 35,
+                "words": 277,
+                "iMeMy": 12
+              }
+            ],
+            "iMeMyKey": "how many times the speech says I, me or my (I’ll and the like are counted as I)",
+            "shorter": "Not among the seven: the four lines to himself that end Act 1, Scene 2, which say *I* or *my* three times, and three short asides, in Act 1, Scene 2, Act 2, Scene 2 and Act 3, Scene 2.",
+            "act5": "Hamlet enters both scenes of Act 5 with Horatio. He is never alone on the stage in this act and has no speech to himself.",
+            "hamletBySceneKey": "each entry is [scene, his lines of verse, his words of verse, his words of prose]; scenes in which he does not speak are left out",
+            "hamletByScene": [
+              [
+                "1.2",
+                104,
+                761,
+                0
+              ],
+              [
+                "1.4",
+                67,
+                491,
+                0
+              ],
+              [
+                "1.5",
+                98,
+                685,
+                0
+              ],
+              [
+                "2.2",
+                83,
+                622,
+                1624
+              ],
+              [
+                "3.1",
+                39,
+                297,
+                346
+              ],
+              [
+                "3.2",
+                69,
+                510,
+                1260
+              ],
+              [
+                "3.3",
+                22,
+                193,
+                0
+              ],
+              [
+                "3.4",
+                176,
+                1347,
+                0
+              ],
+              [
+                "4.2",
+                0,
+                0,
+                154
+              ],
+              [
+                "4.3",
+                0,
+                0,
+                192
+              ],
+              [
+                "4.4",
+                47,
+                362,
+                0
+              ],
+              [
+                "5.1",
+                43,
+                322,
+                702
+              ],
+              [
+                "5.2",
+                148,
+                1052,
+                626
+              ]
+            ],
+            "totals": {
+              "verseLines": 896,
+              "verseWords": 6642,
+              "proseWords": 4904
+            },
+            "firstProse": "Act 2, Scene 2; in Act 1 he speaks verse only",
+            "lastProse": "this speech; every later speech of his is set as verse",
+            "placesNote": "where the places named in these facts stand: shorter, a1s2:158, and the asides at a1s2:19, a2s2:231 and a3s2:134 (found by the examiner; Act 5 has none of his); act5, a5s1 block 50 and a5s2 block 1; firstProse, a2s2 block 104; lastProse, a5s2 block 161, after which 23 verse blocks of his follow (a5s2 blocks 167 to 303); thisSpeech.then, a5s2 block 162",
+            "thisSpeech": {
+              "block": "a5s2:161",
+              "words": 61,
+              "sentences": 5,
+              "saidTo": "Horatio",
+              "then": "the King, the Queen, Laertes and the court enter"
+            },
+            "inOrderKey": "added by the artist for the drawing: Hamlet’s part in the order he speaks it. Each entry is a run of his words in one scene, verse or prose as this text sets it; speeches of one kind that follow each other in a scene make one run. toHimself marks the seven speeches to himself and thisSpeech marks this speech; read is where that speech stands in the text printed here. Counted with remake/works/hamlet/count-order.mjs by the rule for a word given under counted; the runs of each scene add up to hamletByScene.",
+            "inOrder": [
+              {
+                "scene": "1.2",
+                "kind": "verse",
+                "words": 120
+              },
+              {
+                "scene": "1.2",
+                "kind": "verse",
+                "words": 260,
+                "toHimself": true,
+                "read": "hamlet/a1s2:43"
+              },
+              {
+                "scene": "1.2",
+                "kind": "verse",
+                "words": 381
+              },
+              {
+                "scene": "1.4",
+                "kind": "verse",
+                "words": 491
+              },
+              {
+                "scene": "1.5",
+                "kind": "verse",
+                "words": 53
+              },
+              {
+                "scene": "1.5",
+                "kind": "verse",
+                "words": 159,
+                "toHimself": true,
+                "read": "hamlet/a1s5:40"
+              },
+              {
+                "scene": "1.5",
+                "kind": "verse",
+                "words": 473
+              },
+              {
+                "scene": "2.2",
+                "kind": "prose",
+                "words": 1147
+              },
+              {
+                "scene": "2.2",
+                "kind": "verse",
+                "words": 13
+              },
+              {
+                "scene": "2.2",
+                "kind": "prose",
+                "words": 12
+              },
+              {
+                "scene": "2.2",
+                "kind": "verse",
+                "words": 19
+              },
+              {
+                "scene": "2.2",
+                "kind": "prose",
+                "words": 284
+              },
+              {
+                "scene": "2.2",
+                "kind": "verse",
+                "words": 7
+              },
+              {
+                "scene": "2.2",
+                "kind": "prose",
+                "words": 8
+              },
+              {
+                "scene": "2.2",
+                "kind": "verse",
+                "words": 93
+              },
+              {
+                "scene": "2.2",
+                "kind": "prose",
+                "words": 3
+              },
+              {
+                "scene": "2.2",
+                "kind": "verse",
+                "words": 31
+              },
+              {
+                "scene": "2.2",
+                "kind": "prose",
+                "words": 170
+              },
+              {
+                "scene": "2.2",
+                "kind": "verse",
+                "words": 459,
+                "toHimself": true,
+                "read": "hamlet/a2s2:380"
+              },
+              {
+                "scene": "3.1",
+                "kind": "verse",
+                "words": 262,
+                "toHimself": true,
+                "read": "hamlet/a3s1:46"
+              },
+              {
+                "scene": "3.1",
+                "kind": "verse",
+                "words": 35
+              },
+              {
+                "scene": "3.1",
+                "kind": "prose",
+                "words": 346
+              },
+              {
+                "scene": "3.2",
+                "kind": "prose",
+                "words": 397
+              },
+              {
+                "scene": "3.2",
+                "kind": "verse",
+                "words": 316
+              },
+              {
+                "scene": "3.2",
+                "kind": "prose",
+                "words": 248
+              },
+              {
+                "scene": "3.2",
+                "kind": "verse",
+                "words": 8
+              },
+              {
+                "scene": "3.2",
+                "kind": "prose",
+                "words": 179
+              },
+              {
+                "scene": "3.2",
+                "kind": "verse",
+                "words": 24
+              },
+              {
+                "scene": "3.2",
+                "kind": "prose",
+                "words": 37
+              },
+              {
+                "scene": "3.2",
+                "kind": "verse",
+                "words": 26
+              },
+              {
+                "scene": "3.2",
+                "kind": "prose",
+                "words": 20
+              },
+              {
+                "scene": "3.2",
+                "kind": "verse",
+                "words": 27
+              },
+              {
+                "scene": "3.2",
+                "kind": "prose",
+                "words": 379
+              },
+              {
+                "scene": "3.2",
+                "kind": "verse",
+                "words": 9
+              },
+              {
+                "scene": "3.2",
+                "kind": "verse",
+                "words": 100,
+                "toHimself": true,
+                "read": "hamlet/a3s2:315"
+              },
+              {
+                "scene": "3.3",
+                "kind": "verse",
+                "words": 193,
+                "toHimself": true,
+                "read": "hamlet/a3s3:23"
+              },
+              {
+                "scene": "3.4",
+                "kind": "verse",
+                "words": 1347
+              },
+              {
+                "scene": "4.2",
+                "kind": "prose",
+                "words": 154
+              },
+              {
+                "scene": "4.3",
+                "kind": "prose",
+                "words": 192
+              },
+              {
+                "scene": "4.4",
+                "kind": "verse",
+                "words": 85
+              },
+              {
+                "scene": "4.4",
+                "kind": "verse",
+                "words": 277,
+                "toHimself": true,
+                "read": "hamlet/a4s4:40"
+              },
+              {
+                "scene": "5.1",
+                "kind": "prose",
+                "words": 702
+              },
+              {
+                "scene": "5.1",
+                "kind": "verse",
+                "words": 322
+              },
+              {
+                "scene": "5.2",
+                "kind": "verse",
+                "words": 564
+              },
+              {
+                "scene": "5.2",
+                "kind": "prose",
+                "words": 565
+              },
+              {
+                "scene": "5.2",
+                "kind": "prose",
+                "words": 61,
+                "thisSpeech": true,
+                "read": "hamlet/a5s2:161"
+              },
+              {
+                "scene": "5.2",
+                "kind": "verse",
+                "words": 488
+              }
+            ]
+          },
+          "caption": "In the first four acts Hamlet has seven long speeches to himself, of twelve to fifty-eight lines, all in verse. Auden wrote that the audience hears such a speech as spoken to them. In Act 5 Hamlet has none and is never alone on the stage. This speech about what is coming is five sentences of prose, said to Horatio. It is his last prose in this text: the court comes in and he speaks verse to the end. Auden said in 1947 that Hamlet speaks verse to himself and, when passion is high, to others; with other people he otherwise mostly speaks prose. By the count drawn here, about half of what he says to others is verse.",
+          "why": "Hamlet’s seven long speeches to himself are all verse and all in Acts 1 to 4; this speech is prose, said to Horatio, and Auden said prose is what Hamlet mostly speaks with other people.",
+          "grounds": [
+            {
+              "claim": "seven speeches to himself of 12 to 58 lines in Acts 1 to 4; none in Act 5; this is his last speech set as prose",
+              "kind": "source",
+              "source": "counted in the hosted text; the blocks and the numbers are in this lens’s facts; counted again by the examiner with separate scripts, with the same figures"
+            },
+            {
+              "claim": "about half of what he says to others is verse: 4,894 words of verse (all his verse but the seven speeches and the four lines to himself that end Act 1, Scene 2) beside 4,904 of prose, which is 49.9 in 100; with his three asides taken out as well, 4,883 beside 4,889",
+              "kind": "source",
+              "source": "counted in the hosted text by the finisher on 2026-10-03 with remake/works/hamlet/finisher/count-others.py, which shares no code with the artist’s count or the examiner’s; it prints the figures of this lens’s facts and the table of critic.md, section 5.1"
+            },
+            {
+              "claim": "the speech is five sentences of prose, said to Horatio, and the court then enters",
+              "kind": "text",
+              "source": "hamlet/a5s2, blocks 159 to 162"
+            },
+            {
+              "claim": "in Hamlet’s soliloquies the voice is heard as speaking to the audience, who suspect that he lets them hear only what he judges fit for them",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 110"
+            },
+            {
+              "claim": "Hamlet speaks verse to himself, in his soliloquies, and in passionate speeches to others, as with his mother; otherwise he usually speaks prose to other people",
+              "kind": "auden",
+              "source": "Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch (2000), the lecture on Hamlet of 12 February 1947, p. 160 (the index gives 160, 169 and 315 for prose and verse in the play); seen only in snippets of the scanned book (archive.org full-text search, and Google Books’ search within the volume, which labels the page, 2026-10-03)"
+            }
+          ],
+          "stands": "Counts in the text printed here: Hamlet’s lines and words in each scene, verse and prose as that text sets them, a word being what stands between spaces; and his speeches to himself. What is said around the speech in [Act 5, Scene 2](#/read/hamlet/a5s2:159). Auden: *The Dyer’s Hand*, p. 110, and *Lectures on Shakespeare*, p. 160."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In 1941, the year of the Michigan course, Auden talked about Shakespeare one evening at home with Charles Miller, a student in the class who shared his house. A director casting Hamlet, he said, might as well go into the street and take whoever comes first, because the part needs no actor. It is enough to say the speeches aloud: in them Hamlet is instructing himself, and arguing with himself, about how to act the parts he has decided to play.",
+      "source": "Charles H. Miller, *Auden: An American Friendship* (1983), p. 61",
+      "checked": "not in the scans. Seen on 2026-10-03 only in snippets from the archive.org full-text search: Miller’s own book (item audenamericanfri00mill: said at home, one evening, about Shakespeare); Arthur Kirsch’s note to the Hamlet lecture in Lectures on Shakespeare (item lecturesonshakes00aude), which dates the remark 1941, says Auden was then teaching Shakespeare at Michigan, and gives Miller, p. 61; and James Fenton, The Strength of Poetry (2001), which quotes the same words. The page: Kirsch’s note (on p. 381 of his book) gives Miller, p. 61, and Google Books’ search within Miller’s book (id -UxaAAAAMAAJ, snippet view) labels the snippet with these sentences p. 61. No whole page of Miller’s book was seen. That Miller was in the class and shared the house: remake/research/A_michigan_course.md."
+    },
+    {
+      "says": "Auden wrote that a whole personality, with what it discloses and what it hides, can hardly be shown through one character. The soliloquy tries to get round this, but it is a convention: it puts what is in fact a dialogue into the shape of one person’s speech. In Hamlet’s soliloquies the voice that is supposed to speak to itself is heard as speaking to the audience, who then suspect that he lets them hear only what he judges fit for them and keeps back the rest.",
+      "quote": "a single voice which is supposed to be addressed to himself but, in fact, is heard as addressed to us",
+      "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), p. 110",
+      "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 5208-5220 (the page head is at line 5191). Read again by the finisher on 2026-10-03, who put the first sentence in other words: it shared a run of five and of six words with his prose elsewhere (dh.txt, line 14365; fa.txt, line 4576), and two of them are his on this page"
+    },
+    {
+      "says": "In *The Enchafèd Flood* Auden says that Shakespeare had a new idea of revenge and made of the Hamlet he inherited the earliest hero of the romantic kind. It is his situation that makes this Hamlet a hero: his mother’s adultery with the uncle who killed his father. Until then he was an ordinary, agreeable young man. So he does not simply avenge his father and have done with it. In secret he holds the situation dear and cannot bring himself to end it, because he would not know who he was without it.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 110",
+      "checked": "read in the scan of The Enchafèd Flood, research/auden/ef.txt, lines 4554-4564; in this scan the page number stands at the foot of the page (line 4587), and the end of the last sentence is lost; the examiner read the end on 2026-10-03 in a snippet of another scan of the same Vintage edition (archive.org item enchafedflood0000whau_b0p8, full-text search), and six other scans of the book show the sentence two words past the break, with the same two words. The finisher read lines 4554-4564 again on 2026-10-03: Auden’s two words for the earlier Hamlet stand there against Shakespeare’s Hamlet in the next sentence, so they mean the Hamlet who was there before Shakespeare’s and not the father; the paraphrase had his two words, which a reader could take for the father, and now says the Hamlet he inherited"
+    },
+    {
+      "says": "In his 1947 lecture on the play Auden cited T. S. Eliot’s verdict that it fails as a work of art, and said that Hamlet, the one character who does not act, is not well fitted into it. He doubted that anyone had played the part without looking ridiculous. It should be given, he said, to someone brought in from the street, with professionals in every other part, because Hamlet is an actor, and nobody can act himself. He called Hamlet bored at bottom, and said that is why he behaves theatrically.",
+      "source": "*Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), pp. 159 and 164",
+      "checked": "not in the scans, and no page of the book was seen. Read in remake/research/C_auden_on_works.md, section 8 and the appendix extracts on Hamlet, and again on 2026-10-03 in snippets of the scanned book (archive.org item lecturesonshakes00aude, full-text search by exact phrase): every sentence paraphrased here was found. The lecture is dated 12 February 1947 and begins on p. 159 (contents page). The index gives 159 and 164 for Hamlet as actor; James D. Lester’s Writing Research Papers cites p. 164 for the sentence on acting theatrically. Google Books’ search within the volume (id 5ImCDwAAQBAJ, Princeton University Press) labels the snippets with these sentences p. 159 and p. 164."
+    },
+    {
+      "says": "In the same lecture Auden said that the soliloquies of *Hamlet*, like those of other plays Shakespeare wrote in those years, can be detached from the character and from the play; in his earlier and later plays they are more closely worked in. The speech of the second passage was his clear example. He also said that Hamlet is given verse when he is alone, in the soliloquies, and with others when passion is high, as with his mother, and that with other people he otherwise mostly speaks prose.",
+      "source": "*Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), pp. 159–60",
+      "checked": "not in the scans, and no page of the book was seen. Found on 2026-10-03 in snippets of the scanned book (archive.org item lecturesonshakes00aude, full-text search by exact phrase, read sentence by sentence). The running head of p. 160 falls inside the sentence about the speech of the second passage; the index gives 160, 169 and 315 for prose and verse in the play. The sentences on the soliloquies are also quoted by Mark Edmundson, Self and Soul (2015). Google Books’ search within the volume (id 5ImCDwAAQBAJ) labels the snippets p. 159 (the soliloquies, and the start of the sentence on the speech of the second passage) and p. 160 (verse and prose)."
+    },
+    {
+      "says": "Also in that lecture Auden said that in *Hamlet* Shakespeare tries out the caesura, the stop inside the verse line, to get a voice between the passionate and the prosaic. He said too that Shakespeare’s paired adjectives change in this play: an earlier pair says one thing twice, and the pairs in *Hamlet* join an abstract word to a concrete one.",
+      "source": "*Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), p. 160",
+      "checked": "not in the scans, and no page of the book was seen. Found by the examiner on 2026-10-03 in snippets from Google Books’ search within the volume (id 5ImCDwAAQBAJ, Princeton University Press), which labels them p. 160. His examples of paired adjectives, as far as the snippets show them, are from 1.3, 1.5 and one more place; none is in the three passages."
+    },
+    {
+      "says": "In the spring of 1947 the Saturday class that went with Auden’s New York lectures on Shakespeare turned to language: close comment on single words and phrases of two plays, *Hamlet* and *The Tempest*. The final examination that term, as a student’s journal reports it, asked what single words in the two plays mean and had the students punctuate one of Hamlet’s prose speeches.",
+      "source": "*Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), Appendix I, pp. 321–40, and Appendix II, p. 341",
+      "checked": "remake/research/B_pedagogy.md, sections 1.N2 and 1.N3 (snippets; no page of the book was seen). Checked again on 2026-10-03 in snippets of the scanned book (archive.org full-text search): the contents page gives 321 for Appendix I, and Kirsch reports the spring examination from Alan Ansen’s journal for 3 May 1947. Google Books’ search within the volume labels the head of Appendix I p. 321 and its last page p. 340. Kirsch’s sentence on the spring examination was read whole in archive.org snippets on 2026-10-03: it stands in the head note of Appendix II, after the story of the fall paper, and the contents page gives 341 for that appendix; the page itself was not seen. The speech to be punctuated is Kittredge’s II.ii.316–22, the prose speech on man said to Rosencrantz and Guildenstern."
+    },
+    {
+      "says": "Alan Ansen’s notes of that class keep what Auden said on the speech of the second passage: *rub* is a bowler’s term, for a ball turned aside when it grazes another; editors have proposed changes to *sea of troubles*; and *to say*, two lines on, does not follow grammatically. The notes on *Hamlet* open with a general remark: Hamlet’s good relations with people all go bad, except the one with Horatio.",
+      "source": "*Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), Appendix I, pp. 324 and 327",
+      "checked": "not in the scans, and no page of the book was seen. Found by the examiner on 2026-10-03 in snippets from Google Books’ search within the volume (id 5ImCDwAAQBAJ), which labels them pp. 324 and 327. Kirsch says (p. 321) that he transcribed most of Ansen’s notes word for word. The notes are keyed to Kittredge’s lines: III.i.59, 61 and 65 are rows 46.3, 46.5 and 46.9. They have nothing on I.ii.76–86 (the first gloss on that scene is at line 164) and nothing between V.ii.203–18 and V.ii.270, so nothing on the first or the third passage."
+    }
+  ],
+  "next": "hamlet/a1s1:0",
+  "sources": [
+    "The text: William Shakespeare, *Hamlet*, as Project Gutenberg prints it (no. 1524).",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Balaam and His Ass,” p. 110; “Genius & Apostle,” pp. 451–52.",
+    "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 110.",
+    "W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000): the lecture on *Hamlet* of 12 February 1947, pp. 159–65, and Appendix I, Alan Ansen’s notes of the Saturday classes of 1946–47, pp. 321–40; and Appendix II, p. 341. Not seen in full.",
+    "Charles H. Miller, *Auden: An American Friendship* (1983), p. 61; also quoted by Arthur Kirsch in his notes to *Lectures on Shakespeare*, p. 381. Not seen in full.",
+    "Alexander Schmidt, *Shakespeare-Lexicon* (Berlin, 1902), at the Perseus Digital Library: Action, Augury, Betimes, Consummation, Defy, Denote, Devoutly, Fruitful, Haviour, Outrageous, Play, Providence, Readiness, Rub, Seem, Shock, Show, Special, Suit, Suspiration, Trapping and Visage.",
+    "E. A. Abbott, *A Shakespearian Grammar* (1870), paragraph 515: rhyme at the end of a scene.",
+    "Paull F. Baum, *The Principles of English Versification* (1922): chapter 4, on the short couplet; chapter 5, on the extra syllable at the end of a line and on lines overweighted with stress.",
+    "Online Etymology Dictionary: anadiplosis, antimetabole, augury, consummation, infinitive, outrage, periphrasis, rub, suspiration, trappings.",
+    "*Oxford English Dictionary*, public pages: *outrageous*, *rub*.",
+    "Lewis and Short, *A Latin Dictionary* (1879), at the Perseus Digital Library: augur, augurium, providentia.",
+    "The Geneva Bible (1599 printing): Matthew 10:29 and 24:44.",
+    "Thomas Carter, *Shakespeare and Holy Scripture, with the Version He Used* (1905), p. 381.",
+    "John Calvin, *Institutes of the Christian Religion*, translated by Henry Beveridge (1845), book 1, chapter 16.",
+    "Wikipedia: “Anadiplosis,” “Antimetabole,” “Iambic pentameter,” “Masculine and feminine endings,” “Periodic sentence.”",
+    "*The Complete Works of William Shakespeare* (Project Gutenberg no. 100), searched for *suspiration*.",
+    "Counts made on the text printed here: the scenes that end on a rhymed pair; Hamlet’s lines and words of verse and of prose, scene by scene; his speeches to himself, and *I*, *me* and *my* in each. A word is what stands between spaces."
+  ],
+  "caveats": [
+    "Auden’s 1947 lecture on *Hamlet* is not his own text. Arthur Kirsch rebuilt it from notes made by people who heard it. It was read here only in snippets of scanned copies of the book, and so were the notes of his 1947 class.",
+    "The remark of 1941 comes from a memoir that Charles Miller printed in 1983, forty-two years later. The memoir was read here only in snippets.",
+    "The stresses marked on the second passage are one reader’s hearing of the lines. Its first line can take a stress on *that* or on *is*, and a few other syllables could fairly be marked otherwise. The pauses marked follow the punctuation of the text printed here.",
+    "The text printed here reads *shows of grief* in the first passage, where the early editions called quartos read *shapes*. The counts of verse, prose and rhymed scene-endings follow this text, which sets a few short prose lines as verse.",
+    "Auden’s sentence that Hamlet has no faith in God is about the character as a whole. No remark of his was found on the first or the third passage, and in the third Hamlet speaks of providence."
+  ],
+  "open": [
+    "No record was found of what Auden said about Hamlet in the Michigan class itself. One remark he made at home in 1941 was found by the examiner and added: Charles Miller’s memoir (1983), p. 61 by Kirsch’s note and by the page label of Google Books’ snippet of Miller’s book. It was seen only in snippets (archive.org full-text search, Google Books) of Miller’s book, of Kirsch’s note and of James Fenton’s The Strength of Poetry (2001). The view given here is from The Dyer’s Hand (1962); the research notes report that the same paragraph already stood in his essay “The Ironic Hero” in the late 1940s.",
+    "Auden’s 1947 lecture on Hamlet and Ansen’s notes of his 1947 class were read only in snippets of two scans of the book (archive.org full-text search; Google Books’ search within the volume) and in the research notes; no whole page was seen. The pages given (159, 159–60, 160, 164, 321–40, 324, 327, 381) are the page labels of the Google Books snippets (341, for the report of the spring examination, rests on the contents page alone), and agree with the contents page, the index and a running head seen in the archive.org snippets. A reader with the book should still check them, and should read the class notes on Hamlet (pp. 324–35) in full: only the lines of the three passages were searched.",
+    "The scan of The Enchafèd Flood loses the end of the sentence about Hamlet on p. 110. The examiner read the end in a snippet of another scan of the same edition and completed the paraphrase; the page number rests on the first scan.",
+    "Calvin’s phrase special providence was read in Beveridge’s English of 1845, not in the English translation of 1561 that Shakespeare’s contemporaries read. Two leads seen only in search snippets, neither used: Thomas Gataker’s Of the Nature and Use of Lots (1619) uses the phrase several times, once beside the sparrow; and books that print the early texts side by side show the First Quarto (1603) reading predestinate for special.",
+    "The text printed here reads shows of grief in the first passage; Schmidt’s lexicon notes that the quartos read shapes. A caveat now says so.",
+    "Rows 46.4 and 46.9 each hold two words joined by a dash. The marks that mean one of the two now name the part (6.1, 6.2, 4.1); the beat lens and one of its remarks still take the whole word.",
+    "Row 46.0 can be said with the stress on that or on is, row 46.3 with its first stress on Or or on take, and row 46.5 with No light or stressed. In row 46.6 natural is taken as two syllables. In row 46.9 there’s can be said with or without a stress; the caption rests on ay alone. No caption leans on the doubtful syllables.",
+    "The count of ten scenes that end on a rhymed pair includes move and love at the end of Act 2, Scene 1, which today rhyme to the eye only.",
+    "The hosted text sets a few short prose lines as verse, so the counts of Hamlet’s verse and prose by scene, and the statement that this is his last speech in prose, are as that text sets them.",
+    "The lead on hendiadys was not made a lens. The published count of the figure in Hamlet (George T. Wright, PMLA 96, 1981: perhaps sixty-six) was seen only in its abstract, and a report of its list implies that the pair in the first passage, trappings and suits, is not on it. Auden named hendiadys to his 1947 class in a list of terms (Lectures on Shakespeare, p. 323, snippet), and his lecture speaks of paired adjectives in Hamlet (p. 160, now in the list of what he said); neither remark is about these passages.",
+    "The third passage has Hamlet speak of providence, and the view says he lacks faith in God. No remark of Auden’s on that speech, or on the first passage, was found in the scans or in the scanned lectures (searched by phrase), or in Ansen’s notes of the 1947 class as the snippets show them. A caveat says so.",
+    "Auden’s lecture says that Hamlet mostly speaks prose with other people. The count bears out half of it: all seven long speeches to himself are verse and nearly all his prose is said to others (one aside of fifteen words in Act 2, Scene 2 is prose), but in Act 1 he speaks verse only, and over the play he says about as many words of verse to others as of prose (4,894 and 4,904 by the count; 3,547 of verse without the scene with his mother, which Auden excepts). Since the finisher’s change of 3 October the Shape caption reports the remark and then says, in a sentence of its own, that by the count about half of what he says to others is verse; it claims no more. The finisher counted again with remake/works/hamlet/finisher/count-others.py: the same figures, and 4,883 of verse beside 4,889 of prose if the three asides are taken out as well.",
+    "The poet’s mark on row 46.5 (words 0 to 1) in the Chain tab was removed by the examiner: the tab had six kinds of mark, and its label was a gloss with no ground. If it is wanted back it needs a tag of its own, since the chain drawing links marks that share a tag.",
+    "Found late by the examiner in Google Books snippets and used: Auden’s lecture on the stop inside the line (p. 160), now the reason of the Beat tab, and his class gloss on rub (p. 327), now in the second passage’s Words tab. The Beat tab has new pause marks on rows 46.4, 46.5, 46.7 and 46.8; the stop in row 46.9 falls at the dash inside a joined word, where the beat lens cannot draw a pause, and a remark on that row says so. The artist has looked (art.md, section 4, the first thing still there): the kit must learn to draw a pause at a dash inside a joined word, and the lead has that; the marks of row 46.9 are as they were.",
+    "Ansen’s notes also record that Auden called to say in row 46.5 a grammatical difficulty and noted emendations of sea of troubles in row 46.3. Both are in the list of what he said; no tab uses them. The Verbs tab could.",
+    "Appendix III of Lectures on Shakespeare (pp. 347–62) lists the lines Auden marked in his own copy of Hamlet. The snippets of that list were too broken to tell whether the lines of the three passages are among them. Someone with the book should look.",
+    "The list of what Auden said had five entries when the poet handed it in and twelve after the examiner. The lead took out three that mention Hamlet only in passing, in essays on other subjects (Forewords and Afterwords, p. 228; The Dyer’s Hand, pp. 241 and 408). The critic took out a fourth (The Enchafèd Flood, pp. 34 and 102), so the list has eight, and the finisher put the remark of 1941, the one entry from the year of the course, first. The four taken out are kept at the end of notes.md, before the finisher’s record.",
+    "The sentence the drawing prints under its table of the seven speeches (the fact named shorter) has two words marked as words since the finisher’s change of 3 October, and the script sets each as an i. They still print in the sentence’s italic: no rule sets an i upright in that fold. The rule is the kit’s or a stylesheet’s to give (notes.md, the finisher’s record, For the lead, 1). If the drawing’s script ever fails, the kit’s plain table would print the asterisks."
+  ]
+}

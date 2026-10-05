@@ -1,0 +1,388 @@
+{
+  "piece": "castle",
+  "title": "K. and the Castle",
+  "where": "*The Castle*, chapters 1, 2 and 8, in the English of Willa and Edwin Muir (1930)",
+  "about": "A man the book calls K. comes one night to a snowbound village under a castle and says he is the Land Surveyor the Count is expecting. Next morning he sets out on foot for the Castle: the first passage. That evening a messenger hands him a letter from Klamm, a Castle official: the second. In the third, on his fourth day, K. has waited in an inn yard to catch Klamm at his sleigh, has refused to come away, and is left alone as the lights go out.",
+  "view": {
+    "says": "Auden wrote that a typical Kafka story turns the heroic quest upside down. The old hero knows what he must do, and others can tell him the way. Kafka’s hero meets no one who knows it, and K. does not know what he should do. In *The Castle* the letter K. wants to be a word, land-surveyor, and so to have a self like everyone else, and he is not allowed one.",
+    "source": "“The I Without a Self,” in *The Dyer’s Hand* (1962), pp. 162–63",
+    "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 7789-7875 (running heads: 162 at line 7778, 163 at line 7831), three times on 2026-10-03, the last time just before this was written"
+  },
+  "plates": [
+    {
+      "id": "street",
+      "heading": "The street to the Castle",
+      "label": "K. sets out again",
+      "text": "castle/c01",
+      "rows": [
+        "34.0[0-81]"
+      ],
+      "pair": {
+        "label": "The end of the same paragraph",
+        "text": "castle/c01",
+        "rows": [
+          "34.0[130-178]"
+        ]
+      },
+      "beside": true,
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Clauses",
+          "spans": [
+            { "from": ["34.0", 11], "to": ["34.0", 21], "tag": "subject", "label": "the one subject" },
+            { "from": ["34.0", 22], "to": ["34.0", 29], "tag": "no", "label": "not up to it" },
+            { "from": ["34.0", 30], "to": ["34.0", 34], "tag": "yes", "label": "toward it" },
+            { "from": ["34.0", 35], "to": ["34.0", 41], "tag": "no", "label": "aside" },
+            { "from": ["34.0", 42], "to": ["34.0", 51], "tag": "yes", "label": "not away" },
+            { "from": ["34.0", 52], "to": ["34.0", 58], "tag": "no", "label": "no nearer" },
+            { "from": ["34.0", 59], "to": ["34.0", 71], "tag": "k", "label": "what K. expects" },
+            { "from": ["34.0", 72], "to": ["34.0", 81], "tag": "k", "label": "why he goes on" }
+          ],
+          "caption": "The second sentence says five things of one street: it does not go up to the Castle hill, makes <b>towards</b> it, turns <b>aside</b>, does not lead <b>away</b>, and gets <b>no nearer</b>. Each new clause takes back part of the last, in Kafka’s German too. One of the translators, Edwin Muir, wrote that Kafka loved a sentence that goes forward, turns back on itself and goes forward again. K. goes on only because he expects the road to come round to the Castle. Auden, writing of the way in the stories typical of Kafka, cites Kafka’s aphorism that there is a goal and no way, and that what is called the way is wavering.",
+          "why": "One sentence says five things of a street, each new one taking back part of the last, and ends no nearer the Castle; Auden cites Kafka’s aphorism that there is a goal and no way, only wavering.",
+          "grounds": [
+            { "claim": "one subject and five clauses, each after the first turning the one before; then what K. expects and why he goes on", "kind": "plate" },
+            { "claim": "the street does not go up to the hill, makes toward it, turns aside, does not lead away and gets no nearer; K. goes on only because he expects the road to come round", "kind": "text", "source": "castle/c01, block 34, words 10 to 81" },
+            { "claim": "the five clauses stand in the same order in Kafka’s German", "kind": "source", "source": "Franz Kafka, Das Schloß, Das erste Kapitel, read at zeno.org on 2026-10-03 (the page gives its source as Gesammelte Werke, Band 2, Frankfurt a.M. 1950 ff., pp. 5-28)" },
+            { "claim": "Kafka loves a winding line: a sentence that moves forward, comes back on itself and moves forward again", "kind": "source", "source": "Edwin Muir, Introductory Note (to the first American edition) of The Castle, last paragraph, in the Standard Ebooks edition of the Muirs’ translation, read on 2026-10-03" },
+            { "claim": "said of a typical Kafka story: of those the hero meets, none has any idea of the way; he then gives one of the aphorisms, on the goal and the way, as putting it", "kind": "auden", "source": "“The I Without a Self,” in The Dyer’s Hand (1962), p. 162 (scan lines 7805-7816). The caption gives the aphorism in other words and leaves out the sentence about those the hero meets, which is in the view: in this passage K. meets no one" }
+          ],
+          "stands": "The marks on the passage, and what its second and third sentences say. The same sentence in Kafka’s German, *Das Schloß*, chapter 1. Edwin Muir’s introductory note to the translation, on Kafka’s sentences. Auden: *The Dyer’s Hand*, p. 162, where he gives Kafka’s aphorism."
+        },
+        {
+          "kind": "compare",
+          "label": "Stop",
+          "ties": [
+            { "a": ["34.0", 0, 4], "b": ["p:34.0", 169, 173], "say": "The paragraph opens with K. walking again and closes with him at a stop." },
+            { "a": ["34.0", 80, 81], "b": ["p:34.0", 175, 178], "say": "The same two words, *go on*: first what he does, then what he cannot do." },
+            { "a": ["34.0", 5, 9], "b": ["p:34.0", 155, 163], "say": "In the first passage the way is long. In the second each step is an effort." },
+            { "a": ["34.0", 11, 12], "b": ["p:34.0", 133, 141], "say": "K. has to tear himself from the street. In the German it is a street that holds fast." }
+          ],
+          "caption": "Between the two passages K. walks on through a village that seems to have no end. Then he tears himself from the street into a side lane where the snow is deeper, breaks into a sweat, and stops. The two words for what he did, <b>go on</b>, come back after <b>could not</b>. Kafka’s German has one word in both places, <i>weiter</i>, onward, and calls pulling the feet out <i>schwere Arbeit</i>, work that is heavy or hard. No other imagined world, Auden wrote, is as heavy as Kafka’s, and one step in it takes all one’s strength.",
+          "why": "The paragraph that starts K. walking ends with him unable to go on, on the same two words; Auden says no imagined world is as heavy as Kafka’s, where one step uses up the strength.",
+          "grounds": [
+            { "claim": "the first and last verbs of the paragraph, and the two places where the same two words stand", "kind": "plate" },
+            { "claim": "between the two passages: the village that seems to have no end; then the side lane, the deeper snow, the sweat and the stop", "kind": "text", "source": "castle/c01, block 34, words 82 to 178" },
+            { "claim": "Kafka’s German has weiter in both places, schwere Arbeit for the pulling out of the feet, and a street that holds fast (festhaltend)", "kind": "source", "source": "Franz Kafka, Das Schloß, Das erste Kapitel, read at zeno.org on 2026-10-03 (Gesammelte Werke, Band 2, Frankfurt a.M. 1950 ff., pp. 5-28): in the paragraph of 146 words and one dash, weiter is the 72nd word and the last" },
+            { "claim": "weiter with a verb of motion: the movement continues; weitergehen: to keep on one’s way and not stand still; schwer: of great weight, and also done with great effort; festhalten: to hold back and not let go", "kind": "source", "source": "Digitales Wörterbuch der deutschen Sprache (dwds.de), under weiter- (sense 1), weitergehen, schwer (senses 2a and 2e) and festhalten (sense 1), read on 2026-10-03" },
+            { "claim": "in no other imagined world is everything so heavy; one step uses up the strength", "kind": "auden", "source": "“The I Without a Self,” in The Dyer’s Hand (1962), p. 163" }
+          ],
+          "stands": "The marks on the two passages, and what [the paragraph](#/read/castle/c01:34) says between them. Kafka’s German for the same paragraph, *Das Schloß*, chapter 1, with the *Digitales Wörterbuch der deutschen Sprache* under *weiter-*, *weitergehen*, *schwer* and *festhalten*. Auden: *The Dyer’s Hand*, p. 163."
+        }
+      ]
+    },
+    {
+      "id": "letter",
+      "heading": "Klamm’s letter",
+      "label": "The letter",
+      "text": "castle/c02",
+      "rows": [
+        "8.0"
+      ],
+      "pair": {
+        "label": "K. reads it again, in his room",
+        "text": "castle/c02",
+        "rows": [
+          "10.0[0-92]"
+        ]
+      },
+      "beside": true,
+      "lenses": [
+        {
+          "kind": "compare",
+          "label": "Reading",
+          "ties": [
+            { "a": ["8.0", 0, 2], "b": ["p:10.0", 21, 24], "say": "K. counts the form of address among the places that treat him as a free man." },
+            { "a": ["8.0", 70, 73], "b": ["p:10.0", 28, 32], "say": "K. counts the mention of his wishes among the places that treat him as a free man." },
+            { "a": ["8.0", 47, 54], "b": ["p:10.0", 57, 70], "say": "K. puts this promise with the places that treat him as a minor employee, hardly visible to the heads of departments: keeping him in view takes an effort." },
+            { "a": ["8.0", 14, 22], "b": ["p:10.0", 71, 77], "say": "K. adds one word, *only*: his chief is no more than a village official." },
+            { "a": ["8.0", 39, 43], "b": ["p:10.0", 78, 83], "say": "And it is to that official that he must answer. K. adds the word *actually*." }
+          ],
+          "caption": "K. finds the letter not <b>consistent</b> and sorts it two ways. The <b>address</b> and the mention of his <b>wishes</b> treat him as a free man. <b>Not to lose sight</b> of him, and a <b>superior</b> who is only a village official, treat him as a minor employee. That the Castle might be undecided hardly occurs to him: he reads the contradiction as a choice left to him. Further on he finds a hint that he made the first move, one only <i>an uneasy conscience</i> would sense: uneasy, the text adds, not bad. Auden wrote that K. cannot take instructions that seem contradictory as a sign of others’ guilt, and that they may prove his own.",
+          "why": "K. sorts one letter into words for a free man and words for a minor employee and hardly thinks the Castle undecided; Auden says he cannot read contradictory instructions as guilt in others: they may prove his own.",
+          "grounds": [
+            { "claim": "which phrases of the letter K. takes up, and to which of the two kinds he puts each", "kind": "plate" },
+            { "claim": "K. calls the letter not consistent; that the Castle might be undecided hardly occurs to him; he reads the contradiction as a choice offered to him; later he finds in three words a hint, to be sensed only by an uneasy conscience, that he was the one who made the first advance; the text itself adds that the conscience is uneasy and not bad", "kind": "text", "source": "castle/c02, block 10: words 0 to 5, 93 to 160 and 479 to 561 (the correction at words 518 to 524)" },
+            { "claim": "said of K, his name for Kafka’s hero: if the instructions and advice he gets seem absurd or contradictory, he cannot read that as a sign that others are malicious or guilty; it may well prove these things of himself", "kind": "auden", "source": "“The I Without a Self,” in The Dyer’s Hand (1962), p. 163 (scan lines 7845-7848). The caption keeps his may" }
+          ],
+          "stands": "The marks on the letter and on K.’s reading of it, and what K. goes on to think in the rest of [that paragraph](#/read/castle/c02:10). Auden: *The Dyer’s Hand*, p. 163."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "8.0",
+              "w": [0, 2],
+              "gloss": "no name, no title",
+              "note": "K. counts this form of address among the places that treat him as a free man. In chapter 5 the Superintendent says it shows the letter is private and not official.",
+              "source": "castle/c02, block 10, words 21 to 24; castle/c05, block 34, words 12 to 44"
+            },
+            {
+              "row": "8.0",
+              "w": [3, 5],
+              "gloss": "three words, read twice",
+              "note": "K. finds in them a hint, which only an uneasy conscience would catch, that it was he who made the first advance. The Superintendent says they lay on K. the task of proving he was taken on.",
+              "source": "castle/c02, block 10, words 479 to 561; castle/c05, block 34, words 60 to 94"
+            },
+            {
+              "row": "8.0",
+              "w": [13, 13],
+              "gloss": "1 of 6",
+              "note": "K. names six words of the letter, the six numbered here, as signs of the danger of sinking to a workman’s level.",
+              "source": "castle/c02, block 10, words 330 to 390"
+            },
+            { "row": "8.0", "w": [16, 16], "gloss": "2 of 6", "source": "castle/c02, block 10, words 361 to 368" },
+            { "row": "8.0", "w": [31, 31], "gloss": "3 of 6", "source": "castle/c02, block 10, words 361 to 368" },
+            { "row": "8.0", "w": [34, 37], "gloss": "4 of 6", "source": "castle/c02, block 10, words 361 to 368" },
+            { "row": "8.0", "w": [43, 43], "gloss": "5 of 6", "source": "castle/c02, block 10, words 361 to 368" },
+            {
+              "row": "8.0",
+              "w": [48, 48],
+              "gloss": "the Muirs’ word",
+              "note": "This word is the translators’. In Kafka’s German the letter says only that the writer will not lose sight of him, and the effort comes in with K.’s reading.",
+              "source": "Franz Kafka, Das Schloß, Das zweite Kapitel, read at zeno.org on 2026-10-03 (Gesammelte Werke, Band 2, Frankfurt a.M. 1950 ff., pp. 28-54): the letter, and the paragraph of K.’s reading"
+            },
+            { "row": "8.0", "w": [88, 94], "gloss": "a limit on always", "source": "castle/c02, block 8, words 79 to 94" },
+            { "row": "8.0", "w": [98, 98], "gloss": "6 of 6", "source": "castle/c02, block 10, words 361 to 368" }
+          ],
+          "caption": "The letter begins <b>My dear Sir</b>: no name and no title. It takes K. into the Count’s <b>service</b> and speaks of <b>your work</b> without saying what work. The title he came with, Land Surveyor, is not in it, and in chapter 5 the Superintendent tells him that not a word of it shows he was taken on as one. K. himself picks out six of its words, from <b>service</b> to <b>workers</b>, and finds even its personal lines written from an employer’s standpoint. Of this novel Auden wrote that K. wants to be a word, land-surveyor, and so to have a self like everyone else, and that he is not allowed one.",
+          "why": "The letter takes K. on for service and work and leaves out the title he claims, as the Superintendent points out; Auden says K. wants to be a word, land-surveyor, and so to have a self, and is not allowed.",
+          "grounds": [
+            { "claim": "the address, the three words, the six words K. names, and try", "kind": "plate" },
+            { "claim": "the letter has no name or title for K. and does not say what the work is", "kind": "text", "source": "castle/c02, block 8" },
+            { "claim": "K. announced himself as the Land Surveyor on the night he came", "kind": "text", "source": "castle/c01, block 13, words 54 to 65" },
+            { "claim": "K. names six words of the letter as signs of a workman’s level, and finds even its personal messages written from an employer’s standpoint", "kind": "text", "source": "castle/c02, block 10, words 330 to 390" },
+            { "claim": "the Superintendent: a private letter, as its address shows; not a word in it shows K. was taken on as Land Surveyor; the three words lay the proof on K.", "kind": "text", "source": "castle/c05, block 34" },
+            { "claim": "the title is not in the letter", "kind": "source", "source": "counted in the hosted text on 2026-10-03: Land Surveyor stands 0 times in castle/c02, block 8, and 96 times in the eighteen chapters" },
+            { "claim": "Kafka’s letter says the writer will not lose sight of him, with no word for try; only K.’s reading speaks of an effort", "kind": "source", "source": "Franz Kafka, Das Schloß, Das zweite Kapitel, read at zeno.org on 2026-10-03 (Gesammelte Werke, Band 2, Frankfurt a.M. 1950 ff., pp. 28-54)" },
+            { "claim": "the single letter K. wishes to be a word, land-surveyor, which is to get a self as other people have one; this he is not allowed", "kind": "auden", "source": "“The I Without a Self,” in The Dyer’s Hand (1962), p. 163" }
+          ],
+          "stands": "The marks on the letter. K.’s own list of six words and his reading of three, when he reads the letter again in [chapter 2](#/read/castle/c02:10), and the Superintendent’s reading in [chapter 5](#/read/castle/c05:34). K.’s claim to the title on [his first night](#/read/castle/c01:13); Kafka’s German letter in *Das Schloß*, chapter 2. Auden: *The Dyer’s Hand*, p. 163."
+        },
+        {
+          "kind": "shape",
+          "label": "Title",
+          "what": "the letter K. and the title Land Surveyor through the eighteen chapters",
+          "facts": {
+            "counted": "Counted on 2026-10-03 in the hosted text (site/data/texts/castle: 22 parts, 96,799 words) with a script over the word tokens of each paragraph. K. is every place where the initial stands with its full stop, the possessive included (59 of the 1,046) and the nine that follow a dash inside a joined token. Land Surveyor is every place where the two capitalized words stand together; no other spelling of the title occurs. Who speaks was decided by reading each of the 96 places; the list by part, block and word is in notes.md.",
+            "totals": { "words": 96799, "K.": 1046, "Land Surveyor": 96 },
+            "who says the title": [
+              { "who": "people K. meets in the village, the Superintendent among them", "times": 59 },
+              { "who": "K. himself", "times": 16 },
+              { "who": "the narration, giving what someone says, thinks or sees", "times": 11 },
+              { "who": "Castle officials, in person or as their words are passed on", "times": 7 },
+              { "who": "the Castle, by telephone and by letter", "times": 3 }
+            ],
+            "chapters": [
+              { "chapter": "1", "words": 5942, "K.": 114, "Land Surveyor": 15, "said by": { "K. himself": 4, "people he meets": 6, "narration": 5 }, "read": "castle/c01:0" },
+              { "chapter": "2", "words": 6998, "K.": 134, "Land Surveyor": 7, "said by": { "K. himself": 2, "people he meets": 3, "the Castle": 2 }, "read": "castle/c02:0" },
+              { "chapter": "3", "words": 3408, "K.": 64, "Land Surveyor": 4, "said by": { "people he meets": 4 }, "read": "castle/c03:0" },
+              { "chapter": "4", "words": 4691, "K.": 37, "Land Surveyor": 2, "said by": { "people he meets": 1, "narration": 1 }, "read": "castle/c04:0" },
+              { "chapter": "5", "words": 6774, "K.": 50, "Land Surveyor": 30, "said by": { "K. himself": 6, "people he meets": 24 }, "read": "castle/c05:0" },
+              { "chapter": "6", "words": 4927, "K.": 56, "Land Surveyor": 2, "said by": { "people he meets": 2 }, "read": "castle/c06:0" },
+              { "chapter": "7", "words": 3784, "K.": 51, "Land Surveyor": 7, "said by": { "people he meets": 7 }, "read": "castle/c07:0" },
+              { "chapter": "8", "words": 3493, "K.": 60, "Land Surveyor": 1, "said by": { "people he meets": 1 }, "read": "castle/c08:0" },
+              { "chapter": "9", "words": 3822, "K.": 46, "Land Surveyor": 7, "said by": { "people he meets": 4, "Castle officials": 3 }, "read": "castle/c09:0" },
+              { "chapter": "10", "words": 2204, "K.": 34, "Land Surveyor": 3, "said by": { "K. himself": 2, "the Castle": 1 }, "read": "castle/c10:0" },
+              { "chapter": "11", "words": 1907, "K.": 26, "Land Surveyor": 0, "said by": {}, "read": "castle/c11:0" },
+              { "chapter": "12", "words": 2514, "K.": 28, "Land Surveyor": 0, "said by": {}, "read": "castle/c12:0" },
+              { "chapter": "13", "words": 10582, "K.": 160, "Land Surveyor": 4, "said by": { "narration": 4 }, "read": "castle/c13:0" },
+              { "chapter": "14", "words": 2923, "K.": 46, "Land Surveyor": 0, "said by": {}, "read": "castle/c14:0" },
+              { "chapter": "15", "words": 6132, "K.": 31, "Land Surveyor": 0, "said by": {}, "read": "castle/c15:0" },
+              { "chapter": "15, Amalia’s Secret", "words": 5893, "K.": 20, "Land Surveyor": 2, "said by": { "K. himself": 2 }, "read": "castle/c15-2:0" },
+              { "chapter": "15, Amalia’s Punishment", "words": 3676, "K.": 8, "Land Surveyor": 0, "said by": {}, "read": "castle/c15-3:0" },
+              { "chapter": "15, Petitions", "words": 2814, "K.": 3, "Land Surveyor": 0, "said by": {}, "read": "castle/c15-4:0" },
+              { "chapter": "15, Olga’s Plans", "words": 5460, "K.": 8, "Land Surveyor": 2, "said by": { "people he meets": 2 }, "read": "castle/c15-5:0" },
+              { "chapter": "16", "words": 2626, "K.": 25, "Land Surveyor": 5, "said by": { "people he meets": 2, "Castle officials": 3 }, "read": "castle/c16:0" },
+              { "chapter": "17", "words": 1801, "K.": 13, "Land Surveyor": 2, "said by": { "Castle officials": 1, "narration": 1 }, "read": "castle/c17:0" },
+              { "chapter": "18", "words": 4428, "K.": 32, "Land Surveyor": 3, "said by": { "people he meets": 3 }, "read": "castle/c18:0" }
+            ],
+            "turns": [
+              { "chapter": "1", "what": "Woken at the inn, K. says he is the Land Surveyor the Count is expecting.", "read": "castle/c01:13" },
+              { "chapter": "1", "what": "By telephone the Castle first has no trace of a Land Surveyor. Then it rings back, and the first answer is called a mistake.", "read": "castle/c01:15" },
+              { "chapter": "2", "what": "K. telephones the Castle as the Land Surveyor’s old assistant. A voice asks what Land Surveyor, then knows of him. Asked when his master may come to the Castle, it answers: never.", "read": "castle/c02:4" },
+              { "chapter": "2", "what": "Klamm’s letter takes him into the Count’s service and does not use the title.", "read": "castle/c02:8" },
+              { "chapter": "5", "what": "The Superintendent tells K. that the village does not need a Land Surveyor.", "read": "castle/c05:2" },
+              { "chapter": "5", "what": "Shown the letter, the Superintendent finds in it no word that K. was taken on as Land Surveyor.", "read": "castle/c05:34" },
+              { "chapter": "7", "what": "K. accepts the post of school janitor. The teacher who brings the offer says a janitor is needed about as much as a Land Surveyor.", "read": "castle/c07:5" },
+              { "chapter": "10", "what": "A second letter from Klamm is addressed to the Land Surveyor and praises his surveying. K. says he has done none.", "read": "castle/c10:1" },
+              { "chapter": "15, Amalia’s Secret", "what": "K. tells Olga that his engagement as Land Surveyor was only a pretext.", "read": "castle/c15-2:0" },
+              { "chapter": "16", "what": "Erlanger, one of Klamm’s secretaries, sends word that he wants the Land Surveyor at the Herrenhof at once.", "read": "castle/c16:3" },
+              { "chapter": "18", "what": "The last speech in the text is a question, and its last words are the title.", "read": "castle/c18:1" }
+            ],
+            "after the text": {
+              "what": "Kafka never wrote the last chapter. He told his editor how it was to go: K. dies worn out, and word comes from the Castle that he has no valid right to live in the village but may stay and work there.",
+              "source": "Max Brod, Additional Note to The Castle, second paragraph, in the Standard Ebooks edition of the Muirs’ translation"
+            },
+            "passages": [
+              { "passage": "The street to the Castle", "chapter": "1", "read": "castle/c01:34" },
+              { "passage": "Klamm’s letter", "chapter": "2", "read": "castle/c02:8" },
+              { "passage": "Alone in the yard", "chapter": "8", "read": "castle/c08:13" }
+            ],
+            "note": "Other survey words in the text, 7 in all: the verb or noun for looking over at c01 block 42, c02 blocks 7 and 14; surveying at c02 block 1 (K. asks the assistants whether they know anything of it; they say no) and three times in c10 block 1 (the second letter, K.’s answer, K.’s message). On the telephone in chapter 2 K. gives the name Joseph for the assistant he pretends to be (twice in c02 block 4); the book gives K. himself no other name than the initial. The words of each part were counted with the same tokens as the marks."
+          },
+          "caption": "The book calls its hero <b>K.</b> 1,046 times. Its editor, Max Brod, notes that Kafka seems to have begun with <i>I</i> and then put K. in its place. The title K. claims, Land Surveyor, comes 96 times, mostly from people he meets in the village. The Superintendent, whom the letter names as his superior, tells him the village needs no surveyor. Kafka told Brod the ending he never wrote: word comes from the Castle that K. has no valid right to live in the village, but may stay and work there. Auden wrote that the letter K. wants to be a word, land-surveyor, and is not allowed to be one.",
+          "why": "The book writes K. 1,046 times and the title he claims 96, mostly in other people’s mouths, and his superior says no surveyor is needed; Auden says the letter K. wants to be a word, land-surveyor, and is not allowed.",
+          "grounds": [
+            { "claim": "K. 1,046 times; Land Surveyor 96 times, 59 of them from people he meets in the village and 16 from K. himself", "kind": "source", "source": "counted in the hosted text of the eighteen chapters on 2026-10-03; each of the 96 places read for its speaker (the list is in notes.md)" },
+            { "claim": "the book seems to have been begun in the first person, and K. put in for I through the earlier chapters", "kind": "source", "source": "Max Brod, Additional Note to The Castle (1930), fifth paragraph, in the Standard Ebooks edition of the Muirs’ translation, read on 2026-10-03" },
+            { "claim": "the letter names the Superintendent as K.’s immediate superior", "kind": "text", "source": "castle/c02, block 8, words 14 to 22" },
+            { "claim": "the Superintendent says the village has no use for a Land Surveyor", "kind": "text", "source": "castle/c05, block 2, words 273 to 300" },
+            { "claim": "Kafka never wrote the last chapter and told Brod how it was to end: K. has no claim in law to stay in the village, yet is given leave to live and work in it", "kind": "source", "source": "Max Brod, Additional Note to The Castle (1930), second paragraph, same edition" },
+            { "claim": "the single letter K. wishes to be a word, land-surveyor; this he is not allowed", "kind": "auden", "source": "“The I Without a Self,” in The Dyer’s Hand (1962), p. 163" }
+          ],
+          "stands": "A count, in the text printed here, of the initial *K.* and of the words *Land Surveyor*, with each place read to see who is speaking. Max Brod’s note printed with the translation, for the first person and for the ending. The letter in [chapter 2](#/read/castle/c02:8) and the Superintendent in [chapter 5](#/read/castle/c05:2). Auden: *The Dyer’s Hand*, p. 163."
+        }
+      ]
+    },
+    {
+      "id": "yard",
+      "heading": "Alone in the yard",
+      "text": "castle/c08",
+      "rows": [
+        "13.0[277-385]"
+      ],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Turn",
+          "spans": [
+            { "from": ["13.0", 277], "to": ["13.0", 280], "tag": "frame", "label": "one verb: seemed" },
+            { "from": ["13.0", 281], "to": ["13.0", 293], "tag": "given", "label": "the others break off" },
+            { "from": ["13.0", 294], "to": ["13.0", 340], "tag": "given", "label": "freer than ever" },
+            { "from": ["13.0", 341], "to": ["13.0", 358], "tag": "given", "label": "no one dares touch him" },
+            { "from": ["13.0", 359], "to": ["13.0", 365.1], "tag": "turn", "label": "but: at least as strong" },
+            { "from": ["13.0", 365.2], "to": ["13.0", 385], "tag": "worth", "label": "nothing more hopeless" },
+            { "from": ["13.0", 281], "to": ["13.0", 282], "tag": "hinge", "label": "as if" },
+            { "from": ["13.0", 295], "to": ["13.0", 296], "tag": "hinge", "label": "as if" },
+            { "from": ["13.0", 342], "to": ["13.0", 343], "tag": "hinge", "label": "as if" },
+            { "from": ["13.0", 365.2], "to": ["13.0", 366], "tag": "hinge", "label": "as if" }
+          ],
+          "caption": "One main verb, <b>seemed</b>, carries four clauses, each led by <b>as if</b>. Three say what staying has brought K.: the others have broken with him, he is freer than ever, and no one dares touch him. Then comes <b>but</b>, and the fourth, which a remark between dashes rates at least as strong: nothing is more senseless or hopeless than this. So the freedom and its hopelessness are both what seemed to him. Kafka’s German has its <i>as if</i> three times; the Muirs add one. Auden wrote that Kafka’s hero feels imprisoned and tries to get out, but that prison may be the state he was made for, and freedom the thing that would destroy him.",
+          "why": "One verb, seemed, carries both the freedom K. has won and the judgment that nothing is more hopeless, rated at least as strong; Auden says prison may be what Kafka’s hero was made for, and freedom what would destroy him.",
+          "grounds": [
+            { "claim": "one main verb; four clauses led by the same two words; the turn at but; the remark between dashes", "kind": "plate" },
+            { "claim": "what seemed to K.: the others have broken off with him, he is freer than ever and may wait as long as he likes, no one dares touch him; nothing is more senseless or hopeless; the second conviction is at least as strong", "kind": "text", "source": "castle/c08, block 13, words 277 to 385" },
+            { "claim": "K. has refused to come away from the yard, has been left there, and the lights have gone out", "kind": "text", "source": "castle/c08, blocks 11 to 13" },
+            { "claim": "Kafka’s German has als with the subjunctive three times where the English has as if four times; the third English one is added", "kind": "source", "source": "Franz Kafka, Das Schloß, Das achte Kapitel, read at zeno.org on 2026-10-03 (Gesammelte Werke, Band 2, Frankfurt a.M. 1950 ff., pp. 145-158)" },
+            { "claim": "the hero thinks himself a captive and tries to get out; but perhaps captivity is the state he was made for and to be free would destroy him", "kind": "auden", "source": "“The I Without a Self,” in The Dyer’s Hand (1962), p. 163 (scan lines 7870-7872). His perhaps stands before both halves, and the caption’s may covers both" }
+          ],
+          "stands": "The marks on the passage, and what the sentence says. What has happened in the yard, earlier in [chapter 8](#/read/castle/c08:11). Kafka’s German sentence in *Das Schloß*, chapter 8. Auden: *The Dyer’s Hand*, p. 163."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "anaphora",
+          "plain": "the same word or words at the head of phrase after phrase",
+          "draw": "align",
+          "parts": [
+            { "row": "13.0", "w": [380, 380], "tag": "this", "label": "*this*, three times" },
+            { "row": "13.0", "w": [382, 382], "tag": "this", "label": "*this*, three times" },
+            { "row": "13.0", "w": [384, 384], "tag": "this", "label": "*this*, three times" },
+            { "row": "13.0", "w": [373, 374], "tag": "nothing", "label": "*nothing more*, twice" },
+            { "row": "13.0", "w": [376, 377], "tag": "nothing", "label": "*nothing more*, twice" },
+            { "row": "13.0", "w": [302, 302], "tag": "A", "label": "freer … freedom" },
+            { "row": "13.0", "w": [330, 330], "tag": "A", "label": "freer … freedom" },
+            { "row": "13.0", "w": [381, 381], "tag": "A", "label": "freer … freedom" },
+            { "row": "13.0", "w": [311, 312], "tag": "B", "label": "wait … waiting" },
+            { "row": "13.0", "w": [383, 383], "tag": "B", "label": "wait … waiting" },
+            { "row": "13.0", "w": [344, 349], "tag": "C", "label": "touch … inviolability" },
+            { "row": "13.0", "w": [385, 385], "tag": "C", "label": "touch … inviolability" }
+          ],
+          "caption": "The sentence ends on three nouns, each with <b>this</b> before it, after <b>nothing more</b> said twice; Kafka’s German has both repetitions. A word repeated at the head of phrase after phrase is called anaphora, and here it lines the three nouns up as a list. Each names again something the first half gave K.: he was <i>freer</i>, he could <i>wait</i>, and nobody dared <i>touch</i> him. <b>Inviolability</b> is the state of what cannot be injured; Kafka’s word, <i>Unverletzlichkeit</i>, is built on the verb that means to wound. So what the first half gave comes back in the same order, and the sentence says nothing is more senseless or more hopeless than these three.",
+          "why": "The last three nouns, lined up by a repeated this, name again in order what the sentence gave K., his freedom, his leave to wait and his safety from touch, and the sentence says nothing is more hopeless than these.",
+          "grounds": [
+            { "claim": "this three times and nothing more twice, each at the head of its phrase; each of the last three nouns answers an earlier clause, in the same order", "kind": "plate" },
+            { "claim": "anaphora: one word or set of words said again at the start of each clause, sentence or line in a run; the handbook’s own example is John of Gaunt’s speech in Richard II, where this stands before one noun phrase after another, as a list", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), under anaphora, read on 2026-10-03" },
+            { "claim": "inviolable: unable to be injured (a sense dated to the 1520s); from Latin in-, not, and a word for what can be hurt, from violare; inviolability is formed from it (1660s)", "kind": "source", "source": "Online Etymology Dictionary, under inviolable and inviolability, read on 2026-10-03" },
+            { "claim": "Unverletzlichkeit is unverletzlich with -keit; unverletzlich is un- with verletzlich; verletzlich is verletzen with -lich; verletzen, first sense: to wound", "kind": "source", "source": "Digitales Wörterbuch der deutschen Sprache (dwds.de), under Unverletzlichkeit, unverletzlich, verletzlich and verletzen (sense 1), read on 2026-10-03" },
+            { "claim": "verletzen, first sense: said of outward harm, to damage, with an old gloss, to make wounded; unverletzlich has been in use since the sixteenth century", "kind": "source", "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under verletzen (sense 1) and unverletzlich, read at dwds.de on 2026-10-03" },
+            { "claim": "the three nouns with the repeated demonstrative, and nichts twice before them, stand in Kafka’s German", "kind": "source", "source": "Franz Kafka, Das Schloß, Das achte Kapitel, read at zeno.org on 2026-10-03 (Gesammelte Werke, Band 2, Frankfurt a.M. 1950 ff., pp. 145-158)" },
+            { "claim": "nothing is more senseless or hopeless than these three", "kind": "text", "source": "castle/c08, block 13, words 366 to 385" }
+          ],
+          "stands": "The marks on the passage, and what the sentence says. Anaphora as *Silva Rhetoricae* defines it, with its example from *Richard II*. *Inviolable* in the Online Etymology Dictionary; *Unverletzlichkeit*, *unverletzlich* and *verletzen* in the *Digitales Wörterbuch der deutschen Sprache*, and *verletzen* in Grimm’s *Deutsches Wörterbuch*. Kafka’s German sentence in *Das Schloß*, chapter 8."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Donald Pearce took the course and made notes after the lectures. According to them, Auden came to Kafka by way of Descartes, asking which of a man’s several selves is the I that thinks. Of modern writers, he said, Kafka best shows the predicaments of mind and metaphysics, above all in *The Castle*. The book is dressed as a satire on bureaucracy; underneath it is a parable, theological and psychological. For the culture of the twentieth century it is what Dante’s poem was for the fourteenth. He told them to read it with the *Divine Comedy* and Melville in mind, and to ask what K.’s quest is for.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 134–35",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, on 2026-10-03. In this scan each page’s number is printed at its foot, just before the next page’s running head. By that, how Pearce made his notes and the opening of the lecture on the ego are on p. 134, and Descartes, Kafka and the assignment of The Castle are on p. 135 (C_auden_on_works.md gives p. 134; A_michigan_course.md gives p. 135)"
+    },
+    {
+      "says": "In the same class Auden put a record on. He said that the second movement of Beethoven’s Fourth Piano Concerto shows best, so far as music can show such a thing, how a man stands to his fate: Ahab to his whale, or K. to his Castle. When the piano defies the orchestra and goes off by itself it is soon lost and hysterical, and it comes back to something like sanity only when it accepts the orchestra again. He ended by asking whether it has found its way back too late.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 136",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, on 2026-10-03; by the numbers at the foot of each page the whole demonstration is on p. 136 (C_auden_on_works.md gives pp. 134-35; A_michigan_course.md gives p. 136)"
+    },
+    {
+      "says": "Pearce also sat in on a class of the next semester, in 1942. According to his notes, Auden said that a poet getting in touch with his daemon is like trying to phone a friend whose number one cannot recall and will not look up. Kafka, he said, describes the tie between the village and the Castle in just these terms: a telephone exchange that at times works very well and often fails, or works without reason, with calls that go astray and messages only half made out. He glossed the village as the conscious mind, the Castle as the unconscious, and knew no better analogy for composing a poem.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 155–56",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, on 2026-10-03; the remark is on p. 155 and its sentence runs on to p. 156 (C_auden_on_works.md gives pp. 154-55). Pearce dates the class on p. 154 (1942) and says he was not enrolled in it. In the scan the thing likened to the telephone call is a poet’s making contact with his daemon; the exchange in The Castle is then called the best analogy he knows for the act of composing, in its first stages at least or even as it goes on"
+    },
+    {
+      "says": "In February 1941, the year of the course, Auden reviewed Kafka in *The New Republic*. Asked which artist stands to the present age much as Dante, Shakespeare and Goethe did to their own, he wrote, one would think first of Kafka. The three big novels use the oldest device in literature, the Quest. The Kafka hero is Faust turned the other way round. For K. it is being exceptional that makes the trouble, and to become exceptional is to become reflective, and so to find that what is necessary looks arbitrary. This hero’s predicament, he wrote, is contemporary man’s.",
+      "source": "“The Wandering Jew,” *The New Republic*, 10 February 1941; reprinted in *Prose*, vol. II (2002), pp. 110–13",
+      "checked": "not seen in full. Read on 2026-10-03 in the extracts recorded in remake/research/C_auden_on_works.md (section 23; appendix H17b), which the researchers took from snippets of Prose II. His phrase for the hero and Faust is mirror-image"
+    },
+    {
+      "says": "In 1946 Auden wrote an essay called “K.’s Quest.” Bunyan’s pilgrim, he says there, must gain heaven by deserving it. K. can earn no right to the title of Land Surveyor: all he can do is ask the Castle to permit it. He suffers and fails for the very reason that he is an individual. Since he cannot stop being K., he will never become the Land Surveyor that he wishes to be. Auden calls the contradiction comic: K. is one letter, and Land Surveyor sounds much the grander, yet K. is an individual’s name, and land survey only defines an occupation.",
+      "source": "“K.’s Quest,” in *The Kafka Problem*, edited by Angel Flores (1946), pp. 47–52",
+      "checked": "not seen in full. Read on 2026-10-03 in the extracts recorded in remake/research/C_auden_on_works.md (section 23; appendix H12), which the researchers took from snippets of the 1946 book; the notes call the pages inside the essay approximate (pp. 50-51 for these sentences)"
+    },
+    {
+      "says": "In *The Dyer’s Hand* Auden calls Kafka a master, perhaps the greatest, of the pure parable, and says that critics have little of worth to say about parables. A parable’s hero may have a name or be called only K.; the name, the time and the place do not bear on what it means. To find the meaning a reader has to give up standing outside and identify with what he reads, so the meaning differs with every reader. A critic who interprets a parable only shows what it has done to him.",
+      "source": "“The I Without a Self,” in *The Dyer’s Hand* (1962), pp. 159–60",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 7660-7699, on 2026-10-03"
+    },
+    {
+      "says": "Max Brod’s life of Kafka, he notes, describes a Czech novel about a village under a castle, in which the castle’s officials are plainly evil. He takes this as a sign that the readers who took the people of Kafka’s Castle for agents of divine grace had it wrong, and he sides with a reading in which its officers are indifferent to good where they are not wicked. Fine as *The Trial* and *The Castle* are, he adds, he thinks Kafka’s best work is in *The Great Wall of China*, a volume written in his last six years.",
+      "source": "“The I Without a Self,” in *The Dyer’s Hand* (1962), pp. 160–61",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 7721-7775, on 2026-10-03. The reading he sides with is Erich Heller’s, from whom he quotes a paragraph; the piece does not name him. The lead read lines 7744-7772 again on 2026-10-03: the two novels he names there are The Trial and The Castle (line 7770, on p. 161: the running head of p. 162 follows at line 7778)"
+    },
+    {
+      "says": "In the same essay he sets Kafka’s hero against the heroes of older quests. Their goal is one that everybody wants, and they are confident of reaching it. His goal is his alone. He is sure from the outset that he will fail, and is doomed all the same to enormous efforts. A wrong guess costs him what a wrong choice would, and he must feel as responsible for it. From the beginning he is an I, and his guilt lies in the bare fact that he exists.",
+      "source": "“The I Without a Self,” in *The Dyer’s Hand* (1962), pp. 162–63",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 7789-7875, on 2026-10-03"
+    }
+  ],
+  "next": "castle/c01:0",
+  "sources": [
+    "The text printed here: Franz Kafka, *The Castle*, translated by Willa and Edwin Muir (1930), in the Standard Ebooks edition: chapters 1, 2, 5, 7, 8, 10, 15, 16 and 18.",
+    "Edwin Muir, “Introductory Note” to the first American edition, and Max Brod, “Additional Note,” as printed with the translation in the Standard Ebooks edition.",
+    "Franz Kafka, *Das Schloß*, chapters 1, 2 and 8, in the text of *Gesammelte Werke*, vol. 2 (Frankfurt am Main, 1950 ff.), as zeno.org gives it.",
+    "W. H. Auden, “The I Without a Self,” in *The Dyer’s Hand and Other Essays* (1962), pp. 159–63.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 134–36 and 154–56: notes made after Auden’s classes in 1941 and 1942.",
+    "W. H. Auden, “The Wandering Jew,” *The New Republic*, 10 February 1941; reprinted in his *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 110–13. Not seen in full: read in search snippets of a scanned copy.",
+    "W. H. Auden, “K.’s Quest,” in *The Kafka Problem*, edited by Angel Flores (1946), pp. 47–52. Not seen in full: read in search snippets of a scanned copy.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu), under *anaphora*.",
+    "Online Etymology Dictionary (etymonline.com), under *inviolable* and *inviolability*.",
+    "*Digitales Wörterbuch der deutschen Sprache* (dwds.de), under *weiter-*, *weitergehen*, *schwer*, *festhalten*, *Unverletzlichkeit*, *unverletzlich*, *verletzlich* and *verletzen*.",
+    "Jacob and Wilhelm Grimm, *Deutsches Wörterbuch*, as dwds.de gives it, under *verletzen* and *unverletzlich*."
+  ],
+  "caveats": [
+    "The English is the Muirs’ translation of 1930, the one Auden’s students read. Where a caption says what Kafka’s German has, the German was read in an edition of 1950 and after. The Muirs worked from the first edition of 1926, which was not compared.",
+    "Auden’s sentences about the way, about contradictory instructions, about heaviness and about freedom are said of a typical Kafka story, its hero and its world. He cites none of the three passages shown here. Only his sentence about the letter and the word names *The Castle*.",
+    "Auden’s review of 1941, “The Wandering Jew,” and his essay of 1946, “K.’s Quest,” were read here only in search snippets of scanned copies. What he said in class is known from notes a student, Donald Pearce, made afterwards, not from Auden’s own text.",
+    "*K.* was counted wherever the initial stands, the possessive included, and *Land Surveyor* wherever the two words stand together. Who is speaking was decided by reading each place, and a few could be sorted another way.",
+    "The text printed here stops after eighteen chapters. Kafka left the book unfinished, and later editions print more of it. The ending this page reports is one Kafka described to his editor, Max Brod, and never wrote."
+  ],
+  "open": [
+    "No German is shown beside the English. No out-of-copyright German text of Das Schloß is listed in remake/research/D_texts.md or cached for build/tools/original.mjs, so the German was only read, at zeno.org (the pages give their source as Gesammelte Werke, Band 2, Frankfurt a.M. 1950 ff.), and single words of it are cited. The zeno.org pages mark the text as in the public domain (gemeinfrei), so the lead could add it and set Kafka’s own sentences beside the English. Whether the first German edition of 1926, which the Muirs translated, differs in these passages was not checked.",
+    "Auden’s “The Wandering Jew” (1941) and “K.’s Quest” (1946) are not in the scans. Everything given from them rests on the extracts in remake/research/C_auden_on_works.md, which were taken from snippets; the pages inside “K.’s Quest” are approximate.",
+    "remake/research/C_auden_on_works.md cites Pearce’s Kafka passages at pp. 134, 134-35 and 154-55. In the scan each page’s number is printed at its foot, and by that the passages are on pp. 135, 136 and 155-56; remake/research/A_michigan_course.md has 135 and 136 as well. The reading uses the pages of the scan.",
+    "In The Dyer’s Hand the sentences on the Quest are about “a typical Kafka story” and “the Kafka hero”; the paragraph before them is about the late stories. Auden then speaks of K and names The Trial and The Castle on p. 163. The captions say “Kafka’s hero” where he does.",
+    "The Muirs depart from the German in the passages shown: try in the letter is theirs; as if stands four times for als three times; escaped renders a lane that took him in; the obsession of the street renders a street that held him fast; at liberty is added beside freer. In K.’s reading, outside the part shown, they had to be faced renders a German clause that says the contradictions must be intended.",
+    "In the third passage word 365 is two words joined by a dash: the end of the remark between dashes and the first word of the fourth as if. Three marks shared it. From the examiner: mended. The span of the remark now ends at 365.1, and the last clause and the fourth as if begin at 365.2.",
+    "The 96 uses of the title were sorted by reading each. Schwarzer, Barnabas and the assistants, who all belong to the Castle in some way, are counted with the people K. meets in the village; Momus, Klamm’s village secretary, with the officials; Erlanger’s and Galater’s words reach K. only as messengers repeat them.",
+    "The introductory notes printed with the translation (Edwin Muir’s and Max Brod’s) read the Castle as divine grace, the reading Auden rejected in 1962. The piece takes from them only what they report: Kafka’s way with a sentence, the change from I to K., and the ending Kafka described.",
+    "From the examiner, as it stood before the artist’s work: the Title tab had no drawing of its own and showed its facts as the kit’s plain table. It has its drawing now (site/js/pieces/castle.js). Every number and sentence in the facts was checked against the text.",
+    "From the examiner: Words, Title and the view all rest on one sentence of Auden’s, the only one in The Dyer’s Hand that names The Castle. “K.’s Quest” (1946) says more on the very point of the Title tab (K. can earn no right to the title; K. is a name and land survey an occupation), but it was read only in snippets, so it stays in the list of what else he said. If the lead can get the essay in full, the Title caption could stand on it.",
+    "From the examiner: in the Clauses tab Auden is now said only to cite the aphorism of the goal and the way, writing of a typical Kafka story. His own sentence there is about those the hero meets, and in this passage K. meets no one, so it was cut from that caption and kept in the view. remake/research/C_auden_on_works.md (conflicts left unresolved) records Mendelson’s remark that in 1941 Auden gave to The Castle an aphorism of Kafka’s that is not in it. Read at archive.org in Mendelson’s Early Auden, Later Auden (2017), p. 491: that is a different aphorism, on places of refuge and of salvation, so it does not touch this caption. Nothing on this page says the aphorism of the goal and the way is in the novel.",
+    "From the examiner: the German was read again at zeno.org (chapters 1, 2, 5 and 8) and bears out each thing the captions say of it. Two more departures of the Muirs’ that the list above does not have: where they have at every turn and double back, Kafka has always and a verb for steering in (the caption now says come round); and between the two street passages their K. is flatly unwilling to leave the street, where Kafka’s hesitates, evidently from tiredness. Grimm’s dictionary, which the poet could not open, opens at dwds.de/wb/dwb/ followed by the word.",
+    "From the examiner: the build was run for this piece as the lead asked (node build/pieces.mjs castle, twice), so site/data/pieces/castle.json and the list of pieces were written again; the photographs, with the whole page in slices, are in remake/works/castle/shots."
+  ]
+}

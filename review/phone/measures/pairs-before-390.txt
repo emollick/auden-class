@@ -1,0 +1,223 @@
+390  adams            dynamo      en>en Likeness   ock   orig 120-1052   2nd -          cap 1075-1345  key 1361-1525  h 1547  pair-marked pair-off pair-idle
+390  adams            dynamo      en>en Sentence   ock   orig 120-1052   2nd -          cap 1075-1345  key 1361-1460  h 1482  pair-marked pair-off pair-idle
+390  adams            dynamo      en>en Felt       oeck  orig 120-1052   2nd 1068-1412  cap 1450-1698  key 1714-2026  h 2048  pair-marked
+390  adams            dynamo      en>en Force      c     orig -          2nd -          cap 551-776    key -          h 798   pair-marked own-stage pair-idle
+390  baudelaire       evening     en>fr Likeness   ocke  orig 96-975     2nd 1409-2301  cap 998-1223   key 1239-1383  h 2323  pair-marked pair-after pair-idle
+390  baudelaire       evening     en>fr Delay      ocke  orig 96-975     2nd 1387-2278  cap 998-1245   key 1261-1361  h 2300  pair-marked pair-after pair-idle
+390  baudelaire       evening     en>fr Word       ocke  orig 96-975     2nd 1531-2422  cap 998-1245   key 1261-1505  h 2444  pair-marked pair-after pair-idle
+390  baudelaire       evening     en>fr French     oeck  orig 96-975     2nd 991-1867   cap 1905-2153  key 2169-2481  h 2503  pair-marked
+390  baudelaire       budget      en>en Maxim      oeck  orig 96-762     2nd 778-963    cap 1001-1249  key 1265-1438  h 1460  pair-marked
+390  baudelaire       budget      en>en Verbs      ock   orig 96-762     2nd -          cap 785-1033   key 1049-1128  h 1150  pair-marked pair-off pair-idle
+390  baudelaire       budget      en>en Word       oeck  orig 96-762     2nd 778-963    cap 1001-1249  key 1265-1717  h 1739  pair-marked
+390  blake            creed       en>en Answer     oeck  orig 96-602     2nd 618-1176   cap 1214-1394  key 1410-1709  h 1731  pair-marked
+390  blake            creed       en>en Grammar    oeck  orig 96-602     2nd 618-1176   cap 1214-1461  key 1477-1577  h 1599  pair-marked
+390  blake            creed       en>en Word       oeck  orig 96-602     2nd 618-1176   cap 1214-1484  key 1500-1989  h 2011  pair-marked
+390  carmen           habanera    fr>en Count      ock   orig 120-1583   2nd -          cap 1606-1876  key 1892-2233  h 2255  pair-marked
+390  carmen           habanera    fr>en Word       ock   orig 120-1583   2nd -          cap 1606-1854  key 1870-2177  h 2199  pair-marked
+390  carmen           habanera    fr>en Figure     ock   orig 120-1583   2nd -          cap 1606-1876  key 1892-2056  h 2078  pair-marked
+390  carmen           habanera    fr>en English    ock   orig 120-1583   2nd -          cap 1606-1831  key 1847-2109  h 2131  pair-marked
+390  carmen           la-bas      fr>en Mood       ocke  orig 139-851    2nd 1200-1631  cap 874-1099   key 1115-1174  h 1653  pair-marked pair-after pair-idle
+390  carmen           la-bas      fr>en Word       ocke  orig 139-851    2nd 1550-1980  cap 874-1121   key 1137-1524  h 2002  pair-marked pair-after pair-idle
+390  carmen           la-bas      fr>en Figure     ocke  orig 139-851    2nd 1268-1698  cap 874-1121   key 1137-1242  h 1720  pair-marked pair-after pair-idle
+390  carmen           la-bas      fr>en English    oeck  orig 139-851    2nd 867-1462   cap 1485-1733  key 1749-1992  h 2014  pair-marked
+390  carmen           cartes      fr>en Count      ock   orig 120-1738   2nd -          cap 1761-2009  key 2025-2431  h 2453  pair-marked
+390  carmen           cartes      fr>en Rhyme      ock   orig 120-1738   2nd -          cap 1761-2009  key 2025-2195  h 2217  pair-marked
+390  carmen           cartes      fr>en Build      ock   orig 120-1738   2nd -          cap 1761-2031  key 2047-2127  h 2149  pair-marked
+390  carmen           cartes      fr>en English    ock   orig 120-1738   2nd -          cap 1761-2031  key 2047-2370  h 2392  pair-marked
+390  castle           street      en>en Clauses    ock   orig 120-679    2nd -          cap 702-950    key 966-1045   h 1067  pair-marked pair-off pair-idle
+390  castle           street      en>en Stop       oeck  orig 120-679    2nd 695-1093   cap 1131-1334  key 1350-1528  h 1550  pair-marked
+390  castle           letter      en>en Reading    oeck  orig 90-834     2nd 850-1542   cap 1579-1826  key 1842-2081  h 2103  pair-marked
+390  castle           letter      en>en Word       ock   orig 90-834     2nd -          cap 857-1082   key 1098-1352  h 1374  pair-marked pair-off pair-idle
+390  castle           letter      en>en Title      c     orig -          2nd -          cap 848-1095   key -          h 1117  pair-marked pair-idle own-stage
+390  dante-inferno    gate        it>en Rhyme      ock   orig 136-1322   2nd -          cap 1345-1593  key 1609-1715  h 1737  pair-marked
+390  dante-inferno    gate        it>en Figure     ock   orig 136-1322   2nd -          cap 1345-1548  key 1564-1688  h 1710  pair-marked
+390  dante-inferno    gate        it>en Word       ock   orig 136-1397   2nd -          cap 1420-1667  key 1683-1972  h 1994  pair-marked
+390  dante-inferno    gate        it>en Compare    ock   orig 136-1322   2nd -          cap 1345-1593  key 1609-1810  h 1832  pair-marked
+390  dante-inferno    francesca   it>en Sentence   ock   orig 136-1185   2nd -          cap 1208-1456  key 1472-1571  h 1593  
+390  dante-inferno    francesca   it>en Figure     ock   orig 136-1185   2nd -          cap 1208-1433  key 1449-1574  h 1596  
+390  dante-inferno    francesca   it>en Measure    ock   orig 136-1185   2nd -          cap 1208-1456  key 1472-1813  h 1835  
+390  dante-inferno    francesca   it>en Word       ock   orig 136-1185   2nd -          cap 1208-1456  key 1472-1779  h 1801  
+390  dante-inferno    ulysses     it>en Antithesis ock   orig 120-1007   2nd -          cap 1030-1300  key 1316-1461  h 1483  
+390  dante-inferno    ulysses     it>en Metaphor   ock   orig 120-1007   2nd -          cap 1030-1255  key 1271-1396  h 1418  
+390  dante-inferno    ulysses     it>en Word       ock   orig 120-1063   2nd -          cap 1086-1333  key 1349-1582  h 1604  
+390  dante-inferno    ulysses     it>en Poem       c     orig -          2nd -          cap 760-962    key -          h 984   own-stage
+390  dante-paradiso   prayer      it>en Figure     ocke  orig 120-608    2nd 1065-1275  cap 631-879    key 895-1039   h 1297  pair-marked pair-after pair-idle
+390  dante-paradiso   prayer      it>en Rhyme      ocke  orig 120-608    2nd 1027-1237  cap 631-856    key 872-1001   h 1259  pair-marked pair-after pair-idle
+390  dante-paradiso   prayer      it>en English    oeck  orig 120-608    2nd 624-898    cap 921-1146   key 1162-1508  h 1530  pair-marked
+390  dante-paradiso   book        it>en Figure     ock   orig 120-987    2nd -          cap 1010-1190  key 1206-1311  h 1333  
+390  dante-paradiso   book        it>en Word       ock   orig 120-1057   2nd -          cap 1080-1305  key 1321-1747  h 1769  
+390  dante-paradiso   book        it>en Rhyme      ock   orig 120-987    2nd -          cap 1010-1258  key 1274-1403  h 1425  
+390  dante-paradiso   end         it>en Sentence   ock   orig 120-936    2nd -          cap 959-1184   key 1200-1315  h 1337  
+390  dante-paradiso   end         it>en Measure    ock   orig 120-936    2nd -          cap 959-1206   key 1222-1619  h 1641  
+390  dante-paradiso   end         it>en Rhyme      ock   orig 120-936    2nd -          cap 959-1206   key 1222-1351  h 1373  
+390  dante-paradiso   end         it>en Whole      c     orig -          2nd -          cap 929-1154   key -          h 1176  own-stage
+390  dante-purgatorio share       it>en Simile     ocke  orig 136-690    2nd 1147-1428  cap 713-960    key 976-1121   h 1450  pair-marked pair-after pair-idle
+390  dante-purgatorio share       it>en Sentence   ocke  orig 136-690    2nd 1042-1323  cap 713-960    key 976-1016   h 1345  pair-marked pair-after pair-idle
+390  dante-purgatorio share       it>en Word       ocke  orig 136-690    2nd 1092-1373  cap 713-915    key 931-1066   h 1395  pair-marked pair-after pair-idle
+390  dante-purgatorio share       it>en English    oeck  orig 136-690    2nd 706-1100   cap 1123-1416  key 1432-1633  h 1655  pair-marked
+390  dante-purgatorio love        it>en Figure     ocke  orig 136-632    2nd 1109-1401  cap 655-903    key 919-1083   h 1423  pair-after pair-idle
+390  dante-purgatorio love        it>en Rhyme      ocke  orig 136-632    2nd 1025-1317  cap 655-858    key 874-999    h 1339  pair-after pair-idle
+390  dante-purgatorio love        it>en Word       ocke  orig 136-632    2nd 1233-1525  cap 655-903    key 919-1207   h 1547  pair-after pair-idle
+390  dante-purgatorio love        it>en Mountain   c     orig -          2nd -          cap 1023-1270  key -          h 1292  pair-idle own-stage
+390  dante-purgatorio garden      it>en Sentence   ocke  orig 136-771    2nd 1185-1464  cap 794-1064   key 1080-1159  h 1486  pair-after pair-idle
+390  dante-purgatorio garden      it>en Figure     ocke  orig 136-771    2nd 1247-1526  cap 794-1041   key 1057-1221  h 1548  pair-after pair-idle
+390  dante-purgatorio garden      it>en Sources    ocke  orig 136-771    2nd 1356-1634  cap 794-1041   key 1057-1330  h 1656  pair-after pair-idle
+390  dante-purgatorio garden      it>en Measure    ocke  orig 136-785    2nd 1525-1804  cap 808-1078   key 1094-1499  h 1826  pair-after pair-idle
+390  don-giovanni     count       it>en Count      ocke  orig 139-626    2nd 1594-1879  cap 649-896    key 912-1568   h 1901  pair-marked pair-after pair-idle
+390  don-giovanni     count       it>en Rhyme      ocke  orig 139-626    2nd 1041-1326  cap 649-874    key 890-1015   h 1348  pair-marked pair-after pair-idle
+390  don-giovanni     count       it>en Word       ocke  orig 139-626    2nd 1178-1463  cap 649-874    key 890-1152   h 1485  pair-marked pair-after pair-idle
+390  don-giovanni     count       it>en English    oeck  orig 139-626    2nd 642-1088   cap 1111-1381  key 1397-1659  h 1681  pair-marked
+390  don-giovanni     close       it>en Word       ocke  orig 139-583    2nd 1418-1857  cap 606-831    key 847-1392   h 1879  pair-marked pair-after pair-idle
+390  don-giovanni     close       it>en Figure     ocke  orig 139-583    2nd 1020-1459  cap 606-854    key 870-994    h 1481  pair-marked pair-after pair-idle
+390  don-giovanni     close       it>en Rhyme      ocke  orig 139-583    2nd 1043-1482  cap 606-854    key 870-1017   h 1504  pair-marked pair-after pair-idle
+390  don-giovanni     close       it>en English    oeck  orig 139-583    2nd 599-1024   cap 1061-1309  key 1325-1592  h 1614  pair-marked
+390  don-giovanni     duet        it>en Rhyme      ocke  orig 139-1209   2nd 1605-2200  cap 1232-1457  key 1473-1579  h 2222  pair-marked pair-after pair-idle
+390  don-giovanni     duet        it>en Voices     ocke  orig 139-1209   2nd 1621-2216  cap 1232-1479  key 1495-1595  h 2238  pair-marked pair-after pair-idle
+390  don-giovanni     duet        it>en Word       ocke  orig 139-1209   2nd 1955-2550  cap 1232-1434  key 1450-1929  h 2572  pair-marked pair-after pair-idle
+390  don-giovanni     duet        it>en English    oeck  orig 139-1209   2nd 1225-1970  cap 1993-2218  key 2234-2604  h 2626  pair-marked
+390  dutchman         tale        de>en Beat       ocke  orig 139-704    2nd 1454-1693  cap 727-952    key 968-1428   h 1715  pair-marked pair-after pair-idle
+390  dutchman         tale        de>en Rhyme      ocke  orig 139-704    2nd 1164-1402  cap 727-952    key 968-1138   h 1424  pair-marked pair-after pair-idle
+390  dutchman         tale        de>en Word       ocke  orig 139-704    2nd 1379-1617  cap 727-974    key 990-1353   h 1639  pair-marked pair-after pair-idle
+390  dutchman         tale        de>en English    oeck  orig 139-704    2nd 720-1087   cap 1110-1358  key 1374-1649  h 1671  pair-marked
+390  dutchman         refrain     de>en English    ock   orig 155-1351   2nd -          cap 1374-1622  key 1638-1955  h 1977  pair-marked
+390  dutchman         refrain     de>en Figure     ock   orig 155-1407   2nd -          cap 1430-1677  key 1693-1877  h 1899  pair-marked
+390  dutchman         refrain     de>en Verbs      ock   orig 155-1407   2nd -          cap 1430-1655  key 1671-1750  h 1772  pair-marked
+390  dutchman         refrain     de>en Scene      c     orig -          2nd -          cap 1270-1495  key -          h 1517  pair-marked own-stage
+390  faust            heaven      de>en Beat       ock   orig 139-1671   2nd -          cap 1694-1896  key 1912-2303  h 2325  pair-marked
+390  faust            heaven      de>en Rhyme      ock   orig 139-1578   2nd -          cap 1601-1849  key 1865-1990  h 2012  pair-marked
+390  faust            heaven      de>en Parody     ock   orig 139-1578   2nd -          cap 1601-1849  key 1865-2009  h 2031  pair-marked
+390  faust            heaven      de>en English    ock   orig 139-1578   2nd -          cap 1601-1849  key 1865-2058  h 2080  pair-marked
+390  faust            name        de>en Beat       ock   orig 120-1590   2nd -          cap 1613-1860  key 1876-2246  h 2268  
+390  faust            name        de>en Antithesis ock   orig 120-1555   2nd -          cap 1578-1826  key 1842-1966  h 1988  
+390  faust            name        de>en Word       ock   orig 120-1590   2nd -          cap 1613-1883  key 1899-2248  h 2270  
+390  faust            name        de>en Names      c     orig -          2nd -          cap 1436-1684  key -          h 1706  own-stage
+390  faust            wheel       de>en Beat       ock   orig 139-1762   2nd -          cap 1785-2010  key 2026-2292  h 2314  pair-marked
+390  faust            wheel       de>en Anaphora   ock   orig 139-1762   2nd -          cap 1785-1965  key 1981-2105  h 2127  pair-marked
+390  faust            wheel       de>en English    ock   orig 139-1762   2nd -          cap 1785-1987  key 2003-2247  h 2269  pair-marked
+390  faust            wheel       de>en Measures   c     orig -          2nd -          cap 1204-1452  key -          h 1474  pair-marked own-stage
+390  fidelio          answer      de>en Versions   oeck  orig 139-848    2nd 864-1205   cap 1228-1498  key 1514-1752  h 1774  pair-marked
+390  fidelio          answer      de>en Verbs      ocke  orig 139-848    2nd 1242-1526  cap 871-1141   key 1157-1216  h 1548  pair-marked pair-after pair-idle
+390  fidelio          answer      de>en Word       ocke  orig 139-848    2nd 1445-1728  cap 871-1141   key 1157-1419  h 1750  pair-marked pair-after pair-idle
+390  fidelio          scene       de>en Beat       ocke  orig 120-983    2nd 1865-2146  cap 1006-1254  key 1270-1839  h 2168  pair-marked pair-after pair-idle
+390  fidelio          scene       de>en Rhyme      ocke  orig 120-973    2nd 1433-1714  cap 996-1266   key 1282-1407  h 1736  pair-marked pair-after pair-idle
+390  fidelio          scene       de>en Word       ocke  orig 120-973    2nd 1764-2046  cap 996-1198   key 1214-1738  h 2068  pair-marked pair-after pair-idle
+390  fidelio          scene       de>en English    oeck  orig 120-973    2nd 989-1406   cap 1429-1631  key 1647-1872  h 1894  pair-marked
+390  fidelio          name        de>en Figure     ocke  orig 120-788    2nd 1242-1705  cap 811-1036   key 1052-1216  h 1727  pair-after pair-idle
+390  fidelio          name        de>en Beat       ocke  orig 120-788    2nd 1545-2007  cap 811-991    key 1007-1519  h 2029  pair-after pair-idle
+390  fidelio          name        de>en Word       ocke  orig 120-788    2nd 1258-1720  cap 811-1081   key 1097-1232  h 1742  pair-after pair-idle
+390  fidelio          name        de>en Names      c     orig -          2nd -          cap 763-1033   key -          h 1055  pair-idle own-stage
+390  gotterdammerung  norn        de>en Stave      ock   orig 120-880    2nd -          cap 903-1150   key 1166-1334  h 1356  pair-marked
+390  gotterdammerung  norn        de>en Dawn       ock   orig 120-923    2nd -          cap 946-1194   key 1210-1345  h 1367  pair-marked
+390  gotterdammerung  rhine       de>en Against    ock   orig 139-1328   2nd -          cap 1351-1553  key 1569-1694  h 1716  pair-marked
+390  gotterdammerung  rhine       de>en Knowing    ock   orig 139-1396   2nd -          cap 1419-1667  key 1683-1963  h 1985  pair-marked
+390  gotterdammerung  rhine       de>en English    ock   orig 139-1328   2nd -          cap 1351-1621  key 1637-1853  h 1875  pair-marked
+390  gotterdammerung  brand       de>en Now        ock   orig 120-1390   2nd -          cap 1413-1661  key 1677-1939  h 1961  pair-marked
+390  gotterdammerung  brand       de>en English    ock   orig 120-1322   2nd -          cap 1345-1570  key 1586-1806  h 1828  pair-marked
+390  gotterdammerung  brand       de>en Told       c     orig -          2nd -          cap 802-1050   key -          h 1072  pair-marked own-stage
+390  horace           ship        la>en Measure    ock   orig 120-594    2nd -          cap 617-887    key 903-1262   h 1284  pair-marked
+390  horace           ship        la>en Allegory   ock   orig 120-594    2nd -          cap 617-910    key 926-1070   h 1092  pair-marked
+390  horace           ship        la>en English    ock   orig 120-594    2nd -          cap 617-887    key 903-1179   h 1201  pair-marked
+390  horace           crossing    la>en Order      ocke  orig 90-312     2nd 831-1066   cap 335-605    key 621-805    h 1088  pair-marked pair-after pair-idle
+390  horace           crossing    la>en Word       ocke  orig 90-312     2nd 1167-1402  cap 335-627    key 643-1141   h 1424  pair-marked pair-after pair-idle
+390  horace           crossing    la>en English    oeck  orig 90-312     2nd 328-549    cap 586-833    key 849-1264   h 1286  pair-marked
+390  horace           bee         la>en Contrast   ock   orig 120-1106   2nd -          cap 1129-1422  key 1438-1602  h 1624  pair-marked
+390  horace           bee         la>en Measure    ock   orig 120-1106   2nd -          cap 1129-1399  key 1415-1718  h 1740  pair-marked
+390  horace           bee         la>en English    ock   orig 120-1106   2nd -          cap 1129-1377  key 1393-1831  h 1853  pair-marked
+390  horace           bee         la>en Book       c     orig -          2nd -          cap 762-1054   key -          h 1076  pair-marked own-stage
+390  karamazov        cry         en>en Sentences  ock   orig 120-850    2nd -          cap 873-1166   key 1182-1261  h 1283  pair-marked pair-off pair-idle
+390  karamazov        cry         en>en Earlier    oeck  orig 120-850    2nd 866-1214   cap 1237-1417  key 1433-1648  h 1670  pair-marked
+390  karamazov        cry         en>en Mystery    ock   orig 120-850    2nd -          cap 873-1098   key 1114-1313  h 1335  pair-marked pair-off pair-idle
+390  karamazov        cry         en>en Plan       c     orig -          2nd -          cap 969-1239   key -          h 1261  pair-marked pair-off pair-idle own-stage
+390  karamazov        kiss        en>en Answer     ock   orig 120-994    2nd -          cap 1017-1265  key 1281-1380  h 1402  pair-marked pair-off pair-idle
+390  karamazov        kiss        en>en Again      oeck  orig 120-994    2nd 1010-1391  cap 1414-1639  key 1655-1894  h 1916  pair-marked
+390  karamazov        kiss        en>en Russian    ock   orig 120-994    2nd -          cap 1017-1265  key 1281-1516  h 1538  pair-marked pair-off pair-idle
+390  kierkegaard      weaning     en>en Refrain    oeck  orig 120-710    2nd 726-1162   cap 1199-1447  key 1463-1627  h 1649  pair-marked
+390  kierkegaard      weaning     en>en Turn       oeck  orig 120-710    2nd 726-1162   cap 1199-1379  key 1395-1573  h 1595  pair-marked
+390  kierkegaard      weaning     en>en Tellings   c     orig -          2nd -          cap 1344-1569  key -          h 1591  pair-marked own-stage pair-idle
+390  kierkegaard      weaning     en>en Word       oeck  orig 120-710    2nd 726-1162   cap 1199-1424  key 1440-1657  h 1679  pair-marked
+390  magic-flute      trial       de>de Word       oeck  orig 139-899    2nd 915-1837   cap 1875-2145  key 2161-2542  h 2564  pair-marked
+390  magic-flute      trial       de>de Answers    oeck  orig 139-899    2nd 915-1837   cap 1875-2145  key 2161-2423  h 2445  pair-marked
+390  magic-flute      trial       de>de Wishes     oeck  orig 139-899    2nd 915-1837   cap 1875-2145  key 2161-2240  h 2262  pair-marked
+390  magic-flute      queen       de>en Beat       ock   orig 139-1167   2nd -          cap 1190-1438  key 1454-1932  h 1954  pair-marked
+390  magic-flute      queen       de>en Rhyme      ock   orig 139-1098   2nd -          cap 1121-1346  key 1362-1469  h 1491  pair-marked
+390  magic-flute      queen       de>en Threat     ock   orig 139-1133   2nd -          cap 1156-1426  key 1442-1606  h 1628  pair-marked
+390  magic-flute      queen       de>en English    ock   orig 139-1133   2nd -          cap 1156-1426  key 1442-1685  h 1707  pair-marked
+390  magic-flute      weddings    de>en Word       ocke  orig 120-490    2nd 1005-1209  cap 513-783    key 799-979    h 1231  pair-marked pair-after pair-idle
+390  magic-flute      weddings    de>en List       ocke  orig 120-490    2nd 947-1151   cap 513-760    key 776-921    h 1173  pair-marked pair-after pair-idle
+390  magic-flute      weddings    de>en Caliban    oeck  orig 120-490    2nd 506-696    cap 733-980    key 996-1174   h 1196  pair-marked
+390  orpheus          aria        it>en Count      ock   orig 139-994    2nd -          cap 1017-1242  key 1258-1659  h 1681  
+390  orpheus          aria        it>en Endings    ock   orig 139-994    2nd -          cap 1017-1265  key 1281-1451  h 1473  
+390  orpheus          aria        it>en Calls      ock   orig 139-994    2nd -          cap 1017-1242  key 1258-1403  h 1425  
+390  orpheus          aria        it>en Rondo      c     orig -          2nd -          cap 709-956    key -          h 978   own-stage
+390  orpheus          terms       it>it Word       oeck  orig 139-395    2nd 411-812    cap 854-1056   key 1072-1234  h 1256  pair-marked
+390  orpheus          terms       it>it Return     oeck  orig 139-395    2nd 411-812    cap 854-1056   key 1072-1269  h 1291  pair-marked
+390  orpheus          terms       it>it Measure    oeck  orig 139-395    2nd 411-812    cap 854-1101   key 1117-1520  h 1542  pair-marked
+390  orpheus          song        it>en Rhyme      ock   orig 139-791    2nd -          cap 814-1061   key 1077-1184  h 1206  pair-marked
+390  orpheus          song        it>en Strophes   c     orig -          2nd -          cap 889-1069   key -          h 1091  pair-marked own-stage
+390  orpheus          song        it>en English    ock   orig 139-791    2nd -          cap 814-1061   key 1077-1321  h 1343  pair-marked
+390  peer-gynt        two-sayings en>en Figure     ock   orig 120-822    2nd -          cap 845-1093   key 1109-1273  h 1295  pair-marked pair-off pair-idle
+390  peer-gynt        two-sayings en>en Beat       ock   orig 120-857    2nd -          cap 880-1105   key 1121-1440  h 1462  pair-marked pair-off pair-idle
+390  peer-gynt        two-sayings en>en Word       oeck  orig 120-857    2nd 873-1240   cap 1263-1488  key 1504-1739  h 1761  pair-marked
+390  peer-gynt        two-sayings en>en Return     oeck  orig 120-857    2nd 873-1249   cap 1272-1452  key 1468-1683  h 1705  pair-marked
+390  peer-gynt        answer      en>en Figure     ock   orig 120-542    2nd -          cap 565-790    key 806-930    h 952   pair-marked pair-off pair-idle
+390  peer-gynt        answer      en>en Beat       ock   orig 120-542    2nd -          cap 565-767    key 783-1105   h 1127  pair-marked pair-off pair-idle
+390  peer-gynt        answer      en>en Word       ock   orig 120-542    2nd -          cap 565-812    key 828-982    h 1004  pair-marked pair-off pair-idle
+390  peer-gynt        answer      en>en Ending     eck   orig -          2nd 120-537    cap 560-807    key 823-967    h 989   pair-marked main-off
+390  phedre           names       fr>en Count      ocke  orig 120-516    2nd 1198-1443  cap 539-764    key 780-1172   h 1465  pair-marked pair-after pair-idle
+390  phedre           names       fr>en Figure     ocke  orig 120-482    2nd 961-1206   cap 505-775    key 791-935    h 1228  pair-marked pair-after pair-idle
+390  phedre           names       fr>en English    oeck  orig 120-482    2nd 498-819    cap 842-1045   key 1061-1160  h 1182  pair-marked
+390  phedre           sight       fr>en Figure     ocke  orig 120-480    2nd 937-1152   cap 503-751    key 767-911    h 1174  pair-after pair-idle
+390  phedre           sight       fr>en Halves     ocke  orig 120-480    2nd 1142-1358  cap 503-751    key 767-1116   h 1380  pair-after pair-idle
+390  phedre           sight       fr>en Word       ocke  orig 120-480    2nd 1007-1222  cap 503-751    key 767-981    h 1244  pair-after pair-idle
+390  phedre           slip        fr>en Ear        ocke  orig 120-817    2nd 1557-1842  cap 840-1110   key 1126-1531  h 1864  pair-marked pair-after pair-idle
+390  phedre           slip        fr>en Rhyme      ocke  orig 120-657    2nd 1076-1361  cap 680-927    key 943-1050   h 1383  pair-marked pair-after pair-idle
+390  phedre           slip        fr>en Break      ocke  orig 120-761    2nd 1128-1413  cap 784-941    key 957-1102   h 1435  pair-marked pair-after pair-idle
+390  phedre           slip        fr>en English    oeck  orig 120-691    2nd 707-1153   cap 1176-1356  key 1372-1634  h 1656  pair-marked
+390  rilke            count       en>de Sentence   ocke  orig 120-1105   2nd 1454-2453  cap 1128-1353  key 1369-1428  h 2475  pair-marked pair-after pair-idle
+390  rilke            count       en>de Figure     ocke  orig 120-1105   2nd 1556-2555  cap 1128-1330  key 1346-1530  h 2577  pair-marked pair-after pair-idle
+390  rilke            count       en>de German     oeck  orig 120-1105   2nd 1121-2104  cap 2142-2344  key 2360-2567  h 2589  pair-marked
+390  rilke            turn        en>de Sentence   ocke  orig 90-756     2nd 1148-1560  cap 779-1026   key 1042-1122  h 1582  pair-after pair-idle
+390  rilke            turn        en>de Word       ocke  orig 90-756     2nd 1505-1917  cap 779-981    key 997-1479   h 1939  pair-after pair-idle
+390  rilke            turn        en>de Figure     ocke  orig 90-756     2nd 1195-1608  cap 779-1049   key 1065-1169  h 1630  pair-after pair-idle
+390  rilke            panther     de>en Subjects   ocke  orig 120-837    2nd 1207-1938  cap 860-1085   key 1101-1181  h 1960  pair-marked pair-after pair-idle
+390  rilke            panther     de>en Beat       ocke  orig 120-837    2nd 1367-2098  cap 860-1063   key 1079-1341  h 2120  pair-marked pair-after pair-idle
+390  rilke            panther     de>en Rhyme      ocke  orig 120-838    2nd 1189-1920  cap 861-996    key 1012-1163  h 1942  pair-marked pair-after pair-idle
+390  rilke            panther     de>en English    oeck  orig 120-837    2nd 853-1566   cap 1607-1832  key 1848-2129  h 2151  pair-marked
+390  rimbaud          hallucinationfr>en Tense      ock   orig 120-1421   2nd -          cap 1444-1669  key 1685-1724  h 1746  pair-marked
+390  rimbaud          hallucinationfr>en List       ock   orig 120-1421   2nd -          cap 1444-1691  key 1707-1832  h 1854  pair-marked
+390  rimbaud          hallucinationfr>en Judgment   ock   orig 120-1434   2nd -          cap 1457-1705  key 1721-1919  h 1941  pair-marked
+390  rimbaud          hallucinationfr>en Innocence  ock   orig 120-1448   2nd -          cap 1471-1764  key 1780-1997  h 2019  pair-marked
+390  rimbaud          stanza      fr>en Count      ocke  orig 136-567    2nd 1323-1422  cap 590-815    key 831-1297   h 1444  pair-after pair-idle
+390  rimbaud          stanza      fr>en Rhyme      ocke  orig 136-567    2nd 1009-1108  cap 590-838    key 854-983    h 1130  pair-after pair-idle
+390  rimbaud          stanza      fr>en Frame      ocke  orig 136-601    2nd 1184-1283  cap 624-872    key 888-1158   h 1305  pair-after pair-idle
+390  rimbaud          stanza      fr>en Chapter    c     orig -          2nd -          cap 632-835    key -          h 857   pair-idle own-stage
+390  rimbaud          adieu       fr>en Figure     ock   orig 136-1412   2nd -          cap 1435-1637  key 1653-1837  h 1859  pair-marked
+390  rimbaud          adieu       fr>en Time       ock   orig 136-1412   2nd -          cap 1435-1682  key 1698-1778  h 1800  pair-marked
+390  rimbaud          adieu       fr>en Sentence   ock   orig 136-1412   2nd -          cap 1435-1682  key 1698-1813  h 1835  pair-marked
+390  rimbaud          adieu       fr>en English    ock   orig 136-1412   2nd -          cap 1435-1660  key 1676-2133  h 2155  pair-marked
+390  tempest          epilogue    en>en Beat       ock   orig 120-880    2nd -          cap 903-1151   key 1167-1482  h 1504  pair-marked pair-off pair-idle
+390  tempest          epilogue    en>en Rhyme      ock   orig 120-869    2nd -          cap 892-1094   key 1110-1235  h 1257  pair-marked pair-off pair-idle
+390  tempest          epilogue    en>en Word       ock   orig 120-869    2nd -          cap 892-1139   key 1155-1417  h 1439  pair-marked pair-off pair-idle
+390  tempest          epilogue    en>en Pardon     oeck  orig 120-869    2nd 885-1016   cap 1039-1264  key 1280-1398  h 1420  pair-marked
+390  traviata         refrain     it>en Refrain    ocke  orig 139-1107   2nd 1583-2045  cap 1130-1377  key 1393-1557  h 2067  pair-marked pair-after pair-idle
+390  traviata         refrain     it>en Measure    ocke  orig 139-1141   2nd 1915-2377  cap 1164-1412  key 1428-1889  h 2399  pair-marked pair-after pair-idle
+390  traviata         refrain     it>en Word       ocke  orig 139-1107   2nd 1835-2296  cap 1130-1377  key 1393-1809  h 2318  pair-marked pair-after pair-idle
+390  traviata         refrain     it>en English    oeck  orig 139-1107   2nd 1123-1777  cap 1800-2025  key 2041-2424  h 2446  pair-marked
+390  traviata         cabaletta   it>en Measure    ocke  orig 120-770    2nd 1485-1820  cap 793-1018   key 1034-1459  h 1842  pair-after pair-idle
+390  traviata         cabaletta   it>en Rhyme      ocke  orig 120-770    2nd 1167-1501  cap 793-1018   key 1034-1141  h 1523  pair-after pair-idle
+390  traviata         cabaletta   it>en Word       ocke  orig 120-770    2nd 1480-1814  cap 793-1041   key 1057-1454  h 1836  pair-after pair-idle
+390  traviata         cabaletta   it>en Scene      c     orig -          2nd -          cap 846-1116   key -          h 1138  pair-idle own-stage
+390  traviata         end         it>en Word       ocke  orig 120-1255   2nd 2050-2780  cap 1278-1548  key 1564-2024  h 2802  pair-marked pair-after pair-idle
+390  traviata         end         it>en Shared     ocke  orig 120-1231   2nd 1708-2438  cap 1254-1502  key 1518-1682  h 2460  pair-marked pair-after pair-idle
+390  traviata         end         it>en English    oeck  orig 120-1231   2nd 1247-2098  cap 2121-2368  key 2384-2628  h 2650  pair-marked
+390  tristan          work        de>en Verbs      ocke  orig 139-933    2nd 1347-1722  cap 956-1226   key 1242-1321  h 1744  pair-after pair-idle
+390  tristan          work        de>en Rhyme      ocke  orig 139-933    2nd 1411-1786  cap 956-1203   key 1219-1385  h 1808  pair-after pair-idle
+390  tristan          work        de>en Word       ocke  orig 139-933    2nd 1899-2273  cap 956-1203   key 1219-1873  h 2295  pair-after pair-idle
+390  tristan          names       de>en Crossing   ocke  orig 139-1191   2nd 1668-1996  cap 1214-1462  key 1478-1642  h 2018  pair-after pair-idle
+390  tristan          names       de>en Grammar    ocke  orig 139-1191   2nd 1583-1911  cap 1214-1462  key 1478-1557  h 1933  pair-after pair-idle
+390  tristan          names       de>en Rhyme      ocke  orig 139-1191   2nd 1584-1912  cap 1214-1417  key 1433-1558  h 1934  pair-after pair-idle
+390  tristan          names       de>en Word       ocke  orig 139-1191   2nd 1807-2135  cap 1214-1439  key 1455-1781  h 2157  pair-after pair-idle
+390  tristan          end         de>en Sentence   ock   orig 139-1616   2nd -          cap 1639-1909  key 1925-2025  h 2047  pair-marked
+390  tristan          end         de>en Rhyme      ock   orig 139-1616   2nd -          cap 1639-1864  key 1880-2027  h 2049  pair-marked
+390  tristan          end         de>en Beat       ock   orig 139-1616   2nd -          cap 1639-1909  key 1925-2187  h 2209  pair-marked
+390  tristan          end         de>en English    ock   orig 139-1616   2nd -          cap 1639-1909  key 1925-2182  h 2204  pair-marked

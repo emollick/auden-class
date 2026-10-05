@@ -1,0 +1,1320 @@
+{
+ "piece": "orpheus",
+ "title": "Orpheus calls Eurydice",
+ "where": "*Orfeo ed Euridice*, Act 3, Scene 1, with Act 1, Scenes 1 and 2",
+ "about": "Orpheus, a singer, has gone down among the dead to bring back his wife, Eurydice. The god Love set the terms: he must not look at her until they are out of the underworld, and must not tell her why. On the way up she begs for one look; he turns, she dies a second time, and he sings this aria. The second passage sets Love’s terms beside his words before and after the aria; the third is his song at her tomb in Act 1.",
+ "view": null,
+ "viewWhy": "Nothing that Auden wrote or said about this opera has been found. The research note (C_auden_on_works.md, section 25) reports that “Orfeo” does not occur in The Dyer’s Hand, The Enchafèd Flood, Forewords and Afterwords or the second volume of his prose, and that he names Gluck only in passing. The one sentence of his that I read in a scan names the opera as a date, the start of the golden age of opera; it is entered under auden and not stretched into a reading. The piece keeps to the libretto, the score and facts that can be looked up. The examiner read the sentence again and searched the four scans: the judgment holds, since the sentence says nothing of what is in the opera or in these passages (exam.md, section 6).",
+ "plates": [
+  {
+   "id": "aria",
+   "heading": "The aria",
+   "label": "Calzabigi’s Italian",
+   "text": "o-orpheus/aria",
+   "rows": [
+    "0.0-3.2"
+   ],
+   "pair": {
+    "label": "Maggioni’s English",
+    "text": "orpheus/act-4",
+    "rows": [
+     "82.0-82.3",
+     "83.0-83.2"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "beat",
+     "label": "Count",
+     "meterName": "the line of eight: an accent on the third syllable and on the seventh; a line may stop on the seventh",
+     "scan": {
+      "0.0": {
+       "meter": "../.../.",
+       "voice": "\\ x/ x~ xx/x",
+       "div": {
+        "3": "Eu|ri|di|ce !"
+       }
+      },
+      "1.0": {
+       "meter": "../.../",
+       "voice": "\\~ x/ x~ x x /",
+       "div": {
+        "0": "Do|ve",
+        "4": "mio"
+       }
+      },
+      "2.0": {
+       "meter": "../.../.",
+       "voice": "xx/~ x / x/x",
+       "div": {
+        "0": "Eu|ri|di|ce !...",
+        "2": "Dio!"
+       }
+      },
+      "2.1": {
+       "meter": "../.../",
+       "voice": "\\ x /~ x x x/",
+       "div": {
+        "0": "Io",
+        "2": "pu|re",
+        "4": "tuo"
+       }
+      },
+      "3.0": {
+       "meter": "../.../.",
+       "voice": "xx/~ \\ x x/x",
+       "div": {
+        "0": "Eu|ri|di|ce..."
+       }
+      },
+      "3.1": {
+       "meter": "../.../.",
+       "voice": "\\ x/x \\ x/x",
+       "div": {
+        "0": "Più",
+        "2": "più"
+       }
+      },
+      "3.2": {
+       "meter": "../.../",
+       "voice": "x x /x x x /"
+      }
+     },
+     "points": [
+      {
+       "at": [
+        "0.0",
+        2,
+        3
+       ],
+       "say": "Two vowels meet between these words and count as one syllable. Both are still said. The Italian name for this is *sinalefe*."
+      },
+      {
+       "at": [
+        "1.0",
+        5,
+        5
+       ],
+       "say": "The line stops on its stressed seventh syllable. It is still a line of eight: an Italian line takes its name from the place of its last accent."
+      },
+      {
+       "at": [
+        "2.0",
+        0,
+        1
+       ],
+       "say": "The name is four syllables, stressed on the third: half a line of eight. Its last vowel counts as one with the cry that follows, across the stop. The fifth line begins the same way."
+      }
+     ],
+     "why": "Calzabigi writes the aria in the line of eight, since Petrarch’s time a line of religious verse and of verse for music, and its two fixed stresses hold through the cries and stops of the third line.",
+     "caption": "Italian verse counts syllables, and a vowel that ends a word runs into a vowel that begins the next, as after <b>senza</b>. Counted so, all seven lines stress the third syllable and the seventh. Four go on to an eighth and three stop on the seventh. This is the <i>ottonario</i>, the line of eight, since Petrarch’s time a line of religious verse and of verse for music. The speech before the aria is recitative, sung speech: lines of eleven syllables and one of seven, unrhymed until its close. The third line here is three cries with stops between them and still counts eight.",
+     "grounds": [
+      {
+       "claim": "the count of each line, the vowels that run together, and the stresses on the third and seventh syllables of all seven",
+       "kind": "plate"
+      },
+      {
+       "claim": "Italian verse is counted by syllables, and a line is named from the place of its last stress, so a line that stops on its stress keeps its name",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “versificazione” (Claudio Ciociola); Vocabolario Treccani, “tronco”"
+      },
+      {
+       "claim": "a final vowel and the next word’s first vowel count as one syllable, also across a pause, and both are still pronounced",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “sinalefe” (definition by Sergio Bozzola)"
+      },
+      {
+       "claim": "the ottonario has its last stress on the seventh, mostly with another on the third; after Dante and Petrarch it is used only in religious verse and verse for music",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “versificazione”; Vocabolario Treccani, “ottonario”"
+      },
+      {
+       "claim": "the speech before the aria is recitative in lines of eleven syllables with one of seven, unrhymed until its last two",
+       "kind": "text",
+       "source": "the libretto of 1879, p. 20, counted by the examiner in the page image: ten lines from the stage direction that she dies to the aria, nine of eleven syllables and the ninth of seven, and only the last two rhyme (not hosted but for its fourth to sixth lines and the start of the seventh: o-orpheus/loss, block 0, counted under Measure in the second plate); that recitative is usually in unrhymed lines of eleven: Treccani, Enciclopedia dell’Italiano (2011), “melodramma, lingua del” (Fabio Rossi)"
+      },
+      {
+       "claim": "recitative is a way of singing that follows the cadences and inflections of speech and makes no closed melody: sung speech",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia on line, “recitativo” (treccani.it/enciclopedia/recitativo), the first sentence of the entry; read by the finisher on 2026-10-03 in the page saved that day (.src/tr_recitativo.html). The words sung speech came into this caption with the critic; the same entry is a ground of Measure in the second plate"
+      },
+      {
+       "claim": "the third line holds three exclamations and still counts eight",
+       "kind": "plate"
+      }
+     ],
+     "stands": "The marks on the passage: each line counted and its stresses marked. The rule of the count, the running together of vowels and the history of the line of eight: Treccani, *Enciclopedia dell’Italiano*, under *versificazione* and *sinalefe*, and the *Vocabolario Treccani* under *ottonario* and *tronco*. The recitative before the aria: the libretto of 1879, p. 20; part of it is in the second passage. What recitative is: Treccani under *recitativo*."
+    },
+    {
+     "kind": "rhyme",
+     "label": "Endings",
+     "ends": {
+      "0.0": "x",
+      "1.0": "x",
+      "2.0": "x",
+      "2.1": "a",
+      "3.0": "b",
+      "3.1": "b",
+      "3.2": "a"
+     },
+     "tails": {
+      "2.1": 2,
+      "3.0": 4,
+      "3.1": 4,
+      "3.2": 2
+     },
+     "threads": [
+      {
+       "sound": "rò",
+       "at": [
+        [
+         "0.0",
+         1,
+         2,
+         2
+        ],
+        [
+         "1.0",
+         1,
+         3,
+         2
+        ]
+       ]
+      },
+      {
+       "sound": "senza",
+       "at": [
+        [
+         "0.0",
+         2,
+         0,
+         5
+        ],
+        [
+         "1.0",
+         2,
+         0,
+         5
+        ]
+       ]
+      }
+     ],
+     "why": "Each group of the aria ends on a word cut short, a mark of the canzonetta; rhyme comes only in the last four lines, and the two lines that return are alike inside the line.",
+     "caption": "Three lines stop on a word cut short: <b>ben</b> for <i>bene</i>, <b>fedel</b> for <i>fedele</i>, <b>Ciel</b> for <i>cielo</i>. A word cut on a consonant at the end of a line is a mark of the <i>canzonetta</i>, a poem in short lines, usually set to music. Each cut ends a group: the two opening lines, the order to answer, the last three lines. Italian arias are as a rule strictly rhymed; here only the last four lines rhyme: <b>fedel</b>, faithful, with <b>Ciel</b>, heaven, and two lines in <i>anza</i> between them. The two opening lines, which return after the seventh, rhyme with nothing. They are alike inside the line: a verb ending in a stressed <i>rò</i>, <i>I shall</i>, then <b>senza</b>, without.",
+     "grounds": [
+      {
+       "claim": "which lines end on a stopped word, which lines rhyme, and where the two opening lines are alike inside",
+       "kind": "plate"
+      },
+      {
+       "claim": "the three groups: the two lines that the libretto prints again as a pair; lines 3 and 4, said to her; lines 5 to 7, one sentence",
+       "kind": "text",
+       "source": "the plate, rows 0.0-3.2; the score sets the same three groups as its sections (Dörffel’s edition, pp. 132-135). The print of 1879, p. 20, groups by indentation otherwise: lines 1 to 4, lines 5 to 7, then the two returning lines; each of those groups also ends on a stopped word"
+      },
+      {
+       "claim": "ben, fedel and ciel are bene, fedele and cielo with the last vowel dropped",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “troncamento” (Grammatica italiana: a final e or o may fall after l, n or r); “bene” (noun), “fedele”, “cielo”"
+      },
+      {
+       "claim": "words cut short on a consonant at the end of a line are characteristic of the canzonetta, a poem in short lines generally set to music",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “troncamento” and “canzonetta”; Treccani, Enciclopedia dell’Italiano (2011), “rima” (Claudio Ciociola): the stopped rhyme on a consonant becomes characteristic of the ode-canzonetta tradition"
+      },
+      {
+       "claim": "the arias of Italian opera are strictly rhymed",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “melodramma, lingua del” (Fabio Rossi)"
+      },
+      {
+       "claim": "the two opening lines return after the seventh",
+       "kind": "text",
+       "source": "the libretto prints them again after the seventh line: Ricordi, 1879, p. 20, and Bologna, 1771; the score brings them three times (Dörffel’s edition, pp. 132-135)"
+      },
+      {
+       "claim": "the verbs ending in rò are futures of the first person; senza means without",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “futuro” (its two examples of the simple future are these two verbs) and “senza”"
+      },
+      {
+       "claim": "fedel means faithful, constant in love; ciel is heaven",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “fedele”, sense 1, and “cielo”"
+      }
+     ],
+     "stands": "The marks on the passage. The cut words and their place in the canzonetta: the *Vocabolario Treccani* under *troncamento* and *canzonetta*, and the *Enciclopedia dell’Italiano* under *rima*. That arias are strictly rhymed: the same encyclopedia under *melodramma, lingua del*. The meanings: the *Vocabolario* under *fedele*, *cielo*, *senza* and *futuro*. The three groups are also the sections of the score."
+    },
+    {
+     "kind": "figure",
+     "label": "Calls",
+     "name": "apostrophe",
+     "plain": "a turning away: the speaker turns from the hearers to speak to someone or something else; here, from speaking about her to speaking to her",
+     "draw": "other",
+     "join": "none",
+     "parts": [
+      {
+       "row": "0.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "about",
+       "label": "about her"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        3,
+        5
+       ],
+       "tag": "about",
+       "label": "about her"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        0,
+        0
+       ],
+       "tag": "to",
+       "label": "to her"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "to",
+       "label": "to her"
+      },
+      {
+       "row": "2.1",
+       "w": [
+        4,
+        5
+       ],
+       "tag": "to",
+       "label": "to her"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        0,
+        0
+       ],
+       "tag": "to",
+       "label": "to her"
+      }
+     ],
+     "why": "The aria turns from speaking about her to speaking to her after she has died, and gives back the order she gave him in this scene, to answer, with the opposite of the name she called him.",
+     "caption": "The first two lines speak about her: what to do without <b>Euridice</b>, where to go without his <b>ben</b>, his good, the one he loves. The third turns to her, though she has just died: it calls the name and orders <b>Rispondi</b>, answer. Rhetoric names this turn apostrophe. Earlier in the scene she gave him that order and called him <i>infido</i>, faithless, and both times his reply was to tell her to come and be silent. Now the order is his, and the fourth line says the opposite of her charge: he is her <b>fedel</b>, her faithful one, and <b>pure</b>, truly, even so, insists on it.",
+     "grounds": [
+      {
+       "claim": "which words speak about her and which speak to her",
+       "kind": "plate"
+      },
+      {
+       "claim": "ben is what joy comes from, and so the person loved",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “bene” (noun), sense 2 b"
+      },
+      {
+       "claim": "she has just died, and he has said that she no longer lives and that he calls her in vain",
+       "kind": "text",
+       "source": "the libretto, Act 3, Scene 1: the stage direction that she dies, and the two lines before the hosted recitative and at its head (Ricordi, 1879, p. 20; o-orpheus/loss, row 0.0)"
+      },
+      {
+       "claim": "rispondi is the imperative of the second person singular, a mood of command or entreaty; rispondere is to answer",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “imperativo” and “rispondere”"
+      },
+      {
+       "claim": "apostrophe is turning one’s speech from one audience to another, most often to an abstraction, an inanimate object or the absent",
+       "kind": "source",
+       "source": "Silva Rhetoricae (rhetoric.byu.edu), “apostrophe”"
+      },
+      {
+       "claim": "earlier in the scene she calls him infido and later orders him to answer, and after each he tells her to come and be silent",
+       "kind": "text",
+       "source": "the libretto, Act 3, Scene 1 (Ricordi, 1879, pp. 17-18; UNC scan text lines 812, 828, 844, 849; the Bologna libretto of 1771 has the same words); not in the hosted cuts, and not in the hosted English, which follows a reworked text"
+      },
+      {
+       "claim": "infido is not to be trusted, from Latin fidus, faithful; fedele is one who keeps faith, constant in love",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “infido” and “fedele”"
+      },
+      {
+       "claim": "pure underlines an affirmation (truly) or opposes what was said (even so)",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “pure”, senses 1 c and 3 a"
+      }
+     ],
+     "stands": "The marks on the passage. Apostrophe as *Silva Rhetoricae* defines it. What the scene says before the aria, her death, her charge and her order to answer: Act 3, Scene 1 of the libretto of 1879, pp. 17 to 20. The meanings of *ben*, *rispondere*, *infido*, *fedele* and *pure*, and the form of the command: the *Vocabolario Treccani*."
+    },
+    {
+     "kind": "shape",
+     "label": "Rondo",
+     "what": "the aria as the score sets it: the two opening lines three times, and what comes between",
+     "facts": {
+      "bars": 70,
+      "mode": "C major",
+      "first tempo": "Andante con moto",
+      "sections": [
+       {
+        "name": "orchestra alone",
+        "lines": "",
+        "from": 1,
+        "to": 6,
+        "bars": 6,
+        "returns": false,
+        "tempo": "Andante con moto"
+       },
+       {
+        "name": "the two opening lines",
+        "lines": "1 and 2",
+        "from": 7,
+        "to": 17,
+        "bars": 11,
+        "returns": true,
+        "tempo": "Andante con moto"
+       },
+       {
+        "name": "the order to answer",
+        "lines": "3 and 4",
+        "from": 18,
+        "to": 29,
+        "bars": 12,
+        "returns": false,
+        "tempo": "Adagio from bar 24",
+        "ends": "on a pause"
+       },
+       {
+        "name": "the two opening lines",
+        "lines": "1 and 2",
+        "from": 30,
+        "to": 39,
+        "bars": 10,
+        "returns": true,
+        "tempo": "Tempo I"
+       },
+       {
+        "name": "no help left",
+        "lines": "5 to 7",
+        "from": 40,
+        "to": 48,
+        "bars": 9,
+        "returns": false,
+        "tempo": "Moderato, then Adagio from bar 42",
+        "ends": "on a pause",
+        "note": "Not printed. A flat and E flat come in at the second Adagio: from bar 42 both stand as accidentals in the first violin, the viola and the voice (p. 134, second system; seen by the examiner, exam.md, section 7). Until 2026-10-03 this was the printed key flats. The finisher took it out of print: nothing read says what the two flats do, so the line under the drawing gave an observation with no reason, and one that only a reader of music could use."
+       },
+       {
+        "name": "the two opening lines",
+        "lines": "1 and 2",
+        "from": 49,
+        "to": 63,
+        "bars": 15,
+        "returns": true,
+        "tempo": "Tempo I"
+       },
+       {
+        "name": "orchestra alone",
+        "lines": "",
+        "from": 64,
+        "to": 70,
+        "bars": 7,
+        "returns": false,
+        "tempo": "Tempo I"
+       }
+      ],
+      "the libretto prints": ["1 to 4", "5 to 7", "1 and 2"],
+      "the opening lines": {
+       "times in the score": 3,
+       "bars": 36,
+       "times in the libretto": 2
+      },
+      "counted": "Bars counted by the poet from the scan of the score, system by system, the upbeat not counted: p. 132 has bars 1-5, 6-11, 12-17; p. 133 has 18-23, 24-28, 29-34; p. 134 has 35-40, 41-46, 47-52; p. 135 has 53-57, 58-63, 64-70. A reader's pencilled numbers in that copy count the upbeat as bar 1 and run one ahead. A section is counted from the bar in which its first line begins (the upbeat before it left with the section before) to the bar before the next. Bar 17, where the orchestra rounds off the first statement and the voice has only its upbeat, is counted with the first statement; the voice itself sings the two lines in bars 7-16, 30-39 and 49-63, which is 35 bars. Pauses (fermatas) stand in bars 24, 29, 39, 40, 41, 47 and 48. Tempo marks: Adagio in bar 24, Tempo I at bar 30 (letter O), Moderato at bar 40, Adagio at bar 42, Tempo I at bar 49 (letter P).",
+      "source": "Gluck, Orpheus: Oper in drei Akten, in Partitur herausgegeben von Alfred Dörffel (Leipzig: C. F. Peters, plate 5518), no. 43, pp. 132-135; Internet Archive, orpheusoperindre00gluc; page images in .src/score_n147-n150.jpg and .src/crops/",
+      "note": "Dörffel's foreword (read by the examiner in .src/dorffel_search.txt): the edition takes the French score of Paris, 1774, as its basis for its new numbers and changes, puts Orpheus's part back in the contralto range of the Italian score after Berlioz's arrangement of 1859, and so unites the two printed scores; the Italian words follow Calzabigi where the number is his. The bars, pauses and tempo marks given here are therefore this edition's. The Vienna score itself (printed 1764) was not seen. No sharps or flats in the signature; the aria begins and ends on a chord of C; Newman, Gluck and the Opera (1895), p. 145, says the aria stood in C and went to F for Paris. The bars are not equal in time: the Adagio bars are slower."
+     },
+     "why": "Gluck makes the two opening lines the returning idea of a rondo, in C major at one tempo, so the order and the despair each give way to them; he wrote that its effect hangs on exact pace and expression.",
+     "caption": "The score has the two opening lines three times, each time in C major and at the first tempo. Together they take about half its 70 bars. Between them come the order to answer and the last three lines; each slows to Adagio, stops on a pause and gives way to the same two lines. An idea that keeps returning makes a rondo. The libretto prints the two lines twice, so the middle return is the score’s. Gluck wrote in 1770 that the least change of pace or expression makes this aria a tune for puppets, and a contemporary is reported to have said that the melody would suit words of the opposite sense.",
+     "grounds": [
+      {
+       "claim": "the two opening lines are set three times, in C major and at the first tempo, with the order to answer and the last three lines between, each with an Adagio and pauses; 70 bars, of which the opening lines take 35 or 36",
+       "kind": "source",
+       "source": "Gluck, Orpheus, full score edited by Alfred Dörffel (Leipzig: C. F. Peters, plate 5518), no. 43, pp. 132-135, seen in the scan and counted by the poet, and counted again by the examiner with the same result; the key also in Ernest Newman, Gluck and the Opera (1895), p. 145"
+      },
+      {
+       "claim": "a rondo is a form marked by the periodic return of a main idea complete in itself",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “rondò”"
+      },
+      {
+       "claim": "the libretto prints the two lines at the head and once more after the seventh line",
+       "kind": "text",
+       "source": "the libretto of 1879 (Milan: Ricordi), p. 20, seen in the page image; the Bologna libretto of 1771 prints them the same way"
+      },
+      {
+       "claim": "line 3 gives the order to answer, in the imperative, and line 4 says he is still her faithful one; lines 5 to 7 say that no help or hope is left, and just before the aria he calls himself desperate",
+       "kind": "text",
+       "source": "the plate, rows 2.0-3.2; the libretto of 1879, p. 20, the last line before the aria. Lines 3 and 4 were called the plea until 2026-10-03, when the finisher gave the line one name, the order, which seven other places on the page already had: the verb is the imperative that Eurydice uses to him earlier in the scene, with an insult (p. 18; scan text line 844), and the Vocabolario Treccani, “imperativo”, has the mood named from commanding, expressing command or, as the case may be, entreaty"
+      },
+      {
+       "claim": "Gluck: make the least change in the aria’s movement or turn of expression and it becomes an air of marionettes",
+       "kind": "source",
+       "source": "dedication of Paride ed Elena (score, Vienna, 1770), in Ernest Newman, Gluck and the Opera (1895), pp. 93-94: Newman’s English, from the French in Desnoiresterres"
+      },
+      {
+       "claim": "Boyé, a contemporary of Gluck, said the melody would take the opposite words as well, indeed far better",
+       "kind": "source",
+       "source": "Eduard Hanslick, Vom Musikalisch-Schönen, chapter 2 (the example entered with the second edition, 1858, p. 25); read in Project Gutenberg no. 26949; research note webfacts.md no. 5. Read again by the examiner in the machine-read text of both scans at the Internet Archive: the second edition (bub_gb_PiIWAAAAYAAJ) has the passage on the page numbered 25; the first (VomMusikalischSchnen1tea1854) has other examples at that place, pp. 21-22, and the aria’s French words nowhere"
+      }
+     ],
+     "stands": "The form, key and tempo marks: Gluck’s *Orpheus* in Alfred Dörffel’s full score (Peters), pp. 132 to 135, bars counted for this page; the libretto of 1879, p. 20. Rondo: the *Vocabolario Treccani*. Gluck’s remark: the dedication of *Paride ed Elena* (1770), as Ernest Newman gives it in English, *Gluck and the Opera*, p. 93. The contemporary is Boyé, as Eduard Hanslick reports him, *Vom Musikalisch-Schönen*, chapter 2."
+    }
+   ]
+  },
+  {
+   "id": "terms",
+   "heading": "The terms and the loss",
+   "label": "Love, Act 1",
+   "text": "o-orpheus/law",
+   "rows": [
+    "0.0",
+    "1.0",
+    "2.0",
+    "3.0"
+   ],
+   "beside": true,
+   "pair": {
+    "label": "Orpheus, Act 3, before and after the aria",
+    "text": "o-orpheus/loss",
+    "rows": [
+     "0.0-0.2",
+     "0.3[0-2]",
+     "1.0",
+     "1.1[0-3]"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "0.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "you must not tell her",
+       "note": "What he must not tell her is the ban itself, named in the line before.",
+       "source": "Vocabolario Treccani, “rivelare”, sense 1, and “dovere”; the libretto of 1879, p. 9, the two lines before this one"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        5,
+        6
+       ],
+       "gloss": "you lose her",
+       "source": "Vocabolario Treccani, “perdere”, sense 2: to cease to have, to be left without"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        1,
+        2
+       ],
+       "gloss": "again",
+       "source": "Vocabolario Treccani, “nuovo”, sense 5 a: the adverbial phrase, once more; the entry quotes Calzabigi’s Orfeo for its literary form"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        4,
+        5
+       ],
+       "gloss": "forever",
+       "source": "Vocabolario Treccani, “sempre”: the phrase with per, of what lasts without end; one of its examples is “lost forever”"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        7,
+        8
+       ],
+       "gloss": "at the mercy of",
+       "source": "Vocabolario Treccani, “abbandono”, sense 3 a (old use): at the mercy, in the power of"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        2,
+        3
+       ],
+       "gloss": "fierce longing",
+       "source": "Vocabolario Treccani, “fiero”, sense 1 (ferocious, cruel, violent), and “desio” (poetic for desire)"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "struck by misfortune",
+       "source": "Vocabolario Treccani, “sventurato”, sense 1"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "you will live",
+       "source": "Vocabolario Treccani, “vivere” (future vivrò)"
+      },
+      {
+       "row": "p:0.0",
+       "w": [
+        1,
+        2
+       ],
+       "gloss": "I call, in vain",
+       "source": "Vocabolario Treccani, “chiamare”, sense 2 a (to call someone by name), and “invano” (of an act that fails of its end)"
+      },
+      {
+       "row": "p:0.0",
+       "w": [
+        5,
+        6
+       ],
+       "gloss": "I lose her",
+       "source": "Vocabolario Treccani, “perdere”, sense 2"
+      },
+      {
+       "row": "p:0.1",
+       "w": [
+        7,
+        7
+       ],
+       "gloss": "law",
+       "note": "Love called the terms a *pact* and a *ban*. *Law* is Orpheus’s word for them, here and in three other places of the libretto.",
+       "source": "Vocabolario Treccani, “legge”, “patto” (an agreement between two parties) and “divieto” (a prohibition); the libretto of 1879, pp. 9, 10, 16, 19 and 20, counted in both scans"
+      },
+      {
+       "row": "p:0.2",
+       "w": [
+        5,
+        5
+       ],
+       "gloss": "help",
+       "note": "The word comes again in the sixth line of the aria.",
+       "source": "Vocabolario Treccani, “soccorso”, sense 1 a: help given to one in need or in danger"
+      },
+      {
+       "row": "p:0.3",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "is left to me",
+       "note": "The fifth line of the aria has the same verb. The dictionary’s first example of this sense is a line of Petrarch.",
+       "source": "Vocabolario Treccani, “avanzare” (2), sense 1 a; Petrarch, Canzoniere 268, line 32, read at it.wikisource.org"
+      },
+      {
+       "row": "p:0.3",
+       "w": [
+        2,
+        2
+       ],
+       "gloss": "counsel",
+       "source": "Vocabolario Treccani, “consiglio”, sense 1"
+      },
+      {
+       "row": "p:1.0",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "let it end",
+       "source": "Vocabolario Treccani, “finire” (to come to an end); the form is the present subjunctive"
+      },
+      {
+       "row": "p:1.1",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "life",
+       "source": "Vocabolario Treccani, “vita”"
+      },
+      {
+       "row": "p:1.1",
+       "w": [
+        3,
+        3
+       ],
+       "gloss": "pain",
+       "source": "Vocabolario Treccani, “dolore”"
+      }
+     ],
+     "why": "Two words of the recitative, left and help, return in the aria’s last lines; serious opera before the Romantics drew its language from the line of Petrarch, Tasso and Metastasio.",
+     "caption": "Love has forbidden Orpheus to look at Eurydice before they leave the underworld. Here Love adds that he must not tell her, and names the price: he loses her and lives on wretched. In Act 3 Orpheus says that he calls her in vain, has no <b>soccorso</b>, help, and is left no <b>consiglio</b>, counsel. The aria’s last lines take up the words for help and for what is left, and hope replaces counsel. Serious opera before the Romantics drew its language from the line of Petrarch, Tasso and Metastasio.",
+     "grounds": [
+      {
+       "claim": "what each of the words marked means",
+       "kind": "source",
+       "source": "Vocabolario Treccani, the entries named under each note"
+      },
+      {
+       "claim": "Love has just forbidden him to look at her until they are out of the underworld",
+       "kind": "text",
+       "source": "the libretto of 1879, Act 1, Scene 2, p. 9, the two lines before the hosted ones (not hosted)"
+      },
+      {
+       "claim": "what Love’s four lines and Orpheus’s lines say",
+       "kind": "text",
+       "source": "the plate, o-orpheus/law and o-orpheus/loss"
+      },
+      {
+       "claim": "the words for help and for being left come again in the aria’s last three lines, where hope stands in the place of counsel",
+       "kind": "text",
+       "source": "o-orpheus/aria, rows 3.0 and 3.1, on the first plate"
+      },
+      {
+       "claim": "the dictionary’s first example of the verb in this sense is a line of Petrarch",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “avanzare” (2), sense 1 a, read again by the finisher on 2026-10-03 in the saved page: of its examples under to remain, to be left, the first is given to Petrarch and the second to Leopardi, and the rest are of daily speech. The line is Canzoniere 268, line 32; in Le rime, ed. Salvo Cozzo (1904), it stands on p. 259, counted by the finisher from the line numbered 25 at the head of that page (text fetched from the Internet Archive, lerimesecondolar00petruoft). What follows is the record of what the page said of the poem until that day, when the finisher took it out of the caption and the two notes because no source cited sets the poem beside these lines: Petrarch, Canzoniere 268, lines 1 and 29-34, read at it.wikisource.org. Read again by the examiner: the poem has the libretto’s verb for what is left, in the same form; it has the verb for counsel where the libretto has the noun, another word for hope, and no word for help. The number 268 is the poem’s place in the index of the Canzoniere at it.wikisource.org. Read last in a printed edition: Le rime, ed. Giuseppe Salvo Cozzo (Florence: Sansoni, 1904), pp. 258-259, no. CCLXVIII with its lines numbered (machine-read text at the Internet Archive, lerimesecondolar00petruoft); the same number in the running heads of Il Canzoniere (Milan: Hoepli, 1918; the catalogue names Rigutini and Scherillo), pp. 426-429 (ilcanzoniere00petruoft)"
+      },
+      {
+       "claim": "the commonest forms of the language of serious librettos come from a long tradition, and opera before the Romantics moves along the line Petrarch, Tasso, Metastasio",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “melodramma, lingua del” (Fabio Rossi), the section on the language and style of serious librettos"
+      }
+     ],
+     "stands": "The meanings: the *Vocabolario Treccani*, under each word. What Love forbids before these lines: the libretto of 1879, Act 1, Scene 2. The words that return are in the first passage. The line of Petrarch, the dictionary’s first example under *avanzare*, is line 32 of number 268 of his *Canzoniere*. The language of serious opera: the *Enciclopedia dell’Italiano* under *melodramma, lingua del*."
+    },
+    {
+     "kind": "compare",
+     "label": "Return",
+     "ties": [
+      {
+       "a": [
+        "0.0",
+        5,
+        6
+       ],
+       "b": [
+        "p:0.0",
+        5,
+        6
+       ],
+       "say": "Love says it of him: *you lose her*. He says it of himself: *I lose her*. The verb is the same and one letter of it has changed. Each time it ends the line."
+      },
+      {
+       "a": [
+        "1.0",
+        0,
+        5
+       ],
+       "b": [
+        "p:0.1",
+        0,
+        5
+       ],
+       "say": "Six words come back in the same order, and as before they begin the next line: *and again, and forever*."
+      },
+      {
+       "a": [
+        "1.0",
+        3,
+        5
+       ],
+       "b": [
+        "p:1.0",
+        2,
+        4
+       ],
+       "say": "After the aria the last three of the six come a third time. Now the wish is his own: *let the pain end, and forever*."
+      },
+      {
+       "a": [
+        "3.0",
+        1,
+        1
+       ],
+       "b": [
+        "p:1.1",
+        0,
+        1
+       ],
+       "say": "Love said that he would live on. He wants the pain to end with his life."
+      }
+     ],
+     "why": "Calzabigi has Orpheus tell the loss in the words of Love’s threat, six in the same order, so the threat of Act 1 returns as the fact of Act 3; forever comes a third time when he chooses death.",
+     "caption": "Love’s terms are in Act 1; Orpheus’s cry is in Act 3, when Eurydice has died. He puts his loss in Love’s words. <b>Perdi</b>, you lose, becomes <b>perdo</b>, I lose, and the next line begins with the same six words, <i>and again, and forever</i>. A threat in Act 1 is a fact in Act 3, word for word, and the same line goes on to name the <b>legge</b>, the law, and death. After the aria <b>per sempre</b>, forever, comes a third time, now in a wish of his own: that pain may end with life. Love had said he would live on, wretched.",
+     "grounds": [
+      {
+       "claim": "which words of Love’s lines come back in Orpheus’s, and where",
+       "kind": "plate"
+      },
+      {
+       "claim": "Love’s lines stand in Act 1, Scene 2, and Orpheus’s in Act 3, Scene 1, after Eurydice dies, before the aria and after it",
+       "kind": "text",
+       "source": "the libretto of 1879 (Milan: Ricordi), pp. 9 and 20; the same lines in the Bologna libretto of 1771"
+      },
+      {
+       "claim": "perdi and perdo are the second and the first person of perdere, to lose",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “perdere”, sense 2"
+      },
+      {
+       "claim": "the two Italian words for forever stand three times in the dialogue: Love’s terms, Orpheus when she dies, Orpheus after the aria",
+       "kind": "text",
+       "source": "counted in both scans of the libretto of 1879 and in the Bologna libretto of 1771, and counted again by the examiner; a fourth place is the prose Argument before the text. The second word alone stands once more in the dialogue, in Orpheus’s part of the duet in Act 3, and three times in stage directions, so the count is of the two words together"
+      },
+      {
+       "claim": "after these lines he tries to kill himself",
+       "kind": "text",
+       "source": "the libretto of 1879, p. 20, the stage direction at the end of the speech"
+      },
+      {
+       "claim": "what sempre, legge, vivrai, vita and finisca mean",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “sempre”, “legge”, “vivere”, “vita”, “finire”"
+      }
+     ],
+     "stands": "The marks on the two passages, which stand in Act 1, Scene 2 and in Act 3, Scene 1 of the libretto of 1879. A count of the Italian words for *forever* in that libretto: three times in the dialogue, once more in the prose argument. The meanings: the *Vocabolario Treccani* under *perdere*, *sempre*, *legge*, *vivere* and *finire*."
+    },
+    {
+     "kind": "beat",
+     "label": "Measure",
+     "meterName": "lines of eleven syllables and of seven: the last accent on the tenth or the sixth; an eleven has another on its fourth or sixth; the other stresses are free",
+     "scan": {
+      "0.0": {
+       "meter": "...../.../.",
+       "voice": "xx/x x / x / x /x",
+       "div": {
+        "0": "Ri|ve|lar|le",
+        "2": "dèi:"
+       }
+      },
+      "1.0": {
+       "meter": "...../.../.",
+       "voice": "x x /~ x x /~ ~ x xx/x",
+       "div": {
+        "2": "nuo|vo,",
+        "5": "sem|pre ;",
+        "8": "ab|ban|do|no"
+       }
+      },
+      "2.0": {
+       "meter": "...../.",
+       "voice": "x x /x x/x",
+       "div": {
+        "1": "tuo",
+        "2": "fie|ro",
+        "3": "de|sì|o"
+       }
+      },
+      "3.0": {
+       "meter": "...../.../.",
+       "voice": "xx/x x/ /x~ x/x",
+       "div": {
+        "0": "Sven|tu|ra|to",
+        "1": "vi|vrai.",
+        "2": "Pen|sa|ci:",
+        "3": "ad|di|o."
+       }
+      },
+      "p:0.0": {
+       "meter": ".../...../.",
+       "voice": "x /~ x/ /xx / x /x",
+       "div": {
+        "1": "chia|mo",
+        "2": "in|van.",
+        "3": "Mi|se|ro",
+        "6": "per|do,"
+       }
+      },
+      "p:0.1": {
+       "meter": "...../.../.",
+       "voice": "x x /~ x x /~ x /~ x /x",
+       "div": {
+        "2": "nuo|vo,",
+        "5": "sem|pre !",
+        "7": "leg|ge !",
+        "9": "mor|te !"
+       }
+      },
+      "p:0.2": {
+       "meter": "...../.../.",
+       "voice": "x x/x x/ x / x/x",
+       "div": {
+        "1": "ri|cor|do",
+        "2": "cru|del!",
+        "5": "soc|cor|so..."
+       }
+      },
+      "p:1.0": {
+       "meter": "...../.",
+       "voice": "x x/~ x x /x",
+       "div": {
+        "1": "fi|ni|sca",
+        "4": "sem|pre"
+       }
+      }
+     },
+     "caption": "Recitative is sung speech, and its verse is looser than an aria’s: lines of eleven syllables and some of seven, mostly without rhyme. Love’s four lines count eleven, eleven, seven, eleven, and one sentence runs through them, over three line ends. Orpheus’s three whole lines before the aria are elevens too; inside they break into short cries, and the vowels still run together across the stops. Of the lines shown whole only two rhyme, the last two of Love’s speech, <b>desìo</b> with <b>addio</b>: the rhyme closes the speech, and Love’s aria follows. Orpheus’s speech also ends on a rhymed pair, just before his aria.",
+     "why": "Calzabigi writes both speeches in the loose verse of recitative, elevens and sevens without rhyme, and marks the end of a speech with one rhymed pair; the eleven holds Love’s long sentence and Orpheus’s broken cries alike.",
+     "grounds": [
+      {
+       "claim": "the count of each whole line, the vowels that run together and the stresses",
+       "kind": "plate"
+      },
+      {
+       "claim": "recitative is a way of singing that follows the cadences of speech and makes no closed melody",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia on line, “recitativo”"
+      },
+      {
+       "claim": "the verse of recitative is more like prose, usually unrhymed lines of eleven; arias are strictly rhymed",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “melodramma, lingua del” (Fabio Rossi)"
+      },
+      {
+       "claim": "the line of eleven has its last stress on the tenth and another on the fourth or sixth, the rest free; the line of seven has its last stress on the sixth and is often joined with the eleven",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “versificazione” (Claudio Ciociola)"
+      },
+      {
+       "claim": "vowels run together across a pause",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “sinalefe” (definition by Sergio Bozzola)"
+      },
+      {
+       "claim": "one sentence of Love’s runs from before the first line shown to the middle of the fourth",
+       "kind": "text",
+       "source": "the libretto of 1879, Act 1, Scene 2, p. 9; o-orpheus/law rows 0.0-3.0"
+      },
+      {
+       "claim": "of the lines shown whole only the last two of Love’s speech rhyme, and Love’s aria follows them",
+       "kind": "text",
+       "source": "the plate (the last words of the eight whole rows); the libretto of 1879, pp. 9-10"
+      },
+      {
+       "claim": "Orpheus’s speech before the aria ends on a rhymed pair",
+       "kind": "text",
+       "source": "the libretto of 1879, p. 20, the two lines before the aria (not hosted)"
+      }
+     ],
+     "stands": "The marks on the two passages: each whole line counted. What recitative is, and how its verse differs from an aria’s: Treccani, under *recitativo*, and the *Enciclopedia dell’Italiano* under *melodramma, lingua del*, *versificazione* and *sinalefe*. That Love’s aria follows these lines, and that Orpheus’s speech ends on a rhymed pair before his: the libretto of 1879, pp. 9, 10 and 20.",
+     "points": [
+      {
+       "at": [
+        "1.0",
+        5,
+        7
+       ],
+       "say": "Three vowels meet here, across the semicolon, and count as one syllable."
+      },
+      {
+       "at": [
+        "2.0",
+        0,
+        3
+       ],
+       "say": "A line of seven among the elevens. The sentence runs on through it."
+      },
+      {
+       "at": [
+        "3.0",
+        3,
+        3
+       ],
+       "say": "The speech ends on a rhyme with the line before, the only rhyme in it. Love’s aria follows."
+      },
+      {
+       "at": [
+        "p:0.1",
+        5,
+        9
+       ],
+       "say": "Three cries in a row. The vowels run together across the first two exclamation marks, and the line still counts eleven."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "song",
+   "heading": "The song at the tomb",
+   "label": "Calzabigi’s Italian",
+   "text": "o-orpheus/call",
+   "rows": [
+    "0.0-0.2",
+    "1.0-1.2"
+   ],
+   "pair": {
+    "label": "Maggioni’s English",
+    "text": "orpheus/act-1",
+    "rows": [
+     "17.0-17.2",
+     "18.0-18.2"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "0.0": "a",
+      "0.1": "a",
+      "0.2": "b",
+      "1.0": "c",
+      "1.1": "c",
+      "1.2": "b"
+     },
+     "tails": {
+      "0.0": 1,
+      "0.1": 1,
+      "0.2": 4,
+      "1.0": 2,
+      "1.1": 2,
+      "1.2": 4
+     },
+     "why": "The strophe pairs the stopped rhymes that mark the canzonetta and keeps one rhyme waiting; Calzabigi puts the word answers where that rhyme closes, in all three strophes, and the first says that she does not answer.",
+     "caption": "Each half of the strophe, a stanza of the song, is two lines that rhyme at once and a third that waits: <b>così</b> with <b>dì</b>, then <b>asconde</b>; <b>dolor</b> with <b>cor</b>, then <b>risponde</b>, which rhymes with <b>asconde</b> three lines later. The four lines that rhyme at once stop on their last accent, and <b>dolor</b> and <b>cor</b> are words cut short, <i>dolore</i> and <i>core</i>: such rhymes are a mark of the <i>canzonetta</i>, a poem in short lines, usually set to music. The strophe’s one long reach of rhyme ends on <b>risponde</b>, answers. The sentence it closes says that she does not. The next two strophes end on the same word and the same rhyme.",
+     "grounds": [
+      {
+       "claim": "which lines rhyme, and how many letters carry each rhyme",
+       "kind": "plate"
+      },
+      {
+       "claim": "rhyme is identity of sound from the stressed vowel on; the stopped rhyme on a consonant (the type amor with cor) becomes characteristic of the ode-canzonetta, and the stopped rhyme on a vowel was mostly avoided before it",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “rima” (Claudio Ciociola)"
+      },
+      {
+       "claim": "a canzonetta is a poem in shorter lines, generally set to music; words cut short on a consonant at the end of a line are characteristic of it",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “canzonetta” and “troncamento”"
+      },
+      {
+       "claim": "dolor and cor are dolore and core with the last vowel dropped; core is a poetic form of cuore, heart",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “dolore”, “cuore” and “troncamento”"
+      },
+      {
+       "claim": "the sentence that the last rhyme closes says that the idol of his heart does not answer him",
+       "kind": "text",
+       "source": "the plate, rows 1.1 and 1.2; Vocabolario Treccani, “rispondere”, sense 1 a"
+      },
+      {
+       "claim": "the second and third strophes end on the same word and the same rhyme",
+       "kind": "text",
+       "source": "the libretto of 1879 (Milan: Ricordi), p. 8, seen in the page image; the Bologna libretto of 1771 has the same three strophes"
+      }
+     ],
+     "stands": "The marks on the passage. What rhyme is, and that stopped rhymes mark the canzonetta: Treccani, *Enciclopedia dell’Italiano*, under *rima*, and the *Vocabolario Treccani* under *canzonetta* and *troncamento*. The other two strophes: the libretto of 1879, p. 8. The meaning of *risponde*: the *Vocabolario* under *rispondere*."
+    },
+    {
+     "kind": "shape",
+     "label": "Strophes",
+     "what": "the three strophes of the song, and what answers in each",
+     "facts": {
+      "strophes": [
+       {
+        "n": 1,
+        "verb": "Chiamo",
+        "in English": "I call",
+        "setting": "when day shows itself and when it hides",
+        "answers": "she does not",
+        "says": "the idol of his heart does not answer him",
+        "last word": "risponde",
+        "rhymes": "*ì*, *onde*, *or*",
+        "shown": true
+       },
+       {
+        "n": 2,
+        "verb": "Cerco",
+        "in English": "I seek",
+        "setting": "on the shore where she died",
+        "answers": "Echo",
+        "says": "Echo alone answers his grief",
+        "last word": "risponde",
+        "rhymes": "*ì*, *onde*, *or*",
+        "shown": false
+       },
+       {
+        "n": 3,
+        "verb": "Piango",
+        "in English": "I weep",
+        "setting": "whether the sun gilds the day or goes into the waves",
+        "answers": "a brook",
+        "says": "a brook, pitying his tears, answers him",
+        "last word": "risponde",
+        "rhymes": "*ì*, *onde*, *io*",
+        "shown": false
+       }
+      ],
+      "every strophe": {
+       "lines": 6,
+       "syllables": "7, 7, 5, 7, 7, 5",
+       "how the sevens count": "by the place of the last accent: a line that stops on its stressed sixth syllable is still a seven, and four lines of the strophe shown do",
+       "rhyme": "a a b c c b",
+       "first line": "the same but for its verb",
+       "last word": "risponde, answers"
+      },
+      "between": [
+       {
+        "after": 1,
+        "recitative": "he calls her name twice and asks her shade where she is"
+       },
+       {
+        "after": 2,
+        "recitative": "he calls her name twice; the woods have learned it from him"
+       },
+       {
+        "after": 3,
+        "recitative": "he turns on the gods of the underworld and resolves to seek her there"
+       }
+      ],
+      "the verb for answering in the libretto": [
+       {
+        "place": "Act 1, the song, first strophe",
+        "who": "she does not answer"
+       },
+       {
+        "place": "Act 1, the song, second strophe",
+        "who": "Echo answers"
+       },
+       {
+        "place": "Act 1, the song, third strophe",
+        "who": "a brook answers"
+       },
+       {
+        "place": "Act 3, before the aria",
+        "who": "Eurydice orders Orpheus to answer"
+       },
+       {
+        "place": "Act 3, the aria",
+        "who": "Orpheus orders Eurydice to answer"
+       }
+      ],
+      "counted": "The three strophes read in the 1879 libretto (page image of p. 8 and both OCR texts) and in the Bologna libretto of 1771. Syllables of the first strophe proved with the checker in a scratch scan (parts/song-count.scratch.json): six counted syllables ending on the stress in the first, second, fourth and fifth lines (sevens that stop on their sixth), five in the third and sixth. The second strophe has the same build; in the third the fourth and fifth lines are full sevens with an unstressed last syllable. The verb for answer: UNC scan lines 307, 318, 330, 844, 1005; Bologna 1771 lines 346, 364, 377, 801, 918.",
+      "source": "Orfeo ed Euridice: azione drammatica (Milan: Ricordi, 1879), pp. 8, 17 and 20; Orfeo ed Euridice (Bologna: Sassi, 1771)",
+      "note": "Echo is named in the libretto; the capital is the libretto's."
+     },
+     "why": "Calzabigi ends all three strophes on the same word, answers, and in none of them does Eurydice answer; the verb returns twice in Act 3, last in the aria, where Orpheus orders her to.",
+     "caption": "The song has three strophes built alike, with recitative between. Each begins with the same line but for its verb: <b>Chiamo</b>, I call; then <i>Cerco</i>, I seek; then <i>Piango</i>, I weep. Each ends on <b>risponde</b>, answers, and on the same rhyme. The first says that she does not answer him. In the second Echo alone answers, in the third a brook. In the aria of Act 3 he orders her to answer, by name, and that is the last time the libretto uses the verb.",
+     "grounds": [
+      {
+       "claim": "the three strophes begin with the same line but for its verb and end on the same word and rhyme; the first says that she does not answer him, the second that Echo alone answers, the third that a brook answers",
+       "kind": "text",
+       "source": "the libretto of 1879 (Milan: Ricordi), p. 8, seen in the page image and read again by the examiner in the scan text (lines 302-330); the Bologna libretto of 1771 has the same three strophes. Echo is the libretto’s word, with its capital: the checker’s warning on it is a false alarm"
+      },
+      {
+       "claim": "recitative stands between the strophes",
+       "kind": "text",
+       "source": "the libretto of 1879, p. 8: the lines between the strophes are set flush left, in lines of eleven and seven"
+      },
+      {
+       "claim": "chiamare is to call, cercare to seek, piangere to weep or weep for, rispondere to answer",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “chiamare”, “cercare”, “piangere”, “rispondere”"
+      },
+      {
+       "claim": "the verb for answer stands five times in the libretto, and the aria’s is the last",
+       "kind": "text",
+       "source": "counted in both scans of the libretto of 1879 and in the Bologna libretto of 1771"
+      },
+      {
+       "claim": "a line of Italian verse is named from the place of its last stress, whatever follows it, and a seven has its last stress on the sixth syllable",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia dell’Italiano (2011), “versificazione” (Claudio Ciociola), read by the finisher on 2026-10-03 in the saved page: the last stressed position gives the line its nature and its name, which is the number of that position plus one and does not change with the unstressed syllables after it; the settenario has its last stress in the sixth position. This is the ground of the key how the sevens count in the facts, which the drawing prints in its key"
+      },
+      {
+       "claim": "in the aria he orders her to answer, by name",
+       "kind": "text",
+       "source": "o-orpheus/aria, row 2.0, on the first plate"
+      }
+     ],
+     "stands": "The three strophes as the libretto of 1879 prints them, p. 8; the first is the passage shown. A count of the verb *rispondere* in that libretto: five times, the aria’s the last. The meanings of *chiamare*, *cercare*, *piangere* and *rispondere*: the *Vocabolario Treccani*. How a line of verse is counted: the *Enciclopedia dell’Italiano* under *versificazione*."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "0.0",
+        0,
+        3
+       ],
+       "b": [
+        "p:17.0",
+        0,
+        5
+       ],
+       "say": "Calzabigi’s line is about her: *I call my good*, the one I love. The English line is said to her."
+      },
+      {
+       "a": [
+        "0.1",
+        4,
+        4
+       ],
+       "b": [
+        "p:17.1",
+        2,
+        2
+       ],
+       "say": "*Dì* is day: *when the day shows itself*. The English names the *sun*."
+      },
+      {
+       "a": [
+        "0.2",
+        2,
+        2
+       ],
+       "b": [
+        "p:17.2",
+        3,
+        3
+       ],
+       "say": "*Hides* becomes *fall*, which rhymes with the first English line. The Italian rhymes its first two lines."
+      },
+      {
+       "a": [
+        "1.0",
+        4,
+        4
+       ],
+       "b": [
+        "p:18.0",
+        3,
+        4
+       ],
+       "say": "*Grief* becomes *sighs*, the English rhyme word, with a second adjective before it."
+      },
+      {
+       "a": [
+        "1.1",
+        1,
+        4
+       ],
+       "b": [
+        "p:18.1",
+        1,
+        4
+       ],
+       "say": "Kept word for word."
+      },
+      {
+       "a": [
+        "1.2",
+        0,
+        2
+       ],
+       "b": [
+        "p:18.2",
+        0,
+        1
+       ],
+       "say": "The Italian says that she does not answer him. The English leaves him out and says *never*."
+      }
+     ],
+     "why": "Maggioni makes short English lines that rhyme in a pattern of his own, and the rhymes move the sense twice. His first line addresses her, as the Italian printed with it does; Calzabigi’s strophes speak about her.",
+     "caption": "The English is Manfredo Maggioni’s, from a libretto in both languages published for the Metropolitan Opera House. He keeps the short lines and in each half rhymes the first with the third: <i>call</i> with <i>fall</i>, <i>sighs</i> with <i>replies</i>. The rhymes move the sense in two places: <b>asconde</b>, hides, becomes <i>fall</i>, and <b>dolor</b>, grief, becomes <i>sighs</i>. His first line says <i>thee</i>, and so does the Italian printed with it in that libretto, a reworked text in four acts. Calzabigi’s line is about her, his <b>ben</b>, his good. In the three strophes Orpheus does not address her; he does that in the recitative between them, and in the aria of Act 3.",
+     "grounds": [
+      {
+       "claim": "which English words stand against which Italian words, and which English lines rhyme",
+       "kind": "plate"
+      },
+      {
+       "claim": "the English is Manfredo Maggioni’s, from the Italian and English libretto in four acts published by F. Rullman, New York, for the Metropolitan Opera House",
+       "kind": "text",
+       "source": "the title page of that libretto, read in the scan text (.cache/texts/ia_orfeoeeuridicely00glucuoft_djvu.txt, the front matter: a lyric play in four acts, the libretto edited and translated by Manfredo Maggioni); the note of the hosted text orpheus says the same"
+      },
+      {
+       "claim": "the Italian printed in that libretto beside the English is not Calzabigi’s in this strophe: its first line begins with the pronoun for thee and has another verb and another name for her, and its second and fourth lines differ too; its third, fifth and sixth lines are Calzabigi’s",
+       "kind": "text",
+       "source": "the Italian column of the same libretto, scan text lines 282-291 (not hosted); Calzabigi’s lines in the libretto of 1879, p. 8, and the Bologna libretto of 1771"
+      },
+      {
+       "claim": "Calzabigi’s libretto is in three acts",
+       "kind": "text",
+       "source": "the libretto of 1879 (Milan: Ricordi) and the Bologna libretto of 1771: the third act is the last"
+      },
+      {
+       "claim": "ascondere is to hide, dolore is pain or grief, dì is day, bene is what joy comes from and so the person loved, rispondere is to answer",
+       "kind": "source",
+       "source": "Vocabolario Treccani, “ascondere”, “dolore”, “dì”, “bene” (noun, sense 2 b), “rispondere”"
+      },
+      {
+       "claim": "in the three strophes Orpheus speaks about her; in the recitative between them he calls her by name and asks her shade where she is",
+       "kind": "text",
+       "source": "the libretto of 1879 (Milan: Ricordi), p. 8, read again in the scan text, lines 302-330"
+      },
+      {
+       "claim": "in the aria of Act 3 he addresses her",
+       "kind": "text",
+       "source": "o-orpheus/aria, rows 2.0 and 2.1, on the first plate"
+      }
+     ],
+     "stands": "The marks on the two versions. The English is [Maggioni’s](#/read/orpheus/act-1:17), from the libretto in Italian and English that F. Rullman of New York published for the Metropolitan Opera House; the Italian printed beside it there was read in a scan of that book. The meanings of the Italian words: the *Vocabolario Treccani*. Whom Orpheus addresses in the rest of the song: the libretto of 1879, p. 8."
+    }
+   ]
+  }
+ ],
+ "auden": [
+  {
+   "says": "No account of this opera by Auden has been found. The one place found where he names it is an essay of 1948 on the Greeks, and there it marks a date. He grants that, for sustained creative work in a single medium, the seventy-five years or so of Athenian drama are surpassed by the 125 years from Gluck’s *Orpheus* to Verdi’s *Otello*, which he calls “the golden age of European opera.” *Orpheus* stands first among the nine opera libretti on his list for the course.",
+   "source": "“The Greeks and Us” (1948), in *Forewords and Afterwords* (1973), p. 8",
+   "checked": "read in the scan text of Forewords and Afterwords (session scratchpad, research/auden/fa.txt, lines 410-418) and read again on 2026-10-03; the page counted from the essay’s title on p. 3 by the running heads (lines 171, 201, 250, 298, 350, 400). The date 1948 is from research note C, section 25. Read again by the examiner on 2026-10-03: the sentence opens section III of the essay and is the last of three things he grants before “nevertheless”; the book’s own note of first appearances (fa.txt, line 24916) gives the essay as the introduction to The Portable Greek Reader (New York: Viking, 1948). The four scans (The Dyer’s Hand, The Enchafèd Flood, Forewords and Afterwords, Pearce) were searched for the opera, its persons and Gluck: no other place names the opera. The place of Orpheus on the list of libretti: research note A, section 1.3 (it heads the left column of the typed list), site/data/course.json, and the image of the list itself, which the examiner fetched from blog.ayjay.org and read. Read again by the finisher on 2026-10-03 (fa.txt, lines 410-418; p. 8 by the contents page, which has the essay begin on p. 3, and the running heads at lines 171, 201, 250, 298, 350 and 400, the next at 448). The display quotation was taken out and his six words were set in quotation marks inside says: in display type, under the heading, they read as his verdict on this opera, and they are about 125 years of opera. “In one medium” became “in a single medium”, because with it the sentence ran five words with his (the scan misreads the first of the five). Tested with build/tools/runs.py against fa.txt: outside the quotation the longest run shared with his sentence is four words."
+  }
+ ],
+ "nextNote": "Calzabigi’s libretto has three acts. The English one printed here, Maggioni’s, has four, and the aria stands in its Act 4.",
+ "nextLinks": [
+  {
+   "label": "Orpheus and Eurydice, Act 1",
+   "text": "orpheus/act-1:0"
+  }
+ ],
+ "sources": [
+  "The text: Ranieri de’ Calzabigi, *Orfeo ed Euridice*, the libretto of Gluck’s opera (first performed in Vienna in 1762), in the Italian of the libretto that Ricordi printed in Milan for a performance at the Conservatory in the spring of 1879, compared with the libretto printed in Bologna in 1771 (Stamperia del Sassi). The English set beside it is from [the Italian and English libretto](#/read/orpheus) in four acts that F. Rullman of New York published for the Metropolitan Opera House, which names Manfredo Maggioni as editor and translator.",
+  "The score: Christoph Willibald Gluck, *Orpheus: Oper in drei Akten*, full score edited by Alfred Dörffel (Leipzig: C. F. Peters, undated; the editor’s foreword says he was given the work in 1866), no. 43, pp. 132–135, and that foreword.",
+  "Treccani, *Enciclopedia dell’Italiano* (2011): *versificazione* and *rima* (Claudio Ciociola), *sinalefe* (Sergio Bozzola and Luciano Romito), *melodramma, lingua del* (Fabio Rossi). Treccani, *Enciclopedia on line*: *recitativo*.",
+  "*Vocabolario Treccani* (treccani.it/vocabolario). For the verse: *ottonario*, *tronco*, *troncamento*, *canzonetta*, *rondò*, *futuro*, *imperativo*. For the words: *abbandono*, *ascondere*, *avanzare*, *bene*, *cercare*, *chiamare*, *cielo*, *consiglio*, *cuore*, *desio*, *dì*, *divieto*, *dolore*, *dovere*, *fedele*, *fiero*, *finire*, *infido*, *invano*, *legge*, *nuovo*, *patto*, *perdere*, *piangere*, *pure*, *rispondere*, *rivelare*, *sempre*, *senza*, *soccorso*, *sventurato*, *vita*, *vivere*.",
+  "Eduard Hanslick, *Vom Musikalisch-Schönen* (Leipzig: Rudolph Weigel, 1854; the example was added in the second edition, 1858, p. 25), chapter 2: what Boyé said of the aria, as Hanslick reports it.",
+  "Ernest Newman, *Gluck and the Opera* (London: Bertram Dobell, 1895), pp. 93–94 and 145: Gluck’s dedication of *Paride ed Elena* (1770) in English, and the key of the aria.",
+  "*Silva Rhetoricae* (rhetoric.byu.edu), under *apostrophe*.",
+  "Petrarch, *Canzoniere*, no. 268, line 32, in *Le rime*, edited by Giuseppe Salvo Cozzo (Florence: Sansoni, 1904), p. 259.",
+  "W. H. Auden, “The Greeks and Us” (1948), in *Forewords and Afterwords* (1973), p. 8.",
+  "The reading list for English 135, University of Michigan, 1941, as reproduced by Alan Jacobs, “Auden’s Syllabus” (blog.ayjay.org, October 1, 2012): the opera libretti."
+ ],
+ "caveats": [
+  "The Italian is Calzabigi’s libretto as Ricordi printed it in Milan in 1879, read by machine and checked against the printed pages and against a libretto printed in Bologna in 1771. No libretto or score printed in Vienna was seen.",
+  "That print has a wrong letter in the aria’s first line, which is shown here as the print gives it where the two opening lines return. The print sets the aria as four lines and three; the space after the second line is not the print’s.",
+  "The English is Manfredo Maggioni’s, from a libretto published for the Metropolitan Opera House, where it faces a reworked Italian text in four acts and the aria stands in Act 4; it does not always give Calzabigi’s sense.",
+  "The stresses marked are one reader’s hearing, and a few light stresses could fairly be marked otherwise; the counts follow the rule that vowels meeting between words count as one syllable, also across a stop.",
+  "The aria’s form and its seventy bars are those of Dörffel’s score for Peters, which follows the Paris version of 1774 with Orpheus’s part put back in its first range; this page was made without hearing the record on it. Boyé’s remark is known through Hanslick, Gluck’s through Newman’s English."
+ ],
+ "open": [
+  "The list under auden keeps one passing mention, against the letter of EXAMINER.md, test 5. The examiner kept it because an empty list would make the page say that nothing he wrote about this work was found (exam.md, section 6). Remove the entry to follow the rule to the letter. The finisher kept the paragraph, as the critic advised, took out its display quotation and set his six words in quotation marks inside it (notes.md, the last section).",
+  "Not on this machine, so not read: Lectures on Shakespeare, p. 310, and “Opera Addict” (Prose II, p. 401), which research note C, section 25, lists as naming Gluck, not this opera.",
+  "The hosted part o-orpheus/aria is cut from the Chapel Hill copy of the 1879 libretto, its first row from the line’s return (scan text line 1010). If the part is rebuilt from the first cut (kept in .src/aria.first-cut.json), the rows of the first passage will no longer fit. Its four blocks make the page set a space after the second line as well as the fourth; the print divides only after the fourth (a caveat says so).",
+  "Outside the words shown, the last word of o-orpheus/loss row 1.1 has a misread last letter (the print, p. 20, ends it in o): mend the hosted text before that row is shown whole. Row 0.3 is the print’s whole line; its second half begins a sentence that the part does not finish, so it is shown only to its third word.",
+  "Not seen: the Vienna libretto of 1762 and the score printed in 1764. The words stand on Bologna 1771 and Milan 1879, which agree in every word shown. In the aria’s fourth line Dörffel’s score sets the last word in its full form; the page follows the two librettos, which cut it short.",
+  "Not found: Maggioni’s dates, when his version was first printed, and whether he made it from Calzabigi’s Italian or from the reworked Italian printed beside it (scan text .cache/texts/ia_orfeoeeuridicely00glucuoft_djvu.txt, lines 282-312). The tab English says only what each text has. A pointer: the Internet Archive lists him as translator of librettos for the Royal Italian Opera, Covent Garden, dated 1847 to 1870, and has no print of his Orfeo earlier than Rullman’s.",
+  "The note of the hosted English text says the book gives no date. The scan has the Metropolitan Opera’s program for 29 November 1939 bound before the title page (Kerstin Thorborg as Orfeo), so the lead may want the note to say that this copy was sold in 1939.",
+  "The record that the build sets on the page (Sigrid Onegin, about 1922) was not heard: its language, its key and any cuts are unknown, and no caption describes it.",
+  "An artist was at work while the piece was examined: the examiner checked every value in the facts of the tabs Rondo and Strophes against the score and the libretto, and saw both drawings as they stood at 09:28 UTC, not the finished page. The key “the libretto prints”, which the artist’s module reads, was set by the lead at 11:42 UTC (notes.md): the print of 1879 sets lines 1 to 4 together, then 5 to 7, then 1 and 2 again (p. 20).",
+  "The checker’s one warning (Echo, in the caption of the tab Strophes) is a false alarm and the sentence stands: Echo is the libretto’s own word, with its capital, in the second strophe, which says that she alone answers (the libretto of 1879, p. 8; exam.md, section 9).",
+  "Set by the finisher, for the lead to look at (notes.md, the last section). Under Read on the page now prints a note and a link (the keys nextNote and nextLinks) in place of the key next, so that a few words say which libretto the link leads to; to undo it, put back the key next with the value orpheus/act-1:0 and take the two keys out. The fact about the two flats at the second Adagio is now a working note of its section in the facts of Rondo and is not printed. The Petrarch poem is no longer described on the tab Words: only what the dictionary says of the verb is left."
+ ]
+}

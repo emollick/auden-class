@@ -1,0 +1,73 @@
+# marks over and under letters that none of the three OCR texts gives (found by looking in the image above and below every letter)
+@10.19.6+1 facade => façade
+@29.17.0+1 Fraulein => Fräulein
+@30.9.5+1 Fraulein => Fräulein
+@36.25.4+1 Fraulein => Fräulein
+@37.2.2+1 Fraulein => Fräulein
+@37.26.8+1 Fraulein => Fräulein
+@54.4.4+1 grace => grâce
+@54.5.5+1 a => à
+@54.7.0+1 a => à
+@57.14.5+1 a => à
+@89.30.2+1 chateau, => château,
+@115.0.7+1 Frau- => Fräu-
+@116.23.7+1 naive => naïve
+@120.9.7+1 Fraulein => Fräulein
+@128.1.6+1 chateau => château
+@133.20.5+1 d'Alencon => d'Alençon
+@145.29.0+1 forde.' => förde.'
+@184.30.0+1 Chateau-Guyon. => Château-Guyon.
+@191.9.10+1 Soro => Sorö
+@192.19.8+1 Ohlen- => Öhlen-
+@192.20.0+1 schlager => schläger
+@198.5.3+1 Heloise => Heloïse
+@220.10.3+1 facade, => façade,
+@224.21.0+1 Heloise? => Heloïse?
+# the head of an entry, set in spaced small capitals: given in ordinary letters, with its accent
+@39.0.0+1 BIBLIOTHEQUE => Bibliothèque
+@39.0.1+1 NATIONALE => Nationale
+# words broken at a line end that keep their hyphen (the book does not have them elsewhere within a line)
+-11.14 fifty-nine
+-14.2 wolf-hounds
+-14.3 arm-chairs
+-24.3 man-about-town
+-31.23 farm-steading
+-44.20 good-naturedly
+-62.11 sign-boards
+-66.29 fruit-peel
+-68.24 half-suppressed
+-72.17 torture-chambers
+-74.17 fear-stricken
+-81.20 rock-strewn
+-85.3 writing-desk
+-86.6 candle-lit
+-94.20 dance-card
+-102.25 greenish-violet
+-121.25 love-letters
+-124.30 mourning-garment
+-133.30 pillow-lace
+-134.0 frost-flowers
+-135.28 sleigh-bells
+-142.15 good-humour
+-146.5 Saint-Germain
+-155.17 Master-of-the-Hunt's
+-158.29 over-rated
+-159.4 dried-up
+-166.28 twenty-five
+-171.23 window-blind
+-186.23 night-frost
+-187.17 half-immersed
+-189.14 ill-assorted
+-189.16 Well-dressed
+-189.18 puppet-master
+-190.26 half-an-hour
+-209.9 wide-stretching
+-211.14 Twenty-second
+-218.6 wash-basin
+-221.17 icon-screen
+-240.13 sitting-room
+@54.0.8+1 Ames => Âmes
+# misprints of the edition itself (all three scans and the image agree on what is printed)
+!191.25.7+1 chilhood => childhood | chilhood
+!61.2.2+2 n intend => n'entend | n'intend
+!54.5.6+1 moi-meme => moi-même | moi-meme

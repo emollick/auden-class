@@ -1,0 +1,479 @@
+# Paths that stand in the shared copy and no longer in the source: files moved or removed in the
+# source, which `sync.sh` cannot take out. Written by build/tools/sync-moved.py --manifest at
+# every sync. A working copy made from the shared folder is cleaned of them with
+#   python3 build/tools/sync-moved.py --restored <the working copy>
+# A second column names where the same content is kept (a move); none means it was removed.
+build/build.mjs	first-version/build/build.mjs
+build/lib/meetings.mjs	first-version/build/lib/meetings.mjs
+build/tools/apply-edits.py	first-version/build/tools/apply-edits.py
+build/tools/check-links.mjs	first-version/build/tools/check-links.mjs
+build/tools/check-part.mjs	first-version/build/tools/check-part.mjs
+build/tools/preview.mjs	first-version/build/tools/preview.mjs
+content/course.mjs	first-version/content/course.mjs
+content/door.mjs	first-version/content/door.mjs
+content/pages.mjs	first-version/content/pages.mjs
+content/pieces.mjs	first-version/content/pieces.mjs
+content/plates.mjs	first-version/content/plates.mjs
+content/ui.mjs	first-version/content/ui.mjs
+content/units/01.mjs	first-version/content/units/01.mjs
+content/units/02.mjs	first-version/content/units/02.mjs
+content/units/03.mjs	first-version/content/units/03.mjs
+content/units/04.mjs	first-version/content/units/04.mjs
+content/units/05.mjs	first-version/content/units/05.mjs
+content/units/06.mjs	first-version/content/units/06.mjs
+content/units/07.mjs	first-version/content/units/07.mjs
+content/units/08.mjs	first-version/content/units/08.mjs
+content/units/09.mjs	first-version/content/units/09.mjs
+content/units/10.mjs	first-version/content/units/10.mjs
+content/units/11.mjs	first-version/content/units/11.mjs
+content/units/12.mjs	first-version/content/units/12.mjs
+content/units/13.mjs	first-version/content/units/13.mjs
+content/units/14.mjs	first-version/content/units/14.mjs
+content/units/15.mjs	first-version/content/units/15.mjs
+content/units/meet/01.mjs	first-version/content/units/meet/01.mjs
+content/units/parts/02.mjs	first-version/content/units/parts/02.mjs
+content/units/parts/03.mjs	first-version/content/units/parts/03.mjs
+content/units/parts/03.words.mjs	first-version/content/units/parts/03.words.mjs
+content/units/parts/04.mjs	first-version/content/units/parts/04.mjs
+content/units/parts/05.mjs	first-version/content/units/parts/05.mjs
+content/units/parts/06.mjs	first-version/content/units/parts/06.mjs
+content/units/parts/07.mjs	first-version/content/units/parts/07.mjs
+content/units/parts/08.mjs	first-version/content/units/parts/08.mjs
+content/units/parts/09.mjs	first-version/content/units/parts/09.mjs
+content/units/parts/10.mjs	first-version/content/units/parts/10.mjs
+content/units/parts/11.mjs	first-version/content/units/parts/11.mjs
+content/units/parts/12.mjs	first-version/content/units/parts/12.mjs
+content/units/parts/13.mjs	first-version/content/units/parts/13.mjs
+content/units/parts/14.mjs	first-version/content/units/parts/14.mjs
+content/units/parts/15.mjs	first-version/content/units/parts/15.mjs
+content/units/parts/SETTER-BRIEF.md	first-version/content/units/parts/SETTER-BRIEF.md
+review/remake/last-pass/figures/lead/front-before.json	review/remake/last-pass/figures/front/front-before.json
+review/remake/last-pass/figures/lead/front-edits.json	review/remake/last-pass/figures/front/front-edits.json
+site/css/fonts.css	first-version/site/css/fonts.css
+site/css/main.css	first-version/site/css/main.css
+site/data/course.json	first-version/site/data/course.json
+site/data/texts/poems/campion-laura.json	first-version/site/data/texts/poems/campion-laura.json
+site/data/texts/poems/gray-elegy.json	first-version/site/data/texts/poems/gray-elegy.json
+site/data/ui.json	first-version/site/data/ui.json
+site/first.html	first-version/site/first.html
+site/fonts/LICENSE-courier-prime.txt	first-version/site/fonts/LICENSE-courier-prime.txt
+site/fonts/LICENSE.txt	first-version/site/fonts/LICENSE.txt
+site/fonts/courier-prime-italic-400-latin-ext.woff2	first-version/site/fonts/courier-prime-italic-400-latin-ext.woff2
+site/fonts/courier-prime-italic-400-latin.woff2	first-version/site/fonts/courier-prime-italic-400-latin.woff2
+site/fonts/courier-prime-normal-400-latin-ext.woff2	first-version/site/fonts/courier-prime-normal-400-latin-ext.woff2
+site/fonts/courier-prime-normal-400-latin.woff2	first-version/site/fonts/courier-prime-normal-400-latin.woff2
+site/fonts/courier-prime-normal-700-latin-ext.woff2	first-version/site/fonts/courier-prime-normal-700-latin-ext.woff2
+site/fonts/courier-prime-normal-700-latin.woff2	first-version/site/fonts/courier-prime-normal-700-latin.woff2
+site/fonts/source-serif-4-italic-200_900-latin-ext.woff2	first-version/site/fonts/source-serif-4-italic-200_900-latin-ext.woff2
+site/fonts/source-serif-4-italic-200_900-latin.woff2	first-version/site/fonts/source-serif-4-italic-200_900-latin.woff2
+site/fonts/source-serif-4-normal-200_900-latin-ext.woff2	first-version/site/fonts/source-serif-4-normal-200_900-latin-ext.woff2
+site/fonts/source-serif-4-normal-200_900-latin.woff2	first-version/site/fonts/source-serif-4-normal-200_900-latin.woff2
+site/js/app.js	first-version/site/js/app.js
+site/js/lib/checks.js	first-version/site/js/lib/checks.js
+site/js/lib/course.js	first-version/site/js/lib/course.js
+site/js/lib/dates.js	first-version/site/js/lib/dates.js
+site/js/lib/dom.js	first-version/site/js/lib/dom.js
+site/js/lib/heart.js	first-version/site/js/lib/heart.js
+site/js/lib/media.js	first-version/site/js/lib/media.js
+site/js/lib/render.js	first-version/site/js/lib/render.js
+site/js/lib/schedule.js	first-version/site/js/lib/schedule.js
+site/js/lib/store.js	first-version/site/js/lib/store.js
+site/js/lib/text.js	first-version/site/js/lib/text.js
+site/js/lib/texts.js	first-version/site/js/lib/texts.js
+site/js/views/about.js	first-version/site/js/views/about.js
+site/js/views/book.js	first-version/site/js/views/book.js
+site/js/views/emend.js	first-version/site/js/views/emend.js
+site/js/views/final.js	first-version/site/js/views/final.js
+site/js/views/frame.js	first-version/site/js/views/frame.js
+site/js/views/heart.js	first-version/site/js/views/heart.js
+site/js/views/home.js	first-version/site/js/views/home.js
+site/js/views/making.js	first-version/site/js/views/making.js
+site/js/views/meeting.js	first-version/site/js/views/meeting.js
+site/js/views/question.js	first-version/site/js/views/question.js
+site/js/views/reader.js	first-version/site/js/views/reader.js
+site/js/views/syllabus.js	first-version/site/js/views/syllabus.js
+site/js/views/term.js	first-version/site/js/views/term.js
+site/js/views/test.js	first-version/site/js/views/test.js
+site/js/views/words.js	first-version/site/js/views/words.js
+site/plates/corot-orpheus.jpg	first-version/site/plates/corot-orpheus.jpg
+site/plates/dore-inf01-dark-wood.jpg	first-version/site/plates/dore-inf01-dark-wood.jpg
+site/plates/dore-inf03-acheron-crowd.jpg	first-version/site/plates/dore-inf03-acheron-crowd.jpg
+site/plates/dore-inf03-charon.jpg	first-version/site/plates/dore-inf03-charon.jpg
+site/plates/dore-inf03-gate.jpg	first-version/site/plates/dore-inf03-gate.jpg
+site/plates/dore-inf05-minos.jpg	first-version/site/plates/dore-inf05-minos.jpg
+site/plates/dore-inf05-paolo-francesca.jpg	first-version/site/plates/dore-inf05-paolo-francesca.jpg
+site/plates/dore-inf05-whirlwind.jpg	first-version/site/plates/dore-inf05-whirlwind.jpg
+site/plates/dore-inf26-flames.jpg	first-version/site/plates/dore-inf26-flames.jpg
+site/plates/dore-inf34-satan.jpg	first-version/site/plates/dore-inf34-satan.jpg
+site/plates/dore-inf34-stars.jpg	first-version/site/plates/dore-inf34-stars.jpg
+site/plates/dore-par31-enthroned-in-the-rose.jpg	first-version/site/plates/dore-par31-enthroned-in-the-rose.jpg
+site/plates/dore-par31-white-rose.jpg	first-version/site/plates/dore-par31-white-rose.jpg
+site/plates/dore-purg02-angel-boat.jpg	first-version/site/plates/dore-purg02-angel-boat.jpg
+site/plates/dore-purg02-souls-landing.jpg	first-version/site/plates/dore-purg02-souls-landing.jpg
+site/plates/dore-purg09-gate.jpg	first-version/site/plates/dore-purg09-gate.jpg
+site/plates/dore-purg27-leah-flowers.jpg	first-version/site/plates/dore-purg27-leah-flowers.jpg
+site/plates/dore-purg28-earthly-paradise.jpg	first-version/site/plates/dore-purg28-earthly-paradise.jpg
+site/plates/dore-purg31-matilda-lethe.jpg	first-version/site/plates/dore-purg31-matilda-lethe.jpg
+tests/checks.test.mjs	first-version/tests/checks.test.mjs
+tests/copy.test.mjs	first-version/tests/copy.test.mjs
+tests/heart.test.mjs	first-version/tests/heart.test.mjs
+tests/pieces.test.mjs	first-version/tests/pieces.test.mjs
+tests/saving.test.mjs	first-version/tests/saving.test.mjs
+tests/schedule.test.mjs	first-version/tests/schedule.test.mjs
+tests/text.test.mjs	first-version/tests/text.test.mjs
+tests/texts.test.mjs	first-version/tests/texts.test.mjs
+build/texts/rilke-tools/__pycache__/abbyy.cpython-311.pyc
+build/texts/rilke-tools/__pycache__/accents.cpython-311.pyc
+build/texts/rilke-tools/__pycache__/fixed.cpython-311.pyc
+build/texts/rilke-tools/__pycache__/ocrxml.cpython-311.pyc
+build/texts/rilke-tools/__pycache__/wordlist.cpython-311.pyc
+chain-114-f.out
+remake/kit8/shots/2d/after/fidelio-answer-0-versions-1280.png
+remake/kit8/shots/2d/after/fidelio-name-1-beat-1280.png
+remake/kit8/shots/2d/after/phedre-slip-0-ear-1280.png
+remake/kit8/shots/2d/after/phedre-slip-3-english-1280.png
+remake/kit8/shots/2d/before/fidelio-answer-0-versions-1280.png
+remake/kit8/shots/2d/before/fidelio-name-1-beat-1280.png
+remake/kit8/shots/2d/before/phedre-slip-0-ear-1280.png
+remake/kit8/shots/2d/before/phedre-slip-3-english-1280.png
+remake/kit8/shots/2d/diff/don-giovanni-count-1-rhyme-1024.png
+remake/kit8/shots/2d/diff/don-giovanni-count-2-words-1280.png
+remake/kit8/shots/2d/diff/fidelio-answer-0-versions-1280.png
+remake/kit8/shots/2d/diff/fidelio-name-1-beat-1280.png
+remake/kit8/shots/2d/diff/phedre-slip-0-ear-1280.png
+remake/kit8/shots/2d/diff/phedre-slip-3-english-1280.png
+remake/works/adams/shots/beside/beside-dynamo-0-likeness-1024.png
+remake/works/adams/shots/beside/beside-dynamo-0-likeness-1280.png
+remake/works/adams/shots/beside/beside-dynamo-0-likeness-390-part0.png
+remake/works/adams/shots/beside/beside-dynamo-0-likeness-390-part1.png
+remake/works/adams/shots/beside/beside-dynamo-0-likeness-390-part2.png
+remake/works/adams/shots/beside/beside-dynamo-0-likeness-390-part3.png
+remake/works/adams/shots/beside/beside-dynamo-0-likeness-390.png
+remake/works/adams/shots/beside/beside-dynamo-0-likeness-768.png
+remake/works/adams/shots/beside/beside-dynamo-1-sentence-1024.png
+remake/works/adams/shots/beside/beside-dynamo-1-sentence-1280.png
+remake/works/adams/shots/beside/beside-dynamo-1-sentence-390-part0.png
+remake/works/adams/shots/beside/beside-dynamo-1-sentence-390-part1.png
+remake/works/adams/shots/beside/beside-dynamo-1-sentence-390-part2.png
+remake/works/adams/shots/beside/beside-dynamo-1-sentence-390.png
+remake/works/adams/shots/beside/beside-dynamo-1-sentence-768.png
+remake/works/adams/shots/beside/beside-dynamo-2-level-1024.png
+remake/works/adams/shots/beside/beside-dynamo-2-level-1280.png
+remake/works/adams/shots/beside/beside-dynamo-2-level-390-part0.png
+remake/works/adams/shots/beside/beside-dynamo-2-level-390-part1.png
+remake/works/adams/shots/beside/beside-dynamo-2-level-390-part2.png
+remake/works/adams/shots/beside/beside-dynamo-2-level-390.png
+remake/works/adams/shots/beside/beside-dynamo-2-level-768.png
+remake/works/adams/shots/beside/beside-dynamo-3-force-1024.png
+remake/works/adams/shots/beside/beside-dynamo-3-force-1280.png
+remake/works/adams/shots/beside/beside-dynamo-3-force-390-part0.png
+remake/works/adams/shots/beside/beside-dynamo-3-force-390-part1.png
+remake/works/adams/shots/beside/beside-dynamo-3-force-390.png
+remake/works/adams/shots/beside/beside-dynamo-3-force-768.png
+remake/works/adams/shots/crops/adams-dynamo-1-sentence-390-part3.png
+remake/works/adams/shots/crops/zoom-italic-capital-a-390.png
+remake/works/adams/shots/crops/zoom-level-pair-390.png
+remake/works/adams/shots/crops/zoom-pair-1280.png
+remake/works/adams/shots/crops/zoom-proposed-book-tap-390.png
+remake/works/adams/shots/crops/zoom-proposed-force-open-390.png
+remake/works/adams/shots/crops/zoom-proposed-force-tap-390.png
+remake/works/adams/shots/crops/zoom-sources-open-390-b.png
+remake/works/adams/shots/crops/zoom-sources-open-390.png
+remake/works/adams/shots/crops/zoom-ties-390.png
+remake/works/adams/shots/crops/zoom-who-him-1280.png
+remake/works/adams/shots/proposed/proposed-born-2-pointer-on-21-1280.png
+remake/works/adams/shots/proposed/proposed-born-2-pointer-on-5-1280.png
+remake/works/adams/shots/proposed/proposed-dynamo-3-pointer-on-32-1280.png
+remake/works/adams/shots/proposed/proposed-dynamo-3-pointer-on-49-1280.png
+remake/works/adams/shots/round1/adams-born-0-order-390-part0.png
+remake/works/adams/shots/round1/adams-born-0-order-390-part1.png
+remake/works/adams/shots/round1/adams-born-1-tense-390-part0.png
+remake/works/adams/shots/round1/adams-born-1-tense-390-part1.png
+remake/works/adams/shots/round1/adams-born-2-book-390-part0.png
+remake/works/adams/shots/round1/adams-born-2-book-390-part1.png
+remake/works/adams/shots/round1/adams-dynamo-0-likeness-390-part0.png
+remake/works/adams/shots/round1/adams-dynamo-0-likeness-390-part1.png
+remake/works/adams/shots/round1/adams-dynamo-0-likeness-390-part2.png
+remake/works/adams/shots/round1/adams-dynamo-1-sentence-390-part0.png
+remake/works/adams/shots/round1/adams-dynamo-1-sentence-390-part1.png
+remake/works/adams/shots/round1/adams-dynamo-1-sentence-390-part2.png
+remake/works/adams/shots/round1/adams-dynamo-2-level-390-part0.png
+remake/works/adams/shots/round1/adams-dynamo-2-level-390-part1.png
+remake/works/adams/shots/round1/adams-dynamo-2-level-390-part2.png
+remake/works/adams/shots/round1/adams-page-390-0-a.png
+remake/works/adams/shots/round1/adams-page-390-0-b.png
+remake/works/adams/shots/round1/adams-page-390-1-a.png
+remake/works/adams/shots/round1/adams-page-390-1-b.png
+remake/works/adams/shots/round1/adams-page-390-2-a.png
+remake/works/adams/shots/round1/adams-page-390-2-b.png
+remake/works/adams/shots/round1/adams-page-390-3-a.png
+remake/works/adams/shots/round1/adams-page-390-3-b.png
+remake/works/adams/shots/round1/adams-page-390-4-a.png
+remake/works/adams/shots/round1/adams-page-390-4-b.png
+remake/works/adams/shots/round1/adams-page-390-5-a.png
+remake/works/adams/shots/round1/adams-page-390-5-b.png
+remake/works/adams/shots/round1/adams-sister-0-who-390-part0.png
+remake/works/adams/shots/round1/adams-sister-0-who-390-part1.png
+remake/works/adams/shots/round1/adams-sister-1-pair-390-part0.png
+remake/works/adams/shots/round1/adams-sister-1-pair-390-part1.png
+remake/works/adams/shots/round1/adams-sister-1-pair-390-part2.png
+remake/works/adams/shots/round1/adams-sister-2-nature-390-part0.png
+remake/works/adams/shots/round1/adams-sister-2-nature-390-part1.png
+remake/works/adams/shots/round1/adams-sister-3-word-390-part0.png
+remake/works/adams/shots/round1/adams-sister-3-word-390-part1.png
+remake/works/adams/shots/round1/zoom-book-key-1280.png
+remake/works/adams/shots/round1/zoom-book-key-900.png
+remake/works/adams/shots/round1/zoom-level-pair-390.png
+remake/works/adams/shots/round1/zoom-ties-390.png
+remake/works/adams/shots/widths/adams-born-2-book-1024.png
+remake/works/adams/shots/widths/adams-born-2-book-320.png
+remake/works/adams/shots/widths/adams-born-2-book-600.png
+remake/works/adams/shots/widths/adams-born-2-book-768.png
+remake/works/adams/shots/widths/adams-born-2-book-900.png
+remake/works/adams/shots/widths/adams-dynamo-3-force-1024.png
+remake/works/adams/shots/widths/adams-dynamo-3-force-320.png
+remake/works/adams/shots/widths/adams-dynamo-3-force-600.png
+remake/works/adams/shots/widths/adams-dynamo-3-force-768.png
+remake/works/adams/shots/widths/adams-dynamo-3-force-900.png
+remake/works/baudelaire/tmp/artiste_revue.txt
+remake/works/baudelaire/tmp/build2.py
+remake/works/baudelaire/tmp/build_reading.py
+remake/works/baudelaire/tmp/etym.py
+remake/works/baudelaire/tmp/etym_agape.txt
+remake/works/baudelaire/tmp/etym_charity.txt
+remake/works/baudelaire/tmp/etym_dandy.txt
+remake/works/baudelaire/tmp/etym_hygiene.txt
+remake/works/baudelaire/tmp/etym_hysteria.txt
+remake/works/baudelaire/tmp/etym_imbecility.txt
+remake/works/baudelaire/tmp/etym_infinitive.txt
+remake/works/baudelaire/tmp/etym_metaphor.txt
+remake/works/baudelaire/tmp/etym_nightmare.txt
+remake/works/baudelaire/tmp/etym_oxymoron.txt
+remake/works/baudelaire/tmp/etym_sang_froid.txt
+remake/works/baudelaire/tmp/etym_simile.txt
+remake/works/baudelaire/tmp/etym_vertigo.txt
+remake/works/baudelaire/tmp/fts.py
+remake/works/baudelaire/tmp/fusees_1908.html
+remake/works/baudelaire/tmp/fusees_1908.txt
+remake/works/baudelaire/tmp/gouffre_1868.html
+remake/works/baudelaire/tmp/gouffre_1868.txt
+remake/works/baudelaire/tmp/gouffre_oeuvre.html
+remake/works/baudelaire/tmp/littre.py
+remake/works/baudelaire/tmp/littre_avertissement.txt
+remake/works/baudelaire/tmp/littre_bercer.txt
+remake/works/baudelaire/tmp/littre_cauchemar.html
+remake/works/baudelaire/tmp/littre_charité.txt
+remake/works/baudelaire/tmp/littre_conscience.txt
+remake/works/baudelaire/tmp/littre_cultiver.txt
+remake/works/baudelaire/tmp/littre_dandy.txt
+remake/works/baudelaire/tmp/littre_dandysme.txt
+remake/works/baudelaire/tmp/littre_dater.txt
+remake/works/baudelaire/tmp/littre_destinée.txt
+remake/works/baudelaire/tmp/littre_enivrer.txt
+remake/works/baudelaire/tmp/littre_extra_terrestre.txt
+remake/works/baudelaire/tmp/littre_fou.txt
+remake/works/baudelaire/tmp/littre_gouffre.txt
+remake/works/baudelaire/tmp/littre_home.html
+remake/works/baudelaire/tmp/littre_hygiène.txt
+remake/works/baudelaire/tmp/littre_hystérie.txt
+remake/works/baudelaire/tmp/littre_imbécile.txt
+remake/works/baudelaire/tmp/littre_imbécillité.txt
+remake/works/baudelaire/tmp/littre_infinitif.txt
+remake/works/baudelaire/tmp/littre_sang_froid.txt
+remake/works/baudelaire/tmp/littre_singulier.txt
+remake/works/baudelaire/tmp/littre_subir.txt
+remake/works/baudelaire/tmp/littre_supposer.txt
+remake/works/baudelaire/tmp/littre_user.txt
+remake/works/baudelaire/tmp/littre_vertige.txt
+remake/works/baudelaire/tmp/littre_écraser.txt
+remake/works/baudelaire/tmp/mcmn_1908.html
+remake/works/baudelaire/tmp/mcmn_1908.txt
+remake/works/baudelaire/tmp/pg22600.txt
+remake/works/baudelaire/tmp/pg37134.txt
+remake/works/baudelaire/tmp/wp_baudelaire.txt
+remake/works/blake/shots/close/blake-creed-0-answer-1280-all.png
+remake/works/blake/shots/close/blake-creed-0-answer-1280-second-4.png
+remake/works/blake/shots/close/blake-creed-0-answer-1280-second-5.png
+remake/works/blake/shots/close/blake-creed-0-answer-1280-second-6.png
+remake/works/blake/shots/close/blake-creed-0-answer-1280-second-7.png
+remake/works/blake/shots/close/blake-creed-1-grammar-1280-all.png
+remake/works/blake/shots/close/blake-creed-1-grammar-1280-second-4.png
+remake/works/blake/shots/close/blake-creed-1-grammar-1280-second-5.png
+remake/works/blake/shots/close/blake-creed-1-grammar-1280-second-6.png
+remake/works/blake/shots/close/blake-creed-1-grammar-1280-second-7.png
+remake/works/blake/shots/close/blake-creed-2-words-1280-all.png
+remake/works/blake/shots/close/blake-creed-2-words-1280-second-4.png
+remake/works/blake/shots/close/blake-creed-2-words-1280-second-5.png
+remake/works/blake/shots/close/blake-creed-2-words-1280-second-6.png
+remake/works/blake/shots/close/blake-creed-2-words-1280-second-7.png
+remake/works/blake/shots/close/zoom/frame-1280-row2-left.png
+remake/works/blake/shots/close/zoom/frame-1280-row3-mid.png
+remake/works/blake/shots/close/zoom/frame-1280-row3.png
+remake/works/blake/shots/close/zoom/frame-1280-row4-left.png
+remake/works/blake/shots/close/zoom/frame-390-row3-mid.png
+remake/works/blake/shots/close/zoom/frame-390-row3.png
+remake/works/blake/shots/close/zoom/frame-390-row4-end.png
+remake/works/blake/shots/close/zoom/frame-390-row4-left.png
+remake/works/blake/shots/close/zoom/grammar-1280-13-end.png
+remake/works/blake/shots/close/zoom/grammar-1280-p17-end.png
+remake/works/blake/shots/close/zoom/sources-390-a.png
+remake/works/blake/shots/close/zoom/sources-390-b.png
+remake/works/blake/shots/close/zoom/sources-390-c.png
+remake/works/blake/shots/close/zoom/yoke-1280-row1.png
+remake/works/blake/shots/close/zoom/yoke-390-row1.png
+remake/works/blake/shots/try/blake-creed-0-answer-1280-level.png
+remake/works/blake/shots/try/blake-creed-1-grammar-1280-level.png
+remake/works/blake/shots/try/blake-creed-2-words-1280-level.png
+remake/works/blake/shots/try/blake-creed-2-words-1280-slide.png
+remake/works/blake/shots/try/blake-creed-2-words-390-slide.png
+remake/works/blake/shots/try/blake-proverbs-3-words-1280-slide.png
+remake/works/blake/shots/try/blake-proverbs-3-words-390-slide.png
+remake/works/blake/shots/try/blake-sentence-0-beat-1280-numd.png
+remake/works/blake/shots/try/blake-sentence-0-beat-390-numd.png
+remake/works/blake/shots/try/blake-sentence-1-question-1280-numd.png
+remake/works/blake/shots/try/blake-sentence-1-question-390-numd.png
+remake/works/blake/shots/try/blake-sentence-2-words-1280-numd.png
+remake/works/blake/shots/try/blake-sentence-2-words-1280-slide.png
+remake/works/blake/shots/try/blake-sentence-2-words-390-numd.png
+remake/works/blake/shots/try/blake-sentence-2-words-390-slide.png
+remake/works/blake/try/_probe.mjs
+remake/works/blake/try/balance.css
+remake/works/blake/try/creed.css
+remake/works/blake/try/level.css
+remake/works/blake/try/numd.css
+remake/works/blake/try/wide.css
+remake/works/dante-purgatorio/shots/dante-purgatorio-share-3-translation-1280.png
+remake/works/dante-purgatorio/shots/dante-purgatorio-share-3-translation-390.png
+remake/works/hamlet/shots/extra/kit-crossing-1280-close.png
+remake/works/hamlet/shots/extra/kit-crossing-390-close.png
+remake/works/hamlet/shots/extra/kit-lines-early-adams-born-tab3-1280-at-1000ms.png
+remake/works/hamlet/shots/extra/kit-lines-early-adams-born-tab3-1280-at-3500ms.png
+remake/works/hamlet/shots/extra/kit-lines-early-adams-born-tab3-1280-at-500ms.png
+remake/works/hamlet/shots/extra/kit-tabs-wrap-320.png
+remake/works/hamlet/shots/extra/kit-verbs-1280-close.png
+remake/works/hamlet/shots/extra/shape-1280-at-1400ms.png
+remake/works/hamlet/shots/extra/shape-1280-at-3000ms.png
+remake/works/hamlet/shots/extra/shape-1280-at-500ms.png
+remake/works/hamlet/shots/hamlet-page-1280-5.png
+remake/works/karamazov/tmp/blk.mjs
+remake/works/karamazov/tmp/counts.mjs
+remake/works/karamazov/tmp/ctx.mjs
+remake/works/karamazov/tmp/ety.py
+remake/works/karamazov/tmp/ety_adhere.html
+remake/works/karamazov/tmp/ety_answer.html
+remake/works/karamazov/tmp/ety_glow.html
+remake/works/karamazov/tmp/ety_heresy.html
+remake/works/karamazov/tmp/ety_heretic.html
+remake/works/karamazov/tmp/ety_hinder.html
+remake/works/karamazov/tmp/ety_mystery.html
+remake/works/karamazov/tmp/ety_plagiarism.html
+remake/works/karamazov/tmp/ety_semblance.html
+remake/works/karamazov/tmp/ety_thou.html
+remake/works/karamazov/tmp/gen.mjs
+remake/works/karamazov/tmp/ilibrary_p37.html
+remake/works/karamazov/tmp/kjv_luke_4_1_13.json
+remake/works/karamazov/tmp/kjv_mark_5_41.json
+remake/works/karamazov/tmp/kjv_matthew_4_1_11.json
+remake/works/karamazov/tmp/kjv_revelation_17_3_5.json
+remake/works/karamazov/tmp/ls_dico2.html
+remake/works/karamazov/tmp/mw_thou.html
+remake/works/karamazov/tmp/paragraphs.json
+remake/works/karamazov/tmp/plan.mjs
+remake/works/karamazov/tmp/plan2.mjs
+remake/works/karamazov/tmp/ru_wikisource.html
+remake/works/karamazov/tmp/ru_ws.txt
+remake/works/karamazov/tmp/sent.mjs
+remake/works/karamazov/tmp/sent2.mjs
+remake/works/karamazov/tmp/silva_anthypophora.htm
+remake/works/karamazov/tmp/silva_apostrophe.htm
+remake/works/karamazov/tmp/silva_hypophora.htm
+remake/works/karamazov/tmp/voices.mjs
+remake/works/karamazov/tmp/wikt.py
+remake/works/karamazov/tmp/wikt_воровство.html
+remake/works/karamazov/tmp/wikt_гореть.html
+remake/works/karamazov/tmp/wikt_губа.html
+remake/works/karamazov/tmp/wikt_девяностолетний.html
+remake/works/karamazov/tmp/wikt_еретик.html
+remake/works/karamazov/tmp/wikt_кроткий.html
+remake/works/karamazov/tmp/wikt_кротко.html
+remake/works/karamazov/tmp/wikt_мешать.html
+remake/works/karamazov/tmp/wikt_молча.html
+remake/works/karamazov/tmp/wikt_ответ.html
+remake/works/karamazov/tmp/wikt_подобие.html
+remake/works/karamazov/tmp/wikt_поцелуй.html
+remake/works/karamazov/tmp/wikt_стогна.html
+remake/works/karamazov/tmp/wikt_тайна.html
+remake/works/karamazov/tmp/wikt_тихо.html
+remake/works/karamazov/tmp/wikt_ты.html
+remake/works/karamazov/tmp/wikt_уста.html
+remake/works/karamazov/tmp/wikt_целовать.html
+remake/works/karamazov/tmp/ws_api.json
+remake/works/kierkegaard/tmp/d_93.jpg
+remake/works/kierkegaard/tmp/d_93_top.jpg
+remake/works/kierkegaard/tmp/d_94.jpg
+remake/works/kierkegaard/tmp/d_94_top.jpg
+remake/works/kierkegaard/tmp/d_95.jpg
+remake/works/kierkegaard/tmp/d_95_top.jpg
+remake/works/kierkegaard/tmp/d_96.jpg
+remake/works/kierkegaard/tmp/d_96_s.jpg
+remake/works/kierkegaard/tmp/d_97.jpg
+remake/works/kierkegaard/tmp/d_97_s.jpg
+remake/works/kierkegaard/tmp/d_tops.jpg
+remake/works/kierkegaard/tmp/ety.sh
+remake/works/kierkegaard/tmp/fb.html
+remake/works/kierkegaard/tmp/fb.txt
+remake/works/kierkegaard/tmp/fb_clean.txt
+remake/works/kierkegaard/tmp/fbkom.html
+remake/works/kierkegaard/tmp/fbkom.json
+remake/works/kierkegaard/tmp/ferrall.txt
+remake/works/kierkegaard/tmp/fr2_221_a.jpg
+remake/works/kierkegaard/tmp/fr2_221_b.jpg
+remake/works/kierkegaard/tmp/fr2_221_c.jpg
+remake/works/kierkegaard/tmp/fr2_345_a.jpg
+remake/works/kierkegaard/tmp/fr2_345_b.jpg
+remake/works/kierkegaard/tmp/fr2_345_c.jpg
+remake/works/kierkegaard/tmp/fr2_67_a.jpg
+remake/works/kierkegaard/tmp/fr2_67_b.jpg
+remake/works/kierkegaard/tmp/fr2_67_c.jpg
+remake/works/kierkegaard/tmp/fr2_67_left.jpg
+remake/works/kierkegaard/tmp/fr2_67_right.jpg
+remake/works/kierkegaard/tmp/fr2_n221.jpg
+remake/works/kierkegaard/tmp/fr2_n345.jpg
+remake/works/kierkegaard/tmp/fr2_n67.jpg
+remake/works/kierkegaard/tmp/fr_338.jpg
+remake/works/kierkegaard/tmp/fr_n337.jpg
+remake/works/kierkegaard/tmp/fr_n337_small.jpg
+remake/works/kierkegaard/tmp/fr_n338.jpg
+remake/works/kierkegaard/tmp/fr_n338_small.jpg
+remake/works/kierkegaard/tmp/h_160.jpg
+remake/works/kierkegaard/tmp/h_160_top.jpg
+remake/works/kierkegaard/tmp/h_164.jpg
+remake/works/kierkegaard/tmp/h_164_top.jpg
+remake/works/kierkegaard/tmp/h_168.jpg
+remake/works/kierkegaard/tmp/h_168_top.jpg
+remake/works/kierkegaard/tmp/h_172.jpg
+remake/works/kierkegaard/tmp/h_172_top.jpg
+remake/works/kierkegaard/tmp/h_176.jpg
+remake/works/kierkegaard/tmp/h_176_top.jpg
+remake/works/kierkegaard/tmp/h_tops.jpg
+remake/works/kierkegaard/tmp/hh_163.jpg
+remake/works/kierkegaard/tmp/hh_163_top.jpg
+remake/works/kierkegaard/tmp/hh_164.jpg
+remake/works/kierkegaard/tmp/hh_164_top.jpg
+remake/works/kierkegaard/tmp/hh_165.jpg
+remake/works/kierkegaard/tmp/hh_165_top.jpg
+remake/works/kierkegaard/tmp/hh_tops.jpg
+remake/works/kierkegaard/tmp/kjv.txt
+remake/works/kierkegaard/tmp/ods_held.html
+remake/works/kierkegaard/tmp/silva.sh
+remake/works/moby-dick/shots/zoom-rachel-sentence.png
+remake/works/pascal/_head.json
+remake/works/pascal/_plate1.json
+remake/works/pascal/_plate2.json
+remake/works/pascal/_plate3.json
+remake/works/pascal/_tail.json
+remake/works/tempest/shots/tempest-page-390-7.png
+remake/works/volpone/reading.json.tmp.107.3ff694007dbd
+review/remake/last-pass/figures/__pycache__/tabs.cpython-311.pyc
+site/js/views/ledger.js
+site/js/views/notebook.js

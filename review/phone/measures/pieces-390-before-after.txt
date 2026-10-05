@@ -1,0 +1,482 @@
+adams-born-0-order-390  716x2334  3.59%  box x 22..691 y 83..1471  left 59977 right 0
+adams-born-1-tense-390  716x2470  1.24%  box x 24..691 y 83..2374  left 21983 right 0
+adams-born-2-book-390  716x1890  0.84%  box x 24..691 y 83..1143  left 11371 right 0
+adams-dynamo-2-felt-390  716x4098 -> 716x4138  SIZE  3.47%  box x 0..715 y 3435..4097  left 101694 right 20
+adams-page-390-5  780x2800  8.31%  box x 0..779 y 439..2798  left 178854 right 2642
+adams-page-390-6  780x188 -> 780x186  SIZE  5.11%  box x 31..535 y 9..95  left 7418 right 0
+adams-sister-3-word-390  716x2896 -> 716x3006  SIZE  4.16%  box x 0..715 y 2371..2895  left 86140 right 19
+agamemnon-cloth-0-figure-390  716x3006  6.43%  box x 0..715 y 0..3005  left 138310 right 59
+agamemnon-cloth-1-sentence-390  716x2758 -> 716x2756  SIZE  7.99%  box x 0..715 y 0..2616  left 157562 right 30
+agamemnon-cloth-2-word-390  716x3190 -> 716x3228  SIZE  9.35%  box x 0..715 y 0..3189  left 213403 right 45
+agamemnon-net-0-figure-390  716x1634  2.84%  box x 0..715 y 0..1633  left 33225 right 59
+agamemnon-net-1-play-390  716x2120 -> 716x2118  SIZE  3.56%  box x 0..715 y 0..2062  left 53902 right 30
+agamemnon-net-2-word-390  716x2112 -> 716x2154  SIZE  9.49%  box x 0..715 y 0..2111  left 143396 right 50
+agamemnon-page-390-4  780x2800  6.28%  box x 38..739 y 1321..2799  left 135253 right 1916
+agamemnon-page-390-5  780x1294 -> 780x1292  SIZE  8.85%  box x 0..779 y 0..1203  left 88294 right 852
+agamemnon-yoke-3-word-390  716x2564 -> 716x2590  SIZE  3.08%  box x 0..715 y 2113..2563  left 56510 right 16
+antigone-answer-2-greek-390  716x3138 -> 716x3346  SIZE  5.63%  box x 0..715 y 2307..3137  left 126413 right 38
+antigone-elders-0-greek-390  716x3060 -> 716x3154  SIZE  6.72%  box x 0..715 y 2169..3059  left 147251 right 41
+antigone-elders-1-beat-390  716x3078 -> 716x3146  SIZE  3.67%  box x 0..715 y 2369..3077  left 80826 right 26
+antigone-page-390-1  780x2800  7.50%  box x 32..747 y 1627..2771  left 161713 right 2103
+antigone-page-390-2  780x2800  11.97%  box x 32..747 y 6..2782  left 260370 right 1003
+antigone-page-390-3  780x2800  12.75%  box x 32..747 y 17..2799  left 275679 right 2773
+antigone-page-390-4  780x2800  18.11%  box x 39..739 y 0..2799  left 386189 right 9298
+antigone-page-390-5  780x2800  17.97%  box x 39..739 y 0..2799  left 386047 right 6448
+antigone-page-390-6  780x1028 -> 780x1122  SIZE  13.75%  box x 0..779 y 0..1022  left 109432 right 781
+antigone-quarrel-0-exchange-390  716x2476  0.86%  box x 23..690 y 144..1383  left 15242 right 0
+antigone-quarrel-1-city-390  716x2720 -> 716x2756  SIZE  5.62%  box x 0..715 y 144..2719  left 109403 right 20
+antigone-quarrel-2-play-390  716x1734  0.58%  box x 24..577 y 144..330  left 7201 right 0
+augustine-late-0-word-390  716x2650 -> 716x2696  SIZE  0.86%  box x 0..715 y 2523..2649  left 16320 right 15
+augustine-opening-2-word-390  716x2224 -> 716x2230  SIZE  0.59%  box x 0..715 y 2097..2223  left 9354 right 19
+augustine-page-390-3  780x2800  12.09%  box x 32..747 y 835..2799  left 259218 right 4824
+augustine-page-390-4  780x2800  15.97%  box x 38..739 y 0..2794  left 342566 right 6287
+augustine-page-390-5  780x2800  19.49%  box x 38..737 y 8..2792  left 418313 right 7288
+augustine-page-390-6  780x660 -> 780x756  SIZE  10.44%  box x 0..779 y 8..656  left 53003 right 754
+augustine-pears-2-word-390  716x2316 -> 716x2384  SIZE  4.80%  box x 0..715 y 1845..2315  left 79543 right 16
+baudelaire-budget-0-maxim-390  716x2922 -> 716x2982  SIZE  7.04%  box x 0..715 y 0..2921  left 147280 right 49
+baudelaire-budget-1-verbs-390  716x2302  5.77%  box x 0..715 y 0..2301  left 95123 right 59
+baudelaire-budget-2-word-390  716x3480 -> 716x3576  SIZE  9.47%  box x 0..715 y 0..3479  left 235938 right 55
+baudelaire-evening-2-word-390  716x4890 -> 716x4920  SIZE  6.22%  box x 0..715 y 2529..4889  left 217607 right 16
+baudelaire-evening-3-french-390  716x5008 -> 716x5050  SIZE  2.54%  box x 0..715 y 4345..5007  left 91030 right 16
+baudelaire-page-390-4  780x2800  15.01%  box x 32..747 y 513..2799  left 321940 right 5862
+baudelaire-page-390-5  780x2800  18.04%  box x 36..736 y 0..2782  left 388068 right 5839
+baudelaire-page-390-6  780x2800  17.89%  box x 36..739 y 1..2799  left 384152 right 6486
+baudelaire-page-390-7  780x1966 -> 780x2026  SIZE  17.79%  box x 0..779 y 0..1933  left 269603 right 3155
+baudelaire-warning-0-time-390  716x2106  5.03%  box x 0..715 y 0..2105  left 75761 right 59
+baudelaire-warning-1-wing-390  716x2026  4.13%  box x 0..715 y 0..1736  left 59935 right 30
+baudelaire-warning-2-word-390  716x2640 -> 716x2690  SIZE  10.36%  box x 0..715 y 0..2639  left 195808 right 46
+blake-creed-0-answer-390  716x3464 -> 716x3542  SIZE  3.75%  box x 0..715 y 2827..3463  left 92965 right 19
+blake-creed-2-word-390  716x4024 -> 716x4128  SIZE  5.72%  box x 0..715 y 3007..4023  left 164803 right 26
+blake-page-390-1  780x2800  3.94%  box x 67..720 y 2229..2799  left 85412 right 572
+blake-page-390-2  780x2800  14.39%  box x 32..747 y 0..2799  left 310620 right 3691
+blake-page-390-3  780x2800  16.28%  box x 32..747 y 0..2799  left 351070 right 4510
+blake-page-390-4  780x2800  19.40%  box x 36..739 y 0..2799  left 416516 right 7075
+blake-page-390-5  780x2800  16.61%  box x 38..739 y 0..2788  left 358214 right 4576
+blake-page-390-6  780x2126 -> 780x2274  SIZE  16.27%  box x 0..779 y 0..2125  left 266735 right 3132
+blake-proverbs-0-frame-390  716x1768  4.11%  box x 20..704 y 96..1497  left 51928 right 50
+blake-proverbs-1-yoke-390  716x1738  2.44%  box x 0..715 y 96..1737  left 30390 right 29
+blake-proverbs-2-cross-390  716x1774  3.39%  box x 22..691 y 96..1712  left 43113 right 0
+blake-proverbs-3-word-390  716x2518 -> 716x2662  SIZE  10.83%  box x 0..715 y 96..2517  left 195291 right 37
+blake-sentence-0-beat-390  716x2156 -> 716x2226  SIZE  9.99%  box x 0..715 y 0..2155  left 154242 right 45
+blake-sentence-1-question-390  716x1466 -> 716x1464  SIZE  5.72%  box x 0..715 y 0..1364  left 59955 right 30
+blake-sentence-2-word-390  716x1992 -> 716x2078  SIZE  11.86%  box x 0..715 y 0..1991  left 169029 right 69
+carmen-cartes-0-count-390  716x4908 -> 716x4972  SIZE  4.81%  box x 0..715 y 0..4907  left 169041 right 46
+carmen-cartes-1-rhyme-390  716x4436 -> 716x4434  SIZE  2.91%  box x 0..715 y 0..4379  left 92284 right 30
+carmen-cartes-2-build-390  716x4300  3.08%  box x 0..715 y 0..4299  left 94912 right 59
+carmen-cartes-3-english-390  716x4786 -> 716x4866  SIZE  5.52%  box x 0..715 y 0..4785  left 189167 right 46
+carmen-habanera-0-count-390  716x4510 -> 716x4532  SIZE  2.31%  box x 0..715 y 3883..4509  left 74639 right 16
+carmen-habanera-1-word-390  716x4398 -> 716x4476  SIZE  3.05%  box x 0..715 y 3747..4397  left 96099 right 15
+carmen-habanera-3-english-390  716x4264 -> 716x4296  SIZE  2.43%  box x 0..715 y 3701..4263  left 74198 right 20
+carmen-la-bas-0-mood-390  716x3308 -> 716x3288  SIZE  8.55%  box x 0..715 y 0..3287  left 201355 right 45
+carmen-la-bas-1-word-390  716x4006 -> 716x4074  SIZE  11.00%  box x 0..715 y 0..4005  left 315584 right 50
+carmen-la-bas-2-figure-390  716x3442 -> 716x3424  SIZE  8.91%  box x 0..715 y 0..3423  left 218490 right 50
+carmen-la-bas-3-english-390  716x4030 -> 716x4102  SIZE  4.91%  box x 0..715 y 0..4029  left 141687 right 56
+carmen-page-390-2  780x2800  8.64%  box x 32..747 y 317..2799  left 187681 right 927
+carmen-page-390-3  780x2800  10.28%  box x 32..747 y 0..2799  left 223821 right 736
+carmen-page-390-4  780x2800  6.59%  box x 54..723 y 0..2768  left 143225 right 750
+carmen-page-390-5  780x2800  17.49%  box x 32..747 y 9..2799  left 375545 right 6544
+carmen-page-390-6  780x2800  18.28%  box x 38..739 y 0..2799  left 392782 right 6393
+carmen-page-390-7  780x2800  17.37%  box x 39..739 y 0..2799  left 373431 right 5836
+carmen-page-390-8  780x1246 -> 780x1362  SIZE  15.11%  box x 0..779 y 0..1245  left 144975 right 1866
+castle-letter-0-reading-390  716x4208 -> 716x4298  SIZE  15.44%  box x 0..715 y 42..4207  left 465250 right 26
+castle-letter-1-word-390  716x2750 -> 716x2844  SIZE  17.28%  box x 0..715 y 42..2749  left 340137 right 17
+castle-letter-2-title-390  716x2236 -> 716x2296  SIZE  15.12%  box x 0..715 y 42..2235  left 242098 right 15
+castle-page-390-1  780x2800  6.91%  box x 54..723 y 1214..2774  left 149223 right 1703
+castle-page-390-2  780x2800  14.93%  box x 32..747 y 5..2778  left 322429 right 3747
+castle-page-390-3  780x2800  15.94%  box x 32..747 y 5..2799  left 345083 right 3097
+castle-page-390-4  780x2800  19.67%  box x 39..734 y 0..2799  left 423669 right 5940
+castle-page-390-5  780x2800  18.57%  box x 40..737 y 0..2799  left 399320 right 6313
+castle-page-390-6  780x2800  15.61%  box x 0..779 y 0..2783  left 334992 right 5923
+castle-page-390-7  780x50 -> 780x250  SIZE  7.96%  box x 32..618 y 31..49  left 3103 right 0
+castle-street-1-stop-390  716x3100 -> 716x3122  SIZE  1.74%  box x 0..715 y 2707..3099  left 38523 right 15
+castle-yard-0-turn-390  716x2594 -> 716x2654  SIZE  17.41%  box x 0..715 y 42..2593  left 323334 right 30
+castle-yard-1-figure-390  716x2768 -> 716x2828  SIZE  14.21%  box x 0..715 y 42..2767  left 281526 right 15
+dante-inferno-francesca-0-sentence-390  716x3188  1.44%  box x 0..715 y 0..3187  left 32909 right 59
+dante-inferno-francesca-1-figure-390  716x3194  1.48%  box x 0..715 y 0..3132  left 33789 right 30
+dante-inferno-francesca-2-measure-390  716x3670 -> 716x3728  SIZE  3.68%  box x 0..715 y 0..3669  left 96638 right 46
+dante-inferno-francesca-3-word-390  716x3604 -> 716x3642  SIZE  4.97%  box x 0..715 y 0..3603  left 128257 right 50
+dante-inferno-gate-2-word-390  716x3988 -> 716x4024  SIZE  2.87%  box x 0..715 y 3373..3987  left 82061 right 16
+dante-inferno-gate-3-compare-390  716x3666 -> 716x3690  SIZE  1.73%  box x 0..715 y 3225..3665  left 45425 right 19
+dante-inferno-page-390-6  780x2800  3.41%  box x 39..739 y 1951..2799  left 73495 right 1038
+dante-inferno-page-390-7  780x2800  12.94%  box x 39..735 y 0..2796  left 279468 right 3191
+dante-inferno-page-390-8  780x1750 -> 780x1748  SIZE  9.32%  box x 0..779 y 8..1657  left 124734 right 2401
+dante-inferno-ulysses-0-antithesis-390  716x2966 -> 716x2968  SIZE  3.10%  box x 0..715 y 0..2872  left 65770 right 29
+dante-inferno-ulysses-1-metaphor-390  716x2836 -> 716x2838  SIZE  2.86%  box x 0..715 y 0..2776  left 57975 right 29
+dante-inferno-ulysses-2-word-390  716x3210 -> 716x3358  SIZE  5.70%  box x 0..715 y 0..3209  left 130838 right 71
+dante-inferno-ulysses-3-poem-390  716x1970  5.80%  box x 0..715 y 0..1969  left 81786 right 58
+dante-paradiso-book-0-figure-390  716x2668  none above the threshold
+dante-paradiso-book-1-word-390  716x3540 -> 716x3634  SIZE  5.51%  box x 0..715 y 2649..3539  left 139542 right 19
+dante-paradiso-book-2-rhyme-390  716x2852  0.01%  box x 518..639 y 386..1462  left 128 right 0
+dante-paradiso-end-0-sentence-390  716x2676  none above the threshold
+dante-paradiso-end-1-measure-390  716x3282 -> 716x3306  SIZE  3.87%  box x 0..715 y 805..3281  left 91012 right 16
+dante-paradiso-end-2-rhyme-390  716x2748  0.00%  box x 548..598 y 546..1273  left 26 right 0
+dante-paradiso-end-3-whole-390  716x2356  none above the threshold
+dante-paradiso-page-390-1  780x2800  11.47%  box x 32..747 y 466..2799  left 247752 right 2852
+dante-paradiso-page-390-2  780x2800  11.47%  box x 32..747 y 25..2799  left 249128 right 1327
+dante-paradiso-page-390-3  780x2800  16.43%  box x 32..747 y 0..2799  left 355856 right 3041
+dante-paradiso-page-390-4  780x2800  18.75%  box x 39..739 y 0..2799  left 404367 right 5241
+dante-paradiso-page-390-5  780x2800  21.65%  box x 39..739 y 0..2798  left 467503 right 5279
+dante-paradiso-page-390-6  780x424 -> 780x402  SIZE  7.58%  box x 0..779 y 134..333  left 23451 right 320
+dante-paradiso-prayer-0-figure-390  716x2596 -> 716x2576  SIZE  9.70%  box x 0..715 y 1238..2575  left 178976 right 15
+dante-paradiso-prayer-1-rhyme-390  716x2520 -> 716x2500  SIZE  9.28%  box x 0..715 y 1238..2499  left 166080 right 16
+dante-paradiso-prayer-2-english-390  716x3062 -> 716x3106  SIZE  4.19%  box x 0..715 y 2331..3061  left 91784 right 19
+dante-purgatorio-garden-0-sentence-390  716x2974 -> 716x2954  SIZE  9.39%  box x 0..715 y 0..2953  left 198621 right 49
+dante-purgatorio-garden-1-figure-390  716x3098 -> 716x3078  SIZE  9.33%  box x 0..715 y 0..3077  left 205483 right 44
+dante-purgatorio-garden-2-sources-390  716x3314 -> 716x3330  SIZE  11.73%  box x 0..715 y 0..3313  left 278302 right 45
+dante-purgatorio-garden-3-measure-390  716x3652 -> 716x3656  SIZE  10.57%  box x 0..715 y 0..3651  left 276409 right 41
+dante-purgatorio-love-0-figure-390  716x2848 -> 716x2828  SIZE  9.55%  box x 0..715 y 72..2827  left 193426 right 20
+dante-purgatorio-love-1-rhyme-390  716x2678 -> 716x2660  SIZE  9.20%  box x 0..715 y 72..2659  left 175170 right 19
+dante-purgatorio-love-2-word-390  716x3096 -> 716x3152  SIZE  12.47%  box x 0..715 y 72..3095  left 276504 right 26
+dante-purgatorio-love-3-mountain-390  716x2586  6.21%  box x 0..715 y 72..2585  left 115009 right 29
+dante-purgatorio-page-390-1  780x2800  10.49%  box x 32..747 y 720..2799  left 227438 right 1623
+dante-purgatorio-page-390-2  780x2800  12.39%  box x 32..747 y 0..2799  left 269063 right 1636
+dante-purgatorio-page-390-3  780x2800  13.73%  box x 32..747 y 0..2799  left 298037 right 1783
+dante-purgatorio-page-390-4  780x2800  18.83%  box x 34..739 y 0..2799  left 405550 right 5682
+dante-purgatorio-page-390-5  780x2800  16.48%  box x 39..739 y 0..2796  left 355022 right 4947
+dante-purgatorio-page-390-6  780x2800  21.10%  box x 38..739 y 8..2798  left 453869 right 6931
+dante-purgatorio-page-390-7  780x576 -> 780x514  SIZE  8.06%  box x 0..779 y 43..483  left 32011 right 320
+dante-purgatorio-share-0-simile-390  716x2902 -> 716x2882  SIZE  9.11%  box x 0..715 y 1402..2881  left 188044 right 16
+dante-purgatorio-share-1-sentence-390  716x2692 -> 716x2672  SIZE  9.56%  box x 0..715 y 1402..2671  left 182947 right 16
+dante-purgatorio-share-2-word-390  716x2794 -> 716x2790  SIZE  10.02%  box x 0..715 y 1402..2789  left 200168 right 28
+dante-purgatorio-share-3-english-390  716x3314 -> 716x3378  SIZE  2.84%  box x 0..715 y 2873..3313  left 67406 right 20
+don-giovanni-close-0-word-390  716x3762 -> 716x3852  SIZE  15.03%  box x 0..715 y 0..3761  left 404680 right 59
+don-giovanni-close-1-figure-390  716x2966 -> 716x2944  SIZE  9.95%  box x 0..715 y 0..2943  left 209754 right 45
+don-giovanni-close-2-rhyme-390  716x3012 -> 716x2990  SIZE  9.81%  box x 0..715 y 0..2989  left 209865 right 45
+don-giovanni-close-3-english-390  716x3230 -> 716x3262  SIZE  7.26%  box x 0..715 y 0..3229  left 167925 right 45
+don-giovanni-count-0-count-390  716x3804 -> 716x3880  SIZE  12.48%  box x 0..715 y 1272..3803  left 339806 right 19
+don-giovanni-count-1-rhyme-390  716x2696 -> 716x2676  SIZE  9.07%  box x 0..715 y 1272..2675  left 173674 right 16
+don-giovanni-count-2-word-390  716x2970 -> 716x3024  SIZE  11.37%  box x 0..715 y 1272..2969  left 241706 right 15
+don-giovanni-count-3-english-390  716x3362 -> 716x3396  SIZE  3.12%  box x 0..715 y 2801..3361  left 75165 right 16
+don-giovanni-duet-0-rhyme-390  716x4446 -> 716x4426  SIZE  5.99%  box x 0..715 y 1604..4425  left 189844 right 16
+don-giovanni-duet-1-voices-390  716x4478 -> 716x4458  SIZE  6.43%  box x 0..715 y 2438..4457  left 205105 right 20
+don-giovanni-duet-2-word-390  716x5146 -> 716x5266  SIZE  8.83%  box x 0..715 y 2438..5145  left 325254 right 36
+don-giovanni-duet-3-english-390  716x5254 -> 716x5340  SIZE  2.90%  box x 0..715 y 4477..5253  left 109103 right 29
+don-giovanni-page-390-1  780x2800  14.15%  box x 55..723 y 602..2799  left 306606 right 2393
+don-giovanni-page-390-2  780x2800  14.51%  box x 32..747 y 0..2799  left 314925 right 1949
+don-giovanni-page-390-3  780x2800  12.67%  box x 32..747 y 0..2799  left 274540 right 2125
+don-giovanni-page-390-4  780x2800  10.56%  box x 54..723 y 0..2799  left 230050 right 547
+don-giovanni-page-390-5  780x2800  17.91%  box x 32..747 y 0..2799  left 381868 right 9328
+don-giovanni-page-390-6  780x2800  19.21%  box x 36..739 y 0..2799  left 412306 right 7306
+don-giovanni-page-390-7  780x2800  15.65%  box x 34..739 y 0..2799  left 335919 right 5882
+don-giovanni-page-390-8  780x1298 -> 780x1496  SIZE  14.92%  box x 0..779 y 0..1297  left 149621 right 1417
+dutchman-oath-0-rhyme-390  716x2148  1.12%  box x 23..691 y 159..2083  left 17153 right 0
+dutchman-oath-1-word-390  716x2624 -> 716x2676  SIZE  8.47%  box x 0..715 y 159..2623  left 159168 right 20
+dutchman-page-390-1  780x2800  12.54%  box x 32..747 y 696..2799  left 271804 right 1972
+dutchman-page-390-2  780x2800  7.92%  box x 54..724 y 0..2799  left 171953 right 971
+dutchman-page-390-3  780x2800  14.05%  box x 32..747 y 0..2792  left 304572 right 2375
+dutchman-page-390-4  780x2800  17.16%  box x 32..747 y 6..2799  left 369557 right 5317
+dutchman-page-390-5  780x2800  15.74%  box x 38..740 y 0..2799  left 337786 right 5965
+dutchman-page-390-6  780x2800  18.27%  box x 37..739 y 0..2796  left 394352 right 4673
+dutchman-page-390-7  780x870 -> 780x914  SIZE  10.70%  box x 0..779 y 10..823  left 72282 right 320
+dutchman-refrain-0-english-390  716x3958 -> 716x3998  SIZE  5.16%  box x 0..715 y 214..3957  left 146144 right 19
+dutchman-refrain-1-figure-390  716x3802  2.83%  box x 22..691 y 214..3662  left 77002 right 0
+dutchman-refrain-2-verbs-390  716x3548 -> 716x3546  SIZE  2.22%  box x 22..691 y 214..3372  left 56421 right 0
+dutchman-refrain-3-scene-390  716x3036  0.51%  box x 24..691 y 214..2441  left 11069 right 0
+dutchman-tale-0-beat-390  716x3432 -> 716x3436  SIZE  10.97%  box x 0..715 y 1428..3431  left 269486 right 28
+dutchman-tale-1-rhyme-390  716x2850 -> 716x2830  SIZE  9.05%  box x 0..715 y 1428..2829  left 183290 right 15
+dutchman-tale-2-word-390  716x3280 -> 716x3426  SIZE  12.03%  box x 0..715 y 1428..3279  left 282561 right 37
+dutchman-tale-3-english-390  716x3344 -> 716x3380  SIZE  3.85%  box x 0..715 y 2755..3343  left 92254 right 15
+family-reunion-page-390-2  780x2800  0.39%  box x 39..739 y 2669..2799  left 8197 right 408
+family-reunion-page-390-3  780x2798 -> 780x2800  SIZE  15.46%  box x 0..779 y 5..2755  left 334213 right 3099
+family-reunion-page-390-4.png  only in /tmp/claude-0/-home-user/16660bbc-c653-54ad-936c-75a5d2bff792/scratchpad/sweep/after-390/family-reunion
+faust-heaven-0-beat-390  716x4652 -> 716x4672  SIZE  2.07%  box x 0..715 y 3965..4651  left 68916 right 15
+faust-heaven-3-english-390  716x4162 -> 716x4184  SIZE  1.51%  box x 0..715 y 3739..4161  left 44921 right 15
+faust-name-0-beat-390  716x4538 -> 716x4600  SIZE  1.97%  box x 0..715 y 2437..4537  left 64149 right 19
+faust-name-1-antithesis-390  716x3978  none above the threshold
+faust-name-2-word-390  716x4542 -> 716x4584  SIZE  3.11%  box x 0..715 y 3807..4541  left 100996 right 15
+faust-name-3-names-390  716x3414  0.00%  box x 25..370 y 1675..2714  left 5 right 0
+faust-page-390-2  780x2800  8.36%  box x 32..747 y 585..2799  left 181808 right 863
+faust-page-390-3  780x2800  12.95%  box x 54..723 y 0..2799  left 281810 right 999
+faust-page-390-4  780x2800  8.00%  box x 32..747 y 0..2781  left 174306 right 442
+faust-page-390-5  780x2800  13.34%  box x 32..747 y 33..2799  left 289081 right 2189
+faust-page-390-6  780x2800  19.68%  box x 39..739 y 0..2799  left 424791 right 5081
+faust-page-390-7  780x2800  16.83%  box x 39..739 y 0..2799  left 361742 right 5802
+faust-page-390-8  780x2800  16.73%  box x 37..734 y 0..2736  left 361505 right 3778
+faust-page-390-9  780x306 -> 780x452  SIZE  10.19%  box x 0..779 y 7..304  left 23990 right 320
+faust-wheel-0-beat-390  716x4630 -> 716x4644  SIZE  1.41%  box x 0..715 y 4151..4629  left 46793 right 15
+faust-wheel-1-anaphora-390  716x4256  none above the threshold
+faust-wheel-2-english-390  716x4540 -> 716x4570  SIZE  1.91%  box x 0..715 y 4015..4539  left 62122 right 20
+faust-wheel-3-measures-390  716x2950  none above the threshold
+fidelio-answer-0-versions-390  716x3552 -> 716x3582  SIZE  2.75%  box x 0..715 y 3037..3551  left 69910 right 20
+fidelio-answer-1-verbs-390  716x3098 -> 716x3078  SIZE  7.67%  box x 0..715 y 1718..3077  left 168964 right 20
+fidelio-answer-2-word-390  716x3502 -> 716x3594  SIZE  10.28%  box x 0..715 y 1718..3501  left 257794 right 26
+fidelio-name-0-figure-390  716x3454 -> 716x3434  SIZE  6.30%  box x 0..715 y 1596..3433  left 154842 right 16
+fidelio-name-1-beat-390  716x4060 -> 716x4070  SIZE  8.62%  box x 0..715 y 667..4059  left 250678 right 17
+fidelio-name-2-word-390  716x3486 -> 716x3482  SIZE  7.90%  box x 0..715 y 1596..3481  left 196868 right 12
+fidelio-name-3-names-390  716x2112  0.00%  box x 516..568 y 786..786  left 3 right 0
+fidelio-page-390-1  780x2800  3.34%  box x 32..747 y 2217..2799  left 72377 right 577
+fidelio-page-390-2  780x2800  11.11%  box x 32..747 y 0..2799  left 241860 right 680
+fidelio-page-390-3  780x2800  11.98%  box x 32..747 y 0..2799  left 260663 right 1052
+fidelio-page-390-4  780x2800  11.58%  box x 32..747 y 0..2799  left 249666 right 3174
+fidelio-page-390-5  780x2800  16.80%  box x 33..741 y 0..2799  left 361206 right 5657
+fidelio-page-390-6  780x2800  18.60%  box x 37..739 y 0..2799  left 401012 right 5115
+fidelio-page-390-7  780x1570 -> 780x1732  SIZE  16.70%  box x 0..779 y 0..1569  left 203645 right 850
+fidelio-scene-0-beat-390  716x4338 -> 716x4440  SIZE  10.12%  box x 0..715 y 144..4337  left 314393 right 26
+fidelio-scene-1-rhyme-390  716x3476 -> 716x3456  SIZE  7.77%  box x 0..715 y 144..3455  left 192315 right 20
+fidelio-scene-2-word-390  716x4138 -> 716x4184  SIZE  10.52%  box x 0..715 y 144..4137  left 311811 right 15
+fidelio-scene-3-english-390  716x3792 -> 716x3820  SIZE  3.07%  box x 0..715 y 144..3791  left 83352 right 20
+gotterdammerung-brand-0-now-390  716x3924 -> 716x3956  SIZE  3.53%  box x 0..715 y 0..3923  left 99159 right 49
+gotterdammerung-brand-1-english-390  716x3658 -> 716x3766  SIZE  4.24%  box x 0..715 y 0..3657  left 110940 right 58
+gotterdammerung-brand-2-told-390  716x2144 -> 716x2146  SIZE  2.41%  box x 0..715 y 0..2092  left 36907 right 29
+gotterdammerung-norn-1-dawn-390  716x2736 -> 716x2752  SIZE  1.97%  box x 0..715 y 2427..2735  left 38572 right 20
+gotterdammerung-page-390-4  780x2800  17.03%  box x 32..747 y 445..2799  left 365698 right 6147
+gotterdammerung-page-390-5  780x2800  20.63%  box x 36..736 y 0..2799  left 443643 right 6819
+gotterdammerung-page-390-6  780x2800  17.66%  box x 39..740 y 0..2785  left 378830 right 6783
+gotterdammerung-page-390-7  780x2800  20.53%  box x 37..739 y 52..2794  left 442953 right 5338
+gotterdammerung-page-390-8  780x510 -> 780x540  SIZE  8.36%  box x 0..779 y 9..447  left 32950 right 320
+gotterdammerung-rhine-0-against-390  716x3432 -> 716x3434  SIZE  1.93%  box x 22..689 y 855..3242  left 47412 right 0
+gotterdammerung-rhine-1-knowing-390  716x3972 -> 716x4008  SIZE  4.20%  box x 0..715 y 1037..3971  left 119475 right 20
+gotterdammerung-rhine-2-english-390  716x3752  2.06%  box x 0..715 y 855..3751  left 55307 right 29
+hamlet-page-390-2  780x2800  10.81%  box x 32..747 y 645..2799  left 234666 right 1482
+hamlet-page-390-3  780x2800  17.02%  box x 32..747 y 0..2792  left 366448 right 5307
+hamlet-page-390-4  780x2800  18.73%  box x 38..736 y 9..2799  left 402337 right 6820
+hamlet-page-390-5  780x2800  17.60%  box x 37..739 y 0..2792  left 378097 right 6218
+hamlet-page-390-6  780x1054 -> 780x1166  SIZE  13.84%  box x 0..779 y 14..1053  left 112834 right 984
+hamlet-readiness-0-crossing-390  716x1904  8.57%  box x 0..715 y 0..1903  left 116798 right 59
+hamlet-readiness-1-word-390  716x2010 -> 716x2116  SIZE  12.63%  box x 0..715 y 0..2009  left 181785 right 52
+hamlet-readiness-2-shape-390  716x1908 -> 716x1906  SIZE  4.71%  box x 0..715 y 0..1858  left 64305 right 30
+hamlet-seems-2-word-390  716x2258 -> 716x2318  SIZE  3.05%  box x 0..715 y 1913..2257  left 49368 right 16
+hamlet-to-be-0-beat-390  716x2860 -> 716x2920  SIZE  3.47%  box x 0..715 y 2159..2859  left 70966 right 20
+hamlet-to-be-3-word-390  716x2250 -> 716x2308  SIZE  2.73%  box x 0..715 y 1943..2249  left 43991 right 15
+henry-iv-2-charges-1-word-390  716x2884 -> 716x2908  SIZE  2.90%  box x 0..715 y 2465..2883  left 59866 right 19
+henry-iv-2-page-390-2  780x2800  3.00%  box x 32..747 y 1951..2789  left 65110 right 444
+henry-iv-2-page-390-3  780x2800  13.96%  box x 32..747 y 8..2799  left 303974 right 984
+henry-iv-2-page-390-4  780x2800  18.96%  box x 32..747 y 0..2799  left 408293 right 5823
+henry-iv-2-page-390-5  780x2800  19.99%  box x 39..734 y 0..2799  left 428169 right 8388
+henry-iv-2-page-390-6  780x2800  18.06%  box x 39..739 y 0..2799  left 387358 right 7176
+henry-iv-2-page-390-7  780x840 -> 780x902  SIZE  14.29%  box x 0..779 y 0..809  left 92648 right 992
+henry-iv-2-rejection-0-beat-390  716x2962 -> 716x2978  SIZE  8.81%  box x 0..715 y 0..2961  left 186883 right 45
+henry-iv-2-rejection-1-names-390  716x2440  6.35%  box x 0..715 y 0..2439  left 110931 right 59
+henry-iv-2-rejection-2-word-390  716x2864 -> 716x2942  SIZE  10.72%  box x 0..715 y 0..2863  left 219789 right 46
+henry-iv-2-rejection-3-balance-390  716x2570  4.79%  box x 0..715 y 0..2569  left 88087 right 59
+henry-iv-2-sleep-0-beat-390  716x2996 -> 716x3046  SIZE  2.40%  box x 0..715 y 2383..2995  left 51401 right 20
+henry-iv-2-sleep-3-word-390  716x2586 -> 716x2612  SIZE  3.75%  box x 0..715 y 2113..2585  left 69488 right 19
+horace-bee-0-contrast-390  716x3250  2.26%  box x 0..715 y 0..3188  left 52650 right 30
+horace-bee-1-measure-390  716x3482 -> 716x3492  SIZE  3.99%  box x 0..715 y 0..3481  left 99468 right 51
+horace-bee-2-english-390  716x3708 -> 716x3766  SIZE  6.69%  box x 0..715 y 0..3707  left 177492 right 49
+horace-bee-3-book-390  716x2154  0.26%  box x 0..715 y 0..1211  left 3907 right 30
+horace-crossing-0-order-390  716x2176 -> 716x2218  SIZE  14.13%  box x 0..715 y 0..2175  left 220074 right 46
+horace-crossing-1-word-390  716x2848 -> 716x3112  SIZE  17.78%  box x 0..715 y 0..2847  left 362406 right 69
+horace-crossing-2-english-390  716x2574 -> 716x2730  SIZE  18.01%  box x 0..715 y 0..2573  left 331888 right 72
+horace-page-390-1  780x2800  7.41%  box x 32..747 y 1111..2799  left 160744 right 1178
+horace-page-390-2  780x2800  10.76%  box x 32..747 y 0..2799  left 233570 right 1441
+horace-page-390-3  780x2800  15.16%  box x 32..747 y 0..2799  left 327814 right 3285
+horace-page-390-4  780x2800  19.00%  box x 36..739 y 0..2799  left 408038 right 6836
+horace-page-390-5  780x2800  17.61%  box x 39..739 y 0..2799  left 378113 right 6459
+horace-page-390-6  780x2800  19.98%  box x 39..738 y 0..2712  left 427802 right 8586
+horace-page-390-7  780x278 -> 780x338  SIZE  10.34%  box x 0..779 y 10..245  left 22092 right 320
+horace-ship-0-measure-390  716x2572 -> 716x2594  SIZE  3.44%  box x 0..715 y 1945..2571  left 63419 right 20
+horace-ship-2-english-390  716x2404 -> 716x2478  SIZE  5.13%  box x 0..715 y 1815..2403  left 88313 right 19
+karamazov-cry-0-sentences-390  716x2568 -> 716x2570  SIZE  5.82%  box x 22..692 y 83..2428  left 107078 right 0
+karamazov-cry-1-earlier-390  716x3342 -> 716x3450  SIZE  6.72%  box x 0..715 y 83..3341  left 160673 right 33
+karamazov-cry-2-mystery-390  716x2672 -> 716x2776  SIZE  6.42%  box x 0..715 y 83..2671  left 122747 right 36
+karamazov-cry-3-plan-390  716x2524  3.84%  box x 0..715 y 83..2523  left 69402 right 29
+karamazov-first-2-word-390  716x2776 -> 716x2800  SIZE  3.09%  box x 0..715 y 2357..2775  left 61490 right 15
+karamazov-kiss-0-answer-390  716x2806  2.63%  box x 0..715 y 0..2626  left 52791 right 30
+karamazov-kiss-1-again-390  716x3834 -> 716x3944  SIZE  5.17%  box x 0..715 y 0..3833  left 141761 right 70
+karamazov-kiss-2-russian-390  716x3078 -> 716x3188  SIZE  6.18%  box x 0..715 y 0..3077  left 136176 right 67
+karamazov-page-390-5  780x2798 -> 780x2796  SIZE  8.79%  box x 0..779 y 249..2705  left 188596 right 3165
+kierkegaard-greater-0-build-390  716x2574  6.17%  box x 0..715 y 83..2573  left 113594 right 29
+kierkegaard-greater-1-paradox-390  716x2604  3.42%  box x 20..691 y 83..2548  left 63724 right 0
+kierkegaard-greater-2-sources-390  716x2956 -> 716x3070  SIZE  8.45%  box x 0..715 y 83..2955  left 178818 right 24
+kierkegaard-greater-3-speech-390  716x1738  4.61%  box x 0..715 y 83..1737  left 57284 right 29
+kierkegaard-page-390-5  780x2800  0.19%  box x 40..739 y 2689..2747  left 3911 right 160
+kierkegaard-page-390-6  780x2800  10.60%  box x 0..779 y 44..2799  left 227728 right 3770
+kierkegaard-page-390-7  780x116 -> 780x114  SIZE  4.12%  box x 31..365 y 0..23  left 3665 right 0
+kierkegaard-weaning-1-turn-390  716x3192 -> 716x3214  SIZE  2.03%  box x 0..715 y 2799..3191  left 46348 right 16
+kierkegaard-weaning-3-word-390  716x3360 -> 716x3428  SIZE  3.37%  box x 0..715 y 2889..3359  left 81161 right 15
+kierkegaard-window-0-yet-390  716x2658  3.20%  box x 0..715 y 0..2657  left 60779 right 59
+kierkegaard-window-1-word-390  716x3118 -> 716x3160  SIZE  8.04%  box x 0..715 y 0..3117  left 179340 right 46
+kierkegaard-window-2-day-390  716x2342 -> 716x2340  SIZE  2.86%  box x 0..715 y 0..2292  left 47877 right 30
+magic-flute-page-390-2  780x2800  10.51%  box x 32..747 y 867..2799  left 228297 right 1326
+magic-flute-page-390-3  780x2800  13.54%  box x 50..725 y 0..2783  left 293953 right 1693
+magic-flute-page-390-4  780x2800  14.03%  box x 32..747 y 1..2799  left 303291 right 3132
+magic-flute-page-390-5  780x2800  18.80%  box x 39..739 y 0..2799  left 404554 right 5991
+magic-flute-page-390-6  780x2800  16.00%  box x 38..739 y 0..2799  left 343699 right 5648
+magic-flute-page-390-7  780x2800  20.88%  box x 37..739 y 0..2772  left 448606 right 7520
+magic-flute-page-390-8  780x272 -> 780x486  SIZE  7.99%  box x 0..779 y 4..271  left 16632 right 320
+magic-flute-queen-0-beat-390  716x3910 -> 716x3984  SIZE  3.84%  box x 0..715 y 3047..3909  left 107448 right 16
+magic-flute-queen-3-english-390  716x3418 -> 716x3448  SIZE  2.99%  box x 0..715 y 2893..3417  left 73272 right 20
+magic-flute-trial-0-word-390  716x5130 -> 716x5218  SIZE  3.71%  box x 0..715 y 4329..5129  left 136183 right 30
+magic-flute-trial-1-answers-390  716x4892 -> 716x4964  SIZE  2.13%  box x 0..715 y 4329..4891  left 74474 right 20
+magic-flute-weddings-0-word-390  716x2462 -> 716x2464  SIZE  10.52%  box x 0..715 y 527..2461  left 185395 right 12
+magic-flute-weddings-1-list-390  716x2346 -> 716x2326  SIZE  9.15%  box x 0..715 y 527..2325  left 152443 right 16
+magic-flute-weddings-2-caliban-390  716x2394 -> 716x2416  SIZE  3.02%  box x 0..715 y 527..2393  left 51686 right 20
+moby-dick-page-390-2  780x2800  6.83%  box x 32..747 y 1163..2799  left 148030 right 1185
+moby-dick-page-390-3  780x2800  15.78%  box x 32..747 y 0..2799  left 340143 right 4485
+moby-dick-page-390-4  780x2800  20.71%  box x 39..738 y 0..2799  left 442871 right 9422
+moby-dick-page-390-5  780x2800  19.15%  box x 36..739 y 0..2799  left 410604 right 7622
+moby-dick-page-390-6  780x1096 -> 780x1118  SIZE  14.52%  box x 0..779 y 0..1025  left 122907 right 1247
+moby-dick-rachel-0-figure-390  716x2424  2.93%  box x 0..715 y 457..2423  left 50899 right 29
+moby-dick-rachel-1-sentence-390  716x2248 -> 716x2250  SIZE  3.04%  box x 24..691 y 457..2114  left 48898 right 0
+moby-dick-rachel-2-word-390  716x2576 -> 716x2682  SIZE  6.40%  box x 0..715 y 457..2575  left 117959 right 18
+moby-dick-rachel-3-ships-390  716x3556  4.08%  box x 0..715 y 479..3555  left 103762 right 29
+moby-dick-rails-0-beat-390  716x3088 -> 716x3114  SIZE  4.91%  box x 0..715 y 245..3087  left 108485 right 19
+moby-dick-rails-1-figure-390  716x2426  1.08%  box x 0..715 y 245..2425  left 18806 right 29
+moby-dick-rails-2-word-390  716x2858 -> 716x2896  SIZE  5.57%  box x 0..715 y 245..2857  left 113868 right 19
+moby-dick-rails-3-play-390  716x2462  3.40%  box x 22..692 y 332..1575  left 59863 right 0
+moby-dick-whenever-2-word-390  716x2806 -> 716x2832  SIZE  2.78%  box x 0..715 y 2357..2805  left 55790 right 16
+orpheus-aria-0-count-390  716x3364 -> 716x3426  SIZE  3.54%  box x 0..715 y 2657..3363  left 85338 right 19
+orpheus-page-390-1  780x2800  7.69%  box x 32..747 y 1093..2799  left 166800 right 1050
+orpheus-page-390-2  780x2800  12.38%  box x 32..747 y 0..2799  left 268878 right 1416
+orpheus-page-390-3  780x2800  13.78%  box x 32..747 y 0..2799  left 296889 right 4150
+orpheus-page-390-4  780x2800  18.87%  box x 39..739 y 0..2762  left 406859 right 5350
+orpheus-page-390-5  780x310 -> 780x390  SIZE  9.81%  box x 0..779 y 42..297  left 23391 right 320
+orpheus-song-0-rhyme-390  716x2412  0.00%  box x 536..652 y 907..1236  left 55 right 0
+orpheus-song-1-strophes-390  716x2182  none above the threshold
+orpheus-song-2-english-390  716x2686 -> 716x2718  SIZE  3.11%  box x 0..715 y 2161..2685  left 59817 right 16
+orpheus-terms-0-word-390  716x2512 -> 716x2532  SIZE  2.84%  box x 0..715 y 2151..2511  left 51015 right 16
+orpheus-terms-1-return-390  716x2582 -> 716x2608  SIZE  3.00%  box x 0..715 y 2151..2581  left 55532 right 16
+orpheus-terms-2-measure-390  716x3086 -> 716x3108  SIZE  3.27%  box x 0..715 y 2413..3085  left 72190 right 20
+othello-echo-0-figure-390  716x2780 -> 716x2840  SIZE  10.78%  box x 0..715 y 42..2779  left 214602 right 20
+othello-echo-1-beat-390  716x3394 -> 716x3564  SIZE  13.00%  box x 0..715 y 42..3393  left 315842 right 38
+othello-echo-2-word-390  716x2776 -> 716x2856  SIZE  11.86%  box x 0..715 y 42..2775  left 235693 right 26
+othello-lie-0-word-390  716x3134 -> 716x3150  SIZE  3.77%  box x 0..715 y 84..3133  left 84630 right 16
+othello-lie-1-figure-390  716x3114  1.81%  box x 22..691 y 84..3052  left 40405 right 0
+othello-lie-2-sentence-390  716x3074  2.62%  box x 0..715 y 84..3073  left 57705 right 29
+othello-lie-3-play-390  716x2090  1.03%  box x 22..691 y 84..1323  left 15346 right 0
+othello-light-0-figure-390  716x2300  1.07%  box x 0..715 y 652..2299  left 17666 right 29
+othello-light-1-sentence-390  716x2290  1.08%  box x 23..650 y 652..2188  left 17767 right 0
+othello-light-2-word-390  716x2622 -> 716x2658  SIZE  6.06%  box x 0..715 y 652..2621  left 113662 right 16
+othello-page-390-0  780x2800  2.16%  box x 54..723 y 1820..2799  left 46888 right 334
+othello-page-390-1  780x2800  9.66%  box x 32..747 y 0..2788  left 209371 right 1602
+othello-page-390-2  780x2800  13.51%  box x 32..747 y 10..2776  left 292384 right 2781
+othello-page-390-3  780x2800  15.05%  box x 32..747 y 20..2799  left 324946 right 3828
+othello-page-390-4  780x2800  21.70%  box x 39..738 y 0..2790  left 466934 right 6949
+othello-page-390-5  780x2800  19.12%  box x 38..739 y 5..2799  left 409133 right 8551
+othello-page-390-6  780x984 -> 780x1112  SIZE  14.23%  box x 0..779 y 0..964  left 108083 right 1163
+pascal-heart-1-french-390  716x2484 -> 716x2510  SIZE  3.11%  box x 0..715 y 2049..2483  left 55289 right 16
+pascal-page-390-6  780x2800  11.16%  box x 39..739 y 85..2799  left 240896 right 2883
+pascal-page-390-7  780x820 -> 780x818  SIZE  6.48%  box x 0..779 y 0..727  left 41026 right 320
+pascal-wager-3-game-390  716x3172 -> 716x3196  SIZE  2.66%  box x 0..715 y 2737..3171  left 60379 right 19
+peer-gynt-answer-0-figure-390  716x1906  2.37%  box x 0..715 y 0..1905  left 32266 right 59
+peer-gynt-answer-1-beat-390  716x2256 -> 716x2274  SIZE  5.32%  box x 0..715 y 0..2255  left 85944 right 46
+peer-gynt-answer-2-word-390  716x2010 -> 716x2028  SIZE  5.36%  box x 0..715 y 0..2009  left 77071 right 50
+peer-gynt-answer-3-ending-390  716x1980  2.74%  box x 0..715 y 0..1750  left 38767 right 30
+peer-gynt-onion-0-figure-390  716x3216  2.96%  box x 0..715 y 243..3215  left 68208 right 29
+peer-gynt-onion-1-layers-390  716x2780  4.50%  box x 0..715 y 403..2779  left 89514 right 29
+peer-gynt-onion-2-word-390  716x3300 -> 716x3368  SIZE  5.82%  box x 0..715 y 243..3299  left 137516 right 20
+peer-gynt-onion-3-beat-390  716x3582 -> 716x3638  SIZE  4.23%  box x 0..715 y 243..3581  left 108496 right 16
+peer-gynt-page-390-4  780x2800  0.83%  box x 40..739 y 2491..2794  left 17715 right 465
+peer-gynt-page-390-5  780x2800  11.10%  box x 0..779 y 8..2778  left 240177 right 2301
+peer-gynt-page-390-6  780x124 -> 780x122  SIZE  3.96%  box x 31..365 y 3..33  left 3767 right 0
+peer-gynt-two-sayings-1-beat-390  716x2926 -> 716x2988  SIZE  3.11%  box x 0..715 y 2381..2925  left 65139 right 20
+peer-gynt-two-sayings-2-word-390  716x3524 -> 716x3554  SIZE  2.99%  box x 0..715 y 3015..3523  left 75505 right 16
+peer-gynt-two-sayings-3-return-390  716x3412 -> 716x3440  SIZE  2.71%  box x 0..715 y 2943..3411  left 66198 right 20
+phedre-names-0-count-390  716x2932 -> 716x2970  SIZE  9.91%  box x 0..715 y 1054..2931  left 208093 right 20
+phedre-names-1-figure-390  716x2458 -> 716x2438  SIZE  9.24%  box x 0..715 y 984..2437  left 161320 right 20
+phedre-names-2-english-390  716x2364 -> 716x2376  SIZE  1.43%  box x 0..715 y 2129..2363  left 24202 right 17
+phedre-page-390-1  780x2800  11.41%  box x 32..747 y 336..2799  left 247073 right 2225
+phedre-page-390-2  780x2800  12.80%  box x 32..747 y 0..2799  left 278183 right 1419
+phedre-page-390-3  780x2800  14.09%  box x 32..747 y 0..2799  left 306953 right 868
+phedre-page-390-4  780x2800  20.94%  box x 32..747 y 0..2799  left 451939 right 5412
+phedre-page-390-5  780x2800  18.47%  box x 36..739 y 0..2799  left 396815 right 6488
+phedre-page-390-6  780x2592 -> 780x2664  SIZE  18.09%  box x 0..779 y 0..2571  left 361706 right 4042
+phedre-sight-0-figure-390  716x2352 -> 716x2330  SIZE  12.58%  box x 0..715 y 0..2329  left 209900 right 46
+phedre-sight-1-halves-390  716x2762 -> 716x2794  SIZE  13.50%  box x 0..715 y 0..2761  left 266840 right 46
+phedre-sight-2-word-390  716x2492 -> 716x2496  SIZE  13.78%  box x 0..715 y 0..2491  left 245814 right 58
+phedre-slip-0-ear-390  716x3730 -> 716x3732  SIZE  10.14%  box x 0..715 y 821..3729  left 270818 right 29
+phedre-slip-1-rhyme-390  716x2766 -> 716x2746  SIZE  9.44%  box x 0..715 y 308..2745  left 185666 right 16
+phedre-slip-2-break-390  716x2870 -> 716x2850  SIZE  7.73%  box x 0..715 y 1542..2849  left 157822 right 16
+phedre-slip-3-english-390  716x3314 -> 716x3348  SIZE  3.10%  box x 0..715 y 938..3313  left 73580 right 16
+rilke-count-2-german-390  716x5180 -> 716x5244  SIZE  1.54%  box x 0..715 y 4729..5179  left 57086 right 16
+rilke-page-390-2  780x2800  6.39%  box x 54..723 y 1604..2799  left 139153 right 430
+rilke-page-390-3  780x2800  11.79%  box x 32..747 y 0..2794  left 254893 right 2496
+rilke-page-390-4  780x2800  10.73%  box x 54..723 y 6..2799  left 233452 right 798
+rilke-page-390-5  780x2800  17.80%  box x 32..747 y 0..2799  left 381598 right 7233
+rilke-page-390-6  780x2800  16.95%  box x 39..739 y 0..2799  left 365611 right 4505
+rilke-page-390-7  780x1162 -> 780x1200  SIZE  15.19%  box x 0..779 y 0..1107  left 136508 right 1190
+rilke-panther-0-subjects-390  716x3922 -> 716x3900  SIZE  8.57%  box x 0..715 y 0..3899  left 239327 right 46
+rilke-panther-1-beat-390  716x4242 -> 716x4268  SIZE  9.66%  box x 0..715 y 0..4241  left 293440 right 50
+rilke-panther-2-rhyme-390  716x3886 -> 716x3864  SIZE  8.38%  box x 0..715 y 0..3863  left 231776 right 46
+rilke-panther-3-english-390  716x4304 -> 716x4378  SIZE  6.63%  box x 0..715 y 0..4303  left 204339 right 49
+rilke-turn-0-sentence-390  716x3168 -> 716x3228  SIZE  15.05%  box x 0..715 y 42..3167  left 341292 right 20
+rilke-turn-1-word-390  716x3882 -> 716x4006  SIZE  16.66%  box x 0..715 y 42..3881  left 462944 right 40
+rilke-turn-2-figure-390  716x3262 -> 716x3324  SIZE  13.16%  box x 0..715 y 42..3261  left 307350 right 16
+rimbaud-adieu-0-figure-390  716x3720  1.97%  box x 0..715 y 0..3500  left 52440 right 30
+rimbaud-adieu-1-time-390  716x3602  1.97%  box x 0..715 y 0..3506  left 50743 right 30
+rimbaud-adieu-2-sentence-390  716x3674 -> 716x3672  SIZE  2.36%  box x 0..715 y 0..3498  left 61893 right 30
+rimbaud-adieu-3-english-390  716x4312 -> 716x4490  SIZE  6.20%  box x 0..715 y 0..4311  left 191360 right 72
+rimbaud-hallucination-2-judgment-390  716x3884 -> 716x3948  SIZE  2.16%  box x 0..715 y 3449..3883  left 59921 right 16
+rimbaud-hallucination-3-innocence-390  716x4040 -> 716x4066  SIZE  2.26%  box x 0..715 y 3567..4039  left 65417 right 19
+rimbaud-page-390-2  780x2800  9.34%  box x 50..723 y 1226..2799  left 202224 right 1741
+rimbaud-page-390-3  780x2800  10.14%  box x 32..747 y 0..2799  left 220062 right 1462
+rimbaud-page-390-4  780x2800  15.70%  box x 32..747 y 0..2799  left 338790 right 4091
+rimbaud-page-390-5  780x2800  17.42%  box x 39..739 y 0..2797  left 376314 right 4049
+rimbaud-page-390-6  780x2800  15.69%  box x 39..739 y 7..2799  left 339499 right 3136
+rimbaud-page-390-7  780x1632 -> 780x1640  SIZE  13.71%  box x 0..779 y 0..1547  left 171503 right 3011
+rimbaud-stanza-0-count-390  716x2890 -> 716x2902  SIZE  12.62%  box x 0..715 y 0..2889  left 261180 right 51
+rimbaud-stanza-1-rhyme-390  716x2262 -> 716x2242  SIZE  10.39%  box x 0..715 y 0..2241  left 166703 right 46
+rimbaud-stanza-2-frame-390  716x2612 -> 716x2666  SIZE  14.08%  box x 0..715 y 0..2611  left 263202 right 50
+rimbaud-stanza-3-chapter-390  716x1714 -> 716x1716  SIZE  4.69%  box x 0..715 y 0..1666  left 57484 right 30
+tempest-epilogue-0-beat-390  716x3010 -> 716x3020  SIZE  2.13%  box x 0..715 y 2433..3009  left 45826 right 21
+tempest-epilogue-1-rhyme-390  716x2516  0.00%  box x 513..524 y 1257..1281  left 7 right 0
+tempest-epilogue-2-word-390  716x2880 -> 716x2952  SIZE  4.10%  box x 0..715 y 2319..2879  left 84519 right 15
+tempest-epilogue-3-pardon-390  716x2842 -> 716x2894  SIZE  1.77%  box x 0..715 y 2569..2841  left 36042 right 19
+tempest-noises-0-word-390  716x2510 -> 716x2526  SIZE  2.30%  box x 0..715 y 2187..2509  left 41243 right 16
+tempest-noises-1-sentence-390  716x2468  none above the threshold
+tempest-noises-2-beat-390  716x2916 -> 716x2934  SIZE  3.26%  box x 0..715 y 2183..2915  left 68055 right 19
+tempest-noises-3-scene-390  716x1998  none above the threshold
+tempest-page-390-1  780x2800  5.63%  box x 32..747 y 1211..2781  left 122129 right 789
+tempest-page-390-2  780x2800  13.40%  box x 32..747 y 46..2799  left 290610 right 2033
+tempest-page-390-3  780x2800  15.38%  box x 32..747 y 0..2799  left 332865 right 3049
+tempest-page-390-4  780x2800  19.47%  box x 39..741 y 0..2799  left 417422 right 7903
+tempest-page-390-5  780x2800  17.28%  box x 38..739 y 0..2799  left 369938 right 7552
+tempest-page-390-6  780x1604 -> 780x1642  SIZE  15.81%  box x 0..779 y 0..1549  left 195210 right 2605
+tempest-song-0-beat-390  716x2534 -> 716x2548  SIZE  2.78%  box x 0..715 y 2031..2533  left 50471 right 16
+tempest-song-3-word-390  716x2246 -> 716x2268  SIZE  3.17%  box x 0..715 y 1849..2245  left 50896 right 16
+traviata-cabaletta-0-measure-390  716x3686 -> 716x3732  SIZE  10.71%  box x 0..715 y 277..3685  left 282510 right 20
+traviata-cabaletta-1-rhyme-390  716x3048 -> 716x3028  SIZE  8.49%  box x 0..715 y 277..3027  left 184092 right 20
+traviata-cabaletta-2-word-390  716x3674 -> 716x3782  SIZE  12.02%  box x 0..715 y 277..3673  left 316051 right 26
+traviata-cabaletta-3-scene-390  716x2278  1.24%  box x 24..677 y 503..1624  left 20161 right 0
+traviata-end-0-word-390  716x5606 -> 716x5682  SIZE  8.71%  box x 0..715 y 277..5605  left 349489 right 30
+traviata-end-1-shared-390  716x4922 -> 716x4902  SIZE  6.55%  box x 0..715 y 277..4901  left 229867 right 19
+traviata-end-2-english-390  716x5302 -> 716x5370  SIZE  3.76%  box x 0..715 y 277..5301  left 142591 right 20
+traviata-page-390-1  780x2800  7.35%  box x 55..723 y 1468..2799  left 159321 right 1152
+traviata-page-390-2  780x2800  11.46%  box x 32..747 y 0..2799  left 249267 right 975
+traviata-page-390-3  780x2800  12.64%  box x 32..747 y 0..2799  left 274494 right 1643
+traviata-page-390-4  780x2800  12.34%  box x 54..723 y 0..2783  left 268701 right 836
+traviata-page-390-5  780x2800  13.98%  box x 32..747 y 4..2790  left 302320 right 3108
+traviata-page-390-6  780x2800  14.99%  box x 39..739 y 7..2748  left 322967 right 4345
+traviata-page-390-7  780x2800  17.96%  box x 33..739 y 0..2799  left 386539 right 5673
+traviata-page-390-8  780x1328 -> 780x1482  SIZE  16.66%  box x 0..779 y 0..1327  left 170755 right 1854
+traviata-refrain-0-refrain-390  716x4134 -> 716x4114  SIZE  7.05%  box x 0..715 y 2234..4113  left 207693 right 15
+traviata-refrain-1-measure-390  716x4798 -> 716x4852  SIZE  8.95%  box x 0..715 y 2302..4797  left 307287 right 16
+traviata-refrain-2-word-390  716x4636 -> 716x4748  SIZE  9.57%  box x 0..715 y 2234..4635  left 317529 right 20
+traviata-refrain-3-english-390  716x4894 -> 716x4984  SIZE  3.11%  box x 0..715 y 4089..4893  left 109055 right 21
+tristan-end-0-sentence-390  716x4094  0.40%  box x 23..513 y 1199..3080  left 11757 right 0
+tristan-end-1-rhyme-390  716x4100  0.41%  box x 23..610 y 611..4035  left 12164 right 0
+tristan-end-2-beat-390  716x4420 -> 716x4428  SIZE  1.55%  box x 0..715 y 1199..4419  left 49078 right 24
+tristan-end-3-english-390  716x4410 -> 716x4442  SIZE  2.90%  box x 0..715 y 1199..4409  left 91452 right 20
+tristan-names-0-crossing-390  716x4038 -> 716x4018  SIZE  6.30%  box x 0..715 y 0..4017  left 181324 right 45
+tristan-names-1-grammar-390  716x3868 -> 716x3850  SIZE  5.81%  box x 0..715 y 0..3849  left 160064 right 48
+tristan-names-2-rhyme-390  716x3870 -> 716x3850  SIZE  5.74%  box x 0..715 y 0..3849  left 158117 right 48
+tristan-names-3-word-390  716x4316 -> 716x4378  SIZE  8.31%  box x 0..715 y 0..4315  left 256666 right 48
+tristan-page-390-1  780x2800  8.24%  box x 32..747 y 1110..2799  left 178622 right 1372
+tristan-page-390-2  780x2800  8.47%  box x 54..723 y 0..2799  left 184597 right 302
+tristan-page-390-3  780x2800  8.87%  box x 32..747 y 8..2799  left 192889 right 924
+tristan-page-390-4  780x2800  9.00%  box x 32..747 y 0..2799  left 194043 right 2499
+tristan-page-390-5  780x2800  20.29%  box x 37..739 y 0..2799  left 435277 right 7778
+tristan-page-390-6  780x2800  20.13%  box x 36..739 y 0..2799  left 434064 right 5593
+tristan-page-390-7  780x2800  16.42%  box x 34..739 y 0..2799  left 352040 right 6604
+tristan-page-390-8  780x2800  19.62%  box x 37..732 y 0..2799  left 421909 right 6647
+tristan-page-390-9  780x524 -> 780x482  SIZE  8.11%  box x 0..779 y 0..431  left 30168 right 320
+tristan-work-0-verbs-390  716x3488 -> 716x3468  SIZE  7.04%  box x 0..715 y 1886..3467  left 174798 right 16
+tristan-work-1-rhyme-390  716x3616 -> 716x3596  SIZE  7.35%  box x 0..715 y 1886..3595  left 189323 right 15
+tristan-work-2-word-390  716x4592 -> 716x4776  SIZE  11.61%  box x 0..715 y 1886..4591  left 381742 right 42
+volpone-close-0-rhyme-390  716x2464 -> 716x2466  SIZE  6.39%  box x 0..715 y 0..2401  left 112636 right 29
+volpone-close-1-figure-390  716x2458 -> 716x2460  SIZE  5.55%  box x 0..715 y 0..2404  left 97622 right 29
+volpone-close-2-word-390  716x3394 -> 716x3502  SIZE  10.73%  box x 0..715 y 0..3393  left 260816 right 50
+volpone-close-3-names-390  716x2912 -> 716x2914  SIZE  11.13%  box x 0..715 y 0..2911  left 232102 right 41
+volpone-gold-0-word-390  716x3226 -> 716x3352  SIZE  5.43%  box x 0..715 y 2431..3225  left 125303 right 37
+volpone-gold-2-beat-390  716x3024 -> 716x3040  SIZE  2.33%  box x 0..715 y 2473..3023  left 50386 right 16
+volpone-page-390-1  780x2800  6.15%  box x 32..747 y 1911..2799  left 133282 right 944
+volpone-page-390-2  780x2800  10.22%  box x 32..747 y 0..2799  left 221301 right 1936
+volpone-page-390-3  780x2800  11.25%  box x 32..747 y 0..2787  left 242585 right 3182
+volpone-page-390-4  780x2800  18.36%  box x 37..743 y 35..2799  left 391952 right 8967
+volpone-page-390-5  780x2746 -> 780x2800  SIZE  18.71%  box x 0..779 y 0..2745  left 396825 right 3914
+volpone-page-390-6.png  only in /tmp/claude-0/-home-user/16660bbc-c653-54ad-936c-75a5d2bff792/scratchpad/sweep/after-390/volpone
+volpone-song-0-rhyme-390  716x2992  1.14%  box x 0..715 y 116..2991  left 24444 right 29
+volpone-song-1-word-390  716x3290 -> 716x3408  SIZE  4.86%  box x 0..715 y 116..3289  left 114540 right 32
+volpone-song-2-figure-390  716x2858 -> 716x2860  SIZE  1.33%  box x 22..691 y 116..2764  left 27166 right 0
+volpone-song-3-beat-390  716x3218 -> 716x3228  SIZE  3.81%  box x 0..715 y 116..3217  left 87874 right 21

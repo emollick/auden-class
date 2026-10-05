@@ -1,0 +1,1379 @@
+{
+  "piece": "peer-gynt",
+  "title": "Two riddles and an onion",
+  "where": "*Peer Gynt*, Acts 2 and 5",
+  "about": "Peer Gynt is a peasant widow’s son in Norway, known for his tall tales. In Act 2 he asks the troll king, the Old Man of the Dovrë, for his daughter and his kingdom, and the Old Man tests him with a riddle. In Act 5 Peer comes home old and shipwrecked, and a Button-Moulder is waiting to melt him down as a man who has never been himself. Solveig, the girl he left in Act 3, has waited in the forest hut all that time.",
+  "view": {
+    "says": "In February 1941, the year of the course, Auden wrote that every answer is provisional: Solveig’s settles no more than the earlier ones, and Peer has the Button-Moulder still to meet. In *The Dyer’s Hand* he reads Peer as the poet, for whom almost everything he does is a part to play.",
+    "quote": "Throughout Peer Gynt, one question keeps being asked and answered in various ways, namely, Who am I? What is my real self?",
+    "source": "“Genius & Apostle,” in *The Dyer’s Hand* (1962), pp. 436 and 438; “The Wandering Jew,” *The New Republic*, 10 February 1941; reprinted in *Prose*, vol. II (2002), pp. 110–13",
+    "checked": "The Dyer’s Hand read in the scan, research/auden/dh.txt, lines 20646-20648 (p. 436; the scan misprints two words of the sentence quoted, which is given here as in the research notes) and lines 20730-20734 (p. 438), read again on 2026-10-03. Examiner, 2026-10-03: both pages read again in the scan (the page number stands at the head of its page); the role sentence is on p. 438. The review of 1941 is not among the scans. Its sentence on Solveig’s answer and the Button-Moulder was seen as the passage that an exact-phrase search of archive.org returns from the scanned issue of The New Republic (vol. 104, no. 1367, 10 February 1941; the contents list the review at p. 185) and from the scanned Prose volume; the sentence that all the answers are provisional and salvation left in doubt was seen the same way. The page numbers in Prose, vol. II are those of remake/research/C_auden_on_works.md, section 17 and H17b. Not seen in full."
+  },
+  "plates": [
+    {
+      "id": "two-sayings",
+      "heading": "The troll king’s two sayings",
+      "text": "peer-gynt/a2s6",
+      "rows": [
+        "42.2-49.1"
+      ],
+      "label": "Act 2: the troll king’s hall",
+      "turn": { "49.0": 3 },
+      "pair": {
+        "label": "Act 5: the two meet again",
+        "text": "peer-gynt/a5s8",
+        "rows": [
+          "71.1",
+          "75.0",
+          "79.0-79.1",
+          "82.0"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "align",
+          "parts": [
+            {
+              "row": "42.4",
+              "w": [
+                0,
+                5
+              ],
+              "tag": "place",
+              "label": "the place"
+            },
+            {
+              "row": "42.5",
+              "w": [
+                0,
+                1
+              ],
+              "tag": "place",
+              "label": "the place"
+            },
+            {
+              "row": "42.6",
+              "w": [
+                0,
+                10
+              ],
+              "tag": "place",
+              "label": "the place"
+            },
+            {
+              "row": "42.5",
+              "w": [
+                2,
+                4
+              ],
+              "tag": "frame",
+              "label": "the same frame"
+            },
+            {
+              "row": "42.7",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "frame",
+              "label": "the same frame"
+            },
+            {
+              "row": "42.5",
+              "w": [
+                5,
+                7
+              ],
+              "tag": "saying",
+              "label": "the name and the command"
+            },
+            {
+              "row": "42.7",
+              "w": [
+                3,
+                6
+              ],
+              "tag": "saying",
+              "label": "the name and the command"
+            },
+            {
+              "row": "42.7",
+              "w": [
+                6.2,
+                6.2
+              ],
+              "tag": "added",
+              "label": "after the dash"
+            }
+          ],
+          "why": "The two sayings are built alike, and in Ibsen the commands differ by one added word; the Old Man himself calls it the sundering word.",
+          "caption": "The Old Man sets Peer a riddle: what is the <b>difference</b> between a troll and a man. He answers it himself with two sayings, each with a place, the same frame (<b>the saying goes</b>), a name called out and a command. Contrasted things set side by side in matching form are called antithesis. In Ibsen the trolls’ command is the men’s three words with one more after a dash, and that word is the whole difference between the two commands. The translators, William and Charles Archer, also add a <i>to</i> and turn two words round. In his next speech the Old Man calls the added word <b>sundering</b>, dividing.",
+          "stands": "The marks on the passage, which includes the Old Man’s next speech. The riddle is put a few lines earlier in [Act 2, scene 6](#/read/peer-gynt/a2s6:36). Antithesis as *Silva Rhetoricae* defines it. Ibsen’s Norwegian in the Oslo edition, *Henrik Ibsens skrifter*, with *Bokmålsordboka* for the added word.",
+          "grounds": [
+            {
+              "claim": "the two sayings match part for part; in the English the second command has the two words of the first turned round after to, then a dash and one more word; in his next speech (rows 49.0-49.1) the Old Man names the added word and calls it sundering",
+              "kind": "plate"
+            },
+            {
+              "claim": "the Old Man asks what the difference is between trolls and men, the courtier calls it the king’s riddle, Peer answers that he sees none, and the Old Man says he will tell where the difference lies",
+              "kind": "text",
+              "source": "Act 2, scene 6 (a2s6): rows 36.0-36.1, 38.0 and 40.0; rows 42.2-42.3 on the plate"
+            },
+            {
+              "claim": "antithesis: contrasted words or ideas placed side by side, often in matching form",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under antithesis"
+            },
+            {
+              "claim": "in Ibsen the men’s command is three words (vær dig selv) and the trolls’ is the same three with a fourth, nok, enough, after a dash",
+              "kind": "source",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 2, the Dovre king’s speech; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under nok and selv"
+            }
+          ]
+        },
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "four beats to the line; the number of syllables between the beats is free",
+          "scan": {
+            "42.2": {
+              "meter": "xx/x/xx/x/",
+              "voice": "x x / x /xx / x /"
+            },
+            "42.3": {
+              "meter": "x/x/xx/x/",
+              "voice": "x / x / x x/ x /"
+            },
+            "42.4": {
+              "meter": "x/x/xx/x/",
+              "voice": "x /x /x x /x /"
+            },
+            "42.5": {
+              "meter": "xx/x/xx/xx/",
+              "voice": "xx / x /x x / x x/"
+            },
+            "42.6": {
+              "meter": "x/xx/xx/xx/",
+              "voice": "x / x x / x x / x x /"
+            },
+            "42.7": {
+              "meter": "x/xx/xx/xx/",
+              "voice": "x /x x / x x/ xx/"
+            },
+            "45.0": {
+              "meter": "xx/xx/",
+              "voice": "x x /x x /"
+            },
+            "47.0": {
+              "meter": "x/xx/x",
+              "voice": "x / x x /x"
+            },
+            "49.0": {
+              "meter": "x/xx/xx/xx/xx",
+              "voice": "x / x x/ x x /x x /xx"
+            },
+            "49.1": {
+              "meter": "/xx/xx/xx/x",
+              "voice": "/ x x /x x/ x x/x",
+              "div": {
+                "6": "es|cut|cheon."
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "42.5",
+                7,
+                7
+              ],
+              "say": "The last beat falls here, and the line and the saying end together."
+            },
+            {
+              "at": [
+                "42.7",
+                5,
+                6
+              ],
+              "say": "The same word now has the last beat but one. The last falls after the dash, on the added word."
+            },
+            {
+              "at": [
+                "45.0",
+                0,
+                4
+              ],
+              "say": "Two beats. Peer’s reply has the other two: the courtier and Peer share one line."
+            },
+            {
+              "at": [
+                "49.1",
+                0,
+                0
+              ],
+              "say": "The noun begins its line with a beat, after the two adjectives that end the line before. Ibsen divides the lines the same way, and his line end there is a rhyme word."
+            }
+          ],
+          "why": "The Archers keep Ibsen’s four beats and line ends without his rhymes: the men’s saying ends on thyself, the trolls’ on the added word, a rhyme word in Ibsen; rhyme emphasizes the end of a line.",
+          "caption": "The Archers’ translation gives up Ibsen’s rhymes and keeps his measure, line for line: four beats, here with one or two syllables between them. The rule under each line marks the beats; the dots are the speaking voice. In the men’s saying the last beat falls on <b>thyself</b> and the line ends. In the trolls’ saying <b>thyself</b> has the last beat but one, and the last comes after the dash, on the added word. In Ibsen both line ends are rhyme words, and a handbook of verse says that rhyme emphasizes the end of a line. The added word is given that place.",
+          "stands": "The marks on the passage. William Archer’s Introduction to the translation, on its verse. Ibsen’s rhyme words and line ends in the Oslo edition, *Henrik Ibsens skrifter*. Rhyme and the end of the line: Paull F. Baum, *The Principles of English Versification*, chapter 3.",
+          "grounds": [
+            {
+              "claim": "where the four beats fall in each line; the line shared by the courtier and Peer; Word at the head of its line, before a comma, after the two adjectives that end the line before",
+              "kind": "plate"
+            },
+            {
+              "claim": "the play is rhymed throughout; the translation keeps the original’s measures, drops the rhymes and follows it line for line; thirty of the thirty-eight scenes are in an irregular measure of four accents, and the translators kept the four accents without matching each line foot for foot",
+              "kind": "source",
+              "source": "William Archer, Introduction to Peer Gynt, in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239"
+            },
+            {
+              "claim": "in Ibsen the two sayings end on rhyme words (selv with Hvælv, nok with Flok); the courtier and Peer share one line; the noun Ord, word, begins the line after its two adjectives, and the adjective that ends the line before it (stærke, strong: the Archers have turned the two adjectives round) rhymes with the end of the noun’s own line",
+              "kind": "source",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 2, the Dovre king’s speeches"
+            },
+            {
+              "claim": "in rhymed verse the end of the line is emphasized, so that the line stands out as a unit; the pause at the end of a line is greatly emphasized by rhyme",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter III, Metre (on the line, and on the pauses of verse); Project Gutenberg no. 21342"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "42.7",
+              "w": [
+                6.2,
+                6.2
+              ],
+              "gloss": "as much as is needed",
+              "note": "From Old English *genog*, sufficient. A dictionary of today’s Norwegian enters the trolls’ phrase as a set expression: to care about no one else.",
+              "source": "Online Etymology Dictionary, under enough; Oxford English Dictionary, enough, adj. (public page: inherited from Germanic, in use since Old English); Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), the set phrase entered under nok and under selv, defined as not caring about anyone else"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                8,
+                8
+              ],
+              "gloss": "dividing, setting apart",
+              "note": "From Old English *sundrian*, to divide, from *sundor*, apart; the word that survives in *asunder*.",
+              "source": "Online Etymology Dictionary, under sunder"
+            },
+            {
+              "row": "49.1",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "shield bearing a coat of arms",
+              "note": "From Old North French *escuchon*, from Latin *scutum*, a shield; in English since the late 1400s.",
+              "source": "Online Etymology Dictionary, under escutcheon; Oxford English Dictionary, escutcheon, n. (public page: a borrowing from French, earliest evidence 1480)"
+            },
+            {
+              "row": "p:82.0",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "the motto’s last word, alone",
+              "note": "Said alone as a cry, meaning that is enough, the word is recorded in English from about 1600. In Ibsen the reply is the motto’s word too, *nok*, which can also mean that a limit has been reached.",
+              "source": "Online Etymology Dictionary, under enough; Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Acts 2 and 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under nok"
+            }
+          ],
+          "why": "Enough means sufficient; for Auden, to be enough to oneself is to have no I set over against the self, and he applies the word to the poet, who as a poet manages without other people.",
+          "caption": "<b>Enough</b> means as much as is needed. The Old Man calls it a <b>sundering</b> word, one that divides, to be cut on Peer’s <b>escutcheon</b>, the shield with his coat of arms. Auden, quoting both sayings in <i>The Enchafèd Flood</i>, says that to be enough to oneself is to have no conscious I set over against the self: one cannot refuse oneself, tell fantasy from fact, or lie. In <i>The Dyer’s Hand</i> he applies the word to the poet, who as a poet manages without other people. In Act 5 the word alone is Peer’s reply; a few lines on he says it again with two names: <i>a hill-troll</i>, <i>an egoist</i>.",
+          "stands": "The Online Etymology Dictionary under *enough*, *sunder* and *escutcheon*. The Norwegian phrase in *Bokmålsordboka*, under *nok*; Ibsen’s word in the Oslo edition. The Old Man’s words in the passage, and Peer’s a few lines after his reply in [Act 5, scene 8](#/read/peer-gynt/a5s8:91). Auden: *The Enchafèd Flood*, pp. 85–86, and *The Dyer’s Hand*, p. 439.",
+          "grounds": [
+            {
+              "claim": "enough: sufficient; as an interjection, meaning that is enough, from about 1600",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under enough"
+            },
+            {
+              "claim": "today’s Norwegian has the trolls’ phrase as a set expression, defined as not caring about anyone else (the dictionary does not say where the phrase comes from)",
+              "kind": "source",
+              "source": "Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), the set phrase entered under nok and under selv"
+            },
+            {
+              "claim": "a few lines after his one-word reply Peer says the word again, followed by two names, a hill-troll and an egoist",
+              "kind": "text",
+              "source": "Act 5, scene 8 (a5s8), row 91.0"
+            },
+            {
+              "claim": "sunder: to divide, to set apart",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under sunder"
+            },
+            {
+              "claim": "escutcheon: the shield that bears a coat of arms",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under escutcheon"
+            },
+            {
+              "claim": "the Old Man gives the word two adjectives, one of them sundering, and says it must be cut on Peer’s escutcheon; in Act 5 Peer’s reply is the one word",
+              "kind": "plate"
+            },
+            {
+              "claim": "the trolls’ word fits the poet, who is aware that other people exist and, as a poet, manages without them; outside Norway Peer has no serious relations with anyone",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 439"
+            },
+            {
+              "claim": "Auden quotes the king’s question, Peer’s answer and the two sayings (in the Everyman wording) and says that to be enough to oneself means having no conscious ego over against the self, being unable to refuse oneself or to tell fantasy from reality, and being unable to lie",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950), pp. 85–86 (the scan research/auden/ef.txt, lines 3617-3645; in this book the page number stands at the foot of its page: the quotation and the first words of the gloss are on p. 85, the rest on p. 86)"
+            },
+            {
+              "claim": "in Ibsen the last word of the trolls’ saying and Peer’s reply in Act 5 are both nok, which means sufficient and also having reached the limit of what can be borne, as in the cry that it must now be enough",
+              "kind": "source",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Acts 2 and 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under nok"
+            }
+          ]
+        },
+        {
+          "kind": "compare",
+          "label": "Return",
+          "ties": [
+            {
+              "a": [
+                "49.0",
+                6,
+                8
+              ],
+              "b": [
+                "p:75.0",
+                1,
+                4
+              ],
+              "say": "The Old Man repeats his two adjectives from Act 2. Peer has to ask which motto, and then which word."
+            },
+            {
+              "a": [
+                "49.1",
+                1,
+                6
+              ],
+              "b": [
+                "p:71.1",
+                1,
+                6
+              ],
+              "say": "Act 2: the word is to be cut on the shield. Act 5: the Old Man says Peer inscribed it. Here the shield is the translators’ own: by their note Ibsen’s line is, literally, writing the motto behind the ear."
+            },
+            {
+              "a": [
+                "42.7",
+                3,
+                6
+              ],
+              "b": [
+                "p:79.1",
+                3,
+                7
+              ],
+              "say": "The same saying. In Act 2 a dash stands before the last word. In Act 5 there is no dash, in the English or in Ibsen."
+            },
+            {
+              "a": [
+                "47.0",
+                0,
+                4
+              ],
+              "b": [
+                "p:82.0",
+                0,
+                0
+              ],
+              "say": "In Act 2 Peer finds the saying misty. In Act 5, by the stage direction, he steps back and says the word."
+            }
+          ],
+          "why": "Peer asks the Old Man to witness that he remained himself; the Old Man answers with his saying of Act 2, and Peer says that word has passed judgment on him.",
+          "caption": "In Act 5 Peer asks the Old Man to swear in court that he resisted being made a troll, in order to remain himself. The Old Man refuses, and answers in his words of Act 2: the <i>potent and sundering</i> word, then the saying, now without its dash, and in Ibsen with two of its Act 2 rhymes. Peer steps back and says the one word. At the next cross-road he says that word has passed judgment on him.",
+          "stands": "The two passages as they stand side by side. The rest of the meeting in [Act 5, scene 8](#/read/peer-gynt/a5s8:57), and Peer’s words at the next cross-road in [scene 9](#/read/peer-gynt/a5s9:2). The translators’ note on the motto line. Ibsen’s dash and rhymes in the Oslo edition, *Henrik Ibsens skrifter*.",
+          "grounds": [
+            {
+              "claim": "which words of Act 2 come back in Act 5; the saying has a dash in Act 2 and none in Act 5; Peer’s reply is the one word",
+              "kind": "plate"
+            },
+            {
+              "claim": "Peer asks the Old Man to swear in court that he resisted being made a troll, in order to stay himself; the Old Man refuses, answers that the end was the reverse, and says that Peer has lived by the word from then on, as a troll",
+              "kind": "text",
+              "source": "Act 5, scene 8 (a5s8): rows 57.1-57.8, 59.0, 67.0, 84.0-84.1 and 89.1"
+            },
+            {
+              "claim": "alone at the next cross-road, Peer says that the Dovrë word has passed judgment on him",
+              "kind": "text",
+              "source": "Act 5, scene 9 (a5s9), row 2.1"
+            },
+            {
+              "claim": "Peer asks which motto and which word; he steps back before he replies",
+              "kind": "text",
+              "source": "a5s8 rows 73.0 and 77.0; stage direction, block 81"
+            },
+            {
+              "claim": "Ibsen’s Act 5 line is, literally, that Peer wrote the motto behind his ear",
+              "kind": "source",
+              "source": "the translators’ footnotes in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239, the note to this line"
+            },
+            {
+              "claim": "in Ibsen the saying has a dash in Act 2 and none in Act 5, and the Act 5 lines rhyme on two of the pairs of the Act 2 lines (Flok with nok; stærke with a compound ending in mærke)",
+              "kind": "source",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Acts 2 and 5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "onion",
+      "heading": "The onion (three of nine coats shown)",
+      "text": "peer-gynt/a5s5",
+      "rows": [
+        "5.1-5.2",
+        "7.0-7.5",
+        "9.0-9.1",
+        "11.0-11.2",
+        "13.0"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "extended metaphor",
+          "plain": "one thing spoken of as another, with the likeness carried on part by part",
+          "draw": "map",
+          "join": [[0, 1], [2, 3], [4, 5], [6, 7]],
+          "parts": [
+            {
+              "row": "5.1",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "man",
+              "label": "the man"
+            },
+            {
+              "row": "5.1",
+              "w": [
+                9,
+                9
+              ],
+              "tag": "onion",
+              "label": "the onion"
+            },
+            {
+              "row": "7.0",
+              "w": [
+                3,
+                4
+              ],
+              "tag": "onion",
+              "label": "the onion"
+            },
+            {
+              "row": "7.1",
+              "w": [
+                2,
+                3
+              ],
+              "tag": "man",
+              "label": "the man"
+            },
+            {
+              "row": "7.2",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "man",
+              "label": "the man"
+            },
+            {
+              "row": "7.2",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "onion",
+              "label": "the onion"
+            },
+            {
+              "row": "7.4",
+              "w": [
+                0,
+                1
+              ],
+              "tag": "onion",
+              "label": "the onion"
+            },
+            {
+              "row": "7.4",
+              "w": [
+                4,
+                5
+              ],
+              "tag": "man",
+              "label": "the man"
+            },
+            {
+              "row": "9.0",
+              "w": [
+                5,
+                5
+              ],
+              "tag": "onion",
+              "label": "the onion"
+            },
+            {
+              "row": "9.1",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "onion",
+              "label": "the onion"
+            },
+            {
+              "row": "11.0",
+              "w": [
+                7,
+                8
+              ],
+              "tag": "onion",
+              "label": "the onion"
+            },
+            {
+              "row": "11.1",
+              "w": [
+                3.1,
+                3.1
+              ],
+              "tag": "onion",
+              "label": "the onion"
+            }
+          ],
+          "why": "Peer calls himself an onion and gives each coat the name of a man he has been; where he looks for a kernel, no man is named. Auden says almost everything Peer does is a part he plays.",
+          "caption": "Peer tells himself he is an <b>onion</b>, not that he is like one. He carries the likeness on: the <b>outermost layer</b> is the <b>shipwrecked man</b>, then the <b>passenger</b>, then the gold-digger. A metaphor carried on like this is an extended metaphor. The marks pair each coat with its man. From <b>swathings</b> on, the onion words stand alone: where Peer looks for a <b>kernel</b>, he names nobody. In Act 4 he throws off a Turkish costume with a line that begins like the first coat’s, <i>there lies the Turk</i>, then <i>here stand I</i>; that part, he says, was <i>only a matter of clothes</i>. For Auden, almost everything Peer does is a part he plays.",
+          "stands": "The marks on the passage, and what Peer says in it. Metaphor and its longer forms as *Silva Rhetoricae* defines them, under *metaphor*, *conceit* and *allegory*. The Turkish costume: [Act 4, scene 9](#/read/peer-gynt/a4s9:1). Auden: *The Dyer’s Hand*, p. 438.",
+          "grounds": [
+            {
+              "claim": "which words name the onion and which the man; after the third coat the onion words have no partner",
+              "kind": "plate"
+            },
+            {
+              "claim": "Peer, speaking to himself as you, calls himself an onion outright, with no word of likeness; all the way to the middle he finds only more wrappings",
+              "kind": "text",
+              "source": "rows 5.1 and 11.0-11.1"
+            },
+            {
+              "claim": "a metaphor speaks of one thing as another; carried on at length it is called a sustained or extended metaphor",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under metaphor, allegory and conceit"
+            },
+            {
+              "claim": "in Act 4 Peer takes off his Turkish costume piece by piece, throws the turban away with a line that begins with the same three words as the first coat’s line and that the caption quotes, and says it was only a matter of clothes",
+              "kind": "text",
+              "source": "Act 4, scene 9 (a4s9): stage directions, blocks 1 and 3; rows 4.0 and 4.2 (row 6.8 adds that it was not his personal self that fell)"
+            },
+            {
+              "claim": "Ibsen shows the poet as a man for whom almost everything he does is a part to play",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 438"
+            }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Layers",
+          "what": "The coats in the order Peer strips them: what he calls each, the part he played, and where in the play that part is seen or told",
+          "facts": [
+            {
+              "coat": "1",
+              "Peer calls it": "the man from the wreck, on the keel of the boat",
+              "the part he played": "castaway, holding on to the upturned boat",
+              "seen or told in": "Act 5, scene 2",
+              "lines": 2,
+              "read": "peer-gynt/a5s2:0",
+              "source": "a5s5 7.0-7.1; a5s2 blocks 0-4"
+            },
+            {
+              "coat": "2",
+              "Peer calls it": "the passenger, thin, with a taste of Peer Gynt",
+              "the part he played": "passenger on the ship home from Panama",
+              "seen or told in": "Act 5, scene 1",
+              "lines": 2,
+              "read": "peer-gynt/a5s1:0",
+              "source": "a5s5 7.2-7.3; a5s1 87.2 and 213.0"
+            },
+            {
+              "coat": "3",
+              "Peer calls it": "the gold-digger, dried out",
+              "the part he played": "gold-digger in San Francisco",
+              "seen or told in": "never staged; told in Act 5, scenes 1 and 4",
+              "lines": 2,
+              "read": "peer-gynt/a5s1:50",
+              "source": "a5s5 7.4-7.5; a5s1 50.1; a5s4 133.0"
+            },
+            {
+              "coat": "4",
+              "Peer calls it": "the fur hunter by Hudson’s Bay, coarse and hard",
+              "the part he played": "",
+              "seen or told in": "never staged; named nowhere else in the play",
+              "lines": 2,
+              "source": "a5s5 7.6-7.7; a search of the hosted text for peltry and Hudson finds only these rows"
+            },
+            {
+              "coat": "5",
+              "Peer calls it": "a coat like a crown, which he throws away",
+              "the part he played": "the Kaiser of the self, it appears, crowned with a straw wreath in the Cairo madhouse",
+              "seen or told in": "Act 4, scene 13",
+              "lines": 2,
+              "read": "peer-gynt/a4s13:221",
+              "source": "a5s5 7.8-7.9; a4s13 blocks 221-224; Peer names no man for this coat, and that it is the madhouse crown is an inference from its look and its place in the order"
+            },
+            {
+              "coat": "6",
+              "Peer calls it": "the archaeologist, small and strong",
+              "the part he played": "student of the past, before Memnon’s statue and the Sphinx",
+              "seen or told in": "Act 4, scenes 11 and 12",
+              "lines": 1,
+              "read": "peer-gynt/a4s11:0",
+              "source": "a5s5 7.10; a4s9 8.26-8.32; a4s11 block 0; a4s12 blocks 0-1"
+            },
+            {
+              "coat": "7",
+              "Peer calls it": "the Prophet, juicy, smelling of lies",
+              "the part he played": "prophet in an Arab chief’s tent",
+              "seen or told in": "Act 4, scenes 6 to 8",
+              "lines": 3,
+              "read": "peer-gynt/a4s6:0",
+              "source": "a5s5 7.11-7.13; a4s5 blocks 39-43; a4s6 blocks 0-3; a4s9 block 1"
+            },
+            {
+              "coat": "8",
+              "Peer calls it": "the gentleman who lived well",
+              "the part he played": "rich gentleman giving a dinner on the coast of Morocco",
+              "seen or told in": "Act 4, scene 1",
+              "lines": 2,
+              "read": "peer-gynt/a4s1:0",
+              "source": "a5s5 7.14-7.15; a4s1 blocks 0-1"
+            },
+            {
+              "coat": "9",
+              "Peer calls it": "a sick coat, streaked with black; black, he says, stands for parsons and black people",
+              "the part he played": "the shipper of slaves, idols and missionaries, it appears",
+              "seen or told in": "told in Act 4, scene 1",
+              "lines": 2,
+              "read": "peer-gynt/a4s1:64",
+              "source": "a5s5 7.16-7.17 (the second of these rows uses a racial slur and is not shown); a4s1 64.0-64.2 and 70.28-70.29; Peer names no man for this coat, and that it is the trade he tells of in Act 4, scene 1 is an inference from what he says the black stands for and from its place in the order"
+            },
+            {
+              "coat": "then several at once",
+              "Peer calls it": "nothing: he names none of them",
+              "the part he played": "",
+              "seen or told in": "",
+              "source": "a5s5 block 8 (stage direction). The poet took these coats for Acts 1 to 3, by the order. The text does not say so, and the examiner took it out on 2026-10-03 (exam.md, the second passage, Layers); what can be checked is that none of the names Peer gives belongs to Acts 1 to 3"
+            },
+            {
+              "coat": "the middle",
+              "Peer calls it": "more coats, each smaller, and no kernel",
+              "the part he played": "",
+              "seen or told in": "",
+              "source": "a5s5 9.0-9.1 and 11.0-11.1"
+            },
+            {
+              "scenes in each act": [3, 8, 4, 13, 10],
+              "the speech": {
+                "read": "peer-gynt/a5s5:7"
+              }
+            }
+          ],
+          "why": "The staged coats come off in the order opposite to the scenes, back through Acts 5 and 4, and no name he gives belongs to Acts 1 to 3; Auden says almost everything Peer does is a part he plays.",
+          "caption": "The coats whose parts are seen on the stage come off last scene first: the castaway of Act 5, scene 2, the passenger of scene 1, then Act 4 backward to the gentleman of scene 1. The Act 4 run begins with a coat like a crown, which appears to be the straw crown of the madhouse that ends the act. Among the parts Auden says Peer plays are the Prophet in the East and the trade in slaves and idols. Then Peer pulls off several at once, unnamed. No name he gives belongs to Acts 1 to 3.",
+          "stands": "Peer’s [whole speech](#/read/peer-gynt/a5s5:7), of which the passage shows part, and the scenes named beside each coat, in the text printed here. He names no man for the coat like a crown or for the black-streaked one: those two are matched by what he says of them and by their place in the order. Auden: *The Dyer’s Hand*, p. 438.",
+          "grounds": [
+            {
+              "claim": "the nine coats Peer strips one by one and their order; the several pulled off at once; no kernel",
+              "kind": "text",
+              "source": "Act 5, scene 5 (a5s5): rows 7.0-7.17, 9.0-9.1, 11.0-11.1 and the stage directions, blocks 6 to 12"
+            },
+            {
+              "claim": "the passage shows the first three coats and leaves out the twelve lines that give the other six",
+              "kind": "plate"
+            },
+            {
+              "claim": "where each part was played or told",
+              "kind": "text",
+              "source": "the rows given with each entry of the table: a5s2, a5s1, a5s4, a4s13, a4s11, a4s12, a4s9, a4s6, a4s5 and a4s1"
+            },
+            {
+              "claim": "the coat that looks like a crown comes off between the two parts never staged and the archaeologist, which is where the crowning with a straw wreath in the madhouse falls (the last scene of Act 4), and Peer is there hailed by the title the passage begins from; the caption gives the match as an inference. For the ninth coat Peer names no man: he says its black streaks stand for parsons and black people, and in Act 4, scene 1 he tells of shipping slaves and idols and then missionaries; the table gives that match as an inference too",
+              "kind": "text",
+              "source": "a5s5 rows 5.1, 7.8-7.9 and 7.16-7.17; a4s1 rows 64.0-64.2 and 70.28-70.29; a4s13 blocks 221-224"
+            },
+            {
+              "claim": "Peer gives a man’s name to seven coats (the shipwrecked man, the passenger, the gold-digger, the fur hunter, the archaeologist, the Prophet, the gentleman); none of the seven is a part of Acts 1 to 3; the coats pulled off together get no name",
+              "kind": "text",
+              "source": "a5s5 rows 7.0-7.17 and the stage direction, block 8, set against the scenes of Acts 1 to 3 (a1s1 to a3s4)"
+            },
+            {
+              "claim": "among the parts Auden says Peer plays are the slave and idol trade and the prophet in the East",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 438"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "5.1",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "emperor; from Latin Caesar",
+              "note": "The German title, taken early from Latin *Caesar*. In the Cairo madhouse Peer is crowned with straw as Kaiser of the self.",
+              "source": "Online Etymology Dictionary, under kaiser; the translators’ footnotes in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239, the note on the word at Act 4, scene 1; Act 1, scene 1 (a1s1), row 144.0; Act 4, scene 13 (a4s13), blocks 221-224; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under keiser"
+            },
+            {
+              "row": "7.4",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "Latin for I",
+              "note": "Ibsen’s word is *jeget*, the I: the pronoun made into a noun. *Ego* is the Latin pronoun, used in English philosophy for the self as the one who thinks and acts.",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under jeg (noun); Online Etymology Dictionary, under ego; Oxford English Dictionary, ego, n. (public page: a borrowing from Latin)"
+            },
+            {
+              "row": "9.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "wrappings, bandages",
+              "note": "From *swathe*, to bind or wrap. Ibsen’s speech has two words for the coats: *Lag*, a layer, and *Svøb*, a cloth for wrapping. In this line and where the word returns he has *Lag*.",
+              "source": "Online Etymology Dictionary, under swathe; Oxford English Dictionary, swathing, n. (public page: formed from swathe, earliest evidence 1375); Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under lag and svøp"
+            },
+            {
+              "row": "9.1",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "a seed; the core",
+              "note": "Old English *cyrnel*, a seed or pip, from the root of *corn*. The wider sense, the core of anything, dates from the 1550s. Ibsen’s word, *Kjærnen*, has both senses.",
+              "source": "Online Etymology Dictionary, under kernel; Oxford English Dictionary, kernel, n.1 (public page: inherited from Germanic, in use since Old English); Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under kjerne"
+            }
+          ],
+          "why": "The speech takes back the title Peer claimed in Act 1, calls one coat an ego, an I, and looks for a kernel; Auden says the only empire safe from everyone else is one’s own consciousness.",
+          "caption": "<b>Kaiser</b>, from <i>Caesar</i>, is the German for emperor; the Archers’ translation uses it for Ibsen’s <i>kejser</i>. In Act 1 Peer tells his mother he <i>will be a king, a kaiser</i>, and Auden says the only empire safe from everyone else is one’s own consciousness. Just before the passage Peer composes his epitaph as Kaiser of the beasts; the passage begins by taking the title back. One coat is an <b>ego</b>, Latin for I: Ibsen writes <i>jeget</i>, the I. Peer looks for a <b>kernel</b>, the seed or core, and finds <b>swathings</b>, wrappings, in Ibsen simply layers. The scene ends with his cry, on hearing Solveig sing, that here was his <i>Kaiserdom</i>.",
+          "stands": "The Online Etymology Dictionary under *kaiser*, *ego*, *swathe* and *kernel*. The translators’ note on *Kaiser* at Act 4, scene 1. Ibsen’s words in the Oslo edition and in *Bokmålsordboka*. The boast: [Act 1, scene 1](#/read/peer-gynt/a1s1:144). The epitaph and the last line of the scene: [Act 5, scene 5](#/read/peer-gynt/a5s5:3). The crowning: [Act 4, scene 13](#/read/peer-gynt/a4s13:221). Auden: *The Dyer’s Hand*, p. 437.",
+          "grounds": [
+            {
+              "claim": "kaiser: the German title, taken early from Latin Caesar",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under kaiser"
+            },
+            {
+              "claim": "the Archers write Kaiser for Ibsen’s kejser, emperor",
+              "kind": "source",
+              "source": "the translators’ footnotes in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239, the note on the word at Act 4, scene 1; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under keiser"
+            },
+            {
+              "claim": "Peer tells his mother he will be king and kaiser",
+              "kind": "text",
+              "source": "Act 1, scene 1 (a1s1), row 144.0"
+            },
+            {
+              "claim": "Peer tells his mother he will be king and emperor, and the only empire safe from everyone else is one’s own consciousness",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 437"
+            },
+            {
+              "claim": "the passage begins by saying he is no Kaiser; one coat is called an ego; he looks for a kernel and finds swathings",
+              "kind": "plate"
+            },
+            {
+              "claim": "just before the passage Peer composes the epitaph he will cut on a tree, as Kaiser over all the other beasts, then questions the word and laughs",
+              "kind": "text",
+              "source": "Act 5, scene 5 (a5s5): rows 3.15-3.18 and the stage direction, block 4"
+            },
+            {
+              "claim": "the scene ends, when he hears Solveig singing in the hut, with his cry that here was his Kaiserdom",
+              "kind": "text",
+              "source": "a5s5 blocks 20-26; the word is in row 25.3"
+            },
+            {
+              "claim": "in the Cairo madhouse Peer is crowned with a wreath of straw and hailed as Kaiser of the self (the word note on Kaiser)",
+              "kind": "text",
+              "source": "Act 4, scene 13 (a4s13), blocks 221-224"
+            },
+            {
+              "claim": "Ibsen’s word for the gold-digger is jeget, the I; where the Archers have swathings he has Lag, layers",
+              "kind": "source",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under jeg (noun) and lag"
+            },
+            {
+              "claim": "ego: Latin for I; kernel: a seed, and from the 1550s the core of anything; swathe: to bind or wrap",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under ego, kernel and swathe"
+            }
+          ]
+        },
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "four beats to the line; the number of syllables between the beats is free",
+          "scan": {
+            "5.1": {
+              "meter": "x/xx/xx/xx/x",
+              "voice": "x /x x / x x / x x /x",
+              "div": {
+                "9": "on|ion."
+              }
+            },
+            "5.2": {
+              "meter": "x/xx/x/xx/",
+              "voice": "x /x x / x / x x /"
+            },
+            "7.0": {
+              "meter": "x/x/xx/xx/",
+              "voice": "x / x /xx /x x /"
+            },
+            "7.1": {
+              "meter": "xx/x/xx/xx/",
+              "voice": "x x /x / x x /xx /"
+            },
+            "7.2": {
+              "meter": "xx/xx/x/xx/",
+              "voice": "x x /xx /x /x x /",
+              "div": {
+                "0": "Here’s"
+              }
+            },
+            "7.3": {
+              "meter": "x/xx/xx/xx/",
+              "voice": "x / x x / x x / x x /",
+              "div": {
+                "5": "there’s"
+              }
+            },
+            "7.4": {
+              "meter": "/xx/xx/xx/x",
+              "voice": "/ xx/ x x /xx /x"
+            },
+            "7.5": {
+              "meter": "x/xx/xx/xx/x",
+              "voice": "x / x x /x x /x x /x"
+            },
+            "9.0": {
+              "meter": "/xx/x/xx/x",
+              "voice": "/ x x/x /x x /x"
+            },
+            "9.1": {
+              "meter": "x/x/xx/xx/",
+              "voice": "x / x /x x /x x /"
+            },
+            "11.0": {
+              "meter": "x/xx/xx/xx/x",
+              "voice": "x / x x / x x /xx /x",
+              "div": {
+                "8": "cen|tre,"
+              }
+            },
+            "11.1": {
+              "meter": "x/xx/xx/xx/x",
+              "voice": "x /x x /xx /x x /x"
+            },
+            "11.2": {
+              "meter": "/xx/x",
+              "voice": "/x x /x"
+            },
+            "13.0": {
+              "meter": "x/xx/x",
+              "voice": "x /x x /x"
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "7.2",
+                6,
+                6
+              ],
+              "say": "In Ibsen this line end rhymes with the next: his word for thin, *tyndt*, with *Gynt*."
+            },
+            {
+              "at": [
+                "11.2",
+                0,
+                2
+              ],
+              "say": "Two beats: half a line. The stage direction falls in the middle of the verse."
+            },
+            {
+              "at": [
+                "13.0",
+                0,
+                3
+              ],
+              "say": "The other two beats. In Ibsen these words rhyme with the end of the next line, which says that thinking makes a man stumble."
+            }
+          ],
+          "why": "Each coat shown takes two lines, in Ibsen a rhymed couplet, which its rhyme makes one unit; the measure, William Archer says, was designed for supple dialogue and can carry moving speech as well as comic.",
+          "caption": "This is Ibsen’s measure for most of the play, kept in the Archers’ translation without his rhymes: four beats, the syllables between them free. William Archer took it to be designed for variety and suppleness in dialogue, and found it fit for moving speech as well as comic. Each of the three coats shown takes two lines. In Ibsen each pair is a rhymed couplet, and a handbook of verse says the quick return of the rhyme makes a couplet one unit: a coat to a couplet. The last line shown is split by a stage direction, as in Ibsen: two beats, Peer throws the pieces away, two beats more.",
+          "stands": "The marks on the passage. William Archer’s Introduction to the translation, on its verse. Ibsen’s couplets and his divided line in the Oslo edition, *Henrik Ibsens skrifter*. The couplet as one unit: Paull F. Baum, *The Principles of English Versification*, chapter 4, on the short couplet.",
+          "grounds": [
+            {
+              "claim": "where the four beats fall in each line; each of the three coats shown takes two lines; the last line shown is two half lines of two beats with a stage direction between them",
+              "kind": "plate"
+            },
+            {
+              "claim": "thirty of the thirty-eight scenes are in an irregular measure of four accents, which Archer takes to be designed for variety and suppleness in the dialogue; the translation keeps the measures and drops the rhymes; he calls the rhythm rub-a-dub and says the verse is capable of pathetic as well as humorous expression",
+              "kind": "source",
+              "source": "William Archer, Introduction to Peer Gynt, in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239"
+            },
+            {
+              "claim": "in Ibsen each of the first three coats is one rhymed couplet (Lag with Vrag; tyndt, thin, with Gynt; jeget with ejet); the same line is split by the same stage direction; the second half of the split line rhymes with the next line",
+              "kind": "source",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 5, the onion speech; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under tynn"
+            },
+            {
+              "claim": "the quick return of the rhyme sound causes a couplet to be felt as a unit (said of the four-stress or short couplet)",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter IV, Metrical Forms, on the short couplet; Project Gutenberg no. 21342"
+            },
+            {
+              "claim": "the next line says that thinking as one walks makes one trip",
+              "kind": "text",
+              "source": "row 13.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "answer",
+      "heading": "Peer’s riddle and Solveig’s answer",
+      "text": "peer-gynt/a5s10",
+      "rows": [
+        "222.0-226.0"
+      ],
+      "label": "The riddle and its answer",
+      "turn": { "224.1": 4 },
+      "pair": {
+        "label": "The last six lines of the play: Solveig’s lullaby, the Button-Moulder’s voice, the lullaby again",
+        "text": "peer-gynt/a5s10",
+        "rows": [
+          "241.0-247.1"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "anaphora",
+          "plain": "the same words at the head of line after line, or of phrase after phrase",
+          "draw": "align",
+          "parts": [
+            {
+              "row": "224.1",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "where",
+              "label": "his question"
+            },
+            {
+              "row": "224.2",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "where",
+              "label": "his question"
+            },
+            {
+              "row": "226.0",
+              "w": [
+                0,
+                1
+              ],
+              "tag": "in",
+              "label": "her answer"
+            },
+            {
+              "row": "226.0",
+              "w": [
+                3,
+                4
+              ],
+              "tag": "in",
+              "label": "her answer"
+            },
+            {
+              "row": "226.0",
+              "w": [
+                7,
+                8
+              ],
+              "tag": "in",
+              "label": "her answer"
+            }
+          ],
+          "why": "Peer asks where he was, twice over, and Solveig names a place three times, each time with my; Auden counts her line as one more answer and says Ibsen does not decide whether that faith is well founded.",
+          "caption": "Peer begins two lines with the same three words, <b>Where was I</b>. Solveig answers in three phrases, all built on two words, <b>in my</b>. Starting line after line, or phrase after phrase, with the same words is called anaphora. His <i>where</i> asks for a place; her <i>in my</i> gives three, each something of hers. Peer starts back, calls these <i>juggling words</i>, and tells her that she is herself the mother of the man who is there. She says she is. Auden counts her line among the answers to the play’s question, and says Ibsen does not decide whether that faith is well founded.",
+          "stands": "The marks on the passage. Anaphora as *Silva Rhetoricae* and Merriam-Webster define it. What Peer and Solveig say next, in [the same scene](#/read/peer-gynt/a5s10:228). Auden’s review “The Wandering Jew” (1941), which was not seen in full, and *The Dyer’s Hand*, p. 441.",
+          "grounds": [
+            {
+              "claim": "which words begin Peer’s two lines and stand at the head of Solveig’s three phrases (the third after and); her three places are each called my",
+              "kind": "plate"
+            },
+            {
+              "claim": "anaphora: one word or several, repeated to begin each of a run of lines, clauses or phrases",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under anaphora; Merriam-Webster (merriam-webster.com), under anaphora"
+            },
+            {
+              "claim": "Peer starts back, calls her answer a juggling with words, and tells her that she is herself mother to the man who is there; she answers that she is",
+              "kind": "text",
+              "source": "Act 5, scene 10 (a5s10): stage direction, block 228; rows 229.0-229.1 and 231.0"
+            },
+            {
+              "claim": "Solveig’s answer settles no more than the answers before it",
+              "kind": "auden",
+              "source": "“The Wandering Jew,” The New Republic, 10 February 1941 (reprinted in Prose, vol. II, pp. 110–13). Seen by the examiner as the passage that an exact-phrase search of archive.org finds in the scanned issue (vol. 104, no. 1367) and in the scanned Prose volume; not seen in full"
+            },
+            {
+              "claim": "Ibsen does not decide whether that faith is well founded",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 441"
+            }
+          ]
+        },
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "four beats to the line; the number of syllables between the beats is free",
+          "scan": {
+            "222.0": {
+              "meter": "xx/xx/x",
+              "voice": "x x /x x /x"
+            },
+            "224.0": {
+              "meter": "x/xx/x",
+              "voice": "x / x x /x"
+            },
+            "224.1": {
+              "meter": "xx/xx/xx/xx/x",
+              "voice": "x x / x x/ x x / x x / x"
+            },
+            "224.2": {
+              "meter": "xx/xx/xx/x/",
+              "voice": "x x / x / /x x/ x /"
+            },
+            "226.0": {
+              "meter": "xx/xx/x/x/",
+              "voice": "x x / x x / x x x /"
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "222.0",
+                0,
+                4
+              ],
+              "say": "Two beats. Peer’s next words have the other two: Solveig and Peer share one line."
+            },
+            {
+              "at": [
+                "224.2",
+                4,
+                4
+              ],
+              "say": "The voice stresses this word as well. It falls between two beats, so the line can also be heard with five stresses."
+            },
+            {
+              "at": [
+                "226.0",
+                7,
+                7
+              ],
+              "say": "For four beats, one would have to fall on a small word, this one or the one before it. Read plainly, neither has weight."
+            }
+          ],
+          "why": "The Archers say they gave up the meter of Solveig’s line to keep it plain: it has three stresses, on faith, hope and love, where Peer’s questions have four beats.",
+          "caption": "Solveig and Peer share the first line, two beats each. Peer’s two questions then fill the measure, four beats each; the voice adds a stress on <b>God’s</b>, between beats. Solveig’s answer has ten syllables and three stresses, on <b>faith</b>, <b>hope</b> and <b>love</b>; a fourth beat would have to fall on a small word. The translators’ note says they gave up the measure of this line because padding would spoil its simplicity. In Ibsen the line ends on his word for love, rhyming with the last word of Peer’s half-line.",
+          "stands": "The marks on the passage. The translators’ note to Solveig’s line, which prints Ibsen’s words; his rhymes in the Oslo edition, *Henrik Ibsens skrifter*.",
+          "grounds": [
+            {
+              "claim": "the first line is shared, two beats and two; Peer’s questions have four beats each, and in the second the voice also stresses God’s, between beats; Solveig’s line has ten syllables and three stresses",
+              "kind": "plate"
+            },
+            {
+              "claim": "the translators gave up the meter of this line so as not to spoil its simplicity with padding",
+              "kind": "source",
+              "source": "the translators’ footnotes in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239, the note to this line"
+            },
+            {
+              "claim": "in Ibsen the four lines rhyme first with last: the last word of Peer’s half line (ved) with the last word of her answer (Kjærlighed, love)",
+              "kind": "source",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 5, the last scene; the translators’ footnotes in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239, the note to this line, which prints Ibsen’s words"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "224.1",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "as in Act 2: be thyself",
+              "note": "In Ibsen one word, *selv*, stands in both sayings of Act 2 and in this question. Auden remarks that the English word can stand for the one who is aware or for the one he is aware of.",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Acts 2 and 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under selv; “Genius & Apostle,” in The Dyer’s Hand (1962), p. 438"
+            },
+            {
+              "row": "224.2",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "a seal, sign or mark",
+              "note": "From Late Latin *sigillum*, from a diminutive of Latin *signum*, a mark or sign. Ibsen’s word is *Stempel*, a stamp or the mark it leaves.",
+              "source": "Online Etymology Dictionary, under sigil; Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Act 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under stempel"
+            },
+            {
+              "row": "226.0",
+              "w": [
+                9,
+                9
+              ],
+              "gloss": "also: charity",
+              "note": "Ibsen’s word is *Kjærlighed*.",
+              "source": "the translators’ footnotes in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239, the note to this line; 1 Corinthians 13:13, King James Version"
+            }
+          ],
+          "why": "Peer asks where he was as himself, with God’s stamp on his brow, after the Button-Moulder has defined being oneself as showing the Master’s intention, lines Auden quotes on the human motto; Solveig answers with Paul’s three words.",
+          "caption": "Peer asks where he was <b>as myself</b>. The men’s saying in Act 2 was <i>be thyself</i>, and Ibsen has one word in both, <i>selv</i>, self. Peer then asks where he was with God’s <b>sigil</b> on his brow: a seal, sign or mark, in Ibsen <i>Stempel</i>, a stamp. The Button-Moulder has told him that to be oneself is to show the Master’s intention like a signboard. Auden quotes those lines as the Button-Moulder’s comment on the men’s saying. Solveig answers with three nouns, the three Paul names in 1 Corinthians, in his order: faith, hope, charity. By the translators’ note, Ibsen’s word for <b>love</b> also means charity in the biblical sense.",
+          "stands": "What Peer and Solveig say in the passage. The men’s saying: [Act 2, scene 6](#/read/peer-gynt/a2s6:42). The Button-Moulder’s answer: [Act 5, scene 9](#/read/peer-gynt/a5s9:33). Ibsen’s words in the Oslo edition and *Bokmålsordboka*; *sigil* in the Online Etymology Dictionary. The translators’ note to Solveig’s line. 1 Corinthians 13:13, King James Bible. Auden: *The Dyer’s Hand*, pp. 438 and 439.",
+          "grounds": [
+            {
+              "claim": "Peer asks where he was as himself, and with God’s sigil on his brow; Solveig answers with faith, hope and love",
+              "kind": "plate"
+            },
+            {
+              "claim": "the men’s saying in Act 2 is to be thyself",
+              "kind": "text",
+              "source": "Act 2, scene 6 (a2s6), row 42.5"
+            },
+            {
+              "claim": "in Ibsen the saying and the question have the same word, selv (vær dig selv; som mig selv); his word for sigil is Stempel",
+              "kind": "source",
+              "source": "Henrik Ibsens skrifter (University of Oslo, ibsen.uio.no), Peer Gynt, text of the first edition of 1867, Acts 2 and 5; Bokmålsordboka (University of Bergen and the Language Council of Norway, ordbokene.no), under selv and stempel"
+            },
+            {
+              "claim": "sigil: a sign, mark or seal; from Late Latin sigillum, from a diminutive of Latin signum, an identifying mark or sign",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under sigil"
+            },
+            {
+              "claim": "the English word myself can stand for the I that is aware or for the self it is aware of (the note on that word); Auden gives it as something he has been told about translating the play",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 438"
+            },
+            {
+              "claim": "the Button-Moulder’s second answer: to be oneself is to show the Master’s intention everywhere, as a signboard shows its message",
+              "kind": "text",
+              "source": "Act 5, scene 9 (a5s9), rows 33.0-33.3"
+            },
+            {
+              "claim": "Auden quotes those lines, in the Archers’ wording, as what the Button-Moulder has to say about the human motto",
+              "kind": "auden",
+              "source": "“Genius & Apostle,” in The Dyer’s Hand (1962), p. 439"
+            },
+            {
+              "claim": "Paul’s three are faith, hope and charity, in that order",
+              "kind": "source",
+              "source": "1 Corinthians 13:13, King James Version"
+            },
+            {
+              "claim": "Ibsen’s word for love also means charity in the biblical sense",
+              "kind": "source",
+              "source": "the translators’ footnotes in The Collected Works of Henrik Ibsen, vol. IV (1907), Project Gutenberg no. 66239, the note to this line"
+            }
+          ]
+        },
+        {
+          "kind": "figure",
+          "label": "Ending",
+          "name": "aposiopesis",
+          "plain": "a sentence broken off in the middle, with the rest left unsaid",
+          "draw": "other",
+          "parts": [
+            {
+              "row": "p:241.0",
+              "w": [
+                0,
+                5
+              ],
+              "tag": "sleep",
+              "label": "the song: sleep"
+            },
+            {
+              "row": "p:241.1",
+              "w": [
+                0,
+                7
+              ],
+              "tag": "watch",
+              "label": "the song: watch"
+            },
+            {
+              "row": "p:244.1",
+              "w": [
+                0,
+                4
+              ],
+              "tag": "begun",
+              "label": "the sentence begun"
+            },
+            {
+              "row": "p:244.1",
+              "w": [
+                5,
+                8
+              ],
+              "tag": "stop",
+              "label": "he stops himself"
+            },
+            {
+              "row": "p:247.0",
+              "w": [
+                0,
+                7
+              ],
+              "tag": "watch",
+              "label": "the song: watch"
+            },
+            {
+              "row": "p:247.1",
+              "w": [
+                0,
+                6
+              ],
+              "tag": "sleep",
+              "label": "the song: sleep"
+            }
+          ],
+          "why": "The Button-Moulder’s sentence stops before it says what will be seen at the last cross-road, and two lines later the play ends; Auden wrote in 1941 that Peer has him still to meet and that no answer is final.",
+          "caption": "The Button-Moulder’s voice comes into Solveig’s lullaby with two lines. The second begins to say what will be seen at the last cross-road, <b>And then we’ll see whether</b>, and stops: <b>I say no more</b>. Breaking off in mid-sentence is called aposiopesis. Three times he has let Peer go on to the next cross-road; the third time he also breaks off, at <i>but then</i>. Solveig then sings louder; her two lines return in the opposite order, with <b>dream</b> added. Auden wrote in 1941 that a staging in which Peer dies here gets the play wrong: Solveig’s answer settles no more than the others, and Peer has the Button-Moulder still to meet.",
+          "stands": "The marks on the last six lines of the play. Aposiopesis as *Silva Rhetoricae* defines it. The three times the Button-Moulder lets Peer go on: Act 5, [scene 7](#/read/peer-gynt/a5s7:122), [scene 9](#/read/peer-gynt/a5s9:61) and [scene 10](#/read/peer-gynt/a5s10:174). Auden’s review “The Wandering Jew” (1941), which was not seen in full.",
+          "grounds": [
+            {
+              "claim": "the voice comes between the two pairs of lullaby lines; its sentence stops after whether; the lullaby lines return in the opposite order with dream added",
+              "kind": "plate"
+            },
+            {
+              "claim": "aposiopesis: a speaker stops short partway through what he is saying",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under aposiopesis"
+            },
+            {
+              "claim": "three times the Button-Moulder has let Peer go on to the next cross-road; the third time his sentence also breaks off, after but then; his last two lines speak of the last cross-road",
+              "kind": "text",
+              "source": "Act 5 (a5s7 row 122.1; a5s9 row 61.0; a5s10 row 174.0; a5s10 rows 244.0-244.1, on the plate)"
+            },
+            {
+              "claim": "the direction has Solveig sing louder, in the full daylight",
+              "kind": "text",
+              "source": "a5s10, stage direction, block 246"
+            },
+            {
+              "claim": "stagings in which Peer dies at the close get the play wrong, Auden says, because Solveig’s answer settles no more than the earlier ones; Peer has the Button-Moulder still to meet, and every answer is provisional",
+              "kind": "auden",
+              "source": "“The Wandering Jew,” The New Republic, 10 February 1941 (reprinted in Prose, vol. II, pp. 110–13). Seen by the examiner as the passage that an exact-phrase search of archive.org finds in the scanned issue (vol. 104, no. 1367) and in the scanned Prose volume; not seen in full"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In an essay of 1941 Auden makes the trolls’ saying the motto of a closed society and the human saying the motto of the adult member of an open one. In *The Dyer’s Hand* he calls the trolls’ motto the motto of the animals. He gives the human saying as a command to be true to oneself. That is the wording of R. Farquharson Sharp’s Everyman translation, the edition named on his reading list for the course, in which the two commands differ by one word. The Archers’ translation, printed here, has *be thyself*. The Button-Moulder’s lines he quotes in 1962 are in the Archers’ words.",
+      "source": "“Criticism in a Mass Society,” in *The Intent of the Critic*, edited by Donald A. Stauffer (1941), pp. 130–31; “Balaam and His Ass” and “Genius & Apostle,” in *The Dyer’s Hand* (1962), pp. 110 and 439; *Peer Gynt*, translated by R. Farquharson Sharp, Everyman’s Library (1921), Act 2, scene 6",
+      "checked": "The Dyer’s Hand read in the scan, research/auden/dh.txt, lines 5199-5201 (p. 110) and 20775-20786 (p. 439). The lines quoted on p. 439 are word for word those of the hosted text (a5s9 rows 33.0-33.3 and a5s10 rows 101.1-101.7) and differ from the Everyman wording (scan of that edition, lines 14456-14463). The Everyman wording was read in the scan of that edition (a 1960 reprint of the edition of 1921), research/texts/peer_gynt_sharp_everyman_1921_ia_ocr.txt, lines 4186-4187; that it is the edition on the Michigan sheet is from remake/research/A_michigan_course.md (the table of the sheet) and D_texts.md, section 17. Examiner, 2026-10-03: all of this read again. “Criticism in a Mass Society” was read in the open scan of The Intent of the Critic (Princeton University Press, 1941; archive.org identifier TheIntentOfTheCritic): the essay begins on p. 125; the closed society and the trolls’ motto are on p. 130, the adult of the open society and the human motto on p. 131 (the page number stands at the foot of the page). The research notes (H17e, H17o) give this essay the wording of the other piece of 1940; the scan shows it the other way round, which changes nothing said here."
+    },
+    {
+      "says": "In *The Enchafèd Flood* (1950) Auden quotes the troll king’s riddle and its answer, in the Everyman wording, and calls it a catechism. The prospect of putting off human nature and being a troll, he says, draws every man, and each keeps something back, as Peer does. He also quotes the Button-Moulder’s answer about being oneself beside Father Mapple’s sermon in *Moby-Dick*, and says the two say the same thing. Near the end he has the Button-Moulder wait for the artist at the next cross-roads, to ask whether he has become himself.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 85–86, 116–17 and 149",
+      "checked": "Examiner, 2026-10-03: read in the scan, research/auden/ef.txt (in this book the page number stands at the foot of its page). Lines 3617-3645: the king’s question, Peer’s answer and the two sayings, quoted in the wording of Sharp’s Everyman translation, and the gloss of the trolls’ word (pp. 85-86). Lines 3646-3700: the prospect alluring to every man, and Peer’s reservations, with his speech of refusal quoted (p. 86). Lines 4433-4435: Faust and Peer Gynt (p. 107). Lines 4812-4838: Father Mapple’s two sayings at the foot of p. 116 and the Button-Moulder’s answer on p. 117, again in the Everyman wording. Lines 6126-6137: the artist as Ishmael, for whom the Button-Moulder and the Boojum wait at the next cross-roads (p. 149: the lines stand between the foot numbers 148 and 149). The research notes list only p. 107 for this book; the poet did not have the other pages."
+    },
+    {
+      "says": "Three times in *The Dyer’s Hand* Auden tells another scene from the troll hall. The troll king proposes a small operation on Peer’s eye that would make a true troll of him, and Peer refuses. He will gladly call a cow a lovely girl, but he will not be altered until he cannot tell which is which. Auden calls that keeping his humanity, which includes the power to lie. In “Genius & Apostle” the scene shows the poet, who pretends for the fun of it and knows his made-up worlds are made up.",
+      "source": "“Balaam and His Ass,” “The Prince’s Dog” and “Genius & Apostle,” in *The Dyer’s Hand* (1962), pp. 110, 194 and 438",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 5201-5206 (p. 110), 9196-9213 (p. 194) and 20759-20765 (p. 438), and read again on 2026-10-03"
+    },
+    {
+      "says": "In *The Dyer’s Hand* Auden says that Solveig’s answer is Peer’s own belief said back to him, and that the price of being a poet may yet be the Button-Moulder’s casting-ladle. So far, he adds, Peer has been lucky in the women behind him. He takes the bond of mother and child in the play as a parable of a love that time does not touch and that nothing either one does can change. In 1946 he set the ending beside that of Goethe’s *Faust*, found Faust’s rescue unconvincing, and called Ibsen the more honest of the two, since *Peer Gynt* ends with the Button-Moulder warning Peer of another meeting.",
+      "quote": "Ibsen leaves in doubt the question whether this faith is justified or not.",
+      "source": "“Genius & Apostle,” in *The Dyer’s Hand* (1962), pp. 440–41; “K.’s Quest,” in *The Kafka Problem*, edited by Angel Flores (1946), pp. 47–52",
+      "checked": "The Dyer’s Hand read in the scan, research/auden/dh.txt, lines 20883-20890 (p. 441), and read again on 2026-10-03. Examiner, 2026-10-03: p. 441 read again, and the sentence on the mother and child, lines 20863-20867, which stands on p. 440 (after the head of p. 440 and before the head of p. 441). The essay of 1946 is not among the scans. Its two sentences on Faust and on Ibsen were seen as the passages that an exact-phrase search of archive.org returns from three scanned copies of The Kafka Problem and from the scanned Prose volume; the book’s contents, seen the same way, give the essay pp. 47 to 52 (it begins on p. 47 and the next piece on p. 53). The page of the two sentences inside the essay is not pinned: the research notes give p. 49. Not seen in full."
+    }
+  ],
+  "next": "peer-gynt/a1s1:0",
+  "sources": [
+    "The text: Henrik Ibsen, *Peer Gynt*, translated by William and Charles Archer, in *The Collected Works of Henrik Ibsen*, vol. IV (1907), as Project Gutenberg prints it (no. 66239). The translation first appeared in 1892 and was revised for this edition.",
+    "William Archer’s Introduction to that volume, on the verse of the play and of the translation: rhymed throughout in Norwegian; here in the meters of the original with the rhymes left out, line for line; thirty of the thirty-eight scenes in an irregular measure of four accents.",
+    "The translators’ footnotes in the same volume: on *Kaiser* (at Act 4, scene 1), on the motto line of Act 5, scene 8, and on Solveig’s answer in the last scene.",
+    "Ibsen’s Norwegian: *Henrik Ibsens skrifter*, University of Oslo (ibsen.uio.no), *Peer Gynt*, the text of the first edition of 1867. It is described on this page, not printed.",
+    "The Norwegian words: *Bokmålsordboka*, University of Bergen and the Language Council of Norway (ordbokene.no), under *nok* (with the set phrase that matches the trolls’ saying), selv, jeg, lag, svøp, kjerne, keiser, stempel and tynn.",
+    "The edition named on Auden’s reading list for the course: *Peer Gynt*, translated by R. Farquharson Sharp, Everyman’s Library (1921), Act 2, scene 6.",
+    "Word histories: Online Etymology Dictionary, under *enough*, *sunder*, *escutcheon*, *kaiser*, *ego*, *swathe*, *kernel* and *sigil*; *Oxford English Dictionary*, the public pages for *enough*, *escutcheon*, *ego*, *swathing* and *kernel*.",
+    "The names of the figures: Gideon O. Burton, *Silva Rhetoricae* (rhetoric.byu.edu), under *antithesis*, *anaphora*, *aposiopesis*, *metaphor*, *allegory* and *conceit*; Merriam-Webster, under *anaphora*.",
+    "Paull F. Baum, *The Principles of English Versification* (1922): chapter 3, on rhyme and the end of the line; chapter 4, on the short couplet.",
+    "1 Corinthians 13:13, King James Bible.",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Balaam and His Ass,” p. 110; “The Prince’s Dog,” p. 194; “Genius & Apostle,” pp. 436–41.",
+    "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 85–86, 116–17 and 149.",
+    "W. H. Auden, “Criticism in a Mass Society,” in *The Intent of the Critic*, edited by Donald A. Stauffer (1941), pp. 130–31.",
+    "W. H. Auden, “The Wandering Jew,” *The New Republic*, 10 February 1941; reprinted in his *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 110–13. Not seen in full.",
+    "W. H. Auden, “K.’s Quest,” in *The Kafka Problem*, edited by Angel Flores (1946), pp. 47–52. Not seen in full."
+  ],
+  "caveats": [
+    "Auden’s review of 1941, “The Wandering Jew,” and his essay of 1946, “K.’s Quest,” were read here only in the passages that a search of scanned copies brings up. The sentences this page reports from them were seen; the pages around them were not.",
+    "The English verse is William and Charles Archer’s. Auden set his class the Everyman translation by R. Farquharson Sharp, which words these passages differently: its saying for men is to be true to oneself, and that is the form Auden quotes.",
+    "What is said of Ibsen’s Norwegian rests on the first-edition text in the University of Oslo’s edition and on a dictionary of today’s Norwegian. The Norwegian is described, not printed, and matching Ibsen’s spellings of 1867 to today’s dictionary words is this page’s own step.",
+    "The stresses marked are one reader’s hearing of a free measure of four beats. Several lines can fairly be heard another way, and Solveig’s answer can be given a fourth beat by leaning on a small word.",
+    "Peer names no man for two of the nine coats. That the coat like a crown is the straw crown of the madhouse, and the black-streaked coat the trade in slaves, idols and missionaries, is inferred from what he says of each and from its place in the order."
+  ],
+  "open": [
+    "Auden’s review of 1941 (“The Wandering Jew”) and his essay of 1946 (“K.’s Quest”) are not among the scans. The examiner saw the sentences used here only as the passages that exact-phrase searches of archive.org return from scanned copies (the New Republic issue of 10 February 1941, the Prose volume, three copies of The Kafka Problem), not the full texts. The page numbers in Prose, vol. II (110–13) are the research notes’; the page of the 1946 sentences inside the essay (pp. 47–52, from the book’s contents) is not pinned, and the notes say p. 49. The view of the piece leans on the review of 1941. “Criticism in a Mass Society” has now been read in the open scan of The Intent of the Critic (1941), pp. 130–31.",
+    "The scan of The Dyer’s Hand misprints two words of the sentence quoted in the view (p. 436). The sentence is given as the research notes give it, where it is marked as checked against the page.",
+    "The Oxford English Dictionary’s full entries are behind a paywall. Only its public summary pages were read (origin, earliest date). The senses and dates in the word lenses are from the Online Etymology Dictionary.",
+    "The Norwegian text is not shown, because the research notes list no out-of-copyright source for it. What is said about Ibsen’s words and rhymes was read in the University of Oslo’s edition online. The meanings were read in a dictionary of today’s Bokmål; matching Ibsen’s spellings of 1867 (Svøb, tyndt, Kjærnen) to today’s headwords (svøp, tynn, kjerne) is this reading’s own step.",
+    "Auden’s remark that the Norwegian language keeps the I and the self apart in two words is given by him as something he had been told. Bokmålsordboka has both nouns, jeg and selv, and explains each by the other, so the remark could not be confirmed there.",
+    "The examiner cut the poet’s reading of the coats Peer pulls off unnamed as Acts 1 to 3: nothing in the text says what they are. Two matches in the table of coats are still inferences and say “it appears”: the coat like a crown as the straw crown of the madhouse (Act 4, scene 13), and the black-streaked ninth coat as the trade Peer tells of in Act 4, scene 1. Peer names no man for either. The row “then several at once” now gives no part and no place, and the drawing follows.",
+    "In this free four-beat measure some lines can be heard more than one way. The other hearings are listed in notes.md, and no caption leans on a doubtful syllable.",
+    "The research notes and the book of 1941 disagree about which of two pieces has which wording of the two mottos. remake/research/C_auden_on_works.md (section 17(d), H17e and H17o) gives “Criticism in a Mass Society” a wording that the scan of The Intent of the Critic does not have; the wording the notes give to “Romantic or Free?” is the one printed in that book on pp. 130–31. Nothing in this reading depends on it. Another piece that quotes the essay should check it against the scan.",
+    "The research notes list one page of The Enchafèd Flood for this play (p. 107). The scan has three more places, which the examiner read and brought in: pp. 85–86, where Auden quotes the troll king’s riddle and the two sayings and says what the trolls’ word means, pp. 116–17, where he sets the Button-Moulder’s answer beside Father Mapple’s sermon, and p. 149, where the Button-Moulder waits for the artist at the next cross-roads. The second and third bear on the Moby-Dick piece as well, and the research notes could be brought up to date.",
+    "The artist’s notes (art.md, item 14) point out that in the Ending tab every mark falls on the six small lines set beside the passage. The examiner left the third passage as the poet built it; a fourth passage is not allowed, and the riddle and its answer have to stay the large lines for the other three tabs."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "o-fidelio",
+ "original": true,
+ "lang": "de",
+ "parts": [
+  {
+   "id": "aria",
+   "label": "Fidelio, Act 1, Scene 6: Leonore’s recitative and aria",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from the edition published at Stuttgart in 1970, which gives the spoken dialogue uncut in its original wording",
+    "url": "http://www.zeno.org/Literatur/M/Sonnleithner,+Joseph+Ferdinand+von/Libretto/Fidelio"
+   },
+   "file": "beethoven_fidelio_de_zeno.txt",
+   "lines": "929-985",
+   "words": 140
+  },
+  {
+   "id": "answer",
+   "label": "Fidelio, Act 2, Scene 5: the end of the spoken dialogue and the first lines of the duet, in German",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from the edition published at Stuttgart in 1970, which gives the spoken dialogue uncut in its original wording",
+    "url": "http://www.zeno.org/Literatur/M/Sonnleithner,+Joseph+Ferdinand+von/Libretto/Fidelio"
+   },
+   "file": "beethoven_fidelio_de_zeno.txt",
+   "lines": "2148-2178",
+   "words": 158
+  },
+  {
+   "id": "recognition",
+   "label": "Fidelio, Act 2, Scene 3: from the quartet, in German",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from the edition published at Stuttgart in 1970, which gives the spoken dialogue uncut in its original wording",
+    "url": "http://www.zeno.org/Literatur/M/Sonnleithner,+Joseph+Ferdinand+von/Libretto/Fidelio"
+   },
+   "file": "beethoven_fidelio_de_zeno.txt",
+   "lines": "2000-2026",
+   "words": 46
+  }
+ ]
+}

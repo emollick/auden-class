@@ -1,0 +1,1465 @@
+{
+  "piece": "moby-dick",
+  "title": "Ishmael and Ahab",
+  "where": "*Moby-Dick*, Chapters 1, 37 and 128",
+  "about": "Ishmael tells the story of a whaling voyage on the Pequod of Nantucket, whose captain, Ahab, has lost a leg to a white sperm whale, Moby Dick, and makes the crew swear to hunt it. In the first passage, from the opening paragraph, Ishmael says why he goes to sea. The second gives the opening and the close of Ahab’s speech alone in his cabin on the evening of the oath. In the third, near the end, another captain asks Ahab’s help to find a lost boat.",
+  "view": {
+    "says": "For Auden this is a tragedy of possibility: it could have gone otherwise. Ahab starts where a Greek hero finishes, in great misfortune, which tempts him and gives him a choice. He chooses wrongly and goes on doing so. Only his last refusal, of the Rachel’s plea for help, makes his end necessary. In defiance, Ahab says that fate acts and not he.",
+    "quote": "The defiant man and the obedient man use the same words “It is not I but Fate,” but their meaning is opposite.",
+    "source": "“The Christian Tragic Hero,” *The New York Times Book Review*, 16 December 1945, pp. 1 and 21; *The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 136–37 and 140 (the quotation is on p. 137)",
+    "checked": "The 1945 essay: read by the poet in the research notes, remake/research/C_auden_on_works.md, section 21 and appendix H4, which give it from the reprint in Corrigan, Tragedy: Vision and Form (1965), pp. 143-47. Examiner, 2026-10-03: no page was read through, but each sentence the view uses was found in archive.org full-text snippets of scanned reprints (Michel and Sewall, Tragedy: Modern Essays in Criticism, 1963, pp. 234-38; Corrigan; Auden’s Prose, vol. II): Christian tragedy as the tragedy of possibility; Ahab at the beginning what a Greek hero is at the end; a temptation and an opportunity to choose, the wrong choice made and kept up; the cry for help when the Pequod meets the Rachel as the last offer, after whose refusal his doom becomes necessary. The credit lines in Corrigan and in Michel and Sewall give the newspaper pages as 1 and 21. The Enchafèd Flood: read in the scan, research/auden/ef.txt, and read again on 2026-10-03. P. 136 (lines 5616-5625) says the fall that would close a Greek story is here placed ahead of the book’s first page; p. 137 (lines 5667-5674) has the quotation, with the iron-rails sentence of the second plate printed under it; p. 140 (lines 5765-5768) has the refusal of the Rachel’s captain. In this scan the page number stands at the foot of its page."
+  },
+  "plates": [
+    {
+      "id": "whenever",
+      "heading": "Ishmael, in Chapter 1",
+      "text": "moby-dick/c001",
+      "rows": [
+        "0.0[56-149]"
+      ],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "0.0",
+                56
+              ],
+              "to": [
+                "0.0",
+                64
+              ],
+              "tag": "waits",
+              "label": "9\u00a0words"
+            },
+            {
+              "from": [
+                "0.0",
+                65
+              ],
+              "to": [
+                "0.0",
+                74
+              ],
+              "tag": "waits",
+              "label": "10\u00a0words"
+            },
+            {
+              "from": [
+                "0.0",
+                75
+              ],
+              "to": [
+                "0.0",
+                93
+              ],
+              "tag": "waits",
+              "label": "19\u00a0words"
+            },
+            {
+              "from": [
+                "0.0",
+                94
+              ],
+              "to": [
+                "0.0",
+                127.1
+              ],
+              "tag": "waits",
+              "label": "34\u00a0words"
+            },
+            {
+              "from": [
+                "0.0",
+                127.2
+              ],
+              "to": [
+                "0.0",
+                141
+              ],
+              "tag": "main",
+              "label": "the main clause"
+            },
+            {
+              "from": [
+                "0.0",
+                57
+              ],
+              "to": [
+                "0.0",
+                59
+              ],
+              "tag": "done-to",
+              "label": "he finds himself"
+            },
+            {
+              "from": [
+                "0.0",
+                76
+              ],
+              "to": [
+                "0.0",
+                78
+              ],
+              "tag": "done-to"
+            },
+            {
+              "from": [
+                "0.0",
+                97
+              ],
+              "to": [
+                "0.0",
+                105
+              ],
+              "tag": "done-to",
+              "label": "his low spirits act"
+            },
+            {
+              "from": [
+                "0.0",
+                107
+              ],
+              "to": [
+                "0.0",
+                115
+              ],
+              "tag": "done-to",
+              "label": "a principle acts"
+            },
+            {
+              "from": [
+                "0.0",
+                128
+              ],
+              "to": [
+                "0.0",
+                129
+              ],
+              "tag": "his-verb",
+              "label": "he considers"
+            }
+          ],
+          "caption": "The first sentence here has 87 words. Four clauses headed by <b>whenever</b> come first, each longer than the last. Then comes the main clause, which could stand alone: <b>I account it high time</b>. Kept to the end, it holds the sense open. Auden wrote that Ishmael goes to sea to escape spleen and his own lack of power, and has consciousness and no will. In the first and third clauses Ishmael says <i>I find myself</i>, a phrase for what one does without meaning to. In the fourth his low spirits get the upper hand <i>of me</i>, and it takes a principle to <i>prevent me</i>. The main verb, <i>account</i>, means consider.",
+          "why": "The main clause waits behind four whenever clauses; in two Ishmael finds himself doing things, in the fourth his low spirits and a principle act on him; the main verb means consider; Auden’s Ishmael has consciousness and no will.",
+          "grounds": [
+            {
+              "claim": "the four clauses, their lengths (9, 10, 19 and 34 words), and where the main clause stands",
+              "kind": "plate"
+            },
+            {
+              "claim": "a main clause kept to the end holds the sense open",
+              "kind": "source",
+              "source": "Wikipedia, Periodic sentence (the main idea of such a sentence is complete only at its close; the handbook quoted there, William Harmon’s A Handbook to Literature, says the form keeps an idea waiting until then); Merriam-Webster, periodic sentence"
+            },
+            {
+              "claim": "to find oneself doing a thing is to begin it without intending to",
+              "kind": "source",
+              "source": "Wiktionary, find oneself, sense 2; Merriam-Webster, find, transitive sense 3b (used with oneself)"
+            },
+            {
+              "claim": "who acts in each clause: Ishmael says I find myself in the first and third; in the fourth the low spirits get the upper hand of him and a principle is needed to prevent him",
+              "kind": "plate"
+            },
+            {
+              "claim": "account: to consider",
+              "kind": "source",
+              "source": "Merriam-Webster, account (verb, transitive, sense 1)"
+            },
+            {
+              "claim": "Ishmael is pushed toward the sea by his need to get away from a state of spleen in which he has no power",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), p. 112"
+            },
+            {
+              "claim": "Ishmael: consciousness without will; he knows and does not act",
+              "kind": "auden",
+              "source": "“The Christian Tragic Hero,” The New York Times Book Review, 16 December 1945 (read by the poet in the research notes, C_auden_on_works.md, appendix H4; found by the examiner on 2026-10-03 in archive.org full-text snippets of the reprints in Corrigan, Tragedy: Vision and Form, 1965, and in Auden’s Prose, vol. II: the last paragraph of the essay)"
+            }
+          ],
+          "stands": "The marks on the passage, with a count of the words in each clause. What a main clause kept to the end does: Wikipedia, under Periodic sentence. The senses of *find oneself* and *account*: Wiktionary and Merriam-Webster. Auden on Ishmael: *The Enchafèd Flood*, p. 112, and “The Christian Tragic Hero” (1945)."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "anaphora",
+          "plain": "the same word at the head of clause after clause",
+          "draw": "align",
+          "parts": [
+            {
+              "row": "0.0",
+              "w": [
+                56,
+                56
+              ],
+              "tag": "A",
+              "label": "first"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                65,
+                65
+              ],
+              "tag": "A",
+              "label": "second"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                75,
+                75
+              ],
+              "tag": "A",
+              "label": "third"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                96,
+                96
+              ],
+              "tag": "A",
+              "label": "fourth"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                127.2,
+                127.2
+              ],
+              "tag": "then",
+              "label": "then"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                64,
+                64
+              ],
+              "tag": "item",
+              "label": "his face"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                74,
+                74
+              ],
+              "tag": "item",
+              "label": "his soul"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                82,
+                83
+              ],
+              "tag": "item",
+              "label": "the dead"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                91,
+                91
+              ],
+              "tag": "item"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                125,
+                126
+              ],
+              "tag": "item",
+              "label": "people’s hats"
+            }
+          ],
+          "caption": "All four clauses are headed by the same word, <b>whenever</b> (the fourth after <i>and especially</i>). A word repeated at the head of clause after clause is anaphora, and it makes the clauses one list. The list runs from his face to his soul, to coffins and funerals, to people’s hats in the street, and one <b>then</b> answers all four. Auden prints part of this sentence beside Coleridge and Baudelaire as a description of how it feels to be a solitary who cannot go the crowd’s way. <i>Whenever</i> means every time that, so each item is one that comes back; the sentence before calls going to sea <i>a way I have</i>.",
+          "why": "Four clauses are headed by whenever, which means every time that, so the sentence lists states that keep coming back; Auden prints part of it as a description of how it feels to be a solitary.",
+          "grounds": [
+            {
+              "claim": "which word heads each clause, what each clause names, and the single then",
+              "kind": "plate"
+            },
+            {
+              "claim": "anaphora: the same word at the beginning of successive clauses; repeating it makes the clauses a list",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), anaphora; Merriam-Webster, anaphora, sense 1; Encyclopaedia Britannica, anaphora. That the repetition makes the clauses a list is the craft knowledge named in remake/POET.md, and it can be seen in the marks"
+            },
+            {
+              "claim": "whenever: every time that",
+              "kind": "source",
+              "source": "Merriam-Webster, whenever (conjunction)"
+            },
+            {
+              "claim": "the sentence before calls going to sea a way I have",
+              "kind": "text",
+              "source": "moby-dick/c001, block 0, words 41 to 55"
+            },
+            {
+              "claim": "Auden sets part of the sentence (from November to the hats, without its whenevers and its main clause) beside Coleridge’s Dejection and Baudelaire’s Spleen as descriptions of how it feels to be an isolato who cannot go the crowd’s way and stands by himself; on the next page he calls this a condition",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), pp. 34-36"
+            }
+          ],
+          "stands": "The marks on the passage. Anaphora as *Silva Rhetoricae*, Merriam-Webster and the *Encyclopaedia Britannica* define it, and *whenever* as Merriam-Webster does. The words *a way I have* are in the sentence before, in [Chapter 1](#/read/moby-dick/c001:0). Auden prints part of the sentence in *The Enchafèd Flood*, p. 35, in an argument that runs from p. 34 to p. 36."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "0.0",
+              "w": [
+                79,
+                79
+              ],
+              "gloss": "without choice, not by will",
+              "note": "From the Latin *voluntas*, will, with *in-*, not.",
+              "source": "Merriam-Webster, involuntary; Online Etymology Dictionary, involuntary (adj.) and voluntary (adj.)"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                98,
+                98
+              ],
+              "gloss": "fits of melancholy",
+              "note": "Short for *hypochondria*, and in use from about 1710 for depression of the spirits.",
+              "source": "Wiktionary, hypo (obsolete: melancholy, a fit of hypochondria), which cites this sentence; Online Etymology Dictionary, hypo (n.) and hypochondria (n.); Merriam-Webster, hypo, noun (1), first known use 1709"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                102,
+                103
+              ],
+              "gloss": "mastery",
+              "source": "Merriam-Webster, upper hand"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                117,
+                117
+              ],
+              "gloss": "with a set purpose",
+              "note": "From the Latin *deliberare*, to weigh well; *libra* is a pair of scales.",
+              "source": "Online Etymology Dictionary, deliberate (adj.) and deliberately (adv.)"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                123,
+                123
+              ],
+              "gloss": "with method and order",
+              "note": "From the Greek *methodos*, at first a following after; *hodos* is a way or road.",
+              "source": "Merriam-Webster, methodical; Online Etymology Dictionary, method (n.) and methodical (adj.)"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                129,
+                129
+              ],
+              "gloss": "consider",
+              "source": "Merriam-Webster, account (verb, transitive, sense 1)"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                147,
+                149
+              ],
+              "gloss": "a gun and its bullet",
+              "note": "The next sentence sets his going to sea beside Cato, who threw himself on his sword.",
+              "source": "Merriam-Webster, ball, noun (1), sense 1c (a projectile for a firearm); moby-dick/c001, block 0, words 150 to 165"
+            }
+          ],
+          "caption": "<b>Hypos</b> is short for <i>hypochondria</i> and meant low spirits, fits of melancholy. <b>Involuntarily</b> is built on the Latin word for <i>will</i>, with <i>in-</i>, meaning not; it goes with what Ishmael does, at coffin warehouses and funerals. <b>Deliberately</b> comes from the Latin for weighing well, as on scales, and <b>methodically</b> from a Greek word for a following after, built on the word for a road. These two, the words of purpose and method, go only with the acts a principle must prevent: stepping into the street, knocking off hats. Auden’s image for the condition this sentence describes is Dürer’s <i>Melancholia</i>, who knows how to build her city and lacks the will.",
+          "why": "Involuntarily, at root not willed, goes with what Ishmael does; deliberately and methodically go only with acts a principle must prevent; Auden’s image of the condition is a figure who knows how and lacks the will.",
+          "grounds": [
+            {
+              "claim": "hypo, short for hypochondria: low spirits, melancholy",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, hypo (n.); Merriam-Webster, hypo, noun (1); Wiktionary, hypo, which cites this sentence"
+            },
+            {
+              "claim": "the roots of involuntarily, deliberately and methodically",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, involuntary and voluntary; deliberate and deliberately; method and methodical"
+            },
+            {
+              "claim": "which adverb goes with which act, and that a principle is needed to prevent the deliberate and methodical ones",
+              "kind": "plate"
+            },
+            {
+              "claim": "Dürer’s Melancholia as the image that explains this condition, the one the quoted passages describe (Coleridge, Baudelaire, this sentence of Melville’s, Mallarmé): she knows how to build her city and lacks the will to",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), p. 36"
+            }
+          ],
+          "stands": "The history of the words: Online Etymology Dictionary, under *hypo*, *involuntary*, *voluntary*, *deliberate* and *method*; Merriam-Webster and Wiktionary, under *hypo*. Which adverb goes with which act can be seen in the passage. Auden on Dürer’s *Melancholia*: *The Enchafèd Flood*, p. 36."
+        }
+      ]
+    },
+    {
+      "id": "rails",
+      "heading": "Ahab alone, in Chapter 37",
+      "text": "moby-dick/c037",
+      "rows": [
+        "1.0",
+        "4.0[225-269]"
+      ],
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "the foot of blank verse: an off-beat, then a beat",
+          "scan": {
+            "1.0": {
+              "meter": "x/|x/|x/|x/ |x/|x/|x/|x/|x/ |x/|x/|x/|x/|x/|x/ |x/ |x/|x/",
+              "voice": "x / x / x /x / | \\ /x /x / x/ x / | x /~x /x /x / x / x / | / x | x / x /",
+              "div": {
+                "11": "where|’er",
+                "15": "en|vi|ous",
+                "17": "side|long"
+              }
+            },
+            "4.0": {
+              "meter": "x/ |x/|x/|x/x |x/|x/|x/ |x/|x/|x/|x/ |x/|x/|x/|x/|x/|x/|x/|x/|x/|x/|x/|x/|x/ |x/|x/|x/|x/|x/|x/|x/",
+              "voice": "/ / | x / x x / /x x / x /x / x/ x / x / x / | /x x/x /x \\ x /x / x /x /x /x / x/xx x / | / x /xx / x /x x x /x /",
+              "div": {
+                "238": "where|on",
+                "250": "ri|fled",
+                "257": "un|err|ing|ly"
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "1.0",
+                0,
+                6
+              ],
+              "say": "Four feet to the first stop, then five, six, one and two. Only the second phrase has the five feet of a line of blank verse."
+            },
+            {
+              "at": [
+                "1.0",
+                11,
+                11
+              ],
+              "say": "A poet’s contraction of *wherever*. It saves a syllable, and the beat stays even."
+            },
+            {
+              "at": [
+                "4.0",
+                225,
+                232
+              ],
+              "say": "Two stresses, then a stop. Two more fall together, on *fixed* and the first syllable of *purpose*. They slow the voice, and here it leaves the rule."
+            },
+            {
+              "at": [
+                "4.0",
+                260,
+                262
+              ],
+              "say": "The last sentence starts on a stress, against the rule, and ends in step with it."
+            }
+          ],
+          "caption": "Ahab speaks alone, in prose, under a stage direction. The rule under the words repeats the foot of blank verse, the verse of Shakespeare’s plays: an off-beat, then a beat. The voice follows it through the first paragraph’s eighteen feet, with a light stress off the beat at <i>pale</i> and a foot, <i>let them</i>, that can be heard turned round. From <i>is laid</i> to <i>I rush</i> it follows twenty more, with one foot turned at <i>Over</i> and one beat left unstressed in <i>unerringly</i>. Chapter 16 says a whaleman of great force learns a <i>lofty language</i> and is <i>formed for noble tragedies</i>. For Auden, Ahab dies unrepenting, like Shakespeare’s tragic heroes.",
+          "why": "Ahab’s prose keeps the rising beat of blank verse in a chapter set as a play; Chapter 16 says a whaleman of great force learns a lofty language; Auden wrote that Ahab dies unrepenting, like Shakespeare’s tragic heroes.",
+          "grounds": [
+            {
+              "claim": "where the voice keeps the rule and where it leaves it",
+              "kind": "plate"
+            },
+            {
+              "claim": "the chapter opens with a stage direction, Ahab is alone, and the speech is printed as prose",
+              "kind": "text",
+              "source": "moby-dick/c037, blocks 0 to 4"
+            },
+            {
+              "claim": "blank verse is iambic pentameter without rhyme, the chief verse form of English drama and the verse of Shakespeare’s plays; an iamb is an unstressed syllable and then a stressed one; a pentameter is a line of five feet",
+              "kind": "source",
+              "source": "Encyclopaedia Britannica, blank verse; Merriam-Webster, blank verse, iamb and pentameter"
+            },
+            {
+              "claim": "where’er is a poetic contraction of wherever",
+              "kind": "source",
+              "source": "Wiktionary, where’er"
+            },
+            {
+              "claim": "stresses that fall together slow a line",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on lines overweighted with stress, which he says retard the tempo; chapter 4 says anapests are often slow-moving because weighty monosyllables must stand in their light places (Project Gutenberg no. 21342, read in the copy at .cache/handbooks/baum-versification-pg21342.txt)"
+            },
+            {
+              "claim": "among the Nantucket Quaker whalemen, a man whose natural force is far above the common learns a bold and nervous lofty language and is a creature formed for noble tragedies; the narrator adds that he is not yet speaking of such a man",
+              "kind": "text",
+              "source": "moby-dick/c016, block 42"
+            },
+            {
+              "claim": "Ahab, unrepenting like Shakespeare’s tragic heroes, goes to a death he chose; Macbeth and Ahab are named together",
+              "kind": "auden",
+              "source": "“The Christian Tragic Hero,” The New York Times Book Review, 16 December 1945 (read by the poet in the research notes, C_auden_on_works.md, section 21 and appendix H4; both sentences found by the examiner on 2026-10-03 in archive.org full-text snippets of the reprint in Michel and Sewall, Tragedy: Modern Essays in Criticism, 1963: the sentence on his death opens the last paragraph and says all of Shakespeare’s tragic heroes; the one on the prophecies names Macbeth and Captain Ahab)"
+            }
+          ],
+          "stands": "The marks on the passage, the opening and close of [Chapter 37](#/read/moby-dick/c037:0). Blank verse and its foot as the *Encyclopaedia Britannica* and Merriam-Webster define them, and *where’er* as Wiktionary does; stresses that fall together slow a line, according to Paull F. Baum, *The Principles of English Versification*, chapter 5. The narrator on the whaleman’s language: [Chapter 16](#/read/moby-dick/c016:42). Auden on Ahab and Shakespeare’s heroes: “The Christian Tragic Hero” (1945)."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "metaphor",
+          "plain": "one thing spoken of as another",
+          "draw": "map",
+          "parts": [
+            {
+              "row": "4.0",
+              "w": [
+                228,
+                232
+              ],
+              "tag": "A",
+              "label": "his path"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                239,
+                240
+              ],
+              "tag": "A",
+              "label": "his soul"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                236,
+                237
+              ],
+              "tag": "B",
+              "label": "a railroad"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                241,
+                244
+              ],
+              "tag": "B"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                268,
+                269
+              ],
+              "tag": "B"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                233,
+                234
+              ],
+              "tag": "passive",
+              "label": "no doer named"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                241,
+                242
+              ],
+              "tag": "passive"
+            },
+            {
+              "row": "1.0",
+              "w": [
+                6,
+                6
+              ],
+              "tag": "C",
+              "label": "a ship’s track"
+            },
+            {
+              "row": "1.0",
+              "w": [
+                22,
+                22
+              ],
+              "tag": "C"
+            }
+          ],
+          "caption": "Ahab has dared the gods to <b>swerve</b> him. His answer is a picture: the path to his purpose is laid with <b>iron rails</b>, and his soul is <b>grooved to run</b> on them. Speaking of one thing as another is a metaphor. At the start he says <i>I</i> for the ship, which leaves a <b>wake</b>, a <b>track</b> the waves swell to cover; at the end his way is iron. Neither verb, <i>is laid</i> or <i>is grooved</i>, names a doer. Earlier the verbs are his: <i>I’ve willed</i>, <i>I’ll do</i>. Auden quotes this sentence where he says that defiance and obedience both say it is fate, not I, and mean opposite things.",
+          "why": "Ahab answers his dare with a railroad, iron where the speech began with a wake, in verbs that name no one who laid the rails; Auden quotes the sentence for the defiant man saying it is fate, not he.",
+          "grounds": [
+            {
+              "claim": "the words of the railroad, the words of the ship’s track, and the two verbs with no doer",
+              "kind": "plate"
+            },
+            {
+              "claim": "metaphor: one thing is referred to as another, which compares the two",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), metaphor; Merriam-Webster, metaphor"
+            },
+            {
+              "claim": "he sits at the stern windows looking out; it is the gods he dares to swerve him; earlier in the speech he says I’ve willed and I’ll do",
+              "kind": "text",
+              "source": "moby-dick/c037, block 0 (the stage direction) and block 4, words 61 to 71 (the verbs that are his) and 124 to 224 (he speaks to the gods and dares them to swerve him)"
+            },
+            {
+              "claim": "whelm: to cover completely",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, whelm (v.)"
+            },
+            {
+              "claim": "defiance and obedience use the same words about fate and mean opposite things; this sentence is printed under the remark",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), p. 137"
+            }
+          ],
+          "stands": "The marks on the passage. Metaphor as *Silva Rhetoricae* and Merriam-Webster define it; *whelm* as the Online Etymology Dictionary gives it. The dare to the gods and the verbs *I’ve willed* and *I’ll do* come earlier in the speech, in [Chapter 37](#/read/moby-dick/c037:4). Auden quotes the sentence in *The Enchafèd Flood*, p. 137."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "1.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "muddy, not clear",
+              "note": "From the Latin *turbidus*, muddy, full of confusion; *turba* is turmoil, a crowd.",
+              "source": "Online Etymology Dictionary, turbid (adj.); Merriam-Webster, turbid"
+            },
+            {
+              "row": "1.0",
+              "w": [
+                15,
+                15
+              ],
+              "gloss": "maliciously grudging",
+              "note": "From the Latin *invidere*, to look at with malice; an obsolete English sense is malignant or spiteful.",
+              "source": "Wiktionary, envious, senses 1 and 3; Online Etymology Dictionary, envious (adj.) and envy (n.)"
+            },
+            {
+              "row": "1.0",
+              "w": [
+                20,
+                20
+              ],
+              "gloss": "cover completely, engulf",
+              "note": "To cover completely by the 1550s, to engulf like a flood by the 1660s: the second half of *overwhelm*.",
+              "source": "Online Etymology Dictionary, whelm (v.)"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                242,
+                242
+              ],
+              "gloss": "cut with a channel",
+              "note": "To *groove*, to cut a channel in, dates from the 1680s; from 1842 a *groove* was also a fixed routine, a rut.",
+              "source": "Online Etymology Dictionary, groove (n.) and groove (v.)"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                246,
+                246
+              ],
+              "gloss": "not fathomed or probed",
+              "note": "To *sound* is to measure the depth of water with a line and lead.",
+              "source": "Merriam-Webster, unsounded, adjective (2); Online Etymology Dictionary, sound (v.2)"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                250,
+                250
+              ],
+              "gloss": "plundered · cut with grooves",
+              "note": "To *rifle* is to plunder, from the fourteenth century; from the 1630s it is also to cut spiral grooves in a gun barrel.",
+              "source": "Online Etymology Dictionary, rifle (v.), both entries"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                257,
+                257
+              ],
+              "gloss": "making no mistake, not straying",
+              "note": "*Un-*, not, with *err*, from the Latin *errare*, to wander or go astray.",
+              "source": "Online Etymology Dictionary, unerring (adj.) and err (v.); Merriam-Webster, unerring"
+            }
+          ],
+          "caption": "<b>Envious</b> comes from the Latin for looking with malice, and once meant spiteful. In the chapter before, Ahab says he sees <i>inscrutable malice</i> in the whale; here he gives the waves a word of ill will. The surgeon of another ship, the Samuel Enderby, later calls the whale’s malice mere awkwardness, and Auden notes that Ahab cannot bear such sanity. The waves swell to <b>whelm</b> his track, to cover it completely. <b>Rifled</b> means plundered, and since the 1630s also cut with grooves, as a gun barrel is; <b>grooved</b> is his word for his own soul. <b>Unerringly</b> is built on <i>err</i>, from the Latin for wandering: it means making no mistake, not going astray.",
+          "why": "Ahab’s word for the waves once meant spiteful, and malice is what he sees in the whale; unerringly and grooved say he does not stray; Auden notes that he cannot bear the surgeon’s sanity.",
+          "grounds": [
+            {
+              "claim": "envious: from Latin invidere, to look at with malice, by way of invidus, envious, having hatred or ill will; obsolete sense malignant, spiteful",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, envious and envy; Wiktionary, envious, sense 3"
+            },
+            {
+              "claim": "Ahab says he sees inscrutable malice in the whale",
+              "kind": "text",
+              "source": "moby-dick/c036, block 39"
+            },
+            {
+              "claim": "whelm, rifled, grooved, err and unerring",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under each word"
+            },
+            {
+              "claim": "the billows swell in order to whelm his track; grooved is said of his soul",
+              "kind": "plate"
+            },
+            {
+              "claim": "the Enderby’s surgeon says the whale’s malice is no more than awkwardness",
+              "kind": "text",
+              "source": "moby-dick/c100, block 35. Finisher, 2026-10-03: the critic’s four words on whose surgeon he is were tested here. The ship is named in the chapter’s heading (block 0) and by her captain (block 22), the captain presents his ship’s surgeon at the end of block 19 (word 426), block 20 describes him, and he begins to speak in block 21; what the caption reports of the whale’s malice is his, in block 35"
+            },
+            {
+              "claim": "the Enderby’s sane example, a captain maimed like Ahab who has not despaired and a doctor who puts the malice down to clumsiness, is more than Ahab can stand",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), p. 137"
+            }
+          ],
+          "stands": "The history of the words: Online Etymology Dictionary, under *envious*, *envy*, *whelm*, *rifle*, *groove*, *err* and *unerring*; Wiktionary, under *envious*, for the old sense spiteful. Ahab on the whale’s malice: [Chapter 36](#/read/moby-dick/c036:39). The surgeon: [Chapter 100](#/read/moby-dick/c100:35). Auden on Ahab and the surgeon: *The Enchafèd Flood*, p. 137."
+        },
+        {
+          "kind": "shape",
+          "label": "Play",
+          "what": "the five chapters in a row that carry stage directions, 36 to 40, and how many of the 135 chapters do",
+          "facts": {
+            "counted": "Counted in the hosted text (Project Gutenberg no. 2701) with the build tools. A stage direction here is a block of kind d, a line the text sets apart from speech and narrative: 17 such lines in 12 chapters (one each in 36, 37, 39, 108, 119, 120, 121 and 122; two each in 38, 127 and 129; three in 40). Asides in brackets inside a paragraph are not counted. They occur in Chapter 36 (block 39), 37 (block 3), 39 (block 4), 40 (blocks 10, 16, 21, 26, 27, 28, 36 and 49), 108 (blocks 2, 3, 15, 34 and 35) and 119 (block 3), and in 91 (block 39) and 100 (block 19), which have no line set apart. The title of Chapter 29, which is worded as a stage direction, is not counted either. Word counts are of the whole chapter, directions and headings included.",
+            "chapters": 135,
+            "withStageDirections": {
+              "count": 12,
+              "chapters": [
+                36,
+                37,
+                38,
+                39,
+                40,
+                108,
+                119,
+                120,
+                121,
+                122,
+                127,
+                129
+              ],
+              "linesSetApart": 17
+            },
+            "inARow": [
+              {
+                "chapter": 36,
+                "title": "The Quarter-Deck",
+                "direction": "Ahab comes on, then everyone",
+                "hour": "near the close of day",
+                "place": "the quarter-deck, the stern area of the upper deck",
+                "who": "Ahab, the mates, the harpooneers and the crew",
+                "form": "narrative with speech",
+                "narrator": "speaks",
+                "words": 2769,
+                "where": "the hour is in block 6",
+                "read": "moby-dick/c036:0"
+              },
+              {
+                "chapter": 37,
+                "title": "Sunset",
+                "direction": "Ahab sits alone at the stern windows of the cabin, looking out",
+                "hour": "sunset",
+                "place": "the cabin, at the stern",
+                "who": "Ahab",
+                "form": "one speech, alone",
+                "narrator": "silent",
+                "words": 498,
+                "read": "moby-dick/c037:0"
+              },
+              {
+                "chapter": 38,
+                "title": "Dusk",
+                "direction": "Starbuck leans on the mainmast; later, revelry is heard from the forecastle",
+                "hour": "dusk",
+                "place": "the mainmast; Starbuck says the revelry is forward and the silence aft",
+                "who": "Starbuck, the chief mate",
+                "form": "one speech, alone",
+                "narrator": "silent",
+                "words": 388,
+                "where": "forward and aft are in block 3",
+                "read": "moby-dick/c038:0"
+              },
+              {
+                "chapter": 39,
+                "title": "First Night-Watch",
+                "direction": "Stubb, alone in the fore-top, mends a brace",
+                "hour": "the first night watch",
+                "place": "the fore-top, the platform at the head of the foremast, the mast nearest the bow",
+                "who": "Stubb, the second mate",
+                "form": "one speech, alone, with four lines of song",
+                "narrator": "silent",
+                "words": 254,
+                "read": "moby-dick/c039:0"
+              },
+              {
+                "chapter": 40,
+                "title": "Midnight, Forecastle",
+                "direction": "the foresail goes up on the watch, who are all singing",
+                "hour": "midnight",
+                "place": "the forecastle, the forward part of the upper deck",
+                "who": "25 of the crew under their own headings (22 sailors named by where they come from, Pip, and the harpooneers Tashtego and Daggoo); also the mate’s voice from the quarter-deck, twice, and all together, three times",
+                "form": "45 speeches, each headed with its speaker, and 2 songs",
+                "narrator": "silent",
+                "words": 1509,
+                "read": "moby-dick/c040:0"
+              }
+            ],
+            "thisPassage": {
+              "chapter": 37,
+              "title": "Sunset"
+            },
+            "placesSource": "Merriam-Webster, under quarterdeck, foremast, foretop and forecastle.",
+            "sternToBow": [
+              { "name": "at the stern", "chapters": [36, 37] },
+              { "name": "at the mainmast", "chapters": [38] },
+              { "name": "toward the bow", "chapters": [39, 40] }
+            ],
+            "after": "Chapter 41 opens with the narrator naming himself as one of that crew.",
+            "afterNote": "moby-dick/c041, block 0",
+            "ranks": "Starbuck is chief mate, Stubb second mate and Flask third. Flask has no solo speech.",
+            "ranksNote": "moby-dick/c026, block 0; c027, blocks 0 and 3",
+            "epilogue": "The Epilogue begins by saying that the drama is done.",
+            "epilogueNote": "moby-dick/epilogue, block 1",
+            "audenQuotes": "Auden quotes from each of the three solo speeches: Ahab’s vow and the iron-rails sentence from Chapter 37 (The Enchafèd Flood, p. 137), Starbuck from Chapter 38 (p. 124) and Stubb from Chapter 39 (pp. 126–27).",
+            "otherRuns": "Chapters 119 to 122 are the other run of chapters with stage directions, four in a row."
+          },
+          "caption": "Twelve of the 135 chapters carry stage directions; five stand in a row, this one second. Chapter 36 gathers all hands on the quarter-deck toward evening. Then three men speak alone, each farther forward and later: Ahab in the stern cabin at sunset, the chief mate at the mainmast at dusk, the second mate up the foremast in the first night watch. Last, at midnight on the forecastle, come 25 of the crew, each speech headed with its speaker. From Chapter 37 to Chapter 40 the narrator says nothing. Auden wrote that the crew give themselves away in their words and acts, while Ishmael and the reader only record.",
+          "why": "Chapter 37 is second of five in a row that carry stage directions, moving from stern to bow, the last four with no narrator; Auden says the crew give themselves away in words and acts while Ishmael only records.",
+          "grounds": [
+            {
+              "claim": "which chapters carry stage directions; the order, places, hours and speakers of Chapters 36 to 40; no narration in Chapters 37 to 40, which hold only directions, headings, speech and song",
+              "kind": "text",
+              "source": "counted in the hosted text, moby-dick/c036 to c040 and the seven other chapters listed in facts"
+            },
+            {
+              "claim": "the quarter-deck is at the stern, the foremast is the mast nearest the bow, the fore-top is the platform at its head, the forecastle is the forward part of the upper deck",
+              "kind": "source",
+              "source": "Merriam-Webster, quarterdeck, foremast, foretop and forecastle"
+            },
+            {
+              "claim": "from the mainmast Starbuck calls the revelry forward and the silence aft, and places Ahab in his sternward cabin",
+              "kind": "text",
+              "source": "moby-dick/c038, block 3"
+            },
+            {
+              "claim": "Starbuck is the chief mate and Stubb the second mate",
+              "kind": "text",
+              "source": "moby-dick/c026, block 0, and c027, block 0"
+            },
+            {
+              "claim": "once he is aboard, Ishmael speaks or is addressed just one more time; after that he is simply the consciousness that records",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), p. 112"
+            },
+            {
+              "claim": "the voyage is one thing for Ishmael and the reader, who have only to record, and a different thing for the others aboard, who change as the reader watches and, without knowing it, give themselves away in their words and acts",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), p. 119"
+            }
+          ],
+          "stands": "A count, in the text printed here, of the chapters that set a stage direction on a line of its own; asides in brackets inside a paragraph are not counted. The places, hours and speakers are those of [Chapters 36](#/read/moby-dick/c036:0) to [40](#/read/moby-dick/c040:0). Where each place is on a ship: Merriam-Webster. Auden: *The Enchafèd Flood*, pp. 112 and 119."
+        }
+      ]
+    },
+    {
+      "id": "rachel",
+      "heading": "The Rachel, in Chapter 128",
+      "text": "moby-dick/c128",
+      "rows": [
+        "14.0[0-27]",
+        "15.0[0-40]",
+        "18.0[25-35]"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "antimetabole",
+          "plain": "the same words said again in the opposite order",
+          "draw": "cross",
+          "parts": [
+            {
+              "row": "14.0",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "A",
+              "label": "go"
+            },
+            {
+              "row": "14.0",
+              "w": [
+                13,
+                13
+              ],
+              "tag": "B",
+              "label": "do"
+            },
+            {
+              "row": "15.0",
+              "w": [
+                19,
+                19
+              ],
+              "tag": "B",
+              "label": "do"
+            },
+            {
+              "row": "15.0",
+              "w": [
+                40,
+                40
+              ],
+              "tag": "A",
+              "label": "go"
+            },
+            {
+              "row": "14.0",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "will",
+              "label": "will not"
+            },
+            {
+              "row": "15.0",
+              "w": [
+                16,
+                18
+              ],
+              "tag": "will",
+              "label": "will not"
+            },
+            {
+              "row": "15.0",
+              "w": [
+                38,
+                39
+              ],
+              "tag": "must",
+              "label": "must"
+            }
+          ],
+          "caption": "Captain Gardiner, whose boy is lost in a boat, says he <i>will not go</i> until Ahab agrees, and asks him to <i>do</i> as he would be done by. That is the Golden Rule of the Gospels. Ahab’s reply has the two verbs in the opposite order: he <i>will not do</i> it, and he must <i>go</i>. Words repeated in the opposite order are called antimetabole, or more loosely chiasmus, a crossing; this one runs from one speaker to the other. With <i>go</i> Ahab puts <b>must</b> where Gardiner had <i>will</i>, and Gardiner had already told him <i>you must</i>. For Auden, Ahab’s end becomes necessary only with the answer he gives here.",
+          "why": "Ahab’s refusal has the other captain’s verbs in crossed order, will not go and do becoming will not do and must go; for Auden this refusal is the point after which Ahab’s end is necessary.",
+          "grounds": [
+            {
+              "claim": "the order of go and do in the two speeches, and the words will not and must",
+              "kind": "plate"
+            },
+            {
+              "claim": "to treat another as one would be treated is the Golden Rule",
+              "kind": "source",
+              "source": "Matthew 7:12 and Luke 6:31, King James Version; Encyclopaedia Britannica, Golden Rule"
+            },
+            {
+              "claim": "antimetabole: words repeated in reverse order in clauses that follow each other, a figure also known as chiasmus; in the strict sense chiasmus inverts ideas or structures and does not repeat the words",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), antimetabole and chiasmus; Wikipedia, Chiasmus"
+            },
+            {
+              "claim": "Gardiner’s boy is in the lost boat, and he has already told Ahab you must",
+              "kind": "text",
+              "source": "moby-dick/c128, blocks 9 and 12"
+            },
+            {
+              "claim": "this refusal is the last, and once it is made Ahab’s end is necessary",
+              "kind": "auden",
+              "source": "“The Christian Tragic Hero,” The New York Times Book Review, 16 December 1945 (read by the poet in the research notes, C_auden_on_works.md, section 21 and appendix H4, which say the sentence is about the Rachel’s cry for help; found by the examiner on 2026-10-03 in archive.org full-text snippets of the reprints in Corrigan, 1965, in Michel and Sewall, 1963, where it runs over onto p. 238, and in Auden’s Prose, vol. II: the words before it name the cry for help of a friend in distress when the Pequod meets the Rachel, and the words after it say that Melville shows this change by having Ahab put Pip in his cabin at this point)"
+            }
+          ],
+          "stands": "The marks on the passage. The Golden Rule is Matthew 7:12 and Luke 6:31; antimetabole and chiasmus are as *Silva Rhetoricae* defines them. The lost boy and Gardiner’s *you must* come earlier in [Chapter 128](#/read/moby-dick/c128:9). Auden on the refusal: “The Christian Tragic Hero” (1945)."
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "14.0",
+                7
+              ],
+              "to": [
+                "14.0",
+                12
+              ],
+              "tag": "hung",
+              "label": "a condition"
+            },
+            {
+              "from": [
+                "14.0",
+                16
+              ],
+              "to": [
+                "14.0",
+                27
+              ],
+              "tag": "hung",
+              "label": "a comparison"
+            },
+            {
+              "from": [
+                "15.0",
+                7
+              ],
+              "to": [
+                "15.0",
+                14.1
+              ],
+              "tag": "narrator",
+              "label": "how he says it"
+            },
+            {
+              "from": [
+                "15.0",
+                14.2
+              ],
+              "to": [
+                "15.0",
+                20
+              ],
+              "tag": "flat",
+              "label": "a short sentence"
+            },
+            {
+              "from": [
+                "15.0",
+                21
+              ],
+              "to": [
+                "15.0",
+                25
+              ],
+              "tag": "flat",
+              "label": "a short sentence"
+            },
+            {
+              "from": [
+                "15.0",
+                26
+              ],
+              "to": [
+                "15.0",
+                27
+              ],
+              "tag": "flat",
+              "label": "a short sentence"
+            },
+            {
+              "from": [
+                "15.0",
+                28
+              ],
+              "to": [
+                "15.0",
+                40
+              ],
+              "tag": "flat",
+              "label": "a short sentence"
+            },
+            {
+              "from": [
+                "15.0",
+                28
+              ],
+              "to": [
+                "15.0",
+                31
+              ],
+              "tag": "part",
+              "label": "a blessing"
+            },
+            {
+              "from": [
+                "15.0",
+                33
+              ],
+              "to": [
+                "15.0",
+                36
+              ],
+              "tag": "part",
+              "label": "a wish"
+            },
+            {
+              "from": [
+                "15.0",
+                38
+              ],
+              "to": [
+                "15.0",
+                40
+              ],
+              "tag": "part",
+              "label": "a statement"
+            }
+          ],
+          "caption": "Each of Gardiner’s two sentences here has a clause hung on it. He will not go <i>till</i> Ahab says yes. Ahab is to do <i>as</i> he would be done by <i>in the like case</i>: he too has a boy. The narrator says Ahab’s voice <i>moulded every word</i> of the answer. Its four sentences here are short, and none has such a clause. The last joins a blessing, a wish and a statement with <i>and</i> and <i>but</i>, and ends <b>I must go</b>. The next paragraph calls the refusal <i>unconditional</i>. Auden says that in refusing Gardiner, Ahab counterfeits the Gospel text that a disciple must hate father, mother, wife and children.",
+          "why": "Gardiner’s plea carries clauses with till and as, the like case of a father; Ahab’s four short sentences carry none, and the narrator calls his refusal unconditional; Auden says it counterfeits the Gospel text on hating father and children.",
+          "grounds": [
+            {
+              "claim": "the clauses with till and as in the plea; the four sentences of the reply, none with a clause hung on it; the three parts of the last",
+              "kind": "plate"
+            },
+            {
+              "claim": "Gardiner’s next sentence says that Ahab too has a boy",
+              "kind": "text",
+              "source": "moby-dick/c128, block 14, words 28 to 33"
+            },
+            {
+              "claim": "the narrator says the voice moulded every word",
+              "kind": "text",
+              "source": "moby-dick/c128, block 15, words 6 to 14"
+            },
+            {
+              "claim": "the narrator calls Ahab’s answer an unconditional and utter rejection of the suit",
+              "kind": "text",
+              "source": "moby-dick/c128, block 16 (the paragraph after the answer; added by the examiner)"
+            },
+            {
+              "claim": "in refusing the plea of the Rachel’s captain, who wants help in the search for his boy, Ahab counterfeits the Gospel text on hating father, mother, wife and children",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), p. 140"
+            },
+            {
+              "claim": "the text Auden prints: whoever does not hate father, mother, wife and children cannot be a disciple",
+              "kind": "source",
+              "source": "Luke 14:26, King James Version"
+            }
+          ],
+          "stands": "The marks on the passage. That Ahab too has a boy is Gardiner’s next sentence, in [Chapter 128](#/read/moby-dick/c128:14); the word *unconditional* is the narrator’s, in the [paragraph after the answer](#/read/moby-dick/c128:16). Auden on the refusal as a counterfeit of the Gospel text: *The Enchafèd Flood*, p. 140. The text is Luke 14:26."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "14.0",
+              "w": [
+                10,
+                10
+              ],
+              "gloss": "yes",
+              "source": "Online Etymology Dictionary, aye (interj.): a word of assent"
+            },
+            {
+              "row": "15.0",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "stop: a ship’s order",
+              "note": "A sailor’s word since the 1680s, probably from the Dutch *houd vast*, hold fast.",
+              "source": "Online Etymology Dictionary, avast"
+            },
+            {
+              "row": "15.0",
+              "w": [
+                26,
+                27
+              ],
+              "gloss": "God be with ye",
+              "note": "A contraction of *God be with ye*, written *godbwye* in the 1570s and shaped by *good day* and *good evening*.",
+              "source": "Online Etymology Dictionary, good-bye"
+            },
+            {
+              "row": "18.0",
+              "w": [
+                27,
+                27
+              ],
+              "gloss": "the mother in Jeremiah",
+              "note": "Jeremiah 31:15, where the King James Bible spells her name *Rahel*; Matthew 2:18 quotes the verse for the children Herod has killed.",
+              "source": "King James Bible, Jeremiah 31:15 and Matthew 2:16-18"
+            },
+            {
+              "row": "18.0",
+              "w": [
+                32,
+                35
+              ],
+              "gloss": "because they were no more",
+              "note": "The closing words of Jeremiah 31:15 in the King James Bible. A modern version has: *because they are no more*.",
+              "source": "King James Bible, Jeremiah 31:15; World English Bible, the same verse"
+            }
+          ],
+          "caption": "<b>Avast</b> is a ship’s order to stop, and <b>good-bye</b> is a contraction of <i>God be with ye</i>. Ahab says it twice, then <b>God bless ye</b>. His next wish has no God in it: <i>may I forgive myself</i>. In his paragraph on Ahab, Auden writes of a religious hero whose god is his own will, set in defiance. The chapter’s last sentence takes its words from Jeremiah, where Rachel weeps for her children and refuses comfort <i>because they were not</i>. Matthew quotes that verse for the children Herod killed. For Auden the Rachel stands for people caught up in the mystery of existence who neither understood nor chose it, as those children were in Christ’s birth.",
+          "why": "Ahab asks God’s blessing for Gardiner and forgiveness of himself; Auden writes of a hero whose god is his own will; the last sentence gives the ship Jeremiah’s words for Rachel, and Auden compares the ship to Herod’s innocents.",
+          "grounds": [
+            {
+              "claim": "avast: a nautical order, hold, stop",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, avast"
+            },
+            {
+              "claim": "good-bye: a contraction of God be with ye",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, good-bye"
+            },
+            {
+              "claim": "what Ahab wishes for Gardiner and what he wishes for himself",
+              "kind": "plate"
+            },
+            {
+              "claim": "Ahab goes through the rituals of the Religious Hero with the reasons turned to their negatives (p. 138); and of that hero Auden says, in the paragraph on Ahab, that when his god is his own will in its defiance, pain tempts him on and pleasure could save him (p. 140; the sentence begins with an if)",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), pp. 138 and 140. Read again by the finisher on 2026-10-03 in the scan, research/auden/ef.txt: p. 138 at lines 5682-5687; on p. 140 the passage runs from the refusal of the Rachel’s captain (line 5765) through Ahab’s life as a cross taken up in defiance to this sentence (lines 5787-5791), and the next paragraph turns to Queequeg. The caption’s words on his paragraph on Ahab stand on that"
+            },
+            {
+              "claim": "Rachel weeping for her children, refusing comfort, because they were not; quoted in Matthew for the children Herod kills",
+              "kind": "source",
+              "source": "King James Bible, Jeremiah 31:15 and Matthew 2:16-18"
+            },
+            {
+              "claim": "the Rachel is a type of those who, without understanding it or choosing it, have been caught up in the mystery, as the innocents Herod killed were caught up in the birth of Christ",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), p. 61"
+            }
+          ],
+          "stands": "The history of *avast* and *good-bye*: Online Etymology Dictionary. What Ahab wishes can be seen in the passage. Rachel’s verse is Jeremiah 31:15, quoted in Matthew 2:16–18 (King James Version). Auden: *The Enchafèd Flood*, pp. 138 and 140, on the hero whose god is his own will, and p. 61, on the Rachel."
+        },
+        {
+          "kind": "shape",
+          "label": "Ships",
+          "what": "the nine ships the Pequod meets, in order, and what each tells Ahab of the White Whale",
+          "facts": {
+            "counted": "Read and counted in the hosted text (Project Gutenberg no. 2701). The block numbers under “at” are those of each chapter. Auden’s reading of each ship is paraphrased from The Enchafèd Flood (1950; Vintage edition, 1967), pp. 60-61, read in the scan. Finisher, 2026-10-03: the nine chapters were read again at the blocks under “at”, and the question counted again by script (remake/works/moby-dick/finisher/count-question.cjs): the same five words in c100 (blocks 1 and 3), c115, c128 and c131; a question of Ahab’s in six other words in c052 and c071; none of his in c054, c081 and c091. P. 61 (scan lines 2587-2590) gives the Jungfrau and the Rosebud one sentence, with sloth and avarice in that order, so each ship’s line now keeps its own half. The English captain’s refusal to lower again is c100, block 36. The Epilogue’s three words for the lost crew are in its block 2.",
+            "ships": [
+              {
+                "meeting": 1,
+                "chapter": 52,
+                "ship": "the Goney, or Albatross",
+                "question": "Ahab hails her",
+                "quoted": "his words are given",
+                "answer": "none: her captain drops his speaking trumpet overboard and the wind drowns his voice",
+                "Auden": "the old: they may have known the mystery, and they cannot pass it on",
+                "read": "moby-dick/c052:2",
+                "at": "question block 2; answer block 3"
+              },
+              {
+                "meeting": 2,
+                "chapter": 54,
+                "ship": "the Town-Ho",
+                "question": "not given",
+                "answer": "she gives strong news of the whale; the secret part of her story never reaches Ahab or his mates",
+                "Auden": "people who know and do not tell",
+                "read": "moby-dick/c054:2",
+                "at": "block 2"
+              },
+              {
+                "meeting": 3,
+                "chapter": 71,
+                "ship": "the Jeroboam",
+                "question": "Ahab asks",
+                "quoted": "his words are given",
+                "answer": "her chief mate was killed hunting the whale; a crazed sailor, Gabriel, holds the whale to be his god made flesh and warns Ahab off",
+                "Auden": "people who turn the mystery into an idol out of superstition, or have lost their wits to it",
+                "read": "moby-dick/c071:12",
+                "at": "question block 12; answer blocks 16 to 19"
+              },
+              {
+                "meeting": 4,
+                "chapter": 81,
+                "ship": "the Jungfrau, or Virgin",
+                "question": "Ahab accosts her captain; his words are not given",
+                "answer": "her captain knows nothing of the White Whale; he has come to beg lamp oil and is supplied",
+                "Auden": "people too lazy ever to notice the mystery",
+                "read": "moby-dick/c081:5",
+                "at": "blocks 5, 7 and 8"
+              },
+              {
+                "meeting": 5,
+                "chapter": 91,
+                "ship": "the Rose-Bud, or Bouton de Rose",
+                "question": "Stubb asks and reports to Ahab",
+                "answer": "her mate has never heard of such a whale",
+                "Auden": "people too greedy ever to notice the mystery",
+                "read": "moby-dick/c091:13",
+                "at": "blocks 13 to 18; the answer is block 16"
+              },
+              {
+                "meeting": 6,
+                "chapter": 100,
+                "ship": "the Samuel Enderby, of London",
+                "question": "Ahab hails her twice",
+                "quoted": "in the same five words",
+                "answer": "the whale took her captain’s arm last season, and the captain will not hunt him again; her surgeon calls the whale’s malice awkwardness",
+                "Auden": "people who see the mystery and answer it with reason, plain sense and endurance",
+                "read": "moby-dick/c100:1",
+                "at": "question blocks 1 and 3; answer blocks 9, 35 and 36"
+              },
+              {
+                "meeting": 7,
+                "chapter": 115,
+                "ship": "the Bachelor",
+                "question": "Ahab asks",
+                "quoted": "in the same five words",
+                "answer": "a full ship bound home; her captain has only heard of the whale and does not believe in him; he asks Ahab aboard and Ahab sails on",
+                "Auden": "the lucky and light-minded, who say there is no such thing",
+                "read": "moby-dick/c115:7",
+                "at": "question block 8; answer blocks 9 to 12"
+              },
+              {
+                "meeting": 8,
+                "chapter": 128,
+                "ship": "the Rachel",
+                "question": "Ahab hails her",
+                "quoted": "in the same five words",
+                "answer": "seen yesterday; a boat is lost with the captain’s twelve-year-old son in it; he asks Ahab to join the search for forty-eight hours and is refused",
+                "Auden": "people caught up in the mystery who neither understood nor chose it, like the children Herod killed when Christ was born",
+                "read": "moby-dick/c128:2",
+                "at": "question block 2; answer blocks 3, 7, 9, 12 and 15"
+              },
+              {
+                "meeting": 9,
+                "chapter": 131,
+                "ship": "the Delight",
+                "question": "Ahab hails her",
+                "quoted": "in the same five words",
+                "answer": "she has fought the whale; five men are dead and one is being buried as the Pequod passes",
+                "Auden": "people the mystery has met and left grieving where they were glad",
+                "read": "moby-dick/c131:2",
+                "at": "question block 2; answer blocks 3 to 7"
+              }
+            ],
+            "thisPassage": {
+              "meeting": 8,
+              "ship": "the Rachel",
+              "chapter": 128
+            },
+            "sameWords": "Ahab’s question is given in his own words in six chapters (52, 71, 100, 115, 128, 131); in Chapter 100 he hails the Samuel Enderby twice. In the last four of these chapters it is the same five words. In Chapter 81 he questions the Jungfrau’s captain and his words are not given; in Chapter 91 Stubb asks for him; in Chapter 54 no question is given.",
+            "asked": "Two ships ask something of Ahab. The Jungfrau wants lamp oil and is supplied (Chapter 81). The Rachel wants help in her search and is refused (Chapter 128). The Bachelor’s captain invites him aboard, which asks nothing of him (Chapter 115).",
+            "askedNote": "c081, blocks 7 and 8; c128, blocks 7, 9 and 15; c115, blocks 7 to 12",
+            "after": "The chase follows in Chapters 133 to 135. In the Epilogue the Rachel, still searching for *her missing children*, picks up Ishmael.",
+            "afterNote": "moby-dick/epilogue, block 2"
+          },
+          "caption": "The Pequod meets nine ships, and the Rachel is the eighth. At six of the meetings Ahab’s question about the White Whale is given in his own words, at the last four in the same five. The answers differ: a trumpet lost overboard, a story kept from him, a warning, two ships that know nothing, a captain who lost an arm, a disbeliever, a lost boat, a burial. Auden reads the nine as so many ways of standing toward the mystery of existence. Two of the ships ask something of Ahab: the Jungfrau gets her lamp oil, and the Rachel is refused. In the Epilogue the Rachel picks up Ishmael.",
+          "why": "The Rachel is the eighth of the nine ships the Pequod meets, and the one whose plea for help Ahab refuses; Auden reads the nine as types of how people stand to the mystery of existence.",
+          "grounds": [
+            {
+              "claim": "the nine meetings, their order, Ahab’s question and each answer",
+              "kind": "text",
+              "source": "moby-dick, Chapters 52, 54, 71, 81, 91, 100, 115, 128 and 131, at the blocks listed in facts"
+            },
+            {
+              "claim": "the nine ships as kinds of people and societies, each standing differently to the mystery of existence",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage edition, 1967), pp. 60-61"
+            },
+            {
+              "claim": "two of the ships ask something of Ahab: the Jungfrau’s captain comes begging lamp oil and leaves with his needs supplied; the Rachel’s captain asks help in the search and is refused; the Bachelor’s captain only invites him aboard",
+              "kind": "text",
+              "source": "moby-dick/c081, blocks 5 to 8; c128, blocks 7, 9 and 15; c115, blocks 7 to 12 (ground added by the examiner; the claim was already in the caption)"
+            },
+            {
+              "claim": "the Rachel picks up Ishmael",
+              "kind": "text",
+              "source": "moby-dick/epilogue, block 2"
+            }
+          ],
+          "stands": "The nine meetings as the text printed here tells them, in Chapters [52](#/read/moby-dick/c052:2), [54](#/read/moby-dick/c054:2), [71](#/read/moby-dick/c071:12), [81](#/read/moby-dick/c081:5), [91](#/read/moby-dick/c091:13), [100](#/read/moby-dick/c100:1), [115](#/read/moby-dick/c115:7), [128](#/read/moby-dick/c128:2) and [131](#/read/moby-dick/c131:2). The rescue is in the [Epilogue](#/read/moby-dick/epilogue:2). Auden on the nine ships: *The Enchafèd Flood*, pp. 60–61."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Auden takes Melville’s own word, *isolato*, for Ishmael’s kind: a man who keeps to a land of his own. He sets part of the sentence shown in the first passage beside lines of Coleridge’s “Dejection” and Baudelaire’s “Spleen,” as reports of how it feels to be a solitary who cannot go the way of the crowd. In a city where tradition no longer walls anyone in, he says, no direction is closed to Ishmael and nothing in him makes any one direction necessary, so he has to do something drastic and goes to sea.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 34–36",
+      "checked": "read in the scan, research/auden/ef.txt, lines 1505-1610 (p. 34 from line 1491, p. 35 from line 1537, p. 36 from line 1579), and read again on 2026-10-03. Finisher, 2026-10-03: the critic’s wording of the last clause repeated eight words of p. 36 in a row (lines 1607-1608; build/tools/runs.py, words 88 to 95). The clause is now in the page’s own words, and the entry shares no run of four words with the scan"
+    },
+    {
+      "says": "Auden’s essay of 1945 calls the book four things at once: an epic, a tragedy and a quest, each heroic, and a religious quest told as allegory. It is also, he adds, an American novel of its century. The essay ends with Ishmael. He is no character, Auden says, since a character is someone who wills and acts, and Ishmael has consciousness without will: he knows and does nothing. Not having started to live, he cannot die, and the book leaves him an orphan who has yet to make his first choice. Ahab, unrepenting like Shakespeare’s tragic heroes, goes to a death that was not necessary and that he chose.",
+      "source": "“The Christian Tragic Hero,” *The New York Times Book Review*, 16 December 1945, pp. 1 and 21",
+      "checked": "read by the poet in the research notes, remake/research/C_auden_on_works.md, section 21 and appendix H4, which give the essay from search snippets of the reprint in Corrigan, Tragedy: Vision and Form (1965), pp. 143-47; not seen by the poet in a scan. Examiner, 2026-10-03: the opening sentence (the four kinds, and the American novel of the nineteenth century), the sentence on Ahab’s unrepenting death and the closing sentences on Ishmael were each found in archive.org full-text snippets of scanned reprints (Michel and Sewall, 1963; Corrigan, 1965; Auden’s Prose, vol. II, which prints the newspaper and date under the last sentence). The essay was not read through as a whole"
+    },
+    {
+      "says": "Auden reads the nine ships the Pequod meets as so many kinds of people and societies, each standing differently toward the mystery of existence: the old, who may have known it and cannot pass it on; those who know and do not tell; those who make an idol of it or have lost their wits to it; the lazy and the greedy, who will never notice it; those who meet it with plain sense and endurance; the lucky and light-minded, who say there is none; those caught up in it who neither understood nor chose it; and those it has left grieving.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 60–61",
+      "checked": "read in the scan, research/auden/ef.txt, lines 2560-2608 (the Goney on p. 60, the rest on p. 61), and read again on 2026-10-03; the scan prints the names of the Bachelor and the Rachel after the list, and the two entries without a name were matched by their order and by the words quoted in them"
+    },
+    {
+      "says": "On the page where he comes to the Rachel, Auden writes that Ahab is glad of pain, the typhoon for one, and takes a calm, happy day for a temptation. He calls this a false copy of the way saints accept suffering and mistrust pleasure.",
+      "quote": "His whole life, in fact, is one of taking up defiantly a cross he is not required to take up.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 140",
+      "checked": "read in the scan, research/auden/ef.txt, lines 5765-5791, and read again on 2026-10-03; the quotation is at lines 5774-5775"
+    },
+    {
+      "says": "In class in the fall of 1941 Auden named Ahab and the White Whale, or Kafka’s K. and the Castle, as examples of how a single person stands to his fate, which was the subject of the course, and then played the second movement of Beethoven’s Fourth Piano Concerto. A student wrote down what he asked the class to hear: the piano sets itself against the orchestra, its fate, and strikes out alone; before long it has lost its way; it steadies only when it takes the orchestra back. He asked whether that return is in time.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 135–36",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt: the phonograph is brought in at the foot of p. 135 and Auden’s words follow the page mark 135, on p. 136; read again on 2026-10-03. Finisher, 2026-10-03: read again in the scan (its line 3 holds the whole memoir). Auden’s sentence names K and the Castle and does not name Kafka; “Kafka’s” is the page’s word, and in the same memoir he sets Kafka’s novel The Castle for the class to read. The run of six words that build/tools/runs.py finds (words 9 to 14) is the two names and the word after them, as it stood before"
+    },
+    {
+      "says": "A student who shared Auden’s house remembered him saying many times that the book is really a poem of the epic kind, and that this is how to read it. In a note to *New Year Letter*, published in 1941, Auden called American writing the writing of solitary people and said that most American books could open the way this one does, with *Call me Ishmael*. Melville’s sea and whale, he wrote there, are no more real than a drawing-room in Henry James; he called most American novels parables.",
+      "source": "Charles H. Miller, *Auden: An American Friendship* (1983), p. 135; W. H. Auden, *New Year Letter* (1941), note to line 1566, pp. 152–53",
+      "checked": "read by the poet in the research notes: remake/research/C_auden_on_works.md, section 21 and appendices H6 and H7; Miller’s page is from F_rilke.md, section 6.2. Examiner, 2026-10-03: Google Books’ search inside Miller’s volume (id -UxaAAAAMAAJ) gives page 135 for the sentence, and an archive.org snippet of the scanned book shows its opening words, that he said it many times. The note in New Year Letter was found in archive.org snippets of the scanned Faber edition of 1941 under the heading Line 1566, directly after the page number 152 (its sentences on the literature of lonely people, on how most American books might start, on James’s drawing-room and Melville’s sea and whale, and on parables); an edition of Moby-Dick cites the sentence on Ishmael at p. 153. Neither book was read through. Finisher, 2026-10-03: the book’s three opening words were added to the paraphrase. Auden’s sentence on how most American books might start gives them itself, as the research notes print the note (C_auden_on_works.md, section 21, line 551, and appendix H6, line 1125); they are words 0 to 2 of moby-dick/c001, block 0. The entry shares no run of five words with the note as printed there (build/tools/runs.py)"
+    }
+  ],
+  "next": "moby-dick/c001:0",
+  "sources": [
+    "The text printed here: Herman Melville, *Moby-Dick; or, The Whale* (1851), from Project Gutenberg, no. 2701.",
+    "W. H. Auden, *The Enchafèd Flood, or The Romantic Iconography of the Sea* (1950; Vintage Books edition, 1967), pp. 34–36, 60–61, 112, 119, 124, 126–27, 136–38 and 140.",
+    "W. H. Auden, “The Christian Tragic Hero,” *The New York Times Book Review*, 16 December 1945, pp. 1 and 21. Not seen in full: read in extracts from two reprints, in Laurence Michel and Richard B. Sewall, eds., *Tragedy: Modern Essays in Criticism* (1963), pp. 234–38, and in Robert W. Corrigan, ed., *Tragedy: Vision and Form* (1965), pp. 143–47.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 135–36: Auden’s words in class in 1941, as a student set them down after the class.",
+    "Charles H. Miller, *Auden: An American Friendship* (1983), p. 135. Not seen in full.",
+    "W. H. Auden, *New Year Letter* (1941), note to line 1566, pp. 152–53. Not seen in full.",
+    "Online Etymology Dictionary (etymonline.com), under *hypo*, *hypochondria*, *involuntary*, *voluntary*, *deliberate*, *deliberately*, *method*, *methodical*, *turbid*, *envious*, *envy*, *whelm*, *groove*, *sound*, *rifle*, *err*, *unerring*, *avast*, *good-bye* and *aye*.",
+    "Merriam-Webster (merriam-webster.com), under *hypo*, *involuntary*, *methodical*, *account*, *whenever*, *ball*, *upper hand*, *find*, *periodic sentence*, *turbid*, *unsounded*, *unerring*, *anaphora*, *metaphor*, *blank verse*, *iamb*, *pentameter*, *quarterdeck*, *foremast*, *foretop* and *forecastle*.",
+    "Wiktionary (en.wiktionary.org), under *hypo*, *envious*, *where’er* and *find oneself*.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu), under *anaphora*, *antimetabole*, *chiasmus* and *metaphor*.",
+    "*Encyclopaedia Britannica* (britannica.com), under *blank verse*, *anaphora* and *Golden Rule*.",
+    "Wikipedia, under Periodic sentence and Chiasmus.",
+    "Paull F. Baum, *The Principles of English Versification* (1922), chapters 4 and 5, on stresses that fall together.",
+    "The Bible, King James Version: Jeremiah 31:15; Matthew 2:16–18 and 7:12; Luke 6:31 and 14:26. World English Bible: Jeremiah 31:15."
+  ],
+  "caveats": [
+    "Auden’s 1945 essay “The Christian Tragic Hero,” his note in *New Year Letter* and Charles Miller’s memoir were read here only in extracts from scanned copies, not from end to end. His words in class are known from Donald Pearce, a student who wrote them down after the class.",
+    "The second passage is prose, and its marks show one way of saying it: *pale*, *let them*, *Swerve me*, *through* and the last syllable of *unerringly* can fairly be stressed otherwise, and *envious* can be said as two syllables or three.",
+    "The crossing of *go* and *do* in the third passage runs from one speaker to the other, with other sentences between; the handbooks define antimetabole and chiasmus within one sentence or in clauses that follow each other.",
+    "The count of twelve chapters with stage directions takes only directions set on a line of their own: asides in brackets inside a paragraph are not counted, nor is the title of Chapter 29, which is worded as a stage direction.",
+    "Auden’s sentence about a hero whose god is his own will begins with *if* and is said of the religious hero in general. It stands in his paragraph on Ahab, and the page sets it beside Ahab’s wish to forgive himself."
+  ],
+  "open": [
+    "“The Christian Tragic Hero” (1945) was read by the poet only in the research notes, which give its sentences from search snippets of the 1965 reprint. From the examiner: every sentence the piece uses was found again in archive.org full-text snippets of scanned reprints (Michel and Sewall, 1963, pp. 234-38; Corrigan, 1965, pp. 143-47; Auden’s Prose, vol. II), and both anthologies credit The New York Times Book Review, 16 December 1945, pp. 1, 21. No page was read through, so its sentences are still cited to the essay as a whole, and none is quoted.",
+    "Miller’s memory of the epic-poem remark and the note in New Year Letter were read by the poet only in the research notes. From the examiner: Miller’s p. 135 is confirmed by Google Books’ search inside the volume, and an archive.org snippet shows the sentence’s opening words; the pp. 26-28 given in C_auden_on_works.md is wrong for this remark. The New Year Letter note was seen in snippets of the scanned Faber edition of 1941 under the heading Line 1566, directly after the page number 152; whether it begins on p. 152 or p. 153 was not settled (an edition of Moby-Dick cites its sentence on Ishmael at p. 153). Neither book was read through.",
+    "Pearce’s page: the scan’s page marks stand at the foot of each page, which puts Auden’s words on Ahab and the Beethoven concerto on p. 136, after the phonograph is brought in at the foot of p. 135. A_michigan_course.md agrees; B_pedagogy.md and C_auden_on_works.md give pp. 134-35 for the same passage.",
+    "Page numbers for The Enchafèd Flood are those of the 1967 Vintage edition that was scanned, and in that scan the number stands at the foot of its page, not in the running head: the contents page puts the third chapter at p. 90, and the lone 90 follows that chapter’s opening page. They were not compared with the 1950 first edition.",
+    "The count of twelve chapters with stage directions follows the hosted text, which sets such lines apart. Asides in brackets inside a paragraph are not counted, nor is the title of Chapter 29, which is worded as a stage direction.",
+    "The scansion marks prose, where no line is fixed, against one rising foot repeated. Several places can be heard more than one way (pale, envious as two syllables or three, let them, Swerve me, my fixed purpose, through, the last syllable of unerringly); the other hearings are set out in notes.md, and the captions say so where they touch them.",
+    "The third plate’s crossing of go and do runs from one speaker to the other, with other sentences between. The handbooks define antimetabole and chiasmus inside one sentence or in clauses that follow each other; the caption says that this one runs across two speakers.",
+    "Auden’s sentence about a god that is the hero’s own will (The Enchafèd Flood, p. 140) is conditional and is said of the Religious Hero, in the paragraph on Ahab. From the examiner: the caption no longer gives it as said of Ahab; it says that Auden writes of a religious hero whose god is his own will, set in defiance, and sets that beside Ahab’s wish. From the finisher: the caption now also says where he writes it, in his paragraph on Ahab (p. 140, scan lines 5765-5791), so that a reader of the tab can see why the sentence stands there. The ground gives the fuller form, and a caveat tells the reader.",
+    "From the examiner, and mended since: a word joined to the next by a dash was not set in two parts when an opening quotation mark followed the dash, because buildWord in site/js/kit/plate.js dropped the parts if any syllable began outside them. Words 2 and 14 of c128, block 15, are such words (word 127 of c001, block 0, is parted as it should be). From the finisher, 2026-10-03: the kit as changed at 11:05 UTC lets a syllable begin with the points that part the two words (plate.js, lines 81 to 93), and both words now keep their two parts (remake/works/moby-dick/finisher/parts-check.mjs). So in the third passage’s Sentence tab the narrator’s span now ends at 14.1 and the first short sentence begins at 14.2, as the examiner and the artist asked; seen at 1280 and 390 px in shots/finisher/.",
+    "From the examiner: every string in the facts of the two shape tabs (Play, Ships) was read against the text and against Auden’s pages. Since then the artist has drawn both tabs (site/js/pieces/moby-dick.js), the lead has set the keys sternToBow and quoted, and the finisher has mended nine strings of the facts and the two labels of the Ships key; the end of notes.md lists them. No key was renamed or reshaped.",
+    "From the examiner: the name antimetabole is kept for the crossing of go and do, with the caption and a caveat saying that it runs across two speakers and is not within successive clauses as the handbooks define the figure. If the lead prefers, the plainer label chiasmus (a crossing) would also be true; the marks would not change.",
+    "From the examiner: I did not run build/pieces.mjs into site/, because the task keeps my writing to this folder. I ran it with its output turned aside into my scratch folder, so nothing in site/ was written by me, and took the photographs in shots/final-*.png from that build of the finished reading (07:22 UTC). They are named in exam.md. A build of the site made by another session at 07:13 UTC is the same, byte for byte, as mine of the finished reading, so the site already shows the mends.",
+    "From the finisher, 2026-10-03: four things are passed up, and the end of notes.md sets them out under “For the lead”: the Ships key says “his words” because a script may type no name; the first label of the kit’s Beat key gives the beat before the off-beat, under a measure that gives them the other way; the plain line under a figure’s name and the sentences of a fold cannot carry a mark, so three named words and one title stand unmarked."
+  ]
+}

@@ -1,0 +1,1680 @@
+{
+ "piece": "fidelio",
+ "title": "Leonore’s answer",
+ "where": "*Fidelio*, Act 2, Scene 5, with Act 1, Scene 6 and Act 2, Scene 3",
+ "about": "Leonore, dressed as a man and calling herself Fidelio, has taken service with the jailer Rocco to find her husband Florestan, whom the governor Pizarro holds in a dungeon of the state prison. In the first passage Pizarro has just failed to kill him, and husband and wife are alone. The second is her scene alone in Act 1, after she has watched Pizarro and Rocco go off together. The third comes before the first: the moment in the dungeon when she steps between her husband and Pizarro’s dagger.",
+ "view": {
+  "says": "No account of this opera by Auden has been found. In a 1947 lecture on *King Lear*, known from students’ notes, he said this of Cordelia. When Lear wakes and says she has cause not to love him, she twice answers that she has none. Compare, Auden said, Leonore’s answer to Florestan.",
+  "quote": "Cordelia wants to love freely, without compulsion, and paradoxically she describes love as a duty.",
+  "source": "*Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), pp. 225–26",
+  "checked": "read on 2026-10-03 in snippets of the scanned book at the Internet Archive (item lecturesonshakes00aude, which can only be borrowed) through its full-text search; the searches are listed in notes.md. The quoted sentence came back whole across two snippets (the searches \"wants to love freely\" and \"love as a duty\"). The running head \"226 KING LEAR\" falls between Lear’s lines on waking and Cordelia’s answer. In this book a head stands at the top of its page: the editor’s textual note on the comparison is keyed to p. 226 and the index gives Fidelio at 226, and the comparison follows that head. So the comparison with Leonora and the sentence on authority are on p. 226 (the page the research notes give, C section 28 and appendix H16), and the quoted sentence, a few lines before the head, is on p. 225. The research notes and the lead in pieces.json connect the comparison with Cordelia’s \"Nothing\" in Act 1, Scene 1: the snippets show it is with her answer in Act 4, Scene 7."
+ },
+ "plates": [
+  {
+   "id": "answer",
+   "heading": "Leonore’s answer to Florestan",
+   "label": "The German libretto, with the dialogue uncut",
+   "text": "o-fidelio/answer",
+   "stage": { "6.0": { "dir": [0, 2] }, "7.0": { "name": 1 }, "10.0": { "name": 1 }, "13.0": { "name": 1 } },
+   "rows": [
+    "4.0-15.0"
+   ],
+   "pair": {
+    "label": "The English libretto, from a shortened text",
+    "text": "fidelio/act-2",
+    "rows": [
+     "344.0",
+     "346.0-346.1",
+     "348.0"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "compare",
+     "label": "Versions",
+     "ties": [
+      {
+       "a": [
+        "4.0",
+        1,
+        4
+       ],
+       "b": [
+        "p:344.0",
+        0,
+        1
+       ],
+       "say": "In the German Florestan exclaims twice: true wife, woman without equal. The shortened text keeps the first."
+      },
+      {
+       "a": [
+        "5.0",
+        1,
+        1
+       ],
+       "b": [
+        "p:346.0",
+        0,
+        1
+       ]
+      },
+      {
+       "a": [
+        "5.0",
+        4,
+        23
+       ],
+       "b": [
+        "p:346.1",
+        0,
+        0
+       ],
+       "say": "Her reason: her soul was with him, and she asks how her body could not have felt strong, fighting for its better self. The shortened text has none of this. Its next word is the first cry of the duet."
+      },
+      {
+       "a": [
+        "8.0",
+        1,
+        2
+       ],
+       "b": [
+        "p:346.1",
+        1,
+        2
+       ],
+       "say": "Nameless joy becomes *joy unknown*."
+      },
+      {
+       "a": [
+        "14.0",
+        1,
+        2
+       ],
+       "b": [
+        "p:348.0",
+        6,
+        7
+       ],
+       "say": "The German calls the suffering unnameable. The English calls it *great*."
+      },
+      {
+       "a": [
+        "15.0",
+        1,
+        2
+       ],
+       "b": [
+        "p:348.0",
+        9,
+        11
+       ],
+       "say": "The German calls the delight very great. The English calls it *past utterance*: the two descriptions have changed places."
+      }
+     ],
+     "caption": "In the German libretto, printed here with its spoken dialogue uncut, Leonore says <b>Nichts</b>, nothing, once, and then gives a reason. Two American librettos print a shortened German text at this point, with the word twice and no reason, and the English shown here follows it. A word said again at once, with nothing between, is the figure of emphasis called epizeuxis. The students’ notes of Auden’s lecture give her answer in this doubled form. He set it beside Cordelia’s <i>No cause, no cause</i>, her reply when Lear, waking, says she has cause not to love him. Cordelia, Auden said, has no wish for authority; she wants her love to be free.",
+     "why": "In the shortened text of two American librettos Leonore’s answer has lost its reason and is a denial said twice, which is how the notes of Auden’s lecture give it, beside Cordelia’s twice-said denial of any cause.",
+     "grounds": [
+      {
+       "claim": "the German has the word once and then her reason; the English has the word twice and no reason",
+       "kind": "plate"
+      },
+      {
+       "claim": "the German printed here gives the spoken dialogue uncut",
+       "kind": "source",
+       "source": "the note at the head of the zeno.org text of the libretto (after the edition published at Stuttgart in 1970): text and stage directions follow the original wording, and the dialogue, today mostly much shortened, is given uncut; .cache/originals/beethoven_fidelio_de_zeno.txt, line 29"
+      },
+      {
+       "claim": "two American librettos print a shortened German dialogue here, with the word twice and no reason; the English of the New York one, which is the text shown beside, follows it; the English of the Boston one has the word once and no reason",
+       "kind": "source",
+       "source": "Beethoven’s opera Fidelio, German text with an English translation (Boston: Oliver Ditson; copyright 1864 and 1892), Internet Archive item beethovensoperaf00beet, machine-read text lines 3973-3975 (German) and 4044-4046 (English); Fidelio, German and English (New York: Fred. Rullman), Internet Archive item cu31924021639509, machine-read text lines 6305-6313 (German) and 6456-6464 (English)"
+      },
+      {
+       "claim": "epizeuxis is defined there as a word said again at once, none coming between, to give force or emphasis",
+       "kind": "source",
+       "source": "Gideon O. Burton, Silva Rhetoricae (rhetoric.byu.edu), under epizeuxis"
+      },
+      {
+       "claim": "the notes of the lecture give Leonora’s answer with the word twice, and Auden tells the class to compare it with Cordelia’s reply",
+       "kind": "auden",
+       "source": "Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch (2000), p. 226, and the editor’s textual note to that page, on p. 384 (it quotes the libretto with the word once and says that the notes of Ansen and of Bodenstein both have it twice)"
+      },
+      {
+       "claim": "Lear, waking, tells Cordelia she has some cause; she answers with the two-word denial said twice",
+       "kind": "source",
+       "source": "King Lear, Act 4, Scene 7 (Project Gutenberg no. 1532)"
+      },
+      {
+       "claim": "Cordelia, he says, has no wish for authority and wishes her love to be free",
+       "kind": "auden",
+       "source": "Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch (2000), p. 226"
+      },
+      {
+       "claim": "what her reason says: her soul was with him; how would her body not have felt strong, fighting for its better self",
+       "kind": "text",
+       "source": "the second row of the passage, glossed from DWDS (see the Words tab)"
+      }
+     ],
+     "stands": "The two versions as they are shown. That the German is uncut: the note at the head of the edition it follows. The doubled answer: the German of the librettos of Oliver Ditson (Boston, copyright 1864) and Fred. Rullman (New York), and Rullman’s English. Epizeuxis: *Silva Rhetoricae*. Auden: *Lectures on Shakespeare*, p. 226, with the textual note on p. 384. Lear and Cordelia: *King Lear*, Act 4, Scene 7."
+    },
+    {
+     "kind": "sentence",
+     "label": "Verbs",
+     "spans": [
+      {
+       "from": [
+        "4.0",
+        1
+       ],
+       "to": [
+        "4.0",
+        2
+       ],
+       "tag": "noverb",
+       "label": "no verb"
+      },
+      {
+       "from": [
+        "4.0",
+        3
+       ],
+       "to": [
+        "4.0",
+        4
+       ],
+       "tag": "noverb",
+       "label": "no verb"
+      },
+      {
+       "from": [
+        "4.0",
+        6
+       ],
+       "to": [
+        "4.0",
+        6
+       ],
+       "tag": "verb",
+       "label": "a verb"
+      },
+      {
+       "from": [
+        "4.0",
+        9
+       ],
+       "to": [
+        "4.0",
+        9
+       ],
+       "tag": "verb",
+       "label": "a verb"
+      },
+      {
+       "from": [
+        "5.0",
+        1
+       ],
+       "to": [
+        "5.0",
+        3
+       ],
+       "tag": "noverb",
+       "label": "no verb"
+      },
+      {
+       "from": [
+        "5.0",
+        6
+       ],
+       "to": [
+        "5.0",
+        6
+       ],
+       "tag": "verb",
+       "label": "a verb"
+      },
+      {
+       "from": [
+        "5.0",
+        9
+       ],
+       "to": [
+        "5.0",
+        23
+       ],
+       "tag": "reason",
+       "label": "a question that argues"
+      },
+      {
+       "from": [
+        "5.0",
+        10
+       ],
+       "to": [
+        "5.0",
+        10
+       ],
+       "tag": "verb",
+       "label": "a verb"
+      },
+      {
+       "from": [
+        "5.0",
+        16
+       ],
+       "to": [
+        "5.0",
+        16
+       ],
+       "tag": "verb",
+       "label": "a verb"
+      },
+      {
+       "from": [
+        "5.0",
+        23
+       ],
+       "to": [
+        "5.0",
+        23
+       ],
+       "tag": "verb",
+       "label": "a verb"
+      },
+      {
+       "from": [
+        "8.0",
+        0
+       ],
+       "to": [
+        "8.0",
+        2
+       ],
+       "tag": "noverb",
+       "label": "no verb"
+      },
+      {
+       "from": [
+        "9.0",
+        0
+       ],
+       "to": [
+        "9.0",
+        4
+       ],
+       "tag": "noverb",
+       "label": "no verb"
+      },
+      {
+       "from": [
+        "11.0",
+        0
+       ],
+       "to": [
+        "11.0",
+        2
+       ],
+       "tag": "noverb",
+       "label": "no verb"
+      },
+      {
+       "from": [
+        "12.0",
+        0
+       ],
+       "to": [
+        "12.0",
+        2
+       ],
+       "tag": "noverb",
+       "label": "no verb"
+      },
+      {
+       "from": [
+        "14.0",
+        0
+       ],
+       "to": [
+        "15.0",
+        2
+       ],
+       "tag": "noverb",
+       "label": "no verb"
+      }
+     ],
+     "caption": "Each spoken speech opens with an exclamation and then comes to a sentence with its verb: <i>hast</i> … <b>erduldet</b>, have borne; <b>war</b>, was; <i>hätte</i> … <b>gefühlt</b>, would have felt; <b>kämpfte</b>, fought. Leonore’s last sentence is a question that argues. After the heading <b>Duett</b> the six lines shown have no verb: they name joy, husband, breast, Leonore, suffering, delight. The whole duet, eighteen lines, has three verbs, each a form of <i>to be</i>. Auden called the sensible passages of a libretto conversation, not song, and held that what is written for singing cannot be poetry: poetry reflects, and will not rest in the outcries of feeling, while music is immediate.",
+     "why": "In these lines the sentences that reason are spoken and the six sung lines are exclamations without a verb; Auden called a libretto’s sensible passages conversation, not song, and held that verses for singing cannot be poetry.",
+     "grounds": [
+      {
+       "claim": "each spoken speech opens with a verbless exclamation and then has sentences with verbs; the six sung lines shown have no verb",
+       "kind": "plate"
+      },
+      {
+       "claim": "the verbs and what they mean",
+       "kind": "source",
+       "source": "DWDS (dwds.de) under erdulden, fühlen, kämpfen"
+      },
+      {
+       "claim": "her last sentence is a question that gives a reason",
+       "kind": "text",
+       "source": "the second row of the passage: how would the body not have felt strong, fighting for its better self"
+      },
+      {
+       "claim": "the duet No. 15 has eighteen lines in this edition and three finite verbs, each a form of sein, to be",
+       "kind": "source",
+       "source": "the German libretto as zeno.org gives it (.cache/originals/beethoven_fidelio_de_zeno.txt), No. 15, lines 2164-2218 of the file, counted line by line; the verbs stand at lines 2186, 2196 and 2200"
+      },
+      {
+       "claim": "where a libretto has sensible passages, he glosses them as talk and not song",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 472"
+      },
+      {
+       "claim": "poetry reflects: it will not stop at the cries of feeling as it comes and tries to understand what is felt; music is immediate; so what is written to be sung is not poetry",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 472"
+      }
+     ],
+     "stands": "The marks on the passage, with the DWDS dictionary for the verbs. The count of the whole duet, No. 15, was made line by line on the German libretto. Auden on conversation and song, and on poetry, reflection and words for music: “Notes on Music and Opera,” in *The Dyer’s Hand*, p. 472."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "4.0",
+       "w": [
+        1,
+        2
+       ],
+       "gloss": "true wife",
+       "source": "DWDS under treu, Weib"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        3,
+        4
+       ],
+       "gloss": "woman without equal",
+       "note": "*Ohnegleichen* is an elevated word, set after its noun: incomparable.",
+       "source": "DWDS under ohnegleichen (marked gehoben; placed after a noun), Frau"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        5,
+        9
+       ],
+       "gloss": "what you have borne for me",
+       "note": "*Erdulden* is to bear something patiently, to endure it.",
+       "source": "DWDS under erdulden, meinetwegen; Adelung, vol. 1 (1793), col. 1884, under Er-dulden (to suffer, to bear, with the secondary idea of composure: to bear patiently), and col. 1569, under Dulden"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        1,
+        3
+       ],
+       "gloss": "nothing, my Florestan",
+       "source": "DWDS under nichts"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        4,
+        8
+       ],
+       "gloss": "my soul was with you",
+       "source": "DWDS under Seele"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        9,
+        12
+       ],
+       "gloss": "how would the body",
+       "source": "DWDS under Körper"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        13,
+        16
+       ],
+       "gloss": "not have felt strong",
+       "source": "DWDS under stark, fühlen"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        17,
+        23
+       ],
+       "gloss": "fighting for its better self",
+       "note": "The DWDS dictionary gives the phrase *my better self* two senses: the good sides of my character, or someone close who is good for me.",
+       "source": "DWDS under Selbst (the set phrase mein besseres Selbst, with two explanations), kämpfen"
+      },
+      {
+       "row": "6.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "No. 15, duet",
+       "source": "DWDS under Duett"
+      },
+      {
+       "row": "8.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "O nameless joy",
+       "note": "Adelung, in the volume of 1798, spells the word *nahmenlos* and explains this sense by *unaussprechlich*, unspeakable.",
+       "source": "Adelung, vol. 3 (1798), col. 420, under Nahmenlos, sense 2; Grimm, Deutsches Wörterbuch, under namenlos, sense 4; DWDS under namenlos, Freude"
+      },
+      {
+       "row": "9.0",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "my husband at my breast",
+       "source": "DWDS under Mann, Brust"
+      },
+      {
+       "row": "11.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "O nameless joy",
+       "source": "as above"
+      },
+      {
+       "row": "12.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "at Leonore’s breast",
+       "source": "DWDS under Brust"
+      },
+      {
+       "row": "13.0",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "both",
+       "source": "DWDS under beide"
+      },
+      {
+       "row": "14.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "after unnameable suffering",
+       "note": "Adelung, in a volume of 1801: what cannot be named, what there is no name for. *Leid* is great sorrow; the DWDS dictionary gives it as the opposite of *Freude*, joy.",
+       "source": "Adelung, vol. 4 (1801), col. 879, under Unnennbar; Grimm, Deutsches Wörterbuch, under unnennbar; DWDS under unnennbar, Leid"
+      },
+      {
+       "row": "15.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "so very great a delight",
+       "source": "DWDS under übergroß (very great, huge); Lust, sense 2"
+      }
+     ],
+     "caption": "<b>Namenlose</b> is nameless and <b>unnennbarem</b> unnameable: the sung lines say that this joy and that suffering are beyond naming. Adelung’s dictionary, in a volume of 1798, gives <i>namenlos</i> in this sense to the higher style of the moderns: what cannot be named or expressed because of its amount or its intensity. Twelve lines of the libretto have one of three such words, these two or <i>unaussprechlich</i>, unspeakable, and eleven are sung. The twelfth is Leonore’s, spoken in the dungeon shortly before her husband turns his face to her. The right plot for a libretto, Auden wrote, is melodrama: it sets its people in situations too strange or too tragic for words.",
+     "why": "Where speech gives way to song the words themselves say that the feeling cannot be named, and eleven of the libretto’s twelve such lines are sung; Auden held that a good libretto puts its people where words fail.",
+     "grounds": [
+      {
+       "claim": "the first sung lines call the joy nameless and the suffering unnameable",
+       "kind": "plate"
+      },
+      {
+       "claim": "namenlos in this sense belongs to the higher style of the moderns: what cannot be named or expressed for its amount or the high degree of its intensity; unnennbar: what cannot be named",
+       "kind": "source",
+       "source": "Adelung, Grammatisch-kritisches Wörterbuch, vol. 3 (1798), col. 420, Nahmenlos, sense 2; vol. 4 (1801), col. 879, Unnennbar; Grimm, Deutsches Wörterbuch, namenlos (sense 4) and unnennbar"
+      },
+      {
+       "claim": "twelve lines of the libretto have unaussprechlich, namenlos or unnennbar; eleven are sung and one is spoken",
+       "kind": "source",
+       "source": "the German libretto as zeno.org gives it (.cache/originals/beethoven_fidelio_de_zeno.txt): unaussprechlich at lines 285, 305, 1715 (spoken), 2439, 2453; namenlos at 389, 2164, 2170, 2214; unnennbar at 561, 2176, 2216. Other words of the kind (unsäglich, unsagbar, unbeschreiblich) were searched for and not found"
+      },
+      {
+       "claim": "the spoken one is Leonore’s, said as she moves a few steps down, trembling; four speeches later Florestan turns his face to her",
+       "kind": "text",
+       "source": "Act 2, Scene 2 of the German libretto (file lines 1715-1725); in the English printed here, fidelio/act-2, block 97"
+      },
+      {
+       "claim": "a good plot for a libretto sets its people where the tragedy or the fantasy of their situation is beyond what words can carry",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), pp. 471–72"
+      },
+      {
+       "claim": "the plain glosses",
+       "kind": "source",
+       "source": "DWDS (dwds.de), the entries named with each note"
+      }
+     ],
+     "stands": "Adelung’s *Grammatisch-kritisches Wörterbuch* under *Nahmenlos* (vol. 3, 1798) and *Unnennbar* (vol. 4, 1801); Grimm’s dictionary under *namenlos* and *unnennbar*; the DWDS dictionary for the plain glosses. The twelve lines were counted on the German libretto; the spoken one is [in the dungeon](#/read/fidelio/act-2:97). Auden: “Notes on Music and Opera,” in *The Dyer’s Hand*, pp. 471–72."
+    }
+   ]
+  },
+  {
+   "id": "scene",
+   "stage": {"0.0": {"dir": [0, 0], "inline": true}, "12.0": {"dir": [0, 0], "inline": true}},
+   "stanza": {"17.0": true},
+   "heading": "Leonore alone, in Act 1",
+   "label": "The German libretto",
+   "text": "o-fidelio/aria",
+   "rows": [
+    "0.0-4.0",
+    "12.0-20.0"
+   ],
+   "pair": {
+    "label": "The English libretto",
+    "text": "fidelio/act-1",
+    "rows": [
+     "391.0-391.1",
+     "393.0-393.3"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "beat",
+     "label": "Beat",
+     "meterName": "four beats to the line in the recitative; four and three by turns in the lines to Hope; three, two, two and three in the four lines after them",
+     "scan": {
+      "1.0": {
+       "meter": "x/x/x/x/",
+       "voice": "x/xx | x / x /"
+      },
+      "2.0": {
+       "meter": "x/x/x/x/x",
+       "voice": "x \\ x / x /x /x",
+       "div": {
+        "6": "Grim|me?"
+       }
+      },
+      "3.0": {
+       "meter": "x/x/x/x/x",
+       "voice": "x /x / | x /x /x",
+       "div": {
+        "5": "Stim|me,"
+       }
+      },
+      "4.0": {
+       "meter": "x/x/x/x/",
+       "voice": "/ / x \\x /x\\"
+      },
+      "13.0": {
+       "meter": "x/x/x/x/",
+       "voice": "/ | /x / x /x /"
+      },
+      "14.0": {
+       "meter": "x/x/x/x",
+       "voice": "x /x / x/x"
+      },
+      "15.0": {
+       "meter": "x/x/x/x/",
+       "voice": "x/ x / | x / x /"
+      },
+      "16.0": {
+       "meter": "x/x/x/x",
+       "voice": "x /x \\ x/x",
+       "div": {
+        "1": "Lie|be"
+       }
+      },
+      "17.0": {
+       "meter": "x/x/x/x",
+       "voice": "x / x /x /x",
+       "div": {
+        "4": "Trie|be,"
+       }
+      },
+      "18.0": {
+       "meter": "x/x/",
+       "voice": "x /x /",
+       "div": {
+        "1": "wan|ke"
+       }
+      },
+      "19.0": {
+       "meter": "x/x/",
+       "voice": "x / x /"
+      },
+      "20.0": {
+       "meter": "x/x/x/x",
+       "voice": "x /x /x\\x",
+       "div": {
+        "2": "Gat|ten|lie|be!"
+       }
+      }
+     },
+     "points": [
+      {
+       "at": [
+        "1.0",
+        0,
+        0
+       ],
+       "say": "The outcry is one word of four syllables with a single stress. The measure’s second beat falls on its last syllable, and the voice passes over it."
+      },
+      {
+       "at": [
+        "4.0",
+        0,
+        1
+       ],
+       "say": "A question, with its verb first: the line can open on two stresses side by side. It can also be said with the first of them light."
+      },
+      {
+       "at": [
+        "12.0",
+        0,
+        0
+       ],
+       "say": "Seven more lines of the recitative, all of four beats, are left out above this heading: in them she turns from his rage to her own calm. Inside the recitative the score changes speed several times."
+      },
+      {
+       "at": [
+        "13.0",
+        0,
+        1
+       ],
+       "say": "A command, a pause, and the name of the one she calls: the line opens on two stresses."
+      },
+      {
+       "at": [
+        "18.0",
+        0,
+        2
+       ],
+       "say": "Two beats and a complete statement: I do not waver. The next line has two beats as well, and its sentence runs on into the last line."
+      },
+      {
+       "at": [
+        "20.0",
+        0,
+        2
+       ],
+       "say": "The aria has eight more lines: four to her husband, in the measure of the lines to Hope, and then these last four again."
+      }
+     ],
+     "caption": "The line begins off the beat throughout, with a beat on every second syllable. The recitative, the declaimed opening, has four beats to the line and begins as a speech to the man who has just left. Under the heading <b>Arie</b> the lines shown go four, three, four, three, and then three, two, two, three. At the first change she calls on <b>Hoffnung</b>, Hope; at the second she says <b>Ich</b>, I. Beethoven’s music divides at the same places: <i>Adagio</i>, very slow, at the first, and <i>Allegro con brio</i>, quick, with life and fire, at the second. Auden held that a librettist’s verses are written to the composer, not the public, as a private letter is.",
+     "why": "The measure changes where Leonore begins to call on Hope and where she states her own resolve, and Beethoven’s music divides at the same two places; Auden called a librettist’s verses a letter for the composer, not for the public.",
+     "grounds": [
+      {
+       "claim": "every scanned line has a rising measure; four beats in the four lines of recitative; four, three, four, three in the lines to Hope; three, two, two, three in the resolve",
+       "kind": "plate"
+      },
+      {
+       "claim": "the four lines of recitative shown address the man who has left (you, your); the seven lines left out speak to him in the first two and then of herself (what shines for her, her blood calmed); the next four lines call on Hope; the last four lines are in the first person",
+       "kind": "text",
+       "source": "the lines shown and rows 5.0 to 11.0 of the same part (file lines 939-951); the stage direction before the number has her look after Pizarro and Rocco as they leave (file line 925; in the English printed here, fidelio/act-1, block 389)"
+      },
+      {
+       "claim": "the score is marked Allegro agitato and Recit. at the head of the number, Adagio at the first word of the call to Hope, and Allegro con brio before the four lines of the resolve; inside the recitative it is also marked Poco adagio, Più moto and Allegro in tempo; inside the Allegro con brio it is marked Più lento in the second half of the four lines to her husband (which are not shown) and Tempo I as they end",
+       "kind": "source",
+       "source": "Fidelio, vocal score (Leipzig: C. F. Peters; dated 1888 in the library record, though the spelling of the scanned copy is that of the years after 1901), No. 9, pp. 60-65, read in the machine-read text of the scan at the Internet Archive (fideliooperin2ak00beet); Più lento stands at the head of score p. 65"
+      },
+      {
+       "claim": "Adagio (Italian ad agio, at ease) is one of the terms for slow time, defined there in general terms as very slow; Allegro in music means quick; con brio is with life and fire",
+       "kind": "source",
+       "source": "Grove, A Dictionary of Music and Musicians (1879-89), at Wikisource: Adagio (vol. 1, p. 27), Allegro (vol. 1, pp. 54-55), Con Brio (vol. 1, p. 383)"
+      },
+      {
+       "claim": "recitative is declamatory music for places where the action is too rapid or the sentiment too changeful for the studied rhythm of a regular aria",
+       "kind": "source",
+       "source": "Grove, A Dictionary of Music and Musicians, Recitative (vol. 3, pp. 83-86)"
+      },
+      {
+       "claim": "a librettist writes his verses for the composer, as one writes a private letter, and not for the audience",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 473"
+      }
+     ],
+     "stands": "The marks on the passage, which are one reader’s hearing of the German. The seven lines left out were read in the German libretto. The tempo marks: the vocal score published by C. F. Peters (Leipzig), No. 9; what they mean: Grove’s *Dictionary of Music and Musicians* under Adagio, Allegro and Con Brio. Auden: “Notes on Music and Opera,” in *The Dyer’s Hand*, p. 473."
+    },
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "1.0": "a",
+      "2.0": "b",
+      "3.0": "b",
+      "4.0": "a",
+      "13.0": "c",
+      "14.0": "d",
+      "15.0": "c",
+      "16.0": "d",
+      "17.0": "e",
+      "18.0": "f",
+      "19.0": "f",
+      "20.0": "e"
+     },
+     "tails": {
+      "1.0": 2,
+      "4.0": 3,
+      "2.0": 4,
+      "3.0": 4,
+      "13.0": 3,
+      "15.0": 3,
+      "14.0": 6,
+      "16.0": 6,
+      "17.0": 4,
+      "20.0": 4,
+      "18.0": 4,
+      "19.0": 4
+     },
+     "caption": "The four lines of recitative shown rhyme from the outside in: <b>hin</b> waits two lines for <b>Tigersinn</b>, while <b>Grimme</b> is answered at once by <b>Stimme</b>. The lines to Hope rhyme by turns. The last four close in again around the two short lines, which end on <b>wanke nicht</b>, do not waver, and <b>die Pflicht</b>, duty. In a stanza so rhymed, a handbook of English verse says, the third line’s rhyme gains emphasis from its nearness to the second: here that word is duty. Around the pair, <b>Triebe</b>, drive, waits for <b>Gattenliebe</b>, married love. Adelung’s dictionary, in a volume of 1801, noted that poets often use <i>Trieb</i> for love, for the convenience of the rhyme.",
+     "why": "The enclosing rhyme puts the two short lines at the center, gives duty the emphasis of a rhyme that returns at once, and rhymes her drive with married love; poets, Adelung notes, used Trieb as a rhyme word for love.",
+     "grounds": [
+      {
+       "claim": "the rhyme scheme of the twelve lines: enclosed in the four lines of recitative, alternate in the lines to Hope, enclosed in the last four with the two short lines as the inner pair",
+       "kind": "plate"
+      },
+      {
+       "claim": "in the stanza rhymed abba the rhyme of the third line receives increased emphasis from its proximity to that of the second",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the In Memoriam stanza; the same chapter on the short couplet (the quick return of the rime makes the couplet felt as a unit). The handbook describes English verse"
+      },
+      {
+       "claim": "for the convenience of the rhyme, poets often use Trieb in the narrowest sense for love",
+       "kind": "source",
+       "source": "Adelung, Grammatisch-kritisches Wörterbuch, vol. 4 (1801), cols. 677-78, under Trieb, at the end of sense 2 (6)"
+      },
+      {
+       "claim": "Gattenliebe is the love of husband and wife",
+       "kind": "source",
+       "source": "DWDS under Gattenliebe (its one example is the last two lines shown) and Gatte; Adelung, vol. 2 (1796), col. 432, under Gatte"
+      }
+     ],
+     "stands": "The marks on the passage. That the third line’s rhyme gains emphasis in a stanza rhymed from the outside in: Paull F. Baum, *The Principles of English Versification*, chapter 4, which describes English verse. *Trieb* as the poets’ rhyme word for love: Adelung’s dictionary, vol. 4 (1801), under *Trieb*. *Gattenliebe*: the DWDS dictionary, whose one example is these lines."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "0.0",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "recitative",
+       "note": "Grove’s dictionary: declamatory music, used where the action is too rapid or the feeling too changeful for the studied rhythm of a regular aria.",
+       "source": "Grove, A Dictionary of Music and Musicians, Recitative (vol. 3, pp. 83-86); DWDS under Rezitativ"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "abominable man",
+       "note": "An adjective made into a noun. *Abscheulich* is what arouses abhorrence.",
+       "source": "DWDS under abscheulich, sense 2; Adelung, vol. 1 (1793), col. 90, under Abscheulich"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "where are you hurrying",
+       "source": "DWDS under eilen, hin"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "what do you intend",
+       "source": "DWDS under vorhaben, sense 1"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        4,
+        6
+       ],
+       "gloss": "in wild rage",
+       "note": "*Grimm* is deep anger, fury, an elevated word. The DWDS dictionary gives this line as an example of it.",
+       "source": "DWDS under Grimm (gehoben; the example is cited from Fidelio I 6), wild"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "the call of pity",
+       "source": "DWDS under Mitleid, Ruf"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        3,
+        5
+       ],
+       "gloss": "the voice of humanity",
+       "note": "Adelung, in a volume of 1798, gives *Menschheit* as human nature and, more narrowly, readiness to do the duties people owe one another. Mankind, its usual sense today, he calls a new use of the word.",
+       "source": "Adelung, vol. 3 (1798), col. 180, under Menschheit: sense 1, human nature; sense 2, the readiness to do the duties of social life, for which Menschlichkeit is more usual; sense 3, starred, the human race, a sense brought in by some moderns; DWDS under Menschheit, senses 1 and 3; Stimme"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "does nothing any longer move",
+       "source": "DWDS under rühren, nichts, mehr"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        3,
+        4
+       ],
+       "gloss": "your tiger’s mind",
+       "note": "Grimm’s dictionary has the compound: the mind of a tiger, a cruel mind.",
+       "source": "Grimm, Deutsches Wörterbuch, vol. XI,I,I, col. 499, under tigersinn"
+      },
+      {
+       "row": "12.0",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "aria",
+       "source": "DWDS under Arie"
+      },
+      {
+       "row": "13.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "come, Hope",
+       "source": "DWDS under kommen, Hoffnung"
+      },
+      {
+       "row": "13.0",
+       "w": [
+        2,
+        5
+       ],
+       "gloss": "let the last star",
+       "source": "DWDS under lassen, letzt, Stern"
+      },
+      {
+       "row": "14.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "of the weary",
+       "note": "The German form can mean one weary woman or all who are weary.",
+       "source": "DWDS under müde; English Wikipedia, “German articles” and “German adjectives”: der is the genitive of the feminine singular and of the plural, and the adjective after it ends in -en"
+      },
+      {
+       "row": "14.0",
+       "w": [
+        2,
+        3
+       ],
+       "gloss": "not grow pale",
+       "note": "*Erbleichen* is to grow pale; of stars, to lose their light; in poetry also to die.",
+       "source": "DWDS under erbleichen"
+      },
+      {
+       "row": "15.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "light up my goal",
+       "source": "DWDS under erhellen, Ziel"
+      },
+      {
+       "row": "15.0",
+       "w": [
+        3,
+        6
+       ],
+       "gloss": "be it ever so far",
+       "source": "DWDS under noch (noch so), fern"
+      },
+      {
+       "row": "16.0",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "love will reach it",
+       "source": "DWDS under Liebe, erreichen"
+      },
+      {
+       "row": "17.0",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "I follow the inner drive",
+       "note": "*Trieb* comes from *treiben*, to drive.",
+       "source": "Adelung, vol. 4 (1801), cols. 677-78, under Trieb, sense 2 (6); DWDS under Trieb, folgen, inner"
+      },
+      {
+       "row": "18.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "I do not waver",
+       "note": "*Wanken* is to sway. Adelung gives a figurative sense: to begin to depart from one’s resolve.",
+       "source": "Adelung, vol. 4 (1801), col. 1381, under Wanken, sense 2 (d); DWDS under wanken"
+      },
+      {
+       "row": "19.0",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "duty strengthens me",
+       "source": "Adelung, vol. 3 (1798), col. 743, under Pflicht (2), senses 1 (1) and 1 (2); DWDS under Pflicht, stärken"
+      },
+      {
+       "row": "20.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "of true married love",
+       "note": "*Gatte* is a spouse; in Adelung’s time the word was used of husband and wife alike. The opera’s full title, in Grove’s dictionary, is *Fidelio, oder die eheliche Liebe*: Fidelio, or married love.",
+       "source": "Adelung, vol. 2 (1796), col. 432, under Gatte; DWDS under Gattenliebe, treu; Grove, A Dictionary of Music and Musicians, Fidelio (vol. 1, p. 519)"
+      }
+     ],
+     "caption": "Her resolve names two grounds. <b>Triebe</b> is a drive: Adelung’s dictionary, in a volume of 1801, defines <i>Trieb</i> as a bent of a living creature’s force, commonly one that does not come merely from our own purpose. <b>Pflicht</b> is duty: in the same dictionary a thing commanded, and also a sworn promise of fidelity. Rocco, who uses the word most often, says what he means by it: carrying out the orders he is given. Leonore’s is the duty of <b>Gattenliebe</b>, married love.",
+     "why": "Leonore gives her resolve two grounds, an inner drive and the duty of married love; Adelung’s dictionary gives the senses the two words then had, and Rocco, who says duty most often, means by it carrying out orders.",
+     "grounds": [
+      {
+       "claim": "the last four lines name the inner drive and the duty of true married love",
+       "kind": "plate"
+      },
+      {
+       "claim": "Trieb: a determination of a living creature’s force, commonly one that does not come merely from our own purpose; Pflicht: a commanded thing, conduct fixed by a law, and also a solemn promise, especially the sworn promise of fidelity",
+       "kind": "source",
+       "source": "Adelung, Grammatisch-kritisches Wörterbuch, vol. 4 (1801), cols. 677-78, Trieb, sense 2 (6); vol. 3 (1798), col. 743, Pflicht (2), senses 1 (1) and 1 (2)"
+      },
+      {
+       "claim": "Pflicht stands on ten lines of the libretto: Rocco has it five times alone and once with Leonore, Leonore three times (one of them this line, printed twice), Florestan once",
+       "kind": "source",
+       "source": "the German libretto as zeno.org gives it (.cache/originals/beethoven_fidelio_de_zeno.txt): Rocco at lines 818, 1511, 1685, 1727, 1811; Rocco and Leonore together at 1291; Leonore at 967 and 983 (the same line of her aria) and 1209; Florestan at 1554"
+      },
+      {
+       "claim": "Rocco says what his duty is: to carry out the orders he is given",
+       "kind": "text",
+       "source": "Act 2, Scene 2 of the German libretto (file line 1727); in the English printed here, fidelio/act-2, block 113"
+      },
+      {
+       "claim": "the plain glosses and the notes on single words",
+       "kind": "source",
+       "source": "DWDS (dwds.de), Grimm, Adelung and Grove, at the entries named with each note"
+      }
+     ],
+     "stands": "Adelung’s dictionary under *Trieb* (vol. 4, 1801), *Pflicht* and *Menschheit* (vol. 3, 1798), *Wanken* and *Gatte*; Grimm’s under *tigersinn*; the DWDS dictionary for the plain glosses; Grove’s *Dictionary of Music and Musicians* under Recitative and Fidelio. Who says *Pflicht* was counted on the German libretto; Rocco’s account of his duty is [in the dungeon](#/read/fidelio/act-2:113)."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "1.0",
+        0,
+        0
+       ],
+       "b": [
+        "p:391.0",
+        0,
+        0
+       ],
+       "say": "One word in each. The German makes a name for the man out of an adjective, abominable; the English has *Monster*."
+      },
+      {
+       "a": [
+        "13.0",
+        4,
+        5
+       ],
+       "b": [
+        "p:393.0",
+        5,
+        6
+       ],
+       "say": "The German has an image: the last star of the weary, which must not grow pale. The English has no star: a *lingering heart* here, and a *ray of joy* in its next line."
+      },
+      {
+       "a": [
+        "17.0",
+        3,
+        4
+       ],
+       "b": [
+        "p:393.2",
+        1,
+        3
+       ],
+       "say": "For the inner drive the English has a beating bosom."
+      },
+      {
+       "a": [
+        "18.0",
+        0,
+        2
+       ],
+       "b": [
+        "p:393.2",
+        4,
+        6
+       ],
+       "say": "Kept: I do not waver, *I hesitate not*."
+      },
+      {
+       "a": [
+        "19.0",
+        3,
+        3
+       ],
+       "b": [
+        "p:393.3",
+        3.2,
+        5
+       ],
+       "say": "In the German duty strengthens her. The English has no word for duty: she brings *fresh vigor* herself."
+      },
+      {
+       "a": [
+        "20.0",
+        1,
+        2
+       ],
+       "b": [
+        "p:393.3",
+        1,
+        3.1
+       ],
+       "say": "True married love becomes *a wife devout*."
+      }
+     ],
+     "caption": "The English comes from a New York libretto that names no translator. It has six lines for these twelve, each of ten to sixteen syllables, so the measures are gone, and it has no rhyme. It keeps the outcry and drops the two nouns of the resolve: <b>Triebe</b>, drive, and <b>Pflicht</b>, duty. Auden believed that a listener to song hears syllables, not words, and that the syllables of the verse decide the composer’s vocal line; for that reason he was, in general, against performing operas in translation.",
+     "why": "The English keeps the outcry and the resolve but not the measures, the rhymes or the words for drive and duty; Auden believed listeners to song hear the syllables the composer set, and so was against performing operas in translation.",
+     "grounds": [
+      {
+       "claim": "the English has six lines for the twelve German lines shown, no rhyme, and neither a word for the drive nor a word for duty; it keeps the outcry and the refusal to waver",
+       "kind": "plate"
+      },
+      {
+       "claim": "the English lines have 13, 16, 10, 13, 10 and 10 syllables",
+       "kind": "source",
+       "source": "counted on the text printed here with build/tools/words.mjs (fidelio/act-1, blocks 391 and 393)"
+      },
+      {
+       "claim": "the English comes from a German and English libretto published in New York that names no translator",
+       "kind": "source",
+       "source": "Fidelio: grand opera in two acts, German and English (New York: F. Rullman), Internet Archive item cu31924021639509; the note in site/data/texts/fidelio/index.json and research notes D"
+      },
+      {
+       "claim": "he believes a listener to song takes in syllables and not words, and that the syllable values of a text settle the vocal line a composer writes; for that reason he is on the whole against opera sung in translation",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 473"
+      }
+     ],
+     "stands": "The two versions as they are shown; the syllables of the English lines were counted on the text printed here. The English is from the German and English libretto of Fred. Rullman (New York), which names no translator. Auden on syllables and on opera in translation: “Notes on Music and Opera,” in *The Dyer’s Hand*, p. 473."
+    }
+   ]
+  },
+  {
+   "id": "name",
+   "heading": "She says who she is",
+   "label": "The German libretto",
+   "text": "o-fidelio/recognition",
+   "stage": { "1.0": { "name": 1, "dir": [1, 5] }, "3.0": { "name": 3 }, "5.0": { "name": 1 }, "7.0": { "name": 1, "dir": [1, 2] }, "9.0": { "name": 1 }, "11.0": { "name": 1, "dir": [1, 3] } },
+   "under": false,
+   "speakers": { "ROCQUO": "Rocco" },
+   "rows": [
+    "1.0-13.0"
+   ],
+   "pair": {
+    "label": "The English libretto",
+    "text": "fidelio/act-2",
+    "rows": [
+     "288.0",
+     "290.0",
+     "292.0",
+     "294.0",
+     "297.0",
+     "299.0",
+     "302.0"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "figure",
+     "label": "Figure",
+     "name": "epistrophe",
+     "plain": "the same word at the end of phrase after phrase",
+     "draw": "align",
+     "parts": [
+      {
+       "row": "2.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "A",
+       "label": "wife"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "A",
+       "label": "wife"
+      },
+      {
+       "row": "6.0",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "A",
+       "label": "wife"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        2,
+        2
+       ],
+       "tag": "B",
+       "label": "his"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        0,
+        0
+       ],
+       "tag": "B",
+       "label": "his"
+      },
+      {
+       "row": "6.0",
+       "w": [
+        0,
+        0
+       ],
+       "tag": "C",
+       "label": "my"
+      },
+      {
+       "row": "8.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "D",
+       "label": "her name"
+      },
+      {
+       "row": "10.0",
+       "w": [
+        0,
+        0
+       ],
+       "tag": "D",
+       "label": "her name"
+      },
+      {
+       "row": "12.0",
+       "w": [
+        0,
+        3
+       ],
+       "tag": "E",
+       "label": "the full sentence"
+      }
+     ],
+     "caption": "Three speeches in a row end on one word, <b>Weib</b>, wife. Ending one phrase after another on the same word is the figure called epistrophe; here four voices share it. Leonore says the word first, and speaks of herself as she would of someone else: <i>sein</i>, his. Rocco and Pizarro give her last two words back as a question. Florestan changes the first of them to <b>Mein</b>, my: the man she spoke of speaks for himself. Only then does she turn to him with her name, which he repeats, and to the others with <b>Ich bin</b>, I am, and the word a fourth time.",
+     "why": "Three speeches by four voices end on the same word while the word before it changes from his to my: Florestan’s answer is the last two words of her cry with one word changed.",
+     "grounds": [
+      {
+       "claim": "three successive speeches end on the same word; the word before it is his, his, my; then her name stands twice, at the end of her speech and as the whole of his; then the full sentence, with the end word a fourth time",
+       "kind": "plate"
+      },
+      {
+       "claim": "epistrophe is defined there as a run of lines, phrases, clauses or sentences that all close on the same word or words",
+       "kind": "source",
+       "source": "Gideon O. Burton, Silva Rhetoricae (rhetoric.byu.edu), under epistrophe"
+      },
+      {
+       "claim": "who says each speech and to whom: Leonore, shielding her husband; Rocco and Pizarro together; Florestan; Leonore to Florestan; Florestan; Leonore to the others",
+       "kind": "text",
+       "source": "the speakers’ names and stage directions that stand among the lines shown"
+      },
+      {
+       "claim": "sein is his, mein is my, Weib is wife, ich bin is I am",
+       "kind": "source",
+       "source": "DWDS under sein, mein, Weib, sein (verb)"
+      }
+     ],
+     "stands": "The marks on the passage, with the speakers’ names and the stage directions that are printed among the lines. The figure: Gideon O. Burton, *Silva Rhetoricae*, under *epistrophe*. The small words: the DWDS dictionary."
+    },
+    {
+     "kind": "beat",
+     "label": "Beat",
+     "meterName": "four beats shared among three speeches, then three beats, the name alone, three beats, and four; every line but the name beginning off the beat",
+     "scan": {
+      "2.0": {
+       "meter": "x/x/",
+       "voice": "/ / x /"
+      },
+      "4.0": {
+       "meter": "x/",
+       "voice": "x /"
+      },
+      "6.0": {
+       "meter": "x/",
+       "voice": "\\ /"
+      },
+      "8.0": {
+       "meter": "x/x/x/x",
+       "voice": "/ | / x \\x/x"
+      },
+      "10.0": {
+       "meter": "/x/x",
+       "voice": "\\x/x",
+       "div": {
+        "0": "Le|o|no|re!"
+       }
+      },
+      "12.0": {
+       "meter": "x/x/x/x",
+       "voice": "x / x / | x/x",
+       "div": {
+        "4": "ge|schwo|ren"
+       }
+      },
+      "13.0": {
+       "meter": "x/x/x/x/",
+       "voice": "x x / / | x/x /"
+      }
+     },
+     "points": [
+      {
+       "at": [
+        "6.0",
+        0,
+        0
+       ],
+       "say": "The measure has no beat on this word. A voice that marks the change from *his* to *my* stresses it all the same."
+      },
+      {
+       "at": [
+        "8.0",
+        3,
+        3
+       ],
+       "say": "Her name closes a line of three beats. The line that rhymes with it, two lines on, ends on the word for sworn."
+      },
+      {
+       "at": [
+        "10.0",
+        0,
+        0
+       ],
+       "say": "The name by itself: four syllables, beginning on a beat."
+      },
+      {
+       "at": [
+        "12.0",
+        0,
+        1
+       ],
+       "say": "The measure puts its beat on the second word, *am*. A voice can as fairly stress the first, *I*."
+      },
+      {
+       "at": [
+        "13.0",
+        2,
+        5
+       ],
+       "say": "To him comfort, ruin to you: the two men stand at the ends of the phrase and what she has sworn to each in the middle. A voice that sets *him* against *you* stresses the word for *him*, where the measure has no beat."
+      }
+     ],
+     "caption": "Her cry has four syllables, the men’s question two, Florestan’s answer two. Counted together they make eight syllables and four beats, the length of the last line shown, which one voice has to itself: the discovery, from her word to his, takes the space of one such line. Auden wrote of librettos in general that a spoken play can let a mistake come to light slowly, but in opera recognition has to be abrupt, since “song cannot walk, it can only jump.”",
+     "why": "The recognition takes eight syllables shared among four voices, the length of the last line shown; Auden held that in a libretto recognition must be abrupt, because song cannot move by slow steps.",
+     "grounds": [
+      {
+       "claim": "the three short speeches have four, two and two syllables, eight in all with four beats; the last line shown has eight syllables and four beats; the two seven-syllable lines rhyme her name with the word for sworn",
+       "kind": "plate"
+      },
+      {
+       "claim": "a spoken play may uncover the mistake slowly; a libretto has to make the recognition abrupt, because music cannot live with uncertainty",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 471 (the seven quoted words close the sentence)"
+      },
+      {
+       "claim": "ja is stressed when it affirms; schwören is to vow",
+       "kind": "source",
+       "source": "DWDS under ja, schwören"
+      }
+     ],
+     "stands": "The marks on the passage: the syllables and beats were counted line by line, and the stresses are one reader’s hearing of the German. Auden on recognition in a libretto: “Notes on Music and Opera,” in *The Dyer’s Hand*, p. 471."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "1.0",
+       "w": [
+        1,
+        5
+       ],
+       "gloss": "once more shielding her husband",
+       "source": "DWDS under decken, sense 4; the stage direction a few lines earlier in the German libretto (file line 1968)"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "kill his wife first",
+       "source": "DWDS under töten, erst, Weib"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "his wife?",
+       "source": "DWDS under Weib"
+      },
+      {
+       "row": "6.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "my wife!",
+       "source": "DWDS under Weib"
+      },
+      {
+       "row": "7.0",
+       "w": [
+        1,
+        2
+       ],
+       "gloss": "to Florestan",
+       "source": "a stage direction"
+      },
+      {
+       "row": "8.0",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "yes, see Leonore here",
+       "source": "DWDS under ja, sehen, hier"
+      },
+      {
+       "row": "11.0",
+       "w": [
+        1,
+        3
+       ],
+       "gloss": "to the others",
+       "source": "a stage direction"
+      },
+      {
+       "row": "12.0",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "I am his wife",
+       "source": "DWDS under Weib"
+      },
+      {
+       "row": "12.0",
+       "w": [
+        4,
+        4
+       ],
+       "gloss": "sworn",
+       "note": "*Schwören* is to promise solemnly, to vow. Leonore has the word three times in this scene, and no one else in the opera has it: twice she swears death to Pizarro, and here comfort to her husband and ruin to Pizarro.",
+       "source": "DWDS under schwören, sense 2; counted on the German libretto (file lines 1986, 2024, 2050)"
+      },
+      {
+       "row": "13.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "I have",
+       "source": "DWDS under haben"
+      },
+      {
+       "row": "13.0",
+       "w": [
+        2,
+        3
+       ],
+       "gloss": "comfort to him",
+       "note": "*Trost* is what lifts a person up in sorrow.",
+       "source": "DWDS under Trost"
+      },
+      {
+       "row": "13.0",
+       "w": [
+        4,
+        5
+       ],
+       "gloss": "ruin to you",
+       "note": "*Verderben* is misfortune, ruin.",
+       "source": "DWDS under Verderben"
+      }
+     ],
+     "caption": "<b>Weib</b> was once the common German word both for a woman and for a wife. Adelung’s dictionary, in a volume of 1801, calls its use restricted: in common life, of humble married or elderly women; in familiar talk, of a wife, more often in Upper Germany, the south, where nothing was more common than <i>mein Weib</i>, my wife; in poetry and the higher style, commonly only of a stout-hearted, manly woman, with a secondary idea of strength. Leonore says it in man’s clothes, between her husband and a dagger. The libretto has the word once before this line, in Jaquino’s wooing of Marzelline. Soon after, Pizarro asks whether he is to tremble before a <i>Weib</i>.",
+     "why": "The word in which she says who she is was the familiar word for a wife and, in the higher style of the time, the word for a stout-hearted woman; the libretto has it only once before this line.",
+     "grounds": [
+      {
+       "claim": "Weib meant a woman and a wife, and was used in both senses in all cases in the Middle Ages; its present use is restricted: in common life of lowly married or elderly women; in familiar speech of a married woman, more often in Upper Germany than in Upper Saxony, and there nothing is commoner than mein Weib for my wife; in poetry and the higher style commonly only of a stout-hearted, manly woman, with a secondary idea of strength",
+       "kind": "source",
+       "source": "Adelung, Grammatisch-kritisches Wörterbuch, vol. 4 (1801), cols. 1440-41, under Weib, senses 1 and 2 and note 1; DWDS under Weib (the history of the word)"
+      },
+      {
+       "claim": "she is in men’s clothes and stands between her husband and Pizarro’s dagger",
+       "kind": "text",
+       "source": "the German libretto: her dress (file line 339), her own account (line 2154), the dagger and her first rush forward (lines 1964-1968), the direction at the head of the lines shown; in the English printed here, fidelio/act-2, blocks 259 and 407"
+      },
+      {
+       "claim": "Weib is spoken or sung on twelve lines of the libretto, and on one of them before this line, Jaquino’s to Marzelline in the first duet",
+       "kind": "source",
+       "source": "the German libretto as zeno.org gives it (.cache/originals/beethoven_fidelio_de_zeno.txt): lines 90, 2004, 2008, 2012, 2024, 2046, 2148, 2156, 2192, 2461, 2489, 2509"
+      },
+      {
+       "claim": "after it Pizarro asks whether he is to tremble before a woman",
+       "kind": "text",
+       "source": "the German libretto, file line 2046, the fifth speech after the passage; in the English printed here, fidelio/act-2, block 314"
+      },
+      {
+       "claim": "the plain glosses; schwören three times, all Leonore’s",
+       "kind": "source",
+       "source": "DWDS at the entries named with each note; the German libretto as zeno.org gives it (.cache/originals/beethoven_fidelio_de_zeno.txt), lines 1986, 2024, 2050"
+      },
+      {
+       "claim": "what she swears at each of the three places: death to Pizarro at the first and the third; at the second, in the last two lines shown, comfort to her husband and ruin to the one she addresses",
+       "kind": "text",
+       "source": "the German libretto as zeno.org gives it (.cache/originals/beethoven_fidelio_de_zeno.txt), lines 1982-1988, 2024-2026 and 2050, read by the finisher on 2026-10-03; at 1986 and 2050 she answers Pizarro, and the direction at 2022 has her speak to the others"
+      },
+      {
+       "claim": "Upper Germany is the south: High German is described there as the speech at first of ‘High’ or southern Germany, and High, with the name of a country, as naming its upper (or inland) part",
+       "kind": "source",
+       "source": "A New English Dictionary on Historical Principles (Oxford: Clarendon Press), vol. IV (1901), under German, B 2 b, and vol. V (1901), under High, a., sense 3; read by the finisher on 2026-10-03 in the scans of the two volumes (ned_oed04arch.txt, lines 333900-333903; ned_v5p1.txt, lines 114176-114182)"
+      }
+     ],
+     "stands": "Adelung’s dictionary, vol. 4 (1801), under *Weib* and its first note; *A New English Dictionary* under German and High, for Upper Germany as the south; the DWDS dictionary for the word’s history and the plain glosses. The counts of *Weib* and of *geschworen* were made on the German libretto. [Pizarro’s dagger](#/read/fidelio/act-2:259) and [his question](#/read/fidelio/act-2:314) are in the same scene; that she serves [as a boy](#/read/fidelio/act-2:407) is told at the end."
+    },
+    {
+     "kind": "shape",
+     "label": "Names",
+     "what": "who says the name Fidelio and who says the name Leonore, from the beginning of the opera to the end, in the German libretto",
+     "facts": [
+      {
+       "part of the opera": "Act 1",
+       "Fidelio": 15,
+       "who says Fidelio": "Marzelline 8, Rocco 6, Jaquino 1",
+       "Leonore": 0,
+       "who says Leonore": "no one",
+       "read": "fidelio/act-1:35",
+       "counted": "on the German libretto, spoken or sung, speakers’ names and stage directions left out: Marzelline at file lines 144, 246, 263 (three times), 513, 1004, 1033; Rocco at 320, 324, 347, 413, 657, 1043; Jaquino at 1002",
+       "note": "The English printed here is a shortened text and has fewer: Fidelio fourteen times, all in Act 1 (Marceline 7, Rocquo 6, Jacquino 1); Leonora nine times, all in Act 2 (three before she names herself, two in the lines of this passage, four after)."
+      },
+      {
+       "part of the opera": "Act 2, in the dungeon, before she names herself",
+       "Fidelio": 1,
+       "who says Fidelio": "Rocco",
+       "Leonore": 3,
+       "who says Leonore": "Florestan: once alone, in his aria, and twice while she stands by",
+       "read": "fidelio/act-2:8",
+       "counted": "Fidelio at file line 1755; Leonore at 1566 (sung), 1737 and 1899 (spoken)"
+      },
+      {
+       "part of the opera": "the lines of this passage",
+       "Fidelio": 0,
+       "who says Fidelio": "no one",
+       "Leonore": 2,
+       "who says Leonore": "Leonore herself, then Florestan",
+       "read": "fidelio/act-2:297",
+       "counted": "file lines 2016 and 2020"
+      },
+      {
+       "part of the opera": "from there to the end",
+       "Fidelio": 0,
+       "who says Fidelio": "no one",
+       "Leonore": 7,
+       "who says Leonore": "Florestan 4, Rocco 1, the minister 1, the chorus 1",
+       "read": "fidelio/act-2:344",
+       "counted": "Florestan at file lines 2148, 2172, 2206, 2231; Rocco at 2355; Don Fernando at 2359; the chorus at 2485"
+      }
+     ],
+     "caption": "In Act 1 of the German libretto the heroine is called <i>Fidelio</i> fifteen times and <i>Leonore</i> never: under the name <i>Fidelio</i> Marzelline loves her and Rocco chooses her for a son-in-law. In the dungeon Florestan says <i>Leonore</i> three times before he knows her. In the lines of this passage she says it herself, the only time in the opera, and nobody says <i>Fidelio</i> afterward. Beethoven, Grove’s dictionary says, wished the opera called <i>Leonora</i>. Auden wrote that drama rests on a mistake and that good drama moves in two steps: the mistake is made, then found out. One of his examples, not from this opera, is a chambermaid who is really a young nobleman, disguised.",
+     "why": "The mistake the plot turns on is carried by a name: Fidelio is said sixteen times before she names herself Leonore and never after; Auden held that drama rests on a mistake and on its discovery.",
+     "grounds": [
+      {
+       "claim": "Fidelio is spoken or sung fifteen times in Act 1 and once in Act 2, before the lines shown; Leonore never in Act 1 and twelve times in Act 2, once by Leonore herself",
+       "kind": "source",
+       "source": "the German libretto as zeno.org gives it (.cache/originals/beethoven_fidelio_de_zeno.txt), counted at the lines given with the facts; speakers’ names, stage directions and the list of persons left out"
+      },
+      {
+       "claim": "under the name Fidelio Marzelline has chosen her and Rocco makes her his son-in-law",
+       "kind": "text",
+       "source": "Act 1 of the libretto; in the English printed here, fidelio/act-1, blocks 35 and 166"
+      },
+      {
+       "claim": "drama rests on a mistake (one of his examples: a supposed chambermaid who is in fact a nobleman, young and disguised); a good play has two phases, first the mistake is made and then it is found out",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 471"
+      },
+      {
+       "claim": "it was Beethoven’s wish that the opera should be called Leonora, but it was never performed under that name",
+       "kind": "source",
+       "source": "Grove, A Dictionary of Music and Musicians (1879-89), at Wikisource: Fidelio (vol. 1, p. 519)"
+      }
+     ],
+     "stands": "The names were counted on the German libretto wherever one is spoken or sung; speakers’ names and stage directions were left out. [Marzelline’s choice](#/read/fidelio/act-1:35) and [Rocco’s](#/read/fidelio/act-1:166) are in Act 1. Auden on the mistake: “Notes on Music and Opera,” in *The Dyer’s Hand*, p. 471. Beethoven’s wish: Grove’s *Dictionary of Music and Musicians*, vol. 1, under Fidelio."
+    }
+   ]
+  }
+ ],
+ "auden": [
+  {
+   "says": "Auden names the opera once in *The Dyer’s Hand*, and it is the overture he speaks of. Leonora No. 3, he grants, is fine music for a concert; played in the theater between the two scenes of Act 2 of *Fidelio*, it is, he says, acutely boring for all its twelve minutes. His reason is that an opera’s orchestra plays for the singers and not for the listeners. A lover of opera bears an orchestral interlude, and may even like it, so long as he understands that the singers need rest or the scene is being changed; any other playing by the orchestra alone is, to him, time wasted.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), p. 472",
+   "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22225-22235, on 2026-10-03; the running head of p. 472 stands at line 22204. The name Fidelio occurs nowhere else in that scan (searched)."
+  },
+  {
+   "says": "In the same notes he writes that drama rests on a mistake; one example is a chambermaid who is really a young nobleman, disguised. A good play moves in two steps: the mistake is made, and then it is found out. In a spoken play the finding out may be slow; in a libretto recognition must be sudden, because music cannot live with uncertainty. The plot a libretto needs, he says, is melodrama: it sets its people in situations too strange or too tragic for words, and a sensible mood is not one for singing. He is writing of librettos in general, not of *Fidelio*.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), pp. 471–72",
+   "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22164-22208, on 2026-10-03; the running head of p. 471 stands at line 22157 and that of p. 472 at line 22204"
+  },
+  {
+   "says": "Of a libretto’s words he writes that poetry is at bottom reflection: it will not stop at the outcries of feeling as it comes, and tries to understand what is felt. Music is immediate, so what is written to be sung cannot be poetry. A librettist’s verses are meant for the composer, not for the public, as a letter is for one reader, and their great moment is the one in which they give him a melody. A listener to song, he believes, hears syllables and not words, and it is the syllables that decide the vocal line; for that reason he is, in general, against performing operas in translation.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), pp. 472–73",
+   "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22237-22289, on 2026-10-03; the running head of p. 473 stands at line 22253"
+  },
+  {
+   "says": "The typed reading list for the course Auden gave at the University of Michigan in the fall of 1941 has a heading, Opera Libretti, with nine titles under it. *Fidelio*, with Beethoven’s name beside it, is one of the nine. No remark of his on this opera from that class has been found.",
+   "source": "The reading list for English 135, University of Michigan, 1941, first leaf, as reproduced by Alan Jacobs, “Auden’s Syllabus” (blog.ayjay.org, October 1, 2012)",
+   "checked": "read on 2026-10-03 in the image of the typed sheet (a crop of the image Jacobs posted, scratchpad research/crop_d.png): under the underlined heading stand nine titles, and \"Fidelio (Beethoven)\" is the fourth of the left column; also transcribed in the research notes, A section 1.3. That nothing from the class is on record: research notes C, section 28, and a search of the scan of Pearce’s memoir, which does not name the opera."
+  }
+ ],
+ "next": "fidelio/act-1:0",
+ "sources": [
+  "The text: Ludwig van Beethoven, *Fidelio*, opera in two acts, the libretto adapted by Joseph Sonnleithner from a French text by Bouilly and revised by Breuning (1806) and Treitschke (1814), in the German that zeno.org gives from an edition published at Stuttgart in 1970, with the spoken dialogue uncut. The English set beside it is from the German and English libretto published by Fred. Rullman, New York, which names no translator and gives no date; the library that owns the copy dates it 1903.",
+  "W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (Princeton University Press, 2000): the lecture on *King Lear*, dated there 26 March 1947, pp. 225–26, with the textual note on p. 384. Not seen in full.",
+  "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Notes on Music and Opera,” pp. 471–73.",
+  "The reading list for English 135, University of Michigan, 1941, first leaf, as reproduced by Alan Jacobs, “Auden’s Syllabus” (blog.ayjay.org, October 1, 2012).",
+  "William Shakespeare, *King Lear*, Act 4, Scene 7, as Project Gutenberg prints it (no. 1532).",
+  "*Beethoven’s Opera Fidelio*, German text with an English translation (Boston: Oliver Ditson; copyright 1864 and 1892): the dialogue before the duet of Act 2.",
+  "Ludwig van Beethoven, *Fidelio*, vocal score (Leipzig: C. F. Peters; the library that owns the copy dates it 1888): No. 9, for the tempo marks, and the dialogue before No. 15.",
+  "George Grove, editor, *A Dictionary of Music and Musicians* (1879–89), at Wikisource: Fidelio (vol. 1, p. 519), Adagio (vol. 1, p. 27), Allegro (vol. 1, pp. 54–55), Con Brio (vol. 1, p. 383) and Recitative (vol. 3, pp. 83–86).",
+  "Johann Christoph Adelung, *Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart* (Leipzig, 1793–1801), at zeno.org: *Abscheulich*, *Dulden* and *Er-dulden* (vol. 1, 1793); *Gatte* (vol. 2, 1796); *Menschheit*, *Nahmenlos* and *Pflicht* (vol. 3, 1798); *Trieb*, *Unnennbar*, *Wanken* and *Weib* (vol. 4, 1801).",
+  "Jacob and Wilhelm Grimm, *Deutsches Wörterbuch*, in the digital edition at dwds.de: *namenlos*, *tigersinn* and *unnennbar*.",
+  "*Digitales Wörterbuch der deutschen Sprache* (dwds.de): *abscheulich*, *Arie*, *beide*, *Brust*, *decken*, *Duett*, *eilen*, *erbleichen*, *erdulden*, *erhellen*, *erreichen*, *erst*, *fern*, *folgen*, *Frau*, *Freude*, *fühlen*, *Gatte*, *Gattenliebe*, *Grimm*, *hier*, *Hoffnung*, *inner*, *ja*, *kämpfen*, *kommen*, *Körper*, *lassen*, *Leid*, *letzt*, *Liebe*, *Lust*, *Mann*, *meinetwegen*, *Menschheit*, *Mitleid*, *müde*, *namenlos*, *nichts*, *noch*, *ohnegleichen*, *Pflicht*, *Rezitativ*, *Ruf*, *rühren*, *schwören*, *Seele*, *sehen*, *Selbst*, *stark*, *stärken*, *Stern*, *Stimme*, *töten*, *treu*, *Trieb*, *Trost*, *übergroß*, *unnennbar*, *Verderben*, *vorhaben*, *wanken*, *Weib*, *wild* and *Ziel*.",
+  "*A New English Dictionary on Historical Principles* (Oxford: Clarendon Press), vol. IV (1901), under German, and vol. V (1901), under High.",
+  "Gideon O. Burton, *Silva Rhetoricae* (Brigham Young University): epistrophe and epizeuxis.",
+  "Paull F. Baum, *The Principles of English Versification* (1922): chapter 4, on the four-line stanzas and the short couplet.",
+  "English Wikipedia, “German articles” and “German adjectives”: the tables of forms."
+ ],
+ "caveats": [
+  "Auden’s remark comes from students’ notes of a lecture of 1947, put together by an editor in 2000, and was read for this page only in short extracts of a library copy. He said it of Cordelia, and told the class only to compare Leonore’s answer.",
+  "Leonore’s answer exists in three forms. The uncut German here has the word once, with a reason. A German vocal score (Peters), giving the dialogue as spoken on stage, has it once, with no reason. Two American librettos have it twice in their German; the English shown here follows one.",
+  "The stresses marked are one reader’s hearing of the German, and a few syllables could fairly be marked otherwise. The handbook cited for the rhyme describes English verse. The tempo words were read in the Peters vocal score, not in a full score.",
+  "The counts of names and words follow the uncut German libretto. The English printed here is a shortened text and has fewer: *Fidelio* fourteen times and *Leonora* nine. That the three short speeches of the third passage fill one line is also a count; the libretto prints them apart.",
+  "The glosses are plain modern renderings, and the phrase about the better self can be taken two ways."
+ ],
+ "open": [
+  "The lead in pieces.json and the research notes (C section 28, appendix H16) say Auden set Leonore’s words beside Cordelia’s \"Nothing\". The snippets of the lecture show otherwise: the comparison is with Cordelia’s twice-said denial of cause in Act 4, Scene 7 (Lectures on Shakespeare, p. 226).",
+  "Lectures on Shakespeare can only be borrowed at the Internet Archive and was read in full-text-search snippets, not page by page. The page numbers rest on running heads seen in snippets. The head \"226 KING LEAR\" stands just before Cordelia’s answer and the comparison, and the index gives Fidelio at 226, so in this book a head stands at the top of its page. The quoted sentence stands a few lines before that head, so on p. 225. The editor’s textual note on the place (keyed to p. 226; it quotes the libretto with the word once and reports that the notes of Ansen and of Bodenstein both have it twice) ends just before the head \"TEXTUAL NOTES 385\", so at the foot of p. 384. The punctuation of the quoted sentence should be checked against a printed copy.",
+  "Nothing Auden said about Fidelio in the 1941 class is on record; the view is put together from a 1947 lecture on King Lear and from his notes on opera of 1962, which name Fidelio only for the overture.",
+  "The printed Stuttgart edition of 1970 that zeno.org follows was not seen, nor the librettos of 1805, 1806 and 1814. Who wrote which lines (Sonnleithner, Breuning or Treitschke) is known here only from Treitschke’s account as Thayer gives it, and is kept out of the captions.",
+  "The Peters vocal score and the Ditson libretto were read in the machine-read text of their scans, not in page images. (From the examiner: the library record dates the score 1888, but the scanned copy spells Tür, Tor, getan, Teil and gibt throughout and never with th or ie. That is the spelling made the rule in 1901, as far as the examiner knows without having opened a source for it, so the copy looks like a later printing; the printed notes now say only that the library dates it 1888. Nothing in the piece turns on the date.) Where exactly the marks Poco adagio, Più moto and Allegro in tempo fall inside the recitative could not be told from that text; the Adagio and the Allegro con brio stand clearly before the call to Hope and before the resolve. Corrected by the examiner: a tempo word does follow the Allegro con brio. The same machine-read text has Più lento at the head of score p. 65, in the second half of the four lines to her husband (the stanza that returns to four and three beats and is not shown), and Tempo I as they end. So that stanza begins in the quick speed and slows in its second half; the caption speaks only of the lines shown, and its two tempo marks stand where it says.",
+  "In the German parts cut for this piece every source line is its own block, so speakers’ names, stage directions and the headings of the numbers were rows of the passages. Since 3 October the plate key `stage`, set by the lead, lifts them out of the verse in two passages. In `answer` row 6.0, the heading of the number, is set as a direction and rows 7.0, 10.0 and 13.0 as names (her name, his, and the word for both). In `name` rows 1.0, 3.0, 5.0, 7.0, 9.0 and 11.0 are names, three of them with a direction; `under` is false there so that the English, whose speeches do not answer the German rows one for one, stands beside the German and not line under line. The word tabs’ glosses of the directions and of the word for both now stand after them. In `scene` rows 0.0 and 12.0, the two headings, are still rows of the passage, because a note of the word tab and the third remark of Beat stand on them; they wait for the kit to set a whole row as a heading. In `answer` the two spoken speeches (rows 4.0 and 5.0) begin with the speaker’s name in capitals; the part was cut from the start of the scene’s dialogue so that the build’s rule for such names applies and sets each name over its row. The part of the third passage was cut one line early so that its first row is not the part’s first row, which the build sets in ordinary case.",
+  "That the three short speeches of the third passage make \"one line\" is a count (four, two and two syllables), not something the libretto prints as one line. Around them the quartet’s lines have six or seven syllables.",
+  "Corrected by the examiner: Adelung does have the verb, under the headword \"Er-dulden\" at zeno.org (vol. 1, 1793, col. 1884), and it is now cited. Gattenliebe is not in Grimm; Tigersinn is not in the DWDS. The inflected forms of the name (Leonoren, Leonorens) were not looked up in a grammar and nothing is said of them.",
+  "Baum’s handbook describes English verse; its remark on the stanza rhymed abba is made of four-beat lines, and is applied here to German lines of three, two, two and three beats.",
+  "Grove’s statement that Beethoven wished the opera called Leonora dates from 1879; later scholarship on the title was not consulted.",
+  "The DWDS glosses are those of a modern dictionary. For the words on which a caption leans (namenlos, unnennbar, Trieb, Pflicht, Weib, wanken, Gatte) Adelung’s dictionary of 1793-1801 was read as well.",
+  "From the finisher (2026-10-03): the examiner’s note that stood here is out of date. The piece has since been built in place (by the artist, by the critic and, last, by the finisher after its changes), and the table of names is now a drawing (site/js/pieces/fidelio.js) that fits a phone. What the examiner tested and changed is in exam.md; what the finisher set, left and passed up is at the end of notes.md.",
+  "From the finisher (2026-10-03): Adelung’s dictionary at zeno.org was not opened again. The words ‘in a volume of 1798’ and ‘in a volume of 1801’ change no year: they rest on the volumes and years the examiner read there (exam.md, section 4). That Upper Germany is the south rests on A New English Dictionary (vol. IV, German, B 2 b; vol. V, High, a., sense 3), read in the scans of the two volumes, and not on Adelung’s own entry for the word, which was not opened.",
+  "From the finisher (2026-10-03): on the tab Versions the second pair has no remark, on purpose. Its remark only said again what the caption says (the word once in the German, twice in the shortened text), and the lead asked for such remarks to be cut. The kit keeps the pair’s number on both versions, and the list of remarks goes from 1 to 3. The remark as it last stood is in finisher/edits-6.json, if it is wanted back."
+ ]
+}

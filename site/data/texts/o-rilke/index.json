@@ -1,0 +1,19 @@
+{
+ "id": "o-rilke",
+ "original": true,
+ "lang": "de",
+ "parts": [
+  {
+   "id": "verse",
+   "label": "Rilke, Die Aufzeichnungen des Malte Laurids Brigge (1910): the paragraph on verses",
+   "lang": "de",
+   "source": {
+    "name": "Project Gutenberg, no. 2188: Rilke, Die Aufzeichnungen des Malte Laurids Brigge",
+    "url": "https://www.gutenberg.org/ebooks/2188"
+   },
+   "file": "rilke_malte_german.txt",
+   "lines": "428-462",
+   "words": 382
+  }
+ ]
+}

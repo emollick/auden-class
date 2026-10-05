@@ -1,0 +1,20 @@
+# What goes into the repository is named by build/tools/repo-list.sh.
+# These lines only keep the bulkiest and most sensitive things out if a full
+# working copy is ever laid over a clone. See README.md, "What is not here".
+.cache/
+node_modules/
+__pycache__/
+*.pyc
+*.zip
+*.flac
+src/
+.src/
+shots*/
+remake/research/*
+!remake/research/D_texts.md
+remake/kit8/*
+remake/kit9a/*
+remake/kit9b/*
+!remake/kit8/*.md
+!remake/kit9a/*.md
+!remake/kit9b/*.md

@@ -1,0 +1,15 @@
+# kierkegaard: Kierkegaard, Fear and Trembling (selections), tr. L. M. Hollander (1923)
+
+- Source: Project Gutenberg no. 60333 (https://www.gutenberg.org/ebooks/60333), Selections from the Writings of Kierkegaard, translated by L. M. Hollander, University of Texas Bulletin no. 2326, July 8, 1923. Cached as `.cache/texts/pg60333_kierkegaard.txt` (a fresh download on 2 Oct 2026 was byte for byte the same). Only the selection headed FEAR AND TREMBLING is taken: lines 4054 to 5206 of the file.
+- What the selection contains, by its own headings (these are the four parts):
+  - `p1` Introduction, 441 words. This is Kierkegaard's own Preface, two paragraphs of it, each breaking off in an ellipsis. The file heads it INTRODUCTION II. The numeral is the Gutenberg transcriber's, to tell it from Hollander's introduction to the whole volume (INTRODUCTION I, not taken); the 1923 print has plain INTRODUCTION in both places (seen in the Internet Archive scan `selectionsfromwr00kieruoft`). So the label is `Introduction`.
+  - `p2` Preparation, 1,511 words: the prelude. Three opening paragraphs, the four tellings of the journey numbered I to IV (kept as `h` blocks, level 3), and the closing paragraph. Nothing seems to be cut here.
+  - `p3` A Panegyric on Abraham, 3,375 words; one ellipsis.
+  - `p4` Preliminary Expectoration, 6,458 words; nine ellipses.
+- What it leaves out, as far as the file shows: the epigraph; the rest of the Preface; whatever the ellipses stand for in the Panegyric and the Preliminary Expectoration; and everything after the Preliminary Expectoration, that is the three Problemata and the Epilogue, of which the file has neither a heading nor a line. Hollander's last footnote says that what he gives, with the omissions indicated, is about one-third of Fear and Trembling. The file does not tell an ellipsis of his from one of Kierkegaard's (the one in the second telling of the journey is probably Kierkegaard's own).
+- Counts: 4 parts, 11,785 words, 34 pages; 68 paragraphs, 4 headings.
+- Dropped: Hollander's introduction and the other selections (outside the range); his 18 footnotes, which stand together after the text, and their 18 markers (the script checks both runs, 1 to 18, and throws otherwise); the title line and the four headings (they are the labels); italics marks. Two of the footnotes translated Latin phrases in the Preliminary Expectoration, which now stand untranslated.
+- Check in the script: the words of the parts are the words of the selection's lines less the four headings. A separate comparison word by word found them the same and in the same order.
+- The words are the file's, slips included (for example "Ke left" and "expections" in `p3`). Nothing corrected.
+- check-text: no problems, no warnings.
+- Suggested line for the reader, if one is wanted (`index.note`, not in the contract, so not set): Hollander's selection is about a third of the book: part of the Preface, the prelude, the Panegyric and part of the Preliminary Expectoration; the three Problemata and the Epilogue are not in it.

@@ -1,0 +1,19 @@
+{
+ "id": "o-baudelaire",
+ "original": true,
+ "lang": "fr",
+ "parts": [
+  {
+   "id": "fusees-xv",
+   "label": "Baudelaire, Fusées, XV",
+   "lang": "fr",
+   "source": {
+    "name": "Project Gutenberg no. 13792, Journaux intimes (from Ebooks libres et gratuits)",
+    "url": "https://www.gutenberg.org/ebooks/13792"
+   },
+   "file": "baudelaire_journaux_intimes_fr.txt",
+   "lines": "706-717",
+   "words": 133
+  }
+ ]
+}

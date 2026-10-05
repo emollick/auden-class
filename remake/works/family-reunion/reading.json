@@ -1,0 +1,1007 @@
+{
+  "piece": "family-reunion",
+  "title": "Furies in the drawing room",
+  "where": "*The Family Reunion* (1939), the whole play",
+  "aboutHead": "The play",
+  "about": "Amy, Lady Monchensey, has kept Wishwood, a cold country house in northern England, unchanged for the eight years her eldest son has been away. On her birthday the family gathers and Harry comes home. His wife was lost overboard from a liner a year ago. He says he pushed her, and at the window he sees figures that, he says, the others do not see. Before the night is over he learns what his father once planned, and he leaves the house.",
+  "view": {
+    "says": "Following Eliot’s account, Auden wrote that this play went far toward a verse close to speech, though he could not hear the three stresses Eliot counted in each line. The theme, he wrote later, is spiritual election, and Eliot’s comedy convention is bound to make the call seem to come to Harry, and to pass over his brother John for being stupid. He was certain Eliot did not mean it.",
+    "source": "“Eliot on Eliot,” *The Observer*, 28 October 1951, and “T. S. Eliot So Far,” *The Griffin*, March 1953; both in *Prose*, vol. III (2008), pp. 258 and 355",
+    "checked": "read in this session in search-inside snippets of the Internet Archive copy of Prose III (trent_0116405823828), chained one to the next; the page heads 258, 259 and 355 and both date lines seen in the snippets. The sentence on Harry and John was also read in the open text of Edward Mendelson, Early Auden, Later Auden (2017), p. 473 n., and in remake/research/C_auden_on_works.md, section 24 and appendix H2 and H15. Checked again on 2026-10-03. The examiner read both passages again in the same snippets on 2026-10-03: the head of p. 258 falls before the passage on the play and the head of p. 259 after it; the head of p. 355 falls inside the sentence on the chosen persons, and the review ends before the head of p. 356. The sentence on the verse stands in Auden’s summary of Eliot’s own account, and the next paragraph begins by saying that Eliot was less satisfied with other sides of the play, so the view says “wrote”, not “judged”."
+  },
+  "plates": [
+    {
+      "id": "play",
+      "heading": "Four views of the play",
+      "noText": true,
+      "noTextWhy": "The play is in copyright in the United States through 2034, so its text cannot be printed here. Two of its lines are quoted for study. Everything else is counted or described from the New York edition of 1939.",
+      "lenses": [
+        {
+          "kind": "shape",
+          "label": "Line",
+          "what": "Two lines of the play with the stresses of speech marked as this page hears them, beside the rule Eliot gave for his line",
+          "facts": {
+            "rule": {
+              "stresses": 3,
+              "pauses": 1,
+              "say": "A line of varying length and a varying number of syllables. Three stresses and one pause. Pause and stresses may fall almost anywhere, so long as two of the stresses stand on one side of the pause and one on the other.",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), p. 27, in paraphrase"
+            },
+            "aim": {
+              "say": "A rhythm close to the speech of the day, with each stress where a speaker would put it. A verse that needs no prose beside it and can pass without a break from the easiest talk to the most intense speech.",
+              "source": "Poetry and Drama, pp. 25, 27 and 31, in paraphrase"
+            },
+            "voiceKey": "in \"voice\" there is one group of marks for each word and one mark for each syllable: / stressed, x unstressed; | is the pause; words are numbered from 0",
+            "lines": [
+              {
+                "id": "clock",
+                "speaker": "Amy, heard from offstage",
+                "scene": "Part II, Scene III",
+                "page": 126,
+                "quote": "The clock has stopped in the dark!",
+                "words": 7,
+                "syllables": 7,
+                "voice": "x / x / | x x /",
+                "stresses": 3,
+                "stressed": [
+                  {
+                    "w": 1,
+                    "word": "clock"
+                  },
+                  {
+                    "w": 3,
+                    "word": "stopped"
+                  },
+                  {
+                    "w": 6,
+                    "word": "dark"
+                  }
+                ],
+                "pauseAfterWord": 3,
+                "sides": "as marked here, two stresses before the pause and one after it",
+                "keepsTheRule": true,
+                "inThePlay": "The last thing Amy says. In the first scene (p. 15) she says that this is what she does not want, and here it has happened.",
+                "where": "p. 126 of the 1939 text: the second line of the speech headed Amy’s Voice; the wording checked in the lending copy, familyreunionpla00elio",
+                "note": "The pause can also be heard after clock, which gives one stress before it and two after; the rule is kept either way."
+              },
+              {
+                "id": "sample",
+                "speaker": "Harry",
+                "scene": "Part II, Scene I",
+                "page": 78,
+                "quote": "To either of my brothers. Nothing can happen—",
+                "words": 8,
+                "syllables": 12,
+                "voice": "x /x x x /x | /x x /x",
+                "voiceWithAFifth": "x /x x x /x | /x / /x",
+                "stresses": 4,
+                "stressed": [
+                  {
+                    "w": 1,
+                    "word": "either"
+                  },
+                  {
+                    "w": 4,
+                    "word": "brothers"
+                  },
+                  {
+                    "w": 5,
+                    "word": "Nothing"
+                  },
+                  {
+                    "w": 7,
+                    "word": "happen"
+                  }
+                ],
+                "mayBeStressed": [
+                  {
+                    "w": 6,
+                    "word": "can",
+                    "say": "A fifth stress can be heard here. The doctor has just said he hopes the brothers have come to no harm, and Harry’s answer turns on this word."
+                  }
+                ],
+                "pauseAfterWord": 4,
+                "sides": "as marked here, two stresses before the pause and two or three after it",
+                "keepsTheRule": false,
+                "stressesByTheRule": 3,
+                "inThePlay": "Harry’s answer to the doctor when the police sergeant is announced. It is one of the lines Auden read when he opened the play at random.",
+                "where": "p. 78 of the 1939 text: the second line of Harry’s answer to Dr. Warburton, counting the half line he begins with; the wording checked in the lending copy, familyreunionpla00elio",
+                "note": "The four sure stresses are the accented syllables of the four two-syllable words. To keep the rule of three a speaker would have to pass lightly over at least one of them. A fifth can also be heard on my (word 3), set against the doctor’s your; that way is not marked."
+              }
+            ],
+            "auden": {
+              "say": "Auden opened the play at random at this place. He could read none of the lines he found there with fewer than four stresses, and one of them, which appears to be the second line shown, sounded to him like five.",
+              "page": 78,
+              "fewestStresses": 4,
+              "mostStresses": 5,
+              "source": "“Eliot on Eliot,” The Observer, 28 October 1951; in Prose, volume III, 1949–1955, edited by Edward Mendelson (Princeton, 2008), p. 258",
+              "note": "He quotes the doctor’s two lines and the first three lines of Harry’s answer (p. 78 of the play) and calls the one with five stresses his line three. The doctor’s second line and Harry’s first are the two halves of one verse line, and neither half could hold four stresses by itself, so he must count them as one. That makes the line shown his third. This is an inference from his own count."
+            },
+            "lengths": {
+              "what": "Syllables in each of the twelve lines of the first speech of the play",
+              "speaker": "Amy",
+              "page": 11,
+              "syllables": [
+                12,
+                12,
+                13,
+                14,
+                14,
+                16,
+                13,
+                11,
+                11,
+                8,
+                11,
+                13
+              ],
+              "shortest": 8,
+              "longest": 16,
+              "counted": "with the site’s syllable tool (site/js/kit/syllables.js) on the scan of the play, lines that turn over on the page rejoined; each line then counted again by hand, with fire as one syllable"
+            }
+          },
+          "caption": "Eliot wanted a rhythm close to the speech of his day. By his account the play’s lines vary in length (8 to 16 syllables in the first speech), and each has three stresses, the syllables a speaker leans on, divided two and one by a pause, a caesura. The marks are this page’s hearing, not Eliot’s. By them Amy’s last line keeps the rule. The second line has four stressed words, and <i>can</i> may take a fifth. It stands where Auden opened the play at random: he could read no line there with fewer than four stresses, and heard five in what appears to be this one. On the measuring of verse, he added, each poet thinks only himself right.",
+          "why": "Eliot made a line of three stresses and varying length to bring verse close to the speech of his day; Auden could read no line he tried with fewer than four stresses.",
+          "stands": "Eliot’s account of the line, in *Poetry and Drama* (1951), p. 27. Syllables counted in the first speech of the play (p. 11) and in the two lines shown (pp. 126 and 78), whose stress marks are this page’s own hearing. Auden’s test of the line, in “Eliot on Eliot” (1951), *Prose*, vol. III, p. 258. Caesura, stress and accent as Baum’s *Principles of English Versification* (1922) defines them.",
+          "grounds": [
+            {
+              "claim": "the line as Eliot describes it: varying length and a varying number of syllables, three stresses and one caesura, one stress on one side of the caesura and two on the other",
+              "kind": "source",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), p. 27"
+            },
+            {
+              "claim": "the twelve lines of the first speech run from 8 to 16 syllables",
+              "kind": "plate"
+            },
+            {
+              "claim": "that speech is the first of the play and is Amy’s",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), p. 11"
+            },
+            {
+              "claim": "caesura is the classical term for a pause; a stress is the emphasis that sets one sound off from others less emphasized; an accent is the emphasis normal speech puts on one syllable of a word",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (Harvard, 1922), Glossarial Index, under Caesura, Stress and Accent; chapter II, the paragraph headed Accent and Stress. On this machine at .cache/handbooks/baum-versification-pg21342.txt"
+            },
+            {
+              "claim": "for this play Eliot wanted a rhythm near to the speech of his day, with each stress falling where a speaker would put it",
+              "kind": "source",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), p. 27"
+            },
+            {
+              "claim": "in the facts, under aim: he wanted to learn to do without prose (p. 25), and judged afterward that he had made progress toward a verse that needs no prose and passes with no break between the most intense speech and relaxed talk (p. 31)",
+              "kind": "source",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), pp. 25 and 31"
+            },
+            {
+              "claim": "the first line shown is the last thing Amy says in the play",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), p. 126; no speech of hers follows"
+            },
+            {
+              "claim": "it has seven syllables and three stresses, two before the pause and one after",
+              "kind": "plate"
+            },
+            {
+              "claim": "Auden opened the play at random and could not read any of the lines he found with fewer than four stresses; his line three sounded to him like five (the lines he quotes are those of p. 78 of the play; he gives no page)",
+              "kind": "auden",
+              "source": "“Eliot on Eliot,” The Observer, 28 October 1951; in Prose, volume III, 1949–1955, edited by Edward Mendelson (Princeton, 2008), p. 258"
+            },
+            {
+              "claim": "after the test Auden adds that prosody is a matter on which no one is right but oneself",
+              "kind": "auden",
+              "source": "“Eliot on Eliot,” The Observer, 28 October 1951; in Prose, volume III, 1949–1955, edited by Edward Mendelson (Princeton, 2008), p. 258"
+            },
+            {
+              "claim": "the second line shown appears to be the one he calls his third (an inference, set out in the facts under auden.note)",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), p. 78: the doctor’s second line and Harry’s first are the halves of one verse line"
+            },
+            {
+              "claim": "the second line shown has four accented words, and a fifth stress can be heard on can",
+              "kind": "plate"
+            },
+            {
+              "claim": "the stress marks are this page’s own hearing: Eliot quotes and scans no line of the play in the lecture, and Auden gives counts and no positions",
+              "kind": "source",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), pp. 23–31, read through by the examiner: the only verse quoted there is two lines of Shakespeare; Auden, “Eliot on Eliot,” in Prose, volume III (Princeton, 2008), p. 258"
+            }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Chorus",
+          "what": "The six scenes of the play, and the five places in them where two aunts and two uncles speak as a chorus",
+          "facts": {
+            "members": [
+              {
+                "name": "Ivy",
+                "who": "Amy’s younger sister"
+              },
+              {
+                "name": "Violet",
+                "who": "Amy’s younger sister"
+              },
+              {
+                "name": "Gerald",
+                "who": "brother of Amy’s late husband"
+              },
+              {
+                "name": "Charles",
+                "who": "brother of Amy’s late husband"
+              }
+            ],
+            "membersSource": "the list of Persons, and the heading of the first chorus (p. 21), which names the four",
+            "scenes": [
+              {
+                "id": "I.i",
+                "part": "Part I",
+                "scene": "Scene I",
+                "place": "the drawing room, on a March afternoon",
+                "pages": "11–44",
+                "firstPage": 11,
+                "lastPage": 44,
+                "onStage": "Amy, her three sisters, her two brothers-in-law and Mary; Harry arrives",
+                "choruses": 2,
+                "eumenidesShown": false
+              },
+              {
+                "id": "I.ii",
+                "part": "Part I",
+                "scene": "Scene II",
+                "place": "the drawing room",
+                "pages": "45–61",
+                "firstPage": 45,
+                "lastPage": 61,
+                "onStage": "Agatha and Mary, then Mary and Harry",
+                "choruses": 0,
+                "eumenidesShown": true,
+                "eumenidesPage": 60
+              },
+              {
+                "id": "I.iii",
+                "part": "Part I",
+                "scene": "Scene III",
+                "place": "the drawing room",
+                "pages": "62–68",
+                "firstPage": 62,
+                "lastPage": 68,
+                "onStage": "the family and the doctor, going in to dinner",
+                "choruses": 1,
+                "eumenidesShown": false
+              },
+              {
+                "id": "II.i",
+                "part": "Part II",
+                "scene": "Scene I",
+                "place": "the library, that evening",
+                "pages": "71–94",
+                "firstPage": 71,
+                "lastPage": 94,
+                "onStage": "Harry and the doctor, the police sergeant, then the family",
+                "choruses": 1,
+                "eumenidesShown": false
+              },
+              {
+                "id": "II.ii",
+                "part": "Part II",
+                "scene": "Scene II",
+                "place": "the library",
+                "pages": "95–111",
+                "firstPage": 95,
+                "lastPage": 111,
+                "onStage": "Harry and Agatha, then Amy",
+                "choruses": 0,
+                "eumenidesShown": true,
+                "eumenidesPage": 106
+              },
+              {
+                "id": "II.iii",
+                "part": "Part II",
+                "scene": "Scene III",
+                "place": "the library",
+                "pages": "112–131",
+                "firstPage": 112,
+                "lastPage": 131,
+                "onStage": "Amy and Agatha, Mary, Harry leaving, then the family",
+                "choruses": 1,
+                "eumenidesShown": false
+              }
+            ],
+            "scenesSource": "scene headings and stage directions of the 1939 text: the four leave the stage before Part I, Scene II (p. 44) and before Part II, Scene II (p. 94), and none of them speaks in either scene",
+            "choruses": [
+              {
+                "n": 1,
+                "scene": "I.i",
+                "pages": "21–22",
+                "page": 21,
+                "wordsTogether": 86,
+                "wordsApart": 60,
+                "order": [
+                  "together",
+                  "Charles",
+                  "Ivy",
+                  "Gerald",
+                  "Violet",
+                  "together"
+                ],
+                "together": "They ask why they are so uncomfortable, brought together like untrained players whom no one has told what to play, and say that they are here because Amy required it.",
+                "apart": [
+                  {
+                    "name": "Charles",
+                    "words": 16,
+                    "about": "a seat near a fire in a London street"
+                  },
+                  {
+                    "name": "Ivy",
+                    "words": 19,
+                    "about": "a visit to a relation at the seaside"
+                  },
+                  {
+                    "name": "Gerald",
+                    "words": 13,
+                    "about": "a stay at an acquaintance’s house in the country"
+                  },
+                  {
+                    "name": "Violet",
+                    "words": 12,
+                    "about": "helping at a parish tea"
+                  }
+                ],
+                "apartSay": "Each names where he or she might have been instead."
+              },
+              {
+                "n": 2,
+                "scene": "I.i",
+                "pages": "42–43",
+                "page": 42,
+                "wordsTogether": 211,
+                "wordsApart": 53,
+                "order": [
+                  "together",
+                  "Ivy",
+                  "Gerald",
+                  "Violet",
+                  "Charles",
+                  "together"
+                ],
+                "together": "They ask why they wait together like plotters who expect to be found out. All they want is to have their fears quieted, and they resolve to keep hold of their settled picture of things.",
+                "apart": [
+                  {
+                    "name": "Ivy",
+                    "words": 13,
+                    "about": "has no faith in Charles"
+                  },
+                  {
+                    "name": "Gerald",
+                    "words": 14,
+                    "about": "says Ivy thinks of no one but herself"
+                  },
+                  {
+                    "name": "Violet",
+                    "words": 14,
+                    "about": "expects Gerald to put a foot wrong"
+                  },
+                  {
+                    "name": "Charles",
+                    "words": 12,
+                    "about": "says Violet is anxious about her own place in the family"
+                  }
+                ],
+                "apartSay": "Each finds fault with one of the other three, and the four faults make a ring."
+              },
+              {
+                "n": 3,
+                "scene": "I.iii",
+                "pages": "66–67",
+                "page": 66,
+                "wordsTogether": 113,
+                "wordsApart": 56,
+                "order": [
+                  "together",
+                  "Ivy",
+                  "Gerald",
+                  "Violet",
+                  "Charles"
+                ],
+                "together": "Speaking as one, the four say I: afraid of what is past and of what is on its way.",
+                "apart": [
+                  {
+                    "name": "Ivy",
+                    "words": 12,
+                    "about": "finds such fear beneath her and will not yield to it"
+                  },
+                  {
+                    "name": "Gerald",
+                    "words": 13,
+                    "about": "is accustomed only to perils he can make sense of"
+                  },
+                  {
+                    "name": "Violet",
+                    "words": 16,
+                    "about": "is out of patience with the two uncles and the doctor for being so dull"
+                  },
+                  {
+                    "name": "Charles",
+                    "words": 15,
+                    "about": "believes he could deal with it all if he were given charge"
+                  }
+                ],
+                "apartSay": "Each then speaks briefly alone."
+              },
+              {
+                "n": 4,
+                "scene": "II.i",
+                "pages": "93–94",
+                "page": 93,
+                "wordsTogether": 220,
+                "wordsApart": 0,
+                "order": [
+                  "together"
+                ],
+                "together": "A house of long standing takes in and holds whatever has been spoken or endured there. The same unbending rules apply in Argos as at home, and they see no remedy. They end by turning to the evening’s broadcast news.",
+                "apart": [],
+                "apartSay": "No one speaks apart. The four go out."
+              },
+              {
+                "n": 5,
+                "scene": "II.iii",
+                "pages": "127–29",
+                "page": 127,
+                "wordsTogether": 286,
+                "wordsApart": 71,
+                "order": [
+                  "together",
+                  "Ivy",
+                  "Gerald",
+                  "Violet",
+                  "Charles",
+                  "together"
+                ],
+                "together": "They can manage everyday affairs and hold policies against the common mishaps, though none against what heaven sends. Outside that narrow round they cannot tell what they do or what is done to them, and they say they have missed their way. In a final line all four agree that they must act correctly.",
+                "apart": [
+                  {
+                    "name": "Ivy",
+                    "words": 17,
+                    "about": "must stay on for the burial, and wonders whether the ticket she holds can still be used"
+                  },
+                  {
+                    "name": "Gerald",
+                    "words": 16,
+                    "about": "dreads having to face the two younger brothers next day"
+                  },
+                  {
+                    "name": "Violet",
+                    "words": 17,
+                    "about": "is waiting for the will to be made known"
+                  },
+                  {
+                    "name": "Charles",
+                    "words": 21,
+                    "about": "feels that some grasp of it all may be within his reach"
+                  }
+                ],
+                "apartSay": "Three turn to the funeral, the brothers and the will. Charles alone thinks he might come to understand."
+              }
+            ],
+            "totals": {
+              "places": 5,
+              "wordsTogether": 916,
+              "wordsApart": 240
+            },
+            "counted": "Words counted by program on the scan of the play (familyreunionpl00elio), with lines that turn over on the page rejoined and words split at a line end closed up; each passage was fixed by reading the scan page by page. A hyphenated name counts as one word. Together means the speeches headed Chorus (seven of them) and the one line headed All (p. 129); apart means the single speeches of the four that stand between or after them."
+          },
+          "caption": "Two aunts and two uncles have parts of their own, and at five places they speak with one voice as a chorus. At all but the fourth, each of them then speaks briefly alone. Together they say they are uneasy, then afraid, then lost. Alone, they speak of a parish tea, of one another’s faults, of an unused ticket. The four are off the stage in the two scenes in which Harry’s pursuers, the Eumenides, are shown. After <i>Murder in the Cathedral</i> Eliot resolved to work the chorus more closely into his next play. He later found the device unsatisfactory, and by Auden’s report more artificial than an outright chorus.",
+          "why": "Eliot wanted the chorus to be more a part of the play, so he gave it to four of its persons: together they say they are afraid and lost, and alone each speaks of private concerns or the others’ faults.",
+          "stands": "A count of the words spoken under the heading *Chorus* and by the four singly at five places in the 1939 text: pp. 21–22, 42–43, 66–67, 93–94 and 127–29. The stage directions on pp. 60 and 106. Eliot’s aim and later verdict, in *Poetry and Drama* (1951), pp. 25 and 28. Auden’s report of the verdict, in “Eliot on Eliot” (1951), *Prose*, vol. III, p. 258.",
+          "grounds": [
+            {
+              "claim": "the four of the chorus and how they are related to Amy",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing): the list of Persons, and the heading of the first chorus, p. 21"
+            },
+            {
+              "claim": "five places; the words spoken together and apart at each",
+              "kind": "plate"
+            },
+            {
+              "claim": "together they say they are uneasy (p. 21, where the play’s own phrase is ill at ease), afraid (p. 66) and lost (p. 128)",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 21–22, 66 and 127–28"
+            },
+            {
+              "claim": "in four of the five places each of the four then speaks alone, in 12 to 21 words",
+              "kind": "plate"
+            },
+            {
+              "claim": "alone: Violet’s tea at the vicar’s (p. 22); each blaming one of the others (p. 42); Ivy’s ticket to London (p. 129)",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 22, 42 and 129"
+            },
+            {
+              "claim": "after Murder in the Cathedral Eliot decided to work the chorus more closely into his next play",
+              "kind": "source",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), p. 25"
+            },
+            {
+              "claim": "Eliot found that letting the characters do the commenting was more artificial than an open chorus (Auden’s report of his verdict)",
+              "kind": "auden",
+              "source": "“Eliot on Eliot,” The Observer, 28 October 1951; in Prose, volume III, 1949–1955, edited by Edward Mendelson (Princeton, 2008), p. 258"
+            },
+            {
+              "claim": "Eliot’s own verdict, which the caption gives as unsatisfactory: the device does not seem to him very satisfactory, the change from a part to a chorus asks too much of the actors, and it is a trick of use in no other play",
+              "kind": "source",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), p. 28"
+            },
+            {
+              "claim": "the Eumenides are shown in Part I, Scene II and Part II, Scene II, the two scenes with no chorus",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing): stage directions, pp. 60 and 106; the four leave before each of those scenes (pp. 44 and 94)"
+            }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Greek",
+          "what": "The story of Orestes as Aeschylus tells it, laid beside the play: what Eliot kept and what he changed",
+          "facts": {
+            "under": "Aeschylus told the story of Orestes in three plays: the *Agamemnon*, *The Libation-Bearers* and *The Furies*, whose Greek title is the *Eumenides*.",
+            "underSource": "Aeschylus, The House of Atreus, translated by E. D. A. Morshead (Project Gutenberg no. 8604); the Greek title of the third play is given in the introduction",
+            "pairs": [
+              {
+                "n": 1,
+                "kind": "kept",
+                "topic": "the house",
+                "greek": "The house of Atreus, whose people are of Argos. Blow after blow has fallen on it, one generation after another.",
+                "play": "Wishwood, a country house in northern England. The chorus names Argos once, beside England (p. 94), Agatha speaks of a curse (pp. 106–07) and tells Harry that the whole family’s burden is now his (p. 102).",
+                "greekSource": "The Libation-Bearers, the closing chorus, which counts three blows on the line of Atreus; the hosted Agamemnon names Argos or the Argives in 17 of its 528 blocks",
+                "playSource": "the Persons list (the scene); pp. 94, 102, 106–07"
+              },
+              {
+                "n": 2,
+                "kind": "kept",
+                "topic": "the Furies of the house",
+                "greek": "The Furies live in the house. Cassandra, brought to its door, says that they sit within and never leave it.",
+                "play": "Harry first sees his pursuers at Wishwood and asks why they waited for him there (p. 24). Later he says they were in the house before he came (p. 106).",
+                "read": "agamemnon/p5:75",
+                "greekSource": "the Agamemnon as hosted, agamemnon/p5, block 75",
+                "playSource": "pp. 24, 106"
+              },
+              {
+                "n": 3,
+                "kind": "kept",
+                "topic": "the son comes home",
+                "greek": "The son, Orestes, comes home from banishment and stands at his father’s grave.",
+                "play": "The son, Harry, comes home after eight years and asks the doctor and then his aunt about his dead father (pp. 73–77, 97).",
+                "greekSource": "The Libation-Bearers, the scene heading and Orestes’s first speech",
+                "playSource": "pp. 17, 21, 23, 73–74, 77, 97"
+              },
+              {
+                "n": 4,
+                "kind": "changed",
+                "topic": "the parents",
+                "turn": "a killing becomes a plan that was stopped",
+                "greek": "A wife kills her husband. Clytemnestra cuts Agamemnon down in his bath.",
+                "play": "A husband plans to kill his wife and is stopped. Harry’s father thought of ways to do it three months before Harry was born, and Agatha stopped him (p. 100).",
+                "greekSource": "the Agamemnon; The Libation-Bearers, the closing chorus",
+                "playSource": "p. 100"
+              },
+              {
+                "n": 5,
+                "kind": "changed",
+                "topic": "what the son did",
+                "turn": "a killing becomes a doubt",
+                "greek": "The son kills his mother, as the god Apollo told him to.",
+                "play": "The son says he pushed his wife overboard (p. 29) and later thinks he may have dreamed it (p. 101). His mother dies the same night, after he has gone; her doctor had warned that any great upset might kill her (pp. 76, 126–29).",
+                "greekSource": "The Libation-Bearers, Orestes’s last long speech",
+                "playSource": "pp. 29, 76, 101, 122, 126–29"
+              },
+              {
+                "n": 6,
+                "kind": "kept",
+                "topic": "who sees them",
+                "greek": "The Furies come for him. He sees them and the chorus does not. He tells them so, and runs.",
+                "play": "Harry halts in the doorway with his eyes on the window. He asks his family whether they see them, and tells them that they do not and that he does (pp. 23–24).",
+                "greekSource": "The Libation-Bearers, the last exchange of Orestes and the chorus",
+                "playSource": "pp. 23–24"
+              },
+              {
+                "n": 7,
+                "kind": "changed",
+                "topic": "the end",
+                "turn": "a trial becomes a calling",
+                "greek": "A court at Athens tries him. The votes fall equal and he goes free, back to his father’s house. The Furies are given a home under the hill of the court and are called gracious powers.",
+                "play": "No court sits. Agatha says the story is one of sin and of atoning for it, and that the sin may not be Harry’s own (p. 101). He stops running and follows his pursuers (pp. 106, 110), in the end gives them a holy name, and leaves the house to his brother (p. 111).",
+                "greekSource": "The Furies: Athena’s casting vote and the count; Orestes’s thanks; the closing procession",
+                "playSource": "pp. 101, 106, 110–11"
+              },
+              {
+                "n": 8,
+                "kind": "changed",
+                "topic": "the chorus",
+                "turn": "three choruses become four relations",
+                "greek": "The chorus is the elders of Argos, then a band of captive women, then the Furies themselves.",
+                "play": "The chorus is two aunts and two uncles.",
+                "greekSource": "the hosted Agamemnon (Clytemnestra addresses the Elders of Argos, agamemnon/p6, block 36); the lists of persons of The Libation-Bearers and The Furies in Morshead",
+                "playSource": "the heading of the first chorus, p. 21"
+              }
+            ],
+            "name": {
+              "word": "Eumenides",
+              "means": "the gracious goddesses: a euphemism, a kind name used in place of a feared one, for the Erinyes or Furies",
+              "source": "Liddell and Scott, A Greek-English Lexicon, revised by H. S. Jones (Oxford, 1940), entry Eumenides, read at the Perseus Digital Library",
+              "inThePlay": "The name stands in the list of persons and in three stage directions, one on p. 60 and two on p. 106. The Eumenides are shown twice, once on each of those pages. No one in the play speaks the name, and no one says Furies. Harry speaks of them as beings that hunt, pursue and haunt him (pp. 60, 105, 110), and in the end he gives them a holy name (p. 111). His chauffeur takes them for spirits of the dead (p. 125).",
+              "timesSpoken": 0,
+              "timesInStageDirections": 3,
+              "counted": "by program on the scan of the play, and each place read"
+            },
+            "eliot": {
+              "say": "Looking back in 1950, Eliot judged that the deepest flaw of the play was a failure to fit the Greek story and the modern situation to each other. He should have kept nearer to Aeschylus, he said, or else taken far more liberty with the myth.",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), p. 30, in paraphrase"
+            },
+            "auden": {
+              "orestes": "Auden on the Orestes of Aeschylus, in 1950: his killing of his mother is a duty laid on him and no free choice; he does not repent, and a court acquits him.",
+              "harry": "Auden on Harry, eighteen years later: he decides on a way of life that may well end in martyrdom.",
+              "source": "W. H. Auden, The Enchafèd Flood (1950; Vintage Books edition, 1967), pp. 109–10 (on Orestes, and not said of Eliot’s play); Secondary Worlds (New York: Random House, 1968), Foreword, p. 11 (on Harry); both in paraphrase"
+            }
+          },
+          "caption": "Aeschylus’s story of Orestes lies under the play. Eliot keeps its frame: a cursed house, a son come home, pursuers he sees while those around him see no one. In place of its two killings the play has a murder planned and stopped, and a push Harry thinks he may have dreamed. In Aeschylus Orestes does not repent, as Auden noted, and a court tries him and frees him. Here Agatha calls the story one of <i>sin and expiation</i>, of amends for a sin perhaps not Harry’s own, and he turns and follows his pursuers. Eliot later judged that he had not fitted the Greek story to the modern situation.",
+          "why": "The play keeps the Greek frame but has no trial: Agatha speaks of sin and of atoning for it, and Harry follows his pursuers. Eliot later judged the Greek story and the modern situation ill adjusted.",
+          "stands": "Aeschylus in Morshead’s translation: the [*Agamemnon*](#/read/agamemnon/p5:75), printed here, where Cassandra tells of the Furies of the house; the end of *The Libation-Bearers*; the trial in *The Furies*. The play, pp. 23–24, 29, 100–01, 106 and 110–11. Eliot, *Poetry and Drama*, p. 30. Auden on Orestes, *The Enchafèd Flood*, pp. 109–10. *Expiation* as the Online Etymology Dictionary gives it, and *Eumenides* as Liddell and Scott’s lexicon does.",
+          "grounds": [
+            {
+              "claim": "Aeschylus tells the story of Orestes in three plays",
+              "kind": "source",
+              "source": "Aeschylus, The House of Atreus, translated by E. D. A. Morshead (Project Gutenberg no. 8604)"
+            },
+            {
+              "claim": "kept: a house on which blow after blow falls; a son come home; pursuers he sees and the others do not",
+              "kind": "source",
+              "source": "Aeschylus, The House of Atreus, translated by E. D. A. Morshead (Project Gutenberg no. 8604): The Libation-Bearers, Orestes’s first speech, his last exchange with the chorus, and the closing chorus; the Agamemnon as hosted, agamemnon/p5, block 75"
+            },
+            {
+              "claim": "in the play: the curse (pp. 106–07), the son home after eight years (pp. 17, 21, 23), the pursuers only he sees (pp. 23–24)",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 17, 21, 23–24, 106–07"
+            },
+            {
+              "claim": "the Greek killings: Clytemnestra kills Agamemnon, Orestes kills his mother",
+              "kind": "source",
+              "source": "Aeschylus, The House of Atreus, translated by E. D. A. Morshead (Project Gutenberg no. 8604): the Agamemnon; The Libation-Bearers"
+            },
+            {
+              "claim": "Harry’s father planned to kill Amy and Agatha stopped him; Harry says he pushed his wife, and later thinks he may have dreamed it",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 29, 100, 101"
+            },
+            {
+              "claim": "a court tries Orestes and he goes free on equal votes",
+              "kind": "source",
+              "source": "Aeschylus, The House of Atreus, translated by E. D. A. Morshead (Project Gutenberg no. 8604): The Furies, Athena’s casting vote and the count"
+            },
+            {
+              "claim": "Agatha: the story is one of sin and expiation and not of crime and punishment; the sin may not be his own",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), p. 101"
+            },
+            {
+              "claim": "Harry will follow his pursuers; his business is to pursue",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 106, 110–11"
+            },
+            {
+              "claim": "Orestes does not repent and is acquitted (said of Aeschylus, in a passage on heroes of revenge, and not of Eliot’s play)",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), pp. 109–10"
+            },
+            {
+              "claim": "in the facts, under auden: what becomes of Harry is not told, but he decides on a way of life that may well end in martyrdom (the caption no longer gives this)",
+              "kind": "auden",
+              "source": "Secondary Worlds (New York: Random House, 1968), Foreword, p. 11"
+            },
+            {
+              "claim": "Eliot: the story from Aeschylus and the modern situation were never adjusted to each other, and he should have kept closer to Aeschylus or gone further from him",
+              "kind": "source",
+              "source": "T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), p. 30"
+            },
+            {
+              "claim": "expiation is the making of satisfaction or reparation for an offense; atonement",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, entry expiation (etymonline.com/word/expiation)"
+            },
+            {
+              "claim": "in the facts: Eumenides means the gracious goddesses, a euphemism for the Erinyes or Furies, and is the name of Aeschylus’s play",
+              "kind": "source",
+              "source": "Liddell and Scott, A Greek-English Lexicon, rev. H. S. Jones (Oxford, 1940), entry Eumenides, at the Perseus Digital Library (Perseus text 1999.04.0057)"
+            }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Sight",
+          "what": "Who in the house sees the Eumenides, and who does not",
+          "facts": {
+            "shown": [
+              {
+                "page": 60,
+                "scene": "Part I, Scene II",
+                "what": "The window curtains open and the Eumenides are seen.",
+                "onStage": [
+                  "Harry",
+                  "Mary"
+                ]
+              },
+              {
+                "page": 106,
+                "scene": "Part II, Scene II",
+                "what": "The Eumenides are seen at the window again.",
+                "onStage": [
+                  "Harry",
+                  "Agatha"
+                ]
+              }
+            ],
+            "shownSource": "stage directions of the 1939 text, pp. 60 and 106; who is on stage from the scene headings and the entrances and exits",
+            "sees": [
+              {
+                "who": "Harry",
+                "role": "Lord Monchensey, Amy’s eldest son",
+                "pages": "24, 60, 106",
+                "say": "He sees them at the window as he comes in, and twice more."
+              },
+              {
+                "who": "Downing",
+                "role": "Harry’s chauffeur and servant",
+                "pages": "125",
+                "say": "He saw them before his master did and has grown easy with them. He takes them for spirits of the dead."
+              },
+              {
+                "who": "Agatha",
+                "role": "Amy’s youngest sister, the head of a women’s college",
+                "pages": "106, 117, 125",
+                "say": "She is in the room when they appear the second time, and says later that she has seen them."
+              },
+              {
+                "who": "Mary",
+                "role": "the daughter of a dead cousin of Amy’s",
+                "pages": "60–61, 117, 125",
+                "say": "She is in the room when they first appear, and tells Harry that no one is there. Later she lets Agatha know that she has seen them."
+              }
+            ],
+            "doesNotSee": [
+              {
+                "who": "Amy",
+                "role": "Harry’s mother",
+                "pages": "110",
+                "say": "She tells Harry that no one is there but his family."
+              },
+              {
+                "who": "Gerald",
+                "role": "uncle, one of the chorus",
+                "pages": "24",
+                "say": "He looks and finds nobody there."
+              },
+              {
+                "who": "Charles",
+                "role": "uncle, one of the chorus",
+                "pages": "24, 123",
+                "say": "He is with the family when Harry tells them that they do not see what he sees. At the end he starts to think there may be something he could grasp, if someone told him."
+              },
+              {
+                "who": "Ivy",
+                "role": "aunt, one of the chorus",
+                "pages": "24",
+                "say": "She is with the family when Harry tells them that they do not see what he sees."
+              },
+              {
+                "who": "Violet",
+                "role": "aunt, one of the chorus",
+                "pages": "24, 122",
+                "say": "She is with the family when Harry tells them that they do not see what he sees. At the end she says that none of it has made sense to her."
+              }
+            ],
+            "notSaid": [
+              {
+                "who": "Dr. Warburton",
+                "role": "the family doctor"
+              },
+              {
+                "who": "Sergeant Winchell",
+                "role": "the police sergeant"
+              },
+              {
+                "who": "Denman",
+                "role": "the parlourmaid"
+              }
+            ],
+            "neverArrive": [
+              {
+                "who": "John",
+                "role": "Harry’s brother",
+                "pages": "81",
+                "say": "On his way to the house he crashes his car in bad weather and is laid up nearby with a head injury."
+              },
+              {
+                "who": "Arthur",
+                "role": "Harry’s brother",
+                "pages": "89–92",
+                "say": "He telephones from London after an accident. A newspaper reports that a court has fined him and banned him from driving for a year."
+              }
+            ],
+            "election": {
+              "word": "election",
+              "page": 111,
+              "means": "In its religious sense the word is God’s choice of a person for eternal life.",
+              "meansSource": "Online Etymology Dictionary, entry election: the theological sense, God’s choice of someone, dates from the late 14th century",
+              "say": "Harry’s own word for what has come to him. He says he cannot tell why it is his. Agatha has told him that he is chosen (p. 102)."
+            },
+            "john": {
+              "heading": "What is said of John, who is to have the house",
+              "said": [
+                {
+                  "by": "Dr. Warburton",
+                  "page": 77,
+                  "say": "dependable, but not bright"
+                },
+                {
+                  "by": "Ivy",
+                  "page": 87,
+                  "say": "the least quick of the three brothers"
+                },
+                {
+                  "by": "Harry",
+                  "page": 84,
+                  "say": "so little awake at the best of times that a knock on the head changes little"
+                },
+                {
+                  "by": "Harry",
+                  "page": 95,
+                  "say": "likely to settle in the family house and marry someone duller than he is"
+                },
+                {
+                  "by": "Harry",
+                  "page": 111,
+                  "say": "to take Harry’s place as head of the house, with everything that was his"
+                }
+              ]
+            },
+            "audience": {
+              "in1939": "In the 1939 text the audience sees them twice, when the stage directions show them at the window.",
+              "later": "Eliot said in 1950 that in future they should be left out of the cast and taken to be seen by some of the characters and not by the audience.",
+              "source": "stage directions, pp. 60 and 106; T. S. Eliot, Poetry and Drama (London: Faber and Faber, 1951), p. 30, in paraphrase"
+            },
+            "auden": {
+              "say": "Auden: the theme is spiritual election. The play takes over the convention of English high comedy, whose chief persons are aristocrats, and that convention is bound to make it seem that Harry is the one called, and that his brother John is passed over for being stupid. He was certain Eliot did not mean it.",
+              "source": "“T. S. Eliot So Far,” The Griffin, March 1953; in Prose, volume III, 1949–1955, edited by Edward Mendelson (Princeton, 2008), p. 355, in paraphrase"
+            }
+          },
+          "caption": "Harry sees his pursuers, the Eumenides, at the window. His aunt Agatha, his cousin Mary and his chauffeur see them too. His mother and the chorus do not, and his brothers never arrive. Harry speaks of his <i>election</i>, his being chosen, and cannot say why it is his. John, who gets the house, is called dependable, dull and barely aware. Auden wrote that the play takes over the convention of English high comedy, where wealth and breeding can stand for gifts and virtues. When the theme is spiritual election, it is bound to seem that Harry, not John, is called because John is stupid. Auden was certain Eliot did not mean it.",
+          "why": "Only some of the house see the Eumenides, and Harry speaks of his election; Auden wrote that the comedy convention is bound to make the call seem to go by brains, against Eliot’s meaning.",
+          "stands": "The play: pp. 23–24, 60–61, 106, 110, 117 and 125 for who sees them; pp. 81 and 89–92 for the brothers’ accidents; pp. 102 and 111 for Harry’s being chosen; pp. 77, 84, 87, 95 and 111 for what is said of John. The religious sense of *election* as the Online Etymology Dictionary gives it. Auden, “T. S. Eliot So Far” (1953), *Prose*, vol. III, p. 355.",
+          "grounds": [
+            {
+              "claim": "the Eumenides are shown at a window",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing): stage directions, pp. 60 and 106; p. 23, Harry stares at the window"
+            },
+            {
+              "claim": "Harry sees them (pp. 24, 60, 106); Agatha and Mary have seen them (pp. 117, 125); Downing saw them before his master did (p. 125)",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 24, 60, 106, 117, 125"
+            },
+            {
+              "claim": "who they are: Agatha is Amy’s sister and so Harry’s aunt; Mary, the daughter of a cousin of Amy’s, calls herself a cousin (p. 52); Downing is Harry’s servant and chauffeur",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing): the list of Persons; p. 52"
+            },
+            {
+              "claim": "Amy and the four of the chorus do not see them: Harry tells the assembled family so, Gerald sees no one (p. 24), Amy says no one is there (p. 110)",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 24, 110"
+            },
+            {
+              "claim": "John and Arthur never arrive",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 81 and 89–92"
+            },
+            {
+              "claim": "Harry’s word election, and that he does not understand why it is his",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), p. 111"
+            },
+            {
+              "claim": "election in its theological sense is God’s choice of someone; Agatha has told Harry that he is chosen (p. 102)",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, entry election (etymonline.com/word/election); T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), p. 102"
+            },
+            {
+              "claim": "John is to have the house and Harry’s place in it (p. 111); he is called dependable but not bright (p. 77), the least quick of the brothers (p. 87) and barely aware at the best of times (p. 84); Harry expects him to marry someone duller than he is (p. 95)",
+              "kind": "text",
+              "source": "T. S. Eliot, The Family Reunion (New York: Harcourt, Brace, 1939; read in a later printing), pp. 77, 84, 86–87, 95, 111"
+            },
+            {
+              "claim": "the play takes over the convention of English high comedy; while the subject is worldly, wealth and breeding can stand for gifts and virtues; when the theme is spiritual election that symbolism breaks down",
+              "kind": "auden",
+              "source": "“T. S. Eliot So Far,” The Griffin, March 1953; in Prose, volume III, 1949–1955, edited by Edward Mendelson (Princeton, 2008), p. 355"
+            },
+            {
+              "claim": "Auden is certain Eliot did not mean that Harry is called, and John is not, because John is stupid; the comedy convention in use is bound to make it seem so",
+              "kind": "auden",
+              "source": "“T. S. Eliot So Far,” The Griffin, March 1953; in Prose, volume III, 1949–1955, edited by Edward Mendelson (Princeton, 2008), p. 355; the same sentence quoted in Edward Mendelson, Early Auden, Later Auden (Princeton, 2017), p. 473 n."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Reviewing Eliot’s lecture in 1951, Auden follows his account of the play. Eliot had decided to take a subject from his own time, to find a verse rhythm near its speech, and to let the characters do the commenting. In this play, he writes, Eliot went far toward solving the problem of the verse. Then Auden tries the rule of three stresses on lines found by opening the play at random, and can read none with fewer than four. On prosody, the measuring of verse, he adds, each poet thinks only himself right. He reports Eliot’s verdict: letting the characters comment had proved more artificial than an outright chorus.",
+      "source": "“Eliot on Eliot,” a review of Eliot’s *Poetry and Drama*, *The Observer*, 28 October 1951; in *Prose*, vol. III (2008), pp. 257–59",
+      "checked": "read in this session in search-inside snippets of the Internet Archive copy of Prose III (trent_0116405823828), chained one to the next; page heads 258 and 259 and the date line seen. Not in the research notes. The examiner chained the same snippets on 2026-10-03, from the sentence on what Eliot decided through the test of the line to the report on the chorus, and saw the two page heads and the date line."
+    },
+    {
+      "says": "Reviewing Eliot’s collected poems and plays in 1953, Auden says that in the plays the chosen persons, Becket, Harry and Celia, take their suffering as a way to grace and a sign of special vocation. If this play and *The Cocktail Party* sound a snobbish note at times, he puts it down to technique. Intent on a stage verse that would not be arty, Eliot put off the question of convention and took over that of English high comedy, whose chief persons are aristocrats. That serves while the subject is worldly, since wealth and breeding can stand for gifts and virtues. For a theme of spiritual election it breaks down.",
+      "source": "“T. S. Eliot So Far,” a review of Eliot’s *Complete Poems and Plays*, *The Griffin*, March 1953; in *Prose*, vol. III (2008), pp. 352–55",
+      "checked": "read in this session in search-inside snippets of the Internet Archive copy of Prose III (trent_0116405823828), chained one to the next; page head 355 and the date line seen. Two sentences also in remake/research/C_auden_on_works.md, section 24 and appendix H15, and one in Mendelson, Early Auden, Later Auden (2017), p. 473 n. The examiner chained the same snippets on 2026-10-03: the head of p. 355 falls inside the sentence on the chosen persons, and the review’s date line is followed by the head of p. 356. His words for what stands for gifts and virtues are wealth and breeding."
+    },
+    {
+      "says": "In the foreword to his T. S. Eliot Memorial Lectures of 1967, Auden sets Harry beside two other persons of Eliot’s plays. Becket, in the first long play, was a martyr known to history. What becomes of Harry is not told, Auden says, but he decides on a way of life that may well end in martyrdom, as Celia’s decision does in *The Cocktail Party*.",
+      "source": "*Secondary Worlds* (New York: Random House, 1968), Foreword, p. 11",
+      "checked": "read in this session in search-inside snippets of the Internet Archive copy (secondaryworldse00aude), where a page break 11/12 follows the passage; also in remake/research/C_auden_on_works.md, section 24 and appendix H11, which gives pp. 11–12. The examiner saw the same snippets on 2026-10-03: the contents page puts the Foreword at p. 11, and the page turns two sentences after the one on Harry. His strength of statement is “may well”, and the entry now keeps it."
+    },
+    {
+      "says": "In a book of 1950, writing about heroes of revenge, Auden describes the Orestes of Aeschylus, whose story lies under the play. His killing of his mother is no free choice: it is a duty that comes to him from what he owes his father. What the Furies make him suffer is unexpected and comes from nothing in himself. He does not repent, and a divine court acquits him. Auden is not writing about Eliot’s play here.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 109–10",
+      "checked": "read in this session in the scan of The Enchafèd Flood on this machine (research/auden/ef.txt, lines 4522–4552); the page number 109 stands at the foot of its page. The examiner read the same lines on 2026-10-03: the title page of the scan is the Vintage Books edition of September 1967, so 109 and 110 are that edition’s pages; the four numbered points begin on p. 109 and the third runs over to p. 110"
+    }
+  ],
+  "next": null,
+  "nextNote": "The play can be borrowed from the Internet Archive in the New York edition of 1939, the one on Auden’s list, and most libraries have it. The first of the three Greek plays under it, the *Agamemnon*, is printed here.",
+  "nextLinks": [
+    {
+      "label": "Borrow the 1939 edition",
+      "url": "https://archive.org/details/familyreunionpla00elio"
+    },
+    {
+      "label": "Agamemnon: Cassandra and the Furies of the house",
+      "text": "agamemnon/p5:75"
+    }
+  ],
+  "sources": [
+    "T. S. Eliot, *The Family Reunion* (New York: Harcourt, Brace, 1939), the edition on Auden’s reading list, read in a later printing. Page numbers are that printing’s. A copy of this edition can be [borrowed from the Internet Archive](https://archive.org/details/familyreunionpla00elio).",
+    "T. S. Eliot, *Poetry and Drama*, the Theodore Spencer Memorial Lecture, Harvard University, 21 November 1950 (London: Faber and Faber, 1951), pp. 25–31: his own account of the play. In copyright, and given here in paraphrase.",
+    "W. H. Auden, “Eliot on Eliot,” a review of *Poetry and Drama*, *The Observer*, 28 October 1951; in *Prose*, vol. III: 1949–1955, edited by Edward Mendelson (2008), pp. 257–59.",
+    "W. H. Auden, “T. S. Eliot So Far,” a review of Eliot’s *Complete Poems and Plays*, *The Griffin*, March 1953; in *Prose*, vol. III, pp. 352–55. One sentence of it is quoted in Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (Princeton, 2017), p. 473, note.",
+    "W. H. Auden, *Secondary Worlds*, the T. S. Eliot Memorial Lectures of 1967 (New York: Random House, 1968), Foreword, p. 11.",
+    "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 109–10, on Orestes.",
+    "Aeschylus, *The House of Atreus*: the *Agamemnon*, *The Libation-Bearers* and *The Furies*, translated by E. D. A. Morshead (Project Gutenberg no. 8604). The [*Agamemnon*](#/read/agamemnon/p1:0) is printed here.",
+    "Liddell and Scott, *A Greek-English Lexicon*, revised by H. S. Jones (Oxford, 1940), entry *Eumenides*, at the Perseus Digital Library.",
+    "Paull F. Baum, *The Principles of English Versification* (Cambridge: Harvard University Press, 1922), the glossarial index, under *Accent*, *Caesura* and *Stress*.",
+    "Online Etymology Dictionary (etymonline.com), entries *election* and *expiation*.",
+    "The typed reading list of Auden’s course, English 135, “Fate and the Individual in European Literature” (University of Michigan, 1941), which names the play with its publisher, Harcourt Brace."
+  ],
+  "caveats": [
+    "What Auden says here was written between 1950 and 1968, nine to twenty-seven years after his course of 1941, and his remark on Orestes is not about this play. No record was found of anything he said about the play in class.",
+    "Auden’s two reviews and his foreword were read for this page in short passages of scanned copies, not in full.",
+    "The stress marks on the two lines are this page’s own, and each line can be heard another way. Eliot marked the stresses of no line of the play in his lecture, and Auden gave only counts. Which line he heard with five stresses is inferred from his count.",
+    "The play was read in a later printing of the New York edition of 1939. Page numbers are that printing’s, and other printings and editions may differ.",
+    "The counts were made on that copy: for the chorus, words, with lines that turn over on the page joined and a hyphenated name counted as one; for the first speech, syllables, where a word that can be said in one syllable or two was counted as one."
+  ],
+  "open": [
+    "The play was read in the Internet Archive scan familyreunionpl00elio. Its title page is Harcourt, Brace and Company, New York, copyright 1939, but the list of Eliot’s books facing the title includes Four Quartets, so the copy is a printing of 1943 or later. The first printing was not compared. The two quoted lines were checked in the lending copy familyreunionpla00elio and read the same.",
+    "Auden’s two reviews (Prose III) and the foreword of Secondary Worlds could be read only in search-inside snippets of restricted scans, chained one to the next. Page numbers 258, 259 and 355 are from page heads seen in the snippets. For Secondary Worlds a page break 11/12 follows the passage, so the sentence is given as p. 11; the research notes give pp. 11–12.",
+    "Which line Auden calls his “line three” is inferred. He quotes the doctor’s two lines and the first three lines of Harry’s answer from p. 78. If the line shared by the two speakers is counted once, his third is the line quoted here. The snippets do not show how the review sets out the lines.",
+    "The stress marks on the two quoted lines are the poet’s. Eliot gives the rule in Poetry and Drama and scans no line of the play; Auden gives counts and no positions. The other ways of hearing each line are in notes.md.",
+    "No record was found of anything Auden said about this play in the 1941 class. Everything of his used here is later: 1950, 1951, 1953, 1967.",
+    "The quotation budget is spent on two lines of the play (7 and 8 words). Auden and Eliot are paraphrased throughout. Besides the two lines, the reading names single words and four short phrases of the play: election; hunters, pursuers, spectres, bright angels, ghosts; Eumenides; sin and expiation; crime and punishment; ill at ease. If these are to count as quotation they can be put in other words.",
+    "The page has nowhere on this site to send the reader for the play itself, so “next” is null. “nextNote” and “nextLinks” are printed under “Read on” (since about 08:00 UTC on 3 October 2026): the lending copy, and the place in the Agamemnon that the Greek tab links to.",
+    "Later editions of the play were not compared with the 1939 text.",
+    "From the examiner: count.mjs was not run. It needs the open scan of the play from the Internet Archive, and in the examiner’s session that fetch was refused by the machine’s permission system; no other road to the play’s text was tried. So the examiner has not opened the play. The chorus word counts, the twelve syllable counts of the first speech, every page number of the play, who says what, and the count of the name Eumenides (none spoken, three in stage directions) rest on the poet’s record and notes.md. What could be counted again from the reading alone was, and it agrees (exam.md, section 1).",
+    "From the examiner: the play’s words that the page prints, as far as can be told without the play’s text: the two lines (7 and 8 words), one single word in the Sight caption and one three-word phrase in the Greek caption, 19 words in all. Besides these: single words of the two lines repeated as pointers under the marks and once in the Line caption, and names (the persons, the house, Eumenides, Argos). Every report of a speech, the scene settings and the roles are now in the examiner’s own words, and the other phrases listed in the poet’s entry above are no longer in the reading. This total was not checked by machine against the play. Someone who can open the scan should test the printed strings for runs of two or more words shared with it.",
+    "From the examiner: a second fetch was refused as well, the text of the open scan of Eliot’s lecture, wanted again for a machine test of shared wording. The lecture had been read page by page earlier in the examination (exam.md, section 2), so what is given to Eliot was checked at its page, but no shared-run test against the lecture was made. Against the sources on this machine (The Enchafèd Flood, the research notes, Morshead’s Aeschylus, Baum) no run of Auden’s own words longer than seven was found.",
+    "From the examiner: the catalogue record of the open scan (familyreunionpl00elio) gives the publisher as Harcourt, Brace & World, the firm’s name from 1960, which would make that copy a printing of 1960 or later. The poet reports its title page as Harcourt, Brace and Company. Not resolved, since the examiner could not open the scan. The record of the lending copy (familyreunionpla00elio) is New York, Harcourt, Brace and Co., 1939. The printed notes now say that the page numbers are that printing’s.",
+    "From the examiner: the stress marks are the page’s own hearing, and the page now says so in the caption, in the tab’s description, in both “sides” strings, in what the caption stands on and in a caveat. The drawing still prints that the first line keeps the rule and that the rule asks three of the second; both follow from the page’s marks. If the lead wants no verdict from the page’s own ear, that sentence in the drawing is the place to change.",
+    "From the examiner: the title says Furies. No one in the play uses that word (the list of persons and the stage directions say Eumenides), and of the two showings one is in the drawing room and one in the library. Eliot’s lecture calls them the Furies and the title is the page’s own phrase, so it was left."
+  ]
+}

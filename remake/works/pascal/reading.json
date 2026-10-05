@@ -1,0 +1,1481 @@
+{
+  "piece": "pascal",
+  "title": "The heart and the reason",
+  "where": "*Pensées*, fragments 277 and 278, 347 and 348, and 233",
+  "about": "Pascal died in 1662 and left notes, many of them for a defense of Christianity; they were printed eight years later as his *Pensées*, or thoughts. W. F. Trotter’s English, printed here, follows an edition that numbers over nine hundred notes and sorts them by subject into fourteen sections; that order is an editor’s, not Pascal’s. Pascal writes in his own voice, at times to an unbeliever addressed as *you*. The third passage answers a speaker who has just said the right thing is not to bet at all.",
+  "view": {
+    "says": "In 1939 Auden called Pascal by far the noblest and most tempting of the dualists, who in his account split what exists in two, good and evil; Pascal’s kind sets a supernatural world against this one. Auden saw a divided man, corrupt in heart and sound in intellect, and held that his reason saved him, not the heart he credited: reason told him how corrupt his heart was.",
+    "quote": "Like most of us he exalted the faculty he lacked over the faculty he possessed, the heart over the reason",
+    "source": "*The Prolific and the Devourer* (written 1939; Ecco Press, 1994), pp. 31 and 46–48",
+    "checked": "Read by the poet in the Internet Archive’s search-inside snippets of the scan prolificdevourer00aude (OCR), pieced together from overlapping snippets, and read again the same way by the examiner on 2026-10-03, forward and backward from each sentence. The page numbers come from the foot lines that fall inside the snippets (the book’s title and the number on odd pages, the number and the author’s name on even ones): the line for p. 45 breaks the sentence on Pascal and Rousseau after its first clause; the line for p. 46 stands in the two Gods passage just before its closing words about the prudent man; and the line for p. 47 falls inside the last clause of the sentence on what saved Pascal, so the sentences on the dualists, the two faculties and the divided man are on p. 47 and the last clause runs on to p. 48; the passage on two worlds and two Gods is on p. 46, with its last sentence and a half on p. 47. That the number line stands at the foot of the page, and that p. 47 ends at those words, is also the finding of remake/research/E_pd_pearce.md, section 1.1. remake/research/C_auden_on_works.md, section 11 and appendix H13, gives pp. 46-47 for the dualists sentences. What a dualist is: Auden’s own account of the false philosophy, which starts from a division of the whole in two, one part good with a right to exist and the other evil with none, and may be theological, metaphysical or political; it stands between the foot lines for pp. 30 and 31, so on p. 31 (examiner, 2026-10-03). Pascal’s kind: the two-worlds passage of pp. 46-47; p. 34 (between the foot lines for 33 and 34, the second misread by the OCR) calls him an ascetic dualist, and p. 73 speaks of the old dualism of the natural and supernatural worlds. ‘By far the noblest and most tempting’ paraphrases his two superlatives, the second of which is the word seductive. The split being of p. 47 is, in his sentence, the neurotic child Pascal had been. The quotation’s punctuation was not seen on a printed page."
+  },
+  "plates": [
+    {
+      "id": "heart",
+      "heading": "Fragments 277 and 278",
+      "text": "pascal/s04",
+      "rows": [
+        "90.0",
+        "92.0"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Reasons",
+          "name": "antanaclasis",
+          "plain": "the same word said again with a different meaning",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "90.0",
+              "w": [
+                4,
+                4
+              ],
+              "tag": "A",
+              "label": "grounds, motives"
+            },
+            {
+              "row": "90.0",
+              "w": [
+                6,
+                6
+              ],
+              "tag": "B",
+              "label": "the reasoning power"
+            },
+            {
+              "row": "90.0",
+              "w": [
+                62,
+                62
+              ],
+              "tag": "B",
+              "label": "the reasoning power"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                10,
+                10
+              ],
+              "tag": "B",
+              "label": "the reasoning power"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                23,
+                23
+              ],
+              "tag": "B",
+              "label": "the reasoning power"
+            }
+          ],
+          "join": [
+            [
+              0,
+              1
+            ]
+          ],
+          "caption": "The first sentence uses one word twice, <b>reasons</b> and then <b>reason</b>, in two senses. The plural means grounds or motives; the singular names the power by which a person knows and judges, and it returns three times below. Littré’s French dictionary lists the two senses apart and quotes this sentence under motive. The play on the word is Pascal’s: <i>raisons</i>, <i>raison</i>. It gives the heart reasons in the very word that names the power said not to know them. In the manuscript the clause about reason is an addition above the line, and the play came with it. Auden’s judgment was that Pascal set the heart above the reason.",
+          "why": "One word in two senses credits the heart with reasons and says that reason, the knowing power, does not know them; the clause is an addition in the manuscript, and Auden says Pascal set the heart above the reason.",
+          "grounds": [
+            {
+              "claim": "the word comes twice in the first seven words, plural and then singular, and the singular comes back three more times in the passage",
+              "kind": "plate"
+            },
+            {
+              "claim": "the plural means grounds or motives, the singular the power of knowing and judging, and the dictionary quotes this sentence under the first",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873-74), at littre.org, under raison: sense 1 (Faculté par laquelle l’homme connaît, juge et se conduit) and sense 11 (Cause, sujet, motif), where fragment 277 is quoted from Havet’s edition; read 2026-10-03"
+            },
+            {
+              "claim": "antanaclasis is one word repeated in a different sense",
+              "kind": "source",
+              "source": "Littré under antanaclase (Répétition d’un même mot en des sens différents); Silva Rhetoricae, rhetoric.byu.edu, antanaclasis, which defines it as a word or phrase said again with its meaning changed"
+            },
+            {
+              "claim": "the French has the same turn, raisons and raison",
+              "kind": "source",
+              "source": "Œuvres de Blaise Pascal, ed. Léon Brunschvicg, vol. XIII, Section IV, fragment 277, read on French Wikisource"
+            },
+            {
+              "claim": "the sentence gives the heart reasons and says reason does not know them",
+              "kind": "text",
+              "source": "pascal/s04, block 90, words 0 to 9"
+            },
+            {
+              "claim": "the clause about reason is an addition written above the line",
+              "kind": "source",
+              "source": "Brunschvicg’s note to fragment 277 (the clause ‘en surcharge’); the diplomatic transcription of page 8 of the Recueil original in D. Descotes and G. Proust, Édition électronique des Pensées de Blaise Pascal (www.penseesdepascal.fr, dossier Preuves par discours I, image RO8-1-diplo), where the clause stands above the line in the color the edition uses for additions; viewed 2026-10-03. The examiner enlarged the image the same day: the first writing has only the plural, followed by a struck false start and the words for knowing it in a thousand things, so the singular, and with it the play on the word, belongs to the addition"
+            },
+            {
+              "claim": "Pascal set the heart above the reason",
+              "kind": "auden",
+              "source": "The Prolific and the Devourer (written 1939; Ecco Press, 1994), p. 47"
+            }
+          ],
+          "stands": "The marks on the passage, and what its first sentence says. The two senses and the figure: Littré’s dictionary, under *raison* (senses 1 and 11) and *antanaclase*, and *Silva Rhetoricae*. The addition above the line: Brunschvicg’s note to fragment 277, and the transcription of the manuscript page in the *Édition électronique des Pensées de Blaise Pascal*. Auden: *The Prolific and the Devourer*, p. 47."
+        },
+        {
+          "kind": "word",
+          "label": "French",
+          "notes": [
+            {
+              "row": "90.0",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "also a way of knowing",
+              "note": "In fragment 282 Pascal says that first principles such as space, time and number are known by the heart alone.",
+              "source": "Pensées, fragment 282: pascal/s04, block 100"
+            },
+            {
+              "row": "90.0",
+              "w": [
+                11,
+                11
+              ],
+              "gloss": "French *sait*: knows",
+              "note": "Pascal wrote *on le sait*, one knows it; the verb of feeling is Trotter’s.",
+              "source": "Brunschvicg’s text of fragment 277 (vol. XIII, Section IV); Littré under savoir, sense 1 (Avoir connaissance de)"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "French *sent*: feels, perceives",
+              "note": "The verb is *sentir*, to feel; Littré also gives it the sense to perceive or know.",
+              "source": "Brunschvicg’s text of fragment 278; Littré under sentir, senses 1 (Recevoir une impression) and 6 (S’apercevoir, connaître); Brunschvicg’s text of fragment 282, where the heart is the subject of sent and the principles se sentent, against pascal/s04, block 100, words 130 to 133 and 165 to 167 of the hosted translation"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                16,
+                16
+              ],
+              "gloss": "French *sensible*: perceptible",
+              "note": "Pascal wrote *Dieu sensible au cœur*, God perceptible to the heart; Littré quotes the phrase under the sense of what makes itself clearly perceived.",
+              "source": "Brunschvicg’s text of fragment 278; Littré under sensible, sense 8 (Qui se fait percevoir, remarquer aisément, clairement), which quotes fragment 278"
+            }
+          ],
+          "caption": "Trotter, the translator, writes <b>feel</b>, <b>experiences</b> and <b>felt</b>. Behind <b>feel</b> is <i>sait</i>, knows. Behind <b>experiences</b> is <i>sent</i>, from <i>sentir</i>, a verb that means to feel and also to perceive. Behind <b>felt</b> is <i>sensible</i>, able to be perceived, and Littré’s dictionary quotes this phrase under that sense. In fragment 282 Pascal uses <i>sentir</i> for the heart’s knowledge of first principles, where Trotter writes <i>intuitive knowledge</i>, and says that truth is known by the heart as well as by the reason. So the heart here knows as well as loves. Auden’s sentence on Pascal calls both heart and reason faculties.",
+          "why": "Behind Trotter’s verbs of feeling are Pascal’s words for knowing and perceiving, one of them his verb for the heart’s knowledge of first principles: the heart knows, as fragment 282 says, and Auden calls both heart and reason faculties.",
+          "grounds": [
+            {
+              "claim": "the three English words marked, and the French word behind each",
+              "kind": "plate"
+            },
+            {
+              "claim": "the French of the two fragments has sait, sent and sensible",
+              "kind": "source",
+              "source": "Œuvres de Blaise Pascal, ed. Léon Brunschvicg, vol. XIII, Section IV, fragments 277 and 278, read on French Wikisource"
+            },
+            {
+              "claim": "what the three French words mean; the dictionary quotes fragment 278 under sensible",
+              "kind": "source",
+              "source": "Littré at littre.org: savoir 1; sentir 1 and 6; sensible 8; read 2026-10-03"
+            },
+            {
+              "claim": "the heart loves",
+              "kind": "text",
+              "source": "pascal/s04, block 90, words 17 to 30"
+            },
+            {
+              "claim": "truth is known by the heart as well as by the reason, and first principles by the heart",
+              "kind": "text",
+              "source": "Pensées, fragment 282: pascal/s04, block 100, words 0 to 24"
+            },
+            {
+              "claim": "in fragment 282 the French verb for what the heart does with the dimensions of space and with principles is the same verb, sentir, where Trotter writes intuitive knowledge and intuited",
+              "kind": "source",
+              "source": "Œuvres de Blaise Pascal, ed. Léon Brunschvicg, vol. XIII, Section IV, fragment 282 (the heart as subject of sent; les principes se sentent), read on French Wikisource by the examiner 2026-10-03, against pascal/s04, block 100, words 130 to 133 and 165 to 167. Read there again by the finisher the same day, with Littré under sentir (sense 1, to receive an impression; sense 6, to perceive, to know), when the caption was set in the order of the passage and the verb named in it; the caption claims nothing it did not claim before"
+            },
+            {
+              "claim": "Auden calls heart and reason alike faculties: the one Pascal lacked and the one he possessed",
+              "kind": "auden",
+              "source": "The Prolific and the Devourer (written 1939; Ecco Press, 1994), p. 47"
+            }
+          ],
+          "stands": "The marks on the passage, with the French of fragments 277, 278 and 282 in Brunschvicg’s edition. Littré’s dictionary, under *savoir* (sense 1), *sentir* (senses 1 and 6) and *sensible* (sense 8, which quotes fragment 278). What the heart knows, and Trotter’s *intuitive knowledge*: [fragment 282](#/read/pascal/s04:99). Auden: *The Prolific and the Devourer*, p. 47."
+        },
+        {
+          "kind": "figure",
+          "label": "Against",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "92.0",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "A",
+              "label": "the heart"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                19,
+                19
+              ],
+              "tag": "A",
+              "label": "the heart"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                7,
+                10
+              ],
+              "tag": "B",
+              "label": "the reason, denied"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                20,
+                23
+              ],
+              "tag": "B",
+              "label": "the reason, denied"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                6,
+                6
+              ],
+              "tag": "C",
+              "label": "God"
+            },
+            {
+              "row": "92.0",
+              "w": [
+                15,
+                15
+              ],
+              "tag": "C",
+              "label": "God"
+            }
+          ],
+          "caption": "The second fragment, 278, says one thing twice, each time by a contrast: the <b>heart</b>, and not <b>the reason</b>. The second statement is a definition, <b>This, then, is faith</b>, and like the first it ends on the reason that is shut out. Between the two, <b>heart</b> and <b>God</b> change places. In the French edition used here the fragment is one sentence, and <i>then</i> is Trotter’s word. The next fragment says what is denied: faith is God’s gift and not a gift of reasoning. Auden’s verdict uses the same two nouns the other way round: Pascal believed his heart had saved him, and Auden gives the credit to his reason.",
+          "why": "The fragment says by a double contrast that faith is the heart’s and not the reason’s, ending each time on the reason it shuts out; Auden’s judgment of Pascal sets the same two words against each other and reverses them.",
+          "grounds": [
+            {
+              "claim": "heart, God and the closing phrase that denies reason, in each of the two statements",
+              "kind": "plate"
+            },
+            {
+              "claim": "antithesis puts opposed words or ideas next to each other, commonly in matching constructions",
+              "kind": "source",
+              "source": "Silva Rhetoricae, rhetoric.byu.edu, antithesis"
+            },
+            {
+              "claim": "the second statement defines faith",
+              "kind": "text",
+              "source": "pascal/s04, block 92, words 11 to 23"
+            },
+            {
+              "claim": "in Brunschvicg’s French the fragment is a single sentence, and it has no word for then",
+              "kind": "source",
+              "source": "Œuvres de Blaise Pascal, ed. Léon Brunschvicg, vol. XIII, Section IV, fragment 278: its two halves are joined by colons, and the middle clause begins with voilà (checked again by the examiner, 2026-10-03, by its capitals and stops). The punctuation is that editor’s: the modern text in Descotes and Proust’s Genèse du texte sets the same note as three sentences. Neither has a word for then"
+            },
+            {
+              "claim": "faith is God’s gift, not a gift of reasoning",
+              "kind": "text",
+              "source": "Pensées, fragment 279: pascal/s04, block 94, first sentence"
+            },
+            {
+              "claim": "Pascal thought his heart had saved him; Auden says his reason did",
+              "kind": "auden",
+              "source": "The Prolific and the Devourer (written 1939; Ecco Press, 1994), p. 47"
+            }
+          ],
+          "stands": "The marks on the passage, and what the fragment says. Antithesis as *Silva Rhetoricae* defines it. The French of fragment 278 in Brunschvicg’s edition. What is denied: [fragment 279](#/read/pascal/s04:93). Auden: *The Prolific and the Devourer*, p. 47."
+        },
+        {
+          "kind": "shape",
+          "label": "Page",
+          "what": "Page 8 of Pascal’s manuscript: the eight pieces on it, in the order modern editors think they were written, and the section in which each is printed here",
+          "facts": {
+            "page": 8,
+            "wagerPages": [
+              3,
+              4,
+              7,
+              8
+            ],
+            "otherSide": {
+              "page": 7,
+              "holds": "the reckoning of the wager, which ends by calling itself demonstrable",
+              "read": "pascal/s03:145"
+            },
+            "pieces": [
+              {
+                "order": 1,
+                "place": "the main text, upper half",
+                "fragment": "233",
+                "about": "the wager: the unbeliever says he cannot believe",
+                "section": "III",
+                "read": "pascal/s03:146"
+              },
+              {
+                "order": 2,
+                "place": "under a ruled line",
+                "fragment": "89",
+                "about": "custom is our nature",
+                "section": "II",
+                "read": "pascal/s02:115"
+              },
+              {
+                "order": 3,
+                "place": "under a ruled line",
+                "fragment": "231",
+                "about": "a point moving everywhere at infinite speed",
+                "section": "III",
+                "read": "pascal/s03:128"
+              },
+              {
+                "order": 4,
+                "place": "the margin, written sideways",
+                "fragment": "477",
+                "about": "we are born unjust",
+                "section": "VII",
+                "read": "pascal/s07:181"
+              },
+              {
+                "order": 5,
+                "place": "the margin, written sideways",
+                "fragment": "541",
+                "about": "lovable and happy",
+                "section": "VII",
+                "read": "pascal/s07:348"
+              },
+              {
+                "order": 6,
+                "place": "the margin, written sideways",
+                "fragment": "278",
+                "about": "the heart, and not the reason",
+                "section": "IV",
+                "read": "pascal/s04:91"
+              },
+              {
+                "order": 7,
+                "place": "the margin, written sideways",
+                "fragment": "605",
+                "about": "man is born in sin",
+                "section": "IX",
+                "read": "pascal/s09:50"
+              },
+              {
+                "order": 8,
+                "place": "the top of the page, written upside down",
+                "fragment": "277",
+                "about": "the heart has its reasons",
+                "section": "IV",
+                "read": "pascal/s04:89"
+              }
+            ],
+            "sections": [
+              {
+                "numeral": "I",
+                "name": "Thoughts on Mind and on Style",
+                "fromThisPage": []
+              },
+              {
+                "numeral": "II",
+                "name": "The Misery of Man Without God",
+                "fromThisPage": [
+                  "89"
+                ]
+              },
+              {
+                "numeral": "III",
+                "name": "Of the Necessity of the Wager",
+                "fromThisPage": [
+                  "231",
+                  "233"
+                ]
+              },
+              {
+                "numeral": "IV",
+                "name": "Of the Means of Belief",
+                "fromThisPage": [
+                  "277",
+                  "278"
+                ]
+              },
+              {
+                "numeral": "V",
+                "name": "Justice and the Reason of Effects",
+                "fromThisPage": []
+              },
+              {
+                "numeral": "VI",
+                "name": "The Philosophers",
+                "fromThisPage": []
+              },
+              {
+                "numeral": "VII",
+                "name": "Morality and Doctrine",
+                "fromThisPage": [
+                  "477",
+                  "541"
+                ]
+              },
+              {
+                "numeral": "VIII",
+                "name": "The Fundamentals of the Christian Religion",
+                "fromThisPage": []
+              },
+              {
+                "numeral": "IX",
+                "name": "Perpetuity",
+                "fromThisPage": [
+                  "605"
+                ]
+              },
+              {
+                "numeral": "X",
+                "name": "Typology",
+                "fromThisPage": []
+              },
+              {
+                "numeral": "XI",
+                "name": "The Prophecies",
+                "fromThisPage": []
+              },
+              {
+                "numeral": "XII",
+                "name": "Proofs of Jesus Christ",
+                "fromThisPage": []
+              },
+              {
+                "numeral": "XIII",
+                "name": "The Miracles",
+                "fromThisPage": []
+              },
+              {
+                "numeral": "XIV",
+                "name": "Appendix: Polemical Fragments",
+                "fromThisPage": []
+              }
+            ],
+            "sectionsFromThisPage": 5,
+            "sectionsInAll": 14,
+            "orderNote": "The order of writing is the judgment of the editors of the electronic edition (their Genèse du texte for the dossier Preuves par discours I introduces the marginal notes as what it is logical to think): the wager text first, then the two notes under the ruled line, then the margin (Brunschvicg 477, 542, 278, then 606 as a continuation of 477 marked with two crosses), and last, for want of room in the margin, the sheet turned round and Brunschvicg 277 written upside down at the top.",
+            "source": "Layout: the diplomatic transcription of RO p. 8 (image RO8-1-diplo, with its note that the paragraph at the top is written tête-bêche, head to foot) and the PDF Genèse du texte of the dossier Preuves par discours I, in D. Descotes and G. Proust, Édition électronique des Pensées de Blaise Pascal, www.penseesdepascal.fr, both read 2026-10-03. The edition’s concordance for the two papers of the wager (pages 3, 4, 7, 8) is Brunschvicg 233, 535, 89, 231, 477, 606, 542, 278, 277, 604.",
+            "counted": "Fragment numbers are those of the hosted Trotter text: Brunschvicg 542 is Trotter 541 and Brunschvicg 606 is Trotter 605 (Trotter’s numbers run one behind after 513); each was matched by its content in site/data/texts/pascal. Section names are the part labels of the hosted text’s index. Five sections: II, III, IV, VII, IX."
+          },
+          "caption": "Both fragments stand on one of the four manuscript pages of the wager, 278 in the margin, 277 upside down at the top. The main text there is late in the dialogue: an unbeliever says he cannot believe, and is told that reason brings him to belief and that he should work on his passions. Modern editors count the two as separate notes, not part of the dialogue, and judge that 278 came first and that Pascal turned the sheet, for want of room, to write 277. The arrangement printed here is an earlier editor’s: it sorts the page’s eight pieces into five of fourteen sections and sets 277 before 278.",
+          "why": "The two fragments are separate notes on a page of the wager, beside the exchange in which reason brings the unbeliever to belief and he cannot believe; their order and section are an editor’s; modern editors think 278 the earlier.",
+          "grounds": [
+            {
+              "claim": "what is written on page 8 and where; fragment 277 stands at the top, written upside down to the rest",
+              "kind": "source",
+              "source": "D. Descotes and G. Proust, Édition électronique des Pensées de Blaise Pascal (www.penseesdepascal.fr), dossier Preuves par discours I: the diplomatic transcription of RO p. 8 (viewed twice on 2026-10-03, the second time after the reading was drafted) and its note 2, which says the paragraph was written tête-bêche, head to foot, in relation to the rest of the text; the head of the transcription page says the texts other than the wager are isolated notes, written in the margin, set off by a ruled line, or written tête-bêche, and are not part of that discourse; the PDF Genèse du texte, section 8 and the closing Nota"
+            },
+            {
+              "claim": "the editors count the two fragments as separate notes that are no part of the dialogue",
+              "kind": "source",
+              "source": "the same edition: the head of the transcription page for the two papers of the wager says that the texts other than the discourse are isolated, written in the margin, set off by a ruled line, or written head to foot; the Genèse du texte lists the notes of the margin and the top of page 8 under notes that are no part of that discourse (read again by the examiner, 2026-10-03)"
+            },
+            {
+              "claim": "the order in which the eight pieces were written, as modern editors judge it; in it 278 was written in the margin before 277, and the sheet was turned for want of room",
+              "kind": "source",
+              "source": "the same Genèse du texte, which says that for want of room in the margin he turned his paper to write another note; an inference of the editors, who introduce the order of the marginal notes as what it is logical to think. Read again by the finisher on 2026-10-03, in the PDF itself. Section 7: after the main text of page 8 he wrote the two notes that stand under the ruled lines (Brunschvicg 89 and 231). Section 8, for the margin of page 8: first Brunschvicg 477, then 542, then 278, then the continuation of 477 (606), and last the sheet turned for 277. The closing Nota lists the notes of all four pages in the order in which, as the editors have it, he wrote them. The PDF gives the notes by their words; the numbers here are Brunschvicg’s. So the order 1 to 8 of the pieces in the facts is these editors’ order of writing, which is what the line over the drawing now says"
+            },
+            {
+              "claim": "the wager was written on pages 3, 4, 7 and 8",
+              "kind": "source",
+              "source": "the same edition, head of the dossier, which gives the shelf marks RO 3-1 and RO 7-1, each recto and verso: two papers used on both sides"
+            },
+            {
+              "claim": "the unbeliever says he is so made that he cannot believe; he is told that reason brings him to it, and to lessen his passions rather than add proofs; this is the main text of page 8",
+              "kind": "text",
+              "source": "pascal/s03, block 146, words 48 to 62, and block 147, words 0 to 67; that the main text of page 8 begins and ends at these words: the Genèse du texte, section 7 (the first part of block 146 was written on page 7, after the reckoning)"
+            },
+            {
+              "claim": "eight pieces, printed in five of fourteen sections",
+              "kind": "source",
+              "source": "counted in the hosted text: fragments 89 (II), 231 and 233 (III), 277 and 278 (IV), 477 and 541 (VII), 605 (IX); Brunschvicg’s introduction (Œuvres, vol. XII, ‘Le classement des Pensées’, pp. xlviii-lxv: ‘Elle comprend quatorze sections’, with the table of their titles, and ‘nous répartissons les fragments’), read on French Wikisource and read again on 2026-10-03 after drafting"
+            },
+            {
+              "claim": "the edition this translation follows prints 277 before 278",
+              "kind": "plate",
+              "source": "the two rows of the passage, in the order of the hosted text and of Brunschvicg’s edition"
+            }
+          ],
+          "stands": "How the page is laid out, the order in which it was written, and that the two fragments are separate notes: the transcription and the account of the wager’s writing in the *Édition électronique des Pensées de Blaise Pascal*. The order of writing is those editors’ judgment. The dialogue: [fragment 233](#/read/pascal/s03:146). The sections: counted in the text printed here."
+        }
+      ]
+    },
+    {
+      "id": "reed",
+      "heading": "Fragments 347 and 348: the thinking reed",
+      "text": "pascal/s06",
+      "rows": [
+        "17.0",
+        "18.0[0-6]",
+        "20.0[29-46]"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Reed",
+          "name": "metaphor",
+          "plain": "one thing spoken of as another",
+          "draw": "map",
+          "parts": [
+            {
+              "row": "17.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "A",
+              "label": "what is meant"
+            },
+            {
+              "row": "17.0",
+              "w": [
+                3,
+                4
+              ],
+              "tag": "B",
+              "label": "what it is called"
+            },
+            {
+              "row": "17.0",
+              "w": [
+                14,
+                16
+              ],
+              "tag": "B",
+              "label": "what it is called"
+            },
+            {
+              "row": "17.0",
+              "w": [
+                5,
+                10
+              ],
+              "tag": "C",
+              "label": "the likeness"
+            },
+            {
+              "row": "17.0",
+              "w": [
+                15,
+                15
+              ],
+              "tag": "D",
+              "label": "the word added"
+            }
+          ],
+          "join": [
+            [
+              0,
+              1
+            ]
+          ],
+          "caption": "<b>Man</b> is called <b>a reed</b>, and the next six words say why: nothing in nature is weaker. Calling one thing by another’s name is metaphor. After the semicolon the reed returns with one word added, <b>thinking</b>, so one image holds both things the paragraph argues: first the weakness, then the thought. The editor of the French text finds a memory of Montaigne in the <b>vapour</b> and the <b>drop of water</b>, and quotes him on man overthrown by a contrary wind or a morning mist. A note of Pascal’s headed <i>Montaigne</i> begins by calling his faults great. Auden wrote that Pascal was to him what Montaigne had been to Pascal.",
+          "why": "One image holds weakness and thought together, and the paragraph argues them in turn; the editor traces the weakness to Montaigne, whose faults Pascal calls great, and Auden says he felt about Pascal as Pascal felt about Montaigne.",
+          "grounds": [
+            {
+              "claim": "man is named a reed, six words give the likeness, and the name returns with one word added",
+              "kind": "plate"
+            },
+            {
+              "claim": "metaphor speaks of one thing under the name of another",
+              "kind": "source",
+              "source": "Silva Rhetoricae, rhetoric.byu.edu, metaphor"
+            },
+            {
+              "claim": "the paragraph takes weakness first and thought second",
+              "kind": "text",
+              "source": "pascal/s06, block 17: words 17 to 36 on what can kill him, words 37 to 76 on what he knows"
+            },
+            {
+              "claim": "the vapour and the drop of water are a memory of Montaigne, who is quoted on feeble man, whom a contrary breath of wind or a morning mist is enough to overthrow",
+              "kind": "source",
+              "source": "Œuvres de Blaise Pascal, ed. Léon Brunschvicg, vol. XIII, Section VI, fragment 347, the note on ‘suffit pour le tuer’ (‘Souvenir de Montaigne’, quoting the Apologie with omissions marked); read on French Wikisource 2026-10-03"
+            },
+            {
+              "claim": "a note of Pascal’s headed with Montaigne’s name begins by saying that his faults are great",
+              "kind": "text",
+              "source": "Pensées, fragment 63: pascal/s02, block 11, words 0 to 3"
+            },
+            {
+              "claim": "Auden says he feels about Pascal as Pascal felt about Montaigne",
+              "kind": "auden",
+              "source": "The Prolific and the Devourer (written 1939; Ecco Press, 1994), p. 47, the sentence before the one on the dualists"
+            }
+          ],
+          "stands": "The marks on the passage, and the order of the paragraph. Metaphor as *Silva Rhetoricae* defines it. Montaigne: Brunschvicg’s note to fragment 347, which quotes the *Apology for Raymond Sebond*, and Pascal’s own note on him, [fragment 63](#/read/pascal/s02:10). Auden: *The Prolific and the Devourer*, p. 47."
+        },
+        {
+          "kind": "sentence",
+          "label": "Verbs",
+          "spans": [
+            {
+              "from": [
+                "17.0",
+                22
+              ],
+              "to": [
+                "17.0",
+                22
+              ],
+              "tag": "force",
+              "label": "verbs of force"
+            },
+            {
+              "from": [
+                "17.0",
+                25
+              ],
+              "to": [
+                "17.0",
+                25
+              ],
+              "tag": "force",
+              "label": "verbs of force"
+            },
+            {
+              "from": [
+                "17.0",
+                35
+              ],
+              "to": [
+                "17.0",
+                35
+              ],
+              "tag": "force",
+              "label": "verbs of force"
+            },
+            {
+              "from": [
+                "17.0",
+                43
+              ],
+              "to": [
+                "17.0",
+                43
+              ],
+              "tag": "force",
+              "label": "verbs of force"
+            },
+            {
+              "from": [
+                "17.0",
+                54
+              ],
+              "to": [
+                "17.0",
+                54
+              ],
+              "tag": "force",
+              "label": "verbs of force"
+            },
+            {
+              "from": [
+                "17.0",
+                26
+              ],
+              "to": [
+                "17.0",
+                26
+              ],
+              "tag": "him",
+              "label": "man, acted on"
+            },
+            {
+              "from": [
+                "17.0",
+                36
+              ],
+              "to": [
+                "17.0",
+                36
+              ],
+              "tag": "him",
+              "label": "man, acted on"
+            },
+            {
+              "from": [
+                "17.0",
+                44
+              ],
+              "to": [
+                "17.0",
+                44
+              ],
+              "tag": "him",
+              "label": "man, acted on"
+            },
+            {
+              "from": [
+                "17.0",
+                55
+              ],
+              "to": [
+                "17.0",
+                55
+              ],
+              "tag": "him",
+              "label": "man, acted on"
+            },
+            {
+              "from": [
+                "17.0",
+                58
+              ],
+              "to": [
+                "17.0",
+                58
+              ],
+              "tag": "know",
+              "label": "to know"
+            },
+            {
+              "from": [
+                "17.0",
+                73
+              ],
+              "to": [
+                "17.0",
+                74
+              ],
+              "tag": "know",
+              "label": "to know"
+            },
+            {
+              "from": [
+                "18.0",
+                0
+              ],
+              "to": [
+                "18.0",
+                6
+              ],
+              "tag": "then",
+              "label": "the conclusion"
+            }
+          ],
+          "caption": "The verbs of force belong to the universe, or to a <b>vapour</b> and a <b>drop of water</b>: <b>arm</b>, <b>crush</b>, <b>kill</b>, <b>killed</b>. Four times their object is <b>him</b>. Man’s own verbs are few: he is, he dies, he <b>knows</b>. The last clause gives the universe the same verb with <b>nothing</b> after it, and that verb is the whole reason given for <b>more noble</b>, which the editor of the French text glosses as of a higher kind. The next paragraph concludes with <b>then</b>: all dignity is in thought. That is Pascal’s word; Auden’s word for the faculty Pascal possessed is reason, and he held that it, not the heart, saved him.",
+          "why": "The universe has the verbs of force and man the verb to know, which is the reason given for calling him more noble; the conclusion puts all dignity in thought, and Auden held that Pascal’s reason saved him.",
+          "grounds": [
+            {
+              "claim": "which verbs are verbs of force and whose they are; him after four of the five (the first takes itself); knows twice, the second time with nothing",
+              "kind": "plate"
+            },
+            {
+              "claim": "man’s own verbs are is, would be, knows and dies",
+              "kind": "text",
+              "source": "pascal/s06, block 17: words 1, 13, 46 to 48, 58 and 61"
+            },
+            {
+              "claim": "man is more noble because he knows, and the universe knows nothing of it",
+              "kind": "text",
+              "source": "pascal/s06, block 17, words 45 to 76"
+            },
+            {
+              "claim": "noble means of a higher kind",
+              "kind": "source",
+              "source": "Œuvres de Blaise Pascal, ed. Léon Brunschvicg, vol. XIII, Section VI, fragment 347, the note on ‘noble’ (‘c’est-à-dire d’un genre plus élevé’)"
+            },
+            {
+              "claim": "the next paragraph concludes that all dignity is in thought",
+              "kind": "text",
+              "source": "pascal/s06, block 18, words 0 to 6; Brunschvicg’s note says this second paragraph is given only by the copies"
+            },
+            {
+              "claim": "the faculty Pascal possessed was reason, and he was saved by it and not by his heart",
+              "kind": "auden",
+              "source": "The Prolific and the Devourer (written 1939; Ecco Press, 1994), p. 47"
+            }
+          ],
+          "stands": "The marks on the passage, and what the two paragraphs say. The gloss on *noble*: Brunschvicg’s note to fragment 347. Auden: *The Prolific and the Devourer*, p. 47."
+        },
+        {
+          "kind": "figure",
+          "label": "Crossing",
+          "name": "chiasmus",
+          "plain": "a crossing: two things are named, then named again in the opposite order",
+          "draw": "cross",
+          "parts": [
+            {
+              "row": "20.0",
+              "w": [
+                31,
+                32
+              ],
+              "tag": "A",
+              "label": "the universe"
+            },
+            {
+              "row": "20.0",
+              "w": [
+                45,
+                46
+              ],
+              "tag": "A",
+              "label": "the universe"
+            },
+            {
+              "row": "20.0",
+              "w": [
+                36,
+                36
+              ],
+              "tag": "B",
+              "label": "the speaker"
+            },
+            {
+              "row": "20.0",
+              "w": [
+                43,
+                43
+              ],
+              "tag": "B",
+              "label": "the speaker"
+            },
+            {
+              "row": "20.0",
+              "w": [
+                33,
+                33
+              ],
+              "tag": "C",
+              "label": "one French verb"
+            },
+            {
+              "row": "20.0",
+              "w": [
+                44,
+                44
+              ],
+              "tag": "C",
+              "label": "one French verb"
+            }
+          ],
+          "caption": "The last sentence has two halves, each opening with <i>by</i>. In the first <b>the universe</b> acts on <b>me</b>; in the second <b>I</b> act on <b>the world</b>. The two come back in crossed order, which is chiasmus. In Pascal’s French one verb serves both halves, <i>comprend</i> and <i>comprends</i>. It means to contain and to understand, and the French editor notes that Pascal sets the literal sense against the figurative: what holds the speaker in space, he holds in thought. The heart’s reasons turn on one word in the same way. Trotter needs two verbs, <b>encompasses</b> and <b>comprehend</b>. In the manuscript <b>By space</b> is an addition, which gave the halves matching openings.",
+          "why": "The two halves name universe and speaker in crossed order, and in French one verb, to contain and to understand, serves both: what holds him in space he holds in thought. Pascal added the opening words.",
+          "grounds": [
+            {
+              "claim": "the universe and the speaker, named in one order and then the other; the two verbs; the two openings with by",
+              "kind": "plate"
+            },
+            {
+              "claim": "chiasmus brings ideas or constructions back in reverse order",
+              "kind": "source",
+              "source": "Silva Rhetoricae, rhetoric.byu.edu, chiasmus"
+            },
+            {
+              "claim": "the French uses one verb in both halves, comprend and comprends, where Trotter has encompasses and comprehend",
+              "kind": "source",
+              "source": "Œuvres de Blaise Pascal, ed. Léon Brunschvicg, vol. XIII, Section VI, fragment 348, read on French Wikisource"
+            },
+            {
+              "claim": "comprendre means to contain and, figuratively, to grasp with the mind",
+              "kind": "source",
+              "source": "Littré at littre.org, under comprendre: sense 1 (Prendre en soi, contenir) and sense 3 (Fig. Saisir par l’esprit); read 2026-10-03"
+            },
+            {
+              "claim": "Pascal sets the literal sense of the verb against the figurative: the speaker is contained in the universe, and the universe is contained in him",
+              "kind": "source",
+              "source": "Brunschvicg’s note on ‘je le comprends’ in fragment 348, which says that Pascal here opposes the proper sense of the word comprendre to the figurative: the person is contained in the universe, and the universe is contained in him"
+            },
+            {
+              "claim": "the sentence on the heart’s reasons also turns on one word in two senses",
+              "kind": "plate",
+              "source": "the first passage of this piece, its first tab"
+            },
+            {
+              "claim": "the words for By space are an addition in the manuscript",
+              "kind": "source",
+              "source": "Brunschvicg’s note to fragment 348 (‘Par l’espace en surcharge’); Descotes and Proust, Édition électronique des Pensées de Blaise Pascal, fragment Grandeur 9 (RO 165-1), which also marks the words as an addition"
+            }
+          ],
+          "stands": "The marks on the passage. Chiasmus as *Silva Rhetoricae* defines it. The French of fragment 348 and the editor’s two notes on it, in Brunschvicg’s edition; the addition is also marked in the *Édition électronique des Pensées de Blaise Pascal*. The two senses of *comprendre*: Littré’s dictionary, senses 1 and 3."
+        }
+      ]
+    },
+    {
+      "id": "wager",
+      "heading": "Fragment 233: the wager",
+      "text": "pascal/s03",
+      "rows": [
+        "144.0[0-125]"
+      ],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Voice",
+          "spans": [
+            {
+              "from": [
+                "144.0",
+                0
+              ],
+              "to": [
+                "144.0",
+                4
+              ],
+              "tag": "must",
+              "label": "no way out"
+            },
+            {
+              "from": [
+                "144.0",
+                5
+              ],
+              "to": [
+                "144.0",
+                8
+              ],
+              "tag": "must",
+              "label": "no way out"
+            },
+            {
+              "from": [
+                "144.0",
+                9
+              ],
+              "to": [
+                "144.0",
+                11
+              ],
+              "tag": "must",
+              "label": "no way out"
+            },
+            {
+              "from": [
+                "144.0",
+                12
+              ],
+              "to": [
+                "144.0",
+                16
+              ],
+              "tag": "ask",
+              "label": "a question"
+            },
+            {
+              "from": [
+                "144.0",
+                92
+              ],
+              "to": [
+                "144.0",
+                94
+              ],
+              "tag": "ask",
+              "label": "a question"
+            },
+            {
+              "from": [
+                "144.0",
+                17
+              ],
+              "to": [
+                "144.0",
+                19
+              ],
+              "tag": "letus",
+              "label": "an invitation"
+            },
+            {
+              "from": [
+                "144.0",
+                24
+              ],
+              "to": [
+                "144.0",
+                26
+              ],
+              "tag": "letus",
+              "label": "an invitation"
+            },
+            {
+              "from": [
+                "144.0",
+                95
+              ],
+              "to": [
+                "144.0",
+                97
+              ],
+              "tag": "letus",
+              "label": "an invitation"
+            },
+            {
+              "from": [
+                "144.0",
+                108
+              ],
+              "to": [
+                "144.0",
+                110
+              ],
+              "tag": "letus",
+              "label": "an invitation"
+            },
+            {
+              "from": [
+                "144.0",
+                87
+              ],
+              "to": [
+                "144.0",
+                91
+              ],
+              "tag": "point",
+              "label": "a point closed"
+            }
+          ],
+          "caption": "The passage is one side of a conversation: the other speaker has refused to bet. Three statements rule that out: <b>you must wager</b>, <b>not optional</b>, <b>You are embarked</b>. Then come two questions, four invitations with <b>let us</b>, and one point called settled, in a sentence Pascal added above the line. <i>You</i> or <i>your</i> comes eighteen times in Trotter’s English and fifteen in the French, <i>I</i> not once, so the choosing stays with the listener. One of Pascal’s notes is headed <i>Order by dialogues</i>. Auden granted such accounts of choice their interest as drama and asked if they are true: his decisive choices hardly seemed serious when he made them.",
+          "why": "The argument is speech to a you who has objected, so the choice stays with the listener; Pascal has a note headed Order by dialogues, and Auden granted such accounts their interest as drama and asked if they are true.",
+          "grounds": [
+            {
+              "claim": "three short statements, two questions, four clauses with let us, and one sentence that closes a point",
+              "kind": "plate"
+            },
+            {
+              "claim": "the sentence that calls one point settled is an addition above the line",
+              "kind": "source",
+              "source": "the diplomatic transcription of RO p. 4 in Descotes and Proust’s electronic edition (image RO4-1-diplo), where the sentence for one point settled (in modern spelling, Voilà un point vidé) stands above the line in the color used for additions, as does the clause before it, on having of necessity to choose; viewed twice on 2026-10-03. Brunschvicg’s notes do not mention these two additions"
+            },
+            {
+              "claim": "you or your eighteen times in the 126 words shown, and I never",
+              "kind": "source",
+              "source": "counted in the hosted text, pascal/s03, block 144, words 0 to 125: you 11 times, your 7 times, no I (counted again by script by the examiner, 2026-10-03)"
+            },
+            {
+              "claim": "the same span of the French has vous or votre fifteen times and no je: three of Trotter’s you stand for the impersonal il faut",
+              "kind": "source",
+              "source": "counted by script by the examiner, 2026-10-03, in Brunschvicg’s text of fragment 233 on French Wikisource, from the words for Yes, but one must wager to the words for you lose nothing, footnote marks removed: vous 8, votre 7, il faut 3 (before the verbs for wager and choose, which Trotter gives as you must at words 2, 21 and 82), no je, me or nous"
+            },
+            {
+              "claim": "the passage answers a speaker who has just said that the right thing is not to bet at all",
+              "kind": "text",
+              "source": "pascal/s03, block 143, the quoted speech and its last sentence"
+            },
+            {
+              "claim": "the listener is the one who must choose",
+              "kind": "text",
+              "source": "pascal/s03, block 144, words 12 to 16 and 20 to 23"
+            },
+            {
+              "claim": "a note of Pascal’s is headed Order by dialogues",
+              "kind": "text",
+              "source": "Pensées, fragment 227: pascal/s03, block 119, first three words"
+            },
+            {
+              "claim": "accounts of choosing such as the wager are interesting as drama, and Auden asks if they hold true; when he made his own decisive choices he had little idea how serious they were",
+              "kind": "auden",
+              "source": "“Hic et Ille,” in The Dyer’s Hand (1962), p. 103"
+            }
+          ],
+          "stands": "The marks on the passage, and a count of *you*, *your* and *I* there and of *vous* and *votre* in Brunschvicg’s French. The speech it answers stands just before it in [fragment 233](#/read/pascal/s03:143); Pascal’s note on dialogues is [fragment 227](#/read/pascal/s03:118). The added sentence: the page as transcribed in the *Édition électronique des Pensées de Blaise Pascal*. Auden: “Hic et Ille,” in *The Dyer’s Hand*, p. 103."
+        },
+        {
+          "kind": "figure",
+          "label": "Pairs",
+          "name": "parallelism",
+          "plain": "clauses of the same build, set side by side",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "144.0",
+              "w": [
+                37,
+                38
+              ],
+              "tag": "A",
+              "label": "truth’s side"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                47,
+                48
+              ],
+              "tag": "A",
+              "label": "truth’s side"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                52,
+                53
+              ],
+              "tag": "A",
+              "label": "truth’s side"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                65,
+                65
+              ],
+              "tag": "A",
+              "label": "truth’s side"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                40,
+                41
+              ],
+              "tag": "B",
+              "label": "the good’s side"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                50,
+                51
+              ],
+              "tag": "B",
+              "label": "the good’s side"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                55,
+                56
+              ],
+              "tag": "B",
+              "label": "the good’s side"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                67,
+                67
+              ],
+              "tag": "B",
+              "label": "the good’s side"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                33,
+                36
+              ],
+              "tag": "C",
+              "label": "the headings"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                43,
+                46
+              ],
+              "tag": "C",
+              "label": "the headings"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                61,
+                64
+              ],
+              "tag": "C",
+              "label": "the headings"
+            }
+          ],
+          "caption": "Three clauses are built alike, which is parallelism: <b>two things to lose</b>, <b>two things to stake</b>, <b>two things to shun</b>. They head four pairs, each divided the same way. One side reads <b>the true</b>, <b>reason</b>, <b>knowledge</b>, <b>error</b>. The other reads <b>the good</b>, <b>will</b>, <b>happiness</b>, <b>misery</b>. The division lets the argument settle reason’s side in one sentence and turn to happiness. In the manuscript the first and last pairs are additions above the line. Auden’s objection to the word <i>wager</i> is that it makes faith sound like prudent calculation. Later in the paragraph Pascal’s word for the player who will not stake one life to win three is <i>imprudent</i>.",
+          "why": "Three matched clauses set the stakes out on two sides, so the argument can settle reason’s side and move to happiness; Pascal added two pairs above the line. Auden says the word wager makes faith sound like prudent calculation.",
+          "grounds": [
+            {
+              "claim": "three headings on one pattern, four pairs, and the first and second member of each pair",
+              "kind": "plate"
+            },
+            {
+              "claim": "parallelism builds two or more related words, phrases or clauses on one pattern",
+              "kind": "source",
+              "source": "Silva Rhetoricae, rhetoric.byu.edu, parallelism"
+            },
+            {
+              "claim": "one sentence deals with reason, the next calls that point settled, and the question then turns to happiness",
+              "kind": "text",
+              "source": "pascal/s03, block 144, words 68 to 94"
+            },
+            {
+              "claim": "the true and the good, and the clause on error and misery, are additions above the line",
+              "kind": "source",
+              "source": "Brunschvicg’s notes to fragment 233, Œuvres, vol. XIII, Section III: one says that the words from Le vrai to deux choses are en surcharge, the next that the clause from Et votre nature to la misère is; the diplomatic transcription of RO p. 4 in Descotes and Proust’s electronic edition (image RO4-1-diplo), where both phrases stand above the line in the color used for additions; viewed twice on 2026-10-03. In the first writing the line ran from the words for two things to lose, through a struck Et, to à engager: one heading with two verbs, and the two middle pairs"
+            },
+            {
+              "claim": "the word wager makes the act of faith sound like prudent calculation",
+              "kind": "auden",
+              "source": "“Søren Kierkegaard,” in Forewords and Afterwords (1973), p. 178"
+            },
+            {
+              "claim": "later in the paragraph, the one who is forced to play and will not chance his life to gain three would be imprudent, and the French word is the same",
+              "kind": "text",
+              "source": "pascal/s03, block 144, words 196 to 214; Brunschvicg’s text of fragment 233 (‘vous seriez imprudent’), read on French Wikisource 2026-10-03"
+            }
+          ],
+          "stands": "The marks on the passage, and the sentences that follow them in [fragment 233](#/read/pascal/s03:144), where Pascal’s *imprudent* comes later in the same paragraph. Parallelism as *Silva Rhetoricae* defines it. The additions: Brunschvicg’s notes to fragment 233, and the transcription of the manuscript page in the *Édition électronique des Pensées de Blaise Pascal*. Auden: “Søren Kierkegaard,” in *Forewords and Afterwords*, p. 178."
+        },
+        {
+          "kind": "figure",
+          "label": "Scales",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "144.0",
+              "w": [
+                99,
+                99
+              ],
+              "tag": "A",
+              "label": "gain"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                114,
+                119
+              ],
+              "tag": "A",
+              "label": "gain"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                102,
+                102
+              ],
+              "tag": "B",
+              "label": "loss"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                120,
+                125
+              ],
+              "tag": "B",
+              "label": "loss"
+            }
+          ],
+          "caption": "Pascal’s verb is to weigh: <b>weigh the gain and the loss</b>. Two sentences on, two halves of six words differ only in <b>gain</b> and <b>lose</b>, <b>all</b> and <b>nothing</b>. Setting opposites in matching phrases is antithesis. It makes the case for one bet, that God is: everything to gain, nothing to lose. In the manuscript a struck-out start went straight to the case of losing, and the words for weighing and <b>If you gain, you</b> were added above the line. Auden objected in 1939 that to let another world sway life in this one is in effect to suppose two Gods, and the prudent man will bet on the second.",
+          "why": "Two matched halves put everything to gain against nothing to lose on the bet that God is; the manuscript’s first start went straight to losing, and the weighing was added. Auden objects that such reckoning in effect supposes two Gods.",
+          "grounds": [
+            {
+              "claim": "gain and loss named, then two halves of six words each that differ only in gain and lose, all and nothing",
+              "kind": "plate"
+            },
+            {
+              "claim": "antithesis puts opposed words or ideas next to each other, commonly in matching constructions",
+              "kind": "source",
+              "source": "Silva Rhetoricae, rhetoric.byu.edu, antithesis"
+            },
+            {
+              "claim": "the verb is weigh, and what is weighed is the gain and the loss",
+              "kind": "text",
+              "source": "pascal/s03, block 144, words 95 to 102; the French verb is pesons (Brunschvicg’s text of fragment 233; Littré quotes the sentence under croix, sense 11)"
+            },
+            {
+              "claim": "both halves are cases of the one bet that God is",
+              "kind": "text",
+              "source": "pascal/s03, block 144, words 95 to 125; Brunschvicg’s note on ‘vous ne perdez rien’ prints Louis Couturat’s table of this first case, with two columns, Dieu est and Dieu n’est pas"
+            },
+            {
+              "claim": "a struck-out start went straight to the case of losing and what is lost; the words for weighing and for If you gain, you are additions above the line",
+              "kind": "source",
+              "source": "the diplomatic transcription of RO p. 4 in Descotes and Proust’s electronic edition (image RO4-1-diplo), viewed twice by the poet on 2026-10-03 and enlarged by the examiner the same day: the words for weighing the gain and the loss, down to en prenant, and the words for estimating the two cases, with the opening of the first half (Si vous gagnez, vous), stand above the line in the color used for additions, over the struck words (Voyons; Si vous prenez; the clause on losing and what is lost). The words for gaining all and the whole second half are in the first ink, written on after the struck start. Brunschvicg’s note to fragment 233 gives the struck start in brackets: it opened with Voyons and asked what is lost if the bettor takes croix and loses"
+            },
+            {
+              "claim": "to hold with Pascal that another world should change life here is in effect to have two Gods, one for each world; since the second can punish for ever, the prudent man puts his money on the second and disobeys the first",
+              "kind": "auden",
+              "source": "The Prolific and the Devourer (written 1939; Ecco Press, 1994), pp. 46-47: the foot line for p. 46 falls just before the words for the prudent man, so the bet is on p. 47 (read again in snippets by the examiner, 2026-10-03)"
+            }
+          ],
+          "stands": "The marks on the passage, and what the sentences say. Antithesis as *Silva Rhetoricae* defines it. The struck-out start and the additions: the transcription of the manuscript page in the *Édition électronique des Pensées de Blaise Pascal*, and Brunschvicg’s note to fragment 233. Auden: *The Prolific and the Devourer*, pp. 46–47."
+        },
+        {
+          "kind": "word",
+          "label": "Game",
+          "notes": [
+            {
+              "row": "144.0",
+              "w": [
+                11,
+                11
+              ],
+              "gloss": "already at sea",
+              "note": "The French is *embarqué*: Littré explains the figure by the man who, once at sea, can no longer leave the ship.",
+              "source": "Littré under embarquer, sense 2 (Fig. Mettre quelqu’un dans une affaire, par une métaphore prise de l’homme qui, une fois en mer, ne peut plus quitter le navire)"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                46,
+                46
+              ],
+              "gloss": "French *engager*: to pledge",
+              "note": "*Engager* is first to put in pawn; Littré quotes this sentence under the pledging of one’s word.",
+              "source": "Littré under engager, senses 1 (Mettre en gage) and 3 (Engager sa foi, sa parole), which quotes this sentence"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                103,
+                104
+              ],
+              "gloss": "French: taking *croix*, Trotter’s *heads*",
+              "note": "Pascal wrote *en prenant croix*: *croix* was the side of a coin once stamped with a cross, which Trotter gives as *heads*, and Littré quotes this sentence there.",
+              "source": "Littré under croix, sense 11 (Le côté d’une pièce de monnaie opposé à la face et marqué autrefois d’une croix. Croix ou pile), which quotes this sentence; Littré under pile [3], sense 2, gives jouer à pile ou face as the same game as croix ou pile; Trotter has heads or tails for croix ou pile at pascal/s03, block 142, words 153 to 155, and chooses heads for prend croix at block 143, words 37 to 38; all read 2026-10-03"
+            },
+            {
+              "row": "144.0",
+              "w": [
+                113,
+                113
+              ],
+              "gloss": "French *cas*: cases",
+              "note": "Pascal wrote *ces deux cas*, these two cases: winning and losing the one bet.",
+              "source": "Brunschvicg’s text of fragment 233 (‘ces deux cas’); Littré under cas, sense 1"
+            }
+          ],
+          "caption": "The words belong to a voyage and a game. <b>Embarked</b> is <i>embarqué</i>, said of a man at sea who cannot leave the ship. Behind <b>in wagering</b> is <i>en prenant croix</i>, taking the side of the coin that Trotter has called heads. The reckoning goes by a rule the next fragment names, <i>the doctrine of chance</i>. In French it is the rule for dividing the stakes of an unfinished game, which Pascal set out in a treatise. The same fragment adds that people work for the uncertain at sea and in battle. Auden granted the word <i>wager</i> this much: it reminds people that elsewhere they act on faith, and willingly.",
+          "why": "The words are a game’s, and the reckoning goes by a rule of games, the dividing of stakes, which the next fragment names; Auden grants the word wager this much, that elsewhere people act willingly on faith.",
+          "grounds": [
+            {
+              "claim": "the four words marked and the French behind each",
+              "kind": "plate"
+            },
+            {
+              "claim": "what embarquer, engager, croix and cas mean, and that the dictionary quotes this passage under engager and croix",
+              "kind": "source",
+              "source": "Littré at littre.org: embarquer 2; engager 1 and 3 (3 quotes this sentence, from Cousin); croix 11 (which quotes the sentence at words 95 to 107); cas 1; read 2026-10-03 and read again by sense number after drafting. The French words are those of Brunschvicg’s text of fragment 233"
+            },
+            {
+              "claim": "Trotter has heads or tails for croix ou pile two paragraphs earlier, and chooses heads for prend croix in the paragraph before",
+              "kind": "text",
+              "source": "pascal/s03, block 142, words 153 to 155, and block 143, words 37 to 38. Littré defines croix as the side of a coin opposite the face, once marked with a cross: heads is Trotter’s equivalent in the English game, not a statement about which side bore a head"
+            },
+            {
+              "claim": "the next fragment calls the method the doctrine of chance and says people work for an uncertainty at sea, in battle and for tomorrow",
+              "kind": "text",
+              "source": "Pensées, fragment 234: pascal/s03, block 153"
+            },
+            {
+              "claim": "the reckoning of the wager goes by that rule; the French is la règle des partis, the rule for the just division of the stakes when players break off a game, set out in Pascal’s own treatise on the arithmetical triangle",
+              "kind": "source",
+              "source": "Brunschvicg’s notes to fragment 234 (the rule that is demonstrated: ‘Allusion à la démonstration du fr. 233’; the parti, quoted from Pascal’s Usage du triangle arithmétique), and his commentary on fragment 233 itself, which says the bettor had to risk his life for three lives par la règle des partis, Œuvres, vol. XIII, Section III, read again by the examiner 2026-10-03; ‘Pascal, Blaise’, Encyclopædia Britannica, 11th ed. (1911), vol. 20, on Pascal and Fermat and the division of stakes"
+            },
+            {
+              "claim": "Auden allows the wager a use: it reminds people that in the rest of life they act on faith all the time and without reluctance",
+              "kind": "auden",
+              "source": "“Søren Kierkegaard,” in Forewords and Afterwords (1973), p. 178"
+            }
+          ],
+          "stands": "The marks on the passage, with the French of fragment 233 in Brunschvicg’s edition and Littré’s dictionary under *embarquer*, *engager*, *croix* and *cas*. The rule of the stakes: Brunschvicg’s notes to fragments 233 and 234 and the *Encyclopædia Britannica* of 1911, under Pascal. The coin and the next fragment: [fragment 233](#/read/pascal/s03:142) and [fragment 234](#/read/pascal/s03:152). Auden: “Søren Kierkegaard,” in *Forewords and Afterwords*, p. 178."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In an essay on Kierkegaard, Auden says that however good the argument, faith is still a choice, and nobody can make it for someone else. He finds Pascal’s word and Kierkegaard’s both inadequate, and allows each some value. The wager reminds people that everywhere else in life they act on faith all the time, and willingly, so that religion cannot fairly be expected to differ.",
+      "quote": "Pascal’s ‘wager’ and Kierkegaard’s ‘leap’ are neither of them quite adequate descriptions, for the one suggests prudent calculation and the other perverse arbitrariness.",
+      "source": "“Søren Kierkegaard,” in *Forewords and Afterwords* (1973), p. 178",
+      "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 8530-8541, on 2026-10-03; the page number 178 stands at the foot of the page. The scan drops most punctuation: the punctuation of the quotation is restored as in remake/research/C_auden_on_works.md, section 11, and the inner quotation marks are set as single ones."
+    },
+    {
+      "says": "In 1939 his objection went further. Whether a supernatural world exists he leaves open. But to hold with Pascal that it ought to change how life is lived here is, he wrote, to split the chain of causes in two and in effect to set up two Gods, one ruling each world. The second God’s punishments never end, so prudence backs him against the first. Auden calls this the sin against the Holy Ghost, the denial that truth is one.",
+      "source": "*The Prolific and the Devourer* (written 1939; Ecco Press, 1994), pp. 46–47",
+      "checked": "read by the poet in search-inside snippets of the Internet Archive scan prolificdevourer00aude, and read again on 2026-10-03; the foot line for p. 46 (the number and the author’s name) stands just before the closing words about the prudent man. Read again by the examiner the same day, chained forward from the sentence on whether there is a supernatural world to the sentence on the sin against the Holy Ghost: the passage begins on p. 46 (after the foot line for p. 45) and its last sentence and a half are on p. 47"
+    },
+    {
+      "says": "Among his notes on existentialism Auden grants that accounts of choice such as Pascal’s wager and Kierkegaard’s leap have their interest as drama, and asks if they hold true. Of the few decisive choices in his own life he says that he had little idea, when he made them, of how much hung on them. He is thankful for it: had he known the danger, he would not have taken the step.",
+      "source": "“Hic et Ille,” in *The Dyer’s Hand* (1962), p. 103",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 4868-4904, on 2026-10-03; the running head ‘Hic et Ille [ 103’ stands above the paragraph"
+    },
+    {
+      "says": "In the Michigan class of 1941 Auden used Pascal to describe the two chief characters of *Othello*. According to a student’s notes, he said that Othello is exactly one of Pascal’s types, a man who meets life’s problems with nothing but feeling and a handful of moral rules. Iago has the mind Pascal calls geometrical: he settles everything by reason, and reasons faultlessly, though he neither sees the principles nor cares about them. The *Pensées* as printed here open with this contrast, of the mathematical mind with the intuitive.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 141 and 143",
+      "checked": "read in research/A_pearce_gap2.txt (Pearce pp. 137-146) on 2026-10-03; the page number stands at the foot of each page, before the next page’s heading. The scan gives a French name for the type Othello is said to be; as the OCR has it, the phrase is not one of Pascal’s, so it is not repeated. Fragment 1 is pascal/s01, blocks 0 to 8."
+    },
+    {
+      "says": "In *New Year Letter*, the long poem Auden published in 1941, a few months before the course, the Devil purrs agreement when people contradict one of his lies too emphatically. He wonders aloud if the serpent in Eden was not, very nearly, the spirit of geometry, calls it foolish to look for salvation in logic, and asks when people will throw intelligence away and live by an order of the heart. Auden’s note to the first of these lines quotes Pascal in French: the mind has its order, by principle and demonstration, and the heart has another. Two more of his notes to the poem quote the *Pensées*.",
+      "source": "*New Year Letter* (London: Faber, 1941), lines 483–527 and Auden’s note to line 497",
+      "checked": "read by the poet in search-inside snippets of the Internet Archive scans newyearletter0000aude and doubleman0000aude, and read again on 2026-10-03. The fragment quoted is 283 (pascal/s04, block 105); the two other notes quote fragments 260 and 332. The examiner chained the snippets of newyearletter0000aude (catalogued as London, Faber and Faber, 1941) through the verse on 2026-10-03: the sentence that begins at line 483 has the great Denier purr his agreement, the speech that follows in quotation marks runs to line 527, and the next line begins with the words The Devil. The marginal numbers 490, 500, 510 and 520 and the notes headed Line 497 and Line 527 fix the lines: 497 is the line with the French for spirit of geometry, 527 the one with the French for an order of the heart. Page numbers 33 and 34 stand at the foot of the two pages of the speech (33 with the signature c); they are not cited. The finisher read the sentence the examiner places at line 483 again on 2026-10-03, in full-text search snippets of this scan, of doubleman0000aude and of the public scan text of The Collected Poetry (1945): it opens with So when; in it people contradict one of his lies with too much emphasis, and he does not deny it but purrs. The Faber scan misreads the word for lie; the other two have it. The first sentence of the entry now says who is contradicted and how."
+    },
+    {
+      "says": "Reviewing Kierkegaard’s journals, Auden puts Pascal with Nietzsche, Simone Weil and Kierkegaard among the writers who are hard to judge fairly. A first reading overwhelms: no one has spoken in such a voice or seen so sharply. On rereading, doubts set in. Each of them presses one side of the truth so hard that the rest is lost, and the reader’s first enthusiasm can turn into a dislike just as excessive. The more one reads such writers, he adds, the plainer it is that their life of feeling is badly out of order.",
+      "source": "“A Knight of Doleful Countenance,” in *Forewords and Afterwords* (1973), pp. 182–83",
+      "checked": "read in the scan, research/auden/fa.txt, lines 8724-8740, on 2026-10-03; the sentence begins at the foot of the essay’s first page and runs on under the first running head. The examiner read on to line 8747 the same day: the sentence on their affective life follows on p. 183 (the foot number 183 is at line 8773)"
+    },
+    {
+      "says": "Edward Mendelson, in his preface to *The Prolific and the Devourer*, writes that Pascal was one of its models: Auden was reading him by June 1939, had written a poem on him by August, and that month called the book his *pensées*. Its second part opens by saying that, like Pascal, Auden starts from an observation and an assumption: that people are unhappy more often than happy, and that this is unnatural. He adds that Pascal overstated the unhappiness. The poem of that summer is “Pascal.”",
+      "source": "*The Prolific and the Devourer* (written 1939; Ecco Press, 1994), p. 29, and Edward Mendelson’s preface to it, p. viii; “Pascal,” in *The Collected Poetry of W. H. Auden* (New York: Random House, 1945), pp. 86–89",
+      "checked": "The Prolific and the Devourer and its preface: read by the examiner on 2026-10-03 in search-inside snippets of the Internet Archive scan prolificdevourer00aude. The preface: the foot lines ‘PREFACE / vii’ and ‘viii / PREFACE’ stand before and after the sentences on Pascal, so they are on p. viii; the scan’s contents page gives the preface to Edward Mendelson. Part II: the scan’s page list puts the part title on p. 27 and the first page of text on p. 29, and the foot line for p. 29 falls a few lines after the sentence that names Pascal a second time. The poem: read in the public scan text of The Collected Poetry (archive.org, in.ernet.dli.2015.215337), where the contents list it at p. 86 and the numbers 85 to 88 stand at the foot of the pages around it; remake/research/C_auden_on_works.md, section 11 and appendix H23, cites pp. 86-88. The finisher read the poem again in the same scan on 2026-10-03 (a sixth printing; its copyright page is dated 1945): the number 85 stands before the title, the numbers 86, 87 and 88 fall inside the poem, and five more lines follow the number 88 before the title of the next poem, which the contents put at p. 89. So the poem ends on p. 89, and the page reference is now pp. 86-89. The list no longer reports the poem in its own images: the poem does not say what its Gift is and does not name its night, and nothing plain could be said of either without a reading of the finisher’s own. The entry now names the poem and no more. The preface does not name it: that the poem of that summer is this one rests on its subject and title, and on the research notes, which have it from Mendelson’s later book (not seen) as composed in August 1939. The finisher then found the date in an edition Mendelson made: in full-text search of the Internet Archive scan englishaudenpoem0000aude (The English Auden; New York: Random House, 1977) the date August 1939 stands directly after six words that occur once in the text of the 1945 scan, as the last words of “Pascal” (line 5221 of that text, the fifth line after the foot number 88 and two lines before the next title). So that edition dates this poem August 1939; its page was not seen (finisher/poem_date.py prints the places and none of the poem). The finisher also read the preface’s sentence and the opening of Part II again in snippets, and reworded three phrases: two had kept five words of Auden’s in a row, and one six of Mendelson’s. That the poem was written by August 1939 is Mendelson’s statement. The poet had the first of these facts at second hand, from Mendelson’s Early Auden, Later Auden (2017), pp. 390-92, which was not seen."
+    },
+    {
+      "says": "In an essay of 1956 Auden wrote that among the writers on theology he knew at school and university, only Pascal was readable and shook his self-satisfaction. Looking back, he found something fake in the writing, a romantic taste for unhappiness that may have been what drew him; but Pascal at least did not sound like a clergyman, and would not let him put God out of mind when he wanted to. In talk that Alan Ansen wrote down in February 1947, Auden names the greatest aphorists, Pascal first, counts him among the untypical French writers he likes, and says he has no liking for Montaigne.",
+      "source": "Essay in *Modern Canterbury Pilgrims*, edited by the Dean of New York (James A. Pike) (London: A. R. Mowbray, 1956), pp. 36–37; Alan Ansen, *The Table Talk of W. H. Auden* (London: Faber, 1991), p. 25",
+      "checked": "Both read by the examiner on 2026-10-03 in search-inside snippets of Internet Archive scans, not in full. Modern Canterbury Pilgrims: scan moderncanterbury0000dean (title page: edited by the Dean of New York, with an introduction by Bishop Stephen Neill; A. R. Mowbray, 1956; the preface is signed James A. Pike). The running head ‘36 MODERN CANTERBURY PILGRIMS’ stands before the paragraph and ‘W. H. AUDEN 37’ falls inside its last sentence, so the remark is on p. 36 and ends on p. 37, if the heads stand at the top of the page as they do in the other scans. The time he speaks of is his time at school or the university: the sentence before says so. The finisher read the passage again on 2026-10-03, in full-text search snippets of the same scan: the sentence on the fake element opens with the word Today, so that judgment is of the time of writing and not of his student years, and the entry now says Looking back where it said By then, and opens by dating the essay; what may have drawn him, the clergyman and the thought of God are in the same sentence and look back to that time. The poet had this remark from remake/research/C_auden_on_works.md, as quoted by Edward Mendelson, Early Auden, Later Auden (2017), pp. 398-99, which was not seen. Ansen: scan tabletalkofwhaud0000anse (London: Faber and Faber, 1991); the running head ‘W. H. Auden 25’ stands above the remarks and ‘26 The Table Talk of’ after them; the entry is headed February, 1947."
+    }
+  ],
+  "next": "pascal/s01:0",
+  "sources": [
+    "The text: Blaise Pascal, *Pensées*, translated by W. F. Trotter (1904), as Project Gutenberg prints it (no. 18269) from a Dutton paperback of 1958 that reprints the Everyman’s Library edition. Its fourteen sections and its order are those of Léon Brunschvicg’s edition. Its numbers are his up to 513, and after that run one behind.",
+    "The French text and its editor’s notes: *Œuvres de Blaise Pascal*, edited by Léon Brunschvicg, vols. XII–XIV (Paris: Hachette, 1904), read on French Wikisource in printings of 1921 and 1925: fragments 227, 233, 234, 277, 278, 279, 282, 347 and 348 with the notes to them, and the editor’s account of his fourteen sections in the introduction (vol. XII, pp. xlviii–lxv).",
+    "The manuscript: Dominique Descotes and Gilles Proust, *Édition électronique des Pensées de Blaise Pascal* (www.penseesdepascal.fr, 2011): the transcriptions of pages 4 and 8, the account of how the wager was written, and the pages on the two fragments of the thinking reed.",
+    "Émile Littré, *Dictionnaire de la langue française* (Paris: Hachette, 1873–74), read at littre.org, under *antanaclase*, *raison*, *savoir*, *sentir*, *sensible*, *comprendre*, *embarquer*, *engager*, *croix* and *cas*.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu), under *antanaclasis*, *antithesis*, *chiasmus*, *metaphor* and *parallelism*.",
+    "“Pascal, Blaise,” *Encyclopædia Britannica*, 11th edition (1911), vol. 20: his death in 1662, the first printing of the *Pensées* eight years later, and his letters with Fermat on dividing the stakes of a game.",
+    "W. H. Auden, *The Prolific and the Devourer* (written 1939; Ecco Press, 1994), pp. 29, 31 and 46–48, with Edward Mendelson’s preface, p. viii. Read in search snippets of a scanned copy, not in full.",
+    "W. H. Auden, “Pascal” (1939), in *The Collected Poetry of W. H. Auden* (New York: Random House, 1945), pp. 86–89.",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Hic et Ille,” p. 103.",
+    "W. H. Auden, *Forewords and Afterwords* (1973): “Søren Kierkegaard,” p. 178; “A Knight of Doleful Countenance,” pp. 182–83.",
+    "W. H. Auden, *New Year Letter* (London: Faber, 1941), lines 483–527 and Auden’s note to line 497. Read in search snippets, not in full.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 141 and 143: notes made after Auden’s lectures in the fall of 1941.",
+    "W. H. Auden, an essay without a title in *Modern Canterbury Pilgrims*, edited by the Dean of New York (James A. Pike) (London: A. R. Mowbray, 1956), pp. 36–37. Read in search snippets, not in full.",
+    "Alan Ansen, *The Table Talk of W. H. Auden* (London: Faber, 1991), p. 25: Auden’s talk in February 1947, as Ansen wrote it down. Read in search snippets, not in full."
+  ],
+  "caveats": [
+    "*The Prolific and the Devourer*, the book that gives this page its point of view, was read only in snippets of a scanned copy, and so were *New Year Letter*, the essay of 1956 and Ansen’s *Table Talk*. Wording and page numbers were not seen on a full page.",
+    "What Auden said in class in 1941 is known from notes that a student, Donald Pearce, wrote down after each lecture, and his talk of 1947 from notes kept by Alan Ansen. Neither is Auden’s own text.",
+    "The English is W. F. Trotter’s, and its sentence breaks and some of its words (*feel*, *then*, *atom*, *the world*, and three of the eighteen uses of *you*) are his. In fragment 278 the French verb *sentir* can be taken simply as to feel.",
+    "Pascal’s additions above the line and the order in which he filled one manuscript page are taken from an editor’s notes and a modern transcription, not the manuscript. The order is the modern editors’ judgment, and they count the two fragments as separate notes, not part of the wager.",
+    "The printed order and the numbers of the fragments are an editor’s. Fragments 347 and 348 stand on different pages of the manuscript, and modern editors think 277 was written after 278. The paragraph on dignity and thought is known only from early copies of Pascal’s papers."
+  ],
+  "open": [
+    "The Prolific and the Devourer was not seen in a full copy. Everything given from it (the view, its quotation, the definition of dualism, the two Gods passage, the sentence about Montaigne, the opening of Part II, the preface) was pieced together from Internet Archive search snippets of an OCR scan, by the poet and again by the examiner. The page numbers are inferred from the foot lines that fall inside the snippets (vii, viii, 29, 30, 31, 33, 34, 45, 46, 47, 72 and 73 were seen; the one for 34 is misread by the OCR). The research notes (C_auden_on_works.md) give pp. 46-47 for the sentences on the dualists; the foot lines put them on p. 47, running on to p. 48, with the two Gods passage on pp. 46-47, and E_pd_pearce.md, section 1.1, independently finds that the number line is a foot line and that p. 47 ends at the same words. A lead with the book should confirm pages and punctuation.",
+    "Examiner, 2026-10-03: the gloss of ‘dualists’ in the view was the poet’s own, drawn from the two-worlds passage. Auden defines the word himself on p. 31 of The Prolific and the Devourer (a division of the whole in two, one part good and one evil; theological, metaphysical or political), and the view now gives that, with Pascal’s kind after it. Three more sentences of that book bear on Pascal and are not in the list: p. 34 (the hope of ascetic dualists like Pascal is as vain as the Romantics’), pp. 45-46 (Pascal and Rousseau both lacked faith and made growth impossible, the one by taking away the needed energy, the other the needed intelligence), and p. 73 (Romanticism traded the old dualism of natural and supernatural worlds for one of body and mind, heart and reason; reason alone lets us love those we have not seen). The last would serve a lead who wants more on heart and reason.",
+    "New Year Letter was read in snippets only. The examiner chained the verse from line 483 to line 528: the passage on the spirit of geometry and the order of the heart is the Devil’s speech (he purrs agreement at line 486 and the quotation closes at 527), and the entry now says so. Line numbers are fixed by the marginal numbers and by Auden’s notes headed Line 497 and Line 527. Page numbers 33 and 34 were seen at the foot of the verse pages and 102 and 106 near the notes; none is cited. Finisher, 2026-10-03: the sentence of line 483 was read again in three scans. People contradict one of his lies with too much emphasis, and he purrs agreement; the entry’s first sentence said only that he answers a contradiction, and now says this.",
+    "The examiner found in scans two things the poet had only from remake/research/C_auden_on_works.md: Auden’s essay in Modern Canterbury Pilgrims (London: Mowbray, 1956), pp. 36-37, and Ansen’s Table Talk (Faber, 1991), p. 25. Both were read in snippets, and the page of the first rests on running heads taken to stand at the top of the page. The essay speaks of his school and university years, not of 1939 as the old entry let a reader think. Finisher, 2026-10-03: read again in snippets. The judgment that there is something fake in Pascal’s writing opens with the word Today, so it is of the time of writing; the entry said By then, which could be taken for his student years, and now says Looking back, with the year of the essay in the sentence before. Mendelson’s Early Auden, Later Auden (pp. 390-92, 398-99) was not seen and is no longer cited: what it was cited for is now given from Mendelson’s preface to The Prolific and the Devourer, p. viii, and from the essay itself.",
+    "Auden’s poem “Pascal” was read by the examiner, and again by the finisher, in the public scan text of The Collected Poetry (1945; the scan is a sixth printing). It stands on pp. 86-89, not 86-88: five lines follow the foot number 88, and the contents put the next poem at p. 89. The research notes (C_auden_on_works.md, section 11 and appendix H23) still give pp. 86-88 for the poem; the lines they quote are on p. 88. The list used to give the poem in one sentence of its own images (a gift, an orphan, a night one autumn). The finisher took that sentence out: the poem does not say what its Gift is and does not name its night, so a reader could not tell what the images stand for, and to say that the Gift is his reason, which would agree with the view, is a reading that no source here makes. The list now only names the poem. The same scan has “Voltaire at Ferney”, where Pascal is Voltaire’s one great enemy; not used. The research notes also cite “A Preface to Kierkegaard” (1944), which puts Pascal in the line of Augustine, Newman and Barth; not checked and not used.",
+    "The first figure tab (Reasons) drew no stroke on the built page, because the usual pairing joins only equal numbers of parts. The examiner set its join to the first two parts, the plural and the first singular, which are the two the caption joins. On the tab Reed the usual mapping drew a second stroke, from the first word to the image where it returns, which on a phone cut across the first; the caption joins the first word to the image once and tells the return by the word added, so its join is set to the first two parts as well. The artist, who was at work on the piece at the same time, proposed both settings in art.md and photographed them (shots/proposed-heart-0-reasons and shots/proposed-reed-0-reed, at 1280 and 390). The piece has been built several times since, and both tabs have been looked at: the finisher’s pictures of 13:00 to 13:02 UTC on 2026-10-03 (shots/finisher) show the one stroke on Reasons, as the open tab of the whole-page slices, and the one arc on Reed, each at 1280 and 390.",
+    "Pearce’s notes are a student’s. The OCR of his p. 141 gives a French name for the type Othello is said to be that is not a phrase of Pascal’s as it stands (it joins the words for mind and heart); the entry paraphrases the English gloss that follows and does not repeat the French.",
+    "The manuscript (BnF, Recueil original) was not seen. Additions above the line are given from Brunschvicg’s notes and from the diplomatic transcriptions of pages 4 and 8 in the electronic edition of Descotes and Proust, which were viewed as images (page 8 twice). The order of writing on page 8 (278 before 277; 277 written upside down at the top for want of room) is those editors’ inference, and the caption says so. Finisher, 2026-10-03: the editors’ account was read again in the PDF; it gives an order of writing for all eight pieces of the page (sections 7 and 8 and the closing Nota), and the line over the drawing of the tab Page now says that the order shown is the one modern editors think they were written in. The same editors say that the texts on these pages other than the wager are isolated notes and not part of that discourse; since the examination the caption says so itself, where before it said the two fragments were written around the wager. The examiner enlarged both images: on page 8 the first writing of fragment 277 has only the plural noun, and on page 4 the struck start of the weighing sentence goes straight to the case of losing.",
+    "Brunschvicg’s edition was read on French Wikisource, whose scans are printings of 1921 (vols. XIII and XIV) and 1925 (vol. XII). No page numbers are given for it, only section and fragment. That its classification first appeared before 1904 was not checked and is not stated.",
+    "The hosted text does not name its translator, and neither does the Project Gutenberg file, whose title page is that of a Dutton paperback of 1958 with T. S. Eliot’s introduction. That the translation is Trotter’s rested on remake/research/D_texts.md and on site/data/texts/pascal/index.json; the examiner confirmed it in search snippets of a scanned Everyman’s Library printing (London: Dent, reprint of 1956, first published in that edition 1932), whose note says the translation, first published in the Temple Classics in 1904, is William Finlayson Trotter’s, from the text prepared by Léon Brunschvicg. The statement that its numbers match Brunschvicg’s up to 513 and run one behind afterward was checked at fragments 511 to 517, 541, 603 and 605 against the French, not fragment by fragment. Finisher, 2026-10-03: checked at the far end as well. The last two numbers of the hosted text, 922 and 923 (pascal/s14, blocks 184 to 188), are Brunschvicg’s 923 and 924 on French Wikisource (Section XIV, which goes on to further fragments that this translation does not have), so the numbers still run one behind at the end, and no second shift lies between. D_texts.md says instead that only the last fragment lacks a number; the comparison at 513 to 515 shows the series shifts there.",
+    "No French passage is set beside the English. No French Pascal is among the files that build/tools/original.mjs lists, and adding one (its fetch command) writes outside the folder a poet may write in. So the French words are named in the captions and glosses, each no longer than a short phrase, from Brunschvicg’s text. A lead who adds a French text could set fragments 277 and 278 beside Trotter’s English: sait against feel, sent against experiences, sensible against felt would then be seen and not only told.",
+    "The third passage has 126 words, over the 110 that POET.md asks and under the checker’s limit. It cannot end one sentence later, with the order to wager, because in the hosted text the last word of that sentence is joined to the next speaker’s first word (word 132).",
+    "The lead for this piece proposes the wager as a table of four outcomes. The passage weighs two cases of one bet, and the table printed in Brunschvicg’s notes (Louis Couturat’s) has two columns. No table is drawn. Couturat’s three tables for the three steps of the argument could carry a shape lens if one is wanted.",
+    "Leads not pursued: the silence of the infinite spaces (fragment 206) and Baudelaire’s abyss. Auden’s only remark found on the first is his report of Valéry’s view (Forewords and Afterwords, pp. 361-62), which is not his own judgment.",
+    "Fragments 347 and 348 are on different manuscript pages (63 and 165, by the page numbers Brunschvicg prints beside each fragment). The second passage sets them on one plate because 348 is headed with the image of 347 and the edition prints them together; the caveats say that the pairing and the order are an editor’s. The examiner read the electronic edition’s pages for both (2026-10-03): the first paragraph of 347 is its Transition 5, on the paper RO 63-6; the second paragraph is counted there as a separate fragment, Transition 6, whose original paper is lost and which is known from the two copies, as Brunschvicg’s note 22 says; 348 is its Grandeur 9, on RO 165-1.",
+    "Auden’s sentence in “The American Scene” (The Dyer’s Hand, p. 313) follows the hosted translation of fragment 1 almost word for word (pascal/s01, block 2, words 31 to 50 and 62 to 69). This is taken as a sign that he read Pascal in Trotter’s English; it agrees with remake/research/D_texts.md, which says the course sheet names the Everyman edition. No statement of his about which translation he used was found. Finisher, 2026-10-03: the entry of the list that reported this sentence was taken out, to bring the list to eight, and stands whole at the end of notes.md; nothing printed now cites p. 313.",
+    "Examiner, 2026-10-03, on the artist’s record (art.md). Titles are now marked with asterisks in where, about and the list of what Auden said, as the page now sets them in italics. The French words inside the glosses and notes of the tabs French and Game were marked with asterisks by the critic, once the page took mark-up there (critic.md, section 2a). Nothing on a passage shows where one fragment ends and the next begins; the caption of the tab Against now says the second fragment, 278, and no other caption leans on telling them apart beyond the heading. In the facts of the tab Page the label of the fifth piece (fragment 541) said lovable and happy together, which is the French; Trotter’s sentence, which a click opens, has altogether, so the label is now lovable and happy. No key was renamed.",
+    "Finisher, 2026-10-03, after the critic. What was set, what was left and why, and what is passed up are in the last section of notes.md. Passed up, worst first. (1) The Prolific and the Devourer, New Year Letter, the essay of 1956 and Ansen were again read only in search snippets: pages, and the punctuation of the view’s quotation, still want a full copy. (2) remake/research/C_auden_on_works.md, section 11 and appendix H23, gives pp. 86-88 for the poem “Pascal”; it ends on p. 89, and that file is not this piece’s to change. (3) The list under More from Auden has eight entries and 699 words (782 at nine, by the same count); the critic found it long at nine, and found one page of Auden closing five tabs. (4) No French is set beside the English (see above). (5) The publisher’s line for The Collected Poetry (New York: Random House) was not seen in the public scan’s text, which shows a copyright line of 1945 and the words sixth printing. The date of the poem, August 1939, was found in The English Auden (1977) in a search snippet; its page was not seen."
+  ]
+}

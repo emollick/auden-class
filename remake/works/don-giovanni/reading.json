@@ -1,0 +1,1732 @@
+{
+ "piece": "don-giovanni",
+ "title": "The catalogue and the duet",
+ "where": "*Don Giovanni*, Act 1",
+ "about": "Mozart’s opera to Lorenzo Da Ponte’s Italian words was first given in Prague in 1787. In Act 1 Don Giovanni slips away from Donna Elvira, a lady he has deserted, and leaves his servant Leporello to tell her everything. Leporello reads to her from the list he keeps of his master’s women. Later the Don comes upon a peasant wedding, sends the others off, tells the bride, Zerlina, that he will marry her at once in a small country house of his, and begins the duet.",
+ "view": {
+  "says": "Auden reads the Don as a man with one end, chosen at will: to seduce all the women there are. He sets him against the Duke in Verdi’s *Rigoletto*, a libertine of the senses, who goes after any pretty girl and turns his eyes from a plain, older woman. The Don’s looks should tell the audience nothing, and stamps would have done as well as women. He can be understood only together with Leporello.",
+  "quote": "not sensual but arithmetical; his satisfaction lies in adding one more name to his list which is kept for him by Leporello",
+  "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 119–20",
+  "checked": "read in the scan of The Dyer’s Hand, scratchpad research/auden/dh.txt, lines 5676–5763 (pp. 119–20); the sentence quoted is at lines 5705–5707; read again by the examiner on 2026-10-03, the quotation exact and 22 words; reworded by the finisher on 2026-10-03, who read lines 5650–5763 again, so that the paraphrase gives what the quotation leaves out: the chosen end is at lines 5681–5686, the Duke at lines 5694–5698, the neutral looks and the stamps at lines 5707–5714 (all p. 119), and the pair with Leporello at lines 5733–5735 (p. 120). The two sentences that said the quotation over again are out; the looks and the stamps are joined by and, where a colon stood"
+ },
+ "plates": [
+  {
+   "id": "count",
+   "heading": "The catalogue: the count",
+   "label": "Da Ponte, as first printed",
+   "text": "o-don-giovanni/catalogue",
+   "rows": [
+    "0.0-4.3"
+   ],
+   "pair": {
+    "label": "The English libretto",
+    "text": "don-giovanni/act-1",
+    "rows": [
+     "243.0-243.9"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "beat",
+     "label": "Count",
+     "meterName": "ten syllables by the Italian count, with the accent fixed on the third, the sixth and the ninth",
+     "scan": {
+      "0.0": {
+       "meter": "../../../.",
+       "voice": "xx/~ x x/x~ x /x",
+       "div": {
+        "4": "que|sto"
+       }
+      },
+      "1.0": {
+       "meter": "../../../.",
+       "voice": "xx /x ~ x/ < x\\ /x",
+       "div": {
+        "5": "pa|dron",
+        "6": "mi|o:"
+       }
+      },
+      "2.0": {
+       "meter": "../../../.",
+       "voice": "x x/x~ x~ / ~ x x/x",
+       "div": {
+        "2": "e|gli",
+        "6": "fat|t’i|o;"
+       }
+      },
+      "3.0": {
+       "meter": "../../../",
+       "voice": "xx/x x/x x /",
+       "div": {
+        "0": "Os|ser|va|te",
+        "1": "leg|ge|te"
+       }
+      },
+      "4.0": {
+       "meter": "../../../.",
+       "voice": "x x/x x/~ x x/x",
+       "div": {
+        "1": "I|ta|lia"
+       }
+      },
+      "4.1": {
+       "meter": "../../../.",
+       "voice": "x x/x x/~ x x/x",
+       "div": {
+        "1": "Ger|ma|nia"
+       }
+      },
+      "4.2": {
+       "meter": "../../../.",
+       "voice": "\\~ x /~ x x/ xx/x",
+       "div": {
+        "2": "Fran|cia,",
+        "4": "Tur|chia"
+       }
+      },
+      "4.3": {
+       "meter": "../../../",
+       "voice": "~ x x/x x / /~ x /",
+       "div": {
+        "2": "I|spa|gna",
+        "4": "già"
+       }
+      }
+     },
+     "points": [
+      {
+       "at": [
+        "0.0",
+        0,
+        1
+       ],
+       "say": "The last vowel of the first word and the vowel of the second count as one syllable of the measure. Italian verse counts a vowel that ends one word and a vowel that begins the next in this way, even across a comma, and both vowels are still said. It happens thirteen times in these eight lines."
+      },
+      {
+       "at": [
+        "1.0",
+        3,
+        4
+       ],
+       "say": "The verb, *amò*, is stressed on its last syllable, the sixth of the line. The article after it, *il*, begins with a vowel and is counted with that syllable."
+      },
+      {
+       "at": [
+        "3.0",
+        3,
+        3
+       ],
+       "say": "The line stops on its last accent, the ninth syllable. Italian names a line by the place of its last accent, so this is still a line of ten. The last line of the count stops the same way, and the two rhyme."
+      },
+      {
+       "at": [
+        "4.0",
+        1,
+        4
+       ],
+       "say": "The first accent falls on the country, the second on the hundreds, the third on the last part of the number. The next line is built the same way."
+      },
+      {
+       "at": [
+        "4.2",
+        0,
+        5
+       ],
+       "say": "Two countries share this line, and each takes an accent. The hundred that begins the line falls outside the three accents. The last two vowels of the second country are counted as one syllable here."
+      },
+      {
+       "at": [
+        "4.3",
+        4,
+        5
+       ],
+       "say": "The second accent falls on the word for already. The thousand follows at once with a stress of its own, off the measure."
+      }
+     ],
+     "caption": "Each line has ten syllables by the Italian count, with the accent on the third, the sixth and the ninth. Two lines stop on the ninth. Italian reference books call this line catchy, its regular cadence monotonous but effective, and its marked rhythm fit for verse to be sung. Da Ponte gives that cadence to a count. In the four lines of totals the first accent always falls on a country and the last on the end of a number. There, only <b>già</b>, already, takes an accent and is neither country nor figure. No woman is named anywhere in the song. Auden calls the Don’s pleasure arithmetical.",
+     "why": "The accents of this line never move, and in the totals all but one fall on a country or a figure, so the regular cadence the reference books describe carries a count, and Auden calls the Don’s pleasure arithmetical.",
+     "grounds": [
+      {
+       "claim": "the count of each line and where its accents fall",
+       "kind": "plate"
+      },
+      {
+       "claim": "the line of ten syllables has its accents on the third, sixth and ninth, is very catchy, and has a regular cadence that makes it monotonous but effective; its marked rhythm makes it a line suited to verse for music (the example given is an aria of Mozart’s Figaro)",
+       "kind": "source",
+       "source": "Treccani, Enciclopedia on line, under Decasillabo (accents, molto orecchiabile); Enciclopedia Italiana (1931), under Decasillabo (La regolarità della cadenza lo rende monotono, ma efficace); Claudio Ciociola, “Versificazione,” in Enciclopedia dell’Italiano (2011), the paragraph on the decasillabo (L’accentuata ritmicità ne fa un verso idoneo alla poesia per musica). All three opened again by the examiner, 3 October 2026"
+      },
+      {
+       "claim": "a line is named by the place of its last accent; the last vowel of a word and the first of the next are counted as one metrical syllable, also across a comma, and neither vowel is dropped in saying the line; two vowels inside a word can count as one",
+       "kind": "source",
+       "source": "Claudio Ciociola, “Versificazione,” and Sergio Bozzola and Luciano Romito, “Sinalefe” (with its section on sineresi), in Enciclopedia dell’Italiano (2011); Treccani, Enciclopedia on line, under Sineresi"
+      },
+      {
+       "claim": "in the four lines of totals the first accent is on a country and the last on the end of a number; of the twelve accents there, only the one on già falls on neither a country nor a figure",
+       "kind": "plate"
+      },
+      {
+       "claim": "no woman is named in the aria",
+       "kind": "text",
+       "source": "the whole aria in the Italian libretto (lines 333–365 of the source file); the hosted English, Act 1, blocks 243–244"
+      },
+      {
+       "claim": "Auden calls the Don’s pleasure arithmetical",
+       "kind": "auden",
+       "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 119"
+      }
+     ],
+     "stands": "The marks on the passage, and the whole song for the absence of names. The line of ten syllables and its cadence: Treccani’s *Enciclopedia on line* and the *Enciclopedia Italiana* (1931), under *Decasillabo*. How Italian verse counts syllables and names a line, and this line’s fitness for music: the *Enciclopedia dell’Italiano* (2011), under *Versificazione* and *Sinalefe*. Auden on the Don’s arithmetic: *The Dyer’s Hand*, p. 119."
+    },
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "0.0": "x",
+      "1.0": "a",
+      "2.0": "a",
+      "3.0": "b",
+      "4.0": "x",
+      "4.1": "c",
+      "4.2": "c",
+      "4.3": "b"
+     },
+     "tails": {
+      "1.0": 2,
+      "2.0": 2,
+      "3.0": 1,
+      "4.1": 3,
+      "4.2": 3,
+      "4.3": 1
+     },
+     "caption": "Each stanza leaves its first line unrhymed, rhymes its two middle lines and stops short on its last. The two short lines rhyme across the gap: <b>me</b> with <b>tre</b>, me with three. In the first stanza <b>mio</b>, my, ends the line about the master’s loves, and <b>fatt’io</b>, made by me, ends the line about the catalogue. Auden writes that the servant keeps the list and that the Don is never seen to look at it. In the second stanza two totals rhyme because both end in the word for one, and the last total ends on the rhyme for <b>me</b>. The figures appear to be chosen for the verse.",
+     "why": "The rhymes fall on the servant’s my and I and on the ends of the totals, and Auden says it is the servant who keeps the list and who alone is seen to enjoy it.",
+     "grounds": [
+      {
+       "claim": "which lines rhyme, and on which letters",
+       "kind": "plate"
+      },
+      {
+       "claim": "the line that ends on mio is about the master’s loves; the line that ends on io says who made the catalogue",
+       "kind": "text",
+       "source": "rows 1.0 and 2.0"
+      },
+      {
+       "claim": "231 and 91 both end in the word for one; 1,003 ends in the word for three, which rhymes with the last word of the first stanza. That three of the four lines of totals end on a rhyme word is all that the caption’s last sentence (the figures appear to be chosen for the verse) rests on; the totals also fail to agree with the number Leporello gives earlier in the scene (see the English tab)",
+       "kind": "text",
+       "source": "rows 3.0, 4.1, 4.2, 4.3"
+      },
+      {
+       "claim": "the servant keeps the list; the Don is never seen to look at it or take pleasure in it, only Leporello is",
+       "kind": "auden",
+       "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 120"
+      },
+      {
+       "claim": "a line may stop on its accented syllable and keep its name",
+       "kind": "source",
+       "source": "Claudio Ciociola, “Versificazione,” in Enciclopedia dell’Italiano (2011)"
+      }
+     ],
+     "stands": "The marks on the passage, and the lines themselves. Auden on the keeper of the list and on who enjoys it: *The Dyer’s Hand*, p. 120. That a line may stop on its accented syllable: the *Enciclopedia dell’Italiano* (2011), under *Versificazione*."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "0.0",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "little lady",
+       "note": "It is the pet form of *madama*, a title of respect taken from French, and a servant says it here to a lady of Burgos.",
+       "source": "Treccani, Vocabolario on line, under madama (Dim. madamina); the list of characters in the libretto, for Donna Elvira"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        2,
+        2
+       ],
+       "gloss": "a list of like things",
+       "note": "The dictionary also gives it for the book or register that holds such a list.",
+       "source": "Treccani, Vocabolario on line, under catalogo, senses 1a and 1b"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "of the beauties",
+       "note": "The adjective for beautiful stands here as a noun, which the dictionary gives for a beautiful woman and for a sweetheart.",
+       "source": "Treccani, Vocabolario on line, under bella, s. f., senses 1a and 1b"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        4,
+        6
+       ],
+       "gloss": "that I made myself",
+       "note": "Italian can leave the word for *I* unsaid. Here it is said, after the verb, and ends the line. The grammar gives that place as one that brings the subject out, and adds that older writing often put the subject there.",
+       "source": "Treccani, La grammatica italiana (2012), under soggetto (the subject left unsaid when it is a personal pronoun; after the verb per evidenziare il soggetto; the note headed Storia on the older literary habit)"
+      },
+      {
+       "row": "4.3",
+       "w": [
+        3,
+        4
+       ],
+       "gloss": "are already",
+       "note": "The adverb marks a fact as accomplished, or still being accomplished, at the moment of speaking.",
+       "source": "Treccani, Vocabolario on line, under già, sense 1a"
+      }
+     ],
+     "caption": "A <b>catalogo</b>, the dictionary says, is an ordered list of objects of one kind, such as books, works of art or goods. Auden says that stamps would have served the Don as well as women. Leporello calls the women <b>belle</b>, beauties, in the plural. Just before the song he shows Elvira the list and says it is full of their names. He then reads out countries and totals, and not one name. The word <b>già</b>, already, gives the last total as the count so far. Auden writes of the Don Juan of legend that any fondness would make a name of a number on the list.",
+     "why": "Leporello says the list is full of names and then reads out totals, and Auden writes that for the Don Juan of legend any fondness would make a name of a number on the list.",
+     "grounds": [
+      {
+       "claim": "what catalogo, bella, madama and già mean; catalogo is an ordered list of objects of one kind, such as books, works of art, or craft and industrial goods (sense 1a), and the book or register that holds it (sense 1b). The stamp catalogue among the examples of 1b is a modern example and is not leaned on",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, under catalogo (senses 1a and 1b), bella, madama, già"
+      },
+      {
+       "claim": "before the aria Leporello tells Elvira to look at the list, which he says is full of the names of his master’s beauties (the Italian printed here says list; the hosted English says a large book)",
+       "kind": "text",
+       "source": "Italian libretto, the recitative before the aria (lines 328–330 of the source file); the hosted English, Act 1, block 241"
+      },
+      {
+       "claim": "the aria gives countries and totals and names no woman",
+       "kind": "text",
+       "source": "the whole aria (lines 333–365 of the source file)"
+      },
+      {
+       "claim": "già marks a thing as done, or still being done, at the moment of speaking",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, under già, sense 1a"
+      },
+      {
+       "claim": "for the note on the word for I: a subject that is a personal pronoun can be left unsaid; a subject put after the verb is brought out; older literary Italian often put the subject after the verb",
+       "kind": "source",
+       "source": "Treccani, La grammatica italiana (2012), under soggetto"
+      },
+      {
+       "claim": "of the Don Juan of legend (he says myth in the sentence before this one and legend in the sentence after): any fondness at all would make a name of a number on the list, so the calling he has chosen demands that he give up love entirely",
+       "kind": "auden",
+       "source": "“Don Juan,” in The Dyer’s Hand (1962), p. 392"
+      },
+      {
+       "claim": "the Don should be staged to look neutral, so that the audience sees that for any finite motive there could be, collecting stamps would have done as well; said again two pages on, where stamps are set against women",
+       "kind": "auden",
+       "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 119 (and again on p. 121)"
+      }
+     ],
+     "stands": "Treccani’s *Vocabolario on line*, under *catalogo*, *bella*, *madama* and *già*, and its *La grammatica italiana*, under *soggetto*. What Leporello says of the list before he reads from it: [Act 1, Scene 5](#/read/don-giovanni/act-1:241), where the English has a large book. The whole song, which names no woman. Auden on stamps, and on numbers and names: *The Dyer’s Hand*, pp. 119 and 392."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "2.0",
+        4,
+        6
+       ],
+       "b": [
+        "p:243.1",
+        4,
+        5
+       ],
+       "say": "The English keeps the servant as the maker of the list."
+      },
+      {
+       "a": [
+        "3.0",
+        2,
+        3
+       ],
+       "b": [
+        "p:243.4",
+        6,
+        7
+       ],
+       "say": "The first Italian stanza ends on this word and the second on its rhyme. The English keeps the word at the end of its line."
+      },
+      {
+       "a": [
+        "4.0",
+        2,
+        4
+       ],
+       "b": [
+        "p:243.5",
+        4,
+        5
+       ],
+       "say": "Six hundred and forty in the Italian. Seven hundred in the English."
+      },
+      {
+       "a": [
+        "4.1",
+        2,
+        4
+       ],
+       "b": [
+        "p:243.6",
+        3,
+        3
+       ],
+       "say": "Two hundred and thirty-one in the Italian. The English says eight, or eight hundred if the hundred of the line before is carried over."
+      },
+      {
+       "a": [
+        "4.2",
+        0,
+        5
+       ],
+       "b": [
+        "p:243.7",
+        2,
+        7
+       ],
+       "say": "A hundred in France and ninety-one in Turkey become ninety-one for the two countries together."
+      },
+      {
+       "a": [
+        "4.3",
+        5,
+        7
+       ],
+       "b": [
+        "p:243.9",
+        0,
+        3
+       ],
+       "say": "The thousand and three is kept. It still rhymes with the word that ends the first stanza."
+      }
+     ],
+     "caption": "The English beside the Italian appears to be made for singing. Its full lines keep three beats and rhyme on two syllables where they can, and it changes the count. Italy has seven hundred, Germany eight, and France loses its hundred and shares Turkey’s ninety-one. The thousand and three for Spain is kept, with its rhyme. Auden and Chester Kallman, who translated this opera themselves, write that a translation must fit the music as sung, and that such rhymes, mostly comic in English, can help in this song. The Italian figures do not agree either: they come to 2,065, and earlier in the scene Leporello says eighteen hundred.",
+     "why": "The English changes the totals and keeps the three beats and the rhymes of two syllables, and Auden and Kallman say a translation must match the rhythm as sung and that such rhymes can help in this song.",
+     "grounds": [
+      {
+       "claim": "what the English keeps and what it changes, word against word",
+       "kind": "plate"
+      },
+      {
+       "claim": "the five Italian totals come to 2,065",
+       "kind": "text",
+       "source": "rows 4.0–4.3: 640, 231, 100, 91 and 1,003"
+      },
+      {
+       "claim": "earlier in the scene Leporello says eighteen hundred",
+       "kind": "text",
+       "source": "Italian libretto, his aside in the recitative of the same scene (line 268 of the source file); the hosted English, Act 1, block 177"
+      },
+      {
+       "claim": "Auden and Kallman translated Da Ponte’s Don Giovanni",
+       "kind": "auden",
+       "source": "W. H. Auden and Chester Kallman, “Translating Opera Libretti,” in The Dyer’s Hand (1962), p. 484"
+      },
+      {
+       "claim": "the translator’s version must have the very rhythm of the notes as they are sung, which is not the rhythm of the original verse as it would be spoken",
+       "kind": "auden",
+       "source": "the same essay, p. 485"
+      },
+      {
+       "claim": "rhymes of two syllables, which they call feminine and mostly comic in English, can for once help, and the case they name is Leporello’s catalogue song",
+       "kind": "auden",
+       "source": "the same essay, p. 488"
+      }
+     ],
+     "stands": "The two texts side by side, and the sum of the five totals on the page. Leporello’s eighteen hundred: [Act 1, Scene 5](#/read/don-giovanni/act-1:177). Auden and Kallman on translating for the voice and on rhymes of two syllables in this song: “Translating Opera Libretti,” in *The Dyer’s Hand*, pp. 484–85 and 488."
+    }
+   ]
+  },
+  {
+   "id": "close",
+   "heading": "The catalogue: the close",
+   "label": "Da Ponte, as first printed",
+   "text": "o-don-giovanni/catalogue",
+   "rows": [
+    "7.0-9.3"
+   ],
+   "pair": {
+    "label": "The English libretto",
+    "text": "don-giovanni/act-1",
+    "rows": [
+     "244.7-244.14"
+    ]
+   },
+   "beside": true,
+   "lenses": [
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "7.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "of old women",
+       "source": "Treccani, Vocabolario on line, under vecchio (the feminine as a noun)"
+      },
+      {
+       "row": "7.0",
+       "w": [
+        2,
+        3
+       ],
+       "gloss": "he makes a conquest",
+       "note": "The dictionary gives the noun first for conquering by arms and then, in familiar use, for a success in love and for the person won, and it quotes this line and the next.",
+       "source": "Treccani, Thesaurus (2018), under conquista, senses 1 and 4 and the quotation"
+      },
+      {
+       "row": "7.1",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "for the pleasure",
+       "note": "The dictionary’s first sense is the lively satisfaction of a desire fulfilled; the pleasures of the senses come second. The full form in this Florence printing of 1867 makes the line a syllable too long. The Italian printed with the English libretto clips the word.",
+       "source": "Treccani, Vocabolario on line, under piacere (the noun), senses 1a and 2a; for the form of the word, the Italian column of the Rullman libretto and Treccani’s quotation under conquista, which both have the clipped form; the count is the examiner’s: every other row of the passage has eight syllables by the Italian count (row 9.3 stops on its seventh), and row 7.1 as printed here has nine; this note is the first place on the page that names the two Italian texts, so the finisher said there what each is, from what the site records of them (site/data/texts/o-don-giovanni/index.json: proofread from the libretto printed in Florence by Eduardo Ducci in 1867; site/data/texts/don-giovanni/index.json: the Italian and English libretto published by Fred Rullman of New York)"
+      },
+      {
+       "row": "7.1",
+       "w": [
+        2,
+        5
+       ],
+       "gloss": "of putting them on the list",
+       "note": "The noun is a Germanic word for an edge or strip, then a strip of paper, then the sheet that holds a series of names in order.",
+       "source": "Treccani, Vocabolario on line, under lista, senses 1a and 2"
+      },
+      {
+       "row": "8.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "but the ruling passion",
+       "note": "The noun comes from a Latin verb for suffering and names an intense feeling that can master a person. This printing begins the line with the word for *but*, and the Italian printed with the English with the word for *his*.",
+       "source": "Treccani, Vocabolario on line, under passione (etymology and sense 4a) and predominante; for the first word, the Italian column of the Rullman libretto (his) against the Florence printing of 1867 and Treccani’s quotation under conquista (but)"
+      },
+      {
+       "row": "8.1",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "is the young beginner",
+       "note": "The noun names someone at the start of learning an art or a trade. The first word is printed here without the accent that makes it the word for *is*.",
+       "source": "Treccani, Vocabolario on line, under principiante and giovine; for the accent, Treccani, Thesaurus, under conquista, which quotes the line with the accented capital (the Rullman Italian column prints the capital without an accent, as this printing does here and in row 6.6)"
+      },
+      {
+       "row": "9.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "he is not particular",
+       "note": "The verb comes from French and means to pride oneself on a thing or to insist on a point.",
+       "source": "Treccani, Vocabolario on line, under piccarsi, senses 1 and 2"
+      },
+      {
+       "row": "9.0",
+       "w": [
+        3,
+        5
+       ],
+       "gloss": "whether she is rich",
+       "source": "Treccani, Vocabolario on line, under ricco"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "whether she is ugly",
+       "source": "Treccani, Vocabolario on line, under brutto"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        3,
+        5
+       ],
+       "gloss": "whether she is beautiful",
+       "source": "Treccani, Vocabolario on line, under bello (the adjective, sense 1a, of a person) and under brutto, which calls the one the direct contrary of the other"
+      },
+      {
+       "row": "9.2",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "provided that",
+       "source": "Treccani, Vocabolario on line, under purché"
+      },
+      {
+       "row": "9.2",
+       "w": [
+        1,
+        3
+       ],
+       "gloss": "she wears a skirt",
+       "note": "The last word is a diminutive of the word for skirt, which the dictionary says stands in familiar phrases for the woman herself.",
+       "source": "Treccani, Vocabolario on line, under gonnella"
+      },
+      {
+       "row": "9.3",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "any woman will do for him",
+       "note": "The verb has here the sense to serve or to be enough. The line is this printing’s own. The Italian printed with the English ends the song on other words, which say that the lady knows what he does.",
+       "source": "Treccani, Vocabolario on line, under fare (the verb), sense 8a; the Italian column of the Rullman libretto for the usual last line"
+      }
+     ],
+     "caption": "The noun <b>conquista</b>, conquest, is a word of war, used also of love. The first two lines give the Don’s reason for winning old women: the <b>piacere</b>, the pleasure, of putting them on the <b>lista</b>, the list. Auden says as much: the Don is satisfied when the list is one name longer. The next two lines name one <b>passion</b>, the young <b>principiante</b>, the beginner. Auden writes that the Don Juan of legend means to be the first man each woman has known. The last lines leave one condition, the <b>gonnella</b>, a skirt, which Italian puts for the woman herself.",
+     "why": "Da Ponte puts the pleasure in the listing and the one preference in the beginner, and Auden says the Don is satisfied by one more name and the Don Juan of legend means to be every woman’s first lover.",
+     "grounds": [
+      {
+       "claim": "the senses of conquista, piacere, lista, passione, predominante, principiante, piccarsi, purché, gonnella, fare, vecchio, ricco, brutto, bella",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, under each word; Treccani, Thesaurus (2018), under conquista"
+      },
+      {
+       "claim": "the first couplet gives the pleasure of putting them on the list as the reason for winning old women",
+       "kind": "text",
+       "source": "rows 7.0–7.1"
+      },
+      {
+       "claim": "the second couplet names the young beginner as the ruling passion",
+       "kind": "text",
+       "source": "rows 8.0–8.1"
+      },
+      {
+       "claim": "the last four lines set aside whether she is rich, ugly or pretty and keep one condition, the skirt",
+       "kind": "text",
+       "source": "rows 9.0–9.3"
+      },
+      {
+       "claim": "of Don Giovanni in the opera: what satisfies him is that the list grows by one name (the sentence quoted at the head of the page)",
+       "kind": "auden",
+       "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 119"
+      },
+      {
+       "claim": "of the Don Juan of legend: he has made up his mind to be the first man that every woman in the world has had (p. 24); he wants every moment to be wholly new, and so insists that he be each woman’s first and that he have her one time only (p. 25)",
+       "kind": "auden",
+       "source": "“The Greeks and Us,” in Forewords and Afterwords (1973), pp. 24–25"
+      },
+      {
+       "claim": "this printing’s readings against the usual text: the long form of the word for pleasure (the Rullman column and Treccani’s quotation have the short form), the word for is without its accent (Treccani’s quotation has the accent), the word for but at the head of row 8.0 (Treccani’s quotation has it too; the Rullman column has the word for his), the last line (the Rullman column ends the aria on other words)",
+       "kind": "source",
+       "source": "the Italian column of the Rullman libretto (Internet Archive scan); Treccani, Thesaurus (2018), under conquista; the copy of the Florence printing of 1867 at the Internet Archive"
+      }
+     ],
+     "stands": "Treccani’s *Vocabolario on line* for each word glossed, and its *Thesaurus*, under *conquista*, which quotes four of these lines. Auden on the name added to the list: *The Dyer’s Hand*, p. 119. Auden on being each woman’s first lover: “The Greeks and Us,” in *Forewords and Afterwords*, pp. 24–25, where he speaks of the legend of Don Juan and not of this opera."
+    },
+    {
+     "kind": "figure",
+     "label": "Figure",
+     "name": "anaphora",
+     "plain": "the same words at the head of clause after clause",
+     "draw": "align",
+     "parts": [
+      {
+       "row": "9.0",
+       "w": [
+        3,
+        4
+       ],
+       "tag": "A",
+       "label": "whether she is"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        0,
+        1
+       ],
+       "tag": "A"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        3,
+        4
+       ],
+       "tag": "A"
+      },
+      {
+       "row": "9.0",
+       "w": [
+        5,
+        5
+       ],
+       "tag": "B",
+       "label": "rich"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        2,
+        2
+       ],
+       "tag": "B",
+       "label": "ugly"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        5,
+        5
+       ],
+       "tag": "B",
+       "label": "beautiful"
+      },
+      {
+       "row": "9.2",
+       "w": [
+        0,
+        3
+       ],
+       "tag": "C",
+       "label": "the one condition"
+      }
+     ],
+     "join": "none",
+     "caption": "Three clauses in a row begin with the same two words, <b>se sia</b>, whether she is. The figure is anaphora. A different quality follows each time: rich, ugly, beautiful. All three hang on one verb, which says he is not particular, and so make one list of things that do not count. Then <b>Purchè</b>, provided that, brings the one condition, a skirt. Auden quotes these three lines after naming the end the Don has chosen, and says no man so indifferent to looks is met in life. Of the Don Juan of legend he writes that what counts about a woman is only that she belongs to the class of women.",
+     "why": "The repeated opening sets rich, ugly and beautiful side by side as things that make no difference, and Auden quotes these lines after naming the Don’s chosen end and says of the legend that only the class of women counts.",
+     "grounds": [
+      {
+       "claim": "three clauses begin with the same two words, and a different adjective follows each",
+       "kind": "plate"
+      },
+      {
+       "claim": "the three clauses all depend on the verb at the head of row 9.0, which says he makes no point of it; so the three qualities are a list of things that do not count with him",
+       "kind": "text",
+       "source": "rows 9.0–9.1; Treccani, Vocabolario on line, under piccarsi, senses 1 and 2"
+      },
+      {
+       "claim": "anaphora is the repetition of the same word or group of words at the beginning of successive clauses, sentences or lines",
+       "kind": "source",
+       "source": "Silva Rhetoricae (rhetoric.byu.edu), under anaphora; Angela Ferrari, “Anafora,” in Enciclopedia dell’Italiano (2010), for the rhetorical sense"
+      },
+      {
+       "claim": "purché sets a condition",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, under purché"
+      },
+      {
+       "claim": "Auden quotes these three lines right after naming the end the Don has chosen: the seduction, which he also calls the knowing, of all the women there are (scan lines 5684–5692: the end is named, and the three lines follow at once under the words that give them to Leporello; read again by the finisher on 2026-10-03, when the caption’s for became after naming)",
+       "kind": "auden",
+       "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 119"
+      },
+      {
+       "claim": "in the same essay, two pages on: men who go from woman to woman are met in life, but never one to whom the bodies of the women make no difference at all; said of Don Giovanni as a figure of myth",
+       "kind": "auden",
+       "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 121"
+      },
+      {
+       "claim": "of the Don Juan of legend: what matters to him in a woman is no feature of her looks, only that she is one of the class of women; ugly and old women serve him as well as beautiful and young ones",
+       "kind": "auden",
+       "source": "“The Greeks and Us,” in Forewords and Afterwords (1973), p. 24"
+      }
+     ],
+     "stands": "The marks on the passage. The figure and its definition: *Silva Rhetoricae*, under *anaphora*; for *purché*, Treccani’s *Vocabolario on line*. Auden quotes the three lines in *The Dyer’s Hand*, p. 119, and says on p. 121 that no such man is met in life. On the class of women: “The Greeks and Us,” in *Forewords and Afterwords*, p. 24."
+    },
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "7.0": "a",
+      "7.1": "a",
+      "8.0": "b",
+      "8.1": "b",
+      "9.0": "x",
+      "9.1": "c",
+      "9.2": "c",
+      "9.3": "x"
+     },
+     "tails": {
+      "7.0": 4,
+      "7.1": 4,
+      "8.0": 4,
+      "8.1": 4,
+      "9.1": 4,
+      "9.2": 4
+     },
+     "threads": [
+      {
+       "sound": "icca",
+       "at": [
+        [
+         "9.0",
+         2,
+         1,
+         4
+        ],
+        [
+         "9.0",
+         5,
+         1,
+         4
+        ]
+       ]
+      }
+     ],
+     "caption": "The first four lines are two couplets, pairs of rhymed lines, and a rhyme that comes back at once makes its two lines one unit. The first couplet rhymes <b>conquista</b> with <b>lista</b>, conquest with list. Leporello has made this rhyme before, asking his master about a new conquest so as to put her on the list. Auden writes that Leporello keeps the list and the Don only tells him the newest name. In the last four lines <b>picca</b>, insists, and <b>ricca</b>, rich, rhyme inside one line, then <b>bella</b>, beautiful, rhymes with <b>gonnella</b>, skirt. The last line stops short and finds its rhyme in an earlier stanza.",
+     "why": "A couplet holds its two lines as one unit, so the rhyme binds conquest to list, as it did when Leporello asked his master about a new conquest, and Auden says the Don only tells him the name.",
+     "grounds": [
+      {
+       "claim": "which lines rhyme, on which letters, and the rhyme inside one line",
+       "kind": "plate"
+      },
+      {
+       "claim": "Leporello rhymes the same two words in recitative with his master: is there a new conquest, he must know so as to put her on the list",
+       "kind": "text",
+       "source": "Italian libretto, lines 235–237 of the source file; the hosted English, Act 1, block 152"
+      },
+      {
+       "claim": "the quick return of the rhyme makes a couplet felt as one unit that holds one idea",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, on the couplet"
+      },
+      {
+       "claim": "a rhyme may fall inside the line, at the end of a half-line",
+       "kind": "source",
+       "source": "Claudio Ciociola, “Rima,” in Enciclopedia dell’Italiano (2011), on rhyme inside the line (rima al mezzo)"
+      },
+      {
+       "claim": "the last line rhymes with the last line of the stanza on ranks and ages, which also stops on its accent",
+       "kind": "text",
+       "source": "row 5.5 of the same cut (line 349 of the source file)"
+      },
+      {
+       "claim": "Leporello keeps the list, and the Don only tells him the newest name",
+       "kind": "auden",
+       "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 120"
+      }
+     ],
+     "stands": "The marks on the passage, and the rest of the song for the last rhyme. The same two rhyme words come in Leporello’s talk with his master, in English prose at [Act 1, Scene 4](#/read/don-giovanni/act-1:152). The couplet as one unit: Baum’s *Principles of English Versification*, chapter 4; rhyme inside a line: the *Enciclopedia dell’Italiano* (2011), under *Rima*. Auden on the keeper of the list: *The Dyer’s Hand*, p. 120."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "7.0",
+        0,
+        1
+       ],
+       "b": [
+        "p:244.7",
+        4,
+        6
+       ],
+       "say": "The old women of the Italian become *old and young* together, with *high and low* added."
+      },
+      {
+       "a": [
+        "7.1",
+        0,
+        5
+       ],
+       "b": [
+        "p:244.8",
+        0,
+        5
+       ],
+       "say": "The Italian gives the reason, the pleasure of putting them on the list. The English has no list here. It praises his talk."
+      },
+      {
+       "a": [
+        "8.1",
+        2,
+        3
+       ],
+       "b": [
+        "p:244.10",
+        5,
+        7
+       ],
+       "say": "The young beginner becomes youth in general."
+      },
+      {
+       "a": [
+        "9.0",
+        3,
+        5
+       ],
+       "b": [
+        "p:244.11",
+        3,
+        5
+       ],
+       "say": "*Rich* is dropped. *Fat* and *thin* are added, and *short* and *tall* two lines later."
+      },
+      {
+       "a": [
+        "9.1",
+        0,
+        5
+       ],
+       "b": [
+        "p:244.11",
+        1,
+        2
+       ],
+       "say": "*Ugly* is kept, and *beautiful* becomes *pretty*."
+      },
+      {
+       "a": [
+        "9.2",
+        1,
+        3
+       ],
+       "b": [
+        "p:244.12",
+        1,
+        2
+       ],
+       "say": "The skirt becomes a petticoat."
+      },
+      {
+       "a": [
+        "9.3",
+        0,
+        4
+       ],
+       "b": [
+        "p:244.14",
+        3,
+        6
+       ],
+       "say": "This last line is this printing’s own: any woman will do for him. The Italian printed with the English says that the lady knows what he does. The English says he loves them all."
+      }
+     ],
+     "caption": "The English keeps ugly, has <b>pretty</b> for beautiful, and makes the skirt a <b>petticoat</b>. Where the Italian says he wins old women for the pleasure of listing them, the English has no list: it says that old and young <b>own the music of his tongue</b>. Those two Italian lines name what Auden says satisfies the Don: one more name on the list. The English ends on <b>he loves them all</b>. Leporello says loved too, in the second line of the song. Auden, writing of the legend, holds that its Don Juan must give up love, since a woman he cared for at all would be a name and no longer a number.",
+     "why": "The English puts praise of the Don’s talk where the Italian has the pleasure of the list, and that couplet is where Da Ponte states the pleasure Auden calls arithmetical.",
+     "grounds": [
+      {
+       "claim": "what the English keeps, drops and adds, word against word",
+       "kind": "plate"
+      },
+      {
+       "claim": "the first couplet of the passage gives the pleasure of putting them on the list as the reason for winning old women; the English lines beside it have no list",
+       "kind": "text",
+       "source": "rows 7.0–7.1; the hosted English, Act 1, block 244, lines 7–8"
+      },
+      {
+       "claim": "the second line of the aria says the catalogue is of the beauties his master loved: the Italian has the verb for loved",
+       "kind": "text",
+       "source": "row 1.0 of the same cut, word 3 (line 334 of the source file), shown in the first passage"
+      },
+      {
+       "claim": "the last line of the passage is this printing’s; the Italian printed with the English ends the aria on words that say the lady knows what he does",
+       "kind": "source",
+       "source": "the Italian column of the Rullman libretto (Internet Archive scan), at the end of the aria"
+      },
+      {
+       "claim": "of the Don Juan of legend: the calling he has chosen demands that he give up love entirely, since any fondness at all would make a name of a number on the list (scan lines 18443–18445, read again by the finisher on 2026-10-03; the caption now says this in words of its own, a woman he cared for at all would be a name and no longer a number, because the Words tab of the first passage and the list give it in the other words)",
+       "kind": "auden",
+       "source": "“Don Juan,” in The Dyer’s Hand (1962), p. 392"
+      },
+      {
+       "claim": "of Don Giovanni in the opera: what satisfies him is that the list grows by one name, and his pleasure is arithmetical (the sentence quoted at the head of the page)",
+       "kind": "auden",
+       "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 119"
+      }
+     ],
+     "stands": "The two texts side by side, and the second line of the song, shown in the first passage. The usual last line: the Italian printed with the English in the Metropolitan Opera libretto. Auden on the name added to the list: “Balaam and His Ass,” in *The Dyer’s Hand*, p. 119. Auden on love and the legend: “Don Juan,” in the same book, p. 392."
+    }
+   ]
+  },
+  {
+   "id": "duet",
+   "heading": "The duet",
+   "label": "Da Ponte, as first printed",
+   "text": "o-don-giovanni/duet",
+   "rows": [
+    "1.0-4.2"
+   ],
+   "stage": { "1.0": { "name": 0, "text": "Gio." }, "2.0": { "name": 1 }, "3.0": { "name": 1 }, "3.1": { "name": 1 }, "3.2": { "name": 1 }, "3.3": { "name": 1 }, "4.0": { "name": 2 } },
+   "speakers": { "Gio.": "Don Giovanni", "Zer.": "Zerlina", "Zar.": "Zerlina", "JUAN": "Don Giovanni" },
+   "pair": {
+    "label": "The English libretto",
+    "text": "don-giovanni/act-1",
+    "rows": [
+     "357.0-357.3",
+     "359.0-359.3",
+     "361.0",
+     "363.0",
+     "365.0",
+     "367.0",
+     "373.0-373.1"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "1.0": "a",
+      "1.1": "b",
+      "1.2": "a",
+      "1.3": "b",
+      "2.0": "c",
+      "2.1": "d",
+      "2.2": "c",
+      "2.3": "d",
+      "3.0": "e",
+      "3.1": "e",
+      "3.2": "f",
+      "3.3": "f",
+      "4.0": "g",
+      "4.1": "g",
+      "4.2": "d"
+     },
+     "tails": {
+      "1.0": 3,
+      "1.1": 1,
+      "1.2": 3,
+      "1.3": 1,
+      "2.0": 2,
+      "2.1": 2,
+      "2.2": 2,
+      "2.3": 2,
+      "3.0": 4,
+      "3.1": 4,
+      "3.2": 4,
+      "3.3": 4,
+      "4.0": 3,
+      "4.1": 3,
+      "4.2": 2
+     },
+     "caption": "The Don’s four lines rhyme by turns, and so do Zerlina’s, on new sounds. Then come four single lines, and each of hers rhymes with his line before it: <b>Masetto</b> answers <b>diletto</b>, beloved, and <b>forte</b>, strong, answers <b>sorte</b>, lot. The last three lines are for both, and their last word, <b>amor</b>, love, takes the rhyme of her <b>cor</b>, heart, and her <b>ancor</b>, yet. Her part goes from a stanza of her own to the answering half of his rhyme to a shared line. Auden, writing of the legend, says the seduction is to be a triumph of the seducer’s will.",
+     "why": "Her lines go from a stanza with rhymes of its own to the second halves of his couplets and then to lines shared with him, and Auden says the legend makes the seduction a triumph of the seducer’s will.",
+     "grounds": [
+      {
+       "claim": "which lines rhyme, and on which letters",
+       "kind": "plate"
+      },
+      {
+       "claim": "who sings which line",
+       "kind": "text",
+       "source": "the names printed before the lines in rows 2.0, 3.0–3.3 and 4.0; the first stanza continues the Don’s speech from the recitative (rows 0.0–0.5 of the cut)"
+      },
+      {
+       "claim": "two lines rhyme when they are identical from the last stressed vowel on",
+       "kind": "source",
+       "source": "Claudio Ciociola, “Rima,” in Enciclopedia dell’Italiano (2011)"
+      },
+      {
+       "claim": "of the Don Juan of legend: the seduction must be a triumph of his will and nothing else, so the woman is to feel nothing for him before he decides to make her feel it",
+       "kind": "auden",
+       "source": "“The Greeks and Us,” in Forewords and Afterwords (1973), p. 24 (of the myth of Don Juan)"
+      }
+     ],
+     "stands": "The marks on the passage, and the singers’ names in the Italian. What counts as a rhyme in Italian: the *Enciclopedia dell’Italiano* (2011), under *Rima*. Auden on the seducer’s will: “The Greeks and Us,” in *Forewords and Afterwords*, p. 24, where he speaks of the legend of Don Juan."
+    },
+    {
+     "kind": "sentence",
+     "label": "Voices",
+     "spans": [
+      {
+       "from": [
+        "1.0",
+        1
+       ],
+       "to": [
+        "1.0",
+        2
+       ],
+       "tag": "future",
+       "label": "he: futures"
+      },
+      {
+       "from": [
+        "1.1",
+        1
+       ],
+       "to": [
+        "1.1",
+        2
+       ],
+       "tag": "future"
+      },
+      {
+       "from": [
+        "3.2",
+        1
+       ],
+       "to": [
+        "3.2",
+        2
+       ],
+       "tag": "future"
+      },
+      {
+       "from": [
+        "1.2",
+        0
+       ],
+       "to": [
+        "1.2",
+        0
+       ],
+       "tag": "order",
+       "label": "he: orders and urgings"
+      },
+      {
+       "from": [
+        "1.3",
+        0
+       ],
+       "to": [
+        "1.3",
+        0
+       ],
+       "tag": "order"
+      },
+      {
+       "from": [
+        "3.0",
+        1
+       ],
+       "to": [
+        "3.0",
+        1
+       ],
+       "tag": "order"
+      },
+      {
+       "from": [
+        "1.2",
+        1
+       ],
+       "to": [
+        "1.2",
+        2
+       ],
+       "tag": "fact",
+       "label": "he: a present"
+      },
+      {
+       "from": [
+        "2.0",
+        1
+       ],
+       "to": [
+        "2.0",
+        1
+       ],
+       "tag": "would",
+       "label": "she: conditionals"
+      },
+      {
+       "from": [
+        "2.0",
+        3
+       ],
+       "to": [
+        "2.0",
+        4
+       ],
+       "tag": "would"
+      },
+      {
+       "from": [
+        "2.2",
+        3
+       ],
+       "to": [
+        "2.2",
+        3
+       ],
+       "tag": "would"
+      },
+      {
+       "from": [
+        "2.1",
+        0
+       ],
+       "to": [
+        "2.1",
+        1
+       ],
+       "tag": "is",
+       "label": "she: presents"
+      },
+      {
+       "from": [
+        "2.2",
+        1
+       ],
+       "to": [
+        "2.2",
+        2
+       ],
+       "tag": "is"
+      },
+      {
+       "from": [
+        "2.3",
+        1
+       ],
+       "to": [
+        "2.3",
+        2
+       ],
+       "tag": "is"
+      },
+      {
+       "from": [
+        "3.1",
+        1
+       ],
+       "to": [
+        "3.1",
+        3
+       ],
+       "tag": "is"
+      },
+      {
+       "from": [
+        "3.3",
+        2
+       ],
+       "to": [
+        "3.3",
+        5
+       ],
+       "tag": "is"
+      },
+      {
+       "from": [
+        "4.0",
+        2
+       ],
+       "to": [
+        "4.0",
+        3
+       ],
+       "tag": "order",
+       "label": "both: his kind of urging"
+      }
+     ],
+     "caption": "Six of the Don’s seven verbs are futures, orders or urgings: <b>dirai</b>, you will say, <b>Vieni</b>, come. A future, the reference book says, can carry an order, so all six tell her what is to happen. Three of Zerlina’s eight verbs are conditionals, the mood of a softened wish: <b>Vorrei</b>, I would like. Her other five are presents: her heart trembles, he may fool her, she is no longer strong. This printing puts her stanza in brackets, its mark for words said aside, and in it she speaks of him, not to him. Then both sing his kind of verb, <b>Andiamo</b>, let us go. Auden counts Don Giovanni among opera’s great roles, each a state of passion and will.",
+     "why": "Six of the Don’s seven verbs say what will be or what she is to do, hers wish and report, the duet ends on his kind, and Auden calls opera’s great roles, his among them, states of passion and will.",
+     "grounds": [
+      {
+       "claim": "which verbs are futures, orders, conditionals and presents, and who sings them. The count of finite verbs: his seven are three futures (rows 1.0, 1.1, 3.2), three orders or urgings (rows 1.2, 1.3, 3.0) and one present (row 1.2, word 2); her eight are three conditionals (row 2.0 twice, row 2.2) and five presents (rows 2.1, 2.2, 2.3, 3.1, 3.3); both sing one urging, said twice (row 4.0). The Don’s six futures, orders and urgings are all said to Zerlina: three are in the second person (the future of row 1.1 and the orders of rows 1.2 and 3.0), two are in the first person plural, which takes her in (rows 1.0 and 1.3), and the sixth, in the first person singular, has the word for your after it (row 3.2, word 3); so each tells her what will happen or what she is to do. Read in the proof by the finisher on 2026-10-03, for the clause added to the caption’s second sentence",
+       "kind": "plate"
+      },
+      {
+       "claim": "the forms: darem(o), dirai and cangerò are futures; vedi and vieni are imperatives; partiam(o) and andiam(o) are first persons plural used to urge; vorrei and sarei are conditionals; trema, è, può, fa and son(o) are presents; the clipped forms are troncamento",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, the paradigms under dare, dire, cangiare, vedere, venire, partire, andare, volere, essere, potere, tremare, fare; Treccani, La grammatica italiana (2012), under imperativo and troncamento"
+      },
+      {
+       "claim": "a future can state what the speaker means to do, and a future addressed to someone can carry an order, with a force close to the imperative",
+       "kind": "source",
+       "source": "Elisa De Roberto, “Futuro,” in Enciclopedia dell’Italiano (2010), sections 3.1.2 and 3.1.3"
+      },
+      {
+       "claim": "the conditional marks what is said as potential or eventual and attenuates an assertion; in a main clause the present conditional can give a request, a wish or a will in softened form, and the article’s example is the very verb of row 2.0",
+       "kind": "source",
+       "source": "Salvatore Claudio Sgroi, “Condizionale,” in Enciclopedia dell’Italiano (2010)"
+      },
+      {
+       "claim": "the printing sets words said aside in round brackets; her stanza stands in them, her next line opens a bracket that is not closed, and her last line has none",
+       "kind": "text",
+       "source": "rows 2.0–2.3, 3.1 and 3.3; the printing’s other bracketed asides at lines 268, 272, 273, 275–276 and 295 of the source file"
+      },
+      {
+       "claim": "in her bracketed stanza she speaks of him in the third person",
+       "kind": "text",
+       "source": "row 2.3"
+      },
+      {
+       "claim": "what all the great roles of opera share, and Don Giovanni is the first of the six he names, is that each one is a state of being, full of passion and of will",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 470"
+      }
+     ],
+     "stands": "The marks on the passage, and the brackets this printing sets round words said aside. The verb forms: Treccani’s *Vocabolario on line* and *La grammatica italiana*. The future that commands and the conditional that softens: the *Enciclopedia dell’Italiano* (2010), under *Futuro* and *Condizionale*. Auden on the great roles of opera: “Notes on Music and Opera,” in *The Dyer’s Hand*, p. 470."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "1.0",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "there",
+       "note": "An adverb for a place away from both the speaker and the hearer.",
+       "source": "Treccani, Vocabolario on line, under là"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "we shall join hands",
+       "note": "The dictionary says that giving the hand seals a pact, and that to ask for a girl’s hand is to ask to marry her.",
+       "source": "Treccani, Vocabolario on line, under mano; dare (the future)"
+      },
+      {
+       "row": "1.1",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "you will tell me yes",
+       "note": "The dictionary gives the last word as the one that declares the will to marry, the yes of the bride.",
+       "source": "Treccani, Vocabolario on line, under sì; dire (the future)"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "see",
+       "source": "Treccani, Vocabolario on line, under vedere (the imperative)"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        1,
+        3
+       ],
+       "gloss": "it is not far",
+       "source": "Treccani, Vocabolario on line, under lontano"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "let us leave, my dear",
+       "source": "Treccani, Vocabolario on line, under partire and bene (the noun, sense of the loved person)"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        3,
+        4
+       ],
+       "gloss": "from here",
+       "note": "The second word is an adverb for the place where the speaker is.",
+       "source": "Treccani, Vocabolario on line, under qui"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "I would, and I would not",
+       "source": "Treccani, Vocabolario on line, under volere (the conditional)"
+      },
+      {
+       "row": "2.1",
+       "w": [
+        0,
+        5
+       ],
+       "gloss": "my heart trembles a little",
+       "source": "Treccani, Vocabolario on line, under tremare"
+      },
+      {
+       "row": "2.2",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "I would be happy, true",
+       "source": "Treccani, Vocabolario on line, under essere (the conditional)"
+      },
+      {
+       "row": "2.3",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "but he may yet fool me",
+       "note": "The verb means to make a fool of someone or to deceive, and the last word is the clipped form of the adverb for still or yet.",
+       "source": "Treccani, Vocabolario on line, under burlare; Treccani, Sinonimi e Contrari (2003), under ancora (the adverb, clipped form ancor)"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "come, my fair beloved",
+       "source": "Treccani, Vocabolario on line, under venire (the imperative) and diletto"
+      },
+      {
+       "row": "3.1",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "Masetto moves me to pity",
+       "source": "Treccani, Vocabolario on line, under pietà (fare pietà)"
+      },
+      {
+       "row": "3.2",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "I will change your lot",
+       "note": "The dictionary gives the noun for the force that rules human affairs, against which human will can do nothing, and then for what that force deals to each person, whatever the person wills.",
+       "source": "Treccani, Vocabolario on line, under sorte (senses 1 and 2) and cangiare"
+      },
+      {
+       "row": "3.3",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "quick, or soon",
+       "note": "The dictionary gives the adverb first for soon, in a short time, and then for quickly, as a word used to urge someone on. The line can be taken either way.",
+       "source": "Treccani, Vocabolario on line, under presto (the adverb, senses 2a and 2b)"
+      },
+      {
+       "row": "3.3",
+       "w": [
+        2,
+        5
+       ],
+       "gloss": "I am no longer strong",
+       "source": "Treccani, Thesaurus, under forte; Treccani, Vocabolario on line, under essere (the present)"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "both together",
+       "source": "the hosted English libretto, which prints TOGETHER at this place (Act 1, block 372), and the Italian column of the Rullman libretto, which prints Duetto there"
+      },
+      {
+       "row": "4.0",
+       "w": [
+        2,
+        5
+       ],
+       "gloss": "let us go, my dear",
+       "source": "Treccani, Vocabolario on line, under andare and bene (the noun)"
+      },
+      {
+       "row": "4.1",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "to make good the pains",
+       "note": "The verb is given in literary use for repairing a harm or making up for a hurt, and the noun for suffering, as in the pains of love.",
+       "source": "Treccani, Vocabolario on line, under ristorare (sense 2) and pena (sense 2a)"
+      },
+      {
+       "row": "4.2",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "of an innocent love",
+       "note": "The adjective is given first for not guilty and then for one who has no experience of evil.",
+       "source": "Treccani, Vocabolario on line, under innocente (senses 1 and 2a)"
+      }
+     ],
+     "caption": "Just before the duet the Don tells Zerlina he will marry her this instant, in a small country house of his. Each line of his stanza has a word of place: <b>Là</b>, there, twice, then <b>non è lontano</b>, it is not far, then <b>di qui</b>, from here. Giving the hand seals a pact and the yes is a bride’s word, so his first two lines describe a wedding. Zerlina is already a bride. Earlier in the act Donna Elvira says he called her his wife and left her after three days. Auden writes of this Don that one time with a woman is enough for him.",
+     "why": "His words of place point to the house where he has said they will marry, hand and yes are wedding words, Elvira says he called her his wife and left, and Auden says one time is enough for this Don.",
+     "grounds": [
+      {
+       "claim": "the senses of là, qui, lontano, mano (to give the hand seals a pact; to ask for a girl’s hand is to ask her in marriage), sì (the word that declares the will to marry, the yes of the bride), sorte (the force against which human will can do nothing, and what it deals to each), presto (soon, and quickly), pietà, burlare, diletto, bene, ristorare, pena, innocente, tremare, forte",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, under each word; Treccani, Sinonimi e Contrari (2003), under ancora"
+      },
+      {
+       "claim": "just before the duet the Don says he will marry her this instant, that the small country house is his, that they will be alone there, and that there they will marry; the duet’s first word is that same word for there",
+       "kind": "text",
+       "source": "Italian libretto, lines 543–548 of the source file (rows 0.0–0.5 of the cut); the hosted English, Act 1, blocks 351 and 355; Treccani, Vocabolario on line, under casino (in the past, a gentleman’s house in the country), of which the libretto’s word is a diminutive"
+      },
+      {
+       "claim": "Zerlina is the bride at her own wedding party, betrothed to Masetto",
+       "kind": "text",
+       "source": "Italian libretto, the list of characters and lines 439–441 of the source file; the hosted English, Act 1, blocks 272–274"
+      },
+      {
+       "claim": "Donna Elvira tells the Don that he won her with oaths, declared her his wife, and after three days left Burgos and abandoned her",
+       "kind": "text",
+       "source": "Italian libretto, lines 280–294 of the source file; the hosted English, Act 1, block 195"
+      },
+      {
+       "claim": "of the Don Giovanni of Da Ponte and Mozart: the women’s looks are nothing to him, a single time suffices, and he does not want them to remember him",
+       "kind": "auden",
+       "source": "The Enchafèd Flood (1950), p. 107"
+      }
+     ],
+     "stands": "Treccani’s *Vocabolario on line* for each word glossed. In the English printed here, where the scene of the duet is numbered 8: what the Don promises just before the duet, [Act 1, Scene 8](#/read/don-giovanni/act-1:351); Zerlina as the bride, [Scene 7](#/read/don-giovanni/act-1:274); what Elvira says he did, [Scene 5](#/read/don-giovanni/act-1:195). Auden on the Don for whom one time is enough: *The Enchafèd Flood*, p. 107."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "1.0",
+        1,
+        4
+       ],
+       "b": [
+        "p:357.0",
+        2,
+        5
+       ],
+       "say": "The hand is kept."
+      },
+      {
+       "a": [
+        "1.1",
+        1,
+        4
+       ],
+       "b": [
+        "p:357.1",
+        0,
+        3
+       ],
+       "say": "The yes is kept. The English adds that she will whisper it gently."
+      },
+      {
+       "a": [
+        "1.2",
+        1,
+        3
+       ],
+       "b": [
+        "p:357.2",
+        1,
+        2
+       ],
+       "say": "The Italian says the place is not far. The English leaves that out and gives her the lord of a castle. Just before the duet the Italian calls the place a small country house."
+      },
+      {
+       "a": [
+        "2.1",
+        0,
+        5
+       ],
+       "b": [
+        "p:359.1",
+        0,
+        4
+       ],
+       "say": "A heart that trembles a little becomes a breast that heaves with terror."
+      },
+      {
+       "a": [
+        "2.3",
+        1,
+        3
+       ],
+       "b": [
+        "p:359.3",
+        0,
+        3
+       ],
+       "say": "Her doubt is kept: he may be fooling her."
+      },
+      {
+       "a": [
+        "3.1",
+        1,
+        4
+       ],
+       "b": [
+        "p:363.0",
+        0,
+        3
+       ],
+       "say": "In the Italian Masetto moves her to pity. In the English he has a claim on her duty, and *duty* rhymes with the last word of the line before."
+      },
+      {
+       "a": [
+        "3.2",
+        3,
+        4
+       ],
+       "b": [
+        "p:365.0",
+        4,
+        5
+       ],
+       "say": "His word can mean lot or fate. The English gives *state* here and keeps *fate* for her answer, where it makes the rhyme."
+      },
+      {
+       "a": [
+        "3.3",
+        1,
+        5
+       ],
+       "b": [
+        "p:367.0",
+        0,
+        5
+       ],
+       "say": "In the Italian she says quick, or soon, and that she is no longer strong. In the English she yields to fate."
+      },
+      {
+       "a": [
+        "4.1",
+        1,
+        3
+       ],
+       "b": [
+        "p:373.0",
+        3,
+        7
+       ],
+       "say": "The Italian goes to make good the pains of an innocent love. The English goes to share a pleasure."
+      }
+     ],
+     "caption": "The English keeps the hand, the yes and Zerlina’s doubt. In the Italian Masetto moves her to pity; in the English he <b>claims my duty</b>. In the Italian she says quick, or soon, and that she is no longer strong; in the English she yields to <b>fate</b>. The Italian word nearest to fate is <b>sorte</b>, and it is his: the lot he says he will change. Each new word answers a rhyme of two syllables: <b>beauty</b> then duty, <b>state, love</b> then fate, love. Auden and Kallman write that such rhymes are mostly comic in English, and that a tender scene is better left unrhymed than rhymed absurdly.",
+     "why": "The English gives Zerlina duty and fate where the Italian has pity and failing strength, and both new words are answering rhymes of two syllables, the kind Auden and Kallman call mostly comic in English.",
+     "grounds": [
+      {
+       "claim": "what the English keeps, changes and adds, word against word",
+       "kind": "plate"
+      },
+      {
+       "claim": "pietà with fare is to move to pity; presto is soon and also quickly, as an urging; sorte is the power that rules human affairs and also the lot it deals to each",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, under pietà, presto (senses 2a and 2b), sorte (senses 1 and 2)"
+      },
+      {
+       "claim": "before the duet the Don calls the place by a diminutive of the word for a gentleman’s house in the country",
+       "kind": "text",
+       "source": "Italian libretto, line 547 of the source file (row 0.4 of the cut); Treccani, Vocabolario on line, under casino, sense 1; the hosted English, Act 1, block 355, has only house"
+      },
+      {
+       "claim": "in each pair the new word is the second, answering rhyme: the English line that ends on the word for beauty is answered by the line that ends on duty, and the line that ends on state by the line that ends on fate",
+       "kind": "plate"
+      },
+      {
+       "claim": "rhymes of two syllables (their word is feminine) are the usual rhymes of Italian, far less common in English, and there mostly comic; where the scene is tender or grave the translator does better with no rhyme than with an absurd one",
+       "kind": "auden",
+       "source": "W. H. Auden and Chester Kallman, “Translating Opera Libretti,” in The Dyer’s Hand (1962), p. 488"
+      }
+     ],
+     "stands": "The two texts side by side. *Pietà*, *presto* and *sorte*: Treccani’s *Vocabolario on line*. The country house, which the English calls only a house: [Act 1, Scene 8](#/read/don-giovanni/act-1:355), as the English numbers it. Auden and Kallman on rhymes of two syllables in English: “Translating Opera Libretti,” in *The Dyer’s Hand*, p. 488."
+    }
+   ]
+  }
+ ],
+ "auden": [
+  {
+   "says": "When Leporello, in his first song, says he wants to play the gentleman, the audience laughs, Auden notes, because he has nothing of the master about him. By the end, he thinks, the joke turns round, and the servant may have been the master from the start. The list is in Leporello’s keeping, and without it the Don would have no reason for being. The Don is never shown looking at the list or enjoying it. His part is to bring the newest name. Auden also calls him a figure of myth: there are promiscuous men, but none in life to whom the women’s bodies make no difference at all.",
+   "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 118 and 120–21",
+   "checked": "read in the scan of The Dyer’s Hand, scratchpad research/auden/dh.txt, lines 5655–5659 and 5727–5763; the two lines of the motto are lines 43–44 of the Italian source file; read again by the examiner on 2026-10-03; made one entry with the entry on pp. 119 and 121 by the finisher on 2026-10-03, who read lines 5650–5812 again: the laugh at the opening song is at lines 5739–5743 (p. 120), and what Leporello sings there is the first line of the motto, line 5656 (p. 118); the joke and the master, the keeper of the list and the reason for being at lines 5743–5749; never seen to look, and the latest name, at lines 5749–5752; the figure of myth and the men met in life at lines 5794–5798 (p. 121). The Duke (lines 5694–5698, p. 119) went to the view, where the staging of the Don is said too. Dropped: that Auden sets the two lines at the head of his section, and the second of them"
+  },
+  {
+   "says": "Writing of the legend in general, Auden pairs Don Juan with Tristan and Isolde as two modern myths of love that the Greeks could not have had. What matters to Don Juan about a woman is only that she is one. The list is what makes the myth foreign to the Greeks. He means to be the first man every woman has known, and each is the next number in an endless series. Time is his enemy because it repeats. Auden says both myths are sicknesses that only a Christian imagination could have bred.",
+   "source": "“The Greeks and Us,” in *Forewords and Afterwords* (1973), pp. 23–25",
+   "checked": "read in the scan of Forewords and Afterwords, scratchpad research/auden/fa.txt, lines 1150–1262; read again by the examiner on 2026-10-03 (the even page numbers stand at the foot of their pages in this scan); read again by the finisher on 2026-10-03: the sentence on the man nobody notices (lines 1182–1186, p. 24) was taken out of the entry, since the head of the page says it of the opera’s Don; the class of women is at lines 1192–1195, and the Figure tab of the close and the fourth caveat stand on it"
+  },
+  {
+   "says": "Auden, writing on Byron’s poem, says it is his will, and no bent of his nature, that makes the Don Juan of legend promiscuous. He has made seduction his calling. Any fondness would make a name of a number on the list, so the calling demands that he give up love. The legend therefore needs him to be a defiant unbeliever, the demonic reverse of the saint who denies himself and prefers no neighbor to another, so that he can be charitable to every one. Byron’s hero has five women in two years, which is little beside the thousand and three in Spain that Leporello reads out.",
+   "source": "“Don Juan,” in *The Dyer’s Hand* (1962), p. 392",
+   "checked": "read in the scan of The Dyer’s Hand, scratchpad research/auden/dh.txt, lines 18438–18466 (p. 392 begins at line 18433)"
+  },
+  {
+   "says": "In *The Enchafèd Flood* Auden puts the Don of Da Ponte and Mozart among the heroes who leave everyone else behind. A seducer looks like a man absorbed in women, and Auden says this one is not. One time is enough for him, and he does not want them to remember him. Some do, and that brings him down. What holds his interest is the tally itself, how many names his private book has reached.",
+   "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 107",
+   "checked": "read in the scan of The Enchafèd Flood, scratchpad research/auden/ef.txt, lines 4437–4449; the page number is at the foot of the page, line 4458; read again by the finisher on 2026-10-03: once, and not remembered, at lines 4441–4443; the clause on the women’s looks (line 4441) was taken out of the entry, since the list now says that once, under “Balaam and His Ass”; the ground of the Words tab of the duet still records it"
+  },
+  {
+   "says": "Auden quotes Shaw, who sided with Beethoven against Mozart for giving what is glad, tender and noble in him to a libertine in his cups, a foolish peasant girl and a fine lady of the usual kind. Auden answers that Mozart was right, since such feelings are everybody’s. Opera, he says, copies human willfulness: people insist on having their feelings, whatever it costs them. Each great role, Don Giovanni first in his list, is one state of passion and will. In song, he believes, the listener hears syllables and not the words of a poem. For that reason he is in general against performing operas in translation.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), pp. 469–70 and 473",
+   "checked": "read in the scan of The Dyer’s Hand, scratchpad research/auden/dh.txt, lines 22088–22150 and 22236–22289; read again by the examiner on 2026-10-03 (Shaw and the answer on p. 469; willfulness, character and the great roles on p. 470; what is reported of the words stands on p. 473, whose running head is at line 22253); made one entry of two by the finisher on 2026-10-03, who read lines 22084–22156 and 22228–22296 again: Shaw at 22092–22098, the answer at 22100–22103, willfulness at 22121–22124, the great roles at 22145–22147, syllables at 22271–22274 and 22278–22280, against translation at 22280–22281. Dropped: the sentence on character as a novel shows it (22124–22128), and the verses written for the composer and then spared (22261–22267); the entry on “Translating Opera Libretti” says the like from p. 493"
+  },
+  {
+   "says": "With Chester Kallman, Auden put the words of this opera into English. They write that a translation has to match the rhythm of the music as sung, which is not the rhythm of the verse as spoken. Italian rhymes mostly on two syllables. English seldom does, and then the effect is usually comic, which in Leporello’s catalogue song can help. A librettist’s own verses, they say, have only to inspire the composer, and before Wagner and the Verdi of the middle years they followed conventions that any able writer of verse could learn.",
+   "source": "W. H. Auden and Chester Kallman, “Translating Opera Libretti,” in *The Dyer’s Hand* (1962), pp. 484–85, 488 and 493",
+   "checked": "read in the scan of The Dyer’s Hand, scratchpad research/auden/dh.txt, lines 22759–22792, 22958–22968 and 23224–23250"
+  },
+  {
+   "says": "In June 1941, a few months before the course began, Auden reviewed Denis de Rougemont’s *Love in the Western World*. He says there that the legend of Tristan calls up its reverse, the legend that reaches its height in Mozart’s *Don Giovanni*, where the present moment is everything. For Tristan time is an evil to be endured and for Don Juan an evil to be destroyed, so that the one is like a man who kills himself and the other like a man who kills.",
+   "source": "“Eros and Agape,” *The Nation*, 28 June 1941; reprinted in his *Prose*, vol. II (2002), pp. 137–40",
+   "checked": "not seen in full: read only in the extracts given in remake/research/C_auden_on_works.md, section 26 and appendix H17j (which the research notes mark as verified from snippets); the examiner read those extracts again on 2026-10-03 and could not open a full copy. The reader is told so in the caveats and in the sources"
+  },
+  {
+   "says": "Donald Pearce, who took the course, recalls that at the interview for admission Auden listed some of the authors and added that there would be operas too, in score and libretto: *Carmen*, *Don Giovanni* and *Tristan and Isolde*.",
+   "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 133",
+   "checked": "read in the scan, scratchpad research/auden/pearce.txt; read again by the examiner on 2026-10-03: the page number stands at the foot, and the sentence lies between the foot numbers 132 and 133, so it is on p. 133 (the account of the interview begins in the last line of p. 132)"
+  }
+ ],
+ "next": "don-giovanni/act-1:0",
+ "sources": [
+  "The Italian text: Lorenzo Da Ponte’s libretto for Mozart’s *Don Giovanni*, as Italian Wikisource transcribes the printing of Eduardo Ducci (Florence, 1867). The transcription was checked against the copy of that printing at the Internet Archive.",
+  "The English text: the unsigned version in the Italian and English libretto that Fred Rullman of New York published for the Metropolitan Opera House, as printed here. Its Italian column was used to check the Florence printing.",
+  "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Balaam and His Ass,” pp. 118–21; “Don Juan,” p. 392; “Notes on Music and Opera,” pp. 469–70 and 473; and, with Chester Kallman, “Translating Opera Libretti,” pp. 484–85, 488 and 493.",
+  "W. H. Auden, “The Greeks and Us,” in *Forewords and Afterwords* (1973), pp. 23–25.",
+  "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 107.",
+  "W. H. Auden, “Eros and Agape,” *The Nation*, 28 June 1941, reprinted in his *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 137–40. Not seen in full: read for this page only in extracts.",
+  "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 133.",
+  "Treccani, *Vocabolario on line* (treccani.it), under each Italian word glossed; *Thesaurus* (2018), under *conquista* and *forte*; *Sinonimi e Contrari* (2003), under *ancora*.",
+  "Treccani, *La grammatica italiana* (2012), under *soggetto*, *imperativo* and *troncamento*.",
+  "*Enciclopedia dell’Italiano* (Treccani, 2010–11): Claudio Ciociola, “Versificazione” and “Rima”; Sergio Bozzola and Luciano Romito, “Sinalefe”; Elisa De Roberto, “Futuro”; Salvatore Claudio Sgroi, “Condizionale”; Angela Ferrari, “Anafora.”",
+  "Treccani, *Enciclopedia on line*, under *Decasillabo*, *Sineresi* and Mozart; *Enciclopedia Italiana* (1931), under *Decasillabo*.",
+  "*Silva Rhetoricae* (rhetoric.byu.edu), under *anaphora*.",
+  "Paull F. Baum, *The Principles of English Versification* (1922), chapter 4."
+ ],
+ "caveats": [
+  "The Italian is the Florence printing of 1867 as Italian Wikisource gives it, with its slips, such as *Zar.* for Zerlina. In the second passage one line begins with *but* where the Italian printed with the English has *his*, and the last line is not the one usually sung.",
+  "The stanza breaks were made for this page and follow the rhymes. The stresses marked are those of the verse read aloud. In the opera words and lines are repeated, and Auden and Kallman say that the rhythm of verse as sung is not its rhythm as spoken.",
+  "Two places in the act go against Auden’s account. Just before the second passage Leporello says his master wants the plump in winter and the thin in summer. Later the Don tells Leporello to add ten names by morning to what he calls his list.",
+  "Auden’s sentences on the first lover, the class of women and giving up love are about the legend, not this opera. He held that opera verse before Wagner was a convention, heard as syllables, so the close reading is this page’s own. His 1941 review was read only in extracts.",
+  "The English beside the Italian is an unsigned version printed for an opera house. It is free and appears to be made to fit the music. From the wedding on it numbers the scenes one behind the Italian. The first word of Zerlina’s last line can mean quick or soon."
+ ],
+ "open": [
+  "Auden’s review “Eros and Agape” (The Nation, 28 June 1941) and his “Opera Addict” (1948) are known to me only from the extracts in the research notes (C, section 26 and appendix H17j, H17h). The entry on the 1941 review in the auden list rests on those extracts; “Opera Addict” is not used.",
+  "No libretto of 1787 or 1788 was opened. That the Florence printing of 1867 departs from the usual text (the long form of the word for pleasure in row 7.1, the last line of the catalogue in row 9.3) rests on the Italian column of the Rullman libretto and on Treccani’s quotation of four lines under conquista.",
+  "Whether the brackets round Zerlina’s lines in the duet are Da Ponte’s or the printer’s is not known. The Rullman Italian column has none. The caption says only that this printing has them.",
+  "The stanza breaks of both cuts are mine, set by rhyme and by change of singer. The Wikisource transcription has blank lines after the second and third lines of the aria and none elsewhere in these passages; the page images of the 1867 printing were not seen, only its machine-read text.",
+  "Page numbers of Auden’s books are taken from the running heads and foot numbers of the scans.",
+  "Nothing was checked against a score. The scansion is of the verse as read, and the claim that the hosted English was made for singing is inferred from its meter and from where it was printed.",
+  "The gloss of the direction before the last three lines of the duet (both together) rests on the Rullman libretto, whose English prints TOGETHER and whose Italian prints Duetto at that place, and not on a dictionary.",
+  "On p. 119 of The Dyer’s Hand Auden quotes rows 9.0–9.2 of the catalogue. In the scan the first word of his third line reads as the word for because where the libretto has provided that. I did not see the printed page and say nothing of it in the reading.",
+  "The date of the first performance (Prague, 29 October 1787) is from Treccani’s entry on Mozart.",
+  "From the examiner: the English tab of the second passage was rewritten. The caption had said that the English brings in love where the Italian has none, and that the Italian is the text for Auden’s reading. The second line of the song (row 1.0 of the cut, word 3) has the verb for loved, so the contrast was false. The caption now rests on the couplet of rows 7.0–7.1, which gives the pleasure of the list as the reason and which the English replaces with praise of the Don’s talk.",
+  "From the examiner: the Voices tab of the duet no longer rests on Auden’s sentence about potentiality (The Dyer’s Hand, p. 470), which is about character as a novel shows it and not about the mood of a verb, nor on the claim that Da Ponte keeps her conditionals to one stanza, which no ground bore. It rests on a count of the finite verbs (his seven, her eight) and on Auden’s sentence about the great roles on the same page. Two marks were added (rows 1.2 and 2.2). The span where both sing now carries the tag of the Don’s orders, with a label of its own, so the tab has five kinds of mark; a color of its own for that span would make six, and the checker warns at six.",
+  "From the examiner: the Words tab of the duet no longer rests on Auden’s sentence about time (The Dyer’s Hand, p. 184). It rests on what Elvira says the Don did to her (lines 280–294 of the source file; the hosted English, Act 1, block 195) and on The Enchafèd Flood, p. 107, where Auden says of this Don that a single time is enough.",
+  "From the examiner: in row 1.0 of the first passage (words 3 and 4) the article is counted with the stressed last syllable of the verb before it. The kit ties an uncounted syllable only to the syllable after it, so the tie is drawn on the wrong side, and the second remark of the Beat tab tells the reader. If the kit learns to tie backward, the last sentence of that remark should go.",
+  "From the examiner: the duet stands in Scene 9 of the Italian, and the label of the cut says so. The hosted English puts it in Scene 8, since from the wedding on it numbers the scenes one behind. The links in the printed notes follow the English numbers, and the fifth caveat tells the reader.",
+  "From the examiner: two places in the act sit against what Auden says on pp. 119–20 of The Dyer’s Hand, and both are in the third caveat: what Leporello says his master wants in winter and in summer (rows 6.4 and 6.5 of the cut, just before the second passage; rows 6.0–6.3 give what he praises in the fair, the dark and the pale), and the Don’s own song later in the act (lines 840–843 of the source file), where he calls the list his and orders ten names added by morning. The captions say that Auden writes these things, not that they are so.",
+  "From the examiner: two glosses can be taken another way and the caveats say so. The first word of row 8.0 of the catalogue is the word for but in this printing and in Treccani’s quotation, and the word for his in the Italian column of the Rullman libretto. Presto in row 3.3 of the duet is glossed quick, or soon, and the dictionary gives soon first.",
+  "From the finisher: the list of what Auden said has eight entries (it had eleven). “Postscript: Infernal Science” came out whole, with its quotation, so the page has one quotation of Auden now, the 22 words at the head, and may take one more. The two entries from “Balaam and His Ass” are one, and so are the two from “Notes on Music and Opera”; what each lost is in its checked, and the entries as they stood are at the end of notes.md. That the women’s looks make no difference is said outright once, under “Balaam and His Ass” (p. 121), where the Figure tab of the close leans on it. “The Greeks and Us” keeps the class of women, on which that tab and the fourth caveat stand. The entry on The Enchafèd Flood no longer says it; the ground of the Words tab of the duet still does.",
+  "From the finisher: the paraphrase at the head no longer says the quotation over again. It gives the Duke (p. 119), whom the list used to give, and joins the looks and the stamps with and. On Auden’s page the link between those two is one of result (his looks are to be neutral enough for the audience to see that stamps would have done); the page does not claim it.",
+  "From the finisher: before Wagner in the fourth caveat (the critic’s change 35) was tested against p. 493 of The Dyer’s Hand (scan lines 23241–23246) and kept. The page marks the time by two composers, Wagner first, then the Verdi of the middle years; the caveat is at its fifty words and names the first only. The essay is Auden and Kallman’s, and the caveat says He.",
+  "From the finisher: the Voices tab of the duet has one clause more in its second sentence (all six tell her what is to happen). It is the page’s own observation, read in the lines, and it gives Auden’s sentence on the great roles something in the caption to answer to. The caption is at 119 words. If the lead thinks it more than the lines bear, the clause comes out and nothing else changes."
+ ]
+}

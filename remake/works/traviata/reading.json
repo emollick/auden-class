@@ -1,0 +1,1797 @@
+{
+ "piece": "traviata",
+ "title": "Violetta alone",
+ "where": "*La Traviata*, Act 1, Scenes 3 and 5, and the last lines of Act 3",
+ "about": "Violetta Valery, a Paris courtesan, is the title’s *traviata*, the woman led astray. At a party in her house Alfredo Germont tells her he has loved her for a year; she has only friendship to give, she says, and hands him a flower to bring back the next day. The guests leave, and for the rest of the act she is alone on the stage. The third passage is the end of the opera: she is dying of consumption, with Alfredo, his father, her maid and the Doctor beside her.",
+ "view": {
+  "says": "Auden wrote no essay on this opera but took an example from its last scene. Opera, he held, is about human willfulness: people will have their feelings, cost what it may. What is sung is so, and a singer cannot be shown deceiving herself as a character in a play can. At most the orchestra may contradict the singer, as it does, he says, when Germont comes to Violetta’s deathbed.",
+  "quote": "Self-deception is impossible in opera because music is immediate, not reflective; whatever is sung is the case.",
+  "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), pp. 470–71",
+  "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, on 2026-10-03: lines 22121-22124 (p. 470: willfulness, the cost) and 22164-22185 (p. 471: the Mistake, self-deception, and the sentence that names La Traviata; the words quoted are lines 22178-22180). The running heads stand at the top of their pages (p. 470 at line 22110, p. 471 at line 22157). Germont comes in at the head of the last scene of the libretto. Also in remake/research/C_auden_on_works.md, section 33."
+ },
+ "plates": [
+  {
+   "id": "refrain",
+   "indent": ["5.0-5.3"],
+   "place": "Piave, *La Traviata*, Act 1: the duet, and Violetta’s scene alone",
+   "heading": "His four lines in her song",
+   "text": "o-traviata/act-1",
+   "label": "Piave’s libretto, as first printed: Alfredo, then Violetta",
+   "rows": [
+    "0.3-1.3",
+    "3.0-3.1",
+    "4.7-5.3"
+   ],
+   "pair": {
+    "label": "The English libretto: a free version in rhymes of its own",
+    "text": "traviata/act-1",
+    "rows": [
+     "209.3-209.7",
+     "267.0-267.1",
+     "270.7-270.10"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "figure",
+     "label": "Refrain",
+     "name": "refrain",
+     "plain": "words that come back at a set place in a song or poem; here they were first sung by another voice",
+     "draw": "align",
+     "join": [
+      [
+       6,
+       7
+      ],
+      [
+       8,
+       9
+      ]
+     ],
+     "parts": [
+      {
+       "row": "1.1",
+       "w": [
+        0,
+        1
+       ],
+       "tag": "same",
+       "label": "the same lines"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        0,
+        1
+       ],
+       "tag": "same",
+       "label": "the same lines"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        0,
+        4
+       ],
+       "tag": "same",
+       "label": "the same lines"
+      },
+      {
+       "row": "5.1",
+       "w": [
+        0,
+        1
+       ],
+       "tag": "same",
+       "label": "the same lines"
+      },
+      {
+       "row": "5.2",
+       "w": [
+        0,
+        1
+       ],
+       "tag": "same",
+       "label": "the same lines"
+      },
+      {
+       "row": "5.3",
+       "w": [
+        0,
+        4
+       ],
+       "tag": "same",
+       "label": "the same lines"
+      },
+      {
+       "row": "0.3",
+       "w": [
+        2,
+        2
+       ],
+       "tag": "hook",
+       "label": "love, that love"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "hook",
+       "label": "love, that love"
+      },
+      {
+       "row": "4.7",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "hook",
+       "label": "love, that love"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "hook",
+       "label": "love, that love"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "noun",
+       "label": "the soul"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "noun",
+       "label": "heartbeat"
+      },
+      {
+       "row": "3.1",
+       "w": [
+        0,
+        3
+       ],
+       "tag": "said",
+       "label": "his words, carved"
+      }
+     ],
+     "caption": "Alfredo ends his declaration with four lines on what love is, hung from <i>amor</i>, love, the last word of the line before. Alone, Violetta says his words are <i>scolpiti</i>, carved, in her heart, and both stanzas of her slow song close on them. The first printing sets them deeper in than her own lines. Three lines return word for word; the first is refitted, and his <i>l’anima</i>, the soul, becomes <i>palpito</i>, heartbeat. Auden held that in opera self-deception cannot be sung, because what is sung is so. Her song bears her out: where she says what love is, the words are his. An early study says his tune returns too.",
+     "why": "Piave closes both stanzas of Violetta’s song on Alfredo’s lines, so what she has just said, that his words are carved in her heart, is shown to be so; Auden held that in opera what is sung is so.",
+     "grounds": [
+      {
+       "claim": "the three lines marked are the same words in both places; the first of the four differs in its first word and in its noun; each time the four lines follow a line that ends in the word for love and begin with that love",
+       "kind": "plate"
+      },
+      {
+       "claim": "Alfredo's eight lines stand in the duet of Act 1, Scene 3, and the last four say what love is; Violetta, alone, says she has those words carved in her heart; her slow song has two stanzas of twelve lines and each ends with the four lines (in the second stanza the first of them is refitted again and the other three are the same words; only the commas and the last stop differ from place to place)",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 238-245 (Alfredo), 296-297 (the recitative) and 304-328 (the slow song); hosted English traviata/act-1 blocks 209, 267, 270"
+      },
+      {
+       "claim": "in the first printing Alfredo's eight lines are set as two groups of four, the first line of each hanging; in both stanzas of Violetta's song the four lines are set deeper in than the eight lines before them, the first of the four hanging",
+       "kind": "source",
+       "source": "the page images of the first printing (Venice: Teresa Gattei, for the season of 1852-53), seen 2026-10-03 at Wikimedia Commons, File:La traviata.djvu, the scan Italian Wikisource transcribes (a copy stamped Bayerische Staatsbibliothek München), pages 9, 10 and 11"
+      },
+      {
+       "claim": "scolpire, figurative: to fix something firmly so that it lasts, as in the memory, the mind, the heart; anima: the vital principle of a person; palpito: each beat of the heart, and a strong emotion",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: scolpire (2a), anima (1), palpito (1, 2a)"
+      },
+      {
+       "claim": "the refrain is a frequent kind of repetition, an element of stanza form: a line or part of a line repeated according to the metrical pattern",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5 (line 6491 of .cache/handbooks/baum-versification-pg21342.txt) and the glossary under Refrain (line 7532)"
+      },
+      {
+       "claim": "in Verdi's music Alfredo's phrase on these lines is \"characteristic\" and is repeated several times in the act; in the andantino of Violetta's aria the characteristic phrase proper to Alfredo is repeated, with a richer accompaniment",
+       "kind": "source",
+       "source": "Abramo Basevi, Studio sulle opere di Giuseppe Verdi (Florence, 1859), pp. 233-34, read in the scan text at archive.org (bub_gb_bbwDAwQq-voC; lines 9527-9567 of the saved text)"
+      },
+      {
+       "claim": "the words of Alfredo's line (given with the heartbeat noun) are set to a phrase that Violetta repeats in her slow song; she repeats, in the nature of a refrain, the measures already sung by Alfred",
+       "kind": "source",
+       "source": "Gustav Kobbé, The Complete Opera Book (New York and London: G. P. Putnam's Sons, 1919), on La Traviata, Act I (Project Gutenberg no. 40540, lines 14666-14685 of the text fetched 2026-10-03). A second witness for the return of the tune, found and read by the examiner."
+      },
+      {
+       "claim": "the sentence quoted in the view: opera cannot show a person deceiving himself, since what is sung is so",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 471 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22178-22180)"
+      }
+     ],
+     "stands": "The marks on the passage; [Alfredo’s song](#/read/traviata/act-1:209) and [Violetta’s scene alone](#/read/traviata/act-1:267) in the Italian libretto, and pages 9 to 11 of its first printing for their setting. Treccani’s *Vocabolario* under *scolpire*, *anima* and *palpito*; Baum’s glossary under Refrain. Basevi’s study of Verdi’s operas (1859), pp. 233–34, and Kobbé’s *Complete Opera Book* (1919), for the return of the tune. Auden, “Notes on Music and Opera,” *The Dyer’s Hand*, p. 471."
+    },
+    {
+     "kind": "beat",
+     "label": "Measure",
+     "meterName": "seven syllables by the Italian count: the last accent always on the sixth",
+     "scan": {
+      "0.3": {
+       "meter": "...../",
+       "voice": "/x x/~ x/",
+       "div": {
+        "0": "Vis|si",
+        "1": "d’i|gno|to",
+        "2": "a|mor."
+       }
+      },
+      "1.0": {
+       "meter": "...../..",
+       "voice": "x xx/ x /xx",
+       "div": {
+        "1": "quel|l’a|mor",
+        "3": "l’a|ni|ma"
+       }
+      },
+      "1.1": {
+       "meter": "...../.",
+       "voice": "xxx/~ x/x",
+       "div": {
+        "0": "Del|l’u|ni|ver|so",
+        "1": "in|te|ro,"
+       }
+      },
+      "1.2": {
+       "meter": "...../.",
+       "voice": "xxx/~ x/x",
+       "div": {
+        "0": "Mi|ste|rï|o|so,",
+        "1": "al|te|ro,"
+       }
+      },
+      "1.3": {
+       "meter": "...../",
+       "voice": "/~ x x/~ x /",
+       "div": {
+        "0": "Cro|ce",
+        "2": "de|li|zia"
+       }
+      },
+      "3.0": {
+       "meter": "...../.",
+       "voice": "x /~ x /~ x /x",
+       "div": {
+        "1": "stra|no!..",
+        "3": "stra|no!..",
+        "5": "co|re"
+       }
+      },
+      "3.1": {
+       "meter": "...../.",
+       "voice": "x/~ x /~ x/x",
+       "div": {
+        "0": "Scol|pi|ti",
+        "2": "que|gli",
+        "3": "ac|cen|ti!..."
+       }
+      },
+      "4.7": {
+       "meter": "...../",
+       "voice": "x/x~ xx/",
+       "div": {
+        "0": "De|stan|do|mi",
+        "1": "al|l’a|mor."
+       }
+      },
+      "5.0": {
+       "meter": "...../..",
+       "voice": "x xx/ x /xx",
+       "div": {
+        "1": "quel|l’a|mor",
+        "3": "pal|pi|to"
+       }
+      },
+      "5.1": {
+       "meter": "...../.",
+       "voice": "xxx/~ x/x",
+       "div": {
+        "0": "Del|l’u|ni|ver|so",
+        "1": "in|te|ro,"
+       }
+      },
+      "5.2": {
+       "meter": "...../.",
+       "voice": "xxx/~ x/x",
+       "div": {
+        "0": "Mi|ste|rï|o|so,",
+        "1": "al|te|ro,"
+       }
+      },
+      "5.3": {
+       "meter": "...../",
+       "voice": "/~ x x/~ x /",
+       "div": {
+        "0": "Cro|ce",
+        "2": "de|li|zia"
+       }
+      }
+     },
+     "points": [
+      {
+       "at": [
+        "1.0",
+        3,
+        3
+       ],
+       "say": "A sliding ending: two unstressed syllables follow the last accent, so eight syllables are heard. Of the four lines this one alone has no rhyme."
+      },
+      {
+       "at": [
+        "1.1",
+        0,
+        1
+       ],
+       "say": "The vowel that ends the first word runs into the vowel that begins the second, and the two count as one syllable."
+      },
+      {
+       "at": [
+        "1.3",
+        4,
+        4
+       ],
+       "say": "The line stops on its last accent, so six syllables are heard. The line before the four ends the same way, and the two rhyme."
+      },
+      {
+       "at": [
+        "3.0",
+        0,
+        5
+       ],
+       "say": "Her recitative, the sung speech before the song, begins with two lines of the same measure. Recitative mixes lines of seven and of eleven syllables freely."
+      },
+      {
+       "at": [
+        "4.7",
+        1,
+        1
+       ],
+       "say": "Her eighth line ends as the line before his four did: cut short, on the word for love."
+      }
+     ],
+     "caption": "By the Italian count every line here is a seven: its last accent falls on the sixth syllable, and eight, seven or six syllables are heard as two unstressed ones follow, or one, or none. Alfredo’s four go eight, seven, seven, six and stop on <i>cor</i>, heart, rhymed with <i>amor</i>, love. Violetta’s song is in the same measure and ends its eighth line on <i>all’amor</i>, to love, so his four lines close her stanza without a seam. The mixed endings mark the form that became the opera aria. Auden and Kallman wrote that a convention of forms, settled before Verdi’s middle years, assured the composer a text he could set.",
+     "why": "Violetta’s song keeps Alfredo’s measure and reaches his rhyme word, so his lines close her stanza without a seam; it is the stock form of the opera aria, which gave the composer a text he could set.",
+     "grounds": [
+      {
+       "claim": "each of the twelve rows has its last stress on the sixth syllable; rows 1.0 and 5.0 end sliding (eight heard), rows 0.3, 1.3, 4.7 and 5.3 end on the stress (six heard), the rest end plainly (seven); 1.3 rhymes with 0.3 and 5.3 with 4.7; 1.1 with 1.2",
+       "kind": "plate"
+      },
+      {
+       "claim": "all twenty-four lines of the slow song and Alfredo's eight are lines of seven by this count; the eighth line of her first stanza ends on the word for love; the recitative's eight lines are sevens and elevens (7, 7, 11, 11, 11, 11, 7, 11)",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 238-245, 296-303 and 304-328, counted line by line by the Italian rules"
+      },
+      {
+       "claim": "the name of an Italian line depends on the number of its last stressed position, plus one; the line stays the same whatever unstressed syllables follow that stress; two vowels meeting between words generally count as one syllable; the settenario has its last stress on the sixth, and a sliding one has eight syllables",
+       "kind": "source",
+       "source": "Claudio Ciociola, \"versificazione\" and \"metrica e lingua\", Enciclopedia dell'Italiano (2011), at treccani.it; Treccani, Enciclopedia on line, \"sdrucciolo\""
+      },
+      {
+       "claim": "cut and sliding sevens were taken up in the ode-canzonetta, a form that likes short lines and mixes plain, cut and sliding rhymes; it became the typical form of the opera aria, whereas recitative is a free discourse of elevens and sevens; the cut rhyme in a consonant, of the type amor : cor, is characteristic of the form through the nineteenth century",
+       "kind": "source",
+       "source": "Claudio Ciociola, \"settenario\" and \"rima\", Enciclopedia dell'Italiano (2011), at treccani.it"
+      },
+      {
+       "claim": "until Wagner and the Verdi of the middle years composers took the libretto they were given; an agreed convention of styles and forms, which an able versifier could learn, made sure the text could be set",
+       "kind": "auden",
+       "source": "W. H. Auden and Chester Kallman, “Translating Opera Libretti,” in The Dyer’s Hand (1962), p. 493 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 23241-23248)"
+      }
+     ],
+     "stands": "The syllables counted and marked on the passage, and the same count made on every line of Alfredo’s song, her recitative and her slow song in the Italian libretto. Claudio Ciociola’s articles *versificazione*, *metrica e lingua*, *settenario* and *rima* in the *Enciclopedia dell’Italiano* (2011); Treccani’s encyclopedia under *sdrucciolo*. Auden and Kallman, “Translating Opera Libretti,” *The Dyer’s Hand*, p. 493."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "0.3",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "I lived on unknown love",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: vivere (pass. rem. vissi), ignoto, amore"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "of that love which is",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: amore; the line goes on from the line before"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        3,
+        3
+       ],
+       "gloss": "the soul",
+       "note": "*Anima* is the principle of life in a person, the seat of thought, feeling and will. As sung, to judge by old librettos that print the words with the music, Alfredo has *palpito* here too.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: anima (1); the Italian column of the Rullman libretto (scratchpad research/texts/verdi_traviata_rullman_ia_ocr.txt, line 592); Basevi (1859), p. 233, who quotes Alfredo's line with palpito"
+      },
+      {
+       "row": "1.1",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "of the whole universe",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: universo, intero (1a)"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "mysterious, proud",
+       "note": "*Altero* is majestic, and also proud, said of a person or a manner that knows its own superiority.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: misterioso; altero (2a, 2b)"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "cross and delight",
+       "note": "*Croce*, cross, has the figurative sense of pain, torment, tribulation. *Delizia* is intense pleasure. The phrase is still a saying in Italian.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: croce (1c), delizia; Fabio Rossi, \"melodramma, lingua del\", Enciclopedia dell'Italiano (2011), on phrases from librettos that are still proverbial"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        3,
+        4
+       ],
+       "gloss": "to the heart",
+       "note": "*Cor* is a cut form of *core*, which the dictionary marks as the popular and poetic form of *cuore*.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: cuore (\"pop. e poet. còre\")"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "it is strange",
+       "note": "*Strano*: out of the ordinary, so as to cause wonder. The dictionary adds that it is often said of what also troubles the mind and cannot be explained.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: strano (1a)"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        4,
+        5
+       ],
+       "gloss": "in my heart",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: cuore; the possessive is understood"
+      },
+      {
+       "row": "3.1",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "I have those words carved",
+       "note": "*Scolpire* is to cut stone with a chisel, and in a figurative sense to fix a thing so that it lasts: in the memory, the mind, the heart. *Accenti* for words is marked poetic.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: scolpire (1a, 2a); accento (4, \"poet. Voce, parola\")"
+      },
+      {
+       "row": "4.7",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "waking me to love",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: destare (1), amore"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "to that love which is",
+       "note": "The first word is now *a*, to. The line hangs from the last words of the line before, to love.",
+       "source": "the text"
+      },
+      {
+       "row": "5.0",
+       "w": [
+        3,
+        3
+       ],
+       "gloss": "heartbeat",
+       "note": "Each single beat of the heart, and in a figurative sense a strong emotion.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: palpito (1, 2a)"
+      }
+     ],
+     "caption": "The four lines call love the soul (in her song, the heartbeat) of the whole universe, mysterious, <i>altero</i>, proud, and <i>croce e delizia</i>, cross and delight, to the heart. Torment and pleasure are joined by nothing more than <i>e</i>, and. <i>Cor</i> for heart and <i>accenti</i> for words are forms the dictionary marks as poetic, the old stock of libretto verse. The woman who repeats them is a courtesan, Auden’s own word for Violetta. He held that everybody has joyful, tender and noble feelings, and that opera can show it where spoken drama cannot: a song may come at the wrong moment, never from the wrong person.",
+     "why": "Piave gives a courtesan the old poetic words for love as the heartbeat of the universe and a cross to the heart; Auden held that such feelings belong to everybody and that opera, unlike spoken drama, can show it.",
+     "grounds": [
+      {
+       "claim": "the four lines say that love is the soul (in Violetta's stanza the heartbeat) of the whole universe, mysterious, proud, cross and delight to the heart",
+       "kind": "text"
+      },
+      {
+       "claim": "croce, figurative: pain, torment, tribulation; delizia: intense pleasure; altero: majestic, proud; còre is the popular and poetic form of cuore; accento in the sense of voice or word is poetic",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: croce (1c), delizia, altero (2a, 2b), cuore, accento (4)"
+      },
+      {
+       "claim": "the language of librettos is made of archaism, courtly words, anti-realism and predictability, a quintessence of the traditional poetic language; the phrase for cross and delight from La Traviata is still proverbial",
+       "kind": "source",
+       "source": "Fabio Rossi, \"melodramma, lingua del\", Enciclopedia dell'Italiano (2011), at treccani.it"
+      },
+      {
+       "claim": "Auden's word for Violetta is courtesan",
+       "kind": "auden",
+       "source": "Auden and Kallman, “Translating Opera Libretti,” in The Dyer’s Hand (1962), p. 491 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 23107-23108); “Cav & Pag,” p. 478 (lines 22487-22488)"
+      },
+      {
+       "claim": "joyful, tender and noble feelings belong to everybody, the most depraved too, and not only to noble characters; opera can show this and spoken drama cannot; since nobody talks in song, a song may be ill-timed but is never wrong for its singer",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), pp. 469-70 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22100-22119)"
+      }
+     ],
+     "stands": "What the lines say. Treccani’s *Vocabolario* under *anima*, *palpito*, *altero*, *croce*, *delizia*, *cuore*, *accento*, *scolpire* and *strano*. Fabio Rossi’s article on the language of librettos in the *Enciclopedia dell’Italiano* (2011). Auden, “Notes on Music and Opera,” *The Dyer’s Hand*, pp. 469–70; with Kallman, “Translating Opera Libretti,” p. 491, for the word courtesan."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "0.3",
+        2,
+        2
+       ],
+       "b": [
+        "p:209.3",
+        5,
+        5
+       ],
+       "say": "Both versions end this line on the word for love. Piave hangs the next four lines from it. The English ends its sentence here and begins another."
+      },
+      {
+       "a": [
+        "1.0",
+        3,
+        3
+       ],
+       "b": [
+        "p:209.4",
+        3,
+        4
+       ],
+       "say": "Piave’s line says what love is: the soul of the universe. The English says what the singer’s bosom did."
+      },
+      {
+       "a": [
+        "1.1",
+        0,
+        1
+       ],
+       "b": [
+        "p:209.5",
+        2,
+        3
+       ],
+       "say": "The whole universe is gone. A *chain* that surrounds comes in, which is not in the Italian."
+      },
+      {
+       "a": [
+        "1.2",
+        0,
+        0
+       ],
+       "b": [
+        "p:209.5",
+        1,
+        1
+       ],
+       "say": "One word is carried over whole, *mysterious*. In the English it describes the chain."
+      },
+      {
+       "a": [
+        "1.3",
+        0,
+        2
+       ],
+       "b": [
+        "p:209.7",
+        1,
+        3
+       ],
+       "say": "Two nouns joined by *and* are kept. The cross, a figure for torment, becomes *pain*."
+      },
+      {
+       "a": [
+        "1.3",
+        4,
+        4
+       ],
+       "b": [
+        "p:209.7",
+        6,
+        6
+       ],
+       "say": "Both versions end the four lines on the word for heart, one stressed syllable."
+      },
+      {
+       "a": [
+        "3.0",
+        0,
+        3
+       ],
+       "b": [
+        "p:267.0",
+        0,
+        2
+       ],
+       "say": "Piave’s word is *strano*, strange, said of what amazes and may also trouble. The English chooses *wondrous*. In the last scene it gives the same Italian word as *strange*."
+      },
+      {
+       "a": [
+        "3.1",
+        0,
+        0
+       ],
+       "b": [
+        "p:267.1",
+        5,
+        6
+       ],
+       "say": "Carved becomes *graven*. The English adds *seem*; in the Italian she says outright that she has the words carved in her heart."
+      },
+      {
+       "a": [
+        "5.0",
+        0,
+        3
+       ],
+       "b": [
+        "p:270.7",
+        0,
+        4
+       ]
+      }
+     ],
+     "caption": "The English is from a New York libretto that names no translator. It keeps the frame: four lines that come back, and a last line that joins two nouns and stops on the word heart. Inside it the soul and the universe are gone, a <b>chain</b> comes in, the cross becomes <b>pain</b>, and three lines running rhyme on two syllables. Auden and Kallman wrote that the translation of an aria need give only its emotion. They also wrote that two-syllable rhymes, the commonest in Italian, are mostly comic in English, and that in a tender scene no rhyme is better than a laughable one.",
+     "why": "The English keeps the frame of the four lines and replaces what they say; by Auden and Kallman’s account an aria’s translation owes only the emotion, yet its two-syllable rhymes are the kind they call mostly comic in English.",
+     "grounds": [
+      {
+       "claim": "the words tied; the English rows 209.4 to 209.6 rhyme on two syllables; its four lines come back at 270.7 to 270.10 with two verb endings changed; both versions end the four lines on the word for heart",
+       "kind": "plate"
+      },
+      {
+       "claim": "the English is that of the Italian and English libretto published by Fred. Rullman of New York for the Metropolitan Opera House, which names no translator and gives no date",
+       "kind": "source",
+       "source": "the note of the hosted text (site/data/texts/traviata/index.json; archive.org latraviataloston00verduoft)"
+      },
+      {
+       "claim": "croce, figurative: torment; strano: unusual so as to cause wonder, often also troubling; scolpire: to fix so that it lasts",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: croce (1c), strano (1a), scolpire (2a)"
+      },
+      {
+       "claim": "rhymes are called feminine when they consist of two or more syllables",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5 (lines 6078-6084 of the text on this machine)"
+      },
+      {
+       "claim": "an aria seldom carries facts the audience needs, so its translation has only to give the feeling, or the clash of feelings, that the aria utters",
+       "kind": "auden",
+       "source": "Auden and Kallman, “Translating Opera Libretti,” in The Dyer’s Hand (1962), p. 493 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 23228-23232)"
+      },
+      {
+       "claim": "rhymes of two syllables are the usual kind in Italian, but English has few and most of them are funny; where a scene is tender or solemn they would sooner leave rhyme out than have a laughable one",
+       "kind": "auden",
+       "source": "Auden and Kallman, “Translating Opera Libretti,” in The Dyer’s Hand (1962), p. 488 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22959-22968)"
+      }
+     ],
+     "stands": "The words tied on the passage, and [Alfred’s song](#/read/traviata/act-1:209) and [Violetta’s](#/read/traviata/act-1:270) in the English copy here. Treccani’s *Vocabolario* under *croce*, *scolpire* and *strano*. Baum, chapter 5, on rhyme of two syllables. Auden and Kallman, “Translating Opera Libretti,” *The Dyer’s Hand*, pp. 488 and 493."
+    }
+   ]
+  },
+  {
+   "id": "cabaletta",
+   "stage": {"10.7": {"dir": [6, 8]}},
+   "stanza": {"10.4": true},
+   "place": "Piave, *La Traviata*, Act 1: Violetta’s scene alone",
+   "heading": "Always free",
+   "text": "o-traviata/act-1",
+   "label": "Piave’s libretto, as first printed: Violetta alone",
+   "rows": [
+    "9.0-9.1",
+    "10.0-10.6",
+    "10.7"
+   ],
+   "pair": {
+    "label": "The English libretto: a free version of the words as sung",
+    "text": "traviata/act-1",
+    "rows": [
+     "272.4-272.6",
+     "275.0-275.7"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "beat",
+     "label": "Measure",
+     "meterName": "eight syllables by the Italian count: an accent on the third and on the seventh; the first two lines have eleven",
+     "scan": {
+      "9.0": {
+       "meter": "........./.",
+       "voice": "x /~ x / x / x/ x/x",
+       "div": {
+        "1": "spe|ro",
+        "3": "più?..",
+        "6": "deg|g’io!...",
+        "7": "gio|i|re."
+       }
+      },
+      "9.1": {
+       "meter": "........./.",
+       "voice": "x xx/ x /xx x/x",
+       "div": {
+        "1": "vo|lut|tà",
+        "3": "vor|ti|ci",
+        "4": "fi|ni|re."
+       }
+      },
+      "10.0": {
+       "meter": "../.../.",
+       "voice": "/x /xx x/x",
+       "div": {
+        "0": "Sem|pre",
+        "1": "li|be|ra",
+        "2": "deg|g’i|o"
+       }
+      },
+      "10.1": {
+       "meter": "../.../.",
+       "voice": "xx/ x /~ x /x",
+       "div": {
+        "0": "Tra|svo|lar",
+        "2": "gio|ia",
+        "4": "gio|ia,"
+       }
+      },
+      "10.2": {
+       "meter": "../.../.",
+       "voice": "x~ x/~ x /x /x",
+       "div": {
+        "0": "Per|chè",
+        "1": "i|gno|to",
+        "3": "vi|ver",
+        "4": "mi|o"
+       }
+      },
+      "10.3": {
+       "meter": "../.../",
+       "voice": "/x /x x x/",
+       "div": {
+        "0": "Nul|la",
+        "1": "pas|si",
+        "3": "pia|cer."
+       }
+      },
+      "10.4": {
+       "meter": "../.../.",
+       "voice": "/~ x /~ x /x /x",
+       "div": {
+        "0": "Na|sca",
+        "2": "gior|no,",
+        "4": "gior|no",
+        "5": "muo|ja,"
+       }
+      },
+      "10.5": {
+       "meter": "../.../.",
+       "voice": "/x / x /x /x",
+       "div": {
+        "0": "Sem|pre",
+        "3": "stes|sa",
+        "4": "tro|vi,"
+       }
+      },
+      "10.6": {
+       "meter": "../.../.",
+       "voice": "x x/~ x / x/x",
+       "div": {
+        "1": "dol|cez|ze",
+        "4": "rin|no|vi"
+       }
+      },
+      "10.7": {
+       "meter": "../.../",
+       "voice": "x x /~ x x x/",
+       "div": {
+        "2": "mu|ti",
+        "4": "mio",
+        "5": "pen|sier."
+       }
+      }
+     },
+     "points": [
+      {
+       "at": [
+        "9.0",
+        4,
+        6
+       ],
+       "say": "The question, what must I do, comes in a line of eleven syllables, the long line of recitative."
+      },
+      {
+       "at": [
+        "10.0",
+        0,
+        2
+       ],
+       "say": "From here on every line has a stress on its third syllable and on its seventh."
+      },
+      {
+       "at": [
+        "10.1",
+        2,
+        3
+       ],
+       "say": "Two vowels meet and count as one syllable."
+      },
+      {
+       "at": [
+        "10.3",
+        3,
+        3
+       ],
+       "say": "The line stops on its last accent, so seven syllables are heard. The last line of the song stops the same way, and the two rhyme."
+      },
+      {
+       "at": [
+        "10.4",
+        0,
+        5
+       ],
+       "say": "Every second syllable is stressed. The two verbs, be born and die, stand at the two ends of the line with the day twice between them: a crossing."
+      }
+     ],
+     "caption": "The recitative, her sung speech before the song, ends in two lines of eleven syllables. Then the line turns to eight, stressed on the third and seventh syllables in all eight lines. It is an old line, used in dance songs, religious songs and carnival songs. The guests took their leave in it, with <i>gioir</i>, rejoicing, and <i>piacer</i>, pleasure, at line ends; <i>gioire</i> and <i>piacer</i> end lines here. A fast song that closes an aria is a cabaletta, and its effect lies in the even return of one rhythmic figure. Auden and Kallman say it is written to let the singer show her skill.",
+     "why": "The song that chooses pleasure is in the eight-syllable line of the guests’ farewell, and two of their rhyme words end lines here; all eight lines are stressed alike, and a cabaletta’s effect lies in a rhythm that returns unchanged.",
+     "grounds": [
+      {
+       "claim": "rows 9.0 and 9.1 have eleven syllables with the last stress on the tenth; rows 10.0 to 10.7 have their last stress on the seventh and a stress on the third; rows 10.3 and 10.7 end on the stress; row 9.0 ends on the verb for taking joy and row 10.3 on the word for pleasure",
+       "kind": "plate"
+      },
+      {
+       "claim": "the guests' chorus in Act 1, Scene 4 is eight lines of the same measure, stressed on the third and seventh, alternately plain and cut; two of its rhyme words are the cut forms of the verb for taking joy and of the word for pleasure; she says she must take joy, and that no pleasure is to pass her by",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 283-290 (the chorus; cut as o-traviata/act-1 block 2), 336 and 338-341; hosted English traviata/act-1 block 262"
+      },
+      {
+       "claim": "the ottonario: eight syllables, a double four, normally accented on the third and seventh; found in the oldest Italian verse; in the fourteenth and fifteenth centuries in dance songs, laude and carnival songs; its last stress is on the seventh and the scheme third and seventh prevails; a lauda is a poem on a religious subject, popular in character, often set to music",
+       "kind": "source",
+       "source": "Mario Pelaez, \"ottonario\", Enciclopedia Italiana (1935), at treccani.it; Claudio Ciociola, \"versificazione\", Enciclopedia dell'Italiano (2011); Treccani, Vocabolario on line, lauda (2), opened by the examiner 2026-10-03. The caption named only the dance songs and carnival songs; the examiner put the religious songs back."
+      },
+      {
+       "claim": "the cabaletta: a short aria, simple and catchy, fast and insistent in rhythm, placed as a rule at the close of an aria or duet; an easy piece whose effect lies in the uniform return of the rhythmic design; this song is the encyclopedia's own example",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, \"cabaletta\"; Andrea Della Corte, \"cabaletta\", Enciclopedia Italiana (1930); Treccani, Enciclopedia on line, \"cabaletta\""
+      },
+      {
+       "claim": "they liken the cabaletta to a cadenza: it exists so that the singer can show what her voice can do in runs and in compass",
+       "kind": "auden",
+       "source": "Auden and Kallman, “Translating Opera Libretti,” in The Dyer’s Hand (1962), pp. 497-98 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 23521-23533: the sentence begins at the foot of p. 497 and the words on the cabaletta stand at the head of p. 498)"
+      }
+     ],
+     "stands": "The syllables counted and marked on the passage; the same count made on [the guests’ chorus](#/read/traviata/act-1:262) in the Italian libretto. Mario Pelaez, *ottonario*, and Andrea Della Corte, *cabaletta*, in the *Enciclopedia Italiana* (1935, 1930); Ciociola’s *versificazione*; Treccani’s *Vocabolario* and encyclopedia under *cabaletta*. Auden and Kallman, “Translating Opera Libretti,” *The Dyer’s Hand*, p. 498."
+    },
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "9.0": "a",
+      "9.1": "a",
+      "10.0": "b",
+      "10.1": "c",
+      "10.2": "b",
+      "10.3": "d",
+      "10.4": "c",
+      "10.5": "e",
+      "10.6": "e",
+      "10.7": "d"
+     },
+     "tails": {
+      "9.0": 3,
+      "9.1": 3,
+      "10.0": 2,
+      "10.1": 3,
+      "10.2": 2,
+      "10.3": 2,
+      "10.4": 3,
+      "10.5": 3,
+      "10.6": 3,
+      "10.7": 2
+     },
+     "caption": "Like her first recitative, this one closes on two lines that rhyme, and the rhyme joins <i>gioire</i>, to take joy, to <i>finire</i>, to end, a verb that can mean to die. Opera, Auden held, imitates human willfulness: people will have their feelings whatever it costs them. In the song, printed as two groups of four lines, rhyme ties the halves together, the second line to the fifth and the fourth to the eighth. As sung, six of the song’s eight lines have other words, and every rhyme is kept. For Auden a librettist’s verses are expendable once they have prompted the tune.",
+     "why": "The couplet that closes the recitative rhymes taking joy with coming to an end; Auden held that opera is about people who will have their feelings at any cost.",
+     "grounds": [
+      {
+       "claim": "rows 9.0 and 9.1 rhyme; in the song the first line rhymes with the third, the second with the fifth, the fourth with the eighth, the sixth with the seventh",
+       "kind": "plate"
+      },
+      {
+       "claim": "her first recitative also ends on two rhymed lines; the couplet here says: to take joy, to end in the whirlpools of pleasure",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 302-303 and 336-337"
+      },
+      {
+       "claim": "the first printing sets the fast song as two groups of four lines, the first line of each hanging and the other three set in",
+       "kind": "source",
+       "source": "the page images of the first printing (Venice: Teresa Gattei, for the season of 1852-53), seen 2026-10-03 at Wikimedia Commons, File:La traviata.djvu, the scan Italian Wikisource transcribes (a copy stamped Bayerische Staatsbibliothek München), page 11"
+      },
+      {
+       "claim": "gioire: to feel an inner joy; finire: to come to one's end, and so in particular to die",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: gioire (1), finire (3a)"
+      },
+      {
+       "claim": "lines are used in groups usually held together by rhyme, which are called stanzas, and the simplest stanza is the couplet rhymed aa",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, section 2, The Stanza, under Couplet (lines 3072-3075 of .cache/handbooks/baum-versification-pg21342.txt). The examiner replaced the poet's citation of the same chapter on the short couplet (lines 3208-3211), which Baum says of the English line of four beats and which the caption does not use."
+      },
+      {
+       "claim": "as printed under the music, the song keeps lines 1 and 5 and has other words in lines 2, 3, 4, 6, 7 and 8; all eight end on Piave's rhyme sounds and six of them (1, 2, 3, 4, 5, 8) on his rhyme words",
+       "kind": "source",
+       "source": "Verdi's Opera La Traviata, containing the Italian text, with an English translation, and the music of all the principal airs (Boston: Oliver Ditson), archive.org verdisoperalatra00verd (lines 1925-1990 of the saved text, the words under the music); the Italian column of the Rullman libretto (scratchpad research/texts/verdi_traviata_rullman_ia_ocr.txt, lines 906-920)"
+      },
+      {
+       "claim": "opera imitates human willfulness: people do not merely have feelings, they will have them whatever the price to themselves",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 470 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22121-22124)"
+      },
+      {
+       "claim": "the librettist's verses matter at one moment, when they put a melody into the composer's head; after that they can be thrown away",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 473 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22261-22267)"
+      }
+     ],
+     "stands": "The rhymes marked on the passage; the last two lines of [her first recitative](#/read/traviata/act-1:267) in the Italian libretto, and page 11 of its first printing for the two groups of four. Treccani’s *Vocabolario* under *gioire* and *finire*; Baum, chapter 4, on the couplet. The sung words in the Ditson libretto and in Rullman’s Italian column. Auden, “Notes on Music and Opera,” *The Dyer’s Hand*, pp. 470 and 473."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "9.0",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "what more do I hope now",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: sperare (1a); the poet's gloss left out the fourth word, the word for more, and the examiner put it in"
+      },
+      {
+       "row": "9.0",
+       "w": [
+        4,
+        6
+       ],
+       "gloss": "what must I do",
+       "note": "*Deggio* is an old and poetic form of *devo*, I must; the same word comes back in the first line of the song. The first printing has a question mark after it, where the transcription shown has an exclamation mark.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: dovere (verb), the forms of the present (\"ant. o poet. dèggio\"); the page images of the first printing (Venice: Teresa Gattei, for the season of 1852-53), seen 2026-10-03 at Wikimedia Commons, File:La traviata.djvu, the scan Italian Wikisource transcribes (a copy stamped Bayerische Staatsbibliothek München), page 11, the last line but one of the recitative"
+      },
+      {
+       "row": "9.0",
+       "w": [
+        7,
+        7
+       ],
+       "gloss": "to take joy",
+       "note": "To feel an inner joy. The guests ended a line on a cut form of it as they left.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: gioire (1); .cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), line 286"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "of sensual pleasure",
+       "note": "*Voluttà* is the intense pleasure felt when sexual desire is satisfied.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: voluttà (2)"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        2,
+        3
+       ],
+       "gloss": "in the whirlpools",
+       "note": "*Vortice* has the figurative sense of an overwhelming rush; the dictionary’s examples are the vortex of passion and of vice.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: vortice (2a)"
+      },
+      {
+       "row": "9.1",
+       "w": [
+        4,
+        4
+       ],
+       "gloss": "to end",
+       "note": "To come to one’s end, and so, in particular, to die.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: finire (3a)"
+      },
+      {
+       "row": "10.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "always free",
+       "note": "*Libero*: not subject to another’s rule, able to act at one’s own will. The word stands only here in the libretto.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: libero (1a); counted on the Italian file with original.mjs grep: line 338 only, and no other form of the word"
+      },
+      {
+       "row": "10.0",
+       "w": [
+        2,
+        2
+       ],
+       "gloss": "I must",
+       "note": "The dictionary’s first sense of *dovere* is to be obliged. It adds that the verb often gives a sentence the force of a command, or expresses will and strong desire.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: dovere (verb), 1a"
+      },
+      {
+       "row": "10.1",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "fly from joy to joy",
+       "note": "*Trasvolare*: to fly from place to place, and so to pass quickly. As sung, the line has *folleggiare* here, to play the fool, to make merry.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: trasvolare (1), folleggiare; the sung words: Verdi's Opera La Traviata, containing the Italian text, with an English translation, and the music of all the principal airs (Boston: Oliver Ditson), archive.org verdisoperalatra00verd (lines 1925-1990 of the saved text, the words under the music); the Italian column of the Rullman libretto (scratchpad research/texts/verdi_traviata_rullman_ia_ocr.txt, lines 906-920)"
+      },
+      {
+       "row": "10.2",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "so that, unknown to my life,",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: ignoto, vivere"
+      },
+      {
+       "row": "10.3",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "nothing of pleasure may pass",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: nulla, passare, piacere"
+      },
+      {
+       "row": "10.4",
+       "w": [
+        0,
+        5
+       ],
+       "gloss": "let day be born, day die",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: nascere, giorno, morire"
+      },
+      {
+       "row": "10.5",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "always find me the same",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: sempre, stesso, trovare"
+      },
+      {
+       "row": "10.6",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "renew its sweetness for me",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: dolcezza, rinnovare"
+      },
+      {
+       "row": "10.7",
+       "w": [
+        0,
+        5
+       ],
+       "gloss": "but not change my thought",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: mutare, pensiero"
+      }
+     ],
+     "caption": "The question is <i>che far degg’io</i>, what must I do, and the song answers with the same verb: <i>sempre libera degg’io</i>, always free I must. <i>Deggio</i> is an old form of I must; by the dictionary the verb names an obligation and, often, a will set on something. The song states a duty she lays on herself, and its first words are always free. The English begins <b>Let</b> me and has no word for free. In Auden’s view a sung role commands its fate more than a spoken one, even a self-destroyer’s, and the great age of opera, Mozart’s to Verdi’s, fell in the age that believed in freedom without question.",
+     "why": "The song answers her question with the question’s verb, an old must that can also express a will, and joins it to the words always free; Auden held that whoever sings commands a fate, even a self-destroyer’s.",
+     "grounds": [
+      {
+       "claim": "the same word, an old form of I must, stands in the question (9.0) and in the first line of the song (10.0), where it follows the words always free",
+       "kind": "plate"
+      },
+      {
+       "claim": "she is alone and puts the question to herself; the song says that, always free, she must fly from joy to joy; the English fast air begins Let me and has no word for free",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 294 and 336-345; hosted English traviata/act-1 blocks 265, 272 and 275"
+      },
+      {
+       "claim": "in the first printing the words for what must I do end in a question mark; the transcription shown has an exclamation mark there",
+       "kind": "source",
+       "source": "the page images of the first printing (Venice: Teresa Gattei, for the season of 1852-53), seen 2026-10-03 at Wikimedia Commons, File:La traviata.djvu, the scan Italian Wikisource transcribes (a copy stamped Bayerische Staatsbibliothek München), page 11"
+      },
+      {
+       "claim": "deggio is an old or poetic form of devo; dovere: to have an obligation to do a thing; in many cases it gives the sentence the sense of a command or expresses will, strong desire; libero: not subject to another's authority, able to act at one's own will",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: dovere (verb), 1a; libero (1a)"
+      },
+      {
+       "claim": "an actor who sings, whatever the part, is more in command of his fate than one who speaks, and that holds even for a character who destroys himself",
+       "kind": "auden",
+       "source": "“Cav & Pag,” in The Dyer’s Hand (1962), p. 478 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22473-22476)"
+      },
+      {
+       "claim": "he puts opera’s great age between Mozart and Verdi and says it fell together with the great age of liberal humanism, when freedom and progress were believed in without question",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 474 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22316-22318)"
+      }
+     ],
+     "stands": "What the lines say, with page 11 of the first printing for the question mark, and a count of *libera* and *degg’io* in the Italian libretto. Treccani’s *Vocabolario* under *dovere*, *libero*, *gioire*, *voluttà*, *vortice*, *finire*, *trasvolare* and *folleggiare*. The English of [the fast song](#/read/traviata/act-1:275). Auden, *The Dyer’s Hand*: “Cav & Pag,” p. 478, and “Notes on Music and Opera,” p. 474."
+    },
+    {
+     "kind": "shape",
+     "label": "Scene",
+     "what": "Violetta’s scene alone, part by part",
+     "facts": [
+      {
+       "part": "Recitative",
+       "first words": "È strano",
+       "lines": 8,
+       "measure": "lines of seven and of eleven syllables, mixed",
+       "syllables": [7, 7, 11, 11, 11, 11, 7, 11],
+       "what she says": "She says his words are carved in her heart. She asks whether a serious love would be a misfortune, and whether she can scorn this joy for the follies of her life.",
+       "read": "traviata/act-1:267",
+       "counted": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 296-303: syllables 7, 7, 11, 11, 11, 11, 7, 11"
+      },
+      {
+       "part": "Slow song",
+       "first words": "Ah, forse è lui",
+       "lines": 24,
+       "measure": "lines of seven syllables, in two stanzas of twelve",
+       "syllables": 7,
+       "stanzas": [[8, 4], [8, 4]],
+       "what she says": "Perhaps he is the one her soul, lonely amid the tumult, used to picture. Each stanza closes on Alfredo’s four lines, set in here as the first printing sets them.",
+       "read": "traviata/act-1:270",
+       "counted": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 304-315 and 317-328: twenty-four lines with the last stress on the sixth"
+      },
+      {
+       "part": "Recitative",
+       "first words": "Follie",
+       "lines": 8,
+       "measure": "lines of eleven and of seven syllables, mixed",
+       "syllables": [11, 7, 7, 7, 7, 7, 11, 11],
+       "what she says": "Follies, a vain delirium. She calls herself a poor woman alone in the crowded desert that is Paris. She asks what she must do, and answers: take joy, and end in the whirlpools of pleasure.",
+       "read": "traviata/act-1:272",
+       "counted": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 330-337: syllables 11, 7, 7, 7, 7, 7, 11, 11; the direction before them is line 329"
+      },
+      {
+       "part": "Fast song",
+       "first words": "Sempre libera",
+       "lines": 8,
+       "measure": "lines of eight syllables, with an accent on the third and on the seventh",
+       "syllables": 8,
+       "what she says": "Always free, she must fly from joy to joy. Let each day find her the same and not change her thought.",
+       "read": "traviata/act-1:275",
+       "counted": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 338-345: eight lines with the last stress on the seventh"
+      }
+     ],
+     "caption": "The scene has four parts: recitative, slow song, recitative, fast song, in eight, twenty-four, eight and eight lines. A short fast song to close an aria, the cabaletta, was characteristic of Italian opera in the first half of the nineteenth century. In the slow song she wonders whether he is the man she once pictured; in the fast one she chooses pleasure. Between them the libretto gives her an instant of thought, and her next word is <i>Follie</i>, follies; she calls the thought a vain delirium. The convention sets a fast song after the slow one; in this scene the eight lines of recitative between them are where she changes her mind.",
+     "why": "The scene follows the convention of a slow song closed by a fast one, and her change of mind falls between the two: an instant of thought, one word, and the eight lines of the second recitative.",
+     "grounds": [
+      {
+       "claim": "the scene alone has 48 lines of verse: a recitative of 8, a slow song of 24 in two stanzas, a recitative of 8 and a fast song of 8",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 296-345, counted"
+      },
+      {
+       "claim": "the slow song begins with perhaps and asks whether he is the one her soul, solitary amid the tumults, used to picture (tumulto: a noisy confusion, above all of people; solingo: alone, a poetic word; Treccani, Vocabolario on line, opened by the examiner 2026-10-03); after it the direction says she remains absorbed for an instant and then speaks; her first word is the word for follies, said twice, and she calls this a vain delirium; the eight lines of the second recitative end on her question, what must she do, and on its answer, to take joy and end in the whirlpools of pleasure; the fast song says she must fly from joy to joy so that no pleasure pass her by",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 304-307, 329-337 and 338-341 (lines 326-337 read again by the finisher on 2026-10-03, with original.mjs show); hosted English traviata/act-1 blocks 271 and 272"
+      },
+      {
+       "claim": "the cabaletta is placed as a rule at the close of an aria or duet and is characteristic above all of Italian opera of the first half of the nineteenth century",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line, \"cabaletta\"; Andrea Della Corte, \"cabaletta\", Enciclopedia Italiana (1930)"
+      },
+      {
+       "claim": "Violetta's aria is an andantino, treated as a romanza and sung twice, followed by a cabaletta; in Act 2 the tenor's aria is an andante and a cabaletta, and so is the baritone's",
+       "kind": "source",
+       "source": "Abramo Basevi, Studio sulle opere di Giuseppe Verdi (Florence, 1859), pp. 234 and 236"
+      },
+      {
+       "claim": "the measure of each line by the Italian count: the first recitative 7, 7, 11, 11, 11, 11, 7, 11; the slow song twenty-four sevens; the second recitative 11, 7, 7, 7, 7, 7, 11, 11; the fast song eight eights",
+       "kind": "text",
+       "source": "the counted notes of the four parts above (the Italian file, lines 296-345), the poet's count, made again by ear by the examiner (exam.md, section 2) and set as syllables by the lead (notes.md, The lead after the artist); not counted again by the finisher"
+      },
+      {
+       "claim": "in the first printing the four lines that return are set deeper in than the eight lines before them, in both stanzas of the slow song",
+       "kind": "source",
+       "source": "the page images of the first printing (Venice: Teresa Gattei, for the season of 1852-53), pages 10 and 11, as the poet and the examiner read them (notes.md, The first printing, read in page images; exam.md, section 5); the finisher read those two records on 2026-10-03 and did not see the images"
+      }
+     ],
+     "stands": "A count of the lines of [the scene](#/read/traviata/act-1:267) in the Italian libretto and of the syllables of each; its stage direction between the two songs; pages 10 and 11 of its first printing for the four lines set in. Treccani’s *Vocabolario* under *cabaletta*. Abramo Basevi’s study of Verdi’s operas (1859), p. 234, for the two parts of the aria."
+    }
+   ]
+  },
+  {
+   "id": "end",
+   "stage": {"1.0": {"name": 1, "dir": [3, 4], "inline": true}, "1.1": {"name": 1, "inline": true}, "1.2": {"name": 1, "inline": true}, "2.1": {"dir": [5, 5], "inline": true}, "2.2": {"dir": [3, 5], "inline": true}, "2.3": {"name": 1, "inline": true}, "2.4": {"name": 1, "inline": true}, "2.5": {"name": 1, "inline": true}, "2.6": {"name": 1, "dir": [3, 7], "inline": true}, "2.7": {"name": 1, "inline": true}},
+   "place": "Piave, *La Traviata*, Act 3: the last lines",
+   "heading": "Her last words",
+   "text": "o-traviata/act-3",
+   "label": "Piave’s libretto, as first printed, with its speakers and stage directions",
+   "rows": [
+    "1.0-1.4",
+    "2.0-2.7"
+   ],
+   "pair": {
+    "label": "The English libretto: each stage direction goes with the speech above it",
+    "text": "traviata/act-3",
+    "rows": [
+     "217.0",
+     "220.0",
+     "222.0-222.5",
+     "225.0",
+     "227.0",
+     "229.0",
+     "231.0",
+     "234.0",
+     "236.0"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "1.0",
+       "w": [
+        1,
+        2
+       ],
+       "gloss": "it is strange",
+       "note": "The exclamation that opened her first speech alone in Act 1. It stands four times in the libretto, and each time she says it.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: strano (1a); counted on the Italian file with original.mjs grep: lines 296 (twice), 426 and 1258"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        3,
+        4
+       ],
+       "gloss": "rising, revived",
+       "note": "A stage direction. *Rianimare* is to give back vigor, strength, vitality.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: rianimare (1a), alzare"
+      },
+      {
+       "row": "1.1",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "all: what?",
+       "source": "the English libretto at this place (traviata/act-3 blocks 219-220)"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "have ceased",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: cessare (1)"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "the spasms of pain",
+       "note": "*Dolore* is first the pain of the body. Its second sense is suffering of the mind, grief.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: spasmo, dolore (1, 2)"
+      },
+      {
+       "row": "1.4",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "in me is born again",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: rinascere (1)"
+      },
+      {
+       "row": "1.4",
+       "w": [
+        3,
+        3
+       ],
+       "gloss": "gives me life",
+       "note": "*Animare*: to put a soul into, to give life.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: animare (1)"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "an unaccustomed strength",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: insolito, vigore"
+      },
+      {
+       "row": "2.1",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "ah, I return to living",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: ritornare (1), vivere"
+      },
+      {
+       "row": "2.1",
+       "w": [
+        5,
+        5
+       ],
+       "gloss": "with a start",
+       "note": "A stage direction. *Trasalire* is to start, from sudden emotion or fright.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: trasalire"
+      },
+      {
+       "row": "2.2",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "oh joy, broken off",
+       "note": "The libretto prints the word *gioia* in two pieces. As an exclamation, oh joy comes twice in the libretto: here and in her first speech alone.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: gioia; counted on the Italian file with original.mjs grep: lines 300 and 1266"
+      },
+      {
+       "row": "2.2",
+       "w": [
+        3,
+        5
+       ],
+       "gloss": "falls back on the sofa",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: ricadere (1), canapè (1)"
+      },
+      {
+       "row": "2.3",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "all: oh heaven, she dies",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: cielo, morire"
+      },
+      {
+       "row": "2.5",
+       "w": [
+        1,
+        3
+       ],
+       "gloss": "oh God, let her be helped",
+       "note": "*Soccorrere* is to help, to come quickly to someone’s aid.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: soccorrere (1)"
+      },
+      {
+       "row": "2.6",
+       "w": [
+        1,
+        2
+       ],
+       "gloss": "she is extinguished",
+       "note": "The first sense of *spegnere* is to put out a fire or a candle; said of a person, to take life. In Act 1 she told her soul that no man had yet kindled it, with *accendere*, to light.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: spegnere (1a, 2c), accendere (1a, 2c); .cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), line 300"
+      },
+      {
+       "row": "2.6",
+       "w": [
+        3,
+        7
+       ],
+       "gloss": "after feeling her pulse",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: polso (1); the English libretto's direction (traviata/act-3 block 232)"
+      },
+      {
+       "row": "2.7",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "oh my grief",
+       "note": "*Dolor* is her own word for her pain, cut short, now meaning grief. The first printing sets *mio*, my, over *rio*, poetic for adverse or wicked; the bracket here holds the lower word. The English makes two cries of it.",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: dolore (2), rio (1, adjective, poetic); the page images of the first printing (Venice: Teresa Gattei, for the season of 1852-53), seen 2026-10-03 at Wikimedia Commons, File:La traviata.djvu, the scan Italian Wikisource transcribes (a copy stamped Bayerische Staatsbibliothek München), page 35, where the two small words stand one over the other between Oh and the last word and the margin gives the line to all; the hosted English, traviata/act-3 blocks 233-236 (Alfred's cry and everyone's); the Ditson libretto (archive.org verdisoperalatra00verd), which heads the line \"Alfredo e Tutti\""
+      }
+     ],
+     "caption": "Her last speech begins <i>È strano</i>, it is strange, and breaks off in <i>Oh gio... ia</i>, oh joy, the word broken in two: the two exclamations of her first speech alone in Act 1. There the strange thing was his words in her heart and the joy was being loved; here the strange thing is that the pain has stopped, and the stage direction calls her <i>rianimata</i>, revived. Self-deception, Auden held, cannot be sung, since what is sung is so; at most the orchestra can contradict the singer, and his example is its music as Germont comes to her deathbed, when this scene begins. Then the Doctor says <i>È spenta</i>, she is extinguished: a word used of flames.",
+     "why": "Her last speech opens and breaks off on the two exclamations of her first speech alone, and a stage direction calls her revived; Auden held that what is sung is so and that only the orchestra can hint otherwise.",
+     "grounds": [
+      {
+       "claim": "her last speech begins with the exclamation for strange and ends on the broken word for joy; the direction says she rises, revived; she says the spasms of pain have ceased and that she returns to living; the Doctor's two words follow",
+       "kind": "text"
+      },
+      {
+       "claim": "her first speech alone in Act 1 begins with the same exclamation, twice, and has oh joy at the end of its fifth line; there she says she has those words carved in her heart, and names the joy of being loved while loving; the exclamation for strange comes four times in the libretto and oh joy as an exclamation twice",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 296-301, 426, 1258 and 1266 (counted with original.mjs grep)"
+      },
+      {
+       "claim": "rianimare: to give back vigor, strength, vitality; spegnere: to make a fire, a flame, a candle stop burning; of a person, to take life; strano: unusual, so as to cause wonder",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: rianimare (1a), spegnere (1a, 2c), strano (1a)"
+      },
+      {
+       "claim": "the sentence quoted in the view, and the next: the most that can be done is to hint at self-deception by setting the orchestra against the singer, as in the music that goes with Germont's coming to Violetta's deathbed; he adds that such devices confuse unless they are rare",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 471 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22178-22185); Germont comes in at the head of the last scene (.cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 1203-1207)"
+      }
+     ],
+     "stands": "What the lines and the stage directions say, here and in [her first speech alone](#/read/traviata/act-1:267); a count of the two exclamations in the Italian libretto. Treccani’s *Vocabolario* under *strano*, *rianimare*, *dolore*, *spegnere* and *accendere*. Auden, “Notes on Music and Opera,” *The Dyer’s Hand*, p. 471."
+    },
+    {
+     "kind": "figure",
+     "label": "Shared",
+     "name": "antilabe",
+     "plain": "one line of verse divided between two or more speakers, the pieces together keeping the measure",
+     "draw": "chain",
+     "parts": [
+      {
+       "row": "1.0",
+       "w": [
+        1,
+        2
+       ],
+       "tag": "first",
+       "label": "first line"
+      },
+      {
+       "row": "1.1",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "first",
+       "label": "first line"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "first",
+       "label": "first line"
+      },
+      {
+       "row": "2.2",
+       "w": [
+        0,
+        2
+       ],
+       "tag": "sixth",
+       "label": "sixth line"
+      },
+      {
+       "row": "2.3",
+       "w": [
+        1,
+        3
+       ],
+       "tag": "sixth",
+       "label": "sixth line"
+      },
+      {
+       "row": "2.4",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "seventh",
+       "label": "seventh line"
+      },
+      {
+       "row": "2.5",
+       "w": [
+        1,
+        3
+       ],
+       "tag": "seventh",
+       "label": "seventh line"
+      },
+      {
+       "row": "2.6",
+       "w": [
+        1,
+        2
+       ],
+       "tag": "eighth",
+       "label": "eighth line"
+      },
+      {
+       "row": "2.7",
+       "w": [
+        1,
+        2
+       ],
+       "tag": "eighth",
+       "label": "eighth line"
+      },
+      {
+       "row": "2.7",
+       "w": [
+        4,
+        4
+       ],
+       "tag": "eighth",
+       "label": "eighth line"
+      }
+     ],
+     "caption": "Thirteen printed lines make eight lines of seven syllables by the Italian count, the measure of her slow song, rhymed like the eight lines sung to her just before. Four are shared between speakers; the first printing sets each continuation further to the right, and the marks join the pieces. In the fifth she sings <b>ritorno a vivere</b>, I return to living. In the sixth, her broken <i>gio... ia</i>, joy, is the first half and the others’ <i>muor</i>, she dies, the second. It stops on its last accent and rhymes with <i>dolor</i>, grief, the libretto’s last word. The others finish the line she breaks off, and then the stanza, in its measure and its rhymes.",
+     "why": "The last lines are one stanza divided among the voices: her cry of joy and the others’ cry that she dies are the halves of one line, and the others then finish the stanza in its measure and rhymes.",
+     "grounds": [
+      {
+       "claim": "the thirteen rows hold eight lines of seven: the first is rows 1.0 to 1.2 (her two words, the others' one, her one), the second to fifth are rows 1.3, 1.4, 2.0 and 2.1, the sixth rows 2.2 and 2.3, the seventh rows 2.4 and 2.5, the eighth rows 2.6 and 2.7; the second and fourth rhyme on an unstressed ending, the sixth and eighth on a stressed one; the odd lines end sliding; in the fifth (row 2.1, words 2 to 4) she says she returns to living; her own last words are the first piece of the sixth (row 2.2), and the other voices have its second piece and all of the seventh and eighth",
+       "kind": "plate"
+      },
+      {
+       "claim": "the eight lines just before (Germont's four and the four of Germont, the Doctor and Annina) have the same pattern: odd lines unrhymed (three end sliding; the third, line 1250, ends in a word in -zio, which slides only if its last two vowels are counted apart), the second and fourth rhymed plain, the sixth and eighth rhymed on the stress; so have Alfredo's eight before those, whose odd lines all end sliding; all are lines of seven, like the slow song of Act 1; all are addressed to her",
+       "kind": "text",
+       "source": ".cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 1240-1257 and 304-328, counted by the Italian rules; hosted English traviata/act-3 blocks 211, 213, 215"
+      },
+      {
+       "claim": "in the first printing the speakers' names stand in the margin and each continuation of a divided line begins to the right of the end of the words before it: the first line is set in three pieces, the sixth, seventh and eighth in two, and the first piece of each begins where the undivided lines begin (the first line of all a little further out, as the first line of a group of four is set on that page)",
+       "kind": "source",
+       "source": "the page images of the first printing (Venice: Teresa Gattei, for the season of 1852-53), seen 2026-10-03 at Wikimedia Commons, File:La traviata.djvu, the scan Italian Wikisource transcribes (a copy stamped Bayerische Staatsbibliothek München), pages 34 and 35; the same is recorded in the spacing the transcription gives each name (it.wikisource.org, Pagina:La traviata.djvu/34 and /35, raw text fetched 2026-10-03)"
+      },
+      {
+       "claim": "the settenario has its last stress on the sixth; a vowel that ends a word generally runs into the vowel that begins the next; elsewhere in this scene a line of eleven split between two speakers needs that run of vowels across the change of speaker",
+       "kind": "source",
+       "source": "Claudio Ciociola, \"versificazione\", \"settenario\" and \"metrica e lingua\", Enciclopedia dell'Italiano (2011); .cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 1213-1214"
+      },
+      {
+       "claim": "antilabe: in dramatic dialogue, the division of a line between two speakers (the lexicon); one line of verse in a play shared out among two or more speakers, which as a rule stays metrically whole (the encyclopedia article)",
+       "kind": "source",
+       "source": "Liddell and Scott, A Greek-English Lexicon, revised by H. S. Jones (Oxford, 1940), under antilabe, sense 4, a grammarians' term, at the Perseus Digital Library (perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057, the entry for the Greek word), opened by the examiner 2026-10-03; Wikipedia, \"Antilabe\" (en.wikipedia.org/wiki/Antilabe), opened 2026-10-03"
+      }
+     ],
+     "stands": "The syllables counted by the Italian rules, here and in the eight lines before, which begin with [Germont’s four](#/read/traviata/act-3:213). Pages 34 and 35 of the first printing, for how the divided lines are set. Ciociola’s articles *versificazione*, *settenario* and *metrica e lingua* in the *Enciclopedia dell’Italiano* (2011); Liddell and Scott’s Greek lexicon and Wikipedia, for the term *antilabe*."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "1.0",
+        1,
+        2
+       ],
+       "b": [
+        "p:217.0",
+        0,
+        2
+       ],
+       "say": "*Strange* here. For the same Italian words in Act 1 the English has *wondrous*."
+      },
+      {
+       "a": [
+        "1.3",
+        3,
+        3
+       ],
+       "b": [
+        "p:222.0",
+        1,
+        1
+       ],
+       "say": "Her pain. The English has *pains*, and *sorrow* in its next line."
+      },
+      {
+       "a": [
+        "2.2",
+        0,
+        2
+       ],
+       "b": [
+        "p:222.5",
+        0,
+        1
+       ],
+       "say": "The Italian word for joy breaks in two. The English word is whole, and it is *happiness*; in Act 1 it was *joy*."
+      },
+      {
+       "a": [
+        "2.5",
+        1,
+        3
+       ],
+       "b": [
+        "p:229.0",
+        0,
+        4
+       ],
+       "say": "The Italian cry asks for help for her. The English prays for her soul."
+      },
+      {
+       "a": [
+        "2.6",
+        1,
+        2
+       ],
+       "b": [
+        "p:231.0",
+        0,
+        2
+       ],
+       "say": "Extinguished, as a flame is. The English says *dead*, a word it has already used."
+      },
+      {
+       "a": [
+        "2.7",
+        4,
+        4
+       ],
+       "b": [
+        "p:236.0",
+        2,
+        2
+       ],
+       "say": "Her word for her pain again, now for the others’ grief. The English has a different word in each place."
+      }
+     ],
+     "caption": "The English is from the libretto published for the Metropolitan Opera House, the Italian with an English translation, in a copy printed between 1935 and 1950. It gives the first exclamation as <b>strange</b> here but as wondrous in Act 1, and the last as <b>happiness</b> where Act 1 had joy, so its reader does not meet the same words twice. Piave’s one word for her pain and the others’ grief becomes <b>pains</b>, <b>sorrow</b> and <b>grief</b>. Auden and Kallman wrote that in the opera house opera should be sung in its own language, and that those who want to follow should buy such a libretto and read it beforehand.",
+     "why": "The English turns her two returning exclamations differently in Act 1 and Act 3, so its reader does not meet the same words twice; Auden and Kallman told operagoers to read such a libretto before the performance.",
+     "grounds": [
+      {
+       "claim": "the words tied; the English has strange and happiness here; pains, sorrow and grief where the Italian has one word in two forms; dead twice",
+       "kind": "plate"
+      },
+      {
+       "claim": "in Act 1 the English gives the same two Italian exclamations as wondrous and joy",
+       "kind": "text",
+       "source": "hosted English traviata/act-1 block 267, rows 0 and 5; .cache/originals/verdi_traviata_it_wikisource.txt (the Italian Wikisource transcription of the libretto printed for the first production), lines 296 and 300"
+      },
+      {
+       "claim": "dolore: bodily pain, and suffering of the mind; soccorrere: to help; spegnere: to put out a fire, to take life",
+       "kind": "source",
+       "source": "Treccani, Vocabolario on line (treccani.it/vocabolario), opened 2026-10-03: dolore (1, 2), soccorrere (1), spegnere (1a, 2c)"
+      },
+      {
+       "claim": "the English is that of the Italian and English libretto published by Fred. Rullman of New York for the Metropolitan Opera House; its cover offers the original libretto with a correct English translation, calls itself the only correct and authorized edition, and names Edward Johnson as general manager",
+       "kind": "source",
+       "source": "the note of the hosted text (site/data/texts/traviata/index.json; archive.org latraviataloston00verduoft); the printed cover, seen by the examiner 2026-10-03 as a picture (archive.org/download/latraviataloston00verduoft/page/n4_w700.jpg), and the same in the scan's machine-read text (scratchpad research/texts/verdi_traviata_rullman_ia_ocr.txt, lines 1-30 and 78)"
+      },
+      {
+       "claim": "Edward Johnson became general manager of the Metropolitan Opera in May 1935 and retired from it in 1950, so a copy that names him in that post was printed between those years; the libretto itself prints no date",
+       "kind": "source",
+       "source": "The Canadian Encyclopedia, \"Edward Johnson\" (thecanadianencyclopedia.ca/en/article/edward-johnson-emc), the section headed Opera Administrator 1935-1950, opened by the examiner 2026-10-03; Wikipedia, \"Edward Johnson (tenor)\", opened the same day. The dating is the examiner's inference from the cover."
+      },
+      {
+       "claim": "they had always argued for the practice of British and American opera houses, opera in its original language; whoever wants to know what is going on should buy a libretto with an English crib and read it before coming; of performances in opera houses they still think much the same",
+       "kind": "auden",
+       "source": "Auden and Kallman, “Translating Opera Libretti,” in The Dyer’s Hand (1962), p. 484 (the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22734-22746; the running head of p. 484 is at line 22732). Put here by the examiner in place of the poet's citation of p. 473 (a listener to song takes in syllables, lines 22278-22281), which the caption no longer uses."
+      }
+     ],
+     "stands": "The words tied on the passage, set against [her first speech alone](#/read/traviata/act-1:267) in the English copy here, and the cover of the libretto it comes from, dated by *The Canadian Encyclopedia* under Edward Johnson. Treccani’s *Vocabolario* under *dolore*, *soccorrere* and *spegnere*. Auden and Kallman, “Translating Opera Libretti,” *The Dyer’s Hand*, p. 484."
+    }
+   ]
+  }
+ ],
+ "auden": [
+  {
+   "says": "In talk that Alan Ansen wrote down in 1947, Auden called *La Traviata* a great work and said that he had discovered Verdi in the past five years.",
+   "source": "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1990)",
+   "checked": "not seen by me in the book: taken from remake/research/C_auden_on_works.md, section 33 and the appendix entry \"TRAVIATA / WAGNER\", where it is marked VERIFIED from snippets of a scanned copy; no page is given there"
+  },
+  {
+   "says": "Auden wrote that joyful, tender and noble feelings are not kept for noble characters. Everybody has them, the most depraved included. Opera can show this and spoken drama cannot, because nobody talks in song: a song can come at the wrong moment but cannot be wrong for the person who sings it.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), pp. 469–70",
+   "checked": "the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22100-22119, on 2026-10-03"
+  },
+  {
+   "says": "In a sense, he wrote, no opera can be tragic: whatever goes wrong for its people, they are getting their own way. A singer playing a jilted bride on the point of suicide is, as every listener can tell, enjoying herself greatly.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), p. 468",
+   "checked": "the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22049-22054, on 2026-10-03 (the running head of p. 468 is at line 22020)"
+  },
+  {
+   "says": "Music, he wrote, is by nature active: it expresses will, and a will that gives way cannot be put into song. In the same essay he says that verismo, the naturalist school of opera, exchanged the gods and princes of the old serious opera for exotic settings, the courtesans of *La Traviata* and *Manon* among them, and that these are as far from the ordinary operagoer’s life as Olympus or Versailles.",
+   "source": "“Cav & Pag,” in *The Dyer’s Hand* (1962), p. 478",
+   "checked": "the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22471-22477 and 22484-22492, on 2026-10-03 (the running head of p. 478 is at line 22458). The words that gloss verismo are the page's, in his own terms, read by the finisher the same day: he speaks of its theory as applied to opera (line 22484) and of a naturalist (line 22494), both on p. 478, and of its school, with the word naturalistic, on p. 480 (lines 22571-22572; the running head of p. 480 is at line 22557). He does not say realist"
+  },
+  {
+   "says": "A librettist’s verses, he wrote, are not written for the public. They are a letter meant for the composer alone. Their one moment comes when they prompt a melody in him, and after that they can be spared. In song, he adds, it is the syllables that cannot be spared.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), p. 473",
+   "checked": "the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22261-22267 and 22286-22289, on 2026-10-03 (the running head of p. 473 is at line 22253; the poet also read lines 22242-22243 on p. 472, that the words of a song cannot be poetry, which this entry does not report, so the examiner set the page to 473)"
+  },
+  {
+   "says": "A play can let a mistake be found out slowly. In a libretto, he wrote, the finding out has to be abrupt, because music cannot exist where things are uncertain.",
+   "quote": "song cannot walk, it can only jump",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), p. 471",
+   "checked": "the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22187-22192, on 2026-10-03; read again by the finisher the same day together with lines 22164-22185: he says it of the discovery of a mistake in a plot, and self-deception is there one kind of mistake, the kind a librettist cannot use. No caption applies the sentence to a passage now"
+  },
+  {
+   "says": "He set the great age of opera between Mozart and Verdi and tied it to an age that believed in freedom without question. For him a high C sung dead on pitch disproves the idea that chance or fate pulls the strings.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), p. 474",
+   "checked": "the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22316-22327, on 2026-10-03 (the running head of p. 474 is at line 22301)"
+  },
+  {
+   "says": "With Chester Kallman he wrote that a translator must find the right style for each opera: the Queen of the Night, who is supernatural, cannot talk like Violetta, who is a courtesan. A translation, they add, must fit the music as it is sung, and for an aria it need give only the emotion.",
+   "source": "W. H. Auden and Chester Kallman, “Translating Opera Libretti,” in *The Dyer’s Hand* (1962), pp. 485, 491 and 493",
+   "checked": "the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22781-22792, 23103-23108 and 23228-23232, on 2026-10-03; the essay's heading names Kallman (lines 22700-22703)"
+  }
+ ],
+ "next": "traviata/act-1:0",
+ "sources": [
+  "The text: Francesco Maria Piave, *La Traviata*, the libretto of Giuseppe Verdi’s opera, in the Italian of the libretto printed in Venice by Teresa Gattei for the first production at the Teatro La Fenice, in the season of 1852–53, as Italian Wikisource transcribes it beside a facsimile of each printed page; the passages shown here were read against those pages. The English set beside it is from [the Italian and English libretto](#/read/traviata) that Fred. Rullman of New York published for the Metropolitan Opera House. It names no translator and prints no date; the cover of the copy used names Edward Johnson as general manager of the house, which he was from 1935 to 1950.",
+  "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Notes on Music and Opera,” pp. 468–74; “Cav & Pag,” p. 478; “Translating Opera Libretti,” written with Chester Kallman, pp. 484–85, 488, 491, 493 and 497–98.",
+  "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (Princeton: Ontario Review Press, 1990; London: Faber, 1991): Auden’s conversation in 1947. Not seen in full.",
+  "Abramo Basevi, *Studio sulle opere di Giuseppe Verdi* (Florence, 1859), chapter 17, on *La Traviata*, pp. 225–40.",
+  "Gustav Kobbé, *The Complete Opera Book* (New York: G. P. Putnam’s Sons, 1919), on *La Traviata*, Act 1.",
+  "*The Canadian Encyclopedia*, “Edward Johnson,” for his years as general manager of the Metropolitan Opera.",
+  "*Enciclopedia dell’Italiano* (Rome: Istituto della Enciclopedia Italiana, 2010–11), at treccani.it: Claudio Ciociola, *versificazione*, *settenario*, *rima* and *metrica e lingua*; Fabio Rossi, *melodramma, lingua del*.",
+  "*Enciclopedia Italiana* (Rome: Istituto della Enciclopedia Italiana), at treccani.it: Andrea Della Corte, *cabaletta* (1930); Mario Pelaez, *ottonario* (1935).",
+  "Treccani, *Vocabolario on line*, at treccani.it: *accendere*, *accento*, *altero*, *amore*, *anima*, *animare*, *cabaletta*, *cessare*, *croce*, *cuore*, *delizia*, *dolore*, *dovere*, *finire*, *folleggiare*, *gioia*, *gioire*, *insolito*, *lauda*, *libero*, *palpito*, *rianimare*, *rinascere*, *rio*, *scolpire*, *soccorrere*, *solingo*, *spegnere*, *strano*, *trasalire*, *trasvolare*, *traviare*, *tumulto*, *vigore*, *voluttà*, *vortice* and the other words glossed. Treccani, *Enciclopedia on line*: *cabaletta*, *sdrucciolo*.",
+  "The words as sung: *Verdi’s Opera La Traviata*, containing the Italian text, with an English translation, and the music of all the principal airs (Boston: Oliver Ditson), and the Italian column of the Rullman libretto.",
+  "Paull F. Baum, *The Principles of English Versification* (1922): chapter 4, on the stanza and the couplet; chapter 5, on rhymes of one and of two syllables and on the refrain; the glossary, under Refrain.",
+  "H. G. Liddell and R. Scott, *A Greek-English Lexicon*, revised by H. S. Jones (Oxford, 1940), at the Perseus Digital Library, under *antilabe*; “Antilabe,” in Wikipedia: the name of a line of verse shared between speakers."
+ ],
+ "caveats": [
+  "Auden wrote no essay on *La Traviata*. The view given here is his general account of opera, from pages where this opera is one of his examples; fitting it to these passages is this page’s doing. That he called the opera a great work is known at second hand.",
+  "The Italian is the libretto as first printed for Venice, in a transcription that differs from the page in a few marks of punctuation and spells out the speakers’ names. As sung, to judge by old librettos, the fast song has other words in six lines, and Alfredo sings *palpito*.",
+  "The English is an old libretto version by an unnamed translator. It is free, and in the fast song it follows the words as sung, not the lines shown beside it.",
+  "Syllables are counted by the Italian rules, and the stresses marked are one reader’s. Three of the last lines of the opera count as lines of seven only if the vowel that ends one speaker’s words runs into the vowel that begins the next speaker’s.",
+  "The return of Alfredo’s tune in Violetta’s song is reported from Abramo Basevi’s study of 1859 and Gustav Kobbé’s opera guide of 1919; no score was seen. *Antilabe* is a term of Greek drama, taken here from a Greek lexicon; no handbook of Italian verse was found that uses it."
+ ],
+ "open": [
+  "Ansen's Table Talk was not seen: the remark that La Traviata is a great work, and the date 1947, rest on the research notes (snippets, no page).",
+  "No score was seen. What the music does (the return of Alfredo's phrase in the andantino, the tenor's voice behind the scenes after the fast song) is reported from Basevi (1859), read in a machine-read scan whose page numbers I took from the running heads (the OCR prints 234 as \"23i\").",
+  "The sung words of the fast song, and Alfredo's palpito, were read in American librettos that print the words under the music or beside the English (Ditson; Samuel French; Rullman's Italian column), not in a score. Who changed Piave's words, and when, I did not find. Nine Italian printings of 1856 to 1881 at archive.org (six of them Ricordi's, two of Naples, one of Genoa), read in their machine-read text, keep the words shown here, in the fast song and in Alfredo's line.",
+  "The Wikisource index dates the printed libretto 1852 and the work page 1853; the title page calls the opera written for La Fenice, to be given in the Carnival and Lent season of 1852-53. The page says only \"as first printed\" and \"for the first production\".",
+  "The translator of the hosted English is unknown. That it follows the sung words in the fast song is an inference from Rullman's own Italian column, which has the sung words, and from its second line; its fifth line could come from either text. Whether it was ever sung is not known, and the page does not say so.",
+  "That the last thirteen printed lines are eight lines of verse is shown by the first printing, which sets the pieces of each divided line in steps (page images of pp. 34 and 35, seen). That each of the eight is a seven is my count. It needs the run of vowel into vowel across a change of speaker in three lines and, in the seventh, the one-syllable reading of the first two vowels of the heroine's name; the regular stanza pattern and a line of eleven shared the same way earlier in the scene support it, and no source was found that says it of this passage.",
+  "In the last line the first printing sets two small words one over the other (page image of p. 35, seen); the transcription gives the lower one in brackets. Who sings which the libretto does not say: its margin gives the line to all. The Ditson libretto heads the line \"Alfredo e Tutti\", and the hosted English has two cries, Alfred's and everyone's. The note on the word says only what is printed and that the English makes two cries.",
+  "Plate 3 shows whole rows of the Italian cut, in which speakers' names and stage directions stand inside the row (notes.md has the word numbers); the artist may want to set them apart. The first printing has the names in the margin, shortened (Vio., Alf., Dot.); the transcription spells them out. The cut text breaks her last speech into two blocks at a blank line of the transcription, which is the turn from p. 34 to p. 35 of the printing, so the page will set a little space after row 1.4; it is not a stanza break. The English beside it will carry its speakers' names over the speeches and has one speech more than the Italian: two cries at the end where the Italian prints one line.",
+  "The transcription differs from the first printing at three places in the rows shown, all punctuation (page images of pp. 10 and 11, seen): row 9.0 word 6 ends in an exclamation mark where the print has a question mark; row 5.2 has a comma after word 0 that the print lacks; row 10.4 ends in a comma that the print lacks. The text cannot be mended without retyping it, so the second caveat and the note on row 9.0 tell the reader.",
+  "Row 10.7 is cut after word 5 to leave the stage direction out of the scansion, so the page will set points of omission after the last line of the fast song. In plate 1 the page will set a little space before each return of the four lines (they are blocks of their own in the cut); the first printing sets them off too, by a deeper indent, and sets Alfredo's eight lines as two groups of four.",
+  "The record on the site (the fast song, 1919) was not listened to; it will have the sung words, not the lines shown. The record's note on the page now says so (the lead, notes.md, The lead before the finisher).",
+  "Auden's sentence about song that can only jump is said of the discovery of a mistake. The page used to apply it to the turn between the two songs (the Scene caption of the second passage) and to the last lines (the Shared caption of the third). The finisher took it out of both on 2026-10-03: on p. 471 a mistake is a false belief that the plot later shows to be false, self-deception is one kind of it, the kind opera cannot use, and nothing on the page fits the sentence to these lines. It now stands only in the list under More from Auden, with its quotation.",
+  "From the examiner: in the third passage the page sets each stage direction of the English libretto under the name of the next speaker (Reviving under ALL, the direction about her pulse under ALFRED). The build hands a direction to the row that follows it, and the page prints that row's speaker first. In this libretto each direction follows the speech it belongs to. The label over the English column used to say the directions were left out, which was false on the page; it now says each direction goes with the speech above it. The order itself can only be mended in the kit: build/pieces.mjs where a pair row gets its `dir`, and site/js/kit/plate.js where `who` is printed before `dir`.",
+  "From the examiner: in the first and second passages the page prints the English libretto's headings of the two songs (the lines that begin Scene and Air) as stage directions. In the first passage that heading stands after the points of omission and just before the four returning lines, though the seven lines left out come after it in the libretto.",
+  "From the examiner: the name antilabe now stands on Liddell and Scott's lexicon (in dramatic dialogue, the division of a line between two speakers), with Wikipedia for the rest. It is a term of Greek drama. No Italian handbook was found that uses it of a libretto, and the last caveat says so.",
+  "From the examiner: the return of Alfredo's tune in her slow song now has a second witness, Gustav Kobbé's Complete Opera Book (1919), which calls it a refrain. I recall, and could not source here, that the orchestra plays the same tune under her last speech in Act 3. Basevi and Kobbé do not say so and no score was seen, so the page does not say it. If a score or a study can be opened, it would tie the third passage to the first.",
+  "From the examiner: the tab English of the third passage no longer cites Auden on syllables (p. 473), which the poet gave as a reason of another kind. It now cites what he and Kallman say on p. 484: opera houses should give opera in its own language, and whoever wants to follow should buy a libretto with an English version and read it first. The English shown is from such a libretto. That Auden ever held this one in his hands is not known and is not said.",
+  "From the examiner: the hosted English libretto prints no date, but the cover of the scanned copy names Edward Johnson as general manager of the Metropolitan Opera House, and he held that post from May 1935 to 1950 (The Canadian Encyclopedia; Wikipedia). So this copy was printed in those years, which take in the year of the course. The tab English of the third passage and the first entry of the sources now say so; the note of the hosted text (site/data/texts/traviata/index.json) still says only that it gives no date, and its `year` is empty. The translation itself may be older and its maker is still unknown; the library's shelf label on the binding reads 1900. The Internet Archive's record reports no notice of copyright in the copy.",
+  "From the examiner: besides the three marks of punctuation listed above, the transcription differs from the first printing in one word of line 301 and one of line 284 of the Italian file (page image of p. 10, seen). Neither line is shown, and neither difference changes the count of syllables.",
+  "From the examiner: on p. 493 Auden and Kallman follow their sentence on what the translation of an aria must do with another: the arias are an opera's high points, so the quality of a translation matters most there. The tab English of the first passage reports the first sentence and their warning about rhymes of two syllables, and not the second sentence."
+ ]
+}

@@ -1,0 +1,13 @@
+# Fate and the Individual on Netlify.
+# The site is static: nothing is built on Netlify, and the folder site/ is
+# published as it stands. Build it first with `node build/pieces.mjs`.
+# (The first version, which was live from 2 to 4 October 2026, is kept in
+# first-version/. Nothing is deployed without the owner's word.)
+[build]
+  publish = "site"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

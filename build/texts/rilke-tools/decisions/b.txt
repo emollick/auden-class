@@ -1,0 +1,9 @@
+# asterisks at the foot of a page that the OCR did not read (seen on the page images)
+*7.25
+*38.26
+*44.26
+*107.27
+*173.28
+*223.27
+# a speck at the head of the page read as a word
+@10.0.0+1 a, => 

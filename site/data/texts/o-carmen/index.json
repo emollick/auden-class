@@ -1,0 +1,44 @@
+{
+ "id": "o-carmen",
+ "original": true,
+ "lang": "fr",
+ "parts": [
+  {
+   "id": "habanera",
+   "label": "Meilhac and Halévy, Carmen, Act 1, Scene 5",
+   "lang": "fr",
+   "source": {
+    "name": "French Wikisource, from Théâtre de Meilhac et Halévy, vol. 7 (Paris: Calmann-Lévy, 1901)",
+    "url": "https://fr.wikisource.org/wiki/Carmen_(op%C3%A9ra)/Texte_entier"
+   },
+   "file": "bizet_carmen_fr_wikisource.txt",
+   "lines": "570-596",
+   "words": 158
+  },
+  {
+   "id": "la-bas",
+   "label": "Meilhac and Halévy, Carmen, Act 2, Scenes 5 and 6: Carmen to José, and the close of the act",
+   "lang": "fr",
+   "source": {
+    "name": "French Wikisource, from Théâtre de Meilhac et Halévy, vol. 7 (Paris: Calmann-Lévy, 1901)",
+    "url": "https://fr.wikisource.org/wiki/Carmen_(op%C3%A9ra)/Texte_entier"
+   },
+   "file": "bizet_carmen_fr_wikisource.txt",
+   "lines": "2480-2485,2509-2510,2670-2674",
+   "left": [2, 3],
+   "words": 71
+  },
+  {
+   "id": "cartes",
+   "label": "Meilhac and Halévy, Carmen, Act 3, Scene 2",
+   "lang": "fr",
+   "source": {
+    "name": "French Wikisource, from Théâtre de Meilhac et Halévy, vol. 7 (Paris: Calmann-Lévy, 1901)",
+    "url": "https://fr.wikisource.org/wiki/Carmen_(op%C3%A9ra)/Texte_entier"
+   },
+   "file": "bizet_carmen_fr_wikisource.txt",
+   "lines": "2935-2949",
+   "words": 96
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "upper": [
+    "Health",
+    "Bourgeois social stability",
+    "Gaiety",
+    "Voluntarism",
+    "Faith in personal integrity",
+    "Pragmatic specialized science",
+    "Classical values",
+    "Catholicism",
+    "Pragmatic and practical morality"
+  ],
+  "lower": [
+    "Sickness",
+    "Revolution",
+    "Sadness",
+    "Determinism",
+    "Doubts about personal integrity",
+    "Synthetic heroic ironism",
+    "Romantic values",
+    "Protestantism",
+    "Uncoded morality"
+  ],
+  "headings": "None. Pearce prints no heading for either row and none for any column. The two rows are told apart only by position: upper over lower.",
+  "notes": "Source: Pearce, p. 153 (foot-of-page numbering), read in the kept scan and again in the Internet Archive's search text of the same book. Pearce says he has broken the chart into three segments for the printed page; on the blackboard it was one chart in two rows from the left edge to the right. In print it stands as six lines, an upper and a lower line for each segment. Segment one holds pairs 1 to 4, segment two pairs 5 and 6, segment three pairs 7 to 9, so upper[i] stands over lower[i]. The scan gives each printed line as a run of words with nothing between the labels, so where one label ends and the next begins is this examiner's reading. It rests on the pairing of opposites: the lower line of segment one is four single words, which fixes four labels above it; in segments two and three each upper label has a lower label of the same build. The one place a different cut is possible is segment two, where 'Pragmatic' and 'Synthetic' could be labels on their own, giving ten pairs; the parallel three-word phrases make two labels each way the likelier reading. Wording: every word was read in two printings, the 1985 volume and the 1989 reprint of the essay in Pearce's Para/Worlds, scanned separately. They agree on every label, including 'ironism', 'Uncoded' and 'Doubts about'. The scans show no commas inside any label; a comma lost by the scan cannot be ruled out in 'Pragmatic specialized science'. No page image was seen. Capitals are as the scan gives them: the first word of each label only. Pearce records no word of explanation of the chart, and says only that Auden called it a summary of themes and relationships of the semester."
+}

@@ -1,0 +1,11 @@
+# augustine: Augustine, Confessions, tr. E. B. Pusey (1838)
+
+- Source: Project Gutenberg no. 3296 (https://www.gutenberg.org/ebooks/3296), cached as `.cache/texts/pg3296_augustine.txt`. A fresh download of `pg3296.txt` on 2 Oct 2026 was byte for byte the cached file. The file names Pusey as translator and does not say which printing it follows; `meta.year` 1838 is the date of his translation.
+- Parts: the thirteen books, `book-01` to `book-13`, labelled `Book I` to `Book XIII`. The script throws unless it finds thirteen, in order. This transcription has no chapter numbers or headings inside a book, so every book is left whole: Book X is 16,315 words, XIII 12,594, XII 10,205, the rest under 10,000.
+- Counts: 13 parts, 111,772 words, 319 pages; 455 paragraphs and 6 verse blocks (19 lines).
+- Word totals compared: the source body, from the heading BOOK I to the end of the Gutenberg text, is 111,801 words; the parts hold 111,772. The 29 between them are the thirteen headings (26 words) and the colophon (3). The script checks this sum and throws if it fails. A separate comparison word by word (not part of the build) found the two the same and in the same order.
+- Dropped: the Gutenberg header and licence; the title lines; the thirteen BOOK headings (they are the labels); and the colophon in capitals that closes the file (GRATIAS TIBI DOMINE), which belongs to the printed book and not to Augustine. The last block therefore ends on "Amen." The script throws if the colophon is not there to drop.
+- Verse: the quotations the source sets in from the margin are `v` blocks: Terence twice and one line of Virgil in Book I, Virgil in Book VIII, Ambrose's hymn in Book IX. The second Terence quotation has a blank line in its middle in the source and is kept as two blocks. In three places the sentence runs into the quotation and out again, so a paragraph ends without a stop (`book-01[31]`, `book-08[2]`, `book-09[31]`) and `book-08[4]` begins with a small letter. That is how the source has it.
+- Nothing else to strip: this file has no footnotes, note markers, italics marks or brackets. Scriptural quotations run on in the text and are not set apart, so there are no `q` blocks.
+- check-text: no problems, no warnings.
+- Doubt: none about the words. But a student told to read "Book VIII, chapter 12" has nothing to find it by; only paragraphs.

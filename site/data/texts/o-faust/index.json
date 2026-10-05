@@ -1,0 +1,44 @@
+{
+ "id": "o-faust",
+ "original": true,
+ "lang": "de",
+ "parts": [
+  {
+   "id": "himmel",
+   "label": "Goethe, Faust, Part I, Prologue in Heaven, lines 267 to 270 and 275 to 282",
+   "lang": "de",
+   "source": {
+    "name": "Project Gutenberg, no. 2229: Goethe, Faust: Der Tragödie erster Teil",
+    "url": "https://www.gutenberg.org/ebooks/2229"
+   },
+   "file": "faust_german.txt",
+   "lines": "394-397,404-411",
+   "left": [1],
+   "words": 87
+  },
+  {
+   "id": "studierzimmer",
+   "label": "Goethe, Faust, Part I, Study, lines 1334 to 1344",
+   "lang": "de",
+   "source": {
+    "name": "Project Gutenberg, no. 2229: Goethe, Faust: Der Tragödie erster Teil",
+    "url": "https://www.gutenberg.org/ebooks/2229"
+   },
+   "file": "faust_german.txt",
+   "lines": "1774-1775,1778-1779,1782-1782,1785-1791",
+   "words": 76
+  },
+  {
+   "id": "gretchen",
+   "label": "Goethe, Faust, Part I, Gretchen’s Room, lines 3394 to 3405",
+   "lang": "de",
+   "source": {
+    "name": "Project Gutenberg, no. 2229: Goethe, Faust: Der Tragödie erster Teil",
+    "url": "https://www.gutenberg.org/ebooks/2229"
+   },
+   "file": "faust_german.txt",
+   "lines": "5157-5160,5162-5165,5167-5170",
+   "words": 36
+  }
+ ]
+}

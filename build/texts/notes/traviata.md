@@ -1,0 +1,41 @@
+# traviata
+
+Source: Internet Archive, item `latraviataloston00verduoft` (a scan from the University of Toronto), the plain OCR text `latraviataloston00verduoft_djvu.txt`. Not Project Gutenberg: the file is raw machine reading of the page images.
+
+What it is: "La Traviata (The Lost One). A Grand Opera in Three Acts. Music by Giuseppe Verdi. Book by F. M. Piave. Published by Fred Rullman, Inc., New York, N. Y." The cover reads "Metropolitan Opera House. Grand Opera. Edward Johnson, General Manager. Libretto. The original Italian, French or German libretto with a correct English translation." Italian and English.
+
+Translator: not named anywhere in the book.
+
+Date: none in the book, so `year` is null. The Archive's record says "[19--?]"; the library's shelf mark says 1900. This copy is a late printing from old plates: Edward Johnson became manager in 1935, and the piano advertisement at the back quotes a conductor who died in 1939. The English text is older than that; an earlier printing from the same plates is also on the Archive (item `cu31924082581657`, Cornell).
+
+The two languages: the book prints a page of Italian (two columns) and then a page of English (two columns); the file gives the columns one after another. The script tells the English lines from the Italian by their words (common words of each language, counted block by block; a block the words do not settle takes the language of the blocks round it), and throws if a block holds both or cannot be placed. Twenty-four places are settled by hand in the table `ASSIGN` (headings, names of airs, and names the scan read as a column of their own). While writing the script I compared its answer with the page each line stands on (English on the even leaves of the scan): they agree on every line of text.
+
+Dropped: the library's binding and bookplate, the cover, the title page, the list of persons with its note of the place and time, the prose Argument, all the Italian, the running heads and page numbers, the two lines that say an act has ended, "The End", the printed music of three airs that follows it, and the advertisement.
+
+Parts: `act-1` to `act-3` (5, 15 and 8 scenes; the scene headings are `h` blocks, and the last is headed "Scene the Last" as in the book). 3 parts, 7,410 words, 939 lines, 27 pages; 417 `s`, 451 `v`, 216 `d`, 28 `h`.
+
+Verse: everything sung is set in lines in the book, so all of it is `v`. A line too long for the column is turned over; the turned part is joined to its line (104 of them; it begins with a small letter, and two that begin with a capital are in the table `TURNED`). 32 words broken at the end of a line are joined; four hyphens that belong to their words are kept. A `v` block ends where a direction or a new speaker comes; the book's stanzas are not otherwise marked.
+
+Speakers: the book cuts most names to three letters and a stop; the script gives them in full, in capitals, from a table (`WHO`). The full names are those of the book's list of persons and of its own directions (which speak of the Baron, the Marquis and the Doctor, and bring on a Messenger and a Servant). Two or three names that stand against a brace are joined with "and" (the book has "&" between them once). Under "Gypsies" the book numbers two speeches 1 and 2: they are GYPSIES 1 and GYPSIES 2. Three lines in the middle of the column say in full who sings the number under them (table `NAMED`: two pairs of singers, and the chorus heard from the street in Act 3). Three speeches have no name over them and are given to the one person the heading above them names (table `UNNAMED`: Violetta twice, Alfred once).
+
+Stage directions: the book opens a direction with a bracket and closes it only when words follow in the same line; at the head of a scene directions stand without brackets (table `PLAIN`, 36). All are `d` blocks without the brackets. An open direction runs to the end of its sentence, or to a dash or colon at the end of a line; one line that goes on after a full stop is in `MORE`, one direction that ends in a comma is in `ENDS`. I checked the ends against the pages. The names of the airs and duets, which the book sets in small capitals over them (eleven), are `d` blocks in ordinary letters; some are in quotation marks in the book and some not, and I keep that. Names in small capitals inside directions are in ordinary letters.
+
+Marks: the old printer's space before ; : ! ? is taken out, dashes are closed up to the words as the book has them, and the quotation marks and apostrophes are curled. The letter Alfred reads in Act 2 is in single marks in the book.
+
+Corrections: I read every English column against the page image, leaf by leaf, then set the mended lines beside the machine reading of the other copy (same plates, same lines) and looked at every difference, then read the built text from end to end. 542 rows in the table `FIXES` (line of the file, wrong, right) mend 524 lines. Most are misread letters and marks. Among them:
+- Words the scan left out are put back where the page has them: a direction in Act 2, scene 10; two short ends of speeches and the first word of a line in Act 2, scenes 12 and 15; the last word of the opening direction of Act 3; the two names against a brace in Act 2, scene 9.
+- Names the scan read apart from their lines (two stretches of Act 2, fourteen lines) are put back before their speeches, one direction it gave before its speech is put after it, as on the page, and the name of an air it read in two lines is made one. This is what the 16 rows that mend a line to nothing are for.
+- The print is worn. Where the right edge of a column has not printed in our copy, the letters lost are read from the other copy. Directions end with a full stop throughout the book; where the stop of a direction is lost at the edge in both copies it is supplied. One hyphen that has not printed in our copy is taken from the other copy (the looking-glass of Act 2, scene 1).
+- An exclamation mark often prints as its top stroke only; I read it as an exclamation mark.
+Every word not found in the other English texts of the course was looked at (55 words: all right as they stand; list `KNOWN`). I also set the order of the speakers, scene by scene, beside the names of the Italian column as far as the scan reads them: no speech of the English is out of its place.
+
+Slips of the printer mended (table `MISPRINTS`, nine): two misspelt words, a bracket left out before a direction, the closing parenthesis of an aside, a stop set outside its bracket, one wrong letter in a speaker's name, two question marks that should be exclamation marks after a call on Heaven and a call on the beloved, and a closing quotation mark that does not show at the end of the last line of Act 3, scene 5.
+
+Kept as printed (they look like errors and are not the scan's; I checked each on the page, and the lines without stops in both copies): three speeches that end without any stop (file lines 418, 746, 3751) and two lines inside speeches where a stop is wanted and none is printed (2569, 3798); a full stop where a comma is wanted in a few places and a full stop after a question (2865); a dash in the middle of a phrase (745); "thou has" once; "all future" for "all the future" in the second stanza of the duet of Act 3; the Doctor's name spelt Grenville in the text and Grenvil in the list of persons; Gaston without its e in one direction; the heading of Act 1, scene 2, which brings on Alfred and Germont as if they were two persons; the Spanish words in the spellings the book gives them; "can not" and "cannot", "traveled" and "unravelled" side by side.
+
+Doubtful:
+- Act 1, scene 3, file line 810: a mark has dropped out after the first two words (both copies show a gap); an exclamation mark is supplied.
+- Act 1, scene 3, file line 799: the mark at the end is a blot in both copies; read as a question mark, which the sense and the Italian ask for.
+- Act 2, scene 15, file line 3259: a question mark after the second call of a name, where an exclamation mark would be expected. Kept as printed.
+- Act 3, scene 5, file line 3730: the words in quotation marks after the direction. The opening mark is plain; the closing mark is supplied (see above).
+- Other marks read from worn type, where the page allows more than one reading: file lines 733, 1501, 1534, 2217, 3060.

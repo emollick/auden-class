@@ -1,0 +1,56 @@
+{
+ "id": "o-orpheus",
+ "original": true,
+ "lang": "it",
+ "parts": [
+  {
+   "id": "call",
+   "label": "Calzabigi, Orfeo ed Euridice, Act 1, Scene 1: the first strophe of Orpheus’s song",
+   "lang": "it",
+   "source": {
+    "name": "Internet Archive, machine-read from the libretto printed in Milan by Ricordi in 1879 (the University of Toronto’s copy)",
+    "url": "https://archive.org/details/orfeoedeuridicea00gluc_1"
+   },
+   "file": "gluck_orfeo_ed_euridice_it_ricordi_1879_ia_ocr.txt",
+   "lines": "171-177",
+   "words": 28
+  },
+  {
+   "id": "law",
+   "label": "Calzabigi, Orfeo ed Euridice, Act 1, Scene 2: the end of Love’s terms",
+   "lang": "it",
+   "source": {
+    "name": "Internet Archive, machine-read from the libretto printed in Milan by Ricordi in 1879 (the University of Toronto’s copy)",
+    "url": "https://archive.org/details/orfeoedeuridicea00gluc_1"
+   },
+   "file": "gluck_orfeo_ed_euridice_it_ricordi_1879_ia_ocr.txt",
+   "lines": "288-294",
+   "words": 25
+  },
+  {
+   "id": "loss",
+   "label": "Calzabigi, Orfeo ed Euridice, Act 3, Scene 1: Orpheus after Eurydice dies again, before and after his aria",
+   "lang": "it",
+   "source": {
+    "name": "Internet Archive, machine-read from the libretto printed in Milan by Ricordi in 1879 (the University of Toronto’s copy)",
+    "url": "https://archive.org/details/orfeoedeuridicea00gluc_1"
+   },
+   "file": "gluck_orfeo_ed_euridice_it_ricordi_1879_ia_ocr.txt",
+   "lines": "869-872,891-892",
+   "left": [1],
+   "words": 45
+  },
+  {
+   "id": "aria",
+   "label": "Calzabigi, Orfeo ed Euridice, Act 3, Scene 1: Orpheus’s aria",
+   "lang": "it",
+   "source": {
+    "name": "Internet Archive, machine-read from the libretto printed in Milan by Ricordi in 1879 (the copy of the University of North Carolina at Chapel Hill)",
+    "url": "https://archive.org/details/orfeoedeuridicea00calz"
+   },
+   "file": "gluck_orfeo_ed_euridice_it_ricordi_1879_unc_ocr.txt",
+   "lines": "1010-1010,1004-1004,1005-1006,1007-1009",
+   "words": 36
+  }
+ ]
+}

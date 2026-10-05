@@ -1,0 +1,43 @@
+{
+ "id": "o-gotterdammerung",
+ "original": true,
+ "lang": "de",
+ "parts": [
+  {
+   "id": "norn",
+   "label": "Wagner, Götterdämmerung, Prelude: the third Norn",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from Richard Wagner, Die Musikdramen (Hamburg, 1971)",
+    "url": "http://www.zeno.org/Literatur/M/Wagner,+Richard/Musikdramen/Der+Ring+des+Nibelungen/G%C3%B6tterd%C3%A4mmerung"
+   },
+   "file": "wagner_goetterdaemmerung_de_zeno.txt",
+   "lines": "219-231",
+   "words": 29
+  },
+  {
+   "id": "rhine",
+   "label": "Wagner, Götterdämmerung, Act 3, Scene 1: the Rhinemaidens",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from Richard Wagner, Die Musikdramen (Hamburg, 1971)",
+    "url": "http://www.zeno.org/Literatur/M/Wagner,+Richard/Musikdramen/Der+Ring+des+Nibelungen/G%C3%B6tterd%C3%A4mmerung"
+   },
+   "file": "wagner_goetterdaemmerung_de_zeno.txt",
+   "lines": "4347-4351,4355-4357,4361-4363,4367-4369,4373-4375",
+   "words": 41
+  },
+  {
+   "id": "brand",
+   "label": "Wagner, Götterdämmerung, Act 3, Scene 3: Brünnhilde",
+   "lang": "de",
+   "source": {
+    "name": "zeno.org, from Richard Wagner, Die Musikdramen (Hamburg, 1971)",
+    "url": "http://www.zeno.org/Literatur/M/Wagner,+Richard/Musikdramen/Der+Ring+des+Nibelungen/G%C3%B6tterd%C3%A4mmerung"
+   },
+   "file": "wagner_goetterdaemmerung_de_zeno.txt",
+   "lines": "5381-5401",
+   "words": 43
+  }
+ ]
+}

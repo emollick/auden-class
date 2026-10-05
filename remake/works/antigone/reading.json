@@ -1,0 +1,1258 @@
+{
+ "piece": "antigone",
+ "title": "The laws and the city",
+ "where": "*Antigone*: the elders’ song on man, Antigone’s answer, Creon and his son",
+ "about": "Two brothers have killed each other fighting over Thebes, and Creon, the new king, orders that one lie unburied on pain of death; their sister Antigone buries him. The first passage ends a song that the chorus, the city’s elders, sing before they know who did it. In the second Antigone, caught, answers the king (two and a half lines are left out at the dots), and in the third Creon quarrels with his son Haemon, who is to marry her. The English is F. Storr’s verse translation of 1912.",
+ "view": {
+  "says": "In 1941 Auden made Antigone his instance of the hero who accepts a tragic choice: seeing that she cannot both obey the law and do her duty to her brother, she chooses, and her death is her own will. In 1967 he held that for Sophocles the chief figure is Creon: Antigone’s part is to reveal his hubris, the overconfidence of a man who thinks himself a god, beyond suffering.",
+  "quote": "because she realizes that she cannot do both, she is free to choose, chooses, and wills her death",
+  "source": "“James Joyce and Richard Wagner,” *Common Sense*, March 1941, in *Prose*, vol. II (2002), p. 116; “The Martyr as Dramatic Hero,” in *Secondary Worlds* (1968), p. 19; on what hubris is, “The Greeks and Us” (1948), in *Forewords and Afterwords* (1973), p. 19",
+  "checked": "The 1941 and 1967 passages were read on 2026-10-03 in the research notes, remake/research/C_auden_on_works.md, section 3 and appendix blocks H17c and H11, which give them from search-inside snippets of the two books. Neither book is among the scans. The account of hubris was read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 957 to 959 (page 19), and read again there on 2026-10-03. The examiner, on 2026-10-03, read both passages again in full-text search snippets of the Internet Archive’s copies (prosetravelbooks0000aude, which is Prose vol. II; secondaryworldse00aude, the Random House edition of 1968): the 1941 sentences and the quotation are there word for word, and so are the 1967 sentences. Pages: the 1941 essay begins on p. 115 (index and textual notes) and the next piece begins at the head of p. 119, so the essay is pp. 115–18; the running head of p. 117 stands about 320 words after the end of the Antigone passage and no head stands between, and a full page of that book holds about 600 words, so the sentence is on p. 116 (counted from the snippets, not seen on the page; the head of p. 116 itself was not found in the search text). In Secondary Worlds the page number stands at the foot: the sentence on the decree ends just before the foot of p. 18, and the sentences on Creon as the chief figure, on Antigone’s part and on the punishment are on p. 19. The dates were seen too: the date line Common Sense, March 1941 stands under the essay, just before the head of p. 119, and the jacket of Secondary Worlds says the lectures were delivered in October 1967."
+ },
+ "plates": [
+  {
+   "id": "elders",
+   "heading": "The elders end their song on man",
+   "text": "antigone/p2",
+   "rows": [
+    "73.0-73.5"
+   ],
+   "turn": {
+    "73.0": 5,
+    "73.4": 4,
+    "73.5": 6
+   },
+   "lenses": [
+    {
+     "kind": "word",
+     "label": "Greek",
+     "caption": "The elders name two things for a man to honor: <b>the laws of the land</b>, and what Storr calls <b>the Gods of the State</b>, which in the Greek is the gods’ justice, sworn by oath. The man who honors both is <i>hypsipolis</i>, one word made of <i>high</i> and <i>city</i>. Next to it stands its opposite, <i>apolis</i>, <b>cityless</b>: the man whose daring brings him to wrong. The stanza asks for law and justice together. In the second passage Antigone says that Justice made no such laws as Creon’s. Auden’s Antigone owes one duty to her dead brother and one to her city, and must break one.",
+     "why": "The elders ask for the land’s laws and the gods’ sworn justice together, a high city for the man who keeps both and none for the man who dares wrong; Auden’s Antigone must fail her brother or her city.",
+     "stands": "The marks on the passage. The Greek of lines 365 to 375, with Liddell and Scott under *hypsipolis*, *apolis*, *enorkos*, *tolma* and *parestios*, and Jebb’s notes on lines 369 to 372. The gods’ justice follows the translation at Perseus; Jebb himself reads justice sworn by the gods. Antigone’s words about Justice are in [her answer to Creon](#/read/antigone/p3:36). Auden, *Forewords and Afterwords*, p. 19.",
+     "grounds": [
+      {
+       "claim": "which of Storr’s words each gloss stands under",
+       "kind": "plate"
+      },
+      {
+       "claim": "where Storr has the Gods of the State the Greek has justice, with of the gods and oath-bound on it; the caption and the gloss take it as the justice of the gods to which a man is bound by oath, with the translation at Perseus, and the gloss’s note gives Jebb’s other construction (the justice he has sworn by the gods to uphold)",
+       "kind": "source",
+       "source": "Sophocles, Antigone 368–69, in the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library; Liddell-Scott-Jones, A Greek-English Lexicon, enorkos II (that whereto one is sworn), which cites this line; the English translation at Perseus (credited to Jebb’s edition of 1891, but revised in wording: the justice of the gods to which he is bound by oath); R. C. Jebb’s own translation of the line in Sophocles: The Plays and Fragments, Part III, second edition (1891), read in the Internet Archive’s copy playsfragmentswi03sophuoft, and his note on line 369 (1900, at Perseus), both of which take the gods with the oath"
+      },
+      {
+       "claim": "hypsipolis and apolis are single words built on polis, city; they stand side by side in the line and are opposites",
+       "kind": "source",
+       "source": "Antigone 370 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, hypsipolis and apolis, each of which cites this line and names the other as its opposite; Jebb’s note on line 370 (hypsipolis: having a high city)"
+      },
+      {
+       "claim": "the cityless man is the one whom daring brings to what is not good",
+       "kind": "source",
+       "source": "Antigone 370–71 (Perseus); Jebb’s note on line 370 (by reason of his audacity); Liddell-Scott-Jones, A Greek-English Lexicon, tolma"
+      },
+      {
+       "claim": "the stanza asks for the laws of the land and the gods’ justice in one clause",
+       "kind": "text",
+       "source": "antigone/p2, row 73.2; Antigone 368–69"
+      },
+      {
+       "claim": "in the second passage Antigone says that Justice made no such laws as Creon’s",
+       "kind": "text",
+       "source": "antigone/p3, rows 36.1 to 36.2; Antigone 451–52 as Storr’s Greek text prints it (line 452 is a correction of the manuscripts; see open)"
+      },
+      {
+       "claim": "Antigone owes one duty to her dead brother and another to her city, and has to break one of them",
+       "kind": "auden",
+       "source": "“The Greeks and Us” (1948), in Forewords and Afterwords (1973), p. 19"
+      }
+     ],
+     "notes": [
+      {
+       "row": "73.1",
+       "w": [
+        3,
+        12
+       ],
+       "gloss": "Greek order: evil, then good",
+       "note": "Sophocles has the two the other way round: his man goes at one time to evil, at another to good.",
+       "source": "Antigone 367 (the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library); R. C. Jebb’s prose translation of the line (1891)"
+      },
+      {
+       "row": "73.2",
+       "w": [
+        3,
+        7
+       ],
+       "gloss": "nomoi, laws: Creon’s word too",
+       "note": "In the second passage Creon asks Antigone whether she dared overstep these *nomoi*, the same noun.",
+       "source": "Antigone 368 and 449 (Perseus)"
+      },
+      {
+       "row": "73.2",
+       "w": [
+        10,
+        14
+       ],
+       "gloss": "Greek: the gods’ sworn justice",
+       "note": "Word for word: of the gods, oath-bound, justice. The editor Jebb takes it as the justice a man has sworn by the gods to uphold; the Perseus revision of his translation takes it as the gods’ justice, to which he is bound by oath.",
+       "source": "Antigone 369 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, enorkos II (that whereto one is sworn), which cites this line; Jebb’s note on line 369 (1900, at Perseus) and his own translation of the line in the second edition (1891, Internet Archive, playsfragmentswi03sophuoft), which take the gods with the oath; the English translation at Perseus, credited to Jebb’s edition of 1891 but revised in wording, which takes the gods with justice"
+      },
+      {
+       "row": "73.3",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "one Greek word: hypsipolis",
+       "note": "A compound of *high* and *city*: the dictionary gives citizen of a proud city, and Jebb’s note takes it as having a high city, not standing high in his city.",
+       "source": "Antigone 370 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, hypsipolis, which cites this line; Jebb’s note on line 370"
+      },
+      {
+       "row": "73.3",
+       "w": [
+        7,
+        7
+       ],
+       "gloss": "apolis: without a city",
+       "note": "The dictionary’s first sense is without city or country; for this line it gives another, no true citizen, the opposite of *hypsipolis*, which stands next to it.",
+       "source": "Antigone 370 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, apolis, which cites this line"
+      },
+      {
+       "row": "73.4",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "tolma: daring",
+       "note": "The dictionary gives courage and, in a bad sense, over-boldness; Creon uses the verb made from it in the second passage, where Storr again says *bold*.",
+       "source": "Antigone 371 and 449 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, tolma and tolmao"
+      },
+      {
+       "row": "73.5",
+       "w": [
+        1,
+        6
+       ],
+       "gloss": "Greek: share my hearth",
+       "note": "Sophocles has *parestios*, by or at the hearth: may the man who does these things never be at my hearth.",
+       "source": "Antigone 372–75 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, parestios, which cites this line; Jebb’s note on line 372"
+      }
+     ]
+    },
+    {
+     "kind": "beat",
+     "label": "Beat",
+     "caption": "Each line has six beats, with one or two syllables between them, and four of the six have a pause after the third. A handbook of verse says that lines of more than five beats tend to break up into smaller units. The speeches as a rule go in five beats without rhyme; the song leaves that line, as Sophocles here leaves spoken verse for song. The beat is Storr’s: Auden notes that unrhymed Greek verse, measured by syllable length, and rhymed English verse share nothing but rhythm. Twice Storr sets half against half: <b>the light</b> against <b>counsels of ill</b>, a standing city against a man with none.",
+     "why": "Where Sophocles passes from speech to song, Storr passes from the five-beat line of the speeches to a six-beat line in two halves, and twice the halves carry the stanza’s alternatives: light or ill, a standing city or none.",
+     "stands": "The marks on the passage, placed by ear. Baum, *The Principles of English Versification*, chapters 3 and 4, on lines of more than five beats, blank verse and Greek verse measured by length. Aristotle’s *Poetics*, chapters 4, 6 and 12, on speech and song; [the guard’s speech before the song](#/read/antigone/p2:64) for the five-beat line. Auden, *Forewords and Afterwords*, p. 5.",
+     "grounds": [
+      {
+       "claim": "six beats in each of the six lines, with one or two light syllables between beats; a stop after the third beat in rows 73.1, 73.2, 73.3 and 73.5; the two halves set against each other in rows 73.1 and 73.3",
+       "kind": "plate"
+      },
+      {
+       "claim": "lines of more than five feet tend to break up into smaller units (the same part of the book says of the six-stress iambic line, the alexandrine, that it tends to split into three and three)",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, part 1 (The Line): the first statement is made of English lines in general, the second of the 6-stress iambic line; Storr’s line is not iambic throughout, so the caption gives only the first"
+      },
+      {
+       "claim": "the speeches as a rule go in unrhymed five-beat lines, the blank verse of English drama",
+       "kind": "text",
+       "source": "antigone/p2, block 64 (the guard’s speech just before the song) and the lines on the other two plates; Paull F. Baum, The Principles of English Versification (1922), chapter 4, part 3, on blank verse. As a rule, because one rhymed couplet closes the Messenger’s report (antigone/p5, rows 114.51 to 114.52), and the parts Antigone and Creon sing in their last scenes are rhymed (see open)"
+      },
+      {
+       "claim": "in the Greek the dialogue is spoken verse and the chorus’s part is song",
+       "kind": "source",
+       "source": "Aristotle, Poetics, translated by S. H. Butcher, chapters 4, 6 and 12; Liddell-Scott-Jones, A Greek-English Lexicon, which marks lines 360, 365, 369 and 370 of this song as lyric"
+      },
+      {
+       "claim": "Greek verse was measured by the length of syllables",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 3, on the classical feet"
+      },
+      {
+       "claim": "Greek verse, quantitative and unrhymed, and the rhymed verse of English are alike only in being patterns of rhythm",
+       "kind": "auden",
+       "source": "“The Greeks and Us” (1948), in Forewords and Afterwords (1973), p. 5"
+      }
+     ],
+     "meterName": "six beats to the line, mostly three and three, with one or two syllables between the beats",
+     "scan": {
+      "73.0": {
+       "meter": "/xx/x/x/xx/xx/",
+       "voice": "/x x /x / x / x x /x x /"
+      },
+      "73.1": {
+       "meter": "x/x/xx/x/x/xx/",
+       "voice": "x / \\ / x x / | x / x /x x /"
+      },
+      "73.2": {
+       "meter": "xx/xx/xx/xx/x/xx/",
+       "voice": "x x /x x / x x / | x x/ x / x x /"
+      },
+      "73.3": {
+       "meter": "/xx/xx/xx/xx/xx/",
+       "voice": "/x x /x x / | x x /xx /\\ x /"
+      },
+      "73.4": {
+       "meter": "/x/xx/xx/x/xx/",
+       "voice": "/x / x x / x x / x / x x/"
+      },
+      "73.5": {
+       "meter": "/xx/xx/x/x/xx/",
+       "voice": "/ x x / x x / | x / x / x x /"
+      }
+     },
+     "points": [
+      {
+       "at": [
+        "73.0",
+        3,
+        5
+       ],
+       "say": "Here the phrase runs on past the third beat, and the line has no pause inside it."
+      },
+      {
+       "at": [
+        "73.1",
+        3,
+        8
+       ],
+       "say": "*Now* stands once in each half of the line. Said as a contrast, it takes the beat both times; *man*, just before the first, can also be heard stressed."
+      },
+      {
+       "at": [
+        "73.3",
+        2,
+        7
+       ],
+       "say": "*City* takes a beat in each half: the city that stands, then *cityless*."
+      },
+      {
+       "at": [
+        "73.4",
+        0,
+        0
+       ],
+       "say": "The dictionary stresses this word on its first syllable, and so it takes the line’s first beat. Said lightly, as a run-up to the next word, it leaves the line five beats, and the inner rhyme then falls on the second."
+      }
+     ]
+    },
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "caption": "The rhyme is Storr’s. Greek verse as a rule had none. The line ends rhyme in pairs: <b>skill</b> with <b>ill</b>, <b>State</b> with <b>rate</b>, <b>depart</b> with <b>heart</b>. The lines rhyme midway too: <b>flight</b> with <b>light</b>, <b>land</b> with <b>stand</b>, <b>pride</b> with <b>side</b>. Each pair of long lines is also four short ones rhymed by turns. In Sophocles man’s skill brings him now to evil, now to good. Storr has the other order, and <b>ill</b> comes last, where it rhymes with <b>skill</b>. Storr held that a translation must be English before anything else. Auden thought it almost a rule that the more a version succeeds as English verse, the less it resembles the Greek.",
+     "why": "Storr adds rhyme, twice a line, to a song with none in the Greek, and where skill rhymes with ill Sophocles’ order is reversed; Auden almost makes it a rule that success as English verse costs likeness to the Greek.",
+     "stands": "The marks on the passage. Baum, chapter 5 (Greek verse rejected rhyme) and chapter 4 (a short quatrain printed as a long couplet). The Greek of line 367 and Jebb’s translation of it, for the order of evil and good. Storr’s introduction to his *Sophocles* (1912), p. xii; Auden, *Forewords and Afterwords*, p. 5.",
+     "grounds": [
+      {
+       "claim": "which words rhyme, at the line ends and midway through each line (the third beat, as the Beat tab scans the lines; in row 73.4 that depends on how word 0 is stressed, so the caption says midway)",
+       "kind": "plate"
+      },
+      {
+       "claim": "Greek verse as a rule did not rhyme, and this stanza does not",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on the origin of rime (Greek prosody rejected it; a footnote adds that rime occurs here and there in Greek and Latin poetry); Antigone 365–75 (Perseus), where no line ends rhyme"
+      },
+      {
+       "claim": "a long couplet with a rhyme inside each line is a quatrain of short lines printed as two",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, part 2 (a shorter quatrain is sometimes printed as a long couplet), and the glossary under Rime (internal rime is sometimes merely a matter of printing)"
+      },
+      {
+       "claim": "Sophocles’ order is evil, then good",
+       "kind": "source",
+       "source": "Antigone 367 (Perseus); R. C. Jebb’s prose translation of the line (1891)"
+      },
+      {
+       "claim": "Storr held as his first principle that a translation, whatever else it is, must be English",
+       "kind": "source",
+       "source": "F. Storr, introduction to Sophocles, vol. 1 (Loeb Classical Library, 1912), p. xii"
+      },
+      {
+       "claim": "the more a translation succeeds as English poetry, the further it stands from Greek poetry, or nearly so",
+       "kind": "auden",
+       "source": "“The Greeks and Us” (1948), in Forewords and Afterwords (1973), p. 5"
+      }
+     ],
+     "ends": {
+      "73.0": "a",
+      "73.1": "a",
+      "73.2": "b",
+      "73.3": "b",
+      "73.4": "c",
+      "73.5": "c"
+     },
+     "tails": {
+      "73.0": 3,
+      "73.1": 3,
+      "73.2": 3,
+      "73.3": 3,
+      "73.4": 3,
+      "73.5": 3
+     },
+     "threads": [
+      {
+       "sound": "ight",
+       "at": [
+        [
+         "73.0",
+         3,
+         2,
+         4
+        ],
+        [
+         "73.1",
+         6,
+         1,
+         4
+        ]
+       ]
+      },
+      {
+       "sound": "and",
+       "at": [
+        [
+         "73.2",
+         7,
+         1,
+         3
+        ],
+        [
+         "73.3",
+         4,
+         2,
+         3
+        ]
+       ]
+      },
+      {
+       "sound": "ide",
+       "at": [
+        [
+         "73.4",
+         4,
+         2,
+         3
+        ],
+        [
+         "73.5",
+         6,
+         1,
+         3
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "shape",
+     "label": "Song",
+     "caption": "This stanza is the last of four. The song follows a guard’s report that someone has buried the body; the elders do not know who. Three stanzas count what man has mastered: sea and earth; bird, beast and fish; speech, thought, city life, shelter. For death alone he has found no cure. The fourth turns from his power to its use. In the Greek the last two stanzas each set two opposites side by side: all-inventive and resourceless, high-citied and cityless. Auden wrote that the tragic hero is a warning to the chorus, and the man to imitate is the moderate citizen who keeps the law.",
+     "why": "Three stanzas count man’s power and the fourth judges its use and praises the keeper of the laws; Auden says the tragic hero is a warning to the chorus, and the man to imitate is the moderate, law-keeping citizen.",
+     "stands": "The song as printed here, from [its first stanza](#/read/antigone/p2:67) to the elders’ sight of Antigone, and [the guard’s report](#/read/antigone/p2:33) before it. The Greek of lines 360 to 362 and 370, with Liddell and Scott under *pantoporos*, *aporos* and *hypsipolis*. Auden, *Forewords and Afterwords*, pp. 19–20.",
+     "grounds": [
+      {
+       "claim": "the four stanzas and what each tells",
+       "kind": "text",
+       "source": "antigone/p2, blocks 67, 69, 71 and 73; each is listed in this lens’s facts"
+      },
+      {
+       "claim": "the song follows the guard’s report that someone has buried the body and gone, leaving no trace; Antigone is led in only after it",
+       "kind": "text",
+       "source": "antigone/p2, rows 33.0 to 33.2 and 37.0 to 37.3, and block 74"
+      },
+      {
+       "claim": "man has provision for everything, and for death alone no cure",
+       "kind": "text",
+       "source": "antigone/p2, rows 71.3 to 71.4; Antigone 360–62 (Perseus), where the Greek says from death alone"
+      },
+      {
+       "claim": "the fourth stanza turns from man’s skill to where it guides him, and praises the man who honors the laws",
+       "kind": "plate"
+      },
+      {
+       "claim": "in the Greek, the third stanza sets pantoporos beside aporos and the fourth sets hypsipolis beside apolis, each pair at the head of its stanza’s fourth printed line",
+       "kind": "source",
+       "source": "Antigone 360 and 370 (the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library); Liddell-Scott-Jones, A Greek-English Lexicon, pantoporos (all-inventive, the opposite of aporos), aporos III.2 (without means or resources) and hypsipolis; Online Etymology Dictionary, strophe and antistrophe (the antistrophe answers the strophe)"
+      },
+      {
+       "claim": "the tragic hero is a warning meant for the chorus; what a citizen of the democracy should try to be is a moderate man who keeps the law, and not a hero",
+       "kind": "auden",
+       "source": "“The Greeks and Us” (1948), in Forewords and Afterwords (1973), pp. 19–20"
+      }
+     ],
+     "what": "the song on man: its four stanzas, what comes before it and what comes after",
+     "facts": [
+      {
+       "part": "before the song",
+       "tells": "a guard reports that someone has strewn dust on the body, done the rites and gone without a trace; Creon swears to punish the guards with worse than death unless they find the man, and goes in",
+       "read": "antigone/p2:33",
+       "where": "antigone/p2, rows 33.0 to 33.2, 37.0 to 37.3, 41.21 to 41.26 and 61.0 to 61.2, and block 62"
+      },
+      {
+       "part": "first stanza",
+       "lines": 6,
+       "Greek lines": "332 to 342",
+       "tells": "wonders are many and none is a greater wonder than man: he crosses the stormy sea, and year after year his plows work the Earth, oldest of the gods",
+       "read": "antigone/p2:67",
+       "where": "antigone/p2, rows 67.0 to 67.5",
+       "note": "The Greek adjective is deinos. The dictionary puts this line under wondrous, marvellous, strange; the word’s first sense is fearful, terrible. Liddell-Scott-Jones, A Greek-English Lexicon, deinos, which cites line 333."
+      },
+      {
+       "part": "second stanza",
+       "lines": 5,
+       "Greek lines": "343 to 353",
+       "tells": "he snares birds, wild beasts and the fish of the sea; he tames the bull and the mountain deer, and breaks the horse to the bit",
+       "read": "antigone/p2:69",
+       "where": "antigone/p2, rows 69.0 to 69.4",
+       "note": "The last line of this stanza finds its rhyme in the first line of the next."
+      },
+      {
+       "part": "third stanza",
+       "lines": 5,
+       "Greek lines": "354 to 364",
+       "tells": "he has taught himself speech, quick thought and the ways of a city, and how to shelter from rain and frost; he is ready for everything and has learned to bear disease; against death he has found no remedy",
+       "opposites side by side in the Greek": "pantoporos, aporos: all-inventive, without resource",
+       "read": "antigone/p2:71",
+       "where": "antigone/p2, rows 71.0 to 71.4",
+       "note": "Greek line 360 sets pantoporos, all-inventive, next to aporos, without resource, at the head of the stanza’s fourth printed line of six; the second word belongs to the clause that follows it (without resource he meets nothing that is to come). Liddell-Scott-Jones, A Greek-English Lexicon, pantoporos, which cites the line and names aporos as its opposite; R. C. Jebb’s note on line 360. In the Greek, escape from death is named before the cure of diseases (lines 361 to 364); Storr puts death last."
+      },
+      {
+       "part": "fourth stanza",
+       "lines": 6,
+       "Greek lines": "365 to 375",
+       "tells": "his skill, past all thinking, leads him now to good, now to ill; if he honors the land’s laws and the gods his city stands proud; the man who boldly leaves the right path has no city, and the elders will not sit beside him or think as he does",
+       "opposites side by side in the Greek": "hypsipolis, apolis: high-citied, cityless",
+       "read": "antigone/p2:73",
+       "where": "antigone/p2, rows 73.0 to 73.5",
+       "note": "Greek line 370 sets hypsipolis next to apolis at the head of the stanza’s fourth printed line of six, the place where the stanza before has pantoporos and aporos."
+      },
+      {
+       "part": "after the song",
+       "lines": 8,
+       "Greek lines": "376 to 383",
+       "tells": "the elders see Antigone led in and ask whether she has defied the king’s order",
+       "read": "antigone/p2:74",
+       "where": "antigone/p2, block 74"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "answer",
+   "heading": "Antigone answers Creon",
+   "text": "antigone/p3",
+   "rows": [
+    "32.0-36.7",
+    "36.10[4-9]",
+    "36.11-36.12"
+   ],
+   "lenses": [
+    {
+     "kind": "figure",
+     "label": "Sides",
+     "caption": "Creon asks whether she dared break <b>the law</b>. Her answer makes the one law two, and the marks sort its terms. On the king’s side: <b>these human laws</b>, <b>a mortal man</b>, <b>a breath</b>. On the gods’ side: <b>Zeus</b>, <b>Justice</b>, and the <b>unwritten laws of Heaven</b>, which she describes by what they are not: unwritten, unchanging, <b>not born today nor yesterday</b>, undying. Sophocles sets the same contraries close together, and the name for that is antithesis. As Auden saw her in 1941, Antigone has to choose between the law and her duty to her brother. The ambiguity, he wrote, belongs to her situation and not to her: she refuses to leave it ambiguous.",
+     "why": "Asked about the law, she splits it in two and sets the terms of a mortal king against the terms of the gods; for Auden in 1941 the ambiguity is in her situation, and she refuses to leave it ambiguous.",
+     "stands": "The marks on the passage. The Greek of lines 450 to 457, which sets the same things against each other. Antithesis as the Online Etymology Dictionary and *Silva Rhetoricae* give it. Auden, “James Joyce and Richard Wagner” (1941), in *Prose*, vol. II, p. 116.",
+     "grounds": [
+      {
+       "claim": "Creon’s the law; the terms on the king’s side and on the gods’ side; the gods’ laws described by four negatives",
+       "kind": "plate"
+      },
+      {
+       "claim": "the Greek sets the same things against each other: Zeus, Justice and the gods’ usages, which live always, against a mortal and his proclamations, and (in line 452 as Storr’s text and Jebb’s correct it) such laws among men",
+       "kind": "source",
+       "source": "Antigone 450–57 (the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library); R. C. Jebb’s note on line 451 (1900), on the correction in line 452"
+      },
+      {
+       "claim": "antithesis: contrary ideas or terms brought into close opposition",
+       "kind": "source",
+       "source": "Online Etymology Dictionary, antithesis (n.)"
+      },
+      {
+       "claim": "she has to choose between obeying the law and doing her duty to her brother; the ambiguity lies in her situation, not in her, and what makes her tragic is that she will not let it stay ambiguous",
+       "kind": "auden",
+       "source": "“James Joyce and Richard Wagner,” Common Sense, March 1941, in Prose, vol. II (2002), p. 116 (the essay is pp. 115–18; the page of the passage is counted from search snippets and page heads, see view.checked)"
+      }
+     ],
+     "name": "antithesis",
+     "plain": "two opposed things set side by side, often in phrases of the same build; here what is the king’s against what is the gods’",
+     "draw": "pair",
+     "parts": [
+      {
+       "row": "36.0",
+       "w": [
+        2,
+        3
+       ],
+       "tag": "A",
+       "label": "the king’s"
+      },
+      {
+       "row": "36.0",
+       "w": [
+        8,
+        8
+       ],
+       "tag": "B",
+       "label": "the gods’"
+      },
+      {
+       "row": "36.1",
+       "w": [
+        6,
+        7
+       ],
+       "tag": "B",
+       "label": "the gods’"
+      },
+      {
+       "row": "36.2",
+       "w": [
+        0,
+        0
+       ],
+       "tag": "B",
+       "label": "the gods’"
+      },
+      {
+       "row": "36.2",
+       "w": [
+        3,
+        5
+       ],
+       "tag": "A",
+       "label": "the king’s"
+      },
+      {
+       "row": "36.3",
+       "w": [
+        6,
+        8
+       ],
+       "tag": "A",
+       "label": "the king’s"
+      },
+      {
+       "row": "36.4",
+       "w": [
+        2,
+        3
+       ],
+       "tag": "A",
+       "label": "the king’s"
+      },
+      {
+       "row": "36.5",
+       "w": [
+        1,
+        5
+       ],
+       "tag": "B",
+       "label": "the gods’"
+      },
+      {
+       "row": "36.6",
+       "w": [
+        2,
+        6
+       ],
+       "tag": "B",
+       "label": "the gods’"
+      },
+      {
+       "row": "36.7",
+       "w": [
+        1,
+        2
+       ],
+       "tag": "B",
+       "label": "the gods’"
+      }
+     ]
+    },
+    {
+     "kind": "figure",
+     "label": "Knowing",
+     "caption": "Creon has asked whether she knew of his order. Storr gives her the verb three times in one line: <b>knew</b>, <b>knew</b>, <b>know</b>. A word brought back in a changed form is called polyptoton. Sophocles has the verb once in that line and twice below, where the marks stand: no one <b>knoweth</b> where the gods’ laws came from, and <b>I know that I must die</b>. To die sooner she counts as <b>gain</b>. In Auden’s account of 1941 her freedom comes from seeing that she cannot both obey the law and do her duty to her brother: she chooses, and the death that follows is one she wills.",
+     "why": "Know comes back through her answer: she knew the order, and she knows she must die and counts it gain; Auden’s Antigone of 1941 sees that she cannot do both, makes her choice and wills the death it brings.",
+     "stands": "The marks on the passage, and [Creon’s question](#/read/antigone/p3:30) just before it. Polyptoton as Merriam-Webster and *Silva Rhetoricae* define it. The Greek of lines 448, 457 and 460, with Liddell and Scott under *exoida*. Auden, “James Joyce and Richard Wagner” (1941), in *Prose*, vol. II, p. 116.",
+     "grounds": [
+      {
+       "claim": "know in three forms at five places; what she says she knows; an earlier death counted as gain",
+       "kind": "plate"
+      },
+      {
+       "claim": "Creon has asked whether she knew of the order",
+       "kind": "text",
+       "source": "antigone/p3, rows 30.0 to 30.1"
+      },
+      {
+       "claim": "polyptoton: a word repeated in a different form, close by",
+       "kind": "source",
+       "source": "Merriam-Webster, polyptoton; Silva Rhetoricae (rhetoric.byu.edu), polyptoton"
+      },
+      {
+       "claim": "Sophocles has the verb once in her first line, again of the laws’ origin, and again, strengthened to know well, of her death",
+       "kind": "source",
+       "source": "Antigone 448, 457 and 460 (the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library); Liddell-Scott-Jones, A Greek-English Lexicon, exoida, which cites line 460"
+      },
+      {
+       "claim": "seeing that she cannot do both is what frees her to choose; she chooses, and her death is her own will",
+       "kind": "auden",
+       "source": "“James Joyce and Richard Wagner,” Common Sense, March 1941, in Prose, vol. II (2002), p. 116 (the essay is pp. 115–18; the page of the passage is counted from search snippets and page heads, see view.checked)"
+      }
+     ],
+     "name": "polyptoton",
+     "plain": "one root repeated in different forms; here *knew* and *know* in one line, and the verb returns twice below",
+     "draw": "align",
+     "parts": [
+      {
+       "row": "32.0",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "know",
+       "label": "the order"
+      },
+      {
+       "row": "32.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "know",
+       "label": "the order"
+      },
+      {
+       "row": "32.0",
+       "w": [
+        9,
+        9
+       ],
+       "tag": "know",
+       "label": "the order"
+      },
+      {
+       "row": "36.7",
+       "w": [
+        5,
+        5
+       ],
+       "tag": "know",
+       "label": "the laws’ origin"
+      },
+      {
+       "row": "36.10",
+       "w": [
+        5,
+        5
+       ],
+       "tag": "know",
+       "label": "her death"
+      }
+     ]
+    },
+    {
+     "kind": "word",
+     "label": "Greek",
+     "caption": "In Sophocles’ Greek Creon asks if she dared overstep the laws. Two lines earlier, before the passage begins, he called his order a thing proclaimed. She takes up that word, the herald’s, three times here: Zeus did not have this cried; <i>your proclamations</i>, Storr’s <b>a breath</b>, have no such strength; she must die even had he not <b>proclaimed</b> it. Laws she says once, in a line the editors correct: Justice set no such laws among men. She denies that a mortal’s proclamations can override the gods’ usages, <b>unwritten</b> and not liable to fall. For Auden the decree, though perhaps too vindictive, is not plainly evil; Creon’s guilt is hubris toward the gods.",
+     "why": "In the Greek Creon calls his order laws; three times she calls it a thing proclaimed, which cannot override the gods’ unwritten usages; for Auden the decree is not plainly evil, and Creon’s guilt is hubris toward the gods.",
+     "stands": "The marks on the passage. The Greek of lines 447 to 461, with Liddell and Scott under *hyperbaino*, *kerysso*, *kerygma*, *prokerysso*, *hypertrecho*, *agraptos*, *asphales* and *nomimos*, and Jebb’s note and translation at lines 450 to 452. Auden, *Secondary Worlds* (1968), pp. 18–19.",
+     "grounds": [
+      {
+       "claim": "Creon’s verb is overstep and his noun is laws",
+       "kind": "source",
+       "source": "Antigone 449 (the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library); Liddell-Scott-Jones, A Greek-English Lexicon, hyperbaino, sense 2, which cites this line"
+      },
+      {
+       "claim": "two lines earlier Creon asks whether she knew it had been proclaimed, with the herald’s verb",
+       "kind": "source",
+       "source": "Antigone 447 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, kerysso"
+      },
+      {
+       "claim": "three times on the plate her word for the order is the herald’s verb or noun",
+       "kind": "source",
+       "source": "Antigone 450, 454 and 461 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, kerysso, kerygma (which cites line 454) and prokerysso (which cites line 461)"
+      },
+      {
+       "claim": "she says laws once on the plate, of what Justice did not set among men, in a line that is a correction of the manuscripts; in her first line the Greek has only a pronoun, these things",
+       "kind": "source",
+       "source": "Antigone 450 and 452 (Perseus); R. C. Jebb’s note on line 451 (1900), which gives the manuscripts’ reading and argues for the correction, and his prose translation of the lines (1891)"
+      },
+      {
+       "claim": "the gods’ side: nomima, usages or customs, almost the same as laws here; agrapta, unwritten; asphale, not liable to fall",
+       "kind": "source",
+       "source": "Antigone 454–55 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, nomimos II, agraptos and asphales, each of which cites these lines"
+      },
+      {
+       "claim": "where Storr has ordained, a breath, unwritten and proclaimed",
+       "kind": "plate"
+      },
+      {
+       "claim": "she denies that a mortal could override the gods’ laws by his proclamations",
+       "kind": "text",
+       "source": "rows 36.3 to 36.5; Antigone 453–55"
+      },
+      {
+       "claim": "the decree can be judged too vindictive, but it is not plainly evil",
+       "kind": "auden",
+       "source": "“The Martyr as Dramatic Hero,” in Secondary Worlds (New York: Random House, 1968), p. 18"
+      },
+      {
+       "claim": "what Creon is punished for is hubris toward the gods; how he treats Antigone is a sign of it",
+       "kind": "auden",
+       "source": "“The Martyr as Dramatic Hero,” in Secondary Worlds (New York: Random House, 1968), p. 19"
+      }
+     ],
+     "notes": [
+      {
+       "row": "34.0",
+       "w": [
+        3,
+        3
+       ],
+       "gloss": "Greek: you dared",
+       "note": "Creon’s verb is made from *tolma*, the daring of the elders’ song.",
+       "source": "Antigone 449 and 371 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, tolmao and tolma"
+      },
+      {
+       "row": "34.0",
+       "w": [
+        6,
+        8
+       ],
+       "gloss": "Greek: overstep these laws",
+       "note": "Creon’s noun is *nomoi*, laws, and his verb means to step over, and so to transgress.",
+       "source": "Antigone 449 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, hyperbaino, sense 2, which cites this line"
+      },
+      {
+       "row": "36.0",
+       "w": [
+        2,
+        3
+       ],
+       "gloss": "Greek: these things",
+       "note": "Sophocles has only a pronoun, these things; the word *laws* in this line is Storr’s.",
+       "source": "Antigone 450 (Perseus); R. C. Jebb’s note on line 451, which takes the pronoun as Creon’s edicts"
+      },
+      {
+       "row": "36.0",
+       "w": [
+        6,
+        6
+       ],
+       "gloss": "Greek: proclaimed by herald",
+       "source": "Antigone 450 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, kerysso"
+      },
+      {
+       "row": "36.2",
+       "w": [
+        3,
+        5
+       ],
+       "gloss": "Greek: such laws among men",
+       "note": "Here her word is *nomoi*, laws, as Storr’s Greek text and Jebb’s print the line (Justice set no such laws among men); the manuscripts have the gods setting these laws, the laws of burial.",
+       "source": "Antigone 452 (Perseus); R. C. Jebb’s note on line 451 (1900) and his prose translation (1891)"
+      },
+      {
+       "row": "36.4",
+       "w": [
+        2,
+        3
+       ],
+       "gloss": "Greek: your proclamations",
+       "note": "Sophocles has *kerygmata*, things cried by a herald, where Storr has *a breath*; it is the play’s first word for the order, at line 8.",
+       "source": "Antigone 454 and 8 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, kerygma, which cites both lines"
+      },
+      {
+       "row": "36.4",
+       "w": [
+        6,
+        6
+       ],
+       "gloss": "Greek: outrun",
+       "note": "Creon’s verb means to step over; hers means to run over or beyond, to outrun, and in this line, the dictionary says, to prevail against.",
+       "source": "Antigone 455 and 449 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, hypertrecho, sense 2, which cites this line, and hyperbaino"
+      },
+      {
+       "row": "36.5",
+       "w": [
+        1,
+        3
+       ],
+       "gloss": "Greek: unwritten, steadfast usages",
+       "note": "Sophocles has two adjectives, unwritten and not liable to fall, and the noun *nomima*, usages or customs, which the dictionary says is almost the same as laws here.",
+       "source": "Antigone 454–55 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, agraptos, asphales and nomimos II, each of which cites these lines"
+      },
+      {
+       "row": "36.11",
+       "w": [
+        4,
+        4
+       ],
+       "gloss": "Greek: proclaimed by herald",
+       "note": "The same verb with a prefix: to proclaim by herald, publicly.",
+       "source": "Antigone 461 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, prokerysso, which cites this line"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "quarrel",
+   "heading": "Creon and Haemon, a line each",
+   "text": "antigone/p4",
+   "rows": [
+    "24.0-42.0"
+   ],
+   "lenses": [
+    {
+     "kind": "figure",
+     "label": "Exchange",
+     "caption": "After a long speech each, father and son trade single lines, twenty-eight in all; ten are shown. This is stichomythia. In it, the dictionary says, one speaker usually opposes or corrects the other, often by repeating part of his words. The colors mark words taken up: the city (<b>commons</b>, <b>mob</b>, <b>State</b>), ruling, and <b>woman</b>. Sophocles has all three. Auden held that Antigone’s part in the play is to reveal Creon’s hubris toward the gods. The first line here asks about her. By the seventh Creon claims the <b>State is his who rules it</b>. Four lines past the last shown, Haemon tells him that he spurns the gods’ due.",
+     "why": "In single lines each takes up the other’s words, and within seven lines a question about Antigone becomes Creon’s claim that the city is its ruler’s; Auden says her part in the play is to reveal his hubris.",
+     "stands": "The marks on the passage, and a count of the lines of [the scene](#/read/antigone/p4:0) as printed here. Stichomythia as Liddell and Scott give it, and as the *Century Dictionary* describes it in the Online Etymology Dictionary. The Greek of lines 730 to 757; [Haemon’s line about the gods](#/read/antigone/p4:50). Auden, *Secondary Worlds* (1968), p. 19.",
+     "grounds": [
+      {
+       "claim": "ten single lines by turns; the words taken up; the first line on the plate asks about Antigone and the seventh is Creon’s claim",
+       "kind": "plate"
+      },
+      {
+       "claim": "each has made a speech of forty lines, and the single lines number twenty-eight",
+       "kind": "text",
+       "source": "antigone/p4, blocks 6 and 10 (forty rows each) and blocks 20 to 74 (twenty-eight single lines); in the Greek the speeches are lines 639–80 and 683–723 and the single lines 730–57"
+      },
+      {
+       "claim": "stichomythia: dialogue in alternate lines, in which one speaker usually opposes or corrects the other, often with partial repetition of his words",
+       "kind": "source",
+       "source": "Liddell-Scott-Jones, A Greek-English Lexicon, stichomythia; Online Etymology Dictionary, stichomythia (n.), which quotes the Century Dictionary"
+      },
+      {
+       "claim": "the words for city, ruling and woman are taken up in the Greek too",
+       "kind": "source",
+       "source": "Antigone 733–41 (the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library): polis at 734, 737 and 738, with homoptolis at 733; archein at 736 and archois at 739, with kratountos at 738; gynaiki at 740 and gyne at 741"
+      },
+      {
+       "claim": "four lines after the last line on the plate Haemon tells Creon that he spurns the due of Heaven",
+       "kind": "text",
+       "source": "antigone/p4, row 50.0; Antigone 745 (Perseus), where Creon is said to trample on the honors of the gods"
+      },
+      {
+       "claim": "Antigone’s part is to bring out Creon’s hubris, of which he is guilty and probably always was; his punishment is for hubris toward the gods",
+       "kind": "auden",
+       "source": "“The Martyr as Dramatic Hero,” in Secondary Worlds (New York: Random House, 1968), p. 19"
+      }
+     ],
+     "name": "stichomythia",
+     "plain": "two speakers answer each other a line at a time, often taking up each other’s words",
+     "draw": "chain",
+     "parts": [
+      {
+       "row": "26.0",
+       "w": [
+        2,
+        2
+       ],
+       "tag": "city",
+       "label": "the city"
+      },
+      {
+       "row": "28.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "city",
+       "label": "the city"
+      },
+      {
+       "row": "34.0",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "city",
+       "label": "the city"
+      },
+      {
+       "row": "34.0",
+       "w": [
+        7,
+        7
+       ],
+       "tag": "city",
+       "label": "the city"
+      },
+      {
+       "row": "36.0",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "city",
+       "label": "the city"
+      },
+      {
+       "row": "32.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "rule",
+       "label": "ruling"
+      },
+      {
+       "row": "36.0",
+       "w": [
+        5,
+        5
+       ],
+       "tag": "rule",
+       "label": "ruling"
+      },
+      {
+       "row": "38.0",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "rule",
+       "label": "ruling"
+      },
+      {
+       "row": "40.0",
+       "w": [
+        5,
+        5
+       ],
+       "tag": "woman",
+       "label": "woman"
+      },
+      {
+       "row": "42.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "woman",
+       "label": "woman"
+      }
+     ]
+    },
+    {
+     "kind": "word",
+     "label": "City",
+     "caption": "Where Storr has <b>commons</b>, <b>mob</b> and <b>State</b>, Sophocles gives both men one word, <i>polis</i>, or a word built on it: a city, and the body of its citizens. <b>Mob</b>, slang of the 1680s for the rabble, is Storr’s: Creon says <i>the city</i>. <b>Monarch</b> is close: Sophocles has <i>rule alone</i>, the two Greek words behind the English one. <b>Desert</b> is <i>an empty land</i>. The elders sing that the man who honors the laws has a high city, and Creon’s first speech has the same noun for laws: by such laws, or rules, he strengthens the city. His son tells him that a city owned by one man is no city.",
+     "why": "Storr’s commons, mob and State go back to one Greek word, polis; Creon said his rules strengthen the city, the elders that the law-keeper’s city stands high, and now Haemon tells him that one man’s city is no city.",
+     "stands": "The marks on the passage. The Greek of lines 733 to 739 and of line 191, with Liddell and Scott under *polis*, *homopolis*, *eremos* and *auxano*, and Jebb’s translation of lines 191 and 739. The Online Etymology Dictionary under *mob*, *monarch* and *monarchy*. [Creon’s first speech](#/read/antigone/p2:2) and [the end of the elders’ song](#/read/antigone/p2:73) as printed here.",
+     "grounds": [
+      {
+       "claim": "Storr’s commons, mob and State stand where Sophocles has polis or a word built on it, and both men say it",
+       "kind": "source",
+       "source": "Antigone 733 (homoptolis, Haemon), 734 (polis, Creon), 737 (polis, Haemon) and 738 (polis, Creon), in the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library; Liddell-Scott-Jones, A Greek-English Lexicon, polis, senses I (city) and III (community or body of citizens; III.2, state or community, cites line 738 and compares 734), and homopolis, which cites line 733"
+      },
+      {
+       "claim": "mob: a slang word of the 1680s for the rabble, shortened from mobile",
+       "kind": "source",
+       "source": "Online Etymology Dictionary, mob (n.)"
+      },
+      {
+       "claim": "Sophocles has rule alone; monarch comes from Greek monos, alone, and arkhein, to rule",
+       "kind": "source",
+       "source": "Antigone 739 (Perseus); Online Etymology Dictionary, monarch (n.) and monarchy (n.)"
+      },
+      {
+       "claim": "desert stands for a land that is desolate or empty",
+       "kind": "source",
+       "source": "Antigone 739 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, eremos (desolate, lonely, solitary; of places, also the desert parts and empty), which cites this line for the form of the adjective; R. C. Jebb’s translation of the line (second edition, 1891), which also has a desert"
+      },
+      {
+       "claim": "in his first speech Creon says that by such rules he strengthens this city; his noun is nomoi, the word for laws",
+       "kind": "source",
+       "source": "Antigone 191 (Perseus), with the nouns nomoi and polis; Liddell-Scott-Jones, A Greek-English Lexicon, auxano, sense 2 (increase in power, strengthen), which cites this line; R. C. Jebb’s prose translation of the line, which has rules (in his second edition, 1891, the rules by which he guards the city’s greatness; in the revised wording at Perseus, the rules by which he strengthens the city). Storr’s version of the line, antigone/p2, rows 2.28 to 2.29, speaks of a policy and of serving the Commons. Jebb’s note on line 370 (1900) cites line 191 for the elders’ words about the high city."
+      },
+      {
+       "claim": "in the elders’ song the man who honors the laws has a city that stands high",
+       "kind": "text",
+       "source": "antigone/p2, rows 73.2 to 73.3; Antigone 368–70"
+      },
+      {
+       "claim": "Haemon: a State for one man is no State",
+       "kind": "plate"
+      }
+     ],
+     "notes": [
+      {
+       "row": "26.0",
+       "w": [
+        1,
+        2
+       ],
+       "gloss": "Greek: people of one city",
+       "note": "Sophocles has *homoptolis leos*, the people of the same city; Jebb’s note gives the united folk of Thebes.",
+       "source": "Antigone 733 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, homopolis, which cites this line; Jebb’s note on line 733"
+      },
+      {
+       "row": "28.0",
+       "w": [
+        3,
+        3
+       ],
+       "gloss": "Greek polis: the city",
+       "note": "Creon says the city; *mob* is English slang of the 1680s for the rabble, shortened from *mobile*.",
+       "source": "Antigone 734 (Perseus); Online Etymology Dictionary, mob (n.)"
+      },
+      {
+       "row": "34.0",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "polis: city, its citizens",
+       "note": "The dictionary gives city, and also the community or body of citizens; Sophocles has the word once in this line, where Storr has *State* twice.",
+       "source": "Antigone 737 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, polis, senses I and III"
+      },
+      {
+       "row": "36.0",
+       "w": [
+        7,
+        9
+       ],
+       "gloss": "a question in the Greek",
+       "note": "Creon asks whether the city is not held to be its ruler’s; Storr makes it a statement.",
+       "source": "Antigone 738 (Perseus); R. C. Jebb’s prose translation of the line (1891)"
+      },
+      {
+       "row": "38.0",
+       "w": [
+        1,
+        1
+       ],
+       "gloss": "Greek: rule alone",
+       "note": "Sophocles has *archois monos*, you would rule alone; *monarch* comes from Greek *monos*, alone, and *arkhein*, to rule.",
+       "source": "Antigone 739 (Perseus); Online Etymology Dictionary, monarch (n.) and monarchy (n.)"
+      },
+      {
+       "row": "38.0",
+       "w": [
+        4,
+        4
+       ],
+       "gloss": "Greek: an empty land",
+       "note": "The dictionary gives desolate, lonely, solitary and, of places, empty. Jebb has *a desert* too.",
+       "source": "Antigone 739 (Perseus); Liddell-Scott-Jones, A Greek-English Lexicon, eremos, which cites this line for the form; R. C. Jebb’s translation of the line (second edition, 1891)"
+      }
+     ]
+    },
+    {
+     "kind": "shape",
+     "label": "Play",
+     "caption": "In Storr’s English Creon speaks 339 of the play’s 1,279 lines and Antigone 205. After her last line, 883, come 396 more: the prophet Teiresias warns Creon, he gives way too late, and news comes of her death, his son’s and his wife’s. The messenger says Creon was a man to envy and now all is gone. That is the course Auden gives the hero of Greek tragedy in general: honored and fortunate when the play begins, in exceptional suffering when it ends. In 1967 he said that for Sophocles the play’s chief figure is Creon. Of the single speakers Creon has the most lines, and the last words before the elders end the play.",
+     "why": "Sophocles gives Creon about two-thirds more lines than Antigone and keeps the play going for about four hundred lines after her last, down to his ruin, which agrees with Auden’s later view that for Sophocles the chief figure is Creon.",
+     "stands": "A count of each speaker’s lines in the text printed here, a line being one printed line (five lines split between two speakers count for each), and in the Greek by its usual line numbers. What follows Antigone’s exit is in [the last part of the play](#/read/antigone/p5:0), with [the Messenger’s first speech](#/read/antigone/p5:91) and [Creon’s last lines](#/read/antigone/p5:176). Auden, *Forewords and Afterwords*, p. 19; *Secondary Worlds* (1968), p. 19.",
+     "grounds": [
+      {
+       "claim": "Creon 339 lines of 1,279 and Antigone 205; her last line is line 883 and 396 follow; of the single speakers Creon has the most (the next after Antigone is the Guard, with 110; the chorus, which speaks and sings as one, has 319)",
+       "kind": "source",
+       "source": "counted in the hosted text, antigone/p1 to p5, with a script: a line is a row of a verse block, and each verse block is given to the speaker named before it; the numbers for each speaker are in this lens’s facts. Five verse lines are split between two speakers and so are two rows each, one counted for each speaker: antigone/p2, rows 43.1 and 45.0, and 45.1 and 47.0; antigone/p4, rows 87.1 and 89.0; antigone/p5, rows 4.0 and 6.0, and 14.1 and 16.0. Creon has a half in all five, the Guard and Teiresias in two each, the Chorus in one; counted as whole lines the play has 1,274"
+      },
+      {
+       "claim": "after her exit: the prophet’s warning, Creon giving way, the news of three deaths; the chorus tells Creon he sees the truth too late",
+       "kind": "text",
+       "source": "antigone/p5, blocks 0 to 55 (Teiresias), 57 to 75 (Creon gives way), 89 to 123 (the Messenger), 134 to 159 (the Second Messenger), and row 130.0"
+      },
+      {
+       "claim": "the Messenger: Creon was enviable, and now all is gone",
+       "kind": "text",
+       "source": "antigone/p5, rows 91.6 to 91.12"
+      },
+      {
+       "claim": "Creon has the last words before the elders’ closing lines",
+       "kind": "text",
+       "source": "antigone/p5, blocks 176 and 178"
+      },
+      {
+       "claim": "in the Greek, by the standard line numbers, Creon has 358 lines of 1,353, Antigone 215 and the chorus 362; Antigone’s last line is 943, and 410 follow",
+       "kind": "source",
+       "source": "counted in the Greek text of F. Storr’s Loeb edition (1912) at the Perseus Digital Library, from the line numbers that text carries at every fifth line and at the head of each section; no stretch between two of those numbers is shared by two speakers unless each of its lines has a number of its own, so the count is exact for that text"
+      },
+      {
+       "claim": "the tragic hero begins the play in honor and good fortune and ends it suffering more than the chorus",
+       "kind": "auden",
+       "source": "“The Greeks and Us” (1948), in Forewords and Afterwords (1973), p. 19"
+      },
+      {
+       "claim": "for Sophocles the chief figure of the play is Creon and not Antigone",
+       "kind": "auden",
+       "source": "“The Martyr as Dramatic Hero,” in Secondary Worlds (New York: Random House, 1968), p. 19"
+      }
+     ],
+     "what": "who speaks in the play and for how many lines, and where Antigone leaves it",
+     "facts": [
+      {
+       "speaker": "Creon",
+       "lines": 339,
+       "first line": 155,
+       "last line": 1271,
+       "Greek lines": 358,
+       "note": "His last lines (1266 to 1271) are the last before the elders’ closing eight (1272 to 1279). In the printed lines of Storr’s Greek text he has 350; the sung laments at the end carry more line numbers than printed lines."
+      },
+      {
+       "speaker": "Chorus",
+       "lines": 319,
+       "first line": 99,
+       "last line": 1279,
+       "Greek lines": 362,
+       "note": "The elders speak and sing as one. Storr’s Greek text prints the songs in long lines, 294 printed lines in all; by the standard line numbers the chorus has 362."
+      },
+      {
+       "speaker": "Antigone",
+       "lines": 205,
+       "first line": 1,
+       "last line": 883,
+       "Greek lines": 215,
+       "note": "Exit ANTIGONE stands after line 883 (antigone/p4, block 136); 396 lines follow. In the Greek her last line is 943 of 1353, and 410 follow. She has 194 printed lines in Storr’s Greek text."
+      },
+      {
+       "speaker": "Guard",
+       "lines": 110,
+       "first line": 216,
+       "last line": 407,
+       "Greek lines": 112
+      },
+      {
+       "speaker": "Messenger",
+       "lines": 84,
+       "first line": 1094,
+       "last line": 1196,
+       "Greek lines": 82
+      },
+      {
+       "speaker": "Teiresias",
+       "lines": 78,
+       "first line": 924,
+       "last line": 1029,
+       "Greek lines": 76
+      },
+      {
+       "speaker": "Haemon",
+       "lines": 64,
+       "first line": 593,
+       "last line": 720,
+       "Greek lines": 65,
+       "note": "All in one scene (antigone/p4, blocks 0 to 79), where Creon also speaks 64 lines before Haemon leaves: four and four, forty and forty, two and two, fourteen single lines each, four and four."
+      },
+      {
+       "speaker": "Ismene",
+       "lines": 58,
+       "first line": 10,
+       "last line": 537,
+       "Greek lines": 60
+      },
+      {
+       "speaker": "Second Messenger",
+       "lines": 14,
+       "first line": 1216,
+       "last line": 1248,
+       "Greek lines": 14
+      },
+      {
+       "speaker": "Eurydice",
+       "lines": 8,
+       "first line": 1123,
+       "last line": 1130,
+       "Greek lines": 9
+      },
+      {
+       "speaker": "all speakers",
+       "lines": 1279,
+       "first line": 1,
+       "last line": 1279,
+       "Greek lines": 1353,
+       "turns in order": ["Antigone 9", "Ismene 6", "Antigone 2", "Ismene 1", "Antigone 20", "Ismene 2", "Antigone 1", "Ismene 1", "Antigone 1", "Ismene 1", "Antigone 2", "Ismene 1", "Antigone 1", "Ismene 19", "Antigone 9", "Ismene 2", "Antigone 2", "Ismene 1", "Antigone 1", "Ismene 2", "Antigone 2", "Ismene 1", "Antigone 1", "Ismene 1", "Antigone 1", "Ismene 1", "Antigone 5", "Ismene 2", "Chorus 56", "Creon 49", "Chorus 4", "Creon 1", "Chorus 1", "Creon 1", "Chorus 1", "Creon 1", "Chorus 1", "Creon 2", "Guard 14", "Creon 1", "Guard 3", "Creon 2", "Guard 1", "Creon 1", "Guard 3", "Creon 1", "Guard 28", "Chorus 2", "Creon 32", "Guard 2", "Creon 2", "Guard 2", "Creon 1", "Guard 1", "Creon 1", "Guard 1", "Creon 1", "Guard 1", "Creon 3", "Guard 5", "Chorus 30", "Guard 2", "Chorus 1", "Creon 1", "Guard 13", "Creon 1", "Guard 1", "Creon 1", "Guard 2", "Creon 1", "Guard 31", "Creon 2", "Antigone 1", "Creon 4", "Antigone 1", "Creon 1", "Antigone 20", "Chorus 2", "Creon 23", "Antigone 1", "Creon 1", "Antigone 9", "Creon 1", "Antigone 1", "Creon 1", "Antigone 1", "Creon 1", "Antigone 1", "Creon 1", "Antigone 1", "Creon 1", "Antigone 1", "Creon 1", "Antigone 1", "Creon 1", "Antigone 1", "Creon 1", "Antigone 1", "Creon 2", "Chorus 6", "Creon 5", "Ismene 2", "Antigone 2", "Ismene 2", "Antigone 2", "Ismene 2", "Antigone 2", "Ismene 1", "Antigone 1", "Ismene 1", "Antigone 1", "Ismene 1", "Antigone 1", "Ismene 1", "Antigone 1", "Ismene 1", "Antigone 1", "Ismene 1", "Antigone 2", "Creon 2", "Ismene 2", "Creon 2", "Ismene 1", "Creon 1", "Ismene 1", "Creon 1", "Ismene 1", "Creon 1", "Antigone 1", "Creon 1", "Chorus 1", "Creon 1", "Chorus 1", "Creon 5", "Chorus 40", "Creon 4", "Haemon 4", "Creon 40", "Chorus 2", "Haemon 40", "Chorus 2", "Creon 2", "Haemon 2", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 1", "Haemon 1", "Creon 4", "Haemon 4", "Chorus 2", "Creon 2", "Chorus 1", "Creon 2", "Chorus 1", "Creon 8", "Chorus 16", "Antigone 12", "Chorus 6", "Antigone 8", "Chorus 6", "Antigone 12", "Chorus 4", "Antigone 12", "Chorus 6", "Antigone 4", "Creon 9", "Antigone 38", "Chorus 2", "Creon 2", "Antigone 2", "Chorus 2", "Antigone 6", "Chorus 40", "Teiresias 3", "Creon 1", "Teiresias 2", "Creon 1", "Teiresias 1", "Creon 1", "Teiresias 2", "Creon 2", "Teiresias 34", "Creon 15", "Teiresias 1", "Creon 1", "Teiresias 1", "Creon 1", "Teiresias 1", "Creon 1", "Teiresias 1", "Creon 1", "Teiresias 1", "Creon 1", "Teiresias 1", "Creon 1", "Teiresias 2", "Creon 1", "Teiresias 1", "Creon 1", "Teiresias 27", "Chorus 4", "Creon 3", "Chorus 1", "Creon 1", "Chorus 2", "Creon 1", "Chorus 2", "Creon 2", "Chorus 1", "Creon 7", "Chorus 40", "Messenger 18", "Chorus 1", "Messenger 1", "Chorus 1", "Messenger 1", "Chorus 1", "Messenger 1", "Chorus 1", "Messenger 1", "Chorus 3", "Eurydice 8", "Messenger 53", "Chorus 2", "Messenger 5", "Chorus 2", "Messenger 4", "Chorus 6", "Creon 8", "Chorus 1", "Creon 4", "Second Messenger 3", "Creon 1", "Second Messenger 2", "Creon 7", "Chorus 1", "Creon 5", "Second Messenger 5", "Creon 4", "Second Messenger 2", "Creon 1", "Second Messenger 2", "Creon 4", "Chorus 2", "Creon 6", "Chorus 2", "Creon 1", "Chorus 2", "Creon 6", "Chorus 8"],
+       "note": "A sum, not a speaker. Lines are the verse rows of the hosted text (Storr’s translation), parts p1 to p5, numbered from 1; each verse block is given to the speaker named before it. Greek lines are counted by the standard line numbers, as the Greek text in Storr’s Loeb edition (1912) carries them at the Perseus Digital Library; that text has 1,256 printed lines, because it prints the songs in long lines."
+      },
+      {
+       "speaker": "all speakers, after Antigone’s last line",
+       "lines": 396,
+       "first line": 884,
+       "last line": 1279,
+       "Greek lines": 410,
+       "note": "A sum, not a speaker: the lines from Antigone’s exit to the end. In the Greek, lines 944 to 1353."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "auden": [
+  {
+   "says": "In a lecture of 1967 Auden takes Antigone as a martyr from before Christianity. Since every society abhors a traitor, he says, Creon’s decree may be thought too vindictive, but it is not plainly evil. What ruins Creon is punishment for his hubris toward the gods and not for how he treats Antigone, which is a sign of that hubris. If she had obeyed, some other course of events would in time have brought it out and brought a like punishment on him.",
+   "quote": "For Sophocles, the principal figure in the tragedy is not Antigone, but Creon.",
+   "source": "“The Martyr as Dramatic Hero,” in *Secondary Worlds* (the T. S. Eliot Memorial Lectures of 1967; 1968), pp. 18–19",
+   "checked": "read on 2026-10-03 in the research notes, remake/research/C_auden_on_works.md, section 3 and appendix block H11 (search-inside snippets of the book, running heads seen); the book is not among the scans. The examiner read the sentences again on 2026-10-03 in full-text search snippets of the Internet Archive’s copy (secondaryworldse00aude; New York: Random House, 1968): the quotation is word for word, and each sentence paraphrased here is there. In that book the page number stands at the foot of the page and the lecture’s title heads the next one: the foot of p. 18 comes a few words after the sentence on the decree, and the foot of p. 19 about 67 words after the sentence on a like punishment, so the decree is on p. 18 and the rest on p. 19"
+  },
+  {
+   "says": "In 1948 Auden wrote that the tragic hero of the Greeks is a warning, and that the warning is meant for the chorus, who are ordinary citizens. The hero begins the play honored and fortunate and ends it suffering more than they do, because he has run against a law of right that binds everyone. Usually he could not have avoided it: every course open to him is wrong, and Antigone is one of four examples. Such a position is the sign of another guilt, hubris. Watching him fall, the chorus learns that strength tempts its owner to impiety, and that what makes the gods gods is their justice.",
+   "source": "“The Greeks and Us” (the introduction to *The Portable Greek Reader*, 1948), in *Forewords and Afterwords* (1973), p. 19",
+   "checked": "read on 2026-10-03 in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 936 to 970 (page 19; the page number stands at the foot of the page, at line 975, and the scan drops most punctuation)"
+  },
+  {
+   "says": "He goes on to say what each citizen of the democracy ought to aim at being: a moderate man who keeps the law and has no wish to outdo everyone else in strength or fame, and not the Homeric hero.",
+   "source": "“The Greeks and Us” (1948), in *Forewords and Afterwords* (1973), pp. 19–20",
+   "checked": "read on 2026-10-03 in the same scan, fa.txt, lines 964 to 966 and 972 (page 19) and 982 to 984 (the head of page 20)"
+  },
+  {
+   "says": "On reading the Greeks in English, Auden held that Greek literature in translation can no longer be approached as an aesthetic matter, since so much is lost between Greek and English that the loss is all but fatal. Among the obstacles he lists: Greek verse is unrhymed and measured by syllable length; Greek shows by the forms of its words what English shows by their order; Greek has compound epithets in plenty and English has few. Of dialogue in single lines he says that a version in plain modern idiom loses something essential to the Greek manner, which decks plain question and answer out as riddles.",
+   "source": "“The Greeks and Us” (1948), in *Forewords and Afterwords* (1973), pp. 5–7",
+   "checked": "read on 2026-10-03 in the same scan, fa.txt, lines 282 to 292 (page 5), 310 to 346 (page 6) and 353 (page 7)"
+  }
+ ],
+ "next": "antigone/p1:0",
+ "sources": [
+  "Text: Sophocles, *Antigone*, translated into English verse by F. Storr, in *Sophocles*, vol. 1 (Loeb Classical Library; London: Heinemann, and New York: Macmillan, 1912), as given by Project Gutenberg, no. 31.",
+  "The Greek: the Greek text of the same volume, as given by the Perseus Digital Library, with its line numbers: lines 8, 191, 332 to 383, 447 to 462 and 730 to 757, and the whole play for the counts of lines. Greek words are set here in Roman letters.",
+  "F. Storr, introduction to the same volume, pp. xii–xiv: his aims as a translator, his Greek text and his debt to Jebb.",
+  "R. C. Jebb, *Sophocles: The Plays and Fragments*, Part III, *The Antigone* (Cambridge University Press, 1900), at the Perseus Digital Library: the notes on lines 360, 368 to 372, 451 and 733.",
+  "R. C. Jebb’s English prose translation, in the second edition of the same work (Cambridge University Press, 1891): lines 191, 367 to 369, 450 to 452, 738 and 739. The Perseus Digital Library gives this translation in a revised wording, which differs from Jebb’s own at line 369.",
+  "H. G. Liddell and R. Scott, *A Greek-English Lexicon*, revised by H. S. Jones (Oxford: Clarendon Press, 1940), at the Perseus Digital Library, under *agraptos*, *apolis*, *aporos*, *asphales*, *auxano*, *deinos*, *enorkos*, *eremos*, *exoida*, *homopolis*, *hyperbaino*, *hypertrecho*, *hypsipolis*, *kerygma*, *kerysso*, *mechanoeis*, *nomimos*, *pantoporos*, *parestios*, *polis*, *prokerysso*, *stichomythia*, *tolma* and *tolmao*.",
+  "Online Etymology Dictionary (etymonline.com), under *antithesis*, *antistrophe*, *mob*, *monarch*, *monarchy*, *stichomythia* (where the *Century Dictionary* is quoted) and *strophe*.",
+  "Merriam-Webster (merriam-webster.com), under *polyptoton* and *whoso*.",
+  "*Silva Rhetoricae* (rhetoric.byu.edu), under *antithesis* and *polyptoton*.",
+  "Paull F. Baum, *The Principles of English Versification* (Harvard University Press, 1922): chapter 3, on Greek and Latin verse as measured by the length of syllables; chapter 4, on the length of lines, the six-stress line, the quatrain printed as a long couplet, and blank verse; chapter 5, on the origin of rhyme; the glossary under Rime.",
+  "Aristotle, *Poetics*, translated by S. H. Butcher (Project Gutenberg, no. 1974), chapters 4, 6 and 12, on speech and song in tragedy.",
+  "W. H. Auden, “James Joyce and Richard Wagner,” *Common Sense*, March 1941, in *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 115–18; the sentences on Antigone are on p. 116. Not seen in full.",
+  "W. H. Auden, “The Martyr as Dramatic Hero,” in *Secondary Worlds* (the T. S. Eliot Memorial Lectures of 1967; New York: Random House, 1968), pp. 18–19. Not seen in full.",
+  "W. H. Auden, “The Greeks and Us” (the introduction to *The Portable Greek Reader*, 1948), in *Forewords and Afterwords* (1973), pp. 5–7 and 19–20.",
+  "Auden’s reading list for the course (University of Michigan, fall 1941), which gives the *Antigone* as translated by Dudley Fitts or Fitzgerald: *The Antigone of Sophocles*, by Dudley Fitts and Robert Fitzgerald (New York: Harcourt, Brace and Company, 1939). Not seen."
+ ],
+ "caveats": [
+  "Auden’s reading list sets the *Antigone*, as an alternative to the *Agamemnon*, in the translation of Dudley Fitts and Robert Fitzgerald (1939); the English here is F. Storr’s of 1912, and the beat, the rhyme and the choice of English words are Storr’s.",
+  "Auden’s sentences of 1941 and 1967 about the play were read here only in snippets of scanned copies and not in full; the page of the 1941 sentences was worked out from the page headings near them, not seen.",
+  "The counts of lines are of Storr’s English as printed here, where five lines split between two speakers count for each; in the Greek, by the usual line numbers, Creon has 358 lines of 1,353 and Antigone 215, and the chorus, with 362, has four more than Creon.",
+  "The beats were marked by ear: *man* in the second line shown and the end of *outcast* in the fourth can be heard with more stress, and the fifth has six beats only if *Whoso* is stressed on its first syllable, as the dictionary gives it.",
+  "Two of the Greek readings followed here are editors’ corrections of the manuscripts, the verb for *honors* in the song (line 368) and *such laws* in Antigone’s answer (line 452); and in line 369 *the gods’ justice* can also be read, with Jebb, as justice sworn by the gods."
+ ],
+ "open": [
+  "Auden’s sentences of 1941 and 1967, and his remarks of 1942, 1945 and 1946 to 1947, were read only in the research notes, which give them from search-inside snippets of books that are not among the scans. The page of the 1941 sentence inside pp. 115–19 was not seen, and one block of the notes gives the essay’s pages as 117–19, approximate. The notes take the 1942 installment to be that of 20 November (inferred), give p. 44 of the Lectures from the book’s index, and give p. 144 of the Corrigan reprint for the clauses on either side of the Antigone clause.",
+  "The scan of Forewords and Afterwords drops most punctuation, and its page numbers stand at the foot of each page. Pages 5 to 7 and 19 to 20 are counted from those numbers and from the running heads; they agree with the pages the research notes give for sentences on pages 19 and 20.",
+  "That Auden’s list sets the play in the Fitts and Fitzgerald translation, as an alternative to the Agamemnon, is from the research notes on the course (remake/research/A_michigan_course.md, section 1.2, read from an image of the typed sheet by that session); the sheet types Dudley Fitts or Fitzgerald. The book’s authors, publisher and year were checked on 2026-10-03 in the Internet Archive’s catalog (antigoneofsophoc0000dudl) and agree with remake/research/D_texts.md. The book itself was not opened; it is in copyright.",
+  "The second plate leaves out two and a half lines of Antigone’s speech (rows 36.8 and 36.9 and the first four words of row 36.10), where she says that no fear of a mortal would make her break the gods’ laws and answer for it to the gods. The dots before the eleventh line of the plate mark the place. In those lines Storr calls the gods’ laws these laws, the words her first line uses of Creon’s; the Greek has a pronoun in both places.",
+  "Two readings of the Greek are corrections of the manuscripts, printed by Storr’s own Greek text and by Jebb: in line 368 gerairon, honoring (manuscripts pareiron, weaving in), which Storr’s honors follows; and in line 452 toiousd’ ... horisen, Justice set no such laws (manuscripts hoi tousd’ ... horisan, the gods who set these laws, the laws of burial), which Storr’s these human laws follows. The caption of the third tab of the second plate says that the line is one the editors correct, its gloss gives both readings, and the fifth caveat tells the reader of both corrections.",
+  "The Greek line counts by speaker follow the standard line numbers as Storr’s Loeb text carries them at Perseus (every fifth line and the head of each section). Editions that give a line to a different speaker would differ by a line or two. By printed lines of that text the counts are Creon 350, chorus 294, Antigone 194 of 1,256, because it prints the songs in long lines. Line 360 is the standard number of the line with pantoporos; the Perseus page prints that number one line lower. In Storr’s English Creon has more lines than the chorus (339 to 319); by the Greek numbers the chorus has more (362 to 358). The caption therefore compares Creon only with the other single speakers, and the third caveat gives the Greek numbers.",
+  "The speeches were read but not checked line by line for chance rhymes; one rhymed couplet closes the Messenger’s report (antigone/p5, rows 114.51 to 114.52). Antigone and Creon also sing rhymed stanzas in their last scenes; the caption’s word speeches means the spoken parts.",
+  "Some syllables in the beat lens can be heard another way: man in row 73.1 (stressed, with the first now light), the second syllable of outcast in row 73.3, and the first word of row 73.5 (light, with the beat on the next word). None of these changes the count of six beats. Row 73.4 has six beats only if the first syllable of its first word is stressed, as Merriam-Webster gives the word; slid over, the line has five. The other five lines, and the rhyme at the third beat, are the reason for hearing six. The handbook’s sentence about the split into three and three is about the six-stress iambic line, so the caption gives only its general sentence, that lines of more than five feet tend to break up.",
+  "On the third plate Storr’s row 36.0 is a statement; the Greek line (738) is a question. The caption’s word claims follows Storr, and a gloss says that the Greek asks.",
+  "Whether Storr chose the order light then ill for the sake of the rhyme is not known. The caption says only that the order is reversed and that ill makes the rhyme.",
+  "The printed notes (each lens’s stands, the caveats, the sources) were written by the poet after the rule for them was added on 2026-10-03; the examiner should read them as closely as the captions. In the facts of the two shape lenses the song’s rows carry a read key for the drawing; the play’s rows carry none.",
+  "From the examiner, on the first item above: the passages of 1941, 1942, 1945, 1946 to 1947 and 1967 were read again in full-text search snippets of the Internet Archive’s copies, and the pages were fixed from the running heads in the snippets. The 1941 essay is pp. 115–18 of Prose II, not 115–19 (the next piece begins at the head of p. 119), and its Antigone passage is on p. 116 by a count of words between the heads of pp. 115, 117 and 119; the head of p. 116 is missing from the search text, so the page was counted and not seen. Secondary Worlds (the New York edition, Random House, 1968): the decree on p. 18, the rest on p. 19. The 1942 sentence is on p. 166, in the third installment, dated 20 November. Corrigan p. 144 and Lectures p. 44 hold; the sentence in the Lectures is in the lecture on Romeo and Juliet, dated 6 November 1946, so the fourth entry of what Auden said and the second caveat now say 1946, not 1946 to 1947. None of the five was seen in full.",
+  "From the examiner: line 369. The first tab of the first passage takes the phrase as the gods’ justice, bound by oath. That is the wording of the English at Perseus, which is credited to Jebb’s edition of 1891 but has been revised. Jebb’s own translation (second edition, 1891, seen at the Internet Archive, playsfragmentswi03sophuoft) and his note take the gods with the oath: justice that a man has sworn by the gods to uphold. Liddell and Scott cite the line under enorkos II and do not settle it. The note under the gloss, the tab’s stands and the fifth caveat now say whose each reading is. If the lead prefers Jebb’s, the places to change are the caption (the words after the Greek is), the why and the gloss.",
+  "From the examiner: the English at Perseus that is headed as Jebb’s translation of 1891 is not his wording throughout. In this play it differs from the book in sense at line 369 and in its verb at line 191 (the book has guard this city’s greatness; strengthens, in the caption of the City tab, stands on Liddell and Scott, auxano 2, which cites the line). Other pieces that cite Jebb’s Sophocles from Perseus may need the same check against the book.",
+  "From the examiner: five verse lines are split between two speakers and printed as two rows each (antigone/p2, rows 43.1 with 45.0 and 45.1 with 47.0; antigone/p4, rows 87.1 with 89.0; antigone/p5, rows 4.0 with 6.0 and 14.1 with 16.0). The 1,279 lines of the Play tab are therefore printed lines, and each half is counted for its speaker; as whole verse lines the play has 1,274. No number in the facts was changed.",
+  "From the examiner: row 73.4. A point on the Beat tab now says at the place that the six beats lean on the stress of word 0, and the Rhyme caption says that the lines rhyme midway, not at the third beat. The Beat caption also says now that the speeches as a rule go in five beats without rhyme, because one rhymed couplet closes the Messenger’s report (the seventh item above).",
+  "From the examiner: the artist’s record (art.md, section 5) asks for three turns on the first passage, which the artist’s own session could not set. I looked at the phone picture of the Beat tab, where rows 73.0, 73.4 and 73.5 strand a small word at the turn, and at how the page uses the key, and set it as the artist wrote it: row 73.0 turns after word 5, row 73.4 after word 4, row 73.5 after word 6. The checker prints the three words. I could not take new pictures (that needs the site built, which is outside this folder), so the pictures in shots/ are older than this change and than the changed captions, and should be taken again. The artist’s three questions for the poet (art.md, section 6) are answered in exam.md."
+ ]
+}

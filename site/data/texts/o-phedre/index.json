@@ -1,0 +1,43 @@
+{
+ "id": "o-phedre",
+ "original": true,
+ "lang": "fr",
+ "parts": [
+  {
+   "id": "a1s1",
+   "label": "Racine, Phèdre, Act 1, Scene 1, lines 34 to 38",
+   "lang": "fr",
+   "source": {
+    "name": "French Wikisource, from Œuvres de Jean Racine (Paris: Firmin-Didot, 1854)",
+    "url": "https://fr.wikisource.org/wiki/Ph%C3%A8dre_(Racine),_Didot,_1854/Acte_I"
+   },
+   "file": "racine_phedre_fr_wikisource.txt",
+   "lines": "100-102,106-107",
+   "words": 43
+  },
+  {
+   "id": "a1s3",
+   "label": "Racine, Phèdre, Act 1, Scene 3, lines 273 to 278",
+   "lang": "fr",
+   "source": {
+    "name": "French Wikisource, from Œuvres de Jean Racine (Paris: Firmin-Didot, 1854)",
+    "url": "https://fr.wikisource.org/wiki/Ph%C3%A8dre_(Racine),_Didot,_1854/Acte_I"
+   },
+   "file": "racine_phedre_fr_wikisource.txt",
+   "lines": "529-534",
+   "words": 53
+  },
+  {
+   "id": "a2s5",
+   "label": "Racine, Phèdre, Act 2, Scene 5, lines 623 to 630",
+   "lang": "fr",
+   "source": {
+    "name": "French Wikisource, from Œuvres de Jean Racine (Paris: Firmin-Didot, 1854)",
+    "url": "https://fr.wikisource.org/wiki/Ph%C3%A8dre_(Racine),_Didot,_1854/Acte_II"
+   },
+   "file": "racine_phedre_fr_wikisource.txt",
+   "lines": "1069-1076",
+   "words": 79
+  }
+ ]
+}

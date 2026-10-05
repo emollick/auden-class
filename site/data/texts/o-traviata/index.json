@@ -1,0 +1,32 @@
+{
+ "id": "o-traviata",
+ "original": true,
+ "lang": "it",
+ "parts": [
+  {
+   "id": "act-1",
+   "label": "Piave, La Traviata, Act 1: Alfredo’s lines in the duet, the guests’ chorus, and Violetta’s scene alone",
+   "lang": "it",
+   "source": {
+    "name": "Italian Wikisource, proofread from the libretto printed in Venice by Teresa Gattei for the first performances at La Fenice, 1853",
+    "url": "https://it.wikisource.org/wiki/La_traviata"
+   },
+   "file": "verdi_traviata_it_wikisource.txt",
+   "lines": "238-241,242-245,283-290,296-303,304-311,312-315,317-324,325-328,330-335,336-337,338-345",
+   "left": [2],
+   "words": 279
+  },
+  {
+   "id": "act-3",
+   "label": "Piave, La Traviata, Act 3: the last lines",
+   "lang": "it",
+   "source": {
+    "name": "Italian Wikisource, proofread from the libretto printed in Venice by Teresa Gattei for the first performances at La Fenice, 1853",
+    "url": "https://it.wikisource.org/wiki/La_traviata"
+   },
+   "file": "verdi_traviata_it_wikisource.txt",
+   "lines": "1254-1257,1258-1262,1264-1271",
+   "words": 73
+  }
+ ]
+}

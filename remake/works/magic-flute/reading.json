@@ -1,0 +1,425 @@
+{
+  "piece": "magic-flute",
+  "title": "The trials",
+  "where": "*The Magic Flute*, Act 2: the questions before the trials, the Queen of the Night’s aria, and the end of the opera",
+  "about": "Tamino, a prince, and Papageno, a bird-catcher, are at the priest Sarastro’s temple, where Tamino hopes to win Pamina, daughter of the Queen of the Night. In the first passage, which is spoken, two priests question them before their trials; Tamino has just said he seeks friendship and love. In the second the Queen has shown Pamina a dagger, told her to kill Sarastro and forbidden her to answer. In the third Papageno and his bride sing of the children they want, and a chorus of priests ends the opera.",
+  "view": {
+    "says": "Auden calls the opera overoptimistic. Tamino stands for the spiritual and gains wisdom and Pamina because he has the courage to stake his life in the trials. Papageno stands for the natural and is given Papagena because he has the humility to refuse the risk. The opera holds, he says, that nature and spirit can live together in man if each keeps to itself and the natural may refuse interference.",
+    "quote": "he has had the humility to refuse to risk his life even if the refusal will mean that he must remain single",
+    "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 134–35",
+    "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt lines 6436–6496, on 2026-10-03. The running head of p. 134 stands at the top of its page, above the comparison with The Tempest, the two lines of the chorus, the four of the duet, Caliban’s three and the two reasons; the sentence on nature and spirit begins at the foot of p. 134 and ends under the head of p. 135. Also in the research notes, C section 27."
+  },
+  "plates": [
+    {
+      "id": "trial",
+      "heading": "The same question, twice",
+      "label": "The Speaker and Tamino",
+      "text": "o-magic-flute/trial",
+      "rows": ["2.0-9.0"],
+      "pair": {
+        "label": "The Second Priest and Papageno",
+        "text": "o-magic-flute/trial",
+        "rows": ["11.0[16-21]", "12.0-16.0"]
+      },
+      "beside": true,
+      "lenses": [
+        {
+          "kind": "word",
+          "label": "Word",
+          "caption": "English stands under each phrase. Both men are asked with the same verb, <b>erkämpfen</b>, to win by fighting. Adelung’s dictionary of 1793 gives it to the higher style; its first example is winning a <b>Sieg</b>, victory: Tamino’s word. He calls Pamina <b>holde</b>, lovely, a word of the noble style. From the priest’s word Papageno takes the verb inside it, <b>Kämpfen</b>, and refuses it. He calls himself a <b>Natursmensch</b>, a man of nature; Auden says he stands for the natural. The bird-catcher hopes to catch, <b>fange</b>, a <b>Weibchen</b>: a wife in familiar speech, and the female of any animal. His last word here is <b>ledig</b>, single: what Auden says the refusal may cost him.",
+          "why": "One high word asks two men whether they will win by fighting; Tamino takes it up and names his victory and reward, and Papageno refuses it in a bird-catcher’s familiar words: for Auden, the spiritual and the natural.",
+          "notes": [
+            { "row": "2.0", "w": [0, 0], "gloss": "the Speaker", "source": "Adelung, under Sprecher: a person who speaks. The stage direction of Act 2, Scene 3 names him with “the other priest,” so he is a priest too." },
+            { "row": "2.0", "w": [1, 3], "gloss": "Are you ready", "source": "Adelung, under Bereit" },
+            { "row": "2.0", "w": [5, 7], "gloss": "with your life", "source": "Adelung, under Leben, sense 3" },
+            { "row": "2.0", "w": [9, 9], "gloss": "to win it by fighting?", "source": "Adelung, Grammatisch-kritisches Wörterbuch, under Erkämpfen (zeno.org). The it of the gloss is word 4 of the row, a neuter pronoun; what it stands for is in the two rows before the passage (o-magic-flute/trial rows 0.0 and 1.0, zeno file lines 1813 and 1815, opened by the finisher on 2026-10-03): asked what the strangers seek or ask of the priests, Tamino names friendship and love. The paragraph at the head of the page says he has just said so" },
+            { "row": "3.0", "w": [1, 1], "gloss": "Yes!", "source": "Adelung, under Ja" },
+            { "row": "4.0", "w": [1, 6], "gloss": "Even if death were your lot?", "note": "*Loos* is the lot drawn to settle a thing by chance; in the higher style, Adelung says, it is any fate a person does not owe directly to himself. An English version that Auden quotes in 1943 has *Fate* here.", "source": "Adelung, under Los, senses 1, 2.2 and 3.2, and under Tod; Auden, “Vocation and Society” (1943), Auden Studies 3, p. 15, read in a snippet" },
+            { "row": "5.0", "w": [1, 1], "gloss": "Yes!", "source": "Adelung, under Ja" },
+            { "row": "6.0", "w": [1, 1], "gloss": "Prince,", "source": "Adelung, under Prinz, sense 2" },
+            { "row": "6.0", "w": [2, 6], "gloss": "there is still time to withdraw", "source": "Adelung, under Weichen (1), sense 2: to move away from one’s place; under Noch and Zeit" },
+            { "row": "6.0", "w": [7, 9], "gloss": "one step further", "source": "Adelung, under Schritt and Weit" },
+            { "row": "6.0", "w": [10, 14], "gloss": "and it is too late.", "source": "Adelung, under Spät" },
+            { "row": "7.0", "w": [1, 4], "gloss": "Wisdom’s teaching be my victory;", "source": "Adelung, under Weisheit, Lehre (sense 2.1.c: a body of teaching), Sieg" },
+            { "row": "7.0", "w": [5, 8], "gloss": "Pamina, the lovely girl,", "note": "*Hold*, in Adelung, is lovable, pleasing in a marked degree: a sense he gives to the noble style.", "source": "Adelung, under Hold, sense 3; under Magd for Mädchen" },
+            { "row": "7.0", "w": [9, 10], "gloss": "my reward.", "note": "*Lohn* is the good done to a person for what he has done; the word returns in the last two lines of the opera, with the verb for winning and the word for wisdom.", "source": "Adelung, under Lohn, sense 1; the last two lines of the libretto (shown as the third passage)" },
+            { "row": "8.0", "w": [1, 5], "gloss": "You will take on every trial?", "source": "Adelung, under Unterziehen, sense 2 (2): to take on the doing of a thing; under Prüfung and Jeder" },
+            { "row": "9.0", "w": [1, 1], "gloss": "Every one!", "source": "Adelung, under Jeder" },
+            { "row": "p:11.0", "w": [16, 19], "gloss": "Do you too want", "source": "Adelung, under Wollen and Auch" },
+            { "row": "p:11.0", "w": [20, 20], "gloss": "love of wisdom", "source": "Adelung, under Weisheit and Liebe" },
+            { "row": "p:11.0", "w": [21, 21], "gloss": "to win by fighting?", "source": "Adelung, under Erkämpfen" },
+            { "row": "p:12.0", "w": [1, 5], "gloss": "Fighting is not my business.", "source": "Adelung, under Kämpfen and under Sache, which has this very turn of phrase: it does not concern me, I have neither the duty nor the ability" },
+            { "row": "p:12.0", "w": [6, 10], "gloss": "And at bottom I want", "source": "Adelung, under Verlangen, sense 2 (to want to have), and Grund, sense (3): im Grunde" },
+            { "row": "p:12.0", "w": [11, 13], "gloss": "no wisdom at all.", "source": "Adelung, under Gar (before a negation it strengthens it) and Weisheit" },
+            { "row": "p:12.0", "w": [14, 18], "gloss": "I am a man of nature,", "note": "Adelung, who spells the word *Naturmensch*, defines it as a person living in the state of nature, without any civil order or restraint from outside.", "source": "Adelung, under Naturmensch" },
+            { "row": "p:12.0", "w": [19, 25], "gloss": "who with sleep, food and drink", "source": "Adelung, under Schlaf (2), Speise (2) and Trank" },
+            { "row": "p:12.0", "w": [26, 26], "gloss": "is content;", "source": "Adelung, under Begnügen" },
+            { "row": "p:12.0", "w": [27, 32], "gloss": "and if it could be", "source": "Adelung, under Wenn" },
+            { "row": "p:12.0", "w": [33, 36], "gloss": "that some day I", "source": "Adelung, under Einmahl, II.2: an indefinite future time" },
+            { "row": "p:12.0", "w": [37, 39], "gloss": "a pretty little wife", "note": "In Adelung *Weibchen* is the more usual word for a married woman in familiar speech and the word for the female of any animal, the cock’s and the sparrow’s among his examples; Papageno says it again in the duet.", "source": "Adelung, under Weib (sense 1 and the first remark) and Schön; the duet of Act 2, Scene 29 (in the English libretto magic-flute/act-2, block 343)" },
+            { "row": "p:12.0", "w": [40, 40], "gloss": "catch.", "note": "*Fangen*, in Adelung, is to get birds, fish or mice into one’s power by cunning and with tools such as a net, and in his first song Papageno wishes for a net to catch girls.", "source": "Adelung, under Fangen, sense 2.2; Papageno’s first song, second stanza (magic-flute/act-1, block 36; German libretto, Act 1, Scene 2)" },
+            { "row": "p:13.0", "w": [0, 1], "gloss": "the Second Priest", "source": "the stage direction of Act 2, Scene 3: the Speaker and the other priest" },
+            { "row": "p:13.0", "w": [2, 6], "gloss": "Her you will never get", "source": "Adelung, under Nie and under Erhalten, sense 2.3: to get" },
+            { "row": "p:13.0", "w": [7, 10], "gloss": "if you do not", "source": "Adelung, under Wenn" },
+            { "row": "p:13.0", "w": [11, 13], "gloss": "take on our trials.", "source": "Adelung, under Unterziehen and Prüfung" },
+            { "row": "p:14.0", "w": [1, 4], "gloss": "What does this trial consist in?", "source": "Adelung, under Bestehen, I.2: to have its being in something" },
+            { "row": "p:15.0", "w": [2, 6], "gloss": "To submit to all our laws,", "source": "Adelung, under Unterwerfen and Gesetz" },
+            { "row": "p:15.0", "w": [7, 11], "gloss": "not to shun even death.", "source": "Adelung, under Scheuen, sense 2, Selbst (for even) and Tod" },
+            { "row": "p:16.0", "w": [1, 3], "gloss": "I stay single!", "source": "Adelung, under Ledig, sense 2.2 (c), unmarried, and under Bleiben. The finisher opened the entry again on 2026-10-03 and cut from the note the other senses it had named (2.1, empty; 2.2 (b), vacant; 2.2 (e), free of bonds or captivity)" }
+          ],
+          "grounds": [
+            { "claim": "both men are asked in the same verb, and what each answers", "kind": "plate" },
+            { "claim": "erkämpfen: to obtain by fighting, in the higher style; the first example is den Sieg erkämpfen", "kind": "source", "source": "Adelung, Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart, second edition (1793–1801), under Erkämpfen, read at zeno.org on 2026-10-03" },
+            { "claim": "hold: lovable, pleasing in a marked degree, in the noble style", "kind": "source", "source": "Adelung, under Hold, sense 3, read at zeno.org on 2026-10-03" },
+            { "claim": "Kämpfen is the verb inside erkämpfen; Papageno’s phrase means it is not his concern", "kind": "source", "source": "Adelung, under Erkämpfen (durch Kämpfen erhalten), Kämpfen and Sache, read at zeno.org on 2026-10-03" },
+            { "claim": "Naturmensch; Weibchen as the familiar word for a wife and the word for the female of any animal; fangen of birds, fish and mice; ledig, unmarried", "kind": "source", "source": "Adelung, under Naturmensch, Weib, Fangen and Ledig, read at zeno.org on 2026-10-03" },
+            { "claim": "the plain glosses under the other phrases", "kind": "source", "source": "Adelung, under Sprecher, Bereit, Leben, Ja, Tod, Los, Prinz, Weichen (1), Noch, Zeit, Schritt, Weit, Spät, Weisheit, Lehre, Sieg, Magd, Lohn, Unterziehen, Prüfung, Jeder, Wollen, Auch, Liebe, Verlangen, Grund, Gar, Schlaf (2), Speise (2), Trank, Begnügen, Wenn, Einmahl, Schön, Nie, Erhalten, Bestehen, Unterwerfen, Gesetz, Scheuen, Selbst and Bleiben, each read at zeno.org on 2026-10-03" },
+            { "claim": "Papageno is a bird-catcher", "kind": "text", "source": "his first song, Act 1, Scene 2 (magic-flute/act-1, blocks 35 and 36)" },
+            { "claim": "Auden: Papageno stands for the natural, and refusing may cost him a wife (the words quoted at the head of the page)", "kind": "auden", "source": "“Balaam and His Ass,” The Dyer’s Hand (1962), p. 134" }
+          ],
+          "stands": "The marks on the two exchanges. The German words: Adelung’s dictionary of 1793 to 1801 under *Erkämpfen*, *Kämpfen*, *Los*, *Hold*, *Lohn*, *Sache*, *Naturmensch*, *Weib*, *Fangen* and *Ledig*, and under the other words glossed. Papageno’s trade and his net for girls: [his first song](#/read/magic-flute/act-1:35) in Act 1. Auden: *The Dyer’s Hand*, p. 134; the English version he quotes in 1943 is in *Auden Studies 3*, p. 15."
+        },
+        {
+          "kind": "compare",
+          "label": "Answers",
+          "caption": "Matching numbers mark where the second exchange answers the first. The priests set one test in the same words: <b>erkämpfen</b>, to win by fighting, and <b>Tod</b>, death, as the risk. Here Tamino is asked three questions and answers each in one word. Papageno gives his reasons, asks what the trial is, and at the word for death says he stays single. Auden and Chester Kallman, who put the opera into English, write that this exchange is Papageno’s trial, handled so lightly in the original that audiences can miss it. He passes, they say: his last answer shows his humility, and for it he is rewarded. Tamino, Auden says, is rewarded for the courage to stake his life.",
+          "why": "The same test in the same words gets three one-word assents from Tamino and a refusal from Papageno; Auden holds that the opera rewards both, one for courage and the other for the humility of refusing.",
+          "ties": [
+            { "a": ["2.0", 9, 9], "b": ["p:11.0", 21, 21], "say": "The same verb is put to both: to win by fighting." },
+            { "a": ["4.0", 3, 3], "b": ["p:15.0", 9, 9], "say": "Death is named to each: to Tamino as his possible lot, to Papageno as a thing he must not shun." },
+            { "a": ["5.0", 1, 1], "b": ["p:16.0", 1, 3], "say": "Asked about death, Tamino says yes. Told of it, Papageno says he stays single." },
+            { "a": ["7.0", 1, 4], "b": ["p:12.0", 11, 13], "say": "Tamino asks for wisdom’s teaching as his victory. Papageno wants no wisdom at all." },
+            { "a": ["7.0", 5, 10], "b": ["p:12.0", 37, 40], "say": "Tamino names Pamina as his reward. Papageno names no one: he hopes to catch a pretty little wife. Auden notes in 1946 that he is in love with no one woman: a girl is all he wants." },
+            { "a": ["9.0", 1, 1], "b": ["p:14.0", 1, 4], "say": "Tamino takes on every trial without asking what it is. Papageno asks." }
+          ],
+          "grounds": [
+            { "claim": "the same verb and the naming of death in both exchanges; three questions to Tamino in the lines shown, each answered in one word; Papageno’s reasons, question and refusal; Tamino names Pamina, Papageno names no one", "kind": "plate" },
+            { "claim": "this exchange is Papageno’s trial, handled so offhandedly in the original that audiences can miss what it is; his last answer shows his humility and earns his reward", "kind": "auden", "source": "Auden and Kallman, Preface to The Magic Flute (1956), in Libretti and Other Dramatic Writings (1993), p. 132, read in snippets of the scan at the Internet Archive (librettiotherdra00aude) on 2026-10-03: the running head of p. 132 stands just before the sentence that brings Papageno in, and the trial follows it" },
+            { "claim": "Tamino’s reward comes of his courage in risking his life in the trials", "kind": "auden", "source": "“Balaam and His Ass,” The Dyer’s Hand (1962), p. 134" },
+            { "claim": "Papageno is in love with no one woman; a girl is all he wants", "kind": "auden", "source": "“Mozart and the Middlebrow” (1946), in Prose, Volume II (2002), p. 290, read in snippets of the Internet Archive scan prosetravelbooks0000aude on 2026-10-03 by the examiner: the sentence stands between the quoted questions to Tamino and those to Papageno, before the running head of p. 291" }
+          ],
+          "stands": "The marks on the two exchanges, and a count of the questions put to Tamino here and of the words in his answers. Papageno’s trial: Auden and Kallman, Preface to *The Magic Flute* (1956), in *Libretti and Other Dramatic Writings*, p. 132. Tamino’s reward: *The Dyer’s Hand*, p. 134. Papageno and a girl: “Mozart and the Middlebrow” (1946), in *Prose*, vol. II, p. 290."
+        },
+        {
+          "kind": "sentence",
+          "label": "Wishes",
+          "caption": "Tamino’s answer to the warning is one sentence in two matched halves. Each names a thing he wants and calls it a prize: wisdom’s teaching is to be his <b>Sieg</b>, victory, and Pamina his <b>Lohn</b>, reward. The verb <b>sey</b>, be, is said once for both, a figure called zeugma. Auden says Tamino faces the ordeal knowing what lies beyond it: wisdom and the princess. Papageno begins with two refusals and puts his wish last, under an <i>if</i>. The priest answers <b>nie</b>, never, with a condition of his own, which Auden and Kallman call a threat. The opera does not carry it out: Papageno promises only silence and breaks it, never enters fire or water, and is given Papagena.",
+          "why": "Tamino’s balanced sentence names wisdom and Pamina as his victory and reward, as Auden’s Tamino knows what waits beyond the ordeal; Papageno hangs his one wish on an if, and the priest’s threat of never is not carried out.",
+          "spans": [
+            { "from": ["7.0", 1], "to": ["7.0", 1], "tag": "sought", "label": "what he wants" },
+            { "from": ["7.0", 3], "to": ["7.0", 4], "tag": "prize", "label": "the prize" },
+            { "from": ["7.0", 5], "to": ["7.0", 8], "tag": "sought", "label": "what he wants" },
+            { "from": ["7.0", 9], "to": ["7.0", 10], "tag": "prize", "label": "the prize" },
+            { "from": ["p:12.0", 1], "to": ["p:12.0", 5], "tag": "no", "label": "a refusal" },
+            { "from": ["p:12.0", 6], "to": ["p:12.0", 13], "tag": "no", "label": "a refusal" },
+            { "from": ["p:12.0", 27], "to": ["p:12.0", 32], "tag": "if", "label": "a condition" },
+            { "from": ["p:12.0", 33], "to": ["p:12.0", 40], "tag": "sought", "label": "what he wants" },
+            { "from": ["p:13.0", 2], "to": ["p:13.0", 6], "tag": "no", "label": "the priest’s “never”" },
+            { "from": ["p:13.0", 7], "to": ["p:13.0", 13], "tag": "if", "label": "a condition" }
+          ],
+          "grounds": [
+            { "claim": "the build of Tamino’s sentence, of Papageno’s speech and of the priest’s reply; the verb said once", "kind": "plate" },
+            { "claim": "zeugma: one part of speech, most often the main verb, governs two or more parts of a sentence", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), under zeugma, read on 2026-10-03" },
+            { "claim": "Tamino faces the ordeal by fire and water knowing that wisdom’s palace and the princess lie beyond it", "kind": "auden", "source": "The Enchafèd Flood (1950), p. 111 (research/auden/ef.txt lines 4608–4612, as the examiner found them; in that scan the page number stands at the foot of its page, 110 at line 4587 and 111 at line 4630)" },
+            { "claim": "the priest’s reply to Papageno is a threat: refuse, and Papagena is lost to him", "kind": "auden", "source": "Auden and Kallman, Preface to The Magic Flute (1956), in Libretti and Other Dramatic Writings (1993), p. 132, read in snippets on 2026-10-03" },
+            { "claim": "just after the lines shown Papageno gives his hand on holding his tongue, so that he may see Papagena; told again to keep silent, he talks to Tamino and to the old woman; the Speaker later tells him the gods remit the punishment he has earned", "kind": "text", "source": "German libretto of 1791, Act 2, Scene 3 (zeno file lines 1875–1879), Scenes 13 to 15 (lines 2345–2447: the priest’s warning at 2355, the talk from 2368 on) and Scene 23 (line 2757); the English libretto printed here leaves these spoken scenes out" },
+            { "claim": "in the original Papageno swears to keep silent, and the audience knows beforehand that he will break his word", "kind": "auden", "source": "Auden and Kallman, Preface to The Magic Flute (1956), in Libretti and Other Dramatic Writings (1993), p. 132, read in snippets on 2026-10-03 by the examiner: the sentences follow the one on his humility, and the running head of p. 133 stands later" },
+            { "claim": "only Tamino and Pamina pass through fire and water; Papagena is brought to Papageno near the end", "kind": "text", "source": "German libretto of 1791, Act 2, Scenes 28 and 29; in the English libretto magic-flute/act-2, blocks 297 and 330" },
+            { "claim": "Papageno refuses and is given Papagena all the same", "kind": "auden", "source": "“Mozart and the Middlebrow” (1946), in Prose, Volume II (2002), p. 290, read in snippets on 2026-10-03 by the examiner; the same is said in “Vocation and Society” (1943), Auden Studies 3, p. 16, and in the lecture of 1947 on The Tempest, Lectures on Shakespeare, p. 300" }
+          ],
+          "stands": "The marks on the two speeches, and zeugma as *Silva Rhetoricae* defines it. Auden on Tamino: *The Enchafèd Flood*, p. 111. The priest’s threat, and the silence Papageno vows and does not keep: Auden and Kallman, Preface to *The Magic Flute* (1956), p. 132. Later in Act 2 Tamino and Pamina go [through fire and water](#/read/magic-flute/act-2:297) without Papageno, and [Papagena is brought to him](#/read/magic-flute/act-2:330)."
+        }
+      ]
+    },
+    {
+      "id": "queen",
+      "heading": "The mother’s oath",
+      "label": "The libretto of 1791",
+      "text": "o-magic-flute/queen",
+      "turn": { "3.0": 4 },
+      "rows": ["0.0-7.0"],
+      "pair": {
+        "label": "The English libretto, each line under its German",
+        "text": "magic-flute/act-2",
+        "rows": ["45.0-45.3", "45.5-45.6", "45.4", "45.7"]
+      },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "five beats, the line beginning off the beat, in lines of eleven and ten syllables by turns",
+          "caption": "The German has five beats to the line. Without rhyme, the line of five beats is the classic line of German verse drama since Lessing’s <i>Nathan der Weise</i> of 1779. Most of this libretto’s verse has four beats. The Queen has ten lines of five, these and two in Act 1; a chorus of priests, two armed men and three boys sing all the others. Auden and Chester Kallman, writing on the translation of opera, hold that the Queen, a supernatural being, cannot speak like a courtesan such as Verdi’s Violetta. The last line, to the gods, is broken twice and can be heard to begin on two stresses.",
+          "why": "In this libretto lines of five beats go only to the Queen and to groups, which sets these lines apart from every other single character’s; Auden and Kallman hold that a supernatural being cannot be given a courtesan’s speech.",
+          "scan": {
+            "0.0": { "meter": "x/x/x/x/x/x", "voice": "x /x /x / x \\x /x", "div": { "2": "Ra|che" } },
+            "1.0": { "meter": "x/x/x/x/x/", "voice": "/ x x/x /x \\ x /", "div": { "2": "Ver|zweif|lung" } },
+            "2.0": { "meter": "x/x/x/x/x/x", "voice": "x / x / x/x /x\\x", "div": { "5": "To|des|schmer|zen," } },
+            "3.0": { "meter": "x/x/x/x/x/", "voice": "x \\ x \\x /x /x/", "div": { "3": "mei|ne" } },
+            "4.0": { "meter": "x/x/x/x/x/x", "voice": "x/x \\ x /x x x/x" },
+            "5.0": { "meter": "x/x/x/x/x/", "voice": "x/x /x /x x x/", "div": { "2": "Ban|de" } },
+            "6.0": { "meter": "x/x/x/x/x/x", "voice": "x / x / x/x x x/x" },
+            "7.0": { "meter": "x/x/x/x/x/", "voice": "/ /x | /x | / x /x /", "div": { "1": "Ra|che, –" } }
+          },
+          "points": [
+            { "at": ["1.0", 0, 0], "say": "This line begins on a stressed word, *Tod*, death, where the measure has no beat." },
+            { "at": ["4.0", 2, 3], "say": "As Mozart set them, the fifth and sixth lines become four short ones: the phrase meaning for ever is sung three times, once each with the words for cast off, forsaken and shattered. Auden and Kallman remark of Mozart in general that when a text is too short for his music he has its lines sung again." },
+            { "at": ["7.0", 0, 2], "say": "The line turns from Pamina to the gods. Two dashes break it, and its first word, a command, can be heard as a stress before the beat. The libretto of 1791 prints *Rache*, vengeance, and *Götter*, gods, apart; as Mozart set them they are one word, *Rachegötter*, gods of vengeance." }
+          ],
+          "grounds": [
+            { "claim": "five beats in every line, eleven and ten syllables by turns; the last line broken twice inside by dashes; a stress at the head of the second line and, as it can be heard, of the last", "kind": "plate" },
+            { "claim": "the unrhymed five-beat line is the classic verse of German drama; Lessing’s Nathan der Weise (1779) brought its final breakthrough", "kind": "source", "source": "German Wikipedia, “Blankvers” and “Jambischer Fünfheber,” read on 2026-10-03" },
+            { "claim": "the libretto consists for the most part of four-beat lines; a five-beat quatrain is unusual in it", "kind": "source", "source": "German Wikipedia, “Der Hölle Rache kocht in meinem Herzen,” section Text, read on 2026-10-03" },
+            { "claim": "five-beat rising lines in the libretto of 1791: the Queen 10 (two in her recitative in Act 1, Scene 6, eight here); a chorus of priests 4 (Act 2, Scene 20); the two armed men 3, with one irregular line more (Act 2, Scene 28); the three boys 2 (Act 2, Scene 29); no line of any other single character", "kind": "source", "source": "counted on the zeno.org text of the 1791 libretto (.cache/originals/mozart_zauberfloete_de_zeno.txt lines 467, 469, 2212–2226, 2598–2604, 3080, 3084, 3086, 3088, 3337, 3339), every verse line of nine to twelve counted syllables looked at, on 2026-10-03. Counted again by the finisher the same day, before the groups were named in the caption (finisher/count5.py): all 80 lines that stand alone and count ten to twelve syllables were read, and the 43 short speeches printed on their speaker’s line. The same lines and no others: the chorus is headed CHOR under a stage direction that names the Speaker and some priests, the men ZWEY MÄNNER, the boys DREY KNABEN" },
+            { "claim": "what suits one kind of opera in diction does not suit another, and the Queen of the Night, being supernatural, cannot talk as the courtesan Violetta talks: said of the style a translator must find", "kind": "auden", "source": "Auden and Kallman, “Translating Opera Libretti,” The Dyer’s Hand (1962), p. 491" },
+            { "claim": "Mozart, when a text is too short for his music, has its lines sung again: said of Mozart in general, in a remark on syllables spread over several notes, not of this aria", "kind": "auden", "source": "Auden and Kallman, “Translating Opera Libretti,” The Dyer’s Hand (1962), p. 490" },
+            { "claim": "as set, the fifth and sixth lines are four short ones, with the words for for ever three times, and Rachegötter is one word; the first print has Rache and Götter apart with a comma and two dashes", "kind": "source", "source": "Stiftung Mozarteum Salzburg, Digital Mozart Edition, Libretti-Edition, KV 620: the text as set and the transcription of the first print, read on 2026-10-03; German Wikipedia on the aria (four three-beat lines in the sung text)" },
+            { "claim": "the English under each German line is taken from an English libretto of the opera", "kind": "text", "source": "magic-flute/act-2, block 45, an Air of eight lines, opened by the finisher on 2026-10-03: they are the eight lines set under the German. The text printed here is the English of an Italian and English libretto of the opera (New York: F. Rullman, undated), as remake/research/D_texts.md section 3 and the first entry of the sources at the foot have it. The words were added to the caption by the critic (critic.md, change 14a)" },
+            { "claim": "the last line is addressed to the gods, the lines before it to Pamina", "kind": "text", "source": "the aria, third to eighth lines" }
+          ],
+          "stands": "The marks on the passage, with German Wikipedia on the five-beat line (“Blankvers,” “Jambischer Fünfheber”) and on this aria for the libretto’s usual four beats. A count of the five-beat lines in the libretto as printed in 1791. The English lines: the English libretto [printed here](#/read/magic-flute/act-2:45). Mozart’s text: the Mozarteum’s Libretti-Edition. Auden and Kallman: *The Dyer’s Hand*, pp. 490–91; Violetta is the heroine of [*La Traviata*](#/traviata)."
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "caption": "Each set of four lines rhymes by turns, on two syllables in the odd lines and on one in the even, the usual way with this line in German. The two-syllable rhymes pair the Queen’s <b>Herzen</b>, heart, with Sarastro’s <b>Todesschmerzen</b>, pains of death, and the daughter <b>verlassen</b>, forsaken, with Sarastro <b>erblassen</b>, turning pale, a noble word for dying. The first set closes on <b>nimmermehr</b>, nevermore, and the second on <b>Schwur</b>, oath, which rhymes with <b>Natur</b>: she swears that nature’s bonds shall be shattered if Sarastro does not die by Pamina’s hand.",
+          "why": "The two-syllable rhymes pair the Queen’s heart and her forsaken daughter with Sarastro’s dying; the sets close on nevermore and on oath, which rhymes with nature, whose bonds she swears shall be shattered.",
+          "ends": { "0.0": "a", "1.0": "b", "2.0": "a", "3.0": "b", "4.0": "c", "5.0": "d", "6.0": "c", "7.0": "d" },
+          "tails": { "0.0": 5, "2.0": 5, "1.0": 2, "3.0": 3, "4.0": 5, "6.0": 5, "5.0": 2, "7.0": 2 },
+          "grounds": [
+            { "claim": "the rhyme scheme, which rhymes have two syllables, which words each rhyme pairs, and the last rhyme word of each four", "kind": "plate" },
+            { "claim": "the rhymed five-beat line in German: one kind has rhymes of one and of two syllables by turns, after the French model; the other, after the Italian, is used in German as a rule with rhymes of two syllables and of one by turns", "kind": "source", "source": "German Wikipedia, “Jambischer Fünfheber,” read on 2026-10-03" },
+            { "claim": "what each rhyme word means; erblassen as the nobler word for dying; nimmermehr only of time to come; Schwur; Bande as ties", "kind": "source", "source": "Adelung, under Herz (1), Schmerz, Erblassen, Verlassen, Nimmermehr, Schwur, Natur and Band, read at zeno.org on 2026-10-03; and the English libretto set under the lines" },
+            { "claim": "whose heart, whose pains of death, who is forsaken and who is to turn pale; what she swears: the daughter cast off and the bonds of nature shattered, if Sarastro does not die through her", "kind": "text", "source": "the first, third and fifth to eighth lines of the aria; in Act 2, Scene 10 Pamina says her mother swore to cast her off if she does not turn the dagger on Sarastro" }
+          ],
+          "stands": "The marks on the passage and what its lines say; after the aria Pamina says it is she who is to be cast off. Rhymes of two syllables and of one by turns: German Wikipedia, “Jambischer Fünfheber.” The German words: Adelung’s dictionary under *Erblassen*, *Verlassen*, *Nimmermehr*, *Schwur* and *Band*."
+        },
+        {
+          "kind": "figure",
+          "label": "Threat",
+          "name": "chiasmus",
+          "plain": "a crossing: two things are named, then named again in the opposite order; here condition and penalty, then penalty and condition",
+          "draw": "cross",
+          "join": [[0, 4], [1, 2]],
+          "caption": "Five lines hold one threat, said twice in opposite order. The third line sets the condition, that Sarastro die at Pamina’s hand, and the fourth the penalty: she is a daughter no more. The fifth and sixth say the penalty again, and the seventh returns to the condition in four of the third line’s words, <i>nicht durch dich Sarastro</i>, not through you Sarastro. Condition, penalty, penalty, condition: a chiasmus, which shuts the penalty between two statements of the condition. Afterward Pamina asks the gods what to do; later she says her mother’s curse pursues her. Auden and Kallman list that curse among the sufferings she must learn to bear.",
+          "why": "The condition is said at both ends and the penalty between; the lines leave Pamina the deed or the loss of her mother, and Auden and Kallman count her mother’s curse among the sufferings she must learn to bear.",
+          "parts": [
+            { "row": "2.0", "w": [0, 5], "tag": "A", "label": "the condition" },
+            { "row": "3.0", "w": [0, 5], "tag": "B", "label": "the penalty" },
+            { "row": "4.0", "w": [0, 5], "tag": "B", "label": "the penalty" },
+            { "row": "5.0", "w": [0, 4], "tag": "B", "label": "the penalty" },
+            { "row": "6.0", "w": [0, 6], "tag": "A", "label": "the condition" },
+            { "row": "2.0", "w": [1, 4], "tag": "C", "label": "the same words" },
+            { "row": "6.0", "w": [1, 4], "tag": "C", "label": "the same words" }
+          ],
+          "grounds": [
+            { "claim": "the order condition, penalty, penalty, condition, and the four words repeated in the same place", "kind": "plate" },
+            { "claim": "what the five lines say", "kind": "text", "source": "the aria, with the English libretto under it; Pamina gives the sense in Act 2, Scene 10: her mother swore by all the gods to cast her off if she did not turn the dagger on Sarastro" },
+            { "claim": "chiasmus is a repetition of ideas, or of grammatical structures, in inverted order", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), under chiasmus, read on 2026-10-03" },
+            { "claim": "after the aria Pamina says she cannot murder, and asks the gods what she is to do", "kind": "text", "source": "German libretto of 1791, Act 2, Scenes 9 and 10 (zeno file lines 2239 and 2252); in the English libretto her question stands in magic-flute/act-2, block 55, without the call to the gods" },
+            { "claim": "near the end Pamina, about to kill herself, says that she suffers through her mother and that her mother’s curse pursues her", "kind": "text", "source": "German libretto of 1791, Act 2, Scene 27 (zeno file lines 2997 and 2999), found by the examiner; the word for curse stands nowhere else in the libretto, and the English libretto printed here has no word for it at that place (magic-flute/act-2, block 252)" },
+            { "claim": "Pamina too must be schooled by suffering; her mother’s curse is one of the things named that she has to bear", "kind": "auden", "source": "Auden and Kallman, Preface to The Magic Flute (1956), in Libretti and Other Dramatic Writings (1993), p. 131, read in snippets on 2026-10-03" }
+          ],
+          "stands": "The marks on the passage, and what the lines say. Chiasmus as *Silva Rhetoricae* defines it. Pamina’s account of the oath, her question to the gods and her words on her mother’s curse: the libretto of 1791, Act 2, Scenes 10 and 27; the English libretto has the question [here](#/read/magic-flute/act-2:55), without the gods. Auden and Kallman: Preface to *The Magic Flute* (1956), in *Libretti and Other Dramatic Writings*, p. 131."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "caption": "The English libretto names no translator. It keeps the five beats, two lines a syllable short, and at first the German word order: <i>of hell the vengeance</i>. It has none of the two-syllable rhymes: its first four lines do not rhyme, and its last four rhyme on one syllable. Auden and Chester Kallman, who translated the opera themselves, write that such rhymes are frequent in German and mostly comic in English, and that a solemn scene does better with no rhyme than with a laughable one. The English order differs too: as printed, the line set here under the seventh stands fifth, so that each condition comes before its penalty.",
+          "why": "The English keeps the five beats and none of the two-syllable rhymes, which Auden and Kallman find mostly comic in English, and it puts each condition before its penalty, which undoes the crossing.",
+          "ties": [
+            { "a": ["0.0", 0, 2], "b": ["p:45.0", 0, 3], "say": "The English has the German order: *hell* before *vengeance*." },
+            { "a": ["0.0", 6, 6], "b": ["p:45.0", 7, 7], "say": "The German line ends on a rhyme of two syllables. The English line ends on one syllable and has no rhyme." },
+            { "a": ["5.0", 2, 4], "b": ["p:45.6", 4, 6], "say": "*Bande der Natur* is kept word for word: *ties of nature*." },
+            { "a": ["6.0", 0, 0], "b": ["p:45.4", 0, 0], "say": "This line stands fifth in the English libretto, before the two lines of penalty." },
+            { "a": ["6.0", 6, 6], "b": ["p:45.4", 4, 6], "say": "*Erblassen* is to turn pale, a noble word for dying. The English says *dies* and adds *now*, which rhymes with *vow*." },
+            { "a": ["7.0", 1, 2], "b": ["p:45.7", 1, 3], "say": "The libretto of 1791 sets vengeance and gods apart with a comma and a dash. The English has one phrase, as Mozart’s setting has one word." }
+          ],
+          "grounds": [
+            { "claim": "what the English has, lacks and orders otherwise", "kind": "plate" },
+            { "claim": "five beats in six of the eight English lines (ten or eleven syllables); the two lines that begin alike (rows 45.2 and 45.4) have nine syllables, and five beats only if their first word takes one; no rhyme in the first four lines, one-syllable rhymes in the last four; the line shown seventh stands fifth in the English libretto", "kind": "text", "source": "magic-flute/act-2, block 45, counted on 2026-10-03 and again by the examiner" },
+            { "claim": "the English libretto names no translator", "kind": "source", "source": "the Italian and English libretto published by F. Rullman, New York (Internet Archive, magicflutediezau00moza): the examiner opened the scan’s text on 2026-10-03; its title page names the two opera houses and the publisher, and no word for a translator or a translation stands anywhere in it. Also recorded in remake/research/D_texts.md section 3 and in the note of the text printed here" },
+            { "claim": "rhymes of two syllables come often in German and seldom in English, where most of them are comic; where a scene is tender or solemn it is better to go without rhyme than to raise a laugh", "kind": "auden", "source": "Auden and Kallman, “Translating Opera Libretti,” The Dyer’s Hand (1962), p. 488" },
+            { "claim": "Auden and Kallman translated this libretto", "kind": "auden", "source": "“Translating Opera Libretti,” The Dyer’s Hand (1962), p. 484" },
+            { "claim": "erblassen: to grow pale; to die, in the nobler style", "kind": "source", "source": "Adelung, under Erblassen, read at zeno.org on 2026-10-03" },
+            { "claim": "Rachegötter as one word in the text Mozart set; a comma and dashes in the first print", "kind": "source", "source": "Stiftung Mozarteum Salzburg, Digital Mozart Edition, Libretti-Edition, KV 620, read on 2026-10-03" }
+          ],
+          "stands": "The two versions as they stand, line under line, and a count of beats and rhymes in the English lines, which are [printed here](#/read/magic-flute/act-2:45) in their own order; the title page of that libretto names no translator. Auden and Kallman: *The Dyer’s Hand*, pp. 484 and 488. *Erblassen*: Adelung’s dictionary. Mozart’s text: the Mozarteum’s Libretti-Edition."
+        }
+      ]
+    },
+    {
+      "id": "weddings",
+      "heading": "The two rewards",
+      "label": "The Magic Flute: the duet, then the last chorus",
+      "text": "o-magic-flute/weddings",
+      "rows": ["0.0-3.0", "6.0-7.0"],
+      "pair": {
+        "label": "The Tempest, Act 1, Scene 2: Caliban to Prospero",
+        "text": "tempest/a1s2",
+        "rows": ["200.0-200.2"]
+      },
+      "beside": true,
+      "lenses": [
+        {
+          "kind": "word",
+          "label": "Word",
+          "caption": "Auden quotes these six lines from the opera’s end and sets Caliban’s three after them. Four are from the duet of Papageno and his bride; a chorus of priests sings the opera’s last two. The duet has <b>Erst</b>, first, and <b>Dann</b>, then; <b>wieder</b>, again; and the singers’ own names. The chorus’s two lines name no person: strength has won, and crowns beauty and wisdom with an <b>ewiger</b>, eternal, crown. Auden reads two rewards here: wisdom and Pamina for Tamino, who stands for the spiritual; Papagena for Papageno, who stands for the natural. Three of the chorus’s words stand in some form in Tamino’s sentence before the trials: victory, reward, wisdom.",
+          "why": "The duet counts out children in words of order and the parents’ own names, and the chorus crowns beauty and wisdom for ever: Auden sets one song by the reward of the natural, the other by that of the spiritual.",
+          "notes": [
+            { "row": "0.0", "w": [0, 0], "gloss": "first", "note": "Adelung notes that *erst*, said of what comes first in time, is proper only to familiar speech.", "source": "Adelung, under Erst, sense 1.1" },
+            { "row": "0.0", "w": [1, 2], "gloss": "a little", "source": "Adelung, under Klein" },
+            { "row": "1.0", "w": [0, 0], "gloss": "then", "source": "Adelung, under Dann, sense 2: an adverb of order" },
+            { "row": "1.0", "w": [1, 2], "gloss": "a little", "source": "Adelung, under Klein" },
+            { "row": "2.0", "w": [0, 1], "gloss": "then again", "note": "*Wieder* means that a thing takes place anew, so that it must have taken place before.", "source": "Adelung, under Wieder, sense 1" },
+            { "row": "2.0", "w": [2, 2], "gloss": "a", "source": "the line" },
+            { "row": "3.0", "w": [0, 1], "gloss": "then again", "source": "Adelung, under Wieder, sense 1" },
+            { "row": "3.0", "w": [2, 2], "gloss": "a", "source": "the line" },
+            { "row": "6.0", "w": [0, 3], "gloss": "Strength won the victory,", "note": "*Siegte* is the verb of *Sieg*, victory, the word Tamino uses before his trials.", "source": "Adelung, under Siegen (2), Sieg and Stärke" },
+            { "row": "6.0", "w": [4, 5], "gloss": "and crowns", "source": "Adelung, under Krönen" },
+            { "row": "6.0", "w": [6, 7], "gloss": "as a reward", "note": "*Lohn*, reward, is Tamino’s other word before his trials: he asks for Pamina as his.", "source": "Adelung, under Lohn" },
+            { "row": "7.0", "w": [0, 1], "gloss": "beauty", "source": "Adelung, under Schönheit" },
+            { "row": "7.0", "w": [2, 3], "gloss": "and wisdom", "source": "Adelung, under Weisheit" },
+            { "row": "7.0", "w": [4, 6], "gloss": "with an eternal crown.", "source": "Adelung, under Ewig, sense 3, and Krone" }
+          ],
+          "grounds": [
+            { "claim": "which words the duet’s four lines hold and which the chorus’s two; no person is named in the chorus’s two lines", "kind": "plate" },
+            { "claim": "who sings which lines, and that the two lines are the opera’s last", "kind": "text", "source": "German libretto of 1791, Act 2, Scenes 29 and 30: the duet’s lines are given to Papageno and to the woman by turns, the last four lines of the opera to a chorus of priests" },
+            { "claim": "the German words as glossed", "kind": "source", "source": "Adelung, under Erst, Dann, Wieder, Klein, Sieg, Siegen (2), Stärke, Krönen, Lohn, Schönheit, Weisheit, Ewig and Krone, read at zeno.org on 2026-10-03" },
+            { "claim": "Auden prints these six lines; he has Tamino stand for the spiritual, happy in Pamina and wise by the time the chorus sings, and Papageno stand for the natural, with Papagena as his reward", "kind": "auden", "source": "“Balaam and His Ass,” The Dyer’s Hand (1962), p. 134" },
+            { "claim": "the word for reward is in Tamino’s sentence before the trials as it stands in the chorus; the chorus’s verb for winning is there as its noun, and its word for wisdom as the first half of a longer word", "kind": "text", "source": "German libretto, Act 2, Scene 3 (o-magic-flute/trial, row 7.0, words 1, 4 and 10, against o-magic-flute/weddings rows 6.0 words 1 and 7 and 7.0 word 3), shown as the first passage" }
+          ],
+          "stands": "The marks on the passage. The German words: Adelung’s dictionary under *Erst*, *Dann*, *Wieder*, *Klein*, *Siegen*, *Stärke*, *Krönen*, *Lohn*, *Schönheit*, *Weisheit* and *Ewig*. Who sings which lines: the libretto of 1791. Tamino’s sentence is in the first passage on this page. Auden: *The Dyer’s Hand*, p. 134."
+        },
+        {
+          "kind": "figure",
+          "label": "List",
+          "name": "anaphora",
+          "plain": "the same word at the head of line after line",
+          "draw": "align",
+          "caption": "After a line that begins <b>Erst</b>, first, three begin <b>Dann</b>, then. One word at the head of line after line is called anaphora; it makes the lines a list, here of children. Each line ends in a name, his and hers by turns; the names differ by one letter, and each parent sings the lines that end in his or her own. The first two lines have the word for little, the next two <b>wieder</b>, again. A few lines on, in words Mozart did not set, the libretto has the parents, with the little ones at play round them, rejoice in their own image. Auden, in 1943, calls Papagena Papageno’s double, and says the two multiply at one with nature.",
+          "why": "The repeated then makes the four lines a list of children named for their parents, a boy and a girl and the same again; Auden calls Papagena Papageno’s double and says the pair multiply at one with nature.",
+          "parts": [
+            { "row": "1.0", "w": [0, 0], "tag": "A", "label": "then" },
+            { "row": "2.0", "w": [0, 1], "tag": "A", "label": "then again" },
+            { "row": "3.0", "w": [0, 1], "tag": "A", "label": "then again" },
+            { "row": "0.0", "w": [0, 0], "tag": "B", "label": "first" },
+            { "row": "0.0", "w": [3, 3], "tag": "C", "label": "his name" },
+            { "row": "1.0", "w": [3, 3], "tag": "C", "label": "her name" },
+            { "row": "2.0", "w": [3, 3], "tag": "C", "label": "his name" },
+            { "row": "3.0", "w": [3, 3], "tag": "C", "label": "her name" },
+            { "row": "0.0", "w": [2, 2], "tag": "D", "label": "little" },
+            { "row": "1.0", "w": [2, 2], "tag": "D", "label": "little" }
+          ],
+          "grounds": [
+            { "claim": "three lines begin with the same word; each ends in a name; little in the first two, again in the next two; the names differ by their last letter", "kind": "plate" },
+            { "claim": "anaphora is the repetition of the same word or words at the beginning of successive clauses, sentences or lines", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), under anaphora, read on 2026-10-03" },
+            { "claim": "repeating a word at the head of each clause makes the clauses a list", "kind": "source", "source": "common knowledge of the craft, as remake/POET.md gives it; Silva Rhetoricae under anaphora" },
+            { "claim": "the list is of children; who sings which line; the parents, with the little ones at play round them, rejoice in their own image", "kind": "text", "source": "German libretto of 1791, Act 2, Scene 29: the four lines before these hope the gods will give children, the four lines are headed Papageno and the woman by turns, and the lines after them end with the little ones at play round the parents, who feel the same joy and are glad of their image (zeno file lines 3423–3463; these three are at lines 3459, 3461 and 3463, opened by the finisher on 2026-10-03: the image is the parents’ own, that is, the children)" },
+            { "claim": "the lines about the parents’ likeness were not set by Mozart; Ebenbild is a person very like another", "kind": "source", "source": "Stiftung Mozarteum Salzburg, Digital Mozart Edition, Libretti-Edition, KV 620: its note at these lines calls them a quatrain Mozart did not set, citing Gernot Gruber’s foreword to the Neue Mozart-Ausgabe (1970), p. XIV, and its text as set ends the duet before them; Adelung, under Ebenbild, sense 1; both read on 2026-10-03. The finisher opened the entry again the same day: an image like the thing it pictures, in use only of a person very like another; its first example of that use is a son who is the whole image of his father" },
+            { "claim": "Papagena is called Papageno’s double, and the pair are said to breed on in a simple oneness with nature", "kind": "auden", "source": "“Vocation and Society” (1943), Auden Studies 3 (1995), p. 16, read in snippets of the scan at the Internet Archive (insolitudeforcom0000aude) on 2026-10-03" }
+          ],
+          "stands": "The marks on the passage. Anaphora as *Silva Rhetoricae* defines it. Who sings which line, the wish for children just before and the lines on the parents after: the libretto of 1791, with the Mozarteum’s Libretti-Edition for the lines Mozart did not set and Adelung’s dictionary under *Ebenbild*; the English libretto has [its own version of the duet](#/read/magic-flute/act-2:347). Auden: “Vocation and Society” (1943), in *Auden Studies 3*, p. 16."
+        },
+        {
+          "kind": "compare",
+          "label": "Caliban",
+          "caption": "Beside the duet are the three lines of Caliban that Auden prints after it. Prospero has charged Caliban with trying to rape his daughter. Caliban wishes it done: he would have peopled the island with Calibans. Auden finds one attitude in both: the pair are humble and innocent in it, Caliban guilty and defiant. The numbers mark what is shared and what is not. In both, children are to bear a parent’s name. The duet’s children are a gift hoped for from the gods, they come one at a time, and every second one bears the mother’s name. Caliban says <b>I</b>, and all his would bear his own.",
+          "why": "Auden finds one attitude in the duet and in Caliban’s lines; both speak of children under their own names, which the pair hope for from the gods, one at a time, and Caliban would have made himself.",
+          "ties": [
+            { "a": ["0.0", 0, 0], "b": ["p:200.1", 0, 3], "say": "The duet looks ahead, to a gift it hopes the gods will give. Caliban looks back on an act that Prospero prevented." },
+            { "a": ["0.0", 3, 3], "b": ["p:200.2", 3, 3], "say": "The child is to bear the father’s own name: a little Papageno, and Calibans." },
+            { "a": ["1.0", 3, 3], "b": ["p:200.1", 4, 4], "say": "Every second child in the duet bears the mother’s name. Caliban says *I*." },
+            { "a": ["2.0", 1, 1], "b": ["p:200.1", 6, 6], "say": "The duet counts one child at a time, and again. Caliban’s verb, *peopled*, speaks of a whole island at once." }
+          ],
+          "grounds": [
+            { "claim": "the names, the order words and the pronoun in the two passages", "kind": "plate" },
+            { "claim": "Prospero has just accused Caliban of seeking to violate the honor of his child", "kind": "text", "source": "The Tempest, Act 1, Scene 2 (tempest/a1s2, block 198)" },
+            { "claim": "the duet hopes the gods will give children", "kind": "text", "source": "German libretto of 1791, Act 2, Scene 29, the four lines sung by both before the list (zeno file lines 3423–3429); English libretto magic-flute/act-2, block 347" },
+            { "claim": "one attitude is found in the pair and in Caliban: humble and innocent in them, guilty and defiant in him; Auden prints Caliban’s three lines after the duet’s four", "kind": "auden", "source": "“Balaam and His Ass,” The Dyer’s Hand (1962), p. 134" }
+          ],
+          "stands": "The marks on the two passages. Prospero’s charge: [*The Tempest*, Act 1, Scene 2](#/read/tempest/a1s2:198). The gift hoped for from the gods: the lines of the duet just before these in the libretto of 1791, and in the English libretto [here](#/read/magic-flute/act-2:347). Auden: *The Dyer’s Hand*, p. 134; Caliban speaks again on [the page for *The Tempest*](#/tempest)."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "He sets the opera beside *The Tempest*. (As a dictionary has it, the Manichees held matter to be evil; Pelagius denied original sin.) After the lines of the chorus and the duet he prints Caliban’s answer to Prospero. He likens Papageno’s refusal to a Caliban who thanks Prospero for his proposal to adopt and school him, and stays in the jungle. On the next page he sets the two men against Don Quixote and Sancho Panza, who act on each other; Tamino and Papageno do not.",
+      "quote": "If *The Tempest* is overpessimistic and manichean, *The Magic Flute* is overoptimistic and pelagian.",
+      "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), pp. 134–35",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt lines 6444–6481, on 2026-10-03; the sentence on Don Quixote and Sancho Panza, added by the examiner, is at lines 6498–6501, under the head of p. 135. The two glosses (the Manichees, Pelagius) are not Auden’s: Online Etymology Dictionary, under Manichaeism and Pelagian, read the same day. The examiner opened both entries on 2026-10-03 (particles of light and goodness trapped in evil matter; the monk who denied the doctrine of original sin) and set the glosses apart from the paraphrase in a parenthesis. The finisher read lines 6430–6504 of the scan again on 2026-10-03 and set as the entry’s quotation the sentence at lines 6447–6448 (14 words), which opens the paragraph on the opera on p. 134; the paraphrase of that sentence, which carried its four adjectives and ran with it for five words, was taken out of what the entry says."
+    },
+    {
+      "says": "A lecture of January 1943 opens with the questions of the first passage, in an English version. Tamino’s moral, he says there, is the familiar one: he is blessed for having staked everything, failure included. The surprise is that Papageno gets his girl too, because he is frankly and selfishly himself and would sooner give her up than die. Papagena, his double, is given him, and the two multiply at one with nature. But a Papageno who has been woken, he adds, cannot stay as he is: he must follow Tamino onward or sink to a Monostatos or a Caliban.",
+      "source": "“Vocation and Society” (1943), in *Auden Studies 3: “In Solitude, for Company”* (1995), pp. 15–16 and 18",
+      "checked": "read on 2026-10-03 in snippets of the Internet Archive scan insolitudeforcom0000aude (running heads seen for pp. 16 and 18; the sentence on Papageno once woken is followed at once by footnote 11, whose mark stands in the first line under the head of p. 18, so it closes the text of that page); also in the research notes, C section 27 and appendix H14, H17w. The examiner ran the searches again the same day: the quoted scene stands before the head of p. 16; the page under that head opens with the trials being soon over in art, and goes on to the moral, the girl, the double and the multiplying; the editor’s introduction dates the lecture 15 January 1943, at Swarthmore College. A version of the same piece is also in Prose, Volume II (2002), from p. 175."
+    },
+    {
+      "says": "An essay of 1946 calls the story a parable about education with two heroes, a romantic one and a comic one. Tamino stakes his own life, and the princess with it, on the mere chance of marrying her. Papageno is in love with no one woman; a girl is all he wants. To be sure of his life he accepts staying single. He is rewarded all the same, and the pair expect to live on, not as themselves, in children without number. Tamino’s heroism, he says, is passion; Papageno’s is the humility to admit he has none.",
+      "source": "“Mozart and the Middlebrow” (1946), in *Prose*, vol. II (2002), pp. 290–91",
+      "checked": "read on 2026-10-03 by the examiner in snippets of the full-text search of the Internet Archive scan prosetravelbooks0000aude, chained phrase by phrase. The book’s index and its notes give p. 290 as the essay’s first page. The running head of p. 291 stands inside the sentence that says why Papageno is a hero, just after the sentence on the children: so the parable, the two heroes, the quoted scene, the girl, the reward and the children are on p. 290, and the two choices, the passion and the humility on p. 291. The line at the essay’s end gives its first printing: Harper’s Bazaar, March 1946. The poet had used only the sentence on the parable and the two heroes (research notes, C appendix H17y)."
+    },
+    {
+      "says": "Lecturing on *The Tempest* in 1947, he says the play and the opera run parallel and ask the same thing, what education is. He pairs the persons: Sarastro with Prospero, the Queen of the Night with Sycorax, Monostatos with Caliban, Tamino and Pamina with Ferdinand and Miranda. Papageno, who refuses to be tested at the risk of death, still wins the prize, because he too will pay, in his own way: by staying single, or by taking an old woman for his wife.",
+      "source": "*Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), the lecture on *The Tempest*, p. 300",
+      "checked": "read on 2026-10-03 in snippets of the Internet Archive scan lecturesonshakes00aude, chained phrase by phrase; in the scan’s text the running head of p. 301 follows the last words of the passage, so the passage ends at the foot of p. 300; also in the research notes, C appendix H3. The examiner ran the searches again the same day: the parallel, the question of education, the four pairs, the retold scene, the prize and the price (to stay single or to marry an old woman) all stand before the head of p. 301, and no head stands in the sixty words before the passage; the lecture is dated 7 May 1947 and begins on p. 296"
+    },
+    {
+      "says": "In the preface to their English version, he and Chester Kallman find two themes in the story. One is a change in how Night stands to Day, instinct to reason: where the Queen and Sarastro were at war, Pamina and Tamino marry. The other is education: how someone finds his calling and what that asks of him. The story has two heroes, one needing courage to venture, one humility to stay at home; Papageno passes his trial when he chooses to stay single. The original blurs this, they say, keeping him on stage for laughs and having him vow a silence the audience knows he will break.",
+      "source": "W. H. Auden and Chester Kallman, Preface to *The Magic Flute* (1956), in *Libretti and Other Dramatic Writings by W. H. Auden, 1939–1973* (1993), pp. 129–32",
+      "checked": "read on 2026-10-03 only in snippets of the full-text search of the Internet Archive’s scan (librettiotherdra00aude), chained phrase by phrase; the running heads seen in the snippets give pp. 130, 131 and 132, and the preface begins on p. 129. The examiner ran the searches again the same day: the head of p. 130 stands inside the sentence on Night and Day, so the two themes begin on the page before it; the head of p. 131 stands just before the sentence on Pamina; the head of p. 132 just before the sentence that brings Papageno in; the two heroes, the trial, the stage laughs and the vow of silence follow before the head of p. 133. No head for p. 129 or p. 128 was found. Chaining back from the two themes, about 560 words, the examiner reached the heading Preface and the preface’s first words, which are on translation as interpretation; no running head stands between that heading and the head of p. 130, so the preface begins on p. 129, a first page without a head. The preface was still read only in snippets."
+    },
+    {
+      "says": "He and Kallman also wrote about the work of translating opera. *The Magic Flute*, they note, is made of separate musical numbers, and the talk between them is spoken. A libretto has two rhythms, the one its verse has when read aloud and the one the music gives it, and a translator must keep the second. Rhymes of two syllables, frequent in German, are mostly comic in English. And the style must suit the kind of opera and the kind of character.",
+      "source": "W. H. Auden and Chester Kallman, “Translating Opera Libretti,” in *The Dyer’s Hand* (1962), pp. 484–91",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt lines 22700–23120 (running heads of pp. 484, 485, 488, 490 and 491), on 2026-10-03"
+    }
+  ],
+  "next": "magic-flute/act-1:0",
+  "sources": [
+    "The text: *Die Zauberflöte*, the libretto by Emanuel Schikaneder for Mozart’s opera of 1791, in the German of the libretto printed in Vienna that year, as zeno.org gives it. The English set under the Queen’s aria is from *The Magic Flute. Die Zauberflöte: an opera in two acts, as represented at the Royal Italian Opera, London, and the Academy of Music, New York*, in Italian and English (New York: F. Rullman, no date), which names no translator and cuts or recasts the spoken dialogue.",
+    "Stiftung Mozarteum Salzburg, Digital Mozart Edition, Libretti-Edition, *Die Zauberflöte*, KV 620: [the first printed libretto](https://dme.mozarteum.at/DME/libredition/para.php?idwnma=7137&v=421&p=423&line=1153&end=2456) (Vienna, 1791) in transcription, and the text as Mozart set it.",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Balaam and His Ass,” pp. 134–35; “Translating Opera Libretti,” written with Chester Kallman, pp. 484–91.",
+    "W. H. Auden and Chester Kallman, Preface to *The Magic Flute* (1956), in *Libretti and Other Dramatic Writings by W. H. Auden, 1939–1973*, edited by Edward Mendelson (Princeton, 1993), pp. 129–32. Not seen in full.",
+    "W. H. Auden, “Vocation and Society,” a lecture given at Swarthmore College in January 1943, in *“In Solitude, for Company”: W. H. Auden after 1940* (Auden Studies 3), edited by Katherine Bucknell and Nicholas Jenkins (Oxford, 1995), pp. 15–18. Not seen in full.",
+    "W. H. Auden, “Mozart and the Middlebrow” (1946), in *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 290–91. Not seen in full.",
+    "W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (Princeton, 2000): the lecture on *The Tempest*, given in 1947, p. 300. Not seen in full.",
+    "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 111.",
+    "Johann Christoph Adelung, *Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart*, second edition (Leipzig, 1793–1801), at zeno.org: *Band*, *Begnügen*, *Bereit*, *Bestehen*, *Dann*, *Ebenbild*, *Einmahl*, *Erblassen*, *Erhalten*, *Erkämpfen*, *Erst*, *Ewig*, *Fangen*, *Gar*, *Grund*, *Hold*, *Kämpfen*, *Klein*, *Krönen*, *Ledig*, *Lehre*, *Lohn*, *Los*, *Magd*, *Naturmensch*, *Nimmermehr*, *Prüfung*, *Sache*, *Scheuen*, *Schwur*, *Sieg*, *Siegen*, *Sprecher*, *Unterwerfen*, *Unterziehen*, *Verlangen*, *Verlassen*, *Verstoßen*, *Weib*, *Weichen*, *Wieder*, *Zertrümmern*, and the entries for the plainer words glossed.",
+    "Gideon O. Burton, *Silva Rhetoricae* (Brigham Young University): anaphora, chiasmus, zeugma.",
+    "German Wikipedia: “Der Hölle Rache kocht in meinem Herzen,” “Blankvers” and “Jambischer Fünfheber.”",
+    "Online Etymology Dictionary: Manichaeism, Pelagian.",
+    "William Shakespeare, *The Tempest*, Act 1, Scene 2, as [printed here](#/read/tempest/a1s2:198)."
+  ],
+  "caveats": [
+    "The preface of 1956 is by Auden and Chester Kallman together. That preface, the lecture of 1943 and the essay of 1946 were read here only in snippets of scanned copies, not in full.",
+    "Auden’s lecture of 1947 on *The Tempest* was put together by its editor from notes that students made, so its words may not be his; it too was read only in snippets.",
+    "Singers sing the aria as Mozart set it: words of the fifth and sixth lines come again, and *Rache* and *Götter* are one word. The lines shown are those of the libretto printed in 1791, so the record on this page will not match them word for word.",
+    "The English libretto printed here leaves out the spoken scene of the first passage, so the English under its phrases is this page’s own. Under the aria its lines are set in the German order; in that libretto the line shown seventh stands fifth.",
+    "The stresses marked in the aria are one reader’s: in three lines the fourth beat falls on a light word, and the last line’s first word can be heard lighter. The count of five-beat lines leaves out an irregular line of the two armed men and the duet’s stammered opening."
+  ],
+  "open": [
+    "Auden and Kallman’s Preface (1956), “Vocation and Society” (1943), “Mozart and the Middlebrow” (1946) and the Tempest lecture of 1947 were read only in full-text-search snippets of borrow-only scans at the Internet Archive; their page numbers come from running heads seen in the snippets (for the Tempest lecture, from the head of p. 301 that follows the passage).",
+    "The English version of the trial scene that Auden quotes in 1943 is from a translation its editors could not identify; only its word Fate is used here.",
+    "Mozart’s score was not seen; what it sings was read in the Mozarteum’s edition of the text as set and in the German Wikipedia article on the aria. The record on the page was not heard.",
+    "The English lines under the aria are shown out of their printed order (the libretto’s fifth line is set seventh) so that each stands under the German line it translates. Nothing was found on who made that English or from what text; it follows the German of the aria closely.",
+    "In the trial passage the speakers’ names are words of the prose rows (the original-language cut has no speaker blocks). The build now lifts each name over its row and takes its English from the two glosses set on names (the Speaker, the Second Priest); those two notes are there for that. The second exchange begins in the middle of a row, at the priest’s question, so the build prints points of omission before it.",
+    "Auden prints the chorus’s two lines before the duet’s four; the third passage shows them in the opera’s order, with the build’s sign of omission between them.",
+    "The chiasmus is drawn with underlines and four small letters. On 3 October the lead set the join of the Threat tab to [[0, 4], [1, 2]] in place of none: no stroke is drawn, because the parts lie on four lines, and the letters a, b, b, a stand under the first word of rows 2.0, 3.0, 4.0 and 6.0. Row 5.0 takes no letter and goes on in the color of the second b. The join had been none for fear that a cross would join two lines of the penalty.",
+    "Scansion: the fourth beat is light or passed over in several lines, and the first word of the last line can be heard lighter; the other hearings are in notes.md.",
+    "The claim that no single character but the Queen has a five-beat line rests on a count by script and ear over the zeno.org text of the 1791 libretto; one irregular line of the two armed men and the stammered lines of the duet are left out of it.",
+    "English Wikipedia could not be reached (429); German Wikipedia was used for the meter’s history. The page was not built or looked at in a browser by the poet.",
+    "Examiner, 2026-10-03: mended. No mark, scan, rhyme tail, part, span or row was changed. What changed is wording in captions, reasons, remarks pinned to words, grounds and notes, the view, the Auden column and one caveat; exam.md lists each change with its reason.",
+    "The examiner ran the full-text searches again and reached the same pages for the Preface (1956), the lecture of 1943, the essay of 1946 and the Tempest lecture of 1947. They are still read only in snippets. The preface’s heading and first words were reached by chaining back from p. 130 with no running head between, so its first page is taken as p. 129; that page number was never seen printed.",
+    "The essay of 1946 now has its own entry in the Auden column. It retells the scene of the first passage and speaks of the children of the duet; the poet had used one sentence of it.",
+    "Auden and Kallman name the mother’s curse among Pamina’s sufferings and do not name this aria. The join rests on Pamina’s own words in Act 2, Scenes 10 and 27, which the examiner read in the libretto of 1791: she says her mother swore to cast her off, and near the end that her mother’s curse pursues her.",
+    "The fifth line has no stated subject. Its verb (row 4.0, word 1) is singular, so its two participles are said of the daughter addressed and not of the bonds in the next line, which are plural; Pamina’s account in Scene 10 uses the same verb for casting off, and Adelung gives casting off a child among his examples of it. The examiner checked this because Mozart’s setting puts the three participles side by side.",
+    "The remark on the closing rhyme of a four-line stanza (Hiram Corson’s, quoted in Baum’s handbook of English verse, on one English stanza) was taken out of the Rhyme caption by the finisher on 2026-10-03, with its ground, its line under what the caption stands on and the handbook among the sources: no handbook statement on the German stanza was found. The caption now rests on which words the rhymes pair and which close each set of four.",
+    "Two of the English lines under the aria have nine syllables and can be heard with four beats; the caption now calls them a syllable short.",
+    "Auden and Kallman’s own English of the three passages was not looked at; it is in copyright and is not shown.",
+    "No artist’s file existed when the examiner worked. The page was built and photographed in a scratch copy at both widths, the whole page and each tab: each tab draws what its caption says. An earlier run of the photographing tool reported two rhyme arcs outside the passage at phone width on the Rhyme tab; after the shared page code changed during the day the last run reported nothing, and the long lines now turn over to leave room for the arcs.",
+    "Finisher, 2026-10-03: the list under “More from Auden” is in order of date after its first entry (1943, 1946, 1947, 1956, then the essay on translating from the book of 1962). The entry on “Notes on Music and Opera” was taken out whole and is kept in notes.md. The piece’s second quotation is now the 14 words on the first entry. If the entry taken out is put back with its quotation, the first entry’s quotation has to go and its sentence be said again in the page’s own words.",
+    "Adelung’s two marks of style are two and not one: his own entry Schreibart lists a noble, a higher and a sublime style side by side. The page keeps “the higher style” (Erkämpfen, Los) and “the noble style” (Hold; and “a noble word” for Erblassen, which he gives to the nobler style) and does not say how they differ, since nothing opened says how.",
+    "For the last reading across the pieces: two pairs of spellings stand side by side, and both of each pair are right. The caption and the passage have the libretto’s Natursmensch and Loos; a note and the line of what the caption stands on have the dictionary’s Naturmensch and Los. Nothing on the page says so. Also, the note on the word for single now only says its gloss again in another word."
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "piece": "adams",
+  "title": "The dynamo and the Virgin",
+  "where": "*The Education of Henry Adams*, chapters 25, 19 and 1",
+  "about": "Henry Adams, grandson and great-grandson of Presidents, wrote the story of his own life in 1905, at sixty-seven, and by 1907 had a hundred copies printed privately. It was published in 1918, the year he died. He tells it in the third person. The passages here come from 1900, when the scientist Samuel Langley shows him the dynamos at the Paris Exposition; from 1870, when his sister dies of lockjaw in Italy after a cab accident; and from the first page, where he is born in Boston in 1838.",
+  "view": {
+    "says": "Auden took the chapter’s two symbols for his own essay. For him they are two real worlds: the Dynamo’s, of masses and recurring events, told in numbers, and the Virgin’s, of faces and single events, told only in speech. Treating the first as the second is an illusion; its religion prays to the Dynamo. He says Adams took Venus and the Virgin for one person, when Venus is an impersonal force of nature in disguise.",
+    "quote": "it was the Dynamo he worshiped, not the Virgin",
+    "source": "“The Virgin & The Dynamo,” in *The Dyer’s Hand* (1962), pp. 61–63",
+    "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 3095-3194; the third sentence, as the finisher reworded it, stands on p. 62, lines 3140-3143: the first of the two chimerical worlds, where the world of masses is regarded as a world of faces, and the sentence on its religion that auden[0] quotes"
+  },
+  "plates": [
+    {
+      "id": "dynamo",
+      "heading": "At the Paris Exposition, 1900",
+      "label": "The dynamo",
+      "text": "adams/c25",
+      "rows": ["2.0[101-204]"],
+      "pair": { "label": "The Virgin", "text": "adams/c25", "rows": ["8.0[64-105]"] },
+      "beside": true,
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Likeness",
+          "name": "simile",
+          "plain": "a comparison that says one thing is like another",
+          "draw": "pair",
+          "parts": [
+            { "row": "2.0", "w": [111, 111], "tag": "who", "label": "who feels" },
+            { "row": "2.0", "w": [115, 117], "tag": "thing", "label": "what is felt" },
+            { "row": "2.0", "w": [112, 114], "tag": "A", "label": "the same verb" },
+            { "row": "2.0", "w": [122, 123], "tag": "as", "label": "the hinge" },
+            { "row": "2.0", "w": [124, 126], "tag": "who", "label": "who feels" },
+            { "row": "2.0", "w": [128, 129], "tag": "thing", "label": "what is felt" },
+            { "row": "2.0", "w": [127, 127], "tag": "A", "label": "the same verb" },
+            { "row": "2.0", "w": [186, 186], "tag": "who", "label": "who prays: *one*, and then *man*" },
+            { "row": "2.0", "w": [187, 189], "tag": "B", "label": "the act" },
+            { "row": "2.0", "w": [192, 193], "tag": "B", "label": "the cause given" },
+            { "row": "2.0", "w": [199, 199], "tag": "who", "label": "who prays: *one*, and then *man*" }
+          ],
+          "caption": "He began to <b>feel</b> the dynamos as early Christians <b>felt</b> the Cross: one verb for both sides. Two sentences on, <b>began to</b> returns with no <i>as</i>: <b>one began to pray</b>. Nothing is likened now, and <i>he</i> has become <b>one</b>, the pronoun for anyone. The clause after the semicolon gives the cause, <b>inherited instinct</b>, and calls prayer the natural expression of <b>man</b> in the face of such force. The book says <i>pray</i> of Adams one other time: of the boy, to whom religion was not real. The religious instinct, it says there, had vanished. Auden’s verdict is that Adams worshiped the Dynamo and not the Virgin. Here Adams reports the prayer himself.",
+          "why": "The simile joins machine and Cross by one verb, feel; two sentences later the likeness is gone and one, not he, begins to pray; Auden’s verdict is that Adams worshiped the Dynamo, and the passage itself reports prayer to it.",
+          "grounds": [
+            { "claim": "the verb on both sides, the as, began to twice, he and then one, inherited instinct, man, and that the third sentence likens nothing", "kind": "plate" },
+            { "claim": "a simile is an explicit comparison, often but not always with like or as", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), simile" },
+            { "claim": "one is the pronoun for anyone at all", "kind": "source", "source": "Merriam-Webster, one (pronoun), sense 2a (sense 2b: a third-person substitute for a first-person pronoun)" },
+            { "claim": "the boy prayed and went through all the forms; religion was not real to him; the religious instinct had vanished", "kind": "text", "source": "adams/c02, block 19" },
+            { "claim": "a form of the word pray has Adams for its subject in two places and no more", "kind": "text", "source": "all seven places with pray, prayed, prayer or praying in the hosted text, listed and read by the examiner: adams/c02 block 19 and adams/c25 block 2 are the two; the others are c07 block 16, c09 block 23, c32 blocks 2 and 15, c33 block 20. He kneels without the word in c05 block 5 and, in imagination, in c32 block 15" },
+            { "claim": "Adams worshiped the Dynamo, not the Virgin", "kind": "auden", "source": "“The Virgin & The Dynamo,” in The Dyer’s Hand (1962), p. 63" }
+          ],
+          "stands": "The marks on the passage. Simile as *Silva Rhetoricae* defines it, and *one* as Merriam-Webster defines the pronoun. The boy at church is in [chapter 2](#/read/adams/c02:19). A count of the forms of *pray* in the text printed here: Adams is the one who prays in two places, here and in chapter 2. Auden: *The Dyer’s Hand*, p. 63."
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            { "from": ["2.0", 130], "to": ["2.0", 135], "tag": "main", "label": "the main clause" },
+            { "from": ["2.0", 136], "to": ["2.0", 143], "tag": "planet", "label": "the planet: eight words" },
+            { "from": ["2.0", 144], "to": ["2.0", 147], "tag": "main", "label": "the main clause" },
+            { "from": ["2.0", 148], "to": ["2.0", 155], "tag": "wheel", "label": "the wheel: near and fast" },
+            { "from": ["2.0", 156], "to": ["2.0", 171.1], "tag": "hush", "label": "its sound: almost none" },
+            { "from": ["2.0", 171.2], "to": ["2.0", 182], "tag": "hush", "label": "its sound: almost none" },
+            { "from": ["2.0", 201], "to": ["2.0", 204], "tag": "named", "label": "the next sentence names it" }
+          ],
+          "caption": "The main clause is short: the planet <b>seemed less impressive</b> than this wheel. The rest hangs on it. The planet’s turning gets eight words, four of them adjectives, and the wheel gets thirty-seven. It turns within <b>arm’s length</b> at a dizzying speed, and three times it is said to be almost soundless: <b>barely murmuring</b>, <b>scarcely humming</b>, and it <b>would not wake the baby</b> that lies against it. The next sentence calls what he prays to <b>silent and infinite force</b>. The paragraph after says that for his purposes the dynamo’s worth was chiefly its <i>occult mechanism</i>, its hidden working. In electricity he saw what he saw in faith, he writes: nothing but <i>an absolute fiat</i>, a decree.",
+          "why": "The main clause sets planet against wheel; the phrases hung on it make the wheel near, fast and almost soundless; the next sentence names it silent and infinite force, and Adams puts its value chiefly in its hidden working.",
+          "grounds": [
+            { "claim": "the main clause; eight words and four adjectives for the planet’s turning; thirty-seven words hung on the wheel, which is near, fast and three times almost soundless", "kind": "plate" },
+            { "claim": "in the next sentence man prays before silent and infinite force", "kind": "plate" },
+            { "claim": "for his purposes the dynamo’s worth was chiefly its occult mechanism; in electricity, as in faith, all he saw was an absolute fiat", "kind": "text", "source": "adams/c25, block 3" },
+            { "claim": "occult first meant hidden or secret; fiat is the Latin for let it be done, and has meant a decree or command since 1750; vertiginous means liable to cause dizziness", "kind": "source", "source": "Online Etymology Dictionary, occult (adj.), fiat (n.) and vertiginous (adj.); Merriam-Webster, vertiginous, sense 2" }
+          ],
+          "stands": "The marks on the passage, and a count of its words. [The next paragraph](#/read/adams/c25:3) for the *occult mechanism* and the *fiat*. The Online Etymology Dictionary under *occult*, *fiat* and *vertiginous*; Merriam-Webster under *vertiginous*."
+        },
+        {
+          "kind": "compare",
+          "label": "Felt",
+          "ties": [
+            { "a": ["2.0", 115, 117], "b": ["p:8.0", 85, 88], "say": "The dynamos, and the two goddesses named together. In the next paragraph Adams calls the goddess the animated dynamo. Auden says Adams took Venus and the Virgin for one person, and that Venus is the Dynamo’s disguise." },
+            { "a": ["2.0", 118, 121], "b": ["p:8.0", 64, 68], "say": "Each is called a *force*." },
+            { "a": ["2.0", 124, 129], "b": ["p:8.0", 69, 81], "say": "Each is felt, and each is likened to something from the other side: the machine to the Cross, the Virgin’s force to X-rays. X-rays were named in 1895, with an *X* for the unknown." },
+            { "a": ["2.0", 186, 191], "b": ["p:8.0", 97, 105], "say": "The dynamo is prayed to. Of Venus and the Virgin, he says, no American was ever truly afraid. Later in the chapter Adams says that every known force can be measured by what it does to man." },
+            { "a": ["2.0", 201, 204], "b": ["p:8.0", 90, 96], "say": "Here the dynamo is force. In America, the other passage says, Venus and the Virgin had value at most as *sentiment*, a word that comes from the Latin verb meaning to feel." }
+          ],
+          "caption": "The passage under The Virgin comes six paragraphs later, and both passages use the words <b>force</b> and <b>felt</b>. Between them Adams gives his reason: he can bring such forces to one value only by how they have been felt, and he calls this <i>translating rays into faith</i>. The machine is likened to the Cross, and the Virgin’s force to X-rays. To the dynamo <b>one began to pray</b>; of Venus and the Virgin no American, he says, was ever <b>truly afraid</b>. Auden quoted from both in one note of 1941. For him these are two worlds, one told in numbers and one only in speech, and to treat either as the other is an illusion.",
+          "why": "Adams describes the machine in words of faith and the Virgin in words of physics, and measures both by how they are felt; for Auden they are two worlds, and to take one for the other is an illusion.",
+          "grounds": [
+            { "claim": "the words the two passages share, the two likenesses, and the two outcomes, prayer and no fear", "kind": "plate" },
+            { "claim": "the second passage stands in the sixth paragraph after the first", "kind": "text", "source": "adams/c25: the first passage is in block 2 and the second in block 8; blocks 3 to 7 are five paragraphs" },
+            { "claim": "to bring these forces to one value he has no measure except how they draw his own mind; he must take them as they were felt; he will risk translating rays into faith", "kind": "text", "source": "adams/c25, block 7" },
+            { "claim": "the goddess was the animated dynamo", "kind": "text", "source": "adams/c25, block 9" },
+            { "claim": "every known force can be measured by what it does to man", "kind": "text", "source": "adams/c25, block 20" },
+            { "claim": "X-rays were named in 1895 with the X of algebra for an unknown quantity; sentiment is from Latin sentire, to feel", "kind": "source", "source": "Online Etymology Dictionary, X-ray (n.) and sentiment (n.)" },
+            { "claim": "two real worlds, one told in numbers and one only in speech; to regard either as the other is an illusion; Adams thought Venus and the Virgin of Chartres the same person, and Venus is the Dynamo disguised", "kind": "auden", "source": "“The Virgin & The Dynamo,” in The Dyer’s Hand (1962), pp. 61–63" },
+            { "claim": "Auden’s note of 1941 quotes the first sentence of the first passage and then the whole paragraph that holds the second", "kind": "auden", "source": "New Year Letter (London: Faber, 1941), the note to line 1466, headed Virgin before the Dynamo; the same note in The Double Man (New York: Random House, 1941). Seen by the examiner only in full-text search snippets of the scanned copies at archive.org (newyearletter0000aude, bwb_S0-DUH-879)" }
+          ],
+          "stands": "The two passages as they stand side by side. Adams’s reason is in [the paragraph before the second](#/read/adams/c25:7); the goddess as dynamo in [the paragraph after it](#/read/adams/c25:9); force measured by its action on man [later in the chapter](#/read/adams/c25:20). The Online Etymology Dictionary under *X-ray* and *sentiment*. Auden: *The Dyer’s Hand*, pp. 61–63, and his note to line 1466 of *New Year Letter* (1941)."
+        },
+        {
+          "kind": "shape",
+          "label": "Force",
+          "what": "How often the word force, or forces, comes in each of the thirty-five chapters",
+          "facts": {
+            "counted": "Counted by script over the hosted text (adams, every paragraph, verse and block quotation) in this session: the word-forms force and forces, capital or small, noun or verb; forced, forcing and enforce are not counted. Chapter word counts are those of the hosted text's index. Counted again by the examiner with another script: all 35 rows, the sums and the two prefaces agree.",
+            "key": "each chapter is [number, title, years in the title, words, times force or forces comes]",
+            "chapters": [
+              [1, "Quincy", "1838-1848", 7129, 7],
+              [2, "Boston", "1848-1854", 5833, 2],
+              [3, "Washington", "1850-1854", 4987, 4],
+              [4, "Harvard College", "1854-1858", 5613, 5],
+              [5, "Berlin", "1858-1859", 4300, 1],
+              [6, "Rome", "1859-1860", 5464, 2],
+              [7, "Treason", "1860-1861", 4129, 2],
+              [8, "Diplomacy", "1861", 6385, 0],
+              [9, "Foes or Friends", "1862", 5921, 1],
+              [10, "Political Morality", "1862", 7756, 7],
+              [11, "The Battle of the Rams", "1863", 4377, 4],
+              [12, "Eccentricity", "1863", 4813, 6],
+              [13, "The Perfection of Human Society", "1864", 4886, 0],
+              [14, "Dilettantism", "1865-1866", 5524, 0],
+              [15, "Darwinism", "1867-1868", 4674, 1],
+              [16, "The Press", "1868", 6278, 4],
+              [17, "President Grant", "1869", 4629, 3],
+              [18, "Free Fight", "1869-1870", 5439, 4],
+              [19, "Chaos", "1870", 5253, 3],
+              [20, "Failure", "1871", 5486, 2],
+              [21, "Twenty Years After", "1892", 6265, 6],
+              [22, "Chicago", "1893", 5154, 10],
+              [23, "Silence", "1894-1898", 5435, 1],
+              [24, "Indian Summer", "1898-1899", 5839, 3],
+              [25, "The Dynamo and the Virgin", "1900", 3991, 42],
+              [26, "Twilight", "1901", 4140, 15],
+              [27, "Teufelsdrockh", "1901", 4493, 6],
+              [28, "The Height of Knowledge", "1902", 3279, 10],
+              [29, "The Abyss of Ignorance", "1902", 3390, 23],
+              [30, "Vis Inertiae", "1903", 4502, 15],
+              [31, "The Grammar of Science", "1903", 4260, 10],
+              [32, "Vis Nova", "1903-1904", 3995, 18],
+              [33, "A Dynamic Theory of History", "1904", 5090, 71],
+              [34, "A Law of Acceleration", "1904", 3333, 33],
+              [35, "Nunc Age", "1905", 2321, 9]
+            ],
+            "chapters1to20": { "years": "1838 to 1871", "words": 108876, "force": 58, "in10000words": 5.3 },
+            "chapters21to35": { "years": "1892 to 1905", "words": 65487, "force": 272, "in10000words": 41.5 },
+            "thisChapter": { "number": 25, "words": 3991, "force": 42 },
+            "chapters1to24": { "words": 131569, "force": 78, "in10000words": 5.9 },
+            "chapters25to35": { "words": 42794, "force": 252, "in10000words": 58.9 },
+            "theTwoPrefaces": { "force": 2 },
+            "wholeBook": { "force": 332, "Virgin": 37, "dynamoOrDynamos": 24, "Venus": 9 },
+            "theTheory": { "chapter": 33, "read": "adams/c33:1" }
+          },
+          "caption": "The diagram follows one word through the book: <i>force</i>, or <i>forces</i>. In the twenty chapters that end in 1871, about 109,000 words, it comes 58 times. In the fifteen that begin in 1892, about 65,000 words, it comes 272 times. No chapter before this one has it more than ten times. This one has it 42 times, and says it of the dynamo and of the Virgin alike. Chapter 33 makes the word a theory of history, in which <i>the forces of nature capture man</i>. Force is Auden’s word too: what Adams worshiped, he says, was the Dynamo, a sign for an impersonal force of nature.",
+          "why": "Force comes 58 times in the twenty chapters to 1871 and 272 times in the fifteen from 1892, where chapter 33 makes it a theory of history; Auden says Adams worshiped the Dynamo, a sign for impersonal force.",
+          "grounds": [
+            { "claim": "how often force and forces come in each chapter, the two sums, and that no chapter before the twenty-fifth has more than ten", "kind": "plate" },
+            { "claim": "force is said of the dynamo and of the Virgin in this chapter", "kind": "plate" },
+            { "claim": "a dynamic theory assumes it is the forces of nature that capture man", "kind": "text", "source": "adams/c33, blocks 0 and 1; the chapter is titled A Dynamic Theory of History" },
+            { "claim": "Adams worshiped the Dynamo, a symbol of impersonal force in nature", "kind": "auden", "source": "“The Virgin & The Dynamo,” in The Dyer’s Hand (1962), p. 63" }
+          ],
+          "stands": "A count of *force* and *forces*, capital or small, in each chapter of the text printed here; *forced*, *forcing* and *enforce* are not counted. The theory is at the head of [chapter 33](#/read/adams/c33:1). Auden: *The Dyer’s Hand*, p. 63."
+        }
+      ]
+    },
+    {
+      "id": "sister",
+      "heading": "His sister’s death, 1870",
+      "text": "adams/c19",
+      "rows": ["9.0[0-95]"],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Who",
+          "spans": [
+            { "from": ["9.0", 0], "to": ["9.0", 0], "tag": "man", "label": "anyone" },
+            { "from": ["9.0", 2], "to": ["9.0", 2], "tag": "takes-in", "label": "takes in" },
+            { "from": ["9.0", 4], "to": ["9.0", 4], "tag": "takes-in" },
+            { "from": ["9.0", 12], "to": ["9.0", 12], "tag": "takes-in" },
+            { "from": ["9.0", 18], "to": ["9.0", 18], "tag": "takes-in" },
+            { "from": ["9.0", 32], "to": ["9.0", 32], "tag": "man" },
+            { "from": ["9.0", 38], "to": ["9.0", 38], "tag": "power", "label": "an abstract noun" },
+            { "from": ["9.0", 41], "to": ["9.0", 43], "tag": "acts", "label": "what it does" },
+            { "from": ["9.0", 47], "to": ["9.0", 47], "tag": "man", "label": "the surname" },
+            { "from": ["9.0", 50], "to": ["9.0", 50], "tag": "takes-in" },
+            { "from": ["9.0", 54], "to": ["9.0", 54], "tag": "power" },
+            { "from": ["9.0", 55], "to": ["9.0", 55], "tag": "acts" },
+            { "from": ["9.0", 60], "to": ["9.0", 60], "tag": "man" },
+            { "from": ["9.0", 67], "to": ["9.0", 67], "tag": "power" },
+            { "from": ["9.0", 68], "to": ["9.0", 68], "tag": "acts" },
+            { "from": ["9.0", 70], "to": ["9.0", 70], "tag": "acts" },
+            { "from": ["9.0", 80], "to": ["9.0", 80], "tag": "acts" },
+            { "from": ["9.0", 84], "to": ["9.0", 84], "tag": "acts" },
+            { "from": ["9.0", 85], "to": ["9.0", 86], "tag": "sister", "label": "the sister: once" },
+            { "from": ["9.0", 91], "to": ["9.0", 91], "tag": "man", "label": "anyone again" },
+            { "from": ["9.0", 92], "to": ["9.0", 92], "tag": "takes-in" }
+          ],
+          "caption": "Three abstract nouns, each at the head of its sentence, are given things to do. <b>Society</b> can put on, <b>Death</b> takes features, <b>Nature</b> enjoys, plays, likes, smothers. The man who watches has verbs of taking in: heard, read, seen, knew, felt. He is <b>One</b>, then the surname <b>Adams</b>, then <b>him</b>, then <b>one</b> again. <i>One</i> is the pronoun for anyone at all, and it can stand in for <i>I</i>. His sister is in these lines once, as <b>her victim</b>, and the <i>her</i> is Nature’s. The paragraph before says the last lesson of his education began here. The paragraph after says such impressions are not reasoned: they are felt.",
+          "why": "The abstract nouns act and the man takes in, as one or by his surname; the paragraph before says his last lesson began here, and the paragraph after says such impressions are felt, not reasoned.",
+          "grounds": [
+            { "claim": "which nouns begin their sentences and act, which verbs the man has, what he is called, and where the sister appears", "kind": "plate" },
+            { "claim": "one means anyone at all, and is used as a third-person substitute for a first-person pronoun", "kind": "source", "source": "Merriam-Webster, one (pronoun), senses 2a and 2b" },
+            { "claim": "the paragraph before says that the last lesson of his education began then", "kind": "text", "source": "adams/c19, block 8" },
+            { "claim": "the paragraph after says that impressions like these are not reasoned in the mind but felt", "kind": "text", "source": "adams/c19, block 10" }
+          ],
+          "stands": "The marks on the passage. *One* as Merriam-Webster defines the pronoun. [The paragraph before](#/read/adams/c19:8) and [the paragraph after](#/read/adams/c19:10) in the text printed here."
+        },
+        {
+          "kind": "figure",
+          "label": "Pair",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "align",
+          "join": "none",
+          "parts": [
+            { "row": "9.0", "w": [38, 38], "tag": "A", "label": "the subject" },
+            { "row": "9.0", "w": [47, 47], "tag": "A", "label": "the subject" },
+            { "row": "9.0", "w": [39, 40], "tag": "B", "label": "*being* with an adjective" },
+            { "row": "9.0", "w": [48, 49], "tag": "B", "label": "*being* with an adjective" },
+            { "row": "9.0", "w": [41, 43], "tag": "C", "label": "the verb" },
+            { "row": "9.0", "w": [50, 51], "tag": "C", "label": "the verb" },
+            { "row": "9.0", "w": [44, 44], "tag": "D", "label": "the adjective as a noun" },
+            { "row": "9.0", "w": [52, 53], "tag": "D", "label": "the adjective as a noun" },
+            { "row": "9.0", "w": [45, 46], "tag": "E", "label": "only in the first sentence" }
+          ],
+          "caption": "Two short sentences are built on one frame: a noun, <i>being</i>, an adjective, a verb, and the same adjective as a noun. These two differ in their subjects, in one prefix and in their verbs: Society <b>could put on</b>, Adams <b>felt only</b>. <b>Put on immortality</b> is Saint Paul’s phrase, from the chapter the Book of Common Prayer reads at burials. Paul says the mortal <i>must</i> put it on. Adams gives it to Society, with <b>could</b> and <b>at will</b>, and leaves the mortal man only <b>the mortality</b>. In the next paragraph the usual remedies for pain, religion among them, become <i>evident artifice</i>.",
+          "why": "The matched frames isolate the difference: Society can put on Saint Paul’s immortality at will, and the mortal man can only feel; the next paragraph says the usual remedies, religion among them, had become evident artifice.",
+          "grounds": [
+            { "claim": "the two frames, part by part, and what differs between them", "kind": "plate" },
+            { "claim": "antithesis: contrasting words or ideas set side by side, often but not always in parallel structure", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), antithesis" },
+            { "claim": "this mortal must put on immortality; the verse is part of the lesson read at burials, 1 Corinthians 15:20-58", "kind": "source", "source": "King James Bible, 1 Corinthians 15:53; The Book of Common Prayer (1662), The Order for the Burial of the Dead; the same lesson in an American Book of Common Prayer (New York, 1847)" },
+            { "claim": "society’s usual remedies for pain are said to have become evident artifice; stoicism and religion are named next as the best and the most human of them", "kind": "text", "source": "adams/c19, block 10" },
+            { "claim": "an anodyne is a substance that eases pain", "kind": "source", "source": "Online Etymology Dictionary, anodyne" }
+          ],
+          "stands": "The marks on the passage. Antithesis as *Silva Rhetoricae* defines it. Saint Paul’s phrase: 1 Corinthians 15:53 in the King James Bible, part of the lesson in the burial service of the Book of Common Prayer (the English book of 1662 and an American edition of 1847). [The paragraph after](#/read/adams/c19:10) for *evident artifice*."
+        },
+        {
+          "kind": "figure",
+          "label": "Nature",
+          "name": "personification",
+          "plain": "an idea or a thing spoken of in the words used for a person",
+          "draw": "map",
+          "parts": [
+            { "row": "9.0", "w": [67, 67], "tag": "A", "label": "the thing" },
+            { "row": "9.0", "w": [68, 68], "tag": "verb", "label": "a person’s verbs" },
+            { "row": "9.0", "w": [70, 71], "tag": "verb" },
+            { "row": "9.0", "w": [80, 80], "tag": "verb" },
+            { "row": "9.0", "w": [84, 84], "tag": "verb" },
+            { "row": "9.0", "w": [77, 77], "tag": "B", "label": "a woman’s pronoun" },
+            { "row": "9.0", "w": [79, 79], "tag": "B" },
+            { "row": "9.0", "w": [85, 85], "tag": "B" },
+            { "row": "9.0", "w": [93, 93], "tag": "B" },
+            { "row": "9.0", "w": [82, 82], "tag": "pleasure", "label": "what she likes" }
+          ],
+          "caption": "<b>Nature</b> is given a person’s verbs, <b>enjoyed</b>, <b>played</b>, <b>liked</b>, <b>smothered</b>, and a woman’s pronoun. The next paragraph says how he first came to know her attitude toward life: as a nightmare, <i>an insanity of force</i>. A personal God who took pleasure in such torture, it says, is unthinkable, and it ends: God could not be a Person. These lines have given Nature the pleasure that paragraph denies to God. Auden says people tend to give a face to any power they suppose is in charge of their lives. Of Adams he says that Venus is a disguise the Dynamo wears: a sign for an impersonal force of nature.",
+          "why": "Nature gets a person’s verbs, a woman’s pronoun, and the pleasure in this torture that the next paragraph denies to any personal God; Auden says people tend to put faces on powers, and that Venus disguises an impersonal force.",
+          "grounds": [
+            { "claim": "the verbs and the pronoun given to Nature, and that she likes the torture", "kind": "plate" },
+            { "claim": "personification: abstractions or inanimate objects referred to as having human qualities or abilities", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), personification" },
+            { "claim": "his first serious sense of Nature’s attitude toward life came as a nightmare, an insanity of force; the idea of a personal deity finding pleasure in such torture is rejected; the paragraph ends by saying that God could not be a Person", "kind": "text", "source": "adams/c19, block 10" },
+            { "claim": "by nature people tend to give a face to any power they take to be responsible for their lives and conduct", "kind": "auden", "source": "“The Virgin & The Dynamo,” in The Dyer’s Hand (1962), p. 62" },
+            { "claim": "Venus is the Dynamo disguised, a symbol of impersonal force in nature", "kind": "auden", "source": "“The Virgin & The Dynamo,” in The Dyer’s Hand (1962), p. 63" }
+          ],
+          "stands": "The marks on the passage. Personification as *Silva Rhetoricae* defines it. [The paragraph after](#/read/adams/c19:10) for the *insanity of force* and for God as no Person. Auden: *The Dyer’s Hand*, pp. 62 and 63."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            { "row": "9.0", "w": [56, 56], "gloss": "distinctive parts · the lines of a face", "note": "Used of the make of a body and the lines of a face since the fourteenth century, and of any distinctive part of a thing by the 1690s; from Latin *factura*, a formation, a working.", "source": "Online Etymology Dictionary, feature (n.)" },
+            { "row": "9.0", "w": [78, 78], "gloss": "power to attract · first an incantation", "note": "In English from about 1300 for an incantation; from Latin *carmen*, a song, an enchantment. The sense of a pleasing quality came by the seventeenth century.", "source": "Online Etymology Dictionary, charm (n.)" },
+            { "row": "9.0", "w": [84, 84], "gloss": "cover thickly · stop the breath", "note": "To kill by stopping the breath is recorded from the 1540s, to cover thickly from the 1590s.", "source": "Online Etymology Dictionary, smother (v.); Merriam-Webster, smother" },
+            { "row": "9.0", "w": [86, 86], "gloss": "a creature killed for a god", "note": "Latin *victima*, an animal killed in sacrifice; used of a person severely hurt, tortured or killed by another from the 1650s.", "source": "Online Etymology Dictionary, victim (n.)" },
+            { "row": "9.0", "w": [95, 95], "gloss": "charming · successful in a contest", "note": "Both senses of the adjective are recorded from the 1590s.", "source": "Online Etymology Dictionary, winning (adj.)" }
+          ],
+          "caption": "Five words used of Death and Nature have a second sense on record. <b>Features</b> are distinctive parts, and the lines of a face. <b>Charm</b> was first an incantation. To <b>smother</b> was to kill by stopping the breath before it was to cover thickly. A <b>victim</b> was first a creature killed in sacrifice to a god. <b>Winning</b> has meant successful in a contest as long as it has meant charming. The sentence joins hard to gentle: the horror <b>added to her charm</b>, and the victim is smothered <b>with caresses</b>. In chapter 32, on the afternoon he reads of an assassination, the Virgin <i>never looked so winning</i>.",
+          "why": "Features, charm, smother, victim and winning each have a second sense on record, and the sentence joins horror to charm and smothering to caresses; winning, said here of Nature, is said in chapter 32 of the Virgin.",
+          "grounds": [
+            { "claim": "the senses of feature, charm, smother, victim and winning, and the dates from which each is recorded", "kind": "source", "source": "Online Etymology Dictionary, feature (n.), charm (n.), smother (v.), victim (n.), winning (adj.); Merriam-Webster, smother" },
+            { "claim": "the horror is said to add to her charm, and the victim is smothered with caresses, in one sentence", "kind": "plate" },
+            { "claim": "winning, in the sense charming, comes twice in the book: here of Nature, and in chapter 32 of the Virgin, on the afternoon he reads of an assassination at St. Petersburg", "kind": "text", "source": "adams/c19, block 9, and adams/c32, blocks 17 and 18; all five places with winning in the hosted text listed and read" }
+          ],
+          "stands": "The Online Etymology Dictionary under *feature*, *charm*, *smother*, *victim* and *winning*; Merriam-Webster under *smother*. The lines themselves. A count of *winning* in the text printed here: five places, two in the sense charming, this one and [chapter 32](#/read/adams/c32:18)."
+        }
+      ]
+    },
+    {
+      "id": "born",
+      "heading": "The first sentence, 1838",
+      "text": "adams/c01",
+      "rows": ["0.0"],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Order",
+          "spans": [
+            { "from": ["0.0", 0], "to": ["0.0", 15], "tag": "place", "label": "the place comes first" },
+            { "from": ["0.0", 16], "to": ["0.0", 21], "tag": "subject", "label": "the first subject: a passage" },
+            { "from": ["0.0", 22], "to": ["0.0", 24], "tag": "verb", "label": "its verb" },
+            { "from": ["0.0", 25], "to": ["0.0", 42], "tag": "place", "label": "where it goes" },
+            { "from": ["0.0", 43], "to": ["0.0", 55], "tag": "place", "label": "a house and a date" },
+            { "from": ["0.0", 56], "to": ["0.0", 57], "tag": "subject", "label": "the second subject" },
+            { "from": ["0.0", 58], "to": ["0.0", 61], "tag": "verb", "label": "two passive verbs" },
+            { "from": ["0.0", 63], "to": ["0.0", 77], "tag": "agent", "label": "by whom and in what creed" },
+            { "from": ["0.0", 79], "to": ["0.0", 81], "tag": "name", "label": "his name comes last" }
+          ],
+          "caption": "The sentence has two halves, joined at the semicolon. The subject of the first is a passage between two streets. The second begins with a house and a date, and only then, fifty-six words into the sentence, comes <b>a child</b>. His two verbs are passive: he <b>was born</b>, and was <b>christened</b> by an uncle. His own name is the last three words. Ten times before it a place, a man, a church or a creed is named. The next paragraph lists five of them again and calls them <i>a nest of associations</i> that are <i>crowding</i> on a ten-pound baby. It speaks of the child as <i>branded</i>, and of the advantage of being <i>ticketed through life</i>.",
+          "why": "Place, church and creed fill the sentence before the child, who comes late, in the passive, his name last; the next paragraph says what the names are doing: they crowd on the baby, who is branded and ticketed through life.",
+          "grounds": [
+            { "claim": "the order of the sentence: place first, a passage as subject, the child after fifty-six words, two passive verbs, the name last; before it ten namings of a place, a man, a church or a creed (the State House twice, the month left out)", "kind": "plate" },
+            { "claim": "the next paragraph lists five of the same names again among seven, says they crowd on a ten-pound baby, says he could hardly have been branded more distinctly, and speaks of the advantage of being ticketed through life", "kind": "text", "source": "adams/c01, block 1" }
+          ],
+          "stands": "The marks on the passage, and a count of its words and names: the State House is counted both times it is named, and the month is not counted. [The next paragraph](#/read/adams/c01:1) in the text printed here."
+        },
+        {
+          "kind": "figure",
+          "label": "Tense",
+          "name": "correctio",
+          "plain": "a correction made in the open: the writer amends a word as soon as he has used it",
+          "draw": "pair",
+          "parts": [
+            { "row": "0.0", "w": [22, 22], "tag": "A", "label": "the present" },
+            { "row": "0.0", "w": [24, 24], "tag": "B", "label": "the past" },
+            { "row": "0.0", "w": [23, 23], "tag": "hinge", "label": "the correction" }
+          ],
+          "caption": "Hancock Avenue <b>runs, or ran</b>. The verb is given in the present and at once amended to the past, and both are left to stand. <b>Runs</b> is the only present tense in the sentence: the present of the man writing, in 1905. Of the things the sentence names, the house of John Hancock had been pulled down in 1863. Hancock Avenue itself was still there in 1905. It was done away with in 1916, when the State House was extended, and when the book was published two years later only <b>ran</b> was true. In the next paragraph the child belongs to the seventeenth and eighteenth centuries and will have to play the twentieth century’s game.",
+          "why": "The corrected verb sets the writer’s present beside 1838 and moves the place into the past; the next paragraph says the child belongs to earlier centuries; by 1918, when the book was published, the passage was gone.",
+          "grounds": [
+            { "claim": "the present tense, the or, the past tense; runs is the one present tense in the sentence", "kind": "plate" },
+            { "claim": "correctio: the amending of a term or phrase just employed", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), correctio" },
+            { "claim": "the book was written in 1905 and published in 1918", "kind": "text", "source": "adams/editors-preface, blocks 0, 5 and 7" },
+            { "claim": "Hancock Avenue is described in the present, as the walk along the west side of the State House grounds, in 1903 and in 1909; the land of the Hancock house was sold in February 1863 and the house pulled down; the extension of the State House in 1916 required the elimination of Hancock Avenue, a footway from Beacon Street to Mount Vernon Street", "kind": "source", "source": "Edwin M. Bacon, Boston: A Guide Book (Boston: Ginn), the edition of 1903 and the revised edition of 1908 printed in 1909, pp. 37-38 (the title page of the latter dates the Hancock house 1737-1863); the edition of 1922, p. 38. Read in the scanned copies at archive.org" },
+            { "claim": "the next paragraph asks what could become of a child of two earlier centuries who must play the twentieth century’s game", "kind": "text", "source": "adams/c01, block 1" }
+          ],
+          "stands": "The marks on the passage. Correctio as *Silva Rhetoricae* defines it. The year of writing and the year of publication are in [the editor’s preface](#/read/adams/editors-preface:0); the child of two earlier centuries is in [the next paragraph](#/read/adams/c01:1). Hancock Avenue and the Hancock house: Edwin M. Bacon, *Boston: A Guide Book*, the editions of 1903 and 1909 (pp. 37–38) and of 1922 (p. 38)."
+        },
+        {
+          "kind": "shape",
+          "label": "Book",
+          "what": "The thirty-five chapters by the years in their titles, the twenty years left out, and what the storyteller calls himself",
+          "facts": {
+            "counted": "Chapter years are those in the chapter titles of the hosted text; word counts are those of its index. The pronoun, name and wife counts were made by script over every block of the hosted text in this session, and each first-person word inside quotation marks was listed and read: all are speech or quoted writing. Counted again by the examiner with other scripts: the chapters, years and words agree; me, my and myself inside quotation marks are 37, not 35 (two capital My were missed); the name stands 102 times outside quotation marks and once inside; the marriage words stand in 59 places, not sixty.",
+            "key": "each chapter is [number, years in the title, words]",
+            "chapters": [
+              [1, "1838-1848", 7129], [2, "1848-1854", 5833], [3, "1850-1854", 4987], [4, "1854-1858", 5613], [5, "1858-1859", 4300],
+              [6, "1859-1860", 5464], [7, "1860-1861", 4129], [8, "1861", 6385], [9, "1862", 5921], [10, "1862", 7756],
+              [11, "1863", 4377], [12, "1863", 4813], [13, "1864", 4886], [14, "1865-1866", 5524], [15, "1867-1868", 4674],
+              [16, "1868", 6278], [17, "1869", 4629], [18, "1869-1870", 5439], [19, "1870", 5253], [20, "1871", 5486],
+              [21, "1892", 6265], [22, "1893", 5154], [23, "1894-1898", 5435], [24, "1898-1899", 5839], [25, "1900", 3991],
+              [26, "1901", 4140], [27, "1901", 4493], [28, "1902", 3279], [29, "1902", 3390], [30, "1903", 4502],
+              [31, "1903", 4260], [32, "1903-1904", 3995], [33, "1904", 5090], [34, "1904", 3333], [35, "1905", 2321]
+            ],
+            "beforeTheGap": { "chapters": "1 to 20", "years": "1838 to 1871", "words": 108876, "lastTitle": "Failure (1871)" },
+            "theGap": {
+              "lastYearBefore": 1871,
+              "firstYearAfter": 1892,
+              "chaptersDatedInside": 0,
+              "whatTheBookSays": { "chapter": 21, "read": "adams/c21:0" },
+              "outsideTheBook": ["1872: Adams marries Marian Hooper", "1885: She takes her own life"]
+            },
+            "afterTheGap": { "chapters": "21 to 35", "years": "1892 to 1905", "words": 65487, "firstTitle": "Twenty Years After (1892)" },
+            "firstPerson": {
+              "inTheStorytellersOwnSentences": { "I": 0, "me": 0, "my": 0, "myself": 0, "mine": 0 },
+              "theWordIElsewhere": { "insideQuotationMarks": 64, "inLettersAndDocumentsSetAsBlockQuotations": 20, "asANumeralOrStreetName": 10 },
+              "meMyMyselfMineElsewhere": { "insideQuotationMarks": 37, "inBlockQuotationsAndVerse": 14 }
+            },
+            "fullName": { "Henry Adams": 102, "note": "the two words Henry Adams in the storyteller’s own sentences of the thirty-five chapters; they stand once more inside quotation marks, in the title of this book as chapter 29 quotes it (adams/c29, block 20), and the first sentence has Henry Brooks Adams" },
+            "wife": "A search of the text printed here for wife, wives, married, marriage, marry, widow, bride, husband, wedding, honeymoon, suicide, Hooper, Marian and Clover: 59 places, and none refers to Adams’s own marriage or to his wife.",
+            "manikin": { "read": "adams/preface:3" }
+          },
+          "caption": "The <b>child</b> of this sentence stays <i>he</i> for thirty-five chapters. In his own sentences the storyteller never writes <i>I</i>, <i>me</i> or <i>my</i>, and writes <i>Henry Adams</i> 102 times. Since Rousseau, the preface says, the self has drawn back and turned into a <i>manikin</i>: a tailor’s figure, there to show how the clothes of education fit. It calls the young man <i>a certain form of energy</i>. Twenty chapters run from 1838 to 1871, and the next begins in 1892. What a man did with his education once he had it, the book says there, is <i>a personal matter only</i>. In those years Adams married, and in 1885 his wife took her own life. The book tells neither.",
+          "why": "The preface makes the self a manikin for showing how an education fits, and Adams is he throughout; what he did after 1871, in the years of his marriage and his wife’s death, he calls a personal matter only.",
+          "grounds": [
+            { "claim": "the chapters by their years, and the gap from 1871 to 1892", "kind": "plate" },
+            { "claim": "no I, me or my in the storyteller’s own sentences, and the name Henry Adams there 102 times", "kind": "text", "source": "counted by script over the hosted text; every first-person word inside quotation marks listed and read; counted again by the examiner" },
+            { "claim": "since Rousseau the Ego has tended to efface itself and to become a manikin for showing how the clothes of education fit; the tailor adapts the manikin; the young man is a certain form of energy", "kind": "text", "source": "adams/preface, blocks 3 to 5" },
+            { "claim": "a manikin, or mannequin, is an artist’s, tailor’s or dressmaker’s figure", "kind": "source", "source": "Merriam-Webster, manikin and mannequin; Online Etymology Dictionary, manikin" },
+            { "claim": "what a man did with his education once he had it is called a personal matter only; his education stopped in 1871, and twenty years later he could sum up", "kind": "text", "source": "adams/c21, blocks 0 and 1" },
+            { "claim": "Adams married Marian Hooper in 1872; she took her own life on 6 December 1885", "kind": "source", "source": "Massachusetts Historical Society, “Who was Marian ‘Clover’ Hooper Adams?” (masshist.org/features/clover-adams); Wikipedia, “Marian Hooper Adams” and “Henry Adams”" },
+            { "claim": "neither the marriage nor her death is told in the book", "kind": "text", "source": "the hosted text searched for wife, married, marriage and eleven like words: 59 places, each read, none about Adams’s own wife; adams/c21, block 24, describes the bronze figure at Rock Creek without saying whose grave it marks" }
+          ],
+          "stands": "The years in the chapter titles, and counts made in the text printed here: *I*, *me* and *my* outside quotation marks, and the name *Henry Adams*. [The preface](#/read/adams/preface:3) for the manikin; the head of [chapter 21](#/read/adams/c21:0) for the years left out. The marriage and the death: the Massachusetts Historical Society’s page on Marian Hooper Adams. A search of the text for words of marriage found nothing about his own."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "The essay names two illusions. The aesthetic one takes the world of masses for a world of faces and makes a nature that is magical and has many gods; the sentence quoted here gives its religion. The scientific one takes the world of faces for one of masses and makes history a mechanism; its religion turns the Virgin into a statistic. Without art, he adds, there would be no idea of the sacred, and without science the gods people worship would always be false ones.",
+      "quote": "The aesthetic religion says prayers to the Dynamo.",
+      "source": "“The Virgin & The Dynamo,” in *The Dyer’s Hand* (1962), p. 62",
+      "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 3138-3156"
+    },
+    {
+      "says": "By nature, he says in the same pages, people tend to put a face on any power they imagine is responsible for their lives, and they do it to avoid responsibility: they want to say that they cannot help what they do. The pagan nature gods have masks and no real faces, because a real face answers for itself and those gods answer for nothing. Nature may rightly be given a real face, the Madonna’s for one, but only after the pagan mask is off and she is seen to be a world of masses, responsible for no one.",
+      "source": "“The Virgin & The Dynamo,” in *The Dyer’s Hand* (1962), pp. 62–63",
+      "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 3158-3180; the sentence on the Madonna runs from p. 62 to p. 63"
+    },
+    {
+      "says": "In his essay on American poetry Auden quotes the sentences printed here under The Virgin, with one from the paragraph before, and gives his reason for what they say. A European writer, he says, could count on a nature that had its myths, had been made human and was friendly on the whole, and on landscapes with faces a person could know and trust. The wild nature of America cannot be thought of as human or as a person. The cause, for him, was the dissenters of the Mayflower, who feared images, and also that the nature Americans had reason to fear was nothing anyone could picture as a mother.",
+      "source": "“American Poetry,” in *The Dyer’s Hand* (1962), pp. 357–59",
+      "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 16827-16898; the quotation from Adams begins on p. 358 and ends on p. 359, and it is one sentence of adams/c25, block 7, three points, then words 64 to 105 of block 8"
+    },
+    {
+      "says": "In 1941, the year of the course, Auden published *New Year Letter*. One line of the poem names the Virgin and the Dynamo, and his note to it quotes Adams twice and adds nothing: the sentence that opens the first passage here, and then the whole paragraph that ends with the sentences under The Virgin. The American edition, *The Double Man*, lists the *Education* among its modern sources.",
+      "source": "*New Year Letter* (London: Faber and Faber, 1941), the note to line 1466; *The Double Man* (New York: Random House, 1941), the list of Modern Sources",
+      "checked": "seen by the examiner only in full-text search snippets of the scanned copies at archive.org (newyearletter0000aude, bwb_S0-DUH-879): the head of the note (Line 1466, with four words of the line), the first sentence of adams/c25 block 2 from word 101, three points, block 8 from its first word to its last, the title of the book as signature, then the next note. No full page was seen. Research note C, appendix H6, says the note stands just before the note to line 1469 and gives only the second passage; both are inexact"
+    },
+    {
+      "says": "On the typed reading list for the course the book is entered as *Education of Henry Adams*, in the Modern Library edition, and someone has written *Omit* by hand in the margin beside it, as beside Goethe’s *Faust*. It is not known whose hand it is. Donald Pearce’s memoir of the class does not mention the book.",
+      "source": "The typed reading list for English 135 (1941), first leaf, as reproduced by Alan Jacobs, “Auden’s Syllabus” (2012); Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985)",
+      "checked": "the image of the first leaf looked at by the examiner (Alan Jacobs, blog.ayjay.org, 2012): the row and the handwritten word are as said; remake/research/A_michigan_course.md, the table of the list and section 1.6 on the handwritten marks; remake/research/C_auden_on_works.md, section 20; the scan of Pearce's memoir of the class, research/auden/pearce.txt, searched for Adams with no result"
+    }
+  ],
+  "next": "adams/c01:0",
+  "sources": [
+    "The text printed here: Henry Adams, *The Education of Henry Adams* (1918), as Project Gutenberg gives it (no. 2044).",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (New York: Random House, 1962): “The Virgin & The Dynamo,” pp. 61–63; “American Poetry,” pp. 357–59.",
+    "W. H. Auden, *New Year Letter* (London: Faber and Faber, 1941), the note to line 1466; *The Double Man* (New York: Random House, 1941), the same note and the list of Modern Sources. Not seen in full: read in search snippets of scanned copies.",
+    "The reading list for English 135, University of Michigan, 1941, first leaf, as reproduced by Alan Jacobs, “Auden’s Syllabus” (blog.ayjay.org, October 1, 2012).",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985): a student’s memoir of the class, which does not name the book.",
+    "Online Etymology Dictionary (etymonline.com): occult, fiat, vertiginous, X-ray, sentiment, feature, charm, smother, victim, winning, anodyne, manikin.",
+    "Merriam-Webster (merriam-webster.com): one (pronoun), vertiginous, smother, manikin, mannequin.",
+    "Gideon O. Burton, *Silva Rhetoricae* (rhetoric.byu.edu): simile, antithesis, personification, correctio.",
+    "The King James Bible, 1 Corinthians 15:53; *The Book of Common Prayer* (1662), The Order for the Burial of the Dead, and the same service in an American edition (New York, 1847).",
+    "Edwin M. Bacon, *Boston: A Guide Book* (Boston: Ginn, 1903; revised edition, 1909), pp. 37–38, and the edition of 1922, p. 38.",
+    "Massachusetts Historical Society, “Who was Marian ‘Clover’ Hooper Adams?” (masshist.org). Wikipedia: “Henry Adams,” “Marian Hooper Adams,” “Samuel Langley.”"
+  ],
+  "caveats": [
+    "Auden’s note of 1941 and the list of sources in *The Double Man* were read only in search snippets of scanned copies. No full page of them was seen.",
+    "The word *Omit* beside this book on the reading list is in an unknown hand, and it is not known whether the class read the book.",
+    "The count of *pray* is a count of the word. Adams also speaks of himself as kneeling, without that word, at the foot of the Cross in [chapter 5](#/read/adams/c05:5) and before the Virgin’s window in [chapter 32](#/read/adams/c32:15).",
+    "The counts follow the text printed here and their own rules: only *force* and *forces* are counted, a chapter’s years are those in its title, and quotation marks decide which sentences are the storyteller’s own.",
+    "The book does describe the bronze figure that Saint-Gaudens made for Adams at Rock Creek cemetery, in [chapter 21](#/read/adams/c21:24), without saying whose grave it marks."
+  ],
+  "open": [
+    "Whose hand wrote Omit beside this title on the 1941 reading list is not known, nor whether the class in fact skipped the book.",
+    "Auden’s 1941 note (New Year Letter, the note to line 1466) and the list of sources in The Double Man were seen by the examiner only in full-text search snippets of the scanned copies at archive.org; no full page was seen. Research note C, appendix H6, is inexact: the note is to line 1466, not placed by the note to line 1469 alone, and it quotes the first sentence of the dynamo passage before the whole paragraph of the Virgin. The sentence on his list of 1946 was taken out of the page by the critic; it is kept, with its source, at the end of notes.md.",
+    "Hancock Avenue (still there in 1903 and 1909, done away with in 1916) and the Hancock house (pulled down in 1863) now rest on Edwin M. Bacon’s guide book to Boston in three editions, read in scanned copies. No city record was seen.",
+    "The burial lesson was checked in the English Prayer Book of 1662 and in one American edition, of 1847. Whether the Adams family’s Unitarian church used that service was not looked into; the caption says only where the phrase is read.",
+    "Britannica would not open for the examiner, so nothing in the reading rests on it now; the marriage and the death rest on the Massachusetts Historical Society’s page.",
+    "The book gives its own dates in three ways: written in 1905 and privately printed in 1906 (the editor’s preface), printed in 1907 (the same preface, lower down), and the author’s preface is dated February 16, 1907. The reading follows 1905 for the writing and, since the finisher’s change, says of the hundred copies only that he had them printed by 1907.",
+    "The hosted text prints women where woman seems meant in adams/c19, block 9, after the rows shown. It spells the title of chapter 27 without its umlaut, in the title and five times in the chapter, and the Force facts follow it (the title is printed when that bar is pointed at). It was not compared with the Modern Library edition named on the reading list (exam.md, section 12).",
+    "The examiner set beside to true on the first plate, since its second passage is another passage and not a translation; reordered the parts of the Likeness and Tense lenses so that the page joins the right two; gave three strings of the shape facts a read place; and corrected three numbers in the facts of the Book lens (the name 102 times, 37, 59 places). The keys the drawing reads kept their names and shapes.",
+    "Word histories are from the Online Etymology Dictionary and Merriam-Webster, not from the Oxford English Dictionary.",
+    "Page numbers for Auden are those of the running heads in the scan of The Dyer’s Hand; on p. 63 the scan prints Adam’s where Adams’s is meant.",
+    "Passed up by the finisher and still to do (the last section of notes.md has each in a line or two): what the two flags of the Force drawing print; the four words named as words in the two lines the kit sets as bare type; the blue row of the Order key; the one-word label of the tab Level; the two counts of words in the Force caption that its drawing does not show; the title of chapter 27 in the hosted text (the entry on the hosted text, above)."
+  ]
+}

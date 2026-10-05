@@ -1,0 +1,422 @@
+{
+ "piece": "horace",
+ "title": "A ship, a crossing and a bee",
+ "where": "*Odes* I.14, I.3 and IV.2",
+ "about": "Three passages from the *Odes*, each in Horace’s Latin and in John Conington’s English verse, first published in 1863. In the first the poet calls to a ship that fresh waves are about to carry back out to sea. The second comes from a poem that begins with a prayer to the ship carrying Virgil to Attica, in Greece. The third is about writing poems: Horace addresses Iulus Antonius, Mark Antony’s son and himself a poet, first on the Greek poet Pindar and then on his own songs.",
+ "view": {
+  "says": "Auden quotes the start of the first passage and all of the second early in his book on the sea in Romantic writing, where he describes the attitude that came before. In it the sea stands for disorder, so the ship of state is a figure used only when society is in danger, and a ship belongs in port. To try to cross the sea is rash, close to hubris.",
+  "quote": "to try to cross it betrays a rashness bordering on hubris",
+  "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 6–7 and 9",
+  "checked": "read in the scan of The Enchafèd Flood, research/auden/ef.txt, on 2026-10-03: the ship of state at lines 357-360 and 372-375 (p. 7, lines 351-386), the sentence quoted at lines 458-460 and his quotation of the stanza after it at lines 462-472 (p. 9, lines 439-477). The page numbers are counted from the numbers printed at the foot of pp. 10 to 12. Examiner, the same day, in the same scan: the sea as the state of disorder out of which civilization came is at lines 344-347 (the foot of p. 6), and the next paragraph but one begins “In consequence” (line 357), so the cause Auden gives for the ship of state appearing only in peril is the sea’s meaning, with the sentence about the harbor after it (lines 359-360). The book does not begin with the older attitude: it opens on Wordsworth’s dream (to the foot of p. 5, counting the running heads back from p. 10), and the section headed The Sea begins p. 6 (line 311). The quote is exact, eleven words (lines 458-459)"
+ },
+ "plates": [
+  {
+   "id": "ship",
+   "heading": "To the ship",
+   "label": "Horace, Odes I.14, lines 1 to 4",
+   "text": "horace-la/o1-14",
+   "rows": ["0.0-0.3"],
+   "pair": { "label": "Conington, 1865", "text": "horace/o1-14", "rows": ["0.0-0.3"] },
+   "lenses": [
+    {
+     "kind": "beat",
+     "label": "Measure",
+     "meterName": "long and short syllables in a fixed order: two lines of twelve, one of seven, one of eight",
+     "scan": {
+      "0.0": { "meter": "---uu--uu-u-", "voice": "/ /x /xx | x /x x /x" },
+      "0.1": { "meter": "---uu--uu-u-", "voice": "/x / / /x | /xx /xx" },
+      "0.2": { "meter": "---uu--", "voice": "/x /x /x x" },
+      "0.3": { "meter": "---uu-u-", "voice": "/x x/xx /x" }
+     },
+     "caption": "Under each syllable a dash marks a long one and a curve a short one. A long syllable takes longer to say, and counts as two short ones. Latin verse is measured by that pattern. Auden, writing with Chester Kallman, set two systems apart: Greek and Latin verse count syllables as long or short, English verse as accented or unaccented. The dots are the accents of the Latin words, and they fall on long and short syllables alike. Each twelve-syllable line breaks after its sixth syllable. In the second line a sentence stops at the break: the cry to the ship, asking what it is doing, ends one half, and the command, <i>bravely seize</i>, fills the other.",
+     "why": "The measure is made of the lengths of syllables, a long one counted as two short; the break in the middle of the long line lets a question end one half and a command fill the other.",
+     "points": [
+      { "at": ["0.0", 6, 6], "say": "This adjective means *new*. Its noun, the waves, is the first word of the next line, and the two together are the subject of the verb that stands before the break." },
+      { "at": ["0.1", 1, 3], "say": "The question to the ship, about what it is doing, runs up to the break. After the break come an adverb, *bravely*, and a command, *seize*." },
+      { "at": ["0.2", 0, 0], "say": "The harbor, the thing to be seized, is kept for the head of the third line, and the sentence ends on it." }
+     ],
+     "grounds": [
+      { "claim": "the pattern of longs and shorts under each line, and the accents of the words over it", "kind": "plate" },
+      { "claim": "each row fits its line (two lesser Asclepiadics, a Pherecratic, a Glyconic); the stanza and the odes written in it, I.14 among them", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), sections 625 and 626; the rows were scanned with build/tools/latin.mjs and every row fits" },
+      { "claim": "the Greeks and Romans told two kinds of syllable apart by the time each takes to pronounce; a long has twice the metrical value of a short, though the ratio was only approximate; the unit of length is one short syllable, and a long is regularly equal to two", "kind": "source", "source": "Allen and Greenough, section 607 and section 608, a and b, read at the Perseus Digital Library on 2026-10-03 by the finisher, who added the caption’s sentence on what a long syllable is. The edition’s Introduction to the Metres writes a long syllable as a quarter-note and a short one as an eighth-note. The caption’s sentence on where such measures began (section 623, note) was cut to make room; the Book tab of the third passage says where the stanzas came from" },
+      { "claim": "where the accent of a Latin word falls", "kind": "source", "source": "Allen and Greenough, section 12" },
+      { "claim": "Greek and Latin verse reckon syllables long or short; English reckons them accented or unaccented and ignores length; where verse goes by length, one long syllable is taken as two short ones", "kind": "auden", "source": "“Translating Opera Libretti” (written with Chester Kallman), in The Dyer’s Hand (1962), p. 485; read again by the finisher on 2026-10-03 in the scan, dh.txt lines 22793-22799" },
+      { "claim": "the lesser Asclepiadic line breaks after its sixth syllable; a word-end that falls with a pause in the sense is the chief break of a line", "kind": "source", "source": "Allen and Greenough, section 626 (the break is printed after the sixth syllable in each example) and section 611b" },
+      { "claim": "in the second line a sentence ends at the break and the command follows it; the harbor is the object of the command", "kind": "text", "source": "rows 0.1 and 0.2; Lewis and Short under occupo, which cites this line with the harbor as object, and under fortis for the adverb. The stop after w3 of row 0.1 is an editor’s: the edition shown prints a question mark, the Loeb text (C. E. Bennett), which Auden quotes, an exclamation mark. A sentence ends there in both, so the caption no longer names the mark (examiner)" }
+     ],
+     "stands": "The marks on the passage. What a long syllable is, the lines of this stanza, the break in the long line and the rule of the Latin accent: Allen and Greenough, *New Latin Grammar*, sections 12, 607, 608, 611, 625 and 626. Auden and Kallman on the two ways of measuring verse: *The Dyer’s Hand*, p. 485."
+    },
+    {
+     "kind": "figure",
+     "label": "Allegory",
+     "name": "allegory",
+     "plain": "one thing presented in the words and another in the meaning, usually by a run of metaphors (Quintilian’s definition)",
+     "draw": "list",
+     "parts": [
+      { "row": "0.0", "w": [1, 1], "tag": "ship", "label": "ship: the state" },
+      { "row": "0.1", "w": [0, 0], "tag": "waves", "label": "waves: civil wars" },
+      { "row": "0.2", "w": [0, 0], "tag": "harbor", "label": "harbor: peace, concord" }
+     ],
+     "caption": "Three words are marked: the ship spoken to (<b>navis</b>), the waves (<b>fluctus</b>) and the harbor (<b>portum</b>). None of the ode’s twenty lines names Rome. Quintilian, who taught rhetoric there, quotes the opening, as far as the harbor, as his example of allegory: ship for the state, waves and storms for civil wars, harbor for peace and concord. Cicero has a ship of the commonwealth tossing in storms of discord, and the edition printed here says the ode seems a close imitation of one the Greek poet Alcaeus wrote during the troubles of his own city, Mitylene. Auden quotes the same opening. The metaphor, he wrote, is used only when society is in danger, and a ship belongs in port.",
+     "why": "The ode never names what the ship is; Quintilian reads ship, waves and harbor as the state, civil wars and peace, and Auden says writers bring in the ship of state only when society is in danger.",
+     "grounds": [
+      { "claim": "three words are marked: the ship addressed, the waves, the harbor", "kind": "plate" },
+      { "claim": "none of the twenty lines of the ode names Rome, the state or its citizens", "kind": "text", "source": "Odes I.14 read through in the hosted Latin (horace-la/o1-14, blocks 0 to 4, twenty rows); the only proper names are a wind, a Pontic pine and the Cyclades (read through again by the examiner)" },
+      { "claim": "allegory presents one thing in words and another in meaning, mostly by a series of metaphors; the example is this opening, with ship for the commonwealth, waves and storms for civil wars, harbor for peace and concord", "kind": "source", "source": "Quintilian, Institutio Oratoria 8.6.44: the Latin at The Latin Library, and H. E. Butler’s translation (Loeb, 1920-22) at LacusCurtius. The three equations follow the Latin; Butler’s English has tempests and good-will. The definition has a second branch (words that mean the opposite of what they say), which is why the plain line says “from the definition” (examiner)" },
+      { "claim": "Quintilian taught rhetoric at Rome", "kind": "source", "source": "Butler’s introduction to the same translation (born about 35 A.D., brought to Rome in 68, taught for twenty years)" },
+      { "claim": "Cicero speaks of the ship of the commonwealth tossing in storms of sedition and discord", "kind": "source", "source": "Lewis and Short under navis, II, “Trop., of political affairs”, citing Cicero, Pro Sestio 20, 46; the sentence itself read in the Latin of Pro Sestio, sections 45 to 46, at The Latin Library (examiner)" },
+      { "claim": "the ode seems a close imitation of one Alcaeus wrote during the troubles in Mitylene", "kind": "source", "source": "the introductory note on Ode XIV in the hosted edition: Macleane, revised by Chase (1895). Read again by the finisher on 2026-10-03, who put the troubles back into the caption, since they are what makes the clause bear on the allegory. The note says only that the troubles were in Mitylene, his native city; it goes on to date Horace’s ode, most probably, to the civil wars, and says the state is likened to a ship" },
+      { "claim": "the ship as a figure for the state or for society comes in early, but only at times of danger to society, and a ship’s proper place is in port (two sentences, the second not given as the cause of the first: the caption had a colon between them and the view a because); he quotes the opening of this ode down to the harbor", "kind": "auden", "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 7" }
+     ],
+     "stands": "The marks on the passage, and [the whole ode](#/read/horace-la/o1-14:0) read through. Quintilian, *Institutio Oratoria*, book 8, chapter 6, section 44, in Latin and in H. E. Butler’s English. Cicero’s ship: *Pro Sestio*, sections 45 to 46, found through Lewis and Short’s Latin dictionary under *navis*; Alcaeus: the note on this ode in the edition printed here. Auden: *The Enchafèd Flood*, p. 7."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      { "a": ["0.0", 6, 6], "b": ["p:0.0", 3, 4], "say": "The word for *new* ends Horace’s first line and its noun, the waves, begins his second. The endings of the two words show that they belong together. Conington sets them side by side." },
+      { "a": ["0.1", 4, 5], "b": ["p:0.1", 3, 5], "say": "*Bravely seize.* The Latin dictionary of Lewis and Short cites the line under this verb, among Italy, cities, a mountain and a kingdom, each taken possession of. Conington’s ship is told to hurry." },
+      { "a": ["0.2", 0, 0], "b": ["p:0.1", 7, 7], "say": "The harbor comes first in Horace’s third line and ends his sentence. Conington puts it inside his second line, before the word that rhymes." },
+      { "a": ["0.0", 1, 1], "b": ["p:0.0", 1, 2], "say": "Horace says only *ship*. The adjective in front of it is Conington’s." },
+      { "a": ["0.2", 1, 2], "b": ["p:0.2", 0, 1], "say": "Horace asks the ship whether it does not see its own damage. Conington makes a statement of it." }
+     ],
+     "caption": "The English is John Conington’s, and it follows the Latin line for line. His preface asks of a translator some metrical likeness to the Latin. For this stanza he follows Milton’s version of another ode in the same measure, ten syllables for each long line and six for each short one, beginning off the beat as English verse usually does, and he adds rhyme. Auden wrote, of Greek, that unrhymed verse measured by length and rhymed verse measured by accent share only that both are patterns of rhythm. Latin endings let <b>novi</b> (new) close one line and its noun open the next. Conington sets the pair side by side, leaves out the question in Horace’s second line and adds <b>luckless</b>.",
+     "why": "Conington’s stanza is his chosen stand-in for the Latin one; Latin ties adjective to noun by ending, English by position, so he joins what Horace sets a line apart; Auden says the two kinds have only rhythm in common.",
+     "grounds": [
+      { "claim": "which words answer which; Conington’s lines of ten, ten, six and six syllables, rhymed first with third and second with fourth; the short question of the second Latin line has no counterpart; the adjective before his ship has none in the Latin", "kind": "plate" },
+      { "claim": "a translator of Horace should aim at some metrical conformity to the original and keep the same number of lines; for this Latin stanza Conington followed Milton’s version of the ode to Pyrrha, a ten-syllable iambic line for the longer lines and a six-syllable for the shorter, substituting rhyme for blank verse, with alternate rhymes; iambic is the ordinary movement of English poetry", "kind": "source", "source": "John Conington, preface to The Odes and Carmen Saeculare of Horace (first edition 1863; the third edition as Project Gutenberg prints it, no. 5432); his Odes I.5 in the hosted text has the same stanza" },
+      { "claim": "adjectives agree with their nouns in gender, number and case; Latin has more freedom than English in the order of words", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), sections 286 and 595; Lewis and Short under novus and fluctus (masculine, fourth declension) for the pair" },
+      { "claim": "verse by length without rhyme and rhymed verse by stress share only this, that both are patterns of rhythm; where a language is inflected the meaning is not tied to the place of a word in its sentence, which in English it is (both said of Greek)", "kind": "auden", "source": "“The Greeks and Us,” in Forewords and Afterwords (1973), pp. 5 and 6" },
+      { "claim": "the verb means to take possession of, seize, especially a place, and this line is cited among Italy, cities, a mountain, a kingdom; the adverb means boldly, bravely", "kind": "source", "source": "Lewis and Short under occupo, I, and under fortis (adverb fortiter, 2)" }
+     ],
+     "stands": "The two versions side by side, and the words tied between them. Conington’s reasons: the preface to his translation. Agreement of adjective and noun: Allen and Greenough, *New Latin Grammar*, section 286; the verb for seizing: Lewis and Short under *occupo*. Auden, on translating Greek: “The Greeks and Us,” in *Forewords and Afterwords*, pp. 5 and 6."
+    }
+   ]
+  },
+  {
+   "id": "crossing",
+   "heading": "The crossing",
+   "label": "Horace, Odes I.3, lines 21 to 24",
+   "text": "horace-la/o1-03",
+   "rows": ["5.0-5.3"],
+   "pair": { "label": "Conington, 1865", "text": "horace/o1-03", "rows": ["5.0-5.3"] },
+   "beside": true,
+   "turn": { "p:5.3": 2 },
+   "lenses": [
+    {
+     "kind": "figure",
+     "label": "Order",
+     "name": "synchysis",
+     "plain": "the interlocked order: the adjective of one pair stands between the two words of another pair",
+     "draw": "chain",
+     "parts": [
+      { "row": "5.0", "w": [1, 1], "tag": "god", "label": "the god, foreseeing or knowing" },
+      { "row": "5.1", "w": [0, 0], "tag": "god", "label": "the god, foreseeing or knowing" },
+      { "row": "5.0", "w": [2, 2], "tag": "tore", "label": "tore the lands" },
+      { "row": "5.2", "w": [0, 0], "tag": "tore", "label": "tore the lands" },
+      { "row": "5.1", "w": [1, 2], "tag": "ocean", "label": "the dividing Ocean" },
+      { "row": "5.2", "w": [3, 3], "tag": "ships", "label": "impious ships" },
+      { "row": "5.3", "w": [2, 2], "tag": "ships", "label": "impious ships" },
+      { "row": "5.3", "w": [0, 1], "tag": "waters", "label": "waters not to be touched" },
+      { "row": "5.3", "w": [4, 4], "tag": "waters", "label": "waters not to be touched" }
+     ],
+     "caption": "Each color joins words that belong together, as the Latin endings show. The verb, tore apart, waits a line for its object, the lands, with the Ocean named between. In the last two lines two pairs interlock: the adjective for the ships, the phrase for the waters, then the ships, the verb, the waters. Allen and Greenough’s Latin grammar calls this order a favorite of the poets. Its rule for any phrase, shown there from prose, is that the most significant word comes first. By that rule the weight is on <b>impiae</b>, impious, and <b>tangenda</b>, to be touched, with a <i>not</i> before it. Auden quotes the stanza for the older view that crossing the sea is rash, close to hubris.",
+     "why": "Latin endings let Horace part adjective from noun; by the grammar’s rule, shown from prose, the first word of a phrase carries the weight, and here the words of blame come first, the judgment Auden quotes the stanza for.",
+     "grounds": [
+      { "claim": "which words are joined and where each stands; the verb and its object are a line apart; in the last two lines the order is adjective, negative and gerundive, noun, verb, noun", "kind": "plate" },
+      { "claim": "each pairing is the one the endings require: adjective and noun agree in gender, number and case", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), section 286; Lewis and Short under deus, prudens, Oceanus, dissociabilis, terra, impius, ratis (feminine) and vadum (neuter). The entries for abscindo, dissociabilis, impius and transilio each cite this stanza with the word they are paired with here. The key gives the god’s adjective both senses, as the gloss on the Words tab does: Lewis and Short under prudens, I (foreseeing, very rare) and II.A.2.b (knowing, wise, where this line is cited), and the edition’s note on line 22 (foreseeing the evil to come), both read again by the finisher on 2026-10-03" },
+      { "claim": "the interlocked order, in which the attribute of one pair comes between the parts of the other, is a favorite with the poets; in any phrase the determining and most significant word comes first", "kind": "source", "source": "Allen and Greenough, section 598h (its example is Odes I.2, line 11) and section 598a. Finisher, 2026-10-03: sections 595 to 599 read at Dickinson College Commentaries. Section 598 gives these as the main rules for the order of words and does not call them rules of prose; but every example under 598a is from Sallust or Cicero, so the caption now says the rule is shown from prose. Under the same number, 598d has a line of Virgil among its examples and 598h two lines of Horace" },
+      { "claim": "the form of the verb touch used here denotes what ought to be done, and is passive", "kind": "source", "source": "Allen and Greenough, section 500" },
+      { "claim": "the attempt to cross the sea is rash and close to hubris (the sentence quoted in the view); he then quotes these four lines", "kind": "auden", "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 9" }
+     ],
+     "stands": "The marks on the passage. That each pair agrees in gender, number and case: Allen and Greenough, *New Latin Grammar*, section 286, with Lewis and Short’s entries for the words. The interlocked order and the place of the most significant word: the same grammar, section 598. Auden: *The Enchafèd Flood*, p. 9."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      { "row": "5.0", "w": [0, 0], "gloss": "to no purpose", "note": "The first word of the stanza and of its sentence. By a rule in Allen and Greenough’s Latin grammar, shown there from prose, the word most prominent in the speaker’s mind comes first.", "source": "Lewis and Short under nequiquam; Allen and Greenough, section 597 (read by the finisher at Dickinson College Commentaries on 2026-10-03: the rule is given for connected discourse, and its examples are from Cicero and Caesar)" },
+      { "row": "5.0", "w": [2, 2], "gloss": "tore apart", "note": "The dictionary cites this line under a verb for tearing off or away, with the sense *torn asunder*.", "source": "Lewis and Short under abscindo" },
+      { "row": "5.1", "w": [0, 0], "gloss": "foreseeing, knowing", "note": "A short form of *providens*, seeing ahead, and the edition printed here reads it so: foreseeing the evil to come. The dictionary calls that sense very rare and cites this line under *knowing, wise*.", "source": "Lewis and Short under prudens, I and II.A.2.b; the note on line 22 in Macleane and Chase (1895)" },
+      { "row": "5.1", "w": [2, 2], "gloss": "that divides", "note": "The dictionary gives this line as its one example of the active sense, separating or dividing. In its other examples the word means *that cannot be joined*.", "source": "Lewis and Short under dissociabilis" },
+      { "row": "5.2", "w": [3, 3], "gloss": "without reverence", "note": "Without reverence for the gods, for parents or for country. The dictionary cites these ships for the word said of things.", "source": "Lewis and Short under impius, I and II" },
+      { "row": "5.3", "w": [0, 1], "gloss": "not to be touched", "note": "A form of the verb *touch* that says what ought to be done, with a *not* before it. It agrees with the last word of the line. The dictionary cites these waters under touching as reaching a place.", "source": "Allen and Greenough, section 500; Lewis and Short under tango, I.B.2.a (of places: to reach, arrive at, come to)" },
+      { "row": "5.3", "w": [2, 2], "gloss": "rafts, ships", "note": "Properly a raft of logs fastened together. In the poets it is any boat or ship.", "source": "Lewis and Short under ratis" },
+      { "row": "5.3", "w": [3, 3], "gloss": "leap across", "note": "Among the dictionary’s examples of things leapt across: the new walls Remus jumped in mockery of his brother, flames, nets, a river, and these waters.", "source": "Lewis and Short under transilio, I (β), citing Livy 1, 7, 2, Ovid, Pliny, Florus and this line" },
+      { "row": "5.3", "w": [4, 4], "gloss": "shallows, waters", "note": "Properly a shallow place or a ford. In the poets it is a body of water, the sea.", "source": "Lewis and Short under vadum" }
+     ],
+     "caption": "The glosses are from Lewis and Short’s Latin dictionary. The stanza opens on <b>nequicquam</b>, to no purpose. The god is <b>prudens</b>, a short form of <i>providens</i>, seeing ahead; the dictionary puts this line under <i>knowing, wise</i>. The ships are <b>impiae</b>, without reverence for gods, parents or country, and the waters are not to be touched. The verb, <b>transiliunt</b>, means <i>leap across</i>: its other objects in the dictionary are walls, flames, nets and a river. The edition printed here finds in the ode a lament for the presumption of mankind. Auden, quoting the stanza, calls the attempt to cross the sea rash and close to hubris, a Greek word that first meant presumption toward the gods.",
+     "why": "The words that judge the crossing are in the Latin: to no purpose, without reverence, not to be touched. The edition finds in the ode a lament for human presumption, and Auden calls the attempt rash, close to hubris.",
+     "grounds": [
+      { "claim": "the sense of each word glossed", "kind": "source", "source": "Lewis and Short under nequiquam, abscindo, prudens, dissociabilis, impius, tango, ratis, transilio and vadum, each read on 2026-10-03" },
+      { "claim": "prudens is contracted from providens; the sense foreseeing is very rare, and this line is cited under knowing, wise; the edition reads it as foreseeing the evil to come", "kind": "source", "source": "Lewis and Short under prudens, I and II.A.2.b; the note on line 22 in the hosted edition; Online Etymology Dictionary under prudent (examiner: the gloss was foreseeing alone, which is the edition’s reading and not the dictionary’s for this line)" },
+      { "claim": "the things leapt across in the dictionary’s examples of the verb with an object: new walls (Remus, in Livy), flames, nets, a river, these waters", "kind": "source", "source": "Lewis and Short under transilio, I (β). The caption used to add from Livy that Remus was killed for the leap; no source opened ties that to Horace’s verb, and the other objects in the same list carry no blame, so the sentence was cut (examiner)" },
+      { "claim": "the waters are cited under the verb touch in the sense of reaching or coming to a place", "kind": "source", "source": "Lewis and Short under tango, I.B.2.a" },
+      { "claim": "in connected discourse the word most prominent in the speaker’s mind comes first, and so on in order of prominence; the stanza is one sentence, and the first word glossed is its first word", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), section 597, read at Dickinson College Commentaries on 2026-10-03 (finisher: the tab kept no ground for its first note). The grammar does not call it a rule of prose, but its examples are from Cicero and Caesar, and the note now says the rule is shown from prose. The sentence: rows 5.0 to 5.3 of the hosted Latin, after the question mark that ends row 4.3" },
+      { "claim": "the ode is taken up with reproaches against the inventor of navigation and a lament for the presumption of mankind", "kind": "source", "source": "the introductory note on Ode III in the hosted edition: Macleane, revised by Chase (1895)" },
+      { "claim": "hubris is from the Greek for wanton violence, insolence, outrage, originally presumption toward the gods", "kind": "source", "source": "Online Etymology Dictionary under hubris, read on 2026-10-03" },
+      { "claim": "the attempt to cross the sea is rash and close to hubris (the sentence quoted in the view)", "kind": "auden", "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 9" }
+     ],
+     "stands": "Each gloss is from the entry for the word in Lewis and Short’s *Latin Dictionary* (1879). The form of *touch* and the rule for a first word: Allen and Greenough’s *New Latin Grammar*, sections 500 and 597. The reading of *prudens* as foreseeing and the summary of the ode are from the notes of the edition printed here. *Hubris*: the Online Etymology Dictionary. Auden: *The Enchafèd Flood*, p. 9."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      { "a": ["5.0", 0, 0], "b": ["p:5.0", 3, 4], "say": "Horace’s first word means *to no purpose*. Conington keeps the phrase for the end of his line, where it rhymes." },
+      { "a": ["5.1", 0, 0], "b": ["p:5.0", 0, 2], "say": "*Foreseeing* or *knowing*, the god’s adjective, stands a verb and a line end away from him. Conington makes one phrase of the two, and its noun comes from the same Latin verb, to look ahead." },
+      { "a": ["5.2", 0, 0], "b": ["p:5.1", 2, 2], "say": "The lands, object of the verb that ends Horace’s first line. A whole line of the Latin stands between them. In Conington the object follows its verb at once." },
+      { "a": ["5.1", 1, 2], "b": ["p:5.1", 5, 6], "say": "The Ocean and its adjective, *dividing*. Conington’s note on his own two words gives a line of Matthew Arnold’s that has the same adjective for the sea. The English that Auden prints with the stanza has it too." },
+      { "a": ["5.2", 3, 3], "b": ["p:5.3", 1, 1], "say": "*Impious* is said of the ships, with two words and a line end between adjective and noun. Conington’s ships have no adjective of blame. His goes to their plunge." },
+      { "a": ["5.3", 0, 1], "b": ["p:5.3", 4, 4], "say": "Horace says what ought not to be done to the waters: they are not to be touched. Conington’s one word says what they are." },
+      { "a": ["5.3", 3, 3], "b": ["p:5.3", 6, 6], "say": "*Leap across.* Conington’s verb comes from the Latin for stepping across, and its first English sense was *to sin*. It is his last word. Horace ends on the waters." }
+     ],
+     "caption": "Conington’s preface says he rhymed this ode in pairs, against his rule of alternate rhymes, so that readers might compare. In his English no adjective is parted from its noun: the god and his foresight make one phrase, the verb takes its object at once, and <b>sacred</b> stands next to its noun. Auden wrote, of Greek, that a language which marks its words by their endings does not need their order to carry the sense, as English does. The ships lose their adjective, and <b>reckless</b> goes to their plunge. For the leap Conington writes <b>transgress</b>, from the Latin for stepping across, which in English means breaking a law.",
+     "why": "English shows by position what Latin shows by endings, as Auden says of Greek, so Conington joins what Horace parts; in doing it he moves the blame from the ships to their plunge and ends on a word for lawbreaking.",
+     "grounds": [
+      { "claim": "which words answer which; Conington’s four lines rhyme first with second and third with fourth; each of his four adjectives stands next to its noun, and his verb next to its object", "kind": "plate" },
+      { "claim": "Conington translated one ode, the third of Book I, into successive rather than alternate rhymes, so that readers may judge of the comparative effect; as a rule he chose alternate rhymes and avoided couplets; his note on this ode sets a line of Matthew Arnold’s, with the same adjective for the sea, under the two words of his own line", "kind": "source", "source": "John Conington, preface and notes (Book I, Ode 3) to The Odes and Carmen Saeculare of Horace (first edition 1863; the third edition as Project Gutenberg prints it, no. 5432)" },
+      { "claim": "the English printed under his quotation of the stanza has the same adjective for the sea as Conington and Arnold; two pages earlier his own prose calls a voyage a crossing of what separates or estranges", "kind": "auden", "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), pp. 9 and 7" },
+      { "claim": "that English is C. E. Bennett’s version of the stanza with two words changed (sea where Bennett has the noun Conington has, and never where Bennett has not); Bennett’s adjective is the same", "kind": "source", "source": "Horace: The Odes and Epodes, translated by C. E. Bennett (Loeb Classical Library, first published 1914), a later printing read at the Internet Archive (item in.ernet.dli.2015.98705), compared word by word by a script with The Enchafèd Flood, p. 9 (examiner)" },
+      { "claim": "where a language is inflected the meaning is not tied to the place of a word in its sentence, which in English it is (said of Greek)", "kind": "auden", "source": "“The Greeks and Us,” in Forewords and Afterwords (1973), p. 6" },
+      { "claim": "Latin adjectives agree with their nouns in gender, number and case, and Latin has more freedom than English in the order of words", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), sections 286 and 595" },
+      { "claim": "transgress is from the Latin for step across, and came into English meaning to sin, to overpass a rule or law; providence is from the Latin verb for looking ahead, and prudens is a short form of providens", "kind": "source", "source": "Online Etymology Dictionary under transgress and providence; Lewis and Short under prudens" },
+      { "claim": "the senses of the Latin words tied", "kind": "source", "source": "Lewis and Short under nequiquam, prudens, impius, tango, transilio and vadum; Allen and Greenough, section 500. Finisher: prudens read again on 2026-10-03; the second remark now gives both senses, as the gloss on the Words tab does" }
+     ],
+     "stands": "The two versions and the ties between them. Conington’s rhymes and the line of Matthew Arnold’s: his preface and notes. Auden: “The Greeks and Us,” in *Forewords and Afterwords*, p. 6; *The Enchafèd Flood*, p. 9, where the English printed with the stanza is C. E. Bennett’s Loeb version, two words changed. *Transgress*, *providence*: the Online Etymology Dictionary; the Latin: Lewis and Short; Allen and Greenough, sections 286 and 500."
+    }
+   ]
+  },
+  {
+   "id": "bee",
+   "heading": "The swan and the bee",
+   "label": "Horace, Odes IV.2, lines 25 to 32",
+   "text": "horace-la/o4-02",
+   "rows": ["6.0-7.3"],
+   "pair": { "label": "Conington, 1865", "text": "horace/o4-02", "rows": ["6.0-7.3"] },
+   "lenses": [
+    {
+     "kind": "figure",
+     "label": "Contrast",
+     "name": "antithesis",
+     "plain": "two opposed things set side by side, often in phrases of the same build",
+     "draw": "chain",
+     "parts": [
+      { "row": "6.0", "w": [1, 1], "tag": "who", "label": "swan and bee" },
+      { "row": "6.0", "w": [4, 4], "tag": "who", "label": "swan and bee" },
+      { "row": "6.2", "w": [2, 2], "tag": "who", "label": "swan and bee" },
+      { "row": "6.2", "w": [3, 4], "tag": "who", "label": "swan and bee" },
+      { "row": "6.0", "w": [2, 3], "tag": "how", "label": "breeze and labor" },
+      { "row": "7.0", "w": [3, 4], "tag": "how", "label": "breeze and labor" },
+      { "row": "7.2", "w": [2, 2], "tag": "how", "label": "breeze and labor" },
+      { "row": "7.3", "w": [0, 1], "tag": "how", "label": "breeze and labor" },
+      { "row": "6.1", "w": [3, 4], "tag": "where", "label": "clouds and Tibur" },
+      { "row": "6.2", "w": [0, 1], "tag": "where", "label": "clouds and Tibur" },
+      { "row": "7.1", "w": [1, 3], "tag": "where", "label": "clouds and Tibur" },
+      { "row": "7.2", "w": [0, 1], "tag": "where", "label": "clouds and Tibur" },
+      { "row": "6.0", "w": [0, 0], "tag": "size", "label": "much and small" },
+      { "row": "7.2", "w": [3, 3], "tag": "size", "label": "much and small" }
+     ],
+     "caption": "Two sentences stand against each other. A strong breeze lifts the swan of Dirce, the Greek poet Pindar, whenever he makes for the high tracts of cloud. Nearly in Horace’s order: <b>Ego</b>, I, in the way of a bee that gathers thyme through labor, around the grove and banks of wet Tibur (now Tivoli), small, shape laborious songs. The swan is lifted and the bee works. <b>Multa</b>, much, is said of the breeze, and <b>parvus</b>, small, of the speaker. The edition printed here reads the ode as declining a poem in Pindar’s manner. Auden’s poem “The Horatians,” as Edward Mendelson quotes its close, also sets its speakers beside Pindar: they count themselves small makers, however polished.",
+     "why": "Horace declines to write like Pindar by setting himself against him: a strong breeze lifts the swan, while he, small, works like a bee at songs that cost trouble; Auden’s Horatians, as Mendelson quotes them, call themselves small beside Pindar.",
+     "grounds": [
+      { "claim": "the words marked, and which answer which; the swan is the object of the verb lifts and the breeze its subject; the first sentence ends in the middle of the third line", "kind": "plate" },
+      { "claim": "antithesis is opposition, or contrast of parts", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), section 641 (the glossary of rhetorical figures), read in the Dickinson College copy of the grammar because the Perseus page for that section would not load, with section 598f at Perseus (added by the examiner: the term had no ground)" },
+      { "claim": "what the two sentences say", "kind": "text", "source": "rows 6.0 to 7.3, with Lewis and Short under levo, aura, cycnus, Dirce, altus, tractus, nubes, apis, mos, carpo, labor, nemus, uvidus, ripa, Tibur, operosus, parvus, carmen and fingo; the edition’s note on line 25 gives a strong breeze lifts the swan of Dirce. Examiner: w0 of row 6.1 is a verb of its own with w2 (as often as), so the swan is lifted whenever he makes for the tracts of cloud; the caption had the breeze lift him into them. Breeze, not wind: the edition’s note, Lewis and Short under aura, I, and the Loeb’s English agree. The second sentence is now paraphrased in the order of the Latin, because the Loeb’s translator puts the grove and banks with the bee’s gathering and Conington puts them with the speaker. Finisher, 2026-10-03, on the three words the critic set before the paraphrase: it keeps the order of Horace’s phrases but for three things (in the Latin the bee comes before its manner, the adjective of the songs before the word for small, and the verb last), so the words now read “Nearly in Horace’s order”; rows 6.2 to 7.3 in the checker’s proof" },
+      { "claim": "the swan of Dirce is Pindar; Dirce is a spring near Thebes, where he was born", "kind": "source", "source": "Lewis and Short under Dirce and cycnus, both citing this line; the note on line 25 in the hosted edition (Macleane, revised by Chase, 1895)" },
+      { "claim": "w0 of row 7.1 (plurimum, the superlative of multus) is not marked and the caption does not lean on it: two editions take it two ways", "kind": "source", "source": "Lewis and Short under multus (comp. plus, sup. plurimus); the edition’s note on line 27 says it belongs to the word for labor; the Loeb’s translator (C. E. Bennett) takes it with the grove. Examiner: the part was in the size chain as its middle term and has been taken out" },
+      { "claim": "the general impression of the ode is that Antonius had pressed Horace for a poem in Pindar’s style and that he declined; Iulus Antonius was son of M. Antonius the triumvir, a man of letters and a poet (used at the head of the page, under “The passages”, where the triumvir is called Mark Antony)", "kind": "source", "source": "the introductory note on Ode II of Book IV in the hosted edition, read again by the finisher on 2026-10-03; the ode names Iulus in its first stanza and Antonius in the first stanza shown" },
+      { "claim": "the poem ends with the creed of the Horatians: as makers, compared with Pindar, they are of small stature for all their polish", "kind": "auden", "source": "“The Horatians” (written 1968; in City Without Walls, 1969), its close as quoted in Edward Mendelson, Early Auden, Later Auden: A Critical Biography (2017), pp. 778-79. The poem was not seen whole, and nothing read says it has this ode in mind, so the caption named Mendelson and said the poem makes the same comparison (examiner). Finisher: that could be read as saying the poem has this ode in mind, so the caption now says the poem also sets its speakers beside Pindar, which is all that the lines Mendelson quotes show; his pages were not opened again" }
+     ],
+     "stands": "The marks on the passage and the two sentences themselves, with Lewis and Short’s dictionary for the words; antithesis as Allen and Greenough (section 641) and *Silva Rhetoricae* define it. Pindar as the swan, and the ode as a refusal: the notes of the edition printed here. The close of Auden’s “The Horatians” (in *City Without Walls*, 1969) as quoted in Edward Mendelson, *Early Auden, Later Auden* (2017), pp. 778–79."
+    },
+    {
+     "kind": "beat",
+     "label": "Measure",
+     "meterName": "the Sapphic stanza: long and short syllables in a fixed order, three lines of eleven and one of five",
+     "scan": {
+      "6.0": { "meter": "-u---uu-u--", "voice": "/x x/x | /x /x /x" },
+      "6.1": { "meter": "-u---uu-u--", "voice": "/x x/x | /xx x /x" },
+      "6.2": { "meter": "-u---uu-u--", "voice": "/xx /x | /~ /x x/x" },
+      "6.3": { "meter": "-uu--", "voice": "/x x/x" },
+      "7.0": { "meter": "-u---uu-u--", "voice": "/x x/x | /x x x/x" },
+      "7.1": { "meter": "-u---uu-u--", "voice": "/xx /x | /x xx/x" },
+      "7.2": { "meter": "-u---uu-u--", "voice": "/xx /x | xx/x /x" },
+      "7.3": { "meter": "-uu--", "voice": "/xx /x" }
+     },
+     "caption": "Dashes mark long syllables, curves short ones, dots the accents of words. This is the Sapphic stanza, named for Sappho of Lesbos: three lines of eleven syllables and one of five. Each long line here has a word-end after its fifth syllable. In the third line the swan’s sentence stops at that break; the next word is <b>ego</b>, I, whose last syllable runs into the next word. The new sentence crosses the short line and the stanza end, and keeps its verb, <b>fingo</b>, I shape, for the last word of the next stanza. Earlier the ode says that in his dithyrambs, songs for Bacchus, Pindar is carried along in measures freed from law. It keeps this one stanza fifteen times.",
+     "why": "The ode calls Pindar’s dithyrambs measures freed from law and itself keeps one stanza fifteen times; the swan’s sentence stops at a line’s fixed break, and the I begins there with its verb held to the stanza’s end.",
+     "points": [
+      { "at": ["6.2", 1, 2], "say": "The full stop comes after the fifth syllable. The sentence about the swan ends there, and the next word is *I*." },
+      { "at": ["7.3", 0, 1], "say": "*Songs*, and then the verb, *I shape*. It is the twentieth word of the sentence that began with *I*." }
+     ],
+     "grounds": [
+      { "claim": "the pattern under each line, the accents of the words, the word-end after the fifth syllable of each of the six long lines, the syllable that runs into the next word, and where the two sentences begin and end", "kind": "plate" },
+      { "claim": "the Sapphic stanza is three lesser Sapphics and an Adonic; IV.2 is among the twenty-five odes written in it; it is named after Sappho of Lesbos; the break is printed after the fifth syllable of each long line of the example; the lesser Sapphic always has a caesura in its dactyl", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), section 626, with section 12 for the accent; the Introduction to the Metres in the hosted edition. The rows were scanned with build/tools/latin.mjs and all eight fit" },
+      { "claim": "of his dithyrambs the ode says Pindar is carried along in measures freed from law; the dithyramb was a song in honor of Bacchus, sung at his festivals (the edition’s note on line 10)", "kind": "text", "source": "Odes IV.2, rows 2.1 to 2.3 of the hosted Latin (lines 10 to 12); Lewis and Short under numerus (a measure, in poetry) and solvo (of the laws of versification, referring to dithyrambic measures), both citing the words; the edition’s note on line 10" },
+      { "claim": "the ode has fifteen stanzas of this one shape", "kind": "text", "source": "the hosted Latin of IV.2: fifteen blocks of three long rows and one short; Allen and Greenough, section 626, lists the ode as Sapphic" },
+      { "claim": "the second sentence has twenty words and its verb is the last", "kind": "plate" }
+     ],
+     "stands": "The marks on the passage. The Sapphic stanza, its break and its name: Allen and Greenough, *New Latin Grammar*, sections 12 and 626, and the “Introduction to the Metres” in the edition printed here. What the ode says of Pindar’s measures: [its third stanza](#/read/horace-la/o4-02:2), with Lewis and Short under *numerus* and *solvo*."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      { "a": ["6.2", 2, 2], "b": ["p:6.2", 3, 3], "say": "Both versions turn in the middle of the third line: a full stop, and then *I*." },
+      { "a": ["6.3", 0, 1], "b": ["p:6.3", 0, 3], "say": "The short line. Horace’s has five syllables and Conington’s four, which his preface says he chose to give its effect. Horace fills it with two nouns for manner joined by *and*, and Conington keeps a pair." },
+      { "a": ["6.0", 1, 1], "b": ["p:6.1", 1, 1], "say": "*Of Dirce*, a spring near Thebes, where Pindar was born. The swan of Dirce is Pindar. Neither version names him in these lines." },
+      { "a": ["6.2", 4, 4], "b": ["p:6.2", 5, 5], "say": "*Of Mount Matinus*, in Apulia. Horace was born at Venusia, on the border of Apulia." },
+      { "a": ["7.0", 1, 1], "b": ["p:7.0", 1, 1], "say": "*Plucking*: the verb for picking flowers and fruit, and for bees gathering. In *Odes* I.11 its object is the day, and there the dictionary glosses it *enjoy, make use of*." },
+      { "a": ["7.2", 2, 2], "b": ["p:7.3", 1, 1], "say": "*Costing much trouble.* The edition printed here thinks the word may describe how nearly all the *Odes* were made." },
+      { "a": ["7.2", 3, 3], "b": ["p:7.2", 3, 4], "say": "*Small.* The word agrees with *I*, four lines back: it is the speaker who is small. Conington says it of his powers." },
+      { "a": ["7.3", 1, 1], "b": ["p:7.2", 1, 1], "say": "*I shape*: properly *to handle*, and Cicero uses the verb of nests and honeycombs. It is the last word of Horace’s sentence. Conington ends on the song." }
+     ],
+     "caption": "Conington’s preface gives his stand-in for the Sapphic stanza: three lines of eight syllables and a fourth of four, to give the effect of the short last line, with alternate rhymes. He counts twenty-eight English syllables against thirty-eight Latin ones, and says he was constantly obliged to leave out part of the Latin. Here the high tracts of the clouds become <b>skies</b>, the thyme is only <b>sweets</b>, and the grove and the wetness of Tibur are gone. He keeps the turn in the middle of the third line, the full stop and then <b>I</b>. Horace’s sentence ends on its verb, <b>fingo</b>, I shape. Conington moves the verb up a line.",
+     "why": "By his own account Conington gave the Sapphic twenty-eight English syllables for thirty-eight Latin and had to leave things out; here he keeps the stanza’s shape and the turn in mid-line, and drops the detail of place.",
+     "grounds": [
+      { "claim": "which words answer which; Conington’s lines of eight, eight, eight and four syllables, rhymed first with third and second with fourth; his sentence turns in the middle of his third line; he has no word for the grove or for the wetness of Tibur; his last word is the song", "kind": "plate" },
+      { "claim": "for the Sapphic he chose three eight-syllable iambic lines and a fourth of four syllables, as giving the effect of the Adonic, with alternate single rhymes; twenty-eight syllables of English for thirty-eight of Latin is rather short, and he was constantly obliged to omit some part of the Latin", "kind": "source", "source": "John Conington, preface to The Odes and Carmen Saeculare of Horace (first edition 1863; the third edition as Project Gutenberg prints it, no. 5432)" },
+      { "claim": "the senses of the Latin words tied", "kind": "source", "source": "Lewis and Short under Dirce, Matinus, Venusia, carpo (I, and II.B.1 citing Odes I.11), operosus, parvus, fingo, mos and modus (both citing the short line), altus, tractus, nubes, nemus, uvidus and thymum, each read on 2026-10-03" },
+      { "claim": "in Odes I.11 the same verb has the day for its object", "kind": "text", "source": "Odes I.11, row 1.3 of the hosted Latin" },
+      { "claim": "the adjective of the songs describes, perhaps, the process by which nearly all the Odes were produced; Pindar was born at Thebes, near which was the fountain Dirce", "kind": "source", "source": "the notes on lines 25 and 27 of Ode II of Book IV in the hosted edition (Macleane, revised by Chase, 1895)" }
+     ],
+     "stands": "The two versions side by side, and the words tied between them. Conington’s reasons are his own, from the preface to his translation. The Latin words: Lewis and Short’s dictionary under each, and the notes of the edition printed here. The same verb with the day as its object: [*Odes* I.11](#/read/horace-la/o1-11:1)."
+    },
+    {
+     "kind": "shape",
+     "label": "Book",
+     "what": "the measures of the 103 odes",
+     "facts": {
+      "odes in all": 103,
+      "measures in all": 13,
+      "in the Alcaic stanza": 37,
+      "in the Sapphic stanza": 25,
+      "in the five Asclepiadic stanzas": 34,
+      "in the six other measures": 7,
+      "books": [ { "book": "Book I", "odes": 38 }, { "book": "Book II", "odes": 20 }, { "book": "Book III", "odes": 30 }, { "book": "Book IV", "odes": 15 } ],
+      "measures": [
+       { "measure": "Alcaic stanza", "odes": 37, "named for": "Alcaeus of Lesbos", "in": { "I": [9, 16, 17, 26, 27, 29, 31, 34, 35, 37], "II": [1, 3, 5, 7, 9, 11, 13, 14, 15, 17, 19, 20], "III": [1, 2, 3, 4, 5, 6, 17, 21, 23, 26, 29], "IV": [4, 9, 14, 15] } },
+       { "measure": "Sapphic stanza", "odes": 25, "named for": "Sappho of Lesbos", "shown here": "the third passage, from Odes IV.2", "read": "horace-la/o4-02:6", "in": { "I": [2, 10, 12, 20, 22, 25, 30, 32, 38], "II": [2, 4, 6, 8, 10, 16], "III": [8, 11, 14, 18, 20, 22, 27], "IV": [2, 6, 11] } },
+       { "measure": "Lesser Asclepiadics throughout", "family": "Asclepiadic", "odes": 3, "in": { "I": [1], "III": [30], "IV": [8] }, "note": "the edition’s First Asclepiadic; III.30 is here" },
+       { "measure": "Three lesser Asclepiadics and a Glyconic", "family": "Asclepiadic", "odes": 9, "in": { "I": [6, 15, 24, 33], "II": [12], "III": [10, 16], "IV": [5, 12] }, "note": "the edition’s Second Asclepiadic; Allen and Greenough call it the third" },
+       { "measure": "Glyconic and lesser Asclepiadic by turns", "family": "Asclepiadic", "odes": 12, "shown here": "the second passage, from Odes I.3", "read": "horace-la/o1-03:5", "in": { "I": [3, 13, 19, 36], "III": [9, 15, 19, 24, 25, 28], "IV": [1, 3] }, "note": "the edition’s Third Asclepiadic; Allen and Greenough call it the second" },
+       { "measure": "Two lesser Asclepiadics, a Pherecratic and a Glyconic", "family": "Asclepiadic", "odes": 7, "shown here": "the first passage, from Odes I.14", "read": "horace-la/o1-14:0", "in": { "I": [5, 14, 21, 23], "III": [7, 13], "IV": [13] }, "note": "the edition’s Fourth Asclepiadic" },
+       { "measure": "Greater Asclepiadics throughout", "family": "Asclepiadic", "odes": 3, "in": { "I": [11, 18], "IV": [10] }, "note": "the edition’s Fifth Asclepiadic; I.11 is here" },
+       { "measure": "Greater Sapphic stanza", "odes": 1, "in": { "I": [8] } },
+       { "measure": "Alcmanian", "odes": 2, "in": { "I": [7, 28] } },
+       { "measure": "First Archilochian", "odes": 1, "in": { "IV": [7] } },
+       { "measure": "Fourth Archilochian", "odes": 1, "in": { "I": [4] } },
+       { "measure": "Hipponactean", "odes": 1, "in": { "II": [18] } },
+       { "measure": "Lesser Ionic", "odes": 1, "in": { "III": [12] } }
+      ],
+      "spoken of": [ { "ode": "III.30", "as": "where Horace says what he will be known for", "read": "horace-la/o3-30:3" } ],
+      "source": "The Introduction to the Metres in the hosted edition (Macleane, revised by Chase, 1895; its contents credit the introduction to Beck), read on 2026-10-03: thirteen metres, each with its list of odes. The lists were added up by hand and checked book by book: every ode of each book falls in exactly one list (38, 20, 30 and 15). Allen and Greenough, section 626, gives the same lists for the Alcaic and the Sapphic. The number of odes in each book was counted in the hosted Latin. Examiner, 2026-10-03, recounted three ways. (1) A script read the edition’s own Index to the Metres of the Odes, a second place in the same book, and compared it with the thirteen lists here: identical, 103 odes, each in one list. (2) Allen and Greenough, section 626, gives the same lists for all five Asclepiadic stanzas as well as the Alcaic and Sapphic (its second and third are the edition’s third and second). (3) Every ode of the hosted Latin was scanned with build/tools/latin.mjs against the measure its list gives it: of 2,850 rows in the ninety-six odes in Alcaic, Sapphic and Asclepiadic measures 2,809 fit, and no ode has more than four rows off; the seven odes in the six other measures have rows of the syllable counts those measures need. The names of the five Asclepiadic stanzas were reworded to one pattern, using the name both books give the line (lesser and greater Asclepiadic); key names and shapes are unchanged. Finisher, 2026-10-03: the key spoken of was added, as the artist proposed, for the ode the caption’s fifth sentence speaks of. III.30 is the last of the thirty odes of Book III; the claim stands at rows 3.0 to 3.1 of the hosted Latin (block 3, the place given as read), with its verb at row 2.1. The Alcaic and Sapphic lists were counted again by script: 37 and 25, 62 of the 103."
+     },
+     "caption": "The <i>Odes</i> are 103 poems in thirteen measures. Thirty-seven are in the Alcaic stanza and twenty-five in the Sapphic: sixty-two of the 103 in two stanzas named for Alcaeus and Sappho, Greek poets of Lesbos. Thirty-four are in the five stanzas called Asclepiadic, the odes of the first two passages here among them. Seven odes share the other six measures. In the last ode of his third book Horace says what he will be known for: that he first brought Aeolian song over to Italian measures. The edition printed here takes Aeolian song to mean Alcaeus and Sappho, his chief models. Edward Mendelson writes that Auden shaped Horatian stanzas in English by counting syllables, as in his elegy for Freud.",
+     "why": "Sixty-two of the 103 odes are in the two stanzas named for poets of Lesbos, and Horace claims that he first brought their song into Italian measures; by Mendelson’s account Auden made Horatian stanzas in English by syllable count.",
+     "grounds": [
+      { "claim": "103 odes in four books; thirteen measures; 37 Alcaic and 25 Sapphic, 62 together; 34 in the five Asclepiadic stanzas, 7 in six other measures; the stanzas of I.14 and I.3", "kind": "source", "source": "the Introduction to the Metres in the hosted edition (Macleane, revised by Chase, 1895), with the odes of each book counted in the hosted Latin; recounted by the examiner from the edition’s Index to the Metres, from Allen and Greenough, section 626, and by scanning every ode of the hosted Latin (see the source note in facts). Finisher, 2026-10-03: the sum, 62 of 103, was counted by script from the lists in facts; the edition’s Introduction to the Metres (its sections 6 and 8) gives the same two lists, of twenty-five and thirty-seven odes" },
+      { "claim": "the Alcaic stanza is named after Alcaeus of Lesbos and the Sapphic after Sappho of Lesbos", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), section 626, the two notes (read again by the finisher at the Perseus Digital Library on 2026-10-03: thirty-seven odes in the Alcaic, twenty-five in the Sapphic)" },
+      { "claim": "Horace says he will be spoken of as the first to have brought Aeolian song to Italian measures", "kind": "text", "source": "Odes III.30, rows 2.1 and 3.0 to 3.1 of the hosted Latin; Lewis and Short under princeps (first in time or order), Aeolius (III: a Sapphic or Alcaic ode), deduco (this line: transfer, transplant) and modus (2: in poetry, measure, metre). Finisher, 2026-10-03: the ode read through in the hosted Latin, four blocks; block 3 is the place the ring in the drawing now opens, and the edition’s argument of the ode says the same (it will be said that he was the first)" },
+      { "claim": "Horace considered Alcaeus and Sappho his chief models in lyric poetry, and sums them up as Aeolian song", "kind": "source", "source": "the note on line 12 of Ode XXX of Book III in the hosted edition" },
+      { "claim": "Auden shaped syllabic verse into Horatian stanzas in his elegy for Freud, in a strict count of syllables", "kind": "source", "source": "Edward Mendelson, Early Auden, Later Auden: A Critical Biography (2017), p. 416. Horatian stanzas is Mendelson’s name; the elegy was not seen, so the caption gives the statement as his (examiner). Both Allen and Greenough (626, note) and the edition’s Introduction to the Metres say the Alcaic is also called the Horatian stanza; whether Mendelson means the Alcaic was not checked and is not claimed. The caption had Auden shape them “in turn”: that link was the page’s own, and the finisher cut the two words" }
+     ],
+     "stands": "Counted from the “Introduction to the Metres” and the index of metres in the edition printed here, which agree with Allen and Greenough’s *New Latin Grammar*, section 626, on every list it gives. Horace’s claim: [*Odes* III.30](#/read/horace-la/o3-30:3), with Lewis and Short under *princeps*, *Aeolius* and *deduco*. Auden’s syllabic Horatian stanzas: Edward Mendelson, *Early Auden, Later Auden* (2017), p. 416."
+    }
+   ]
+  }
+ ],
+ "auden": [
+  {
+   "says": "In *The Enchafèd Flood* Auden also says what the older writers put in the ship’s place. A society in its ordinary state is pictured as a City or a Garden, the places where people wish to be and should be. A voyage is then an evil that has to be accepted, a crossing of what divides. Odysseus and Jason do not sail for the sake of sailing: one wants only to get home, and the other is after the Golden Fleece, in a far country. A ship of state that takes to the high seas by choice stands for a state in disorder: he calls it the Ship of Fools.",
+   "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 7–8",
+   "checked": "read in the scan of The Enchafèd Flood, research/auden/ef.txt, lines 372-395 (p. 7 ends at line 386, p. 8 begins at line 389), on 2026-10-03. Finisher, same day: his own sentence on the ship that chooses the high seas is at lines 393-395 and gives the name in apposition. The entry’s last five words matched line 407, in the old English text he quotes just after it, so they now read “he calls it the Ship of Fools”; the run left is the name with its article, four words"
+  },
+  {
+   "says": "Against this older view he sets what he calls the new notes of the Romantic attitude. He lists four. The first is that any man of feeling and honor wants to leave both land and city. The second is that the sea is where man really is, and that to be on a voyage is his true state. The book is about that later attitude. It quotes Horace twice, both times for the earlier one, which Auden for convenience calls the classic attitude.",
+   "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 10 and 12–13",
+   "checked": "read in the scan of The Enchafèd Flood, research/auden/ef.txt, lines 571-578, on 2026-10-03; the page number 12 stands at the foot of that page. Examiner: the name classic attitude, given for convenience, is at lines 511-513 (the number 10 stands at the foot, line 516); the name Horace occurs twice in the scan, at lines 360 and 472, the two quotations. Finisher, 2026-10-03, in the same scan: he numbers four new notes, at lines 574, 577, 599 and 603; the page number 12 stands between the second and the third (line 594), so the third and fourth are on p. 13. The entry gives the first two and now says that he lists four"
+  },
+  {
+   "says": "Donald Pearce, who took the class in 1941, recalls going to see Auden about it that September, before the term began. Auden named some of the writers the course would take up, and Horace was the first name he gave.",
+   "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 133",
+   "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, line 3, on 2026-10-03; the number 132 stands at the foot of the page before and 133 at the foot of this one"
+  },
+  {
+   "says": "Writing with Chester Kallman about translating opera, Auden sets the two ways of measuring verse side by side. In verse measured by quantity, as Greek and Latin verse is, each syllable counts as long or as short, with a long counted as equal to two shorts. In verse measured by accent, as English and German verse is, the length of syllables is left out of account, and what tells them apart is whether they are accented. Music, the two authors say, measures in both ways at once.",
+   "source": "“Translating Opera Libretti” (written with Chester Kallman), in *The Dyer’s Hand* (1962), p. 485",
+   "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 22791-22799, on 2026-10-03; the running head of p. 485 is at line 22779 and the essay’s heading, with Kallman’s name, at line 22703"
+  },
+  {
+   "says": "Of Greek, not Latin, Auden wrote that poetry always loses a great deal when it is moved from one language to another, and that between two languages as distant as Greek and English one can nearly say that a version which succeeds as an English poem is by so much less like the Greek one. Unrhymed verse measured by length and rhymed verse measured by accent share only that both are patterns of rhythm. Greek, he adds, marks its words by their endings, so that its sense does not hang on where a word stands, as the sense of an English sentence does.",
+   "source": "“The Greeks and Us,” in *Forewords and Afterwords* (1973), pp. 5–6",
+   "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 280-311, on 2026-10-03; pages counted from the essay’s first page (p. 3 in the contents) by the running heads: p. 5 begins at line 250 and p. 6 at line 298"
+  },
+  {
+   "says": "Edward Mendelson’s biography records that Auden took Marianne Moore’s way of counting syllables and shaped it into Horatian stanzas, first in the poem “Where do They come from?” and then in his elegy for Freud. It also records what Auden said to James Michie, a translator of Horace whom he admired, about his “Thanksgiving for a Habitat”: he had set out on purpose to write the poem Horace might write as a living poet whose first language was English. Of “River Profile,” a poem of 1966, Mendelson says that it is written in twelve Sapphic stanzas.",
+   "source": "Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (2017), pp. 416, 747 and 773",
+   "checked": "read in the full text of the book at the Internet Archive (saved in the scratchpad as horace/mend.txt), lines 21040-21055 (p. 416, its head at line 21036) and 37967-37970 (p. 747, its head at line 37940), on 2026-10-03; Auden’s letter or talk with Michie was not seen, only Mendelson’s report of it. Examiner: both pages read again in the same full text, fetched again from the Internet Archive; Horatian stanzas is Mendelson’s name for them. The sentence on “River Profile” is at lines 39273-39276 (p. 773, its head at line 39259); the poem itself was not seen"
+  },
+  {
+   "says": "In the spring of 1968 Auden wrote “The Horatians,” a poem about people of Horace’s kind, among them, by Edward Mendelson’s account, country clergy, curators and writers of short poems. It ends with the creed they have learned from Horace: set beside Pindar as makers, and beside real martyrs such as Regulus as lives, they rank themselves low; all they can do is the work they are fitted for, taking a glad and sober view of the world. Mendelson calls this creed quietly self-satisfied, and says its speakers are wrong about Regulus in a way clear to Auden.",
+   "source": "“The Horatians” (written 1968; in *City Without Walls*, 1969), as described and quoted in Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (2017), pp. 778–79",
+   "checked": "read in the full text of Mendelson’s book (scratchpad horace/mend.txt), lines 39553-39586, on 2026-10-03; the heads of pp. 778 and 779 are at lines 39515 and 39570-39571. The poem itself was not seen whole: Mendelson prints its close (ten lines of verse, at lines 39562-39581) and one phrase from earlier in it; he comes back to the poem on p. 781 (lines 39696-39700). Examiner: read again in the same text. What Mendelson calls wrong, and clear to Auden, is what the speakers say of Regulus (lines 39583-39590); the entry said only that Auden knew the speakers to be wrong, and now says about what"
+  },
+  {
+   "says": "At the end of an essay on Pope, Auden wrote that poetry is no escape from life, though it gives a short rest from the troubles of the moment. He adds that with age, and in darker and harder times, Horace and Pope are the kind of poet he goes back to more and more often for that rest.",
+   "source": "“A Civilized Voice,” in *Forewords and Afterwords* (1973), p. 124",
+   "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 6039-6044, on 2026-10-03; the page number 124 stands at the foot, at line 6047, and the contents list gives the essay as pp. 109 to 124"
+  }
+ ],
+ "next": "horace/o1-01:0",
+ "sources": [
+  "The Latin text: *The Works of Horace, with English Notes*, by A. J. Macleane, revised and edited by Reginald H. Chase (Boston: Allyn and Bacon, 1895), as Project Gutenberg prints it (no. 46938). Its notes on *Odes* I.3, I.14, III.30 and IV.2 and its “Introduction to the Metres,” with the index of metres after it, are used here.",
+  "The English: John Conington, *The Odes and Carmen Saeculare of Horace, Translated into English Verse* (first published in 1863), the third edition (London: Bell and Daldy, 1865), as Project Gutenberg prints it (no. 5432), with his preface and his note on *Odes* I.3.",
+  "Other places in the same Latin text: the whole of [*Odes* I.14](#/read/horace-la/o1-14:0), the third stanza of [*Odes* IV.2](#/read/horace-la/o4-02:2), [*Odes* I.11](#/read/horace-la/o1-11:1) and [*Odes* III.30](#/read/horace-la/o3-30:3).",
+  "W. H. Auden, *The Enchafèd Flood, or The Romantic Iconography of the Sea* (1950; Vintage Books edition, 1967), pp. 6–10 and 12–13.",
+  "Horace, *The Odes and Epodes*, with an English translation by C. E. Bennett (Loeb Classical Library; first published 1914), in a later printing at the Internet Archive: the edition named on Auden’s reading list, compared here for the two places he quotes and for the third passage.",
+  "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Translating Opera Libretti,” written with Chester Kallman, p. 485.",
+  "W. H. Auden, *Forewords and Afterwords* (1973): “The Greeks and Us,” pp. 5–6; “A Civilized Voice,” p. 124.",
+  "W. H. Auden, “The Horatians” (written in 1968; in *City Without Walls*, 1969): not seen in full; its close as quoted by Edward Mendelson.",
+  "Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (Princeton University Press, 2017), pp. 416, 747, 773 and 778–79.",
+  "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 133.",
+  "Charlton T. Lewis and Charles Short, *A Latin Dictionary* (Oxford, 1879), at the Perseus Digital Library: the entry for each Latin word glossed, among them navis, fluctus, portus, occupo, nequiquam, abscindo, prudens, dissociabilis, impius, tango, ratis, transilio, vadum, Dirce, cycnus, Matinus, Venusia, carpo, multus, nemus, operosus, parvus, fingo, mos, modus, numerus, solvo, princeps, Aeolius and deduco.",
+  "Allen and Greenough’s *New Latin Grammar* (Boston: Ginn, 1903), at the Perseus Digital Library: sections 12 (the accent), 110 and 286 (adjectives and their agreement), 500 (the form of the verb for what ought to be done), 595 to 598 (the order of words), 607, 608 and 611 (long and short syllables, the beat, the break in a line), 625 and 626 (the lyric lines and stanzas of Horace), and 641 (the names of figures; this section at Dickinson College Commentaries).",
+  "Quintilian, *Institutio Oratoria*, book 8, chapter 6, section 44: the Latin at The Latin Library; the English of H. E. Butler (Loeb Classical Library, 1920–22) at LacusCurtius, with Butler’s introduction.",
+  "Cicero, *Pro Sestio*, sections 45–46 (the ship of the commonwealth): the Latin at The Latin Library, found through Lewis and Short under *navis*. His uses of *fingo* for nests and honeycombs are known here only from Lewis and Short’s citations under *fingo*.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu), under *antithesis*.",
+  "Online Etymology Dictionary: transgress, providence, prudent, hubris."
+ ],
+ "caveats": [
+  "The dots mark the accent each Latin word has in speech, by the rule in Allen and Greenough’s grammar; words of one syllable are marked as one reader would say them. That grammar also teaches a beat of the voice within each foot, which is not drawn here.",
+  "Auden’s remarks on verse measured by length, on what translation loses and on languages that mark words by their endings were made of Greek, or of Greek and Latin together. He did not make them about these lines.",
+  "What is said here of Auden’s poems “The Horatians” and “River Profile,” of his elegy for Freud and of his remark to James Michie comes from Edward Mendelson’s biography; the poems were not read whole. Mendelson calls the creed that closes “The Horatians” quietly self-satisfied, its speakers wrong about Regulus.",
+  "In the third passage *plurimum*, very much, is left unmarked. The edition printed here takes it with the word for labor; the translator of the Loeb edition takes it with the grove, and puts the grove and the banks with the bee’s gathering, where Conington puts them with the speaker.",
+  "The Latin here is a school edition of 1895, the English a translation of 1863 as printed in 1865. Auden’s reading list names the Loeb edition, and his quotations follow its Latin: in line two of the first passage it has an exclamation mark, not the question mark printed here."
+ ],
+ "open": [
+  "“The Horatians” (City Without Walls, 1969; research note C gives pp. 26-28 from a snippet) was not seen. What the piece says of its close stands on the ten lines Mendelson quotes (pp. 778-79). Mendelson reads the creed as self-satisfied and says Auden knew its speakers were wrong about Regulus (he returns to the poem on p. 781). The Contrast caption reports only what the speakers say of Pindar; the third caveat says the rest.",
+  "Auden’s remark to James Michie about “Thanksgiving for a Habitat” is known only from Mendelson, p. 747. The letter or conversation was not seen, and the remark is paraphrased, not quoted.",
+  "Nothing by Auden on these three odes as poems was found beyond the two quotations in The Enchafèd Flood, and nothing of his on IV.2, I.11 or III.30. Research note C records the first line of Odes I.38 in the notes to New Year Letter, from a snippet; it was not seen and is not used. His remarks on prosody, translation and inflected languages were made of Greek, or of Greek and Latin together (second caveat).",
+  "The syllabus names the Loeb edition (research notes A and D: Latin with C. E. Bennett’s prose translation, 1914). The poet could not open it; the examiner did, in a later printing, and compared its English with the versions under Auden’s two quotations (see the item below that begins “From the examiner: the Loeb”). Auden prints the short question in the second line of the first passage with an exclamation mark; the Latin shown has a question mark, and since the examiner’s pass the Measure caption names neither.",
+  "Conington’s third edition is of 1865: the examiner read the title page in a scan, and the Internet Archive’s record of that scan (odesandcarmensc00flacgoog) gives the same year (finisher). The label over the English read “Conington, 1863” until the lead set it to “Conington, 1865” on 3 October, and the fifth caveat now gives both years. Whether the three passages read the same in the first edition, of 1863, was not checked.",
+  "Stanza names differ from book to book: the edition shown calls the stanza of I.3 the Third Asclepiadic, Allen and Greenough call it the second, and Conington calls the stanza of I.14 the fourth Asclepiad. The Book tab names these stanzas by their lines and keeps the numbers in working notes. The count of thirteen measures and the lists of odes are the edition’s; Allen and Greenough (626) agree on 37 Alcaic and 25 Sapphic odes, and their “nineteen varieties of stanza” takes in the Epodes.",
+  "Three rows of IV.2 (0.1, 5.1 and 5.2) do not fit the Sapphic pattern as the scanning tool divides them: the first has a consonant i in a name, and the other two end in an enclitic whose vowel runs into the next line. None is shown. The Measure caption claims a word-end after the fifth syllable only for the six long lines shown; “fifteen times” rests on the shape of the text and on Allen and Greenough, 626.",
+  "The dots on words of one syllable are my marking: the interjections and the question word carry a dot, the prepositions, the conjunction and the pronoun in the first line of the first passage do not. Allen and Greenough also teach a beat of the voice in each measure (608 note, 611a), which the beat lens does not draw (first caveat).",
+  "In the third passage plurimum is taken with the word for labor on the edition’s note to line 27. Both endings fit, so it could go with the grove next to it (fourth caveat). The examiner has since taken it out of the chain, which is now marked “much and small” (see below).",
+  "Known at second hand only: Cicero’s uses of fingo (from Lewis and Short’s citations; his Pro Sestio 45 to 46, found the same way, was later read by the examiner); Milton’s version of Odes I.5 and the line of Matthew Arnold’s (from Conington’s preface and note); the ode of Alcaeus that I.14 is said to imitate (from the edition’s note). The Greek verb the edition compares with the last verb of the third passage was not looked up.",
+  "For the artist: the allegory is drawn as a list of three single parts, each with its own tag, because a map would join ship to waves; the interlocked order and the contrast are drawn as chains. In both chains the parts of one tag share one label, so each key has one row to a tag (five on the second passage, four on the third). In the two Measure tabs the lone bar in each long line marks the regular break of the measure (after the sixth syllable in the first passage, the fifth in the third). It is a stop in the sense only in the second line of the first passage and the third line of the third.",
+  "Each passage has a tab called English, three in all. Each says a different thing and each stands on Conington’s own preface (his stand-in for the stanza; the word order; what he leaves out). If the lead wants fewer, the one on the first passage is the easiest to spare.",
+  "Only one sentence of Auden’s is quoted (the view’s quote, eleven words, The Enchafèd Flood p. 9). Everything else of his, and of Mendelson and Pearce, is in my own words: a check for runs of five or more words shared with the scans finds only titles and the name of the Ship of Fools.",
+  "From the examiner: the Loeb (C. E. Bennett) was opened, in a later printing at the Internet Archive (item in.ernet.dli.2015.98705). This settles the fourth item above. Its Latin has an exclamation mark after w3 of row 0.1 of the first passage, as Auden’s quotation has, and its spelling of w0 of row 5.0 of the second passage is Auden’s too. The English under Auden’s stanza of I.3 is Bennett’s with two words changed; the English under his lines of I.14 is not Bennett’s. Whether the printing Auden used read the same as this later one was not checked. Auden’s printing ends w2 of row 5.1 in -e where both editions have -i: a slip of the printer or of the scan, not shown.",
+  "From the examiner: Conington’s third edition is London, Bell and Daldy, 1865 (title page read in the scan odesandcarmensc00flacgoog at the Internet Archive), and the sixteen English rows shown read the same there. Its preface says the changes are more numerous than in the second edition but the work is substantially unaltered. The first edition of 1863 was not found, so the wording of 1863 is still unchecked (fifth item above). The pair label kept 1863, the year in the site’s index of texts, until the lead set it to 1865 on 3 October; the text shown is that of 1865.",
+  "From the examiner: plurimum (w0 of row 7.1) was taken out of the Contrast chain (ninth item above). The edition’s note takes it with the word for labor, Bennett’s Loeb with the grove; the fourth caveat says so. Bennett also puts the grove and banks with the bee’s gathering, so the caption now paraphrases the second sentence in the order of the Latin and does not say what the place belongs to.",
+  "From the examiner: prudens (w0 of row 5.1). Lewis and Short call the sense foreseeing very rare and cite this line under knowing, wise (II.A.2.b); the edition’s note reads foreseeing the evil to come; the Loeb’s English, which Auden prints, makes it the god’s purpose. The gloss now gives both senses and the Words note says which book says which. The Order label read the foreseeing god, on the edition’s note, until the finisher gave it both senses (the god, foreseeing or knowing) and did the same in the second remark of the English tab.",
+  "From the examiner: cut from the Words tab, the sentence that Remus was killed for his leap. It is true to Livy 1.7, but no source opened ties it to Horace’s verb, and the dictionary’s other objects (flames, nets, a river) carry no blame. Livy is no longer among the sources.",
+  "From the examiner: added to the Mendelson entry, his statement that “River Profile” (1966) is in twelve Sapphic stanzas (p. 773). Not checked: whether the Horatian stanzas of the Freud elegy are the Alcaic by syllable count. Allen and Greenough and the edition both say the Alcaic is also called the Horatian stanza, but neither poem of Auden’s is on this machine, so the piece does not join the two facts.",
+  "From the examiner: still at second hand (tenth item above): Milton’s version of Odes I.5 and Arnold’s line (through Conington), the ode of Alcaeus (through the edition’s note), Cicero’s uses of fingo (through Lewis and Short), and the Greek verb the edition compares with the last verb of the third passage. Cicero’s Pro Sestio 45 to 46 was read in Latin at The Latin Library and is no longer second-hand.",
+  "From the examiner, for the artist: the size chain on the third passage now has two parts, six lines of type apart, so they share a color and no stroke; its key reads much and small, and the how key reads breeze and labor. In the Book facts the five Asclepiadic measures were renamed to one pattern (Lesser Asclepiadics throughout, and so on) and four totals were added after measures in all (37, 25, 34 and 7), so that the plain table shows the caption’s numbers until the tab is drawn; the other key names and shapes are as the poet left them. The kit’s key called the bar in the two Measure tabs a pause, though five of the eight bars mark only the regular break of the line; the lead has since made it “the break in the line”. The three English tabs were not cut; exam.md gives my view.",
+  "From the finisher (3 October): set after the critic, each on a ground opened in that run (notes.md, the last section): what a long syllable is (the first Measure caption), the sum on the Book tab, the ring on the last ode of Book III (spoken of, in facts), who Iulus Antonius was and what the third passage is about (about), and the troubles of Mitylene (Allegory). The grammar’s sections on the order of words (595 to 599) were opened: nothing in them calls the rules rules of prose, but the examples under 597 and 598a are prose, and the Order caption and the first Words note now say so. Still open: Mendelson’s book was not opened again, so the sentences that rest on it were only made to say less; Conington’s first edition is still unseen; the dot row of the key on the two Measure tabs is the kit’s; the three tabs named English are the lead’s."
+ ]
+}

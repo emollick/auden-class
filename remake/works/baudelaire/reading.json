@@ -1,0 +1,1208 @@
+{
+  "piece": "baudelaire",
+  "title": "The dandy’s warning",
+  "where": "*Intimate Journals*: *Rockets*, XIII and XXVI; *My Heart Laid Bare*, LXXII and LXXIX",
+  "about": "Baudelaire writes these notes to himself on loose sheets in about his last ten years. He has a stroke in 1866 and dies in 1867; the notes are printed after his death, in the order his publisher pasted them. The first passage is from the last entry of *Rockets*, which says the world is ending and foretells an age that honors only money. The other two are from late entries of *My Heart Laid Bare* that begin with the word *Hygiene*; beside the third stands a maxim from *Rockets*, XIII.",
+  "view": {
+    "says": "Auden reads the journals through Baudelaire’s dandy, whose one ambition is to become conscious that he is uniquely himself and like no one else. A thought contrary to the dandy, he says, runs through them from the start: to love is to give oneself where a neighbor needs it. It seems to surface only now and then before the crisis of January\u00a023,\u00a01862. After it he finds the heart truly changed.",
+    "quote": "a man fighting against time to eradicate a lifetime’s habits of thought and feeling, and set himself in order and acquire a history",
+    "source": "Introduction to Charles Baudelaire, *Intimate Journals*, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), pp. 18–20 and 25–27; the closing pages are also in *Prose*, vol. II (2002), pp. 314–15",
+    "checked": "research notes, remake/research/C_auden_on_works.md, section 16 and appendix H5 and H17l; and the full-text search snippets of the 1947 edition at archive.org (item intimatejournals0000char_k2x1), chained phrase by phrase and read again on 2026-10-03. Examined the same day: the examiner chained pages 18 to 27 of that scan again (heads 19, 20, 21, 22, 23, 24, 25, 26, 27 in order, three of them garbled) and read the quoted sentence there and in Prose, vol. II, p. 314 (archive.org item prosetravelbooks0000aude), where it stands word for word. Finisher, 2026-10-03: the sentence on the Dandy’s ambition (p. 20) was read again in three single searches of the same scan (archive.org’s public full-text search of item intimatejournals0000char_k2x1) and in the research notes, appendix H5. What he wants to become conscious of has two halves joined by “and”. The first sentence of the view could be read as giving one; it now gives both, and build/tools/runs.py finds no run of four words that it shares with the extract. Then every run of five words of the view was searched as an exact phrase in the same scan (68 searches, with finisher/grams.py): one stood there, in the third sentence, the five words that lead up to the day of the month (Auden’s sentence on p. 25, where he says how often the thought came before the crisis). One word was changed: until became before"
+  },
+  "plates": [
+    {
+      "id": "evening",
+      "place": "",
+      "heading": "Rockets, XXVI: the tired man",
+      "beside": true,
+      "text": "baudelaire/rockets",
+      "rows": [
+        "126.0[27-134]"
+      ],
+      "label": "Shipley",
+      "pair": {
+        "label": "Baudelaire",
+        "text": "o-baudelaire/fusees-xv",
+        "rows": [
+          "0.0[23-131]"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Likeness",
+          "name": "simile",
+          "plain": "a comparison that says one thing is like another; here the word is *as*",
+          "draw": "chain",
+          "parts": [
+            {
+              "row": "126.0",
+              "w": [
+                36,
+                36
+              ],
+              "tag": "A",
+              "label": "the writer"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                38,
+                41
+              ],
+              "tag": "B",
+              "label": "the likeness"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                71,
+                72
+              ],
+              "tag": "B",
+              "label": "the same man"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                107,
+                115
+              ],
+              "tag": "C",
+              "label": "his pride"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                116,
+                116
+              ],
+              "tag": "B",
+              "label": "now *he*"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                129,
+                129
+              ],
+              "tag": "B",
+              "label": "his *me*"
+            }
+          ],
+          "caption": "The writer likens himself to someone, <b>I am as a tired man</b>, and keeps the man. The next sentence is about <b>that man</b>: <b>he</b> speaks, the <b>me</b> in the quotation is his, and no <i>I</i> comes back before the paragraph ends. The French does the same: <i>un homme</i>, <i>cet homme</i>, <i>il</i>. So the pride of the last lines is told of a third person, and by comparison: he is <b>proud</b> of being <b>less base</b> than the people who pass. Auden lists this pride among the dandy’s traits. The dandy’s mistake, he says, is to think one becomes an individual in spirit by becoming unlike other people.",
+          "why": "The simile turns I into a man and keeps him, so his pride is told of a third person, by comparison with the passers-by; Auden calls it the dandy’s mistake to seek individuality in being unlike others.",
+          "grounds": [
+            {
+              "claim": "the chain from I to as a tired man, that man, he and me; the same chain in the French of the pair (un homme, cet homme, il); the phrase of pride, words 107 to 115, qualifies he and is a comparative, less base than",
+              "kind": "plate"
+            },
+            {
+              "claim": "a simile is a comparison of two things in which both are mentioned and the comparison is stated outright",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, simile"
+            },
+            {
+              "claim": "no I stands between the simile and the end of the paragraph; the me in the quotation is the man’s; the pride of words 107 to 115 is his",
+              "kind": "text",
+              "source": "rockets 126.0, words 38 to 134, each word looked at"
+            },
+            {
+              "claim": "Auden’s list of the Dandy’s traits includes his pride at being less base than the people passing, which is this sentence in Isherwood’s translation",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), p. 19; read by the examiner in the archive.org search snippets on 2026-10-03"
+            },
+            {
+              "claim": "the Dandy’s mistake: a man who has become self-conscious must set about becoming an individual in spirit, and the mistake is to think of this as becoming what other people are not, where Auden’s alternative is becoming what one wills",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), pp. 24–25: the sentence runs across the page turn, and the next sentence begins the thread of thought contrary to the Dandy; read by the examiner in the archive.org search snippets on 2026-10-03"
+            }
+          ],
+          "stands": "The marks on Shipley’s English, and the same words in Baudelaire’s French beside it. What a simile is: Online Etymology Dictionary, under *simile*. Auden, Introduction to the *Intimate Journals* (1947), p. 19, for the dandy’s traits, and pp. 24–25, for the dandy’s mistake."
+        },
+        {
+          "kind": "sentence",
+          "label": "Delay",
+          "spans": [
+            {
+              "from": [
+                "126.0",
+                69
+              ],
+              "to": [
+                "126.0",
+                80
+              ],
+              "tag": "when",
+              "label": "the time"
+            },
+            {
+              "from": [
+                "126.0",
+                81
+              ],
+              "to": [
+                "126.0",
+                84
+              ],
+              "tag": "state",
+              "label": "1\u00a0cradled"
+            },
+            {
+              "from": [
+                "126.0",
+                85
+              ],
+              "to": [
+                "126.0",
+                90
+              ],
+              "tag": "state",
+              "label": "2\u00a0forgetful"
+            },
+            {
+              "from": [
+                "126.0",
+                91
+              ],
+              "to": [
+                "126.0",
+                94
+              ],
+              "tag": "state",
+              "label": "3\u00a0content"
+            },
+            {
+              "from": [
+                "126.0",
+                96
+              ],
+              "to": [
+                "126.0",
+                99
+              ],
+              "tag": "state",
+              "label": "4\u00a0resigned"
+            },
+            {
+              "from": [
+                "126.0",
+                100
+              ],
+              "to": [
+                "126.0",
+                106
+              ],
+              "tag": "state",
+              "label": "5\u00a0intoxicated"
+            },
+            {
+              "from": [
+                "126.0",
+                107
+              ],
+              "to": [
+                "126.0",
+                115
+              ],
+              "tag": "state",
+              "label": "6\u00a0proud"
+            },
+            {
+              "from": [
+                "126.0",
+                116
+              ],
+              "to": [
+                "126.0",
+                117
+              ],
+              "tag": "main",
+              "label": "the main clause"
+            },
+            {
+              "from": [
+                "126.0",
+                118
+              ],
+              "to": [
+                "126.0",
+                123
+              ],
+              "tag": "while",
+              "label": "meanwhile"
+            },
+            {
+              "from": [
+                "126.0",
+                124
+              ],
+              "to": [
+                "126.0",
+                134
+              ],
+              "tag": "speech",
+              "label": "what he says"
+            }
+          ],
+          "caption": "The last sentence opens with a time, <i>The evening</i>, and forty-nine words pass before its main clause, the part that could stand alone. After the clause of time come six phrases, each headed by a word that describes the man: <b>cradled</b>, <b>forgetful</b>, <b>content</b>, <b>resigned</b>, <b>intoxicated</b>, <b>proud</b>. A handbook of composition calls this suspense: describing words set before their subject keep the sentence incomplete and throw the emphasis on its end. Six states come first, the main verb is <b>he said</b>, and the end is his question. In the other journal Baudelaire writes <i>A dandy does nothing</i>. Auden calls the dandy no man of action.",
+          "why": "Six describing phrases set before their subject hold the sentence open for forty-nine words and throw the emphasis on its end, his question; Baudelaire writes that a dandy does nothing, and Auden’s dandy is no man of action.",
+          "grounds": [
+            {
+              "claim": "where the main clause stands; the six phrases before it; forty-nine words from The evening to passed, the two pairs of words joined by dashes counted as two each",
+              "kind": "plate"
+            },
+            {
+              "claim": "the French of the pair has the same six phrases in the same order: bercé, oublieux, content, résigné, enivré, fier",
+              "kind": "plate"
+            },
+            {
+              "claim": "a participle or adjective that qualifies the subject, set before the subject, gains suspense, and an excessive use of it is French (Abbott, rule 33); in suspense the reader feels the sentence incomplete until the full stop, and one way to it is to place participles before the words they qualify (rule 30); suspense throws increased emphasis on the words waited for, that is, on the end of the sentence (the remark that closes rule 30 a); the end of a sentence is an emphatic position, mostly more so than the beginning (rules 15 and 16); the emphatic words of a sentence belong at the end, and a periodic sentence gives prominence to its main statement (Strunk, rule 18)",
+              "kind": "source",
+              "source": "Edwin A. Abbott, How to Write Clearly: Rules and Exercises on English Composition (Boston: Roberts Brothers, 1883), rules 15, 16, 30, 30 a and 33, read in Project Gutenberg no. 22600; William Strunk, Jr., The Elements of Style (New York: Harcourt, Brace, 1920; its title page gives copyright 1918 and 1919 to the author and 1920 to the publisher), rule 18, read in Project Gutenberg no. 37134"
+            },
+            {
+              "claim": "the main clause of a sentence is the clause that its phrases and dependent clauses come before or after; a clause that does not depend on another is grammatically complete and can be written as a sentence by itself",
+              "kind": "source",
+              "source": "William Strunk, Jr., The Elements of Style (1920), rules 3 and 5, read by the finisher on 2026-10-03 in Project Gutenberg no. 37134 (lines 333–335 and 421–433 of the e-text): rule 3 sets the main clause against the phrases and dependent clauses before or after it, and rule 5 calls independent clauses grammatically complete and allows them to be written as separate sentences. Opened for the plain words the critic added to the first sentence of the caption (critic.md, change 3)"
+            },
+            {
+              "claim": "A dandy does nothing",
+              "kind": "text",
+              "source": "my-heart-laid-bare, XVIII, block 77"
+            },
+            {
+              "claim": "the Dandy is no man of action and no seeker of wisdom",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), p. 20"
+            }
+          ],
+          "stands": "The marks on the passage, where forty-nine words are counted, a pair joined by a dash as two. The main clause, suspense and emphasis on the end: Abbott, *How to Write Clearly* (1883), rules 15, 16, 30, 30 a and 33; Strunk, *The Elements of Style* (1920), rules 3, 5 and 18. *A dandy does nothing*: [*My Heart Laid Bare*, XVIII](#/read/baudelaire/my-heart-laid-bare:77). Auden, Introduction to the *Intimate Journals* (1947), p. 20."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "126.0",
+              "w": [
+                75,
+                75
+              ],
+              "gloss": "French: *la destinée*",
+              "note": "The same French word is translated as *destiny* in the third passage.",
+              "source": "Project Gutenberg no. 13792, Journaux intimes, Fusées XV; Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133; Littré, destinée"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                81,
+                81
+              ],
+              "gloss": "rocked, as a baby is",
+              "note": "The French is *bercé*; Littré’s first sense of *bercer* is to rock in a cradle, and a later one is to lull.",
+              "source": "Littré, bercer"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                100,
+                100
+              ],
+              "gloss": "made drunk",
+              "note": "The French is *enivré*, and under this verb Littré records a familiar saying: he gets drunk on his own wine, which means he thinks too well of himself.",
+              "source": "Littré, enivrer"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                103,
+                103
+              ],
+              "gloss": "French: cool blood",
+              "note": "English has had the phrase since 1712.",
+              "source": "Littré, sang-froid; Online Etymology Dictionary, sang-froid"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                106,
+                106
+              ],
+              "gloss": "from English *dandy*",
+              "source": "Online Etymology Dictionary, dandy; Littré, dandy and dandysme"
+            },
+            {
+              "row": "126.0",
+              "w": [
+                132,
+                132
+              ],
+              "gloss": "French: consciousness or conscience",
+              "note": "Littré’s first sense of the French *conscience* is the feeling of oneself; his second is the soul’s secret judgment, which approves good acts and reproaches bad ones.",
+              "source": "Littré, conscience, senses 1 and 2"
+            }
+          ],
+          "caption": "<b>Sangfroid</b> is French for cool blood: in Littré’s dictionary, calm of soul, presence of mind. <b>Intoxicated</b> translates the French <i>enivré</i>, made drunk, and Littré adds a figurative sense: a moral drunkenness, as on praise. The phrase makes one man drunk on his own calm. It joins two terms that seem to contradict each other: the figure is called an oxymoron. <b>Dandyism</b> is built on an English word that French borrowed about 1830; Littré’s dandy is a man who carries the fashions to the point of ridicule. Auden says Baudelaire’s dandy looks to the bourgeois like a man of every excess and to himself like an exacting ascetic.",
+          "why": "Intoxicated with his sangfroid joins drunkenness to cool blood, two terms that seem to contradict, in one man; Auden says Baudelaire’s dandy is a figure of every excess to the bourgeois and an exacting ascetic to himself.",
+          "grounds": [
+            {
+              "claim": "sangfroid: literally cool blood; calm, presence of mind",
+              "kind": "source",
+              "source": "Littré, sang-froid; Online Etymology Dictionary, sang-froid"
+            },
+            {
+              "claim": "enivrer: to cause drunkenness (sense 1); figuratively, to make someone drink, so to speak, what causes a moral drunkenness, as praise (sense 2); the familiar saying about a man’s own wine, given in the note on the word, is under sense 3",
+              "kind": "source",
+              "source": "Littré, enivrer, senses 1, 2 and 3"
+            },
+            {
+              "claim": "an oxymoron joins terms that appear to contradict each other",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, oxymoron"
+            },
+            {
+              "claim": "dandy was borrowed into French about 1830; Littré’s definition of the dandy",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, dandy; Littré, dandy"
+            },
+            {
+              "claim": "intoxicated and sangfroid are said of one man in one phrase, in Shipley and in the French of the pair",
+              "kind": "plate"
+            },
+            {
+              "claim": "the Dandy, Baudelaire’s ideal man: to the bourgeois a wild man of every excess, to himself an exacting ascetic",
+              "kind": "auden",
+              "source": "W. H. Auden, The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 84; read again by the finisher in the scan, ef.txt lines 3579–3583, on 2026-10-03: he calls the Dandy Baudelaire’s ideal man, which is why the caption now says Baudelaire’s dandy"
+            }
+          ],
+          "stands": "Littré, *Dictionnaire de la langue française*, under *sang-froid*, *enivrer*, *dandy*, *dandysme*, *bercer*, *destinée* and *conscience*. Online Etymology Dictionary, under *sang-froid*, *dandy* and *oxymoron*. The marks on the passage and on Baudelaire’s French. Auden, *The Enchafèd Flood*, p. 84."
+        },
+        {
+          "kind": "compare",
+          "label": "French",
+          "ties": [
+            {
+              "a": [
+                "126.0",
+                116,
+                117
+              ],
+              "b": [
+                "p:0.0",
+                116,
+                118
+              ],
+              "say": "The French is *he says to himself*: the tense is present, and the verb turns back on the speaker. Shipley’s *he said* is past and leaves out *to himself*."
+            },
+            {
+              "a": [
+                "126.0",
+                113,
+                115
+              ],
+              "b": [
+                "p:0.0",
+                113,
+                115
+              ],
+              "say": "The French is *those who pass*, in the present. The past tense is Shipley’s."
+            },
+            {
+              "a": [
+                "126.0",
+                71,
+                75
+              ],
+              "b": [
+                "p:0.0",
+                70,
+                76
+              ],
+              "say": "The French is *has stolen*, a compound past that looks back from the present of *he says*. Shipley’s *stole* puts the theft in a finished past. *Destinée* is the word he translates as *destiny* in the third passage."
+            },
+            {
+              "a": [
+                "126.0",
+                100,
+                106
+              ],
+              "b": [
+                "p:0.0",
+                98,
+                105
+              ],
+              "say": "*Sang-froid* goes over unchanged: English has had the phrase since 1712. *Dandysme* is the English word *dandy* with a French ending."
+            },
+            {
+              "a": [
+                "126.0",
+                85,
+                90
+              ],
+              "b": [
+                "p:0.0",
+                85,
+                90
+              ],
+              "say": "The aside is Baudelaire’s own and Shipley keeps it. This copy of the French has lost the first of its two dashes; the Paris edition of 1908 prints both."
+            }
+          ],
+          "caption": "Shipley keeps Baudelaire’s order phrase for phrase and moves the last sentence into the past. Baudelaire writes <b>a volé</b>, has stolen, <b>passent</b>, pass, and <b>il se dit</b>, he says to himself: the time is the present. Shipley writes <i>stole</i>, <b>passed</b> and <b>he said</b>, and leaves out <i>to himself</i>. So in the French he asks himself, now, why it should matter to him where these <i>consciences</i> go. The paragraph opens by disclaiming <i>the charity of a doctor</i>, and Littré’s first sense of <i>charité</i> is love of one’s neighbor. The thought contrary to the dandy, Auden says, is that to love is to give oneself where a neighbor needs it.",
+          "why": "In the French the man asks himself, now, what it matters where these consciences go; the writer has disclaimed charity, love of one’s neighbor; the thought contrary to the dandy, Auden says, is that to love is to give oneself.",
+          "grounds": [
+            {
+              "claim": "the same order of phrases in both; a volé, passent and il se dit against stole, passed and he said",
+              "kind": "plate"
+            },
+            {
+              "claim": "a volé is has stolen; il se dit is he says to himself, a present like passent beside it",
+              "kind": "source",
+              "source": "the reflexive verb se dire; Isherwood’s translation (1947) also keeps the present and the reflexive, seen in the archive.org search snippets; the form could also be a past tense, as the open list says"
+            },
+            {
+              "claim": "the question asks what it matters to him where these consciences are going",
+              "kind": "text",
+              "source": "rockets 126.0, words 124 to 134"
+            },
+            {
+              "claim": "the writer knows he will never find in himself the charity of a doctor",
+              "kind": "text",
+              "source": "rockets 126.0, words 13 to 26, just before the part shown"
+            },
+            {
+              "claim": "charité: love of one’s neighbor",
+              "kind": "source",
+              "source": "Littré, charité, sense 1"
+            },
+            {
+              "claim": "a line of thought against the Dandy runs through the journals from the start: Baudelaire sees the Christian idea of love over against the Platonic one, eros, which is the Dandy’s, and grants that loving is giving oneself, not desiring, where a neighbor has need; until the crisis, Auden thinks, this came to him only now and then",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), p. 25; read by the examiner in the archive.org search snippets, chained from the page turn to the crisis sentence, on 2026-10-03"
+            },
+            {
+              "claim": "English has had sang-froid since 1712; dandysme is formed on dandy, which Littré derives from the English word",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, sang-froid; Littré, dandysme and dandy"
+            },
+            {
+              "claim": "Shipley’s book prints the first of his three verbs with a small letter; the Project Gutenberg e-text has a capital there, a slip, and the text printed here is mended from the book where it is built (build/texts/baudelaire.mjs, SLIPS)",
+              "kind": "source",
+              "source": "Baudelaire: His Prose and Poetry, edited by T. R. Smith (New York: Boni and Liveright, copyright 1919), in two scans at archive.org read in their full text by the finisher on 2026-10-03 (baudelairehispro00baud, a Modern Library printing, and baudelairehispro00baudiala), and in the search snippets of three more (baudelairehispro0000tbsm, baudelairehispro0000unse, and baudelairehispro00baud_0, dated 1925); the capital is at line 7545 of .cache/texts/pg47032_baudelaire.txt"
+            }
+          ],
+          "stands": "The two versions side by side: Baudelaire’s French, from Project Gutenberg no. 13792, and Shipley’s English. The opening of the same paragraph, in [*Rockets*, XXVI](#/read/baudelaire/rockets:126). Littré, under *charité*, *dandy* and *dandysme*; Online Etymology Dictionary, under *sang-froid*. Auden, Introduction to the *Intimate Journals* (1947), p. 25."
+        }
+      ]
+    },
+    {
+      "id": "warning",
+      "place": "",
+      "heading": "My Heart Laid Bare, LXXII: January\u00a023,\u00a01862",
+      "text": "baudelaire/my-heart-laid-bare",
+      "rows": [
+        "238.0-239.0"
+      ],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Time",
+          "spans": [
+            {
+              "from": [
+                "238.0",
+                3
+              ],
+              "to": [
+                "238.0",
+                6
+              ],
+              "tag": "always",
+              "label": "always"
+            },
+            {
+              "from": [
+                "239.0",
+                0
+              ],
+              "to": [
+                "239.0",
+                2
+              ],
+              "tag": "doer",
+              "label": "what he did"
+            },
+            {
+              "from": [
+                "239.0",
+                9
+              ],
+              "to": [
+                "239.0",
+                13
+              ],
+              "tag": "now",
+              "label": "now"
+            },
+            {
+              "from": [
+                "239.0",
+                15
+              ],
+              "to": [
+                "239.0",
+                18
+              ],
+              "tag": "day",
+              "label": "one day"
+            },
+            {
+              "from": [
+                "239.0",
+                19
+              ],
+              "to": [
+                "239.0",
+                23
+              ],
+              "tag": "done",
+              "label": "what he felt"
+            },
+            {
+              "from": [
+                "239.0",
+                24
+              ],
+              "to": [
+                "239.0",
+                35
+              ],
+              "tag": "done",
+              "label": "what he felt"
+            }
+          ],
+          "caption": "The first sentence says <b>always</b>. The second paragraph says <b>Now</b>, and <i>always</i> again, and then the time narrows to <b>to-day</b> and a date. No other entry in Shipley’s translation of the two journals gives the day on which it was written. The verbs change at the date. Before it stands something he has done: he has <b>cultivated</b> his hysteria. After it the verb is <b>felt</b>, twice, and what he feels passes <i>over me</i>. Baudelaire’s first verb there is <i>subi</i>, underwent. Auden calls this day the crisis. In another essay he writes that Baudelaire’s pose led to disaster, to his hearing this wind, as Baudelaire himself saw too late.",
+          "why": "The time narrows from always to now to one dated day, and at the date the verbs pass from what he has done to what he undergoes; Auden calls the day the crisis.",
+          "grounds": [
+            {
+              "claim": "always, Now, always, to-day and the date; cultivated before the date; felt twice after it",
+              "kind": "plate"
+            },
+            {
+              "claim": "no other entry in Shipley’s text gives the day of its writing",
+              "kind": "source",
+              "source": "counted in the hosted text of Rockets and My Heart Laid Bare (Project Gutenberg no. 47032): its other dates are the year 1848, the 15th of May and June of that year, and to-day stands three more times with no date; the French of 1908 has one more dated leaf, a list of errands that Shipley’s text lacks"
+            },
+            {
+              "claim": "the French verbs are j’ai cultivé, then j’ai subi and j’ai senti; subir is to pass, willing or not, under what is inflicted",
+              "kind": "source",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 130; Littré, subir"
+            },
+            {
+              "claim": "he calls January 23, 1862 the crisis",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), p. 25"
+            },
+            {
+              "claim": "Baudelaire’s pose ends in disaster, in his hearing the wing’s wind, and he sees it too late",
+              "kind": "auden",
+              "source": "W. H. Auden, Forewords and Afterwords (1973; Faber and Faber printing of 1974), p. 232 (“Tennyson”)"
+            }
+          ],
+          "stands": "The marks on the passage. A search of the text printed here for years, months, weekdays and words such as *to-day*: its other dates are the year 1848, the 15th of May and the June of that year. The French verbs: *Œuvres posthumes* (1908), p. 130, and Littré, under *subir*. Auden, Introduction to the *Intimate Journals* (1947), p. 25, and *Forewords and Afterwords* (1973), p. 232."
+        },
+        {
+          "kind": "figure",
+          "label": "Wing",
+          "name": "metaphor",
+          "plain": "one thing spoken of as another",
+          "draw": "map",
+          "join": [
+            [
+              2,
+              3
+            ]
+          ],
+          "parts": [
+            {
+              "row": "239.0",
+              "w": [
+                26,
+                28
+              ],
+              "tag": "picture",
+              "label": "it passes over"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                29,
+                30
+              ],
+              "tag": "picture",
+              "label": "what he feels"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                31,
+                33
+              ],
+              "tag": "picture",
+              "label": "where from"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                34,
+                35
+              ],
+              "tag": "thing",
+              "label": "whose wing"
+            }
+          ],
+          "caption": "The entry does not say what happened. This metaphor gives <b>imbecility</b> a <b>wing</b>. Imbecility itself stays two steps off: what he feels is a <b>gust</b>, the gust is from the wing, and the wing is imbecility’s. So what reaches him is moving air, and he calls it a <b>warning</b>. His sonnet “Le Gouffre,” The Gulf, has the wind and no wing: the wind of Fear, felt <i>mainte fois</i>, many a time. Auden quotes the entry as the crisis, and the last lines of his introduction have a bird: as Baudelaire spoke, it came down and struck.",
+          "why": "The metaphor keeps imbecility two steps off: he feels only a gust from its wing and calls it a warning; Auden quotes the entry as the crisis, and his last lines have a bird that strikes.",
+          "grounds": [
+            {
+              "claim": "gust, wing, imbecility: the picture and the thing; the word warning",
+              "kind": "plate"
+            },
+            {
+              "claim": "the entry tells the event only through the figure",
+              "kind": "text",
+              "source": "my-heart-laid-bare 239.0"
+            },
+            {
+              "claim": "a metaphor is a figure by which a characteristic of one object is assigned to another",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, metaphor"
+            },
+            {
+              "claim": "the sonnet has the wind of Fear, felt many a time, and no wing",
+              "kind": "source",
+              "source": "Baudelaire, Les Fleurs du mal (Paris: Michel Lévy, 1868), CII, Le Gouffre, p. 237, at French Wikisource: line 4, and all fourteen lines read for a wing"
+            },
+            {
+              "claim": "Auden dates the crisis January 23, 1862 and quotes the entry there, in Isherwood’s words, wing and all",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), p. 25; read by the examiner in the archive.org search snippets on 2026-10-03 (the same entry is also quoted in Isherwood’s preface, which is not Auden’s)"
+            },
+            {
+              "claim": "the last lines of the introduction: while Baudelaire speaks, the bird comes down and strikes",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), p. 27; Prose, vol. II, pp. 314–15 (the sentence runs across the page turn there)"
+            }
+          ],
+          "stands": "The marks on the passage, and what the entry says and leaves unsaid. What a metaphor is: Online Etymology Dictionary and *Silva Rhetoricae*, under *metaphor*. The sonnet: *Les Fleurs du mal* (1868), CII, “Le Gouffre,” p. 237, all fourteen lines. Auden, Introduction to the *Intimate Journals* (1947), pp. 25 and 27."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "238.0",
+              "w": [
+                11,
+                11
+              ],
+              "gloss": "French *gouffre*: a deep cavity",
+              "note": "Littré’s first sense of *gouffre* is a deep cavity and his second is a whirlpool; he says it is the same word as *golfe*, gulf.",
+              "source": "Littré, gouffre"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "grown, as a crop",
+              "note": "The French is *cultivé*; Auden quotes the phrase in his essay on Goethe’s *Italian Journey*.",
+              "source": "Littré, cultiver; W. H. Auden, Forewords and Afterwords (1973; Faber and Faber printing of 1974), p. 136"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "a nervous disease, in fits",
+              "note": "Littré defines *hystérie* as a nervous disease that comes in fits, with convulsions and a ball felt rising from the womb to the throat, and derives its name from the Greek for womb.",
+              "source": "Littré, hystérie"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                13,
+                13
+              ],
+              "gloss": "Latin: a whirling",
+              "note": "From *vertere*, to turn; Littré gives the French *vertige* a second, figurative sense, a passing madness.",
+              "source": "Online Etymology Dictionary, vertigo; Littré, vertige"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                20,
+                20
+              ],
+              "gloss": "French *subi*: underwent",
+              "note": "Baudelaire writes *j’ai subi*, and Littré defines *subir* as to pass, willing or not, under what is prescribed or inflicted; the second *felt* is *senti*.",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 130; Littré, subir"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                23,
+                23
+              ],
+              "gloss": "French: *avertissement*",
+              "note": "Littré’s examples include a warning from heaven, and the next entry of the journal speaks of signs already sent by God.",
+              "source": "Littré, avertissement; my-heart-laid-bare, LXXIII, block 241"
+            },
+            {
+              "row": "239.0",
+              "w": [
+                35,
+                35
+              ],
+              "gloss": "weakness of mind and body",
+              "note": "Weakness of mind and body is Littré’s first sense of *imbécillité*, and in medicine it is weakness of the mind, the first degree of idiocy; Isherwood’s translation, which Auden quotes, says *madness* here.",
+              "source": "Littré, imbécillité, senses 1 and 2; W. H. Auden, The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 42"
+            }
+          ],
+          "caption": "<b>Cultivated</b> is a farmer’s verb: Littré’s first sense of <i>cultiver</i> is to work the land so that it bears, and a later one is to form and develop. Its object here is a disease: in Littré, a nervous illness that comes in fits. So the entry presents the <b>hysteria</b> as his own work, done <i>with joy and terror</i>; then, with <i>Now</i>, come <b>vertigo</b> and the wing of <b>imbecility</b>. Auden takes up the phrase in two essays. A religion that trusts the mood of the moment leads first to this cultivation, he writes, and at last to despair; Baudelaire’s error, he says, was to make the aesthetic his religion.",
+          "why": "The verb makes the hysteria his own work; Auden says a religion that trusts the mood of the moment leads first to this cultivation and at last to despair, and that Baudelaire made the aesthetic his religion.",
+          "grounds": [
+            {
+              "claim": "cultiver: first to work the land so that it produces; figuratively to cultivate an art, a science, the virtues; then to form, to develop, with examples of cultivating hatred and fury",
+              "kind": "source",
+              "source": "Littré, cultiver, senses 1, 2 and 3"
+            },
+            {
+              "claim": "hystérie: a term of medicine, a nervous disease that shows itself in fits, marked by convulsions, the sensation of a ball rising from the womb to the throat, and suffocation",
+              "kind": "source",
+              "source": "Littré, hystérie"
+            },
+            {
+              "claim": "cultivated is said in the first person, of my hysteria, with joy and terror; the next sentence begins Now and has vertigo; the wing of imbecility comes last",
+              "kind": "plate"
+            },
+            {
+              "claim": "what Kierkegaard named the aesthetic religion trusts wholly to the mood one is in at the moment; its first stage is what Baudelaire called cultivating one’s hysteria, and its last is despair",
+              "kind": "auden",
+              "source": "W. H. Auden, Forewords and Afterwords (1973; Faber and Faber printing of 1974), p. 136 (“Italian Journey”); read by the examiner in the scan, fa.txt lines 6567–6570, on 2026-10-03"
+            },
+            {
+              "claim": "Baudelaire’s error, which Tennyson escaped, was to turn the aesthetic into a religion; he insists that what matters in a place is that it be new, whatever that costs, and the means is this cultivation of hysteria",
+              "kind": "auden",
+              "source": "W. H. Auden, Forewords and Afterwords (1973; Faber and Faber printing of 1974), p. 231 (“Tennyson”); read by the examiner in the scan, fa.txt lines 11090–11114, on 2026-10-03"
+            }
+          ],
+          "stands": "Littré, under *cultiver*, *hystérie*, *imbécillité*, *gouffre*, *vertige*, *subir* and *avertissement*; Online Etymology Dictionary, under *vertigo*. The marks on the passage. The signs sent by God: [*My Heart Laid Bare*, LXXIII](#/read/baudelaire/my-heart-laid-bare:241). Auden, *Forewords and Afterwords* (1973), pp. 136 and 231; *The Enchafèd Flood*, p. 42, where he quotes Isherwood’s *madness*."
+        }
+      ]
+    },
+    {
+      "id": "budget",
+      "place": "",
+      "heading": "The budget beside the maxim",
+      "beside": true,
+      "text": "baudelaire/my-heart-laid-bare",
+      "rows": [
+        "266.0-269.0"
+      ],
+      "label": "My Heart Laid Bare, LXXIX",
+      "pair": {
+        "label": "Rockets, XIII",
+        "text": "baudelaire/rockets",
+        "rows": [
+          "61.0"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "compare",
+          "label": "Maxim",
+          "ties": [
+            {
+              "a": [
+                "266.0",
+                2.2,
+                11
+              ],
+              "b": [
+                "p:61.0",
+                0,
+                5
+              ],
+              "say": "The maxim meets any creditor, at each letter. The budget has three names, a sum against each, and a total by the month."
+            },
+            {
+              "a": [
+                "266.0",
+                12,
+                24
+              ],
+              "b": [
+                "p:61.0",
+                6,
+                12
+              ],
+              "say": "The maxim orders writing and counts it in lines: fifty, on an abstract subject. The budget orders work and counts it by the clock, from six till noon."
+            },
+            {
+              "a": [
+                "266.0",
+                32,
+                36
+              ],
+              "b": [
+                "p:61.0",
+                13,
+                16
+              ],
+              "say": "The maxim promises: *you are saved*. Baudelaire’s French has the future, *you will be saved*. The budget promises nothing: *we shall see*."
+            }
+          ],
+          "caption": "Auden sets these two notes side by side: the writer of the maxim now writes the budget. The maxim is one sentence, said to anyone, <i>you</i>, for <i>each letter</i>. It speaks of no payment: the letter is met with fifty lines written on a subject the French calls <i>extra-terrestre</i>, outside the earth, and <b>you are saved</b>. The budget begins with two other people, Jeanne Duval (<i>Jean</i>) and his mother, and their monthly sums; then come hours of work. Its first paragraph ends <b>We shall see the result</b>. Auden says these last pages show him racing time to undo the habits of a lifetime and put his life in order.",
+          "why": "Auden sets the two notes together as one man’s, before and after: the maxim answers a creditor’s letter with lines on nothing earthly and says you are saved; the budget counts money for two other people and hours of work.",
+          "grounds": [
+            {
+              "claim": "the writer of the maxim about the creditor now writes the budget; the last pages show him racing time to undo the habits of a lifetime and put his life in order. Of this leaf Auden quotes the line of names and sums, and then resolutions from other leaves (to work at once, a prayer, his earnings divided in four, sobriety); his maxim, in Isherwood’s words, keeps the unearthly subject and the future tense of the French",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), pp. 25–26; the same passage in Prose, vol. II, p. 314, read by the examiner from the head of that page to its foot in the archive.org search snippets on 2026-10-03"
+            },
+            {
+              "claim": "one sentence said to you, for each letter, with no word of paying; the budget’s three names and sums, then hours of work; the two endings",
+              "kind": "plate"
+            },
+            {
+              "claim": "the French says extra-terrestre, outside the earth, and vous serez sauvé, you will be saved",
+              "kind": "source",
+              "source": "Project Gutenberg no. 13792, Journaux intimes, Fusées IX, lines 319–320 of the e-text; Littré, extra-terrestre"
+            },
+            {
+              "claim": "Jean is Jeanne, whom the editors of 1908 name as Jeanne Duval",
+              "kind": "source",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133 and the editors’ note on Jeanne"
+            }
+          ],
+          "stands": "The two notes side by side. Auden, Introduction to the *Intimate Journals* (1947), pp. 25–26, where he describes the last pages and sets the two notes together. The French of the maxim: Project Gutenberg no. 13792, *Fusées*, IX, and Littré, under *extra-terrestre*. Jeanne Duval: *Œuvres posthumes* (1908), p. 133, and the editors’ note on her name."
+        },
+        {
+          "kind": "sentence",
+          "label": "Verbs",
+          "spans": [
+            {
+              "from": [
+                "266.0",
+                2.2
+              ],
+              "to": [
+                "266.0",
+                11
+              ],
+              "tag": "none",
+              "label": "no verb"
+            },
+            {
+              "from": [
+                "266.0",
+                12
+              ],
+              "to": [
+                "266.0",
+                24
+              ],
+              "tag": "inf",
+              "label": "no person"
+            },
+            {
+              "from": [
+                "266.0",
+                25
+              ],
+              "to": [
+                "266.0",
+                31
+              ],
+              "tag": "inf",
+              "label": "no person"
+            },
+            {
+              "from": [
+                "266.0",
+                32
+              ],
+              "to": [
+                "266.0",
+                36
+              ],
+              "tag": "future",
+              "label": "we, the future"
+            },
+            {
+              "from": [
+                "267.0",
+                0
+              ],
+              "to": [
+                "267.0",
+                1
+              ],
+              "tag": "present",
+              "label": "the first I"
+            },
+            {
+              "from": [
+                "268.0",
+                0
+              ],
+              "to": [
+                "268.0",
+                6
+              ],
+              "tag": "present",
+              "label": "the present"
+            }
+          ],
+          "caption": "The account has no verb: three names, three sums, a total. The two resolutions begin <b>To work</b>. The infinitive names an act and fixes no person, so no one is yet said to do the work. The first verb with a person is plural and future: <b>We shall see</b>. The first <i>I</i> only supposes: <b>I suppose</b>. Then the plain present: <b>There is still time</b>. In French the entry before this one begins, after its heading, <i>Trop tard peut-être</i>, too late perhaps, words Shipley’s text lacks. Auden’s introduction ends on the same question. By nature’s reckoning, he writes, Baudelaire was too late; by the spirit’s, one may believe, he came in time.",
+          "why": "The note moves from verbless sums and infinitives with no person to We shall see, I suppose and There is still time; Auden ends on it: too late by nature’s reckoning; by the spirit’s, one may believe, in time.",
+          "grounds": [
+            {
+              "claim": "which stretches have no verb, an infinitive, a future with we, a present; where I first comes; the paragraph that holds There is still time begins with another present, words 0 to 2",
+              "kind": "plate"
+            },
+            {
+              "claim": "the French of the leaf has the same forms in the same places: no verb in the account, two infinitives, a first person plural future, a present of supposing, a present for there is still time",
+              "kind": "source",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133"
+            },
+            {
+              "claim": "the infinitive expresses the act without fixing number or person",
+              "kind": "source",
+              "source": "Littré, infinitif; Online Etymology Dictionary, infinitive"
+            },
+            {
+              "claim": "the French leaf before this one begins, after its heading, Trop tard peut-être, words that Shipley’s LXXVIII lacks",
+              "kind": "source",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 132"
+            },
+            {
+              "claim": "too late by nature’s reckoning; in time, one may believe, by the spirit’s",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), p. 27; Prose, vol. II, pp. 314–15 (the foot of 314 and the head of 315); finisher, 2026-10-03: the last sentence read again in the extract kept in the research notes (remake/research/C_auden_on_works.md, line 431), because build/tools/runs-sweep.py found that the caption’s closing words ran with it for five words; one verb was changed, and the caption says what it said"
+            }
+          ],
+          "stands": "The marks on the passage. The infinitive: Littré, under *infinitif*, and Online Etymology Dictionary, under *infinitive*. The French of this entry and of the one before it: *Œuvres posthumes* (1908), pp. 132–33. Auden, Introduction to the *Intimate Journals* (1947), p. 27."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "266.0",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "rules for keeping health",
+              "note": "Littré calls *hygiène* the part of medicine that gives the rules for keeping health, and lists a hygiene of the soul among its kinds.",
+              "source": "Littré, hygiène"
+            },
+            {
+              "row": "266.0",
+              "w": [
+                2.2,
+                2.2
+              ],
+              "gloss": "*Jean*: Jeanne Duval",
+              "note": "The French has *Jeanne*, whom the editors of 1908 name as Jeanne Duval and who held, they say, a great place in the poet’s life and affections.",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133 and the editors’ note on Jeanne"
+            },
+            {
+              "row": "266.0",
+              "w": [
+                4,
+                5
+              ],
+              "gloss": "also in the entry before",
+              "note": "In French the entry before this one, in a line Shipley’s text lacks, names Jeanne’s illnesses and his mother’s infirmities and solitude, and sets down his own health as a matter of charity and of duty.",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 132"
+            },
+            {
+              "row": "267.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "French *destinée*: fate",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133; Project Gutenberg no. 13792, Journaux intimes, Fusées XV; Littré, destinée"
+            },
+            {
+              "row": "267.0",
+              "w": [
+                7,
+                9
+              ],
+              "gloss": "French: several hours",
+              "note": "Baudelaire writes *plusieurs heures* here and *quelques heures*, a few hours, in the first passage; Shipley uses one English phrase for both.",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133; Project Gutenberg no. 13792, Journaux intimes, Fusées XV"
+            },
+            {
+              "row": "267.0",
+              "w": [
+                11,
+                11
+              ],
+              "gloss": "French *travail*: work",
+              "note": "*Travail* is the noun of *travailler*, the verb that begins both resolutions; Shipley varies *work* and *toil* where the French keeps one word.",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133"
+            },
+            {
+              "row": "268.0",
+              "w": [
+                12,
+                12
+              ],
+              "gloss": "breaks off in French too",
+              "note": "The French is *des plaisirs nouveaux*, new pleasures, and then comes a line Shipley’s text lacks, about glory, the paying of his debts, and wealth for Jeanne and his mother.",
+              "source": "Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133"
+            },
+            {
+              "row": "p:61.0",
+              "w": [
+                11,
+                11
+              ],
+              "gloss": "French: *extra-terrestre*",
+              "note": "Littré defines the French word as that which is outside the earth; Shipley translates it as *abstract*.",
+              "source": "Project Gutenberg no. 13792, Journaux intimes, Fusées IX; Littré, extra-terrestre"
+            },
+            {
+              "row": "p:61.0",
+              "w": [
+                15,
+                16
+              ],
+              "gloss": "French: will be saved",
+              "note": "Baudelaire’s verb is in the future, *vous serez sauvé*.",
+              "source": "Project Gutenberg no. 13792, Journaux intimes, Fusées IX"
+            }
+          ],
+          "caption": "Three words come back from the first passage. There the man stole a few <i>hours of pleasure</i> from <i>fate</i>. Here he supposes he bases his <b>destiny</b> on <b>a few hours</b> of <b>toil</b>. <i>Fate</i> and <i>destiny</i> are one French word, <i>destinée</i>, and <i>heures</i>, hours, is in both sentences, so work stands where pleasure stood. Five entries earlier he names pleasure and work as the two ways to forget time and writes <i>Let us choose</i>. <b>Pleasure</b> then returns twice: in a question that breaks off, and as the pleasure of <i>a project carried out</i>, which he has <i>not yet known</i>. Auden says the heart has really changed between the dandy and what these last pages resolve.",
+          "why": "Fate, hours and pleasure return from the first passage with work where pleasure stood, and five entries earlier he names the two and writes Let us choose; Auden says the heart has really changed since the dandy.",
+          "grounds": [
+            {
+              "claim": "in the first passage the man takes his hours of pleasure from fate",
+              "kind": "text",
+              "source": "rockets 126.0, words 73 to 80, on the first plate"
+            },
+            {
+              "claim": "destiny, a few hours, toil; pleasure twice in the next two paragraphs",
+              "kind": "plate"
+            },
+            {
+              "claim": "destinée and heures stand in both French sentences",
+              "kind": "source",
+              "source": "Project Gutenberg no. 13792, Journaux intimes, Fusées XV; Baudelaire, Œuvres posthumes (Paris: Mercure de France, 1908), as transcribed at French Wikisource, p. 133"
+            },
+            {
+              "claim": "pleasure and work are the only two means of forgetting the nightmare of time; Let us choose; a later line of the leaf speaks of forgetting time",
+              "kind": "text",
+              "source": "my-heart-laid-bare, LXXIV, blocks 243 and 245"
+            },
+            {
+              "claim": "the heart has really changed between the Dandy and what the man now writes, which is the line of sums from this leaf and the resolutions Auden has just quoted from other leaves of the last pages",
+              "kind": "auden",
+              "source": "W. H. Auden, Introduction to Charles Baudelaire, Intimate Journals, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), p. 26; Prose, vol. II, p. 314 (the sentence stands after the quoted resolutions and before the one on Rimbaud; read there by the examiner on 2026-10-03)"
+            }
+          ],
+          "stands": "The first passage, from [*Rockets*, XXVI](#/read/baudelaire/rockets:126), and the marks on this one. The French words: Project Gutenberg no. 13792, *Fusées*, XV, and *Œuvres posthumes* (1908), pp. 132–33; Littré, under *hygiène*, *destinée* and *extra-terrestre*. Pleasure and work: [*My Heart Laid Bare*, LXXIV](#/read/baudelaire/my-heart-laid-bare:243). Auden, Introduction to the *Intimate Journals* (1947), p. 26."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Auden says that Baudelaire met his own nature and his century with two opposed figures of his own making, and held to them until shortly before his mind gave way: the dandy, the individual as hero, and the mass, which he thought boorish and found in Woman, in the man of business and in what he called the Belgian spirit. Auden then lists the dandy’s traits from the journals: he lives and sleeps before a looking glass, does nothing useful, is solitary and unhappy, and is proud of being less base than the people passing. That last trait is taken from the second sentence of the first passage.",
+      "source": "Introduction to Charles Baudelaire, *Intimate Journals* (1947), pp. 18–19",
+      "checked": "research notes, remake/research/C_auden_on_works.md, appendix H5; and the search snippets of the 1947 edition at archive.org, read again on 2026-10-03: the running head of page 19 falls inside the sentence about the opposites, the list follows it, and the head of page 20 comes after the list. Read again by the examiner the same day: the sentence on the pair of opposites and both lists, item by item; and once more before closing, backward from the opposites to the start of that sentence (Baudelaire, faced with his own nature and the society of his century, devised the pair and kept it until shortly before his mind gave way). Finisher, 2026-10-03: every run of five words of the entry searched as an exact phrase in the same scan (104 searches); none was found"
+    },
+    {
+      "says": "He then sums the dandy up. Like a hero of poetry he depends on fortune, on money and leisure for instance; like a hero of philosophy he must have the will to make a dandy of himself from the corrupt nature every man is born with. He is no man of action and no seeker of wisdom, and wants neither the admiration of men nor the knowledge of God. His one ambition is to become conscious that he is uniquely himself and like no one else. Auden calls him the hero of religion inverted: Lucifer, who proves himself free by refusing every order, whether God’s, society’s or his own nature’s.",
+      "source": "Introduction to Charles Baudelaire, *Intimate Journals* (1947), pp. 19–20",
+      "checked": "research notes, appendix H5 and section 16; and the search snippets of the 1947 edition at archive.org, read again on 2026-10-03: the head of page 20 falls inside the sentence about the two heroes, just before the sentences on the Dandy’s ambition. Read again by the examiner the same day, from the end of the second list to the sentence that names the gratuitous act; the paraphrase was loosened where it ran word for word with Auden for more than six words. Read a third time before closing, in one chain from the sentence on the opposites to the sentence that names the gratuitous act (39 steps): the Dandy makes himself out of the corrupt nature everyone is born into, and the paraphrase, which had said against it, now says from it. Finisher, 2026-10-03: the sentence on the ambition read again (three single searches of the scan through archive.org’s public full-text search, and the research notes, appendix H5). The entry could be read as giving one thing he wants to be conscious of; it now gives the two that Auden joins with “and”, in the words of the view. One “that” came out of the sentence before, to keep the entry at 110 words. Then every run of five words of the entry was searched as an exact phrase in the same scan (106 searches): one stood there, the first five words of the second sentence. The snippets show that Auden’s sentence goes on to the hero of philosophy in the same form, five words again, where the scan’s text misreads one of them and the head of page 20 follows, so the search could not find that run. The article was changed in both places: a hero of poetry, a hero of philosophy"
+    },
+    {
+      "says": "Before he turns to the contrary thought, Auden names the dandy’s mistake. A man unaware of himself, he says, can rest in being by nature what no one else is. Once he is conscious of himself that is not enough, and he must set about becoming an individual in spirit. The danger then is the dandy’s mistake: to try to turn the first kind of individual into the second, and so to think that one becomes an individual in spirit by becoming unlike others, and not by becoming what one chooses to be.",
+      "source": "Introduction to Charles Baudelaire, *Intimate Journals* (1947), pp. 24–25",
+      "checked": "added by the examiner: search snippets of the 1947 edition at archive.org, chained backward from the page turn through the two sentences before it and forward into page 25, on 2026-10-03; the garbled head of page 25 falls inside the last of these sentences, and the next sentence begins the thread of thought contrary to the Dandy. Read once more in eight single searches before closing: the mistake is to try to turn the first kind of individuality into the second, and the paraphrase was corrected to say so. Finisher, 2026-10-03: every run of five words of the entry searched as an exact phrase in the same scan (89 searches); none was found"
+    },
+    {
+      "says": "From the start, Auden says, a line of thought runs through the journals against the dandy and his pride in being unique. He quotes two sayings: no high pleasure is unrelated to prostitution, and no being is more prostituted than God. In terms meant to provoke, Baudelaire there recognizes the Christian idea of love against the Platonic one the dandy holds. He grants that to love is to give oneself, not to desire, and that the will to become oneself can only be a will to give oneself where a neighbor needs it. Before the crisis of January\u00a023,\u00a01862, Auden thinks, such ideas came only now and then.",
+      "source": "Introduction to Charles Baudelaire, *Intimate Journals* (1947), p. 25",
+      "checked": "search snippets of the 1947 edition at archive.org, chained without a gap from the head of this page to the head of page 26, on 2026-10-03; the head of this page is garbled in the scan’s text. Read again by the examiner the same day, in the 1947 scan from the page turn to the crisis sentence and in Prose, vol. II (archive.org item prosetravelbooks0000aude), where the head of p. 314 falls just before the two sayings; the heads of the 1947 scan run 19 to 27 without a gap, so the garbled one is 25. Finisher, 2026-10-03: every run of five words of the entry searched as an exact phrase in the 1947 scan (105 searches): one stood there, the first five words of the last sentence, and Until became Before"
+    },
+    {
+      "says": "His last lines are about time. By nature’s reckoning Baudelaire was too late. Seen by the spirit, he goes on, Baudelaire may be believed to have come in time: spirit needs time too, but a moment of it will do.",
+      "quote": "To the eye of nature, he was too late. As he spoke, the bird stooped and struck.",
+      "source": "Introduction to Charles Baudelaire, *Intimate Journals* (1947), p. 27; *Prose*, vol. II (2002), pp. 314–15",
+      "checked": "research notes, appendix H17l; and the search snippets of the 1947 edition at archive.org, read on 2026-10-03. Read again by the examiner the same day in both scans: in Prose, vol. II the quoted words begin at the foot of p. 314 and the last of them stands at the head of p. 315"
+    },
+    {
+      "says": "He sets Baudelaire’s change of heart beside Rimbaud’s later and more showy turn from poet to trader, where he thinks the heart did not change: there, it seems to him, one kind of dandy was merely swapped for another, with the same pride and the same wish to be unique in both. Baudelaire’s humility sounds true to him because nothing showy is planned, no new career and no public farewell to poetry. Baudelaire asks in prayer only to use his gifts better.",
+      "source": "Introduction to Charles Baudelaire, *Intimate Journals* (1947), pp. 26–27; *Prose*, vol. II (2002), p. 314",
+      "checked": "research notes, appendix H17l; and the search snippets of the 1947 edition at archive.org, read on 2026-10-03. Read again by the examiner the same day in Prose, vol. II, p. 314, from the head of the page to its foot: the sentence on the change of heart follows the maxim and the resolutions Auden quotes, and the sentence on humility ends by owning the Dandy as weak as a woman, M. Prudhomme or the Belgians. Finisher, 2026-10-03: every run of five words of the entry searched as an exact phrase in the 1947 scan (78 searches); none was found"
+    },
+    {
+      "says": "In *The Enchafèd Flood* the entry of January\u00a023,\u00a01862 is one of Auden’s instances that the hero too can perish. He quotes it in Isherwood’s translation, where *imbecility* has become *madness*. Of the dandy he says there that to the bourgeois he looks like a wild man who denies himself nothing, and that in his own eyes he is an exacting ascetic who scorns the bourgeois for being natural. He then quotes the journal on woman as the dandy’s opposite and on the dandy who should live and sleep before a looking glass.",
+      "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 42 and 84",
+      "checked": "read in the scan of The Enchafèd Flood, research/auden/ef.txt, lines 1821–1828 and 3579–3591, on 2026-10-03; read again by the examiner the same day"
+    },
+    {
+      "says": "Writing on Goethe’s *Italian Journey*, he says that the aesthetic religion, as Kierkegaard named it, trusts wholly to the mood of the moment and ends in despair, and that its first stage is what Baudelaire called cultivating one’s hysteria. Writing on Tennyson, he says that Baudelaire’s error, one Tennyson did not make, was to turn the aesthetic into a religion; that his pose was a way to avoid the need for a faith and ended in disaster, in his hearing the wind that the second passage records; and that he saw it too late.",
+      "source": "*Forewords and Afterwords* (1973; Faber and Faber printing of 1974), pp. 136 (“Italian Journey”) and 231–32 (“Tennyson”)",
+      "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 6567–6570 and 11090–11165, on 2026-10-03; the page numbers stand at the foot of each page in this scan. Read again by the examiner the same day: the error and the cultivation are on p. 231, the pose, the disaster and the wind on p. 232. Finisher, 2026-10-03: fa.txt lines 6567–6570 read again, because build/tools/runs-sweep.py found that the entry ran with line 6568 for five small words; one preposition was changed, and the entry says what it said"
+    }
+  ],
+  "next": "baudelaire/rockets:0",
+  "sources": [
+    "The text printed here: Charles Baudelaire, “Intimate Papers” (*Rockets*; *My Heart Laid Bare*), translated by Joseph T. Shipley, with his note on the manuscripts, in *Baudelaire: His Prose and Poetry*, edited by T. R. Smith (New York: Boni and Liveright, 1919); Project Gutenberg no. 47032.",
+    "The French beside the first passage, and the French of the maxim: Charles Baudelaire, *Journaux intimes* (*Fusées*; *Mon cœur mis à nu*), Project Gutenberg no. 13792, *Fusées*, XV and IX.",
+    "The French of the entries headed *Hygiène*, and the editors’ notes on how the journals were put together: Charles Baudelaire, *Œuvres posthumes* (Paris: Mercure de France, 1908), pp. 75–135, as transcribed at French Wikisource under *Fusées* and *Mon cœur mis à nu*.",
+    "W. H. Auden, Introduction to Charles Baudelaire, *Intimate Journals*, translated by Christopher Isherwood (Hollywood: Marcel Rodd, 1947), pp. 18–20 and 24–27, not seen in full; its closing pages are reprinted in *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 314–15.",
+    "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 42 and 84.",
+    "W. H. Auden, *Forewords and Afterwords* (1973), in the Faber and Faber printing (London, 1974), pp. 136 (“Italian Journey”) and 231–32 (“Tennyson”).",
+    "Émile Littré, *Dictionnaire de la langue française* (second edition, 1873–74, with the supplement of 1878), at littre.org, under *avertissement*, *bercer*, *charité*, *conscience*, *cultiver*, *dandy*, *dandysme*, *destinée*, *enivrer*, *extra-terrestre*, *gouffre*, *hygiène*, *hystérie*, *imbécillité*, *infinitif*, *sang-froid*, *subir* and *vertige*.",
+    "Online Etymology Dictionary (etymonline.com), under *dandy*, *infinitive*, *metaphor*, *oxymoron*, *sang-froid*, *simile* and *vertigo*.",
+        "*Silva Rhetoricae* (rhetoric.byu.edu), under *metaphor*.",
+    "How a held-back sentence works: Edwin A. Abbott, *How to Write Clearly: Rules and Exercises on English Composition* (Boston: Roberts Brothers, 1883), rules 15, 16, 30, 30 a and 33 (Project Gutenberg no. 22600); William Strunk, Jr., *The Elements of Style* (New York: Harcourt, Brace, 1920), rules 3, 5 and 18 (Project Gutenberg no. 37134).",
+    "Charles Baudelaire, *Les Fleurs du mal* (Paris: Michel Lévy, 1868), CII, “Le Gouffre,” p. 237, at French Wikisource.",
+    "Wikipedia, “Charles Baudelaire,” for the stroke of 1866, the death in 1867 and the posthumous edition of 1887."
+  ],
+  "caveats": [
+    "Auden’s introduction of 1947 was read only in snippets of a scanned copy, not page by page. Its page numbers are counted from the page headings as that copy prints them, and several of the headings, that of page 25 among them, are garbled there.",
+    "The order of the entries is not Baudelaire’s. After his death his publisher pasted the loose sheets in an order the editors of 1908 call arbitrary, so the budget follows the dated entry only in the printed book, which is the order Auden reads.",
+    "The English printed here is Shipley’s of 1919, not the Isherwood translation that Auden set and quotes. Isherwood has *madness* where Shipley has *imbecility*, and Shipley lacks some lines of the French, among them *Trop tard peut-être*.",
+    "The French *il se dit* could be a past tense as well as a present. It is read as a present because *passent*, beside it, is present.",
+    "That no other entry gives the day of its writing is true of Shipley’s text. The French edition of 1908 has a list of errands headed with a day of 1856 and a quoted sentence with its date in 1863; Shipley has neither."
+  ],
+  "open": [
+    "The order of the leaves is not Baudelaire’s. The editors of 1908, following Eugène Crépet, say the journals were made up after his death by his publisher Poulet-Malassis from loose, unnumbered sheets, pasted in an order they call necessarily arbitrary. That the budget of the third plate was written after the warning of the second is the order of the printed book, and Auden’s reading; the one day of writing given in Shipley’s text is January 23, 1862.",
+    "Auden’s introduction of 1947 was read in the research notes and in search-inside snippets of a lending-only scan at archive.org, not page by page. Its page numbers come from the running heads as the scan’s text prints them: 19, 20 and 26 are clear and 27 is damaged. The head that begins page 25 is garbled; it is taken as 25 because the head of 26 follows one page later with no other head between. Examiner, 2026-10-03: pages 18 to 27 were chained again and every head seen in order; the numbers 18, 19, 20, 22, 24 and 26 are legible, 23 is printed as 43, and 21, 25 and 27 are garbled, so the pages given are counted and there is no gap. Prose II, p. 314, was read from its head to its foot in the snippets of the scan catalogued at archive.org as prosetravelbooks0000aude: the page runs from the two sayings on prostitution to the last lines, whose final word stands at the head of p. 315.",
+    "The same book has a translator’s preface by Christopher Isherwood. A passage in it about Baudelaire’s resolves to work and his last, paralyzed year is Isherwood’s and not Auden’s; nothing here rests on it.",
+    "Finisher, 2026-10-03: the entry this line belongs to (Ansen’s Table Talk and the anthology of aphorisms) was taken out of the list by the critic and is kept whole at the end of notes.md; nothing printed leans on either book now. The line as it stood: The foreword to The Viking Book of Aphorisms is signed by both Auden and Louis Kronenberger; its pages (v–vi) are inferred from the page number printed after the signatures. The page of the remark on aphorists in Ansen’s Table Talk was not seen. Examiner, 2026-10-03: the first page of the foreword was read in the snippets down to the sentence on the aphorist, the Table Talk remark was seen in a snippet, and two of the anthology’s sentences under Baudelaire’s name were matched to My Heart Laid Bare, blocks 162 and 211; neither page number was seen. The Table Talk scan at archive.org is the Faber and Faber edition of 1991 (Open Library lists editions of 1989, 1990 and 1991); the anthology’s is Viking, 1962. The search-inside service that reports page numbers refuses the lending-only Table Talk scan (HTTP 403, one request); the public full-text search gives no pages.",
+    "Shipley’s text differs from the French in places the plates touch. He prints Jean for Jeanne. His a few hours on the third plate stands for plusieurs heures, several hours. After the question that breaks off, the French of 1908 has a line his text lacks, about glory, the paying of his debts, and wealth for Jeanne and his mother. The leaf before the budget opens in French with a line his text lacks: too late perhaps; his mother and Jeanne; his own health as a matter of charity and duty; Jeanne’s illnesses; his mother’s infirmities and solitude. The capital in Stole on the first plate is in the Project Gutenberg text (line 7545 of .cache/texts/pg47032_baudelaire.txt) and not in the book. Finisher, 2026-10-03: two scans of the 1919 book at archive.org, read in their full text (baudelairehispro00baud, a Modern Library printing, and baudelairehispro00baudiala), print the word with a small letter, and so do the search snippets of three more scans (baudelairehispro0000tbsm, baudelairehispro0000unse, and baudelairehispro00baud_0, dated 1925). Lead, 2026-10-03: the text printed here is mended from the book where it is built (build/texts/baudelaire.mjs, SLIPS), and the note on the book in the reader says so; the caveat’s sentence on the capital and the clause in what the French tab stands on are out again.",
+    "That no other entry gives the day of its writing is true of Shipley’s text. The French of 1908 has one more dated leaf, a list of errands headed Tuesday, May 13, 1856, and a quotation dated November 7, 1863; Shipley’s text has neither.",
+    "The French shown on the first plate is the Project Gutenberg e-text, which prints two hyphens for a dash, has lost the first dash of the aside and has no quotation marks around the man’s question. The Paris edition of 1908 prints both dashes and the quotation marks. The two French editions and Shipley number the entries differently: his XXVI is XV in the e-text.",
+    "The form il se dit could be a past tense as well as a present. It is read here as a present because passent, beside it, is present, and because Isherwood’s translation also keeps the present and the reflexive.",
+    "The sonnet Le Gouffre was read in the edition of 1868. An earlier printing in the review L’Artiste on March 1, 1862, five weeks after the dated entry, is given by one web page that cites the Pléiade edition; it was not checked further, and the caption gives no date for the sonnet.",
+    "The stroke of 1866 rests on Wikipedia alone. The Oxford English Dictionary was not consulted; English dates are from the Online Etymology Dictionary. French senses are from Littré, whose dictionary littre.org dates to the late nineteenth century, later than these notes. The page numbers of The Enchafèd Flood and of Forewords and Afterwords are those of the printings scanned (Vintage Books, 1967; Faber and Faber, 1974).",
+    "Examiner, 2026-10-03: marks were changed after the pictures in shots/ were taken (07:13 UTC, of data built at 07:10), and at that time none of the changes had been seen in a build, because building writes outside this piece’s folder. Finisher, 2026-10-03: all of them have been seen built since. The artist photographed the page after the builds from 09:37 to 11:07 (art.md, “The build”), the critic built and photographed at 12:20, and the finisher after its own changes. First passage: Likeness now marks word 36 alone and word 116 alone and has a new part, words 107 to 115, tagged C (his pride); the fourth span of Delay begins at word 96. Second passage: Wing has join [[2, 3]], which the artist tried in a browser and recommends in art.md; labels in Time and Wing are shorter. Third passage: three marks begin at 266.0 word 2.2; Verbs has four kinds of mark and six spans, the last from 268.0 word 0. A join set and taken out again: from 08:10 to 08:45 UTC Likeness held join [[0, 1]], the simile itself, from word 36 to words 38 to 41. On the pictures of 07:13 word 36 and the first words of the likeness stood on one line at both widths, and such a join is a short arc. The kit has changed since: the artist’s trial of 08:36 (art.md, “The page at 08:25”) finds that at 1280 the likeness now begins the second line, so the join is a straight stroke 372 px long under seven unmarked words; at 390 it is an arc of 82 px and reads well (on the page as built since 09:37 the artist measures 357 px and 96 px: art.md, “The joins”). I took it out. The two terms of the simile are told apart by color only, as on the pictures of 07:13. If the kit comes to limit how far a stroke may run sideways, the join is worth setting again: after \"draw\": \"chain\" in that lens, \"join\": [[0, 1]].",
+    "Examiner, 2026-10-03: the caption of Words on the second passage no longer argues that hysteria (named from the womb) and imbecility (weakness) make the Dandy womanly. That chain was the poet’s own. Auden’s phrase about being as weak as a woman is said of the prayers of the last pages (1947, p. 27; Prose II, p. 314), not of this entry’s vocabulary. The caption now stands on what Auden says of the entry’s own phrase in Forewords and Afterwords, pp. 136 and 231.",
+    "Examiner, 2026-10-03: the list of what Auden said has a new entry, the Dandy’s mistake (1947, pp. 24–25), on which the caption of Likeness now stands; the entry on Poe (Forewords and Afterwords, p. 220) was moved to notes.md as a passing mention in an essay on another writer.",
+    "Finisher, 2026-10-03: for a later hand. The word dandy has a small letter in everything printed and in each `why`, as in Shipley’s English (rockets 126.0 word 106; my-heart-laid-bare blocks 10, 13, 19, 59 and 77); the grounds, the `checked` records and the older lines of this list keep the capital that Auden prints in 1947 and 1950. A numbered section of either journal is called an entry in everything printed; leaf stays only in these working records. `about` now names the maxim: rockets block 61, under the heading XIII at block 59. The ground of Delay for the trait in Auden’s list (1947, p. 19) was taken out, because the critic’s cut left no sentence standing on it; the trait is still in the first entry of the list. The six numbered labels of Delay hold a no-break space after the numeral. The sentences that report the introduction of 1947 were searched in its scan five words at a time (finisher/grams.py), because build/tools/runs-sweep.py cannot see a book the site has only in snippets; the runs found were broken. What was set, left and passed up is at the end of notes.md."
+  ]
+}

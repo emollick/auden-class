@@ -1,0 +1,576 @@
+{
+  "piece": "augustine",
+  "title": "The restless heart",
+  "where": "*Confessions*, Books I, II and X",
+  "about": "Augustine, a bishop in Roman North Africa, writes the *Confessions* in Latin between 397 and 400, in his forties. He tells his life to God: his boyhood, a night in his sixteenth year when he and some friends rob a pear tree and throw the fruit to hogs, his conversion at Milan at thirty-one, his mother’s death. Then he turns to what he is now, and to memory, time and the opening of Genesis. The English is E. B. Pusey’s of 1838.",
+  "view": {
+    "says": "Auden said that the idea of the gratuitous act, done for nothing, first comes up in the *Confessions*, with the pear tree, and is alien to Greek thought. A Christian like Augustine, he wrote, begins ethics with it: an act neither reasonable nor pleasant, a bare assertion of the self as its own master. A man acts from love of self or of God; reasons and appetites come second.",
+    "quote": "Man, that is to say, always acts either self-loving, just for the hell of it, or God-loving, just for the heaven of it",
+    "source": "“Augustus to Augustine” (*The New Republic*, 25 September 1944), in *Forewords and Afterwords* (1973), pp. 36–37; the lecture on *Othello* in *Lectures on Shakespeare*, edited by Arthur Kirsch (2000), p. 197",
+    "checked": "Forewords and Afterwords: read in the scan, research/auden/fa.txt, lines 1775-1804 (page 36 ends at line 1775; the running head of page 37 follows). The Othello lecture: quoted in research notes C, section 5 and appendix H3b; the page is from the editor’s note keyed to 197, read in this session in full-text snippets of the archive.org copy (lecturesonshakes00aude). The editor’s note on the term acte gratuit, seen in the same snippets, refers to Forewords and Afterwords 36-37 and The Dyer’s Hand 430-31. The lecture as printed goes on to quote the episode in Pusey’s translation, and the snippets show words 197 to 233 of the second plate’s paragraph (augustine/book-02, block 8) inside that quotation. Examiner: the sentence itself (the act is foreign to Greek thought and first comes up in the Confessions, in the episode of the pear tree) was seen in snippets of the same copy. The quotation after it runs from about word 30 of that paragraph to word 241 and leaves out the paragraph’s last sentence; the next page, 198, begins after it. The book is put together from notes taken by people who heard the lectures, chiefly Alan Ansen (so its preface, in the same snippets). The 23 words of the quotation were checked again against the scan of Forewords and Afterwords, p. 37, and the date of the review against the list of first printings at the back of that book. Finisher: pp. 36 and 37 read again in the scan (fa.txt, lines 1775 to 1804). One word of the paraphrase was turned, alien for foreign, because with the old word the sentence shared a run of five words with the lecture’s sentence as research notes C quote it (section 5). The lecture itself is in no scan on this machine."
+  },
+  "plates": [
+    {
+      "id": "opening",
+      "heading": "The first words",
+      "text": "augustine/book-01",
+      "rows": [
+        "0.0[0-84]"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Address",
+          "name": "apostrophe",
+          "plain": "a turning away: the speaker turns from the hearers to speak to someone or something else; here, from the readers to God",
+          "draw": "other",
+          "parts": [
+            { "row": "0.0", "w": [2, 2], "tag": "Thou", "label": "to God" },
+            { "row": "0.0", "w": [12, 12], "tag": "Thou" },
+            { "row": "0.0", "w": [15, 15], "tag": "Thou" },
+            { "row": "0.0", "w": [19, 19], "tag": "Thou" },
+            { "row": "0.0", "w": [28, 28], "tag": "Thou" },
+            { "row": "0.0", "w": [45, 45], "tag": "Thou" },
+            { "row": "0.0", "w": [53, 53], "tag": "Thou" },
+            { "row": "0.0", "w": [59, 59], "tag": "Thou" },
+            { "row": "0.0", "w": [61, 61], "tag": "Thou" },
+            { "row": "0.0", "w": [67, 67], "tag": "Thou" },
+            { "row": "0.0", "w": [70, 70], "tag": "Thou" },
+            { "row": "0.0", "w": [74, 74], "tag": "Thou" },
+            { "row": "0.0", "w": [84, 84], "tag": "Thou" },
+            { "row": "0.0", "w": [3, 4], "tag": "name", "label": "the name" },
+            { "row": "0.0", "w": [21, 21], "tag": "man", "label": "man" },
+            { "row": "0.0", "w": [23, 23], "tag": "man" },
+            { "row": "0.0", "w": [30, 30], "tag": "man" },
+            { "row": "0.0", "w": [34, 35], "tag": "man" },
+            { "row": "0.0", "w": [40, 40], "tag": "man" },
+            { "row": "0.0", "w": [51, 51], "tag": "man" },
+            { "row": "0.0", "w": [54, 54], "tag": "man", "label": "he" },
+            { "row": "0.0", "w": [63, 63], "tag": "us", "label": "us" },
+            { "row": "0.0", "w": [72, 72], "tag": "us" },
+            { "row": "0.0", "w": [76, 76], "tag": "us" }
+          ],
+          "caption": "Every sentence here is spoken to one hearer. In 85 words <b>Thou</b>, <b>Thee</b>, <b>Thy</b> and <b>Thyself</b> come thirteen times. Man is <i>he</i>, then <i>us</i>, and there is no <i>I</i> yet. Rhetoric calls speech turned from its audience to someone else apostrophe, and Augustine makes a whole work of it: all thirteen books are said to God. God knows already what Augustine tells him. In Book II he says he tells it <i>before Thee to mine own kind</i>, and in Book XI that he tells it to stir up his own devotion and his readers’, so that all may say the psalm words this passage begins with.",
+          "why": "Augustine says why he tells God what God knows: he tells it before God to his own kind, to stir up his devotion and theirs, so that all may say the psalm’s praise.",
+          "stands": "The marks on the passage. Apostrophe as *Silva Rhetoricae* defines it. A count of *Thou*, *Thee*, *Thy*, *Thine* and *Thyself* in the text printed here. Augustine’s own reasons, in [Book II](#/read/augustine/book-02:4) and at the head of [Book XI](#/read/augustine/book-11:0).",
+          "grounds": [
+            { "claim": "thirteen words for Thou in 85; man is he, then us; no I", "kind": "plate" },
+            { "claim": "apostrophe is speech turned from one audience to another", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), apostrophe" },
+            { "claim": "all thirteen books are said to God", "kind": "source", "source": "a count on the hosted text: 2,889 capitalized Thou, Thee, Thy, Thine and Thyself, never fewer than 109 in a book; the last paragraph (augustine/book-13, block 51) still addresses God" },
+            { "claim": "God knows already what he tells; he tells it to stir up his own devotion and his readers’, so that all may say the psalm verse", "kind": "source", "source": "Confessions XI.1.1 (augustine/book-11, block 0); the words are those turned to Thou at the head of Book I (Psalm 145:3). The margin of Pusey’s Latin edition names Ps. 95, 4 here (Psalm 96:4 in the King James numbering), a verse with the same words in the Latin" },
+            { "claim": "he tells it before God to his own kind", "kind": "source", "source": "Confessions II.3.5 (augustine/book-02, block 4)" }
+          ]
+        },
+        {
+          "kind": "sentence",
+          "label": "Build",
+          "spans": [
+            { "from": ["0.0", 0], "to": ["0.0", 9], "tag": "borrowed", "label": "Psalm 145:3" },
+            { "from": ["0.0", 10], "to": ["0.0", 17], "tag": "borrowed", "label": "Psalm 147:5" },
+            { "from": ["0.0", 18], "to": ["0.0", 22], "tag": "wish", "label": "the wish" },
+            { "from": ["0.0", 23], "to": ["0.0", 29], "tag": "against", "label": "small" },
+            { "from": ["0.0", 30], "to": ["0.0", 36], "tag": "against", "label": "mortal" },
+            { "from": ["0.0", 37], "to": ["0.0", 44], "tag": "against", "label": "a sinner" },
+            { "from": ["0.0", 45], "to": ["0.0", 48], "tag": "borrowed", "label": "James 4:6" },
+            { "from": ["0.0", 49], "to": ["0.0", 53], "tag": "wish", "label": "the wish again" },
+            { "from": ["0.0", 54], "to": ["0.0", 60], "tag": "against", "label": "small, again" },
+            { "from": ["0.0", 61], "to": ["0.0", 68], "tag": "cause", "label": "who wakes it" },
+            { "from": ["0.0", 69], "to": ["0.0", 84], "tag": "cause", "label": "why" }
+          ],
+          "caption": "The first sentence is borrowed: two psalm verses, turned from <i>the Lord</i> to <b>Thou</b>. Augustine’s own words begin at <b>And</b>. The second sentence states a wish (<b>would</b> is the Latin <i>vult</i>, wants to), then says three times what man is: a particle of creation, mortal, a sinner. After <b>yet</b> it states the wish again in the same words. The third sentence names who woke the wish: <b>Thou awakest us</b>. Auden’s summary of Augustine’s picture of man has two parts like these: a fallen creature, and a spirit in him that still witnesses to what his life was meant to be, able to love God.",
+          "why": "Augustine sets what man is against what man wants, lets the want stand, and gives God as its cause; Auden’s summary of him likewise has man fallen and still able to love God.",
+          "stands": "The marks on the passage, and the lines themselves. The verses as the King James Bible has them (Psalms 145:3 and 147:5; James 4:6), which the margin of Pusey’s Latin edition names. *Vult* from that edition, with Lewis and Short’s Latin dictionary under *volo*. Auden: *Forewords and Afterwords*, p. 36.",
+          "grounds": [
+            { "claim": "where each clause begins and ends, and the wish said twice", "kind": "plate" },
+            { "claim": "the first sentence is two psalm verses, there said of the Lord", "kind": "source", "source": "King James Bible, Psalms 145:3 and 147:5; Pusey’s Latin edition (Oxford, 1838) sets these words in italics and names the verses in its margin in the Latin numbering, Ps. 144, 3 and 146, 5" },
+            { "claim": "Thou resistest the proud is scripture too", "kind": "source", "source": "James 4:6 and 1 Peter 5:5, named in the same margin; the Latin words are in italics there too" },
+            { "claim": "would translates vult, wants to", "kind": "source", "source": "Confessions I.1.1 in Pusey’s Latin edition; Lewis and Short, volo" },
+            { "claim": "man is a particle of creation, mortal, a sinner; God wakes the wish to praise", "kind": "text", "source": "words 23 to 48 and 61 to 68" },
+            { "claim": "man is fallen, with a spirit in him that still witnesses to what his life was meant to be, able to love God", "kind": "auden", "source": "“Augustus to Augustine,” in Forewords and Afterwords (1973), p. 36" }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "0.0",
+              "w": [62, 62],
+              "gloss": "*excitas*: you rouse, wake",
+              "source": "Lewis and Short, excito; Confessions I.1.1 and XI.1.1 in Pusey’s Latin edition (Oxford, 1838)"
+            },
+            {
+              "row": "0.0",
+              "w": [73, 74],
+              "gloss": "*ad te*: toward you",
+              "note": "Lewis and Short give direction toward an object as the first sense of *ad*.",
+              "source": "Lewis and Short, ad"
+            },
+            {
+              "row": "0.0",
+              "w": [79, 79],
+              "gloss": "*inquietum*: unquiet, not at rest",
+              "source": "Lewis and Short, inquietus"
+            },
+            {
+              "row": "0.0",
+              "w": [82, 82],
+              "gloss": "*requiescat*: rests, comes to rest",
+              "source": "Lewis and Short, requiesco and quies"
+            }
+          ],
+          "caption": "Pusey’s <b>restless</b> and <b>repose</b> hide a repetition. In Augustine’s Latin they are <i>inquietum</i>, not at rest, and <i>requiescat</i>, comes to rest, both built on <i>quies</i>, rest. So the sentence names rest twice: first as what the heart is without, then as what it comes to in God. <b>For Thyself</b> is <i>ad te</i>, and the first sense of <i>ad</i> is direction, toward. Read that way, God made <b>us</b> toward himself, and the heart is restless until it rests in him. <b>Awakest</b> is <i>excitas</i>, you rouse. At the head of Book XI Augustine uses the same verb of himself: by telling his story he rouses his own devotion and his readers’.",
+          "why": "In Latin the heart’s unrest and its rest share one root, and man is made toward God: the sentence names the unrest as the lack of the rest it comes to in him.",
+          "stands": "Augustine’s Latin as Pusey’s edition of 1838 prints it, in Book I, chapter 1, and at the head of [Book XI](#/read/augustine/book-11:0). Lewis and Short’s Latin dictionary under *inquietus*, *requiesco*, *quies*, *ad* and *excito*. The lines themselves.",
+          "grounds": [
+            { "claim": "restless is inquietum and repose is requiescat, both from quies", "kind": "source", "source": "Confessions I.1.1 in Pusey’s Latin edition (Oxford, 1838; Project Gutenberg no. 33849); Lewis and Short, inquietus, requiesco, quies" },
+            { "claim": "for Thyself is ad te, and the first sense of ad is direction", "kind": "source", "source": "the same Latin text; Lewis and Short, ad" },
+            { "claim": "God made us toward himself, and the heart is restless until it rests in him", "kind": "text", "source": "words 69 to 84" },
+            { "claim": "awakest is excitas, and the same verb is used of his own telling in Book XI", "kind": "source", "source": "Lewis and Short, excito; Confessions XI.1.1 in the Latin (excito), where Pusey has stir up (augustine/book-11, block 0)" }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Whole",
+          "what": "the thirteen books: how long each is, how often each says Thou, and where the rest named on the first page is named again",
+          "facts": {
+            "counted": "Words and Thou-words are counted on the hosted text (Pusey, from Project Gutenberg no. 3296) with the site’s own word-splitter. Thou-words are the capitalized forms Thou, Thee, Thy, Thine and Thyself. A few of them begin sentences that are not said to God (in Book IV, block 10, a poet’s words about a friend; in Book VIII, block 18, words to his own tongue), so the totals are high by a handful. Paragraphs are the prose blocks of the hosted text; Books I, VIII and IX also hold six short quotations set as verse, whose words are counted with the rest.",
+            "totals": { "books": 13, "paragraphs": 455, "verseQuotations": 6, "words": 111772, "thou": 2889, "oneThouIn": 39 },
+            "books": [
+              { "book": "I", "paragraphs": 34, "verseQuotations": 4, "words": 7054, "thou": 285, "tells": "infancy and boyhood" },
+              { "book": "II", "paragraphs": 18, "words": 3781, "thou": 122, "tells": "his sixteenth year, idle at home; the theft of the pears" },
+              { "book": "III", "paragraphs": 21, "words": 5465, "thou": 109, "tells": "Carthage: Cicero’s Hortensius; he joins the Manichees" },
+              { "book": "IV", "paragraphs": 31, "words": 6973, "thou": 127, "tells": "nine years a Manichee and a teacher of rhetoric; the death of a friend" },
+              { "book": "V", "paragraphs": 25, "words": 6695, "thou": 182, "tells": "the Manichee Faustus; Rome; Milan and its bishop, Ambrose" },
+              { "book": "VI", "paragraphs": 27, "words": 7838, "thou": 120, "tells": "his thirtieth year: his mother comes to Milan; his friend Alypius" },
+              { "book": "VII", "paragraphs": 27, "words": 8409, "thou": 230, "tells": "where evil comes from; the books of the Platonists" },
+              { "book": "VIII", "paragraphs": 30, "verseQuotations": 1, "words": 8123, "thou": 131, "tells": "the stories of Victorinus and of Antony; the garden; the voice" },
+              { "book": "IX", "paragraphs": 37, "verseQuotations": 1, "words": 8819, "thou": 264, "tells": "baptism; Ostia; his mother’s death, in his thirty-third year" },
+              { "book": "X", "paragraphs": 70, "words": 16315, "thou": 380, "tells": "what he is at the time of writing; memory" },
+              { "book": "XI", "paragraphs": 41, "words": 9501, "thou": 240, "tells": "the first words of Genesis; what time is" },
+              { "book": "XII", "paragraphs": 42, "words": 10205, "thou": 237, "tells": "heaven and earth in the first verses of Genesis" },
+              { "book": "XIII", "paragraphs": 52, "words": 12594, "thou": 462, "tells": "the days of creation read as a figure of the Church; the seventh day and its rest" }
+            ],
+            "parts": [
+              { "books": "I to IX", "words": 63157, "thou": 1570, "what": "his life, from infancy to his mother’s death" },
+              { "books": "X", "words": 16315, "thou": 380, "what": "what he is now" },
+              { "books": "XI to XIII", "words": 32300, "thou": 939, "what": "the opening of Genesis, as far as the Sabbath rest" }
+            ],
+            "plan": {
+              "says": "Augustine’s own account, late in life: thirteen books; the first ten are written about himself, the other three about the Scriptures, from In the beginning as far as the rest of the Sabbath.",
+              "source": "Retractations II.6, printed at the head of Pusey’s Latin edition (Oxford, 1838); that he wrote the Retractations near the end of his life, about 426 to 427: Wikipedia, “Bibliography of Augustine of Hippo”"
+            },
+            "ring": [
+              { "where": "Book I, chapter 1: augustine/book-01, block 0, words 75 to 84", "latin": "requiescat in te", "pusey": "repose in Thee", "tense": "until it does", "puseyWord": "repose", "latinVerb": "requiescat", "place": "first paragraph", "wordsBefore": 82, "read": "augustine/book-01:0" },
+              { "where": "Book XIII, chapter 36: augustine/book-13, block 49, the third paragraph from the end", "latin": "requiescamus in te", "pusey": "rest in Thee", "tense": "to come, in eternal life", "puseyWord": "rest", "latinVerb": "requiescamus", "place": "third paragraph from the end", "wordsBefore": 111507, "read": "augustine/book-13:49" },
+              { "where": "Book XIII, chapter 38: augustine/book-13, block 51, the last paragraph", "latin": "tua quies tu ipse es", "pusey": "Thy rest is Thou Thyself", "tense": "said of God, now and always" }
+            ],
+            "ringBetween": [
+              { "where": "Book IX, chapter 3: augustine/book-09, block 4, words 228 to 230", "latin": "requievimus in te", "pusey": "reposed in Thee", "tense": "already had, at a friend’s country house", "puseyWord": "reposed", "latinVerb": "requievimus", "place": "Book IX, fifth paragraph", "wordsBefore": 55540, "read": "augustine/book-09:4" }
+            ],
+            "plates": [
+              { "plate": "opening", "book": "I", "block": 0 },
+              { "plate": "pears", "book": "II", "block": 8 },
+              { "plate": "late", "book": "X", "block": 37 }
+            ]
+          },
+          "caption": "Pusey’s English has 111,772 words in thirteen books, all spoken to God: a word for <b>Thou</b> comes 2,889 times, about once in 39 words. By Augustine’s own account ten books are about himself and three on the opening of Genesis, as far as the Sabbath rest. <b>Repose in Thee</b> returns in the third paragraph from the end as <i>rest in Thee</i>, the same Latin verb, and there it is still to come, in <i>eternal life</i>. Between them Book IX has the verb with <i>in Thee</i> once: a rest already had, at a friend’s country house. In Book X, on what he is now, he calls himself a burden to himself, because he is not yet full of God.",
+          "why": "The rest named in the first paragraph returns on the last pages as something still to come; between them a man who says he is a burden to himself speaks thirteen books to God.",
+          "stands": "A count of the words of Pusey’s English as printed here, and in it of *Thou*, *Thee*, *Thy*, *Thine* and *Thyself* with a capital. Augustine’s *Retractations*, Book II, chapter 6, printed at the head of Pusey’s Latin edition, which also gives the verb. The places themselves: [Book IX](#/read/augustine/book-09:4), [Book XIII](#/read/augustine/book-13:49), and in Book X [what he is now](#/read/augustine/book-10:3) and [the burden](#/read/augustine/book-10:38).",
+          "grounds": [
+            { "claim": "111,772 words, thirteen books, 2,889 Thou-words, some in every book", "kind": "source", "source": "counted on the hosted text with the site’s word-splitter" },
+            { "claim": "ten books about himself, three on the opening of Genesis as far as the Sabbath rest", "kind": "source", "source": "Augustine, Retractations II.6, printed at the head of Pusey’s Latin edition (Oxford, 1838); the preface to his translation (1838) quotes only its first sentences, not this plan" },
+            { "claim": "repose in Thee returns as rest in Thee, the same Latin verb, as something to come", "kind": "source", "source": "Confessions I.1.1 (requiescat in te) and XIII.36.51 (requiescamus in te) in the Latin; augustine/book-13, block 49" },
+            { "claim": "between them Book IX has the verb with in Thee once, of a rest already had at a friend’s country house", "kind": "source", "source": "Confessions IX.3.5 in the Latin (requievimus in te), where Pusey has reposed in Thee (augustine/book-09, block 4, word 228); a search of the whole Latin edition finds the verb joined to in te in these three places only" },
+            { "claim": "in Book X he writes of what he is now and calls himself a burden to himself, because he is not yet full of God", "kind": "source", "source": "Confessions X.3.4 and X.28.39 (augustine/book-10, blocks 3 and 38). Finisher: the reason is his own, in the first two sentences of block 38 as printed here: when he cleaves to God with his whole self his life will be full of God; now he is not full, and so is a burden to himself" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pears",
+      "heading": "After the theft of the pears",
+      "text": "augustine/book-02",
+      "rows": [
+        "8.0[189-260]"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Itself",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build; here, three times, a missing motive and the deed",
+          "draw": "pair",
+          "parts": [
+            { "row": "8.0", "w": [207, 210], "tag": "A", "label": "a motive: none" },
+            { "row": "8.0", "w": [212, 214], "tag": "B", "label": "the deed" },
+            { "row": "8.0", "w": [231, 237], "tag": "A" },
+            { "row": "8.0", "w": [239, 241], "tag": "B" },
+            { "row": "8.0", "w": [251, 256], "tag": "A" },
+            { "row": "8.0", "w": [258, 260], "tag": "B" },
+            { "row": "8.0", "w": [211, 211], "tag": "but", "label": "the turn" },
+            { "row": "8.0", "w": [238, 238], "tag": "but" },
+            { "row": "8.0", "w": [257, 257], "tag": "but" }
+          ],
+          "caption": "Three times a clause turns on <b>but</b>, and each time the noun after it takes up the word before it: <i>ill</i> and <b>the ill itself</b>, <i>faulty</i> and <b>my fault itself</b>, <i>the shame</i> and <b>the shame itself</b>. The first half is the place for a motive, and each time it says there was none. Pusey’s <b>temptation</b> is the Latin <i>causa</i>, a cause: his ill had no cause but itself. Two paragraphs later Augustine gives the rule this breaks: nobody believes in a crime done for no cause, and even the conspirator Catiline had one. Auden calls such an act gratuitous and says the idea first comes up here. The repeated nouns are Augustine’s; Pusey adds <i>itself</i> twice.",
+          "why": "Three times the passage makes room for a motive and fills it with the deed again: this is the act without a motive that Augustine says nobody believes in and that Auden says first comes up here.",
+          "stands": "The marks on the passage, and the lines themselves. Antithesis as *Silva Rhetoricae* defines it. Augustine’s Latin in Pusey’s edition of 1838, Book II, chapter 4, with Lewis and Short’s Latin dictionary under *causa*. The rule about Catiline, two paragraphs later in [Book II](#/read/augustine/book-02:10); that he was a conspirator, the *New English Dictionary* under *Catiline*. Auden: *Lectures on Shakespeare*, p. 197.",
+          "grounds": [
+            { "claim": "three clauses turn on but, and the noun returns", "kind": "plate" },
+            { "claim": "no motive is given but the deed itself", "kind": "text", "source": "words 206 to 214, 231 to 241 and 251 to 260" },
+            { "claim": "temptation is causa, a cause: his ill had no cause but itself", "kind": "source", "source": "Confessions II.4.9 in Pusey’s Latin edition (Oxford, 1838); Lewis and Short, causa (a cause, reason, motive)" },
+            { "claim": "nobody believes in a crime without a cause; even Catiline had one", "kind": "source", "source": "Confessions II.5.11 (augustine/book-02, block 10); the Latin has the same word, causa, and the Latin edition heads the chapter Neminem peccare sine causa, no one sins without a cause" },
+            { "claim": "Catiline was a conspirator", "kind": "source", "source": "A New English Dictionary on Historical Principles, vol. II (Oxford, 1893), Catiline: a Roman who conspired against his country B.C. 63, sometimes taken as the type of a profligate conspirator; read by the finisher in a scan of the volume. The lines printed here do not use the word: in augustine/book-02, block 10, the end he is said to have sought is to take the city" },
+            { "claim": "the gratuitous act first comes up with the pear tree", "kind": "auden", "source": "Lectures on Shakespeare, edited by Arthur Kirsch (2000), p. 197 (the lecture on Othello)" },
+            { "claim": "the repeated nouns are in the Latin; ipsum, itself, stands there once and Pusey has itself three times", "kind": "source", "source": "Confessions II.4.9 in Pusey’s Latin edition (Oxford, 1838): malitiae and malitia, deficiebam and defectum, dedecore and dedecus" }
+          ]
+        },
+        {
+          "kind": "figure",
+          "label": "Loved",
+          "name": "anaphora",
+          "plain": "the same words at the head of clause after clause",
+          "draw": "align",
+          "join": "none",
+          "parts": [
+            { "row": "8.0", "w": [219, 220], "tag": "A", "label": "I loved" },
+            { "row": "8.0", "w": [222, 223], "tag": "A" },
+            { "row": "8.0", "w": [226, 227], "tag": "A" },
+            { "row": "8.0", "w": [221, 221], "tag": "object", "label": "the ill" },
+            { "row": "8.0", "w": [224, 225], "tag": "object", "label": "his own ruin" },
+            { "row": "8.0", "w": [228, 230], "tag": "object", "label": "his own failing" }
+          ],
+          "caption": "<b>I loved</b> heads three clauses. Words repeated at the head of clause after clause are called anaphora. The verb stays the same and its object changes: first <i>it</i>, the ill, then <i>to perish</i>, then <i>mine own fault</i>. The lines give the love and no reason for it. The verb is <i>amavi</i>, the one Augustine uses of his love of God in the passage from Book X. In Auden’s summary of Augustine a man always acts from love of himself or of God, and his reasons and appetites come second. The Latin says <i>amavi</i> a fourth time, closing the next clause; Pusey leaves that one out.",
+          "why": "The repeated verb makes the theft an act of love whose object becomes his own ruin; he uses the same verb of God in Book X, and Auden’s summary knows only two loves, of self and of God.",
+          "stands": "The marks on the passage, and the lines themselves. Anaphora as *Silva Rhetoricae* defines it. *Amavi* in Pusey’s Latin edition of 1838, Book II, chapter 4, and Book X, chapter 27. Auden: *Forewords and Afterwords*, p. 37.",
+          "grounds": [
+            { "claim": "I loved heads three clauses, each with a new object", "kind": "plate" },
+            { "claim": "anaphora is the same word or words at the head of successive clauses", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), anaphora" },
+            { "claim": "the love is given and no reason for it", "kind": "text", "source": "words 204 to 221" },
+            { "claim": "the verb is amavi, four times here and again of God in Book X", "kind": "source", "source": "Confessions II.4.9 and X.27.38 in Pusey’s Latin edition (Oxford, 1838)" },
+            { "claim": "a man acts from love of himself or love of God; his reasons and appetites are secondary", "kind": "auden", "source": "“Augustus to Augustine,” in Forewords and Afterwords (1973), p. 37" }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "8.0",
+              "w": [204, 204],
+              "gloss": "*gratis*: for nothing",
+              "note": "Two paragraphs later Augustine borrows the historian Sallust’s phrase for the conspirator Catiline, evil and cruel for nothing, and shows that even Catiline wanted something.",
+              "source": "Lewis and Short, gratia and gratuitus (which cites Sallust, Catiline 16.3); Confessions II.5.11 (augustine/book-02, block 10); that Catiline was a conspirator: A New English Dictionary, vol. II (1893), Catiline"
+            },
+            {
+              "row": "8.0",
+              "w": [208, 208],
+              "gloss": "*causa*: a cause, a motive",
+              "note": "The Latin says his ill had no cause but itself, and the next chapter of Pusey’s Latin edition is headed *Neminem peccare sine causa*, no one sins without a cause.",
+              "source": "Lewis and Short, causa; Confessions II.4.9 and the heading of II.5 in Pusey’s Latin edition (Oxford, 1838)"
+            },
+            {
+              "row": "8.0",
+              "w": [217, 217],
+              "gloss": "*foeda*: filthy, ugly",
+              "source": "Lewis and Short, foedus (adjective)"
+            },
+            {
+              "row": "8.0",
+              "w": [230, 230],
+              "gloss": "*defectus*: a defection, a lack",
+              "note": "English *fault* first meant a lack; Webster’s dictionary of 1828 still lists *defect, want, absence* as a sense no longer used.",
+              "source": "Lewis and Short, defectus and deficio; Online Etymology Dictionary, fault; Webster (1828), fault. Finisher: A New English Dictionary, vol. IV (1901), Fault, sb., sense 1: deficiency, lack, scarcity, want of something; marked obsolete, with examples from before 1300 to 1591"
+            },
+            {
+              "row": "8.0",
+              "w": [247, 247],
+              "gloss": "*firmamentum*: a support; later, the sky",
+              "note": "Lewis and Short give a support or prop as the first sense, and the sky as a late one, found in Augustine himself.",
+              "source": "Lewis and Short, firmamentum"
+            },
+            {
+              "row": "8.0",
+              "w": [259, 259],
+              "gloss": "*dedecus*: disgrace, dishonor",
+              "source": "Lewis and Short, dedecus"
+            }
+          ],
+          "caption": "<b>Gratuitously</b> is Pusey’s word for <i>gratis</i>: for nothing, with no return. Auden’s name for the act told here is the French for a gratuitous act, <i>acte gratuit</i>. <i>Gratis</i> is a form of <i>gratia</i>, favor, the word that gives English <i>grace</i>. Augustine uses both. Six paragraphs later he ascribes to God’s <i>gratia</i> his pardon and the evil he did not do, and he calls the crime he loved <i>gratuitum</i>. So his Latin names the crime and the grace from one root. Pusey loses the pair there: he writes <i>a sin for its own sake</i>. <b>Fault</b> is <i>defectus</i>, a defection or a lack, and Augustine says later that the theft he loved <i>was nothing</i>.",
+          "why": "Augustine’s word for his crime, gratis, is a form of his word for grace, and his word for what he loved means a lack: the act is done for nothing and, as he says later, was nothing.",
+          "stands": "Augustine’s Latin in Pusey’s edition of 1838, Book II, chapters 4 and 7. Lewis and Short’s Latin dictionary under *gratia*, *gratuitus* and *defectus*; the Online Etymology Dictionary under *gratis* and *grace*. His later words in Book II on [grace](#/read/augustine/book-02:14) and on [nothing](#/read/augustine/book-02:15). Auden: *Lectures on Shakespeare*, p. 197, and *Forewords and Afterwords*, pp. 36–37.",
+          "grounds": [
+            { "claim": "gratuitously is gratis, for nothing; gratis is a form of gratia, favor", "kind": "source", "source": "Confessions II.4.9 in Pusey’s Latin edition (Oxford, 1838); Lewis and Short, gratia and gratuitus; Online Etymology Dictionary, gratis" },
+            { "claim": "gratia gives English grace", "kind": "source", "source": "Online Etymology Dictionary, grace" },
+            { "claim": "acte gratuit is Auden’s name for the act told here", "kind": "auden", "source": "Lectures on Shakespeare, edited by Arthur Kirsch (2000), p. 197; “Augustus to Augustine,” in Forewords and Afterwords (1973), pp. 36–37" },
+            { "claim": "he ascribes to God’s gratia his pardon and the evil he did not do, he who loved a gratuitum crime", "kind": "source", "source": "Confessions II.7.15 in the Latin (gratia twice; gratuitum facinus); augustine/book-02, block 14, where Pusey has grace twice and a sin for its own sake" },
+            { "claim": "fault is defectus, a defection or a lack", "kind": "source", "source": "Lewis and Short, defectus (I. defection, revolt; II. a failing, failure, lack) and deficio" },
+            { "claim": "the theft he loved was nothing", "kind": "source", "source": "Confessions II.8.16 (augustine/book-02, block 15)" }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Book",
+          "what": "Book II: how many words tell the theft, and how many come after it",
+          "facts": {
+            "counted": "Counted on the hosted text (augustine/book-02) with the site’s own word-splitter. A question is a question mark. The hosted paragraphs are the eighteen numbered sections of the Latin edition.",
+            "words": 3781,
+            "paragraphs": 18,
+            "questions": 46,
+            "sections": [
+              { "where": "blocks 0 to 7", "words": 1667, "questions": 12, "what": "his sixteenth year: a year at home between schools, his father’s plans, his mother’s warnings, his companions" },
+              { "where": "block 8, words 0 to 90", "words": 91, "questions": 1, "what": "theft is against God’s law and the law in men’s hearts; he stole what he had plenty of" },
+              { "where": "block 8, words 91 to 168", "words": 78, "questions": 0, "sentences": 3, "what": "the story: the tree, the night’s work, the reason", "read": "augustine/book-02:8" },
+              { "where": "block 8, words 169 to 188", "words": 20, "questions": 0, "what": "he shows God his heart" },
+              { "where": "block 8, words 189 to 260", "words": 72, "questions": 0, "what": "the passage shown here" },
+              { "where": "blocks 9 to 17", "words": 1853, "questions": 33, "what": "the examination" }
+            ],
+            "afterTheStory": { "words": 1945, "questions": 33, "share": "51 in every 100 words of the book" },
+            "examination": [
+              { "block": 9, "chapter": "II.5.10", "matter": "what draws men to sin: beauty, honor, power, friendship" },
+              { "block": 10, "chapter": "II.5.11", "matter": "no crime is believed without a cause; even Catiline had one" },
+              { "block": 11, "chapter": "II.6.12", "matter": "what he loved in the theft: the pears were fair, and he did not want them" },
+              { "block": 12, "chapter": "II.6.13", "matter": "each vice imitates some good that is God’s" },
+              { "block": 13, "chapter": "II.6.14", "matter": "whether he imitated God’s power by breaking his law unpunished" },
+              { "block": 14, "chapter": "II.7.15", "matter": "thanks for pardon, which he ascribes to grace" },
+              { "block": 15, "chapter": "II.8.16", "matter": "the theft was nothing; alone he would not have done it" },
+              { "block": 16, "chapter": "II.9.17", "matter": "what the company added" },
+              { "block": 17, "chapter": "II.10.18", "matter": "who can untie the knot" }
+            ],
+            "loveVerbs": { "inTheBook": 23, "onThePlate": 3, "forms": "the verb only: love ten times, loved twelve, lovest once; the noun love, six times more, is left out" },
+            "paragraphWords": [143, 190, 180, 195, 216, 194, 264, 285, 261, 188, 204, 222, 294, 163, 261, 206, 211, 104],
+            "questionMarkWords": [157, 425, 570, 680, 771, 802, 834, 864, 1139, 1148, 1167, 1324, 1696, 2180, 2222, 2226, 2266, 2344, 2363, 2564, 2605, 2613, 2695, 2709, 2763, 2772, 2804, 2812, 2913, 2924, 2966, 2999, 3020, 3097, 3169, 3278, 3338, 3368, 3383, 3398, 3471, 3491, 3496, 3536, 3542, 3685]
+          },
+          "caption": "Book II has 3,781 words, and the theft takes 78 of them. In the 1,945 words after it, just over half the book, he examines what he loved in it, with 33 question marks. Auden told his 1941 class that Augustine’s account of the conflict between self and ego is the earliest classic of self-analysis. One answer Augustine tries, five paragraphs later, is that he was a prisoner imitating freedom: he did unpunished what was forbidden, a dim likeness of God’s power. Auden says why so many gratuitous acts, Augustine’s among them, are crimes: by breaking a law a man asserts that he is free. The last paragraph asks who can untie the knot.",
+          "why": "The theft gets 78 words; in the 1,945 after it he examines it, so the weight is on the motive. Auden called Augustine’s account the earliest classic of self-analysis; his reason for such crimes is one Augustine tries here.",
+          "stands": "A count of words and question marks in Book II as printed here. Donald Pearce’s notes of Auden’s lecture, in *W. H. Auden: The Far Interior*, p. 134. Two later places in Book II: [the prisoner](#/read/augustine/book-02:13) and [the knot](#/read/augustine/book-02:17). Auden: *The Dyer’s Hand*, p. 430, and “Squares and Oblongs,” in *Poets at Work*, pp. 167–68.",
+          "grounds": [
+            { "claim": "3,781 words; 78 for the theft, in three sentences; 1,945 after it, with 33 question marks", "kind": "source", "source": "counted on the hosted text (augustine/book-02) with the site’s word-splitter" },
+            { "claim": "in the words after the story he examines what he loved in the theft", "kind": "text", "source": "augustine/book-02: block 8, words 189 to 199 (his heart is to tell what it sought there), and the questions that open blocks 11, 13 and 15. Finisher: block 14 gives thanks for pardon and block 17 ends in prayer, so the caption no longer says that all 1,945 words examine" },
+            { "claim": "what Augustine wrote on the conflict between self and ego is the earliest classic of self-analysis", "kind": "auden", "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in W. H. Auden: The Far Interior (1985), p. 134" },
+            { "claim": "he asks whether he was a prisoner imitating freedom, a dim likeness of God’s power", "kind": "source", "source": "Confessions II.6.14 (augustine/book-02, block 13)" },
+            { "claim": "many gratuitous acts are crimes because breaking a law asserts a man’s freedom", "kind": "auden", "source": "“Postscript: The Frivolous & The Earnest,” in The Dyer’s Hand (1962), p. 430" },
+            { "claim": "Auden names Augustine’s act as one of these crimes", "kind": "auden", "source": "“Squares and Oblongs,” in Poets at Work (New York: Harcourt, Brace, 1948), pp. 167–68: seen by the examiner in full-text snippets of the archive.org copy (poetsatwork0000char), not in the scans or research notes C. The sentence that so many such acts are, like Augustine’s, criminal stands at the foot of p. 167, and the clause on disobeying a law runs onto p. 168" },
+            { "claim": "the last paragraph asks who can untie the knot", "kind": "source", "source": "Confessions II.10.18 (augustine/book-02, block 17)" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "late",
+      "heading": "Too late",
+      "text": "augustine/book-10",
+      "rows": [
+        "37.0"
+      ],
+      "lenses": [
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "37.0",
+              "w": [0, 1],
+              "gloss": "*sero*: late, too late",
+              "source": "Lewis and Short, serus (the adverb sero)"
+            },
+            {
+              "row": "37.0",
+              "w": [2, 2],
+              "gloss": "*amavi*: I loved",
+              "source": "Confessions X.27.38 and II.4.9 in Pusey’s Latin edition (Oxford, 1838); Lewis and Short, amo"
+            },
+            {
+              "row": "37.0",
+              "w": [23, 23],
+              "gloss": "*intus*: inside",
+              "source": "Lewis and Short, intus"
+            },
+            {
+              "row": "37.0",
+              "w": [26, 26],
+              "gloss": "*foris*: out of doors",
+              "note": "Webster’s dictionary of 1828 lists *out of the walls of a house* among the meanings of *abroad*, ahead of *foreign countries*.",
+              "source": "Lewis and Short, foris; Webster (1828), abroad. Finisher: A New English Dictionary, vol. I (1888), Abroad, adv., sense 3 (out of one’s house or abode; out of doors; from 1377) stands before sense 4 (out of the home country; from about 1450)"
+            },
+            {
+              "row": "37.0",
+              "w": [33, 33],
+              "gloss": "*deformis*: misshapen, ugly",
+              "source": "Lewis and Short, deformis"
+            },
+            {
+              "row": "37.0",
+              "w": [38, 39],
+              "gloss": "*formosa*: finely formed, beautiful",
+              "source": "Lewis and Short, formosus and deformis"
+            }
+          ],
+          "caption": "<b>Too late</b> is one Latin word, <i>sero</i>. <b>Loved</b> is <i>amavi</i>, the verb of the theft in the passage from Book II. Augustine uses the same verb for both loves, and so does Auden’s summary of him. <b>Within</b> is <i>intus</i>, inside, and <b>abroad</b> is <i>foris</i>, out of doors. The beautiful things are <i>formosa</i>, finely formed, and he is <i>deformis</i>, misshapen, both from <i>forma</i>, shape. Pusey keeps the pair in <b>deformed</b> and <b>forms</b>. The things stay beautiful, and God made them. What is wrong is where he looks and what he is. Auden notes that the doctrine Augustine held finds nothing in matter evil in itself.",
+          "why": "The Latin pairs inside with outside and the finely formed with the misshapen, so the fault lies in where he looks and what he is; the things stay beautiful, and Auden notes this doctrine finds nothing in matter evil.",
+          "stands": "Augustine’s Latin in Pusey’s edition of 1838, Book X, chapter 27, and Book II, chapter 4. Lewis and Short’s Latin dictionary under *serus*, *amo*, *intus*, *foris*, *formosus* and *deformis*. The lines themselves. Auden: *Forewords and Afterwords*, pp. 36 and 37.",
+          "grounds": [
+            { "claim": "sero, amavi, intus, foris, formosa, deformis and their senses", "kind": "source", "source": "Confessions X.27.38 in Pusey’s Latin edition (Oxford, 1838); Lewis and Short, serus, amo, intus, foris, formosus, deformis" },
+            { "claim": "amavi is the verb said of the theft", "kind": "source", "source": "Confessions II.4.9 in the Latin" },
+            { "claim": "the things are fair and God made them; he searches outside and is deformed", "kind": "text", "source": "words 19 to 43" },
+            { "claim": "a man acts self-loving or God-loving: the same verb for both", "kind": "auden", "source": "“Augustus to Augustine,” in Forewords and Afterwords (1973), p. 37" },
+            { "claim": "the doctrine of creation that Christians hold finds nothing in matter evil in itself", "kind": "auden", "source": "“Augustus to Augustine,” in Forewords and Afterwords (1973), p. 36" }
+          ]
+        },
+        {
+          "kind": "figure",
+          "label": "Crossing",
+          "name": "chiasmus",
+          "plain": "a crossing: two things are named, then named again in the opposite order",
+          "draw": "cross",
+          "parts": [
+            { "row": "37.0", "w": [44, 44], "tag": "A", "label": "God" },
+            { "row": "37.0", "w": [47, 47], "tag": "B", "label": "Augustine" },
+            { "row": "37.0", "w": [49, 49], "tag": "B", "label": "Augustine" },
+            { "row": "37.0", "w": [53, 53], "tag": "A", "label": "God" },
+            { "row": "37.0", "w": [46, 46], "tag": "with", "label": "with" },
+            { "row": "37.0", "w": [52, 52], "tag": "with", "label": "with" },
+            { "row": "37.0", "w": [51, 51], "tag": "not", "label": "not" }
+          ],
+          "caption": "One short sentence names the two persons twice, in opposite order: <b>Thou</b>, <b>me</b>, then <b>I</b>, <b>Thee</b>. This crossing is called chiasmus. The word that joins each pair is the same, <b>with</b>, and the second half adds <b>not</b>. So one relation is said twice, and it holds in one direction and fails in the other. It is not a matter of place: the paragraph before says <i>Place there is none</i>. Auden, setting out the doctrine Augustine held, says the love it means is a relation that goes both ways. Here the way from Augustine to God is missing. The crossing is Augustine’s: <i>mecum eras, et tecum non eram</i>.",
+          "why": "The sentence crosses the two persons around one word, with, and denies it in one direction only; the love Auden says this doctrine means goes both ways, and the missing way is Augustine’s.",
+          "stands": "The marks on the passage, and the lines themselves. Chiasmus as *Silva Rhetoricae* defines it. The paragraph before, in [Book X](#/read/augustine/book-10:36), and the Latin of the sentence from Pusey’s edition of 1838. Auden: *Forewords and Afterwords*, pp. 35–36.",
+          "grounds": [
+            { "claim": "Thou, me, I, Thee; with twice; not once", "kind": "plate" },
+            { "claim": "chiasmus is a repetition in inverted order", "kind": "source", "source": "Silva Rhetoricae (rhetoric.byu.edu), chiasmus" },
+            { "claim": "the relation holds one way and fails the other, on his side", "kind": "text", "source": "words 44 to 53" },
+            { "claim": "there is no place", "kind": "source", "source": "Confessions X.26.37 (augustine/book-10, block 36)" },
+            { "claim": "the love the doctrine means is a relation that goes both ways", "kind": "auden", "source": "“Augustus to Augustine,” in Forewords and Afterwords (1973), pp. 35–36 (the sentence begins at the foot of p. 35)" },
+            { "claim": "the crossing is in the Latin", "kind": "source", "source": "Confessions X.27.38 in Pusey’s Latin edition (Oxford, 1838)" }
+          ]
+        },
+        {
+          "kind": "figure",
+          "label": "Senses",
+          "name": "enumeration",
+          "plain": "a counting out: one thing told part by part; here, sense by sense",
+          "draw": "list",
+          "parts": [
+            { "row": "37.0", "w": [70, 77], "tag": "sense", "label": "hearing" },
+            { "row": "37.0", "w": [78, 84], "tag": "sense", "label": "sight" },
+            { "row": "37.0", "w": [85, 96], "tag": "sense", "label": "smell" },
+            { "row": "37.0", "w": [97, 102], "tag": "sense", "label": "taste" },
+            { "row": "37.0", "w": [103, 111], "tag": "sense", "label": "touch" }
+          ],
+          "caption": "The last five sentences count out the five senses, one each: hearing, sight, smell, taste, touch. Thirty paragraphs earlier Augustine asks what he loves when he loves God, and answers with the same five, known inwardly: a light, a melody, a fragrance, a food, an embrace. There sight comes first. Here hearing does, with <b>Thou calledst</b>. The earlier paragraph says how his love began: God struck his heart with his word, and without God’s mercy heaven and earth speak to deaf ears. Three paragraphs after this passage he starts on what still tempts him and takes the senses in turn again: first sexual desire, then food and drink, smells, sounds and sights.",
+          "why": "Each sense gets a sentence, hearing first; by his own account the love began when God’s word struck his heart, and Book X counts by the senses both what he loves in God and what still tempts him.",
+          "stands": "The marks on the passage. Two other places in Book X: [what he loves when he loves God](#/read/augustine/book-10:7), thirty paragraphs earlier, and his review of what still tempts him, which [begins](#/read/augustine/book-10:40) three paragraphs later and ends with [the eyes](#/read/augustine/book-10:50).",
+          "grounds": [
+            { "claim": "five sentences, one to each sense, hearing first", "kind": "plate" },
+            { "claim": "the same five thirty paragraphs earlier, sight first; God struck his heart with his word, and he loved; without God’s mercy heaven and earth speak to deaf ears", "kind": "source", "source": "Confessions X.6.8 (augustine/book-10, block 7)" },
+            { "claim": "three paragraphs after the passage he starts on what still tempts him and takes the senses in turn: sex and dreams, food and drink, smells, sounds, sights", "kind": "source", "source": "Confessions X.30.41 to X.34.53 (augustine/book-10, blocks 40 to 52: 40 and 41 sex and dreams, 42 to 46 eating and drinking, 47 smells, 48 and 49 the ear, 50 to 52 the eyes); block 53 calls these the delight of all senses" }
+          ]
+        },
+        {
+          "kind": "sentence",
+          "label": "Verbs",
+          "spans": [
+            { "from": ["37.0", 70], "to": ["37.0", 77], "tag": "Thou", "label": "God acts" },
+            { "from": ["37.0", 78], "to": ["37.0", 84], "tag": "Thou", "label": "God acts" },
+            { "from": ["37.0", 85], "to": ["37.0", 87], "tag": "Thou", "label": "God acts" },
+            { "from": ["37.0", 88], "to": ["37.0", 96], "tag": "I", "label": "he answers" },
+            { "from": ["37.0", 97], "to": ["37.0", 98], "tag": "I", "label": "his alone" },
+            { "from": ["37.0", 99], "to": ["37.0", 102], "tag": "now", "label": "present tense" },
+            { "from": ["37.0", 103], "to": ["37.0", 105], "tag": "Thou", "label": "God acts" },
+            { "from": ["37.0", 106], "to": ["37.0", 111], "tag": "I", "label": "he answers" }
+          ],
+          "caption": "The marks show who acts. In the first two marked sentences every verb is God’s, six of them, each with the old ending <i>-st</i> that goes with <i>Thou</i>. Then Augustine’s verbs come in, as answers: God breathes and he draws breath, God touches and he burns. One sentence has no <i>Thou</i>: <i>I tasted, and hunger and thirst</i>. Its last two verbs are in the present tense, as <b>panted</b> is in the Latin. The hunger goes on as he writes. Two paragraphs later he asks God to act first again: <i>Give what Thou enjoinest</i>. Auden set the prayer’s Latin in <i>New Year Letter</i> (1941), with a note to Book X.",
+          "why": "God’s verbs come first and Augustine’s follow as answers; the one sentence that is all his ends in the present tense: he hungers as he writes, and two paragraphs later he asks God to give what he commands.",
+          "stands": "The marks on the passage, and the lines themselves. Two other places in Book X: [what he is now](#/read/augustine/book-10:3) and [the prayer](#/read/augustine/book-10:39). The Latin verbs from Pusey’s edition of 1838, Book X, chapter 27. Auden: *New Year Letter* (1941), line 1684 and his note to it.",
+          "grounds": [
+            { "claim": "who acts in each clause; the endings in -st; the present tense of hunger and thirst", "kind": "plate" },
+            { "claim": "he is writing of what he is now", "kind": "source", "source": "Confessions X.3.4 (augustine/book-10, block 3)" },
+            { "claim": "two paragraphs later he asks God to give what he commands", "kind": "source", "source": "Confessions X.29.40 (augustine/book-10, block 39)" },
+            { "claim": "panted stands for a Latin present, anhelo; Pusey’s first edition has pant", "kind": "source", "source": "Confessions X.27.38 in Pusey’s Latin edition (Oxford, 1838): anhelo, with esurio and sitio after it; Lewis and Short, anhelo; The Confessions of S. Augustine, A Library of Fathers, vol. 1 (Oxford, 1838), Book X, chapter 27, in the archive.org copy (confessionsofsau01augu)" },
+            { "claim": "Auden put the Latin of that prayer into New Year Letter, with a note to Book X", "kind": "auden", "source": "New Year Letter (London: Faber, 1941), line 1684 and Auden’s note to it, as given in research notes C, section 5; seen by the examiner in full-text snippets of the archive.org copies of New Year Letter (newyearletter0000aude) and of the American edition, The Double Man (bwb_S0-DUH-879), which prints the note against 1684" }
+          ]
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "A student in the 1941 class, Donald Pearce, wrote down part of a lecture on the ego in Augustine and Kafka. Auden called what Augustine wrote on the conflict between self and ego the earliest classic of self-analysis. Since Freud, he went on, the ego no longer looks like the single, steady thing it was for Augustine, so the account now matters less as psychology than as ethics, where he said it will always be a founding text.",
+      "quote": "the subtlest introspectionist between Aristotle and Freud",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 134",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt (the third line of the file). The passage stands between the page numbers 133 and 134. In this book the number stands at the foot of its page (research notes E, section 2.1; the essay’s last words are followed by 157), so the passage is on p. 134, and its last word, Descartes, begins p. 135. Research notes A agree; notes B and C give p. 133. Finisher: read again in the scan (pearce.txt, line 3). Two phrases were turned, because the entry shared runs of nine and of six words with Pearce’s page; it now shares none of five. What the entry reports is unchanged."
+    },
+    {
+      "says": "In his review of 1944 Auden sets out what Augustine put in place of the classical picture of man. Man is made in God’s image, and is fallen. The dividing line runs between a self-loving state of all his powers, of body and of mind, and a spirit in him that still witnesses to what his life was meant to be, able to love God as God loves him. Nothing in matter is evil in itself, and the love meant is a relation that goes both ways.",
+      "source": "“Augustus to Augustine,” in *Forewords and Afterwords* (1973), pp. 35–36",
+      "checked": "read in the scan, research/auden/fa.txt, lines 1725-1773 (the page number 36 stands at the foot of its page, at line 1777). Finisher: read again at those lines. The phrase on God’s image was turned; as it stood it shared six words with line 1766."
+    },
+    {
+      "says": "Many gratuitous acts are crimes, Auden wrote, and he gave the reason. People want to be free and also to feel that they matter. By breaking a law a man asserts that he is free, and since it is a weighty law he still feels that he matters. In an essay printed in 1948 he says the same and gives Augustine’s act as the example. There he credits Augustine with being the first to see that man in his natural state hates nature, and that only an act done for nothing can content him.",
+      "source": "“Postscript: The Frivolous & The Earnest,” in *The Dyer’s Hand* (1962), p. 430; “Squares and Oblongs,” in *Poets at Work* (1948), pp. 167–68",
+      "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 20380-20388; the running head of page 431 follows at line 20398. Examiner: “Squares and Oblongs” was seen only in full-text snippets of the archive.org copy of Poets at Work (New York: Harcourt, Brace and Company, 1948; poetsatwork0000char), around the words actes gratuites, obeying a law, hates nature and first real psychologist. The running heads inside the snippets (SQUARES AND OBLONGS 167; 168 W. H. AUDEN) put the sentence that names Augustine on p. 167 and the clause on disobeying a law across pp. 167 and 168. The editor’s note in Lectures on Shakespeare gives the same pages. It is not in the scans or in research notes C. Finisher: p. 430 read again in the scan of The Dyer’s Hand (lines 20380 to 20388). It gives the reason and does not name Augustine; the scan has his name twice only, on pp. 64 and 140. One clause on the weight of the law was turned. The last two sentences of the entry still rest on the examiner’s snippets alone."
+    },
+    {
+      "says": "In *New Year Letter*, the long poem he published in 1941, the year of the course, Auden prays in Augustine’s Latin for God to give what he commands. His note to the line sends the reader to Book X of the *Confessions*, where the prayer stands two paragraphs after the third passage shown here.",
+      "source": "*New Year Letter* (1941), line 1684 and Auden’s note to it",
+      "checked": "research notes C, section 5 and the appendix on New Year Letter, where the line and the note are given from a snippet; not in the scans. The Latin prayer was read in Confessions X.29.40, in Pusey’s Latin edition. Examiner: the Latin line and the note to Book X were seen in full-text snippets of two archive.org copies, New Year Letter (London: Faber and Faber, 1941; newyearletter0000aude) and The Double Man (1941; bwb_S0-DUH-879), where the note stands against 1684 and the next note against 1704. Neither book was read in full."
+    },
+    {
+      "says": "On the typed reading list for the course the *Confessions* is assigned in the Loeb edition, which prints Augustine’s Latin on the page facing an English version, William Watts’s of 1631. The English shown here is Pusey’s. Among the criticism the same sheet recommends is C. N. Cochrane’s *Christianity and Classical Culture*, the book Auden reviews in the essay of 1944 used on this page. He says there that he had read it many times since 1940.",
+      "source": "the Required Reading sheet for English 135, University of Michigan, Fall 1941; “Augustus to Augustine,” in *Forewords and Afterwords* (1973), p. 33",
+      "checked": "research notes A, section 1.2 (row 4: Augustine, Confessions, Loeb), and research notes D (Required reading, entry 5), for what the Loeb edition contains (the Latin with Watts’s translation of 1631, edited by W. H. D. Rouse, 1912); the sheet itself was not seen by the poet. Examiner: the sheet was seen in the image that Alan Jacobs reproduces (blog.ayjay.org, 2012): the row reads Augustine, Confessions, Loeb, and the Recommended Critical Reading below it has C. N. Cochrane, Christianity and Classical Culture (research notes A, section 1.4, agree). The archive.org catalog record of the Loeb volumes names Watts’s translation of 1631. Auden’s many readings since 1940: the scan of Forewords and Afterwords, the first sentence of the essay, p. 33."
+    },
+    {
+      "says": "Charles Miller, a student in the class, reports Auden’s words at its first meeting in October 1941. The students would be examined on what they thought about certain great books, and the *Confessions* is the second he named, after the *Divine Comedy*.",
+      "source": "Charles H. Miller, *Auden: An American Friendship* (1983), p. 26",
+      "checked": "research notes C, appendix H7, and the Miller table in research notes A; both take the pages from the page markers of a scan and call them approximate. The book was not seen by the poet. Examiner: a full-text snippet of the archive.org copy (audenamericanfri00mill) shows the speech naming certain great books, The Divine Comedy first and Augustine’s Confessions second; the book’s own index, in another snippet, gives Augustine at 26 only, and research notes A put the first class, in early October 1941, on p. 26. So the page is given as 26, not 26–27. The book was not read in full."
+    }
+  ],
+  "next": "augustine/book-01:0",
+  "sources": [
+    "The text: Augustine, *The Confessions*, translated by E. B. Pusey (1838), as Project Gutenberg prints it (no. 3296).",
+    "The Latin: *S. Aurelii Augustini Confessiones*, edited by E. B. Pusey (Oxford: J. H. Parker, 1838), as Project Gutenberg prints it (no. 33849): Book I, chapter 1; Book II, chapters 3 to 10; Book IX, chapter 3; Book X, chapters 3, 6 and 26 to 34; Book XI, chapter 1; Book XIII, chapters 36 and 38; the psalm numbers in its margins; its chapter headings; and Augustine’s *Retractations*, Book II, chapter 6, printed at its head.",
+    "Pusey’s first printing of the translation: *The Confessions of S. Augustine*, A Library of Fathers, vol. 1 (Oxford: J. H. Parker, 1838), in the Internet Archive’s scan: the preface, the margins of Book I, and Book X, chapter 27.",
+    "W. H. Auden, “Augustus to Augustine” (*The New Republic*, 25 September 1944), in *Forewords and Afterwords* (1973), pp. 33–39.",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Postscript: The Frivolous & The Earnest,” p. 430.",
+    "W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (Princeton, 2000): the lecture on *Othello*, p. 197, and the editor’s notes to it. Not seen in full.",
+    "W. H. Auden, “Squares and Oblongs,” in *Poets at Work*, with an introduction by Charles D. Abbott (New York: Harcourt, Brace, 1948), pp. 167–68. Not seen in full.",
+    "W. H. Auden, *New Year Letter* (London: Faber and Faber, 1941), line 1684 and his note to it; the American edition of the same year is *The Double Man*. Not seen in full.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 134: notes made after Auden’s lectures in the fall of 1941.",
+    "The Required Reading sheet for English 135, University of Michigan, Fall 1941, in the photograph that Alan Jacobs printed on his blog (blog.ayjay.org) in 2012.",
+    "Charles H. Miller, *Auden: An American Friendship* (New York: Scribner, 1983), p. 26. Not seen in full.",
+    "Charlton T. Lewis and Charles Short, *A Latin Dictionary* (1879), at the Perseus Digital Library: *ad*, *amo*, *anhelo*, *causa*, *dedecus*, *defectus*, *deficio*, *deformis*, *excito*, *firmamentum*, *foedus*, *foris*, *forma*, *formosus*, *gratia*, *gratuitus*, *inquietus*, *intus*, *quies*, *quiesco*, *requiesco*, *serus*, *volo*.",
+    "Noah Webster, *An American Dictionary of the English Language* (1828), at webstersdictionary1828.com: *abroad*, *fault*.",
+    "*A New English Dictionary on Historical Principles*, vols. I (1888), II (1893) and IV (1901): *abroad*, *Catiline*, *fault*.",
+    "Online Etymology Dictionary (etymonline.com): *fault*, *grace*, *gratis*, *gratuitous*.",
+    "The King James Bible: Psalms 96:4, 145:3 and 147:5; James 4:6; 1 Peter 5:5.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu): anaphora, antithesis, apostrophe, chiasmus, enumeratio.",
+    "Wikipedia, “Augustine of Hippo,” “Confessions (Augustine)” and “Bibliography of Augustine of Hippo”: the dates of his life, of the book and of the *Retractations*.",
+    "The counts of words, of words for *Thou* and of question marks were made on the text printed here. A word is whatever stands between two spaces, and a question is a question mark."
+  ],
+  "caveats": [
+    "Only Auden’s words on the pear tree are about a passage shown here. What comes from his essay of 1944, a review of C. N. Cochrane’s *Christianity and Classical Culture*, sums up Augustine’s teaching as that book sets it out. It is not said of these passages.",
+    "Auden’s lecture on *Othello* survives in notes taken by people who heard it. That lecture, “Squares and Oblongs” and *New Year Letter* were read here only in snippets of scanned copies. The 1941 lecture on Augustine and Kafka is known from a student’s notes, which do not name the *Confessions*.",
+    "Auden’s course assigned the Loeb edition, with William Watts’s English of 1631. The English here is Pusey’s as Project Gutenberg prints it. In the third passage it reads *panted*, where Pusey’s first printing and the Latin have the present, *pant*.",
+    "*Ad te*, glossed here as *toward you*, can also be taken as *for you*, which is how Pusey has it. Apostrophe usually names a turn made inside a speech; calling the whole book one rests on Augustine’s saying that he tells his story to his own kind.",
+    "The counts are of Pusey’s English, not of the Latin. The words for *Thou* are every *Thou*, *Thee*, *Thy*, *Thine* and *Thyself* with a capital, and at least two of the 2,889 are not said to God."
+  ],
+  "open": [
+    "On the third plate the hosted text reads panted (word 94). Pusey’s first edition of 1838 reads pant, in the present tense, as the Latin does (anhelo). Finisher: the Verbs caption and the third caveat now say that the Latin has the present there. Which printing the hosted text follows was not traced.",
+    "Lectures on Shakespeare was not read in a full copy. The sentence about the pear tree is in research notes C; its page, 197, comes from the editor’s note as seen in archive.org full-text snippets in this session.",
+    "New Year Letter, line 1684, and Auden’s note to it were known to the poet only from research notes C; the examiner saw them in snippets of two scanned copies, the reading list in the photograph Alan Jacobs printed, and Miller’s report in a snippet, with the page given as 26. None of the three was read in full.",
+    "Pearce’s page records a student’s notes made after the lecture, not Auden’s own text. Pearce does not name the Confessions there; the course list and Miller’s report do. The page is given as 134, by the number at the foot of the page in the scan; research notes B and C give 133 for the same passage.",
+    "The Oxford English Dictionary’s own pages could not be opened (they ask for a login). Finisher: its first edition, A New English Dictionary, was read in scans of vols. I, II and IV for Abroad, adv. (sense 3, out of one’s house or out of doors, stands before sense 4, foreign lands), Fault, sb. (sense 1, deficiency or lack, obsolete, from before 1300) and Catiline. They bear out the two English glosses, which the page still gives from Webster (1828) and the Online Etymology Dictionary. The Latin glosses rest on Lewis and Short.",
+    "For Thyself is glossed as toward you, the first sense Lewis and Short give for ad. Ad te can also be taken as for you, which is how Pusey has it.",
+    "The count of 2,889 words for Thou includes a handful of capitalized forms that are not said to God.",
+    "There is no Latin plate. The Latin text is not among the originals on hand, and fetching it writes outside this piece’s folder, so the Latin words are named in the captions from Pusey’s Latin edition. The lines that would make a Latin pair are listed in notes.md.",
+    "Augustine’s age at each point is as the books and the headings of Pusey’s Latin edition give it; the years 397 to 400 for the writing and the age of thirty-one at his conversion are from Wikipedia.",
+    "Examiner, on the first four entries above: the present tense behind panted is now said in the Verbs caption and in the caveats. The examiner too saw the Othello lecture only in snippets (lecturesonshakes00aude): the sentence, the quotation of Book II after it, the page and the editor’s notes. New Year Letter’s line and note were seen in snippets of the Faber edition and of The Double Man; the reading list in the image Alan Jacobs reproduces; Miller’s report in snippets, with the page now given as 26 (the book’s index has Augustine at 26 only). Pearce’s page is 134, confirmed by the numbers at the foot of the pages in the scan; research notes B and C should be corrected.",
+    "Examiner, for the lead to judge: “Squares and Oblongs” (Poets at Work, 1948, pp. 167–68), where Auden names Augustine’s act as one of the gratuitous acts that are crimes. It is not in research notes C or the scans; the poet found it and kept it out for that reason. The examiner saw the sentences in archive.org snippets (poetsatwork0000char) and used them in the Book caption of the second plate, in auden[2], in that lens’s stands, in sources and in the second caveat. If only what is in notes C or the scans may be used, put the caption’s sentence back to: Auden gives a like reason why gratuitous acts are so often crimes, and take the essay out of those five places. Finisher: the four scans do not hold the essay, so they do not settle this. The Dyer’s Hand, p. 430 (dh.txt, lines 20380 to 20388), gives the same reason and does not name Augustine; his name stands in that scan twice only, on pp. 64 and 140. So the caption’s sentence stands on the scan but for its three words on Augustine’s act; those three words, the last two sentences of auden[2], and the essay’s name in the lens’s stands, in sources and in the second caveat rest on the examiner’s snippets alone. Left as the examiner set it, for the lead.",
+    "Examiner, for the artist: in the facts of the Whole lens there is a new key, ringBetween, with the one place between the two ends of the ring where the Latin joins the same verb to in te (Book IX, chapter 3; 55,540 words stand before it). Finisher: the artist’s drawing now reads it and shows the third point. In the facts of the Book lens loveVerbs.inTheBook was 29 and is now 23 (six of the 29 were the noun); nothing drawn or said used it.",
+    "Examiner: the Senses caption no longer cites Auden. The poet’s sentence from the 1944 essay (that Augustine does not set body against mind) is true to the essay but is not about this passage, and in the paragraph the caption leans on Augustine himself sets the inner man’s five senses against the body’s. The caption now stands on Book X alone.",
+    "Examiner: the third plate shows 112 words; the guide says about 30 to 110. It is one whole paragraph and was left whole.",
+    "Finisher: every printed sentence that reports Auden or Pearce was tested for runs of five words shared with the four scans and with the quotations in research notes C. Five were turned (in auden[0], auden[1], auden[2], the view and the Book caption). The record is at the end of notes.md.",
+    "Examiner, on the Latin plate: the tool that cuts a passage of the original needs the Latin among the originals first, and bringing it there is outside what an examiner may write. If the lead brings in Pusey’s Latin edition (Project Gutenberg no. 33849), the first and third passages would each take a Latin pair; the chapters are I.1.1 and X.27.38."
+  ]
+}

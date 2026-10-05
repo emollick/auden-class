@@ -1,0 +1,1055 @@
+/* English 135. Ink, paper and a red pencil. */
+
+:root {
+  --paper: #f6f3ea;
+  --paper-2: #efeadd;
+  --ink: #1c1a16;
+  --ink-2: #4a463d;
+  --muted: #736d60;
+  --rule: #cfc8b6;
+  --rule-2: #e2dccd;
+  --red: #a4261d;
+  --red-wash: #f3dcd6;
+  --field: #fbf9f3;
+  --serif: 'Source Serif 4', 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+  --measure: 38rem;
+  --wide: 56rem;
+  color-scheme: light;
+}
+
+/* The dark values are given twice: once for a reader whose system is dark
+   and who has not asked for light, and once for a reader who has asked for
+   dark outright. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --paper: #171613;
+    --paper-2: #201e1a;
+    --ink: #e8e3d6;
+    --ink-2: #c4bead;
+    --muted: #958e7d;
+    --rule: #3d3a32;
+    --rule-2: #2c2a24;
+    --red: #e2796c;
+    --red-wash: #3a211d;
+    --field: #1d1b17;
+    color-scheme: dark;
+  }
+}
+:root[data-theme='dark'] {
+  --paper: #171613;
+  --paper-2: #201e1a;
+  --ink: #e8e3d6;
+  --ink-2: #c4bead;
+  --muted: #958e7d;
+  --rule: #3d3a32;
+  --rule-2: #2c2a24;
+  --red: #e2796c;
+  --red-wash: #3a211d;
+  --field: #1d1b17;
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+/* What is marked hidden stays hidden, whatever else is said of how it is laid out. */
+[hidden] { display: none !important; }
+
+html {
+  font-size: 18px;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: 4rem;
+}
+@media (min-width: 60rem) { html { font-size: 19px; } }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-optical-sizing: auto;
+  font-size: 1rem;
+  line-height: 1.58;
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: underline; text-decoration-thickness: 0.06em; text-underline-offset: 0.18em; text-decoration-color: var(--muted); }
+a:hover { text-decoration-color: var(--ink); }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+h1, h2, h3 { font-weight: 600; line-height: 1.18; margin: 0; text-wrap: balance; }
+h1 { font-size: 2.05rem; letter-spacing: -0.012em; }
+h1[tabindex='-1']:focus { outline: none; }
+h1 + p:not(.lede):not(.muted) { margin-top: 0.75rem; }
+h2 { font-size: 1.32rem; margin-top: 2.6rem; margin-bottom: 0.5rem; }
+h3 { font-size: 1.05rem; margin-top: 1.8rem; margin-bottom: 0.3rem; }
+p { margin: 0 0 0.9rem; hanging-punctuation: first; }
+p, li { text-wrap: pretty; }
+ul, ol { margin: 0 0 0.9rem; padding-left: 1.3rem; }
+li { margin-bottom: 0.25rem; }
+hr { border: 0; border-top: 1px solid var(--rule); margin: 2.4rem 0; }
+em { font-style: italic; }
+strong { font-weight: 600; }
+small, .small { font-size: 0.86rem; }
+
+.sc, .kicker, .label, th {
+  font-variant-caps: all-small-caps;
+  font-variant-numeric: lining-nums;
+  letter-spacing: 0.07em;
+  font-weight: 500;
+}
+.kicker { color: var(--muted); font-size: 0.95rem; margin: 0 0 0.35rem; }
+.lede { font-size: 1.14rem; line-height: 1.5; color: var(--ink-2); margin-bottom: 1.4rem; }
+.muted { color: var(--muted); }
+.red { color: var(--red); }
+.nowrap { white-space: nowrap; }
+.num { font-variant-numeric: lining-nums tabular-nums; }
+
+/* ---------- frame ---------- */
+
+.masthead {
+  border-bottom: 1px solid var(--rule);
+  position: sticky;
+  top: env(safe-area-inset-top, 0px);
+  z-index: 10;
+  background: var(--paper);
+}
+.masthead-in {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0.55rem 1.25rem;
+  display: flex;
+  align-items: baseline;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.masthead .home {
+  text-decoration: none;
+  font-variant-caps: all-small-caps;
+  font-variant-numeric: lining-nums;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  font-size: 1.05rem;
+  white-space: nowrap;
+}
+.masthead nav { display: flex; gap: 1.15rem; flex-wrap: wrap; font-size: 0.92rem; }
+.masthead nav a { text-decoration: none; color: var(--ink-2); padding: 0.1rem 0; border-bottom: 1px solid transparent; }
+.masthead nav a:hover { color: var(--ink); border-bottom-color: var(--rule); }
+.masthead nav a[aria-current='page'] { color: var(--ink); border-bottom-color: var(--ink); }
+.masthead .standing { margin-left: auto; font-size: 0.86rem; color: var(--muted); white-space: nowrap; }
+/* The menu stays at the top of the window only where it fits on one line. */
+@media (max-width: 74rem) {
+  .masthead { position: static; }
+}
+/* While the examination's clock runs, its bar is the one thing kept at the top. */
+body:has(.exam-bar) .masthead { position: static; }
+@media (max-width: 46rem) {
+  .masthead { position: static; }
+  .masthead-in { gap: 0.35rem 1rem; padding: 0.6rem 1rem; }
+  .masthead .standing { margin-left: 0; width: 100%; white-space: normal; }
+}
+
+main { display: block; max-width: 72rem; margin: 0 auto; padding: 2.6rem 1.25rem 5rem; }
+@media (max-width: 46rem) { main { padding: 1.6rem 1rem 4rem; } }
+.col { max-width: var(--measure); }
+.col-wide { max-width: var(--wide); }
+.center { margin-left: auto; margin-right: auto; }
+
+footer.colophon {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 1.2rem 1.25rem 3rem;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.84rem;
+}
+footer.colophon p { max-width: var(--measure); margin-bottom: 0.4rem; }
+
+.crumbs { font-size: 0.88rem; color: var(--muted); margin-bottom: 1.4rem; }
+.crumbs a { text-decoration: none; color: var(--muted); }
+.crumbs a:hover { color: var(--ink); text-decoration: underline; }
+.crumbs .sep { margin: 0 0.4rem; }
+
+/* ---------- controls ---------- */
+
+button, .btn {
+  font: inherit;
+  font-size: 0.95rem;
+  line-height: 1.2;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid var(--ink);
+  border-radius: 2px;
+  padding: 0.5rem 0.95rem;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+button:hover, .btn:hover { background: var(--ink); color: var(--paper); }
+button.primary, .btn.primary { background: var(--ink); color: var(--paper); }
+button.primary:hover, .btn.primary:hover { background: transparent; color: var(--ink); }
+button.quiet, .btn.quiet { border-color: transparent; padding-left: 0; padding-right: 0; text-decoration: underline; text-decoration-color: var(--muted); text-underline-offset: 0.18em; }
+button.quiet:hover, .btn.quiet:hover { background: transparent; color: var(--ink); text-decoration-color: var(--ink); }
+button:disabled { opacity: 0.45; cursor: default; }
+button:disabled:hover { background: transparent; color: var(--ink); }
+button.primary:disabled:hover { background: var(--ink); color: var(--paper); }
+.row { display: flex; gap: 0.7rem 1rem; flex-wrap: wrap; align-items: center; margin: 1.1rem 0; }
+
+input[type='text'], input[type='date'], input[type='number'], select, textarea {
+  font: inherit;
+  color: var(--ink);
+  background: var(--field);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 0.45rem 0.6rem;
+  max-width: 100%;
+}
+input[type='text']:focus, input[type='date']:focus, select:focus, textarea:focus { border-color: var(--ink); }
+textarea { display: block; width: 100%; line-height: 1.58; resize: vertical; min-height: 9rem; padding: 0.7rem 0.8rem; }
+textarea.verse-in { min-height: 14rem; }
+label.field { display: block; margin: 0.9rem 0; }
+label.field > span { display: block; font-size: 0.88rem; color: var(--muted); margin-bottom: 0.25rem; }
+fieldset { border: 0; margin: 1rem 0; padding: 0; }
+legend { padding: 0; font-weight: 600; margin-bottom: 0.4rem; }
+.choice { display: flex; gap: 0.6rem; align-items: baseline; margin: 0.35rem 0; }
+.choice input { margin: 0; accent-color: var(--ink); transform: translateY(0.08em); }
+.count { font-size: 0.84rem; color: var(--muted); margin-top: 0.3rem; }
+
+.seg { display: inline-flex; border: 1px solid var(--ink); border-radius: 2px; }
+.seg button { border: 0; border-radius: 0; border-right: 1px solid var(--ink); padding: 0.4rem 0.8rem; font-size: 0.9rem; }
+.seg button:last-child { border-right: 0; }
+.seg button[aria-pressed='true'] { background: var(--ink); color: var(--paper); }
+
+/* ---------- lists of work ---------- */
+
+.stations { list-style: none; margin: 1.6rem 0; padding: 0; border-top: 1px solid var(--rule); counter-reset: st; }
+.stations > li { margin: 0; border-bottom: 1px solid var(--rule); counter-increment: st; }
+.stations > li > a, .stations > li > .st-row {
+  display: grid;
+  grid-template-columns: 2.1rem 1fr auto;
+  gap: 0.2rem 0.6rem;
+  padding: 0.85rem 0;
+  text-decoration: none;
+  align-items: baseline;
+}
+.stations > li > a:hover .st-title { text-decoration: underline; text-decoration-color: var(--muted); text-underline-offset: 0.18em; }
+.stations .st-n::before { content: counter(st, upper-roman); color: var(--muted); font-variant-caps: all-small-caps; letter-spacing: 0.05em; }
+.stations .st-title { font-weight: 600; }
+.stations .st-what { grid-column: 2; color: var(--ink-2); font-size: 0.94rem; }
+.stations .st-state { grid-row: 1; grid-column: 3; font-size: 0.88rem; color: var(--muted); white-space: nowrap; text-align: right; }
+.stations .st-state.done { color: var(--ink); }
+.stations .st-state.late { color: var(--red); }
+/* the standing of a canto can be a long phrase: on a phone it goes under the title, where it can turn over */
+@media (max-width: 34rem) {
+  .stations.standings .st-state { grid-row: auto; grid-column: 2; white-space: normal; text-align: left; }
+}
+
+.units { list-style: none; margin: 1.4rem 0; padding: 0; border-top: 1px solid var(--rule); }
+.units > li { margin: 0; border-bottom: 1px solid var(--rule); }
+.units > li > a { display: grid; grid-template-columns: 2.6rem 1fr auto; gap: 0.1rem 0.7rem; padding: 0.75rem 0; text-decoration: none; align-items: baseline; }
+.units .u-n { color: var(--muted); font-variant-numeric: lining-nums tabular-nums; }
+.units .u-title { font-weight: 600; }
+.units .u-sub { grid-column: 2; color: var(--ink-2); font-size: 0.92rem; }
+.units .u-when { grid-row: 1; grid-column: 3; color: var(--muted); font-size: 0.86rem; white-space: nowrap; text-align: right; }
+.units .u-now { grid-row: 2; grid-column: 3; font-size: 0.86rem; font-weight: 600; white-space: nowrap; text-align: right; }
+.units .u-work { grid-column: 2; color: var(--muted); font-size: 0.86rem; }
+.units > li > a:hover .u-title { text-decoration: underline; text-decoration-color: var(--muted); text-underline-offset: 0.18em; }
+
+/* ---------- texts ---------- */
+
+.verse { margin: 1.4rem 0; }
+.verse .vl { position: relative; padding-left: 2.6rem; text-indent: -1.2rem; margin-left: 1.2rem; }
+.verse .vl[data-n]::before {
+  content: attr(data-n);
+  position: absolute;
+  left: -1.2rem;
+  width: 2rem;
+  text-indent: 0;
+  text-align: right;
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  top: 0.32em;
+}
+.verse .gap { height: 0.8rem; }
+.verse .who { font-variant-caps: all-small-caps; letter-spacing: 0.06em; color: var(--ink-2); margin-top: 0.7rem; padding-left: 2.6rem; }
+.verse .dir { font-style: italic; color: var(--ink-2); padding-left: 2.6rem; }
+.verse.veiled .vl { letter-spacing: 0.04em; }
+.verse.covered { color: transparent; user-select: none; position: relative; }
+.verse.covered .vl { background: repeating-linear-gradient(to bottom, transparent 0, transparent calc(1.58em - 1px), var(--rule-2) calc(1.58em - 1px), var(--rule-2) 1.58em); }
+.verse.covered .vl[data-n]::before { color: var(--muted); }
+
+.reading p { margin-bottom: 0.9rem; }
+.reading p.break { text-align: center; margin: 1.4rem 0; color: var(--ink-2); letter-spacing: 0.5em; }
+.reading h2, .reading h3 { margin-top: 2rem; }
+.reading .verse { margin: 1rem 0; }
+.reading .stage { font-style: italic; color: var(--ink-2); }
+.reading .speaker { font-variant-caps: all-small-caps; letter-spacing: 0.06em; margin: 0.9rem 0 0; }
+/* a play on a phone: the speaker's name stands on a line of its own, so the speeches give up their indent, and where lines of verse still turn over the verse is set one size smaller. Numbered verse keeps the margin its numbers stand in. */
+@media (max-width: 34rem) {
+  .reading:has(.speaker):not(:has(.vl[data-n])) .verse .vl { padding-left: 1.2rem; margin-left: 0; }
+}
+@media (max-width: 30rem) {
+  .reading:has(.speaker):not(:has(.vl[data-n])) .verse .vl { font-size: 0.92rem; }
+}
+/* a numbered poem on a phone: a narrower margin for the numbers and a smaller letter, so that more of the lines stay whole */
+@media (max-width: 34rem) {
+  .reading .verse:has(.vl[data-n]) .vl { padding-left: 2rem; text-indent: -1rem; margin-left: 1rem; font-size: 0.88rem; }
+  .reading .verse .vl[data-n]::before { left: -1rem; width: 1.6rem; font-size: 0.7rem; }
+}
+.reading blockquote { margin: 1rem 0 1rem 1.4rem; color: var(--ink-2); }
+
+.quoted { border-left: 2px solid var(--rule); padding: 0.1rem 0 0.1rem 1.1rem; margin: 1.3rem 0; }
+.quoted .verse { margin: 0; }
+.quoted p:last-child { margin-bottom: 0; }
+
+/* ---------- the red pencil ---------- */
+
+.marked { margin: 1.4rem 0; }
+.marked .ml { position: relative; padding-left: 2.6rem; text-indent: -1.2rem; margin-left: 1.2rem; }
+.marked .ml.slip::after { content: ''; position: absolute; left: 0.55rem; top: 0.2em; bottom: 0.2em; border-left: 2px solid var(--red); }
+.marked .gap { height: 0.8rem; }
+.marked del { color: var(--red); text-decoration: line-through; text-decoration-thickness: 0.08em; }
+.marked ins { color: var(--red); text-decoration: none; font-weight: 500; }
+.marked ins.missing { border-bottom: 1px solid var(--red); }
+.marked ins.missing::before { content: '\2038'; margin-right: 0.05em; font-weight: 400; }
+.verdict { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 0.8rem 0; margin: 1.6rem 0; }
+.verdict p { margin: 0; }
+.verdict p + p { margin-top: 0.4rem; }
+.verdict .figure { font-size: 1.14rem; font-weight: 600; }
+
+/* ---------- missing words ---------- */
+
+.cloze .vl, .cloze p { line-height: 2.1; }
+.cloze input.blank {
+  font: inherit;
+  width: 7.5em;
+  padding: 0 0.3rem;
+  border: 0;
+  border-bottom: 1px solid var(--ink);
+  border-radius: 0;
+  background: var(--field);
+  text-indent: 0;
+}
+.cloze .given { border-bottom: 1px solid var(--rule); padding: 0 0.15rem; }
+.cloze .given .yours { color: var(--muted); }
+.cloze .given .yours.same { color: var(--ink); }
+.cloze .given .theirs { font-weight: 600; margin-left: 0.3rem; }
+.cloze .given .yours.differs { text-decoration: line-through; }
+
+/* ---------- tables ---------- */
+
+table { border-collapse: collapse; width: 100%; margin: 1.4rem 0; font-variant-numeric: lining-nums tabular-nums; }
+th, td { text-align: left; padding: 0.42rem 0.9rem 0.42rem 0; border-bottom: 1px solid var(--rule-2); vertical-align: baseline; }
+th { color: var(--muted); border-bottom: 1px solid var(--rule); font-size: 0.95rem; white-space: nowrap; }
+td.n, th.n { text-align: right; padding-right: 0; padding-left: 0.9rem; }
+td.n + td:not(.n), th.n + th:not(.n) { padding-left: 1.6rem; }
+tr.total td { border-top: 1px solid var(--ink); border-bottom: 0; font-weight: 600; }
+td a { text-decoration-color: var(--rule); }
+.scroll-x { overflow-x: auto; }
+.scroll-x.keep > table { min-width: 36rem; }
+/* a record that is too wide for a phone: each row is stacked, every cell with the heading of its column */
+@media (max-width: 46rem) {
+  .scroll-x.keep > table.stack { min-width: 0; }
+  table.stack thead { display: none; }
+  table.stack, table.stack tbody, table.stack tr, table.stack td { display: block; }
+  table.stack tr { border-bottom: 1px solid var(--rule); padding: 0.55rem 0; }
+  table.stack td, table.stack td.n, table.stack td.n + td:not(.n) { border: 0; padding: 0.08rem 0; text-align: left; white-space: normal; }
+  table.stack td[data-label] { display: flex; align-items: baseline; }
+  table.stack td:empty, table.stack td[data-label]:empty { display: none; }
+  table.stack td[data-label]::before { content: attr(data-label); flex: none; width: 8.2rem; color: var(--muted); font-size: 0.95rem; font-variant-caps: all-small-caps; letter-spacing: 0.07em; }
+  table.stack tr.total td { border: 0; }
+  /* the reading list: its notes are long, so the heading runs in at the start of the cell and the note keeps the whole width */
+  table.books.stack td[data-label] { display: block; }
+  table.books.stack td[data-label]::before { display: inline; width: auto; margin-right: 0.6rem; }
+  table.books.stack td:first-child { min-width: 0; }
+}
+/* the table of weeks has nine columns, which need most of the wide column: it is stacked, by the same rules, wherever the screen is narrower than that */
+@media (max-width: 64rem) {
+  .scroll-x.keep > table.record { min-width: 0; }
+  table.record thead { display: none; }
+  table.record, table.record tbody, table.record tr, table.record td { display: block; }
+  table.record tr { border-bottom: 1px solid var(--rule); padding: 0.55rem 0; }
+  table.record td, table.record td.n, table.record td.n + td:not(.n) { border: 0; padding: 0.08rem 0; text-align: left; white-space: normal; }
+  table.record td[data-label] { display: flex; align-items: baseline; }
+  table.record td:empty, table.record td[data-label]:empty { display: none; }
+  table.record td[data-label]::before { content: attr(data-label); flex: none; width: 8.2rem; color: var(--muted); font-size: 0.95rem; font-variant-caps: all-small-caps; letter-spacing: 0.07em; }
+  table.record tr.total td { border: 0; }
+}
+table.tight td, table.tight th { font-size: 0.92rem; }
+table.record th { white-space: normal; vertical-align: bottom; line-height: 1.25; }
+
+.figures { display: grid; grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr)); gap: 0; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--rule); margin: 1.6rem 0; }
+.figures > div { padding: 0.8rem 1rem 0.8rem 0; }
+.figures .fig { font-size: 1.7rem; font-weight: 600; line-height: 1.1; font-variant-numeric: lining-nums; }
+.figures .fig small { font-size: 0.95rem; font-weight: 400; color: var(--muted); }
+.figures .cap { font-size: 0.86rem; color: var(--muted); }
+
+/* ---------- the reading list, the week's reading ---------- */
+
+table.books td { vertical-align: top; }
+table.books td:first-child { min-width: 11rem; }
+table.books td:nth-child(2) { min-width: 7rem; }
+table.reading-list { margin: 0.5rem 0 0.9rem; }
+table.reading-list td.tick { width: 1.9rem; padding-right: 0.4rem; }
+table.reading-list td.tick input { margin: 0; accent-color: var(--ink); transform: translateY(0.1em); }
+table.reading-list td.n { white-space: nowrap; }
+table.reading-list tr.many td.tick { vertical-align: bottom; }
+table.reading-list label.mark-all { display: block; font-size: 0.86rem; color: var(--ink-2); cursor: pointer; }
+table.reading-list tr.asking .row { margin: 0.2rem 0 0.4rem; font-size: 0.92rem; }
+/* The question has a line to itself, and its two answers stand together under it. */
+table.reading-list tr.asking .row > span { flex-basis: 100%; }
+.units.parts > li > a { grid-template-columns: 1.6rem 1fr auto; padding: 0.5rem 0; }
+.units.parts .u-title { font-weight: 400; }
+.units.parts .u-n { color: var(--ink); }
+ol.plain { padding-left: 1.3rem; }
+ol.plain li { margin-bottom: 0.5rem; padding-left: 0.2rem; }
+/* the items missed in a test keep the numbers they have in it, and those run to two figures */
+ol.plain.missed { padding-left: 1.9rem; }
+ol.rules { padding-left: 1.3rem; margin: 1.1rem 0; }
+ol.rules li { margin-bottom: 0.35rem; padding-left: 0.2rem; }
+ul.sources { list-style: none; padding: 0; font-size: 0.92rem; }
+ul.sources li { padding-left: 1.4rem; text-indent: -1.4rem; margin-bottom: 0.45rem; }
+form.enrol { border-top: 1px solid var(--rule); margin-top: 1.2rem; padding-top: 0.4rem; }
+.entry { border-top: 1px solid var(--rule); padding-top: 0.2rem; margin-top: 1.6rem; }
+.entry h3 { margin-top: 1rem; }
+.stations.questions .st-title { font-weight: 400; }
+/* the words under each question are set as a link, so that the row is seen to be one */
+.stations.questions .st-what { justify-self: start; color: var(--ink); text-decoration: underline; text-decoration-thickness: 0.06em; text-underline-offset: 0.18em; text-decoration-color: var(--muted); }
+.stations.questions > li > a:hover .st-what { text-decoration-color: var(--ink); }
+h1.question { font-size: 1.6rem; line-height: 1.25; }
+
+/* ---------- the prose Dante ---------- */
+
+/* the number stands inside the column at every width: hung outside it, it was cut off wherever the page has no margin to spare */
+.reading.tercets p { position: relative; margin-bottom: 0.7rem; padding-left: 2.2rem; }
+.reading.tercets p[data-n]::before {
+  content: attr(data-n);
+  position: absolute;
+  left: -0.4rem;
+  width: 2rem;
+  text-align: right;
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  top: 0.32em;
+}
+.verse.prosed .vl, .marked.prosed .ml { text-indent: 0; margin-left: 0; margin-bottom: 0.7rem; }
+.verse.prosed .vl[data-n]::before { left: 0; }
+.verse.prosed .gap, .marked.prosed .gap { height: 0; }
+.verse.prosed.covered .vl { min-height: 1.58em; }
+
+/* ---------- choosing the fifth canto ---------- */
+
+.canto-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(3.1rem, 1fr)); gap: 0.35rem; margin: 0.6rem 0 1.2rem; }
+.canto { position: relative; display: block; border: 1px solid var(--rule); border-radius: 2px; padding: 0.3rem 0.2rem 0.25rem; text-align: center; cursor: pointer; line-height: 1.2; }
+.canto input { position: absolute; opacity: 0; inset: 0; width: 100%; height: 100%; margin: 0; cursor: pointer; }
+.canto .c-n { display: block; font-weight: 600; font-variant-numeric: lining-nums; }
+.canto .c-l { display: block; font-size: 0.7rem; color: var(--muted); font-variant-numeric: lining-nums; }
+.canto:hover { border-color: var(--ink); }
+.canto:has(input:checked) { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.canto:has(input:checked) .c-l { color: var(--paper); }
+.canto:has(input:focus-visible) { outline: 2px solid var(--ink); outline-offset: 2px; }
+.canto.is-set { background: var(--paper-2); cursor: default; }
+.canto.is-set input { cursor: default; }
+.canto.is-set:hover { border-color: var(--rule); }
+
+/* ---------- exercises ---------- */
+
+.checks { margin: 0.8rem 0; }
+ul.checklist { list-style: none; padding: 0; margin: 0.4rem 0; font-size: 0.92rem; }
+ul.checklist li { padding-left: 1.5rem; position: relative; margin-bottom: 0.15rem; }
+ul.checklist li::before { position: absolute; left: 0; }
+ul.checklist li.ok::before { content: '\2713'; }
+ul.checklist li.no { color: var(--red); }
+ul.checklist li.no::before { content: '\2717'; }
+
+table.chart { table-layout: fixed; min-width: 40rem; }
+table.chart th, table.chart td { vertical-align: top; padding: 0.5rem 0.8rem 0.5rem 0; white-space: normal; }
+table.chart thead th { font-size: 0.95rem; }
+table.chart tbody th { font-weight: 600; font-variant-caps: normal; letter-spacing: 0; color: var(--ink); font-size: 0.92rem; border-bottom: 1px solid var(--rule-2); }
+table.chart thead th:first-child { width: 9rem; }
+table.chart.narrow-second thead th:nth-child(2) { width: 6.5rem; }
+table.chart td { font-size: 0.92rem; }
+table.chart textarea { min-height: 0; font-size: 0.92rem; line-height: 1.4; padding: 0.4rem 0.5rem; }
+table.chart td.mine { white-space: pre-wrap; }
+table.chart.key td { color: var(--ink-2); }
+/* a chart shown for comparison has no boxes to type in, so its columns may shrink to the box it is set in */
+table.chart.key { min-width: 0; }
+/* below this width a chart with boxes no longer fits beside the page's margins and a scrollbar, and its rows are stacked */
+@media (max-width: 49rem) {
+  table.chart { min-width: 0; table-layout: auto; }
+  table.chart thead { display: none; }
+  table.chart, table.chart tbody, table.chart tr, table.chart th, table.chart td { display: block; width: auto !important; }
+  table.chart tr { border-top: 1px solid var(--ink); padding: 0.6rem 0; }
+  table.chart tbody th, table.chart td { border: 0; padding: 0.15rem 0; }
+  table.chart td::before, table.chart.emend-key tbody th::before { content: attr(data-label); display: block; font-size: 0.8rem; font-weight: 400; color: var(--muted); font-variant-caps: all-small-caps; letter-spacing: 0.07em; }
+}
+
+.translate { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 2.2rem; align-items: start; margin-top: 1.5rem; }
+.translate h2 { margin-top: 0; }
+.translate .tr-mine { position: sticky; top: 4rem; }
+@media (max-width: 74rem) {
+  .translate .tr-mine { top: 1rem; }
+}
+@media (max-width: 52rem) {
+  .translate { grid-template-columns: 1fr; gap: 0.5rem; }
+  .translate .tr-mine { position: static; }
+}
+.glossary { margin-top: 1.6rem; font-size: 0.9rem; }
+.glossary dl { margin: 0 0 0.8rem; }
+.glossary .gl-line { font-size: 1em; font-weight: 500; line-height: inherit; margin: 0; font-variant-caps: all-small-caps; letter-spacing: 0.07em; color: var(--muted); font-variant-numeric: lining-nums; }
+.glossary .gl-entry { display: grid; grid-template-columns: 8.5rem 1fr; gap: 0.6rem; }
+.glossary dt { font-style: italic; }
+.glossary dd { margin: 0; color: var(--ink-2); }
+
+/* ---------- the examination ---------- */
+
+.exam-bar { position: sticky; top: 0; z-index: 11; background: var(--paper); display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1px solid var(--ink); padding: 0.5rem 0; margin-bottom: 1.6rem; }
+.exam-bar .kicker { margin: 0; }
+.exam-bar .clock { font-size: 1.3rem; font-weight: 600; font-variant-numeric: lining-nums tabular-nums; }
+.exam-result { margin: 1.4rem 0 2rem; }
+details.script, p.script { border-bottom: 1px solid var(--rule); margin: 0; padding: 0.55rem 0; }
+details.script summary .done { color: var(--ink); }
+
+/* ---------- notes and sources ---------- */
+
+.note { border-top: 1px solid var(--rule); margin-top: 2rem; padding-top: 0.8rem; font-size: 0.9rem; color: var(--ink-2); }
+.note p { margin-bottom: 0.5rem; }
+.source { font-size: 0.84rem; color: var(--muted); margin-top: 0.4rem; }
+.aside { background: var(--paper-2); padding: 1rem 1.2rem; margin: 1.6rem 0; }
+.aside > :last-child { margin-bottom: 0; }
+.aside h3 { margin-top: 0; }
+.notice { border: 1px solid var(--red); color: var(--red); padding: 0.6rem 0.9rem; margin: 0 0 1.5rem; font-size: 0.92rem; }
+.handed { border-left: 2px solid var(--rule); padding-left: 1.1rem; margin: 1.2rem 0; white-space: pre-wrap; }
+.auden { border-top: 1px solid var(--ink); margin-top: 2.2rem; padding-top: 1rem; }
+.auden h2 { margin-top: 0; }
+
+details { margin: 1rem 0; }
+summary { cursor: pointer; }
+details[open] > summary { margin-bottom: 0.6rem; }
+
+.item { border-top: 1px solid var(--rule); padding: 1.3rem 0 0.6rem; }
+.item:first-of-type { border-top: 1px solid var(--ink); }
+.item .q-n { color: var(--muted); font-size: 0.86rem; font-variant-numeric: lining-nums; }
+.item .answer-row { display: flex; gap: 0.6rem 1rem; flex-wrap: wrap; align-items: end; margin-top: 0.6rem; }
+.item .answer-row label { display: block; max-width: 100%; }
+.item .answer-row label > span { display: block; font-size: 0.84rem; color: var(--muted); }
+.item .right { color: var(--ink); }
+.item .wrong { color: var(--red); }
+.item .key { margin-top: 0.5rem; font-size: 0.94rem; }
+
+@media print {
+  .masthead, footer.colophon, button, .btn, .row { display: none !important; }
+  body { background: #fff; color: #000; }
+  main { padding: 0; }
+}
+
+/* ---------- pieces of a poem, lines in a chart, a passage to put right ---------- */
+
+.verse .vl-note { padding-left: 2.6rem; color: var(--muted); font-style: italic; font-size: 0.92rem; }
+.quoted p.gap-note { color: var(--muted); font-style: italic; font-size: 0.92rem; }
+.cell-quote { font-size: 0.95rem; }
+.cell-quote.verse { margin: 0; }
+.cell-quote.verse .vl { padding-left: 1.2rem; margin-left: 0; }
+.cell-quote p { margin: 0 0 0.3rem; }
+table.chart td.ok { color: var(--ink); font-weight: 600; }
+table.chart td.no { color: var(--red); }
+
+.emend .vl, .emend p { line-height: 2.2; }
+.em-word { white-space: nowrap; }
+/* a finished mark may turn over between the word and the correction, which carries its verdict with it */
+.em-word.em-done { white-space: normal; }
+.em-btn, .em-btn:hover {
+  font: inherit;
+  line-height: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid transparent;
+  border-radius: 0;
+  padding: 0;
+  display: inline;
+}
+.em-btn:hover, .em-btn:focus-visible { border-bottom-color: var(--ink); }
+.em-word.on .em-btn, span.em-word.on, .em-struck { text-decoration: line-through; text-decoration-color: var(--red); text-decoration-thickness: 0.09em; }
+input.em-in {
+  font: inherit;
+  width: auto;
+  margin-left: 0.3rem;
+  padding: 0 0.3rem;
+  border: 0;
+  border-bottom: 1px solid var(--ink);
+  border-radius: 0;
+  background: var(--field);
+}
+/* on a phone a long word and the box for its correction can be wider than a line: they keep together while they fit, and the box turns over when they do not */
+@media (max-width: 34rem) {
+  .em-word.on { display: inline-block; max-width: 100%; white-space: normal; text-indent: 0; }
+  input.em-in { max-width: 100%; }
+}
+.em-mine { display: inline-block; margin-left: 0.35rem; text-indent: 0; color: var(--red); text-decoration: none; }
+/* in a finished passage a space parts the word from the correction, so a correction that begins a line is not set in */
+.em-done .em-mine { margin-left: 0; }
+/* a right correction in ink and heavier, a wrong one in red; the verdict is also said in a word */
+.em-mine.right { color: var(--ink); font-weight: 600; }
+.em-tag { display: inline-block; margin-left: 0.3rem; text-indent: 0; font-size: 0.8rem; font-weight: 400; color: var(--muted); font-variant-caps: all-small-caps; letter-spacing: 0.07em; text-decoration: none; }
+
+/* the one station that stands above the reading carries no number */
+.stations.solo .st-n::before { content: none; }
+/* a canto of the prose version that has not been checked against the book */
+.canto.is-closed { opacity: 0.45; cursor: not-allowed; }
+
+/* ==========================================================================
+   The page, the sheet, the board and the pen.
+   A passage is printed large. A passage with words taken out is a typed
+   sheet. What Auden said is written on the blackboard. What the student
+   writes is in ink of another color.
+   ========================================================================== */
+
+:root {
+  --slate: #24312c;
+  --slate-2: #2e3d37;
+  --chalk: #eef0e8;
+  --chalk-2: #b7c1b5;
+  --chalk-line: #4c5c54;
+  --sheet: #fdfcf7;
+  --sheet-ink: #2a2946;
+  --pen: #1d3f6e;
+  --pen-wash: #e3eaf4;
+  --hi: #f3e6a2;
+  --mono: 'Courier Prime', 'Courier New', Courier, monospace;
+  --plate-filter: none;
+  --plate-ground: #fff;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --slate: #1b2622;
+    --slate-2: #24312c;
+    --chalk: #e9ece3;
+    --chalk-2: #a7b1a5;
+    --chalk-line: #3b4a43;
+    --sheet: #22211c;
+    --sheet-ink: #dcd9ee;
+    --pen: #9fbdea;
+    --pen-wash: #1b2634;
+    --hi: #4d4520;
+    --plate-filter: brightness(0.86) contrast(1.05);
+    --plate-ground: #1d1b17;
+  }
+}
+:root[data-theme='dark'] {
+  --slate: #1b2622;
+  --slate-2: #24312c;
+  --chalk: #e9ece3;
+  --chalk-2: #a7b1a5;
+  --chalk-line: #3b4a43;
+  --sheet: #22211c;
+  --sheet-ink: #dcd9ee;
+  --pen: #9fbdea;
+  --pen-wash: #1b2634;
+  --hi: #4d4520;
+  --plate-filter: brightness(0.86) contrast(1.05);
+  --plate-ground: #1d1b17;
+}
+
+/* ---------- a meeting ---------- */
+
+.meeting-head { margin-bottom: 2rem; }
+.meeting.door .meeting-head h1 { font-size: 2.4rem; }
+.spread { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.8rem 3.2rem; margin: 0 0 3.4rem; align-items: start; }
+.spread + .spread { border-top: 1px solid var(--ink); padding-top: 2.4rem; }
+.spread-steps { max-width: var(--measure); }
+@media (min-width: 64rem) {
+  .spread { grid-template-columns: minmax(0, 1.12fr) minmax(0, 1fr); gap: 1.8rem 3rem; }
+  .spread-side { max-width: 36rem; }
+  .spread.no-side { grid-template-columns: minmax(0, var(--measure)); }
+  .spread-side { position: sticky; top: 4.2rem; max-height: calc(100vh - 5rem); overflow-y: auto; padding-right: 0.4rem; scrollbar-width: thin; }
+}
+@media (min-width: 64rem) and (max-width: 74rem) { .spread-side { top: 1rem; max-height: calc(100vh - 2rem); } }
+
+.passage { font-size: 1.1rem; line-height: 1.62; }
+.passage .verse { margin: 0; }
+.passage .verse:not(.numbered) .vl { padding-left: 1.4rem; text-indent: -1.4rem; margin-left: 0; }
+.passage > p { margin-bottom: 0.8rem; }
+.passage-label { font-variant-caps: all-small-caps; letter-spacing: 0.07em; color: var(--muted); font-size: 0.95rem; margin: 0 0 0.5rem; }
+.passage-cite { font-family: var(--serif); font-size: 0.84rem; color: var(--muted); margin: 0.9rem 0 0; }
+.setting { font-size: 0.96rem; color: var(--ink-2); font-style: italic; margin: 0 0 0.9rem; }
+.spread-side .passage + .setting, .spread-side .passage + .passage { margin-top: 1.6rem; }
+
+/* the typed sheet */
+.passage.sheet {
+  font-family: var(--mono);
+  font-size: 0.94rem;
+  line-height: 1.7;
+  color: var(--sheet-ink);
+  background: var(--sheet);
+  border: 1px solid var(--rule-2);
+  box-shadow: 0 1px 0 var(--rule), 0 10px 22px -16px rgba(0, 0, 0, 0.45);
+  padding: 1.6rem 1.4rem 1.3rem 1.5rem;
+}
+.passage.sheet .cloze .vl, .passage.sheet .cloze p { line-height: 2.05; }
+.passage.sheet .verse .gap { height: 0.55rem; }
+.passage.sheet input.blank {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--pen);
+  width: auto;
+  max-width: 100%;
+  padding: 0 0.3rem;
+  border: 0;
+  border-bottom: 1.5px solid var(--sheet-ink);
+  border-radius: 0;
+  background: transparent;
+  text-indent: 0;
+}
+.passage.sheet input.blank:focus { background: var(--pen-wash); outline: none; border-bottom-color: var(--pen); }
+.passage.sheet .given { border: 0; padding: 0; }
+.passage.sheet .given .yours { font-family: var(--serif); font-style: italic; color: var(--pen); margin-right: 0.35rem; }
+.passage.sheet .given .yours.differs { text-decoration: line-through; text-decoration-thickness: 0.07em; }
+.passage.sheet .given .yours.none { opacity: 0.7; font-size: 0.86rem; }
+.passage.sheet .given .theirs { font-weight: 700; margin-left: 0; }
+.passage.sheet .given.same .theirs { border-bottom: 2px solid var(--pen); }
+
+/* lines marked on a passage */
+.passage.marking .vl, .passage.marking > p { cursor: pointer; border-radius: 2px; }
+.passage.marking .vl:hover, .passage.marking > p:hover { background: var(--pen-wash); }
+.passage.marking .vl:focus-visible, .passage.marking > p:focus-visible { outline: 2px solid var(--pen); outline-offset: 1px; }
+.passage .my-row { background: var(--pen-wash); box-shadow: -3px 0 0 var(--pen); }
+.passage.marked-done .key-row, .passage.pointed .key-row { background: var(--hi); }
+.passage.marked-done .key-row.my-row { box-shadow: -3px 0 0 var(--pen); }
+.lead-above, .mark-bar, .to-passage { display: none; }
+@media (max-width: 63.99rem) {
+  .lead-above, .to-passage { display: block; }
+  .spread-steps .step-gaps.is-open > p:not(.step-label) { display: none; }
+  .mark-bar { display: flex; position: sticky; bottom: 0.6rem; z-index: 5; margin-top: 0.8rem; gap: 0.6rem 0.9rem; align-items: center; justify-content: space-between; flex-wrap: wrap; background: var(--ink); color: var(--paper); padding: 0.5rem 0.6rem 0.5rem 0.9rem; border-radius: 3px; font-size: 0.9rem; box-shadow: 0 10px 22px -12px rgba(0, 0, 0, 0.6); }
+  .mark-bar button { color: var(--ink); background: var(--paper); border-color: var(--paper); }
+  .mark-bar button:disabled { opacity: 0.55; }
+}
+.legend { font-size: 0.82rem; color: var(--muted); margin: 0.7rem 0 0; display: flex; gap: 0.4rem 0.5rem; align-items: center; flex-wrap: wrap; }
+.legend .swatch { display: inline-block; width: 1rem; height: 0.8rem; }
+.legend .swatch.mine { background: var(--pen-wash); box-shadow: -3px 0 0 var(--pen); margin-left: 3px; }
+.legend .swatch.key { background: var(--hi); margin-left: 0.8rem; }
+
+/* ---------- the steps ---------- */
+
+.step { border-top: 1px solid var(--rule); padding: 1.4rem 0 1.5rem; }
+.spread-steps > .step:first-child { border-top: 0; padding-top: 0; }
+.step-label { font-variant-caps: all-small-caps; font-variant-numeric: lining-nums; letter-spacing: 0.07em; font-weight: 500; color: var(--muted); font-size: 0.95rem; margin: 0 0 0.35rem; }
+.step-ask { font-size: 1.5rem; line-height: 1.2; margin: 0 0 0.8rem; font-weight: 600; letter-spacing: -0.008em; }
+.step.is-done .step-ask { font-size: 1.2rem; }
+.step .row { margin: 1rem 0 0; }
+.step .gloss { color: var(--ink-2); }
+.step.is-skipped { color: var(--muted); }
+.step.is-skipped .skipped-what { margin: 0; }
+.payoff { margin-top: 1rem; }
+.payoff:focus { outline: none; }
+.payoff > .figure, .step .figure { font-weight: 600; margin-bottom: 0.6rem; }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+.fresh { animation: rise 0.4s ease-out both; }
+@media (prefers-reduced-motion: reduce) { .fresh { animation: none; } }
+
+.meeting textarea, .meeting input.line-in, .meeting .spot input[type='text'], .handed, .meeting select { color: var(--pen); }
+.meeting textarea { min-height: 8rem; }
+.meeting textarea.reply { min-height: 5.5rem; }
+.meeting textarea.line-in { min-height: 3.4rem; }
+input.line-in { display: block; width: 100%; }
+.handed { border-left: 2px solid var(--pen); }
+.sealed { font-size: 0.86rem; color: var(--muted); margin: 0.9rem 0 0; }
+
+/* what was put into the gaps, word by word: each gap in its line, and under
+   it what the word does there. A gap filled with the writer's own word is
+   one line, and its note opens when asked for. */
+.gap-notes { margin: 1.1rem 0 1.3rem; }
+.gap-note { margin-top: 1.4rem; padding-left: 0.9rem; border-left: 2px solid var(--rule); }
+.gap-note:first-child { margin-top: 0.4rem; }
+.gap-line { font-family: var(--mono); font-size: 0.9rem; line-height: 1.55; color: var(--ink-2); }
+.gap-line .given .yours { font-family: var(--serif); font-style: italic; font-size: 1.04rem; color: var(--pen); text-decoration: line-through; text-decoration-thickness: 0.07em; margin-right: 0.35rem; }
+.gap-line .given .theirs { font-weight: 700; color: var(--ink); }
+.gap-line .given.same .theirs { border-bottom: 2px solid var(--pen); }
+.gap-note .gap-head { margin: 0 0 0.45rem; }
+.gap-note p { margin: 0 0 0.45rem; }
+details.gap-note.same { margin-top: 0.8rem; border-left-color: var(--pen); }
+details.gap-note.same summary { cursor: pointer; }
+details.gap-note.same summary .agree { font-size: 0.9rem; color: var(--pen); font-style: italic; margin-left: 0.6rem; white-space: nowrap; }
+details.gap-note.same[open] summary { margin-bottom: 0.45rem; }
+/* while the gaps are being filled the sheet moves with the page, and its button stands under it */
+@media (min-width: 64rem) { .spread.gaps-open .spread-side { position: static; max-height: none; overflow: visible; } }
+.under-sheet { margin: 1rem 0 0; }
+@media (max-width: 63.99rem) { .under-sheet { display: none; } }
+.passage.sheet input.blank.first-gap { background: var(--pen-wash); }
+ul.gap-lines { list-style: none; padding: 0; margin: 0.6rem 0 1rem; }
+ul.gap-lines li { margin: 0 0 0.35rem; }
+/* the gap that the note at the reader's eye speaks of */
+.passage.sheet .given.at { background: var(--hi); box-shadow: 0 0 0 3px var(--hi); border-radius: 1px; }
+
+/* a question with answers to choose from */
+.options { display: grid; gap: 0.55rem; margin: 1rem 0 0.4rem; }
+button.option { text-align: left; font-size: 1.02rem; line-height: 1.35; padding: 0.75rem 1rem; border: 1px solid var(--rule); border-radius: 3px; background: var(--field); }
+button.option:hover { border-color: var(--ink); background: var(--field); color: var(--ink); }
+button.option.chosen { border-color: var(--pen); box-shadow: inset 3px 0 0 var(--pen); }
+.payoff .chosen { color: var(--pen); border-left: 2px solid var(--pen); padding-left: 0.9rem; }
+.chosen-tag { font-variant-caps: all-small-caps; letter-spacing: 0.07em; color: var(--muted); }
+details.others { border-top: 1px solid var(--rule-2); margin: 1.1rem 0 0; padding-top: 0.6rem; font-size: 0.95rem; }
+.step figure.record { margin: 1.2rem 0 0.4rem; }
+details.others summary { color: var(--ink-2); }
+details.others .other-label { font-weight: 600; margin: 0.8rem 0 0.2rem; }
+
+/* ---------- the blackboard ---------- */
+
+.board {
+  background: var(--slate);
+  color: var(--chalk);
+  padding: 1.35rem 1.5rem 1.2rem;
+  margin: 1.3rem 0;
+  border-radius: 3px;
+  box-shadow: inset 0 0 0 1px var(--chalk-line), 0 10px 22px -16px rgba(0, 0, 0, 0.6);
+}
+.board p { margin-bottom: 0.8rem; }
+.board p:last-child { margin-bottom: 0; }
+.board a { color: var(--chalk); text-decoration-color: var(--chalk-2); }
+.board-title { font-size: 0.98rem; font-weight: 500; font-variant-caps: all-small-caps; letter-spacing: 0.09em; color: var(--chalk-2); margin: 0 0 0.7rem; }
+.board-source { font-size: 0.82rem; color: var(--chalk-2); border-top: 1px solid var(--chalk-line); padding-top: 0.6rem; margin-top: 1rem; }
+.board-caption { font-variant-caps: all-small-caps; letter-spacing: 0.07em; color: var(--muted); margin: 0.8rem 0 0; }
+
+.sortboard { display: grid; grid-template-columns: repeat(var(--bins, 3), minmax(0, 1fr)); background: var(--slate); color: var(--chalk); border-radius: 3px; padding: 0.5rem 0.4rem 0.7rem; margin: 0.6rem 0 1rem; box-shadow: inset 0 0 0 1px var(--chalk-line); }
+.bin { padding: 0.3rem 0.55rem 0.6rem; border-left: 1px dashed var(--chalk-line); min-height: 6.5rem; }
+.bin:first-child { border-left: 0; }
+.bin-head, button.bin-head { display: block; width: 100%; text-align: left; font: inherit; font-weight: 600; line-height: 1.25; color: var(--chalk); background: none; border: 0; border-bottom: 1px solid var(--chalk-line); border-radius: 0; padding: 0.3rem 0.1rem 0.45rem; margin-bottom: 0.55rem; }
+button.bin-head:hover { background: var(--slate-2); color: var(--chalk); }
+.sortboard.holding button.bin-head { background: var(--slate-2); box-shadow: 0 0 0 1px var(--chalk-2); cursor: pointer; }
+.bin-sub { font-size: 0.82rem; line-height: 1.3; color: var(--chalk-2); margin: -0.25rem 0 0.55rem; }
+.chip, button.chip { display: inline-block; font: inherit; font-size: 0.93rem; line-height: 1.25; text-align: left; color: var(--ink); background: var(--sheet); border: 1px solid var(--rule); border-radius: 2px; padding: 0.38rem 0.6rem; margin: 0 0.4rem 0.45rem 0; }
+button.chip:hover { background: var(--sheet); color: var(--ink); border-color: var(--ink); }
+.chip.held, button.chip.held { outline: 2px solid var(--pen); outline-offset: 1px; background: var(--pen-wash); }
+.bin .chip { display: block; width: 100%; margin-right: 0; }
+.sortboard.compared .chip.differ { box-shadow: inset 3px 0 0 var(--pen); }
+.chip-label { display: block; }
+.chip-mine { display: block; font-size: 0.8rem; color: var(--pen); font-style: italic; }
+.chip-note { display: block; font-size: 0.82rem; color: var(--ink-2); margin-top: 0.15rem; }
+.chip-sub { display: block; font-size: 0.8rem; color: var(--ink-2); }
+.tray { margin: 0.8rem 0 0; min-height: 2.6rem; }
+
+/* an order of the reader's own: the places one under another, the names to put in them */
+.ladder-box { margin: 0.9rem 0 0.4rem; }
+.ladder-end { font-variant-caps: all-small-caps; letter-spacing: 0.07em; color: var(--muted); font-size: 0.9rem; margin: 0.25rem 0; }
+ol.ladder { list-style: none; margin: 0; padding: 0; counter-reset: rung; border-top: 1px solid var(--rule); }
+li.rung { counter-increment: rung; display: grid; grid-template-columns: 1.5rem minmax(0, 1fr); align-items: center; gap: 0.5rem; margin: 0; padding: 0.28rem 0; border-bottom: 1px solid var(--rule-2); min-height: 2.75rem; }
+li.rung::before { content: counter(rung); color: var(--muted); font-variant-numeric: lining-nums; text-align: right; }
+.rung-empty { color: var(--muted); font-style: italic; font-size: 0.9rem; }
+li.rung .chip { margin: 0; justify-self: start; border-color: var(--pen); box-shadow: inset 3px 0 0 var(--pen); }
+/* the book's order, drawn as the pit: each level in from the one above */
+ol.pit { list-style: none; margin: 0.6rem 0 1.2rem; padding: 0.7rem 0.6rem 0.9rem; background: var(--slate); color: var(--chalk); border-radius: 3px; box-shadow: inset 0 0 0 1px var(--chalk-line); --step: 2.4%; }
+li.level { margin: 0 calc(var(--k) * var(--step)); padding: 0.4rem 0.6rem 0.5rem; border-top: 1px dashed var(--chalk-line); }
+li.level:first-child { border-top: 0; }
+.level-name { display: block; font-weight: 600; font-size: 0.92rem; line-height: 1.3; }
+.level-who { font-size: 0.82rem; color: var(--chalk-2); }
+li.level.bare { padding-block: 0.22rem; }
+li.level.bare .level-name { display: inline; font-weight: 400; font-size: 0.82rem; color: var(--chalk-2); }
+li.level.bare .level-who::before { content: ' · '; }
+li.level .chip { display: block; margin: 0.35rem 0 0; }
+li.level .chip.differ { box-shadow: inset 3px 0 0 var(--pen); }
+@media (max-width: 34rem) { ol.pit { --step: 1%; padding-inline: 0.3rem; } }
+
+/* lines of the book that answer before Auden does */
+.poem-back { margin: 1.2rem 0; padding: 0.9rem 1.1rem 0.9rem; border-left: 3px solid var(--ink); background: var(--paper-2); }
+.poem-back .passage { font-size: 1.02rem; margin-bottom: 0.8rem; }
+.poem-back > p:last-child { margin-bottom: 0; }
+.next-heart { font-size: 0.92rem; margin: 0.9rem 0 0; }
+.tray-label { font-variant-caps: all-small-caps; letter-spacing: 0.07em; color: var(--muted); font-size: 0.9rem; margin: 0 0 0.3rem; }
+@media (max-width: 34rem) {
+  /* On a phone the headings of the board stand one under another. */
+  .sortboard { grid-template-columns: minmax(0, 1fr); padding: 0.3rem 0.6rem 0.6rem; }
+  .bin { border-left: 0; border-top: 1px dashed var(--chalk-line); min-height: 0; padding: 0.5rem 0.1rem 0.4rem; }
+  .bin:first-child { border-top: 0; }
+  .bin .chip { display: inline-block; width: auto; margin-right: 0.4rem; }
+  .sortboard.compared .bin .chip { display: block; margin-right: 0; }
+}
+
+/* rows to be matched from a list */
+.matchlist { border-top: 1px solid var(--rule); margin: 0.9rem 0 1rem; }
+.matchrow { display: grid; grid-template-columns: minmax(0, 1fr) minmax(9rem, 15rem); gap: 0.2rem 1rem; padding: 0.55rem 0; border-bottom: 1px solid var(--rule-2); align-items: baseline; }
+.match-label { display: block; }
+.match-sub { display: block; font-size: 0.86rem; color: var(--muted); }
+.match-pick select { width: 100%; }
+.matchlist.compared .theirs { display: block; font-weight: 600; }
+.matchlist.compared .yours.differs { display: block; color: var(--pen); font-style: italic; text-decoration: line-through; }
+.matchlist.compared .matchrow.agree .theirs { box-shadow: inset 0 -2px 0 var(--pen); display: inline; }
+.match-note { display: block; font-size: 0.86rem; color: var(--ink-2); margin-top: 0.15rem; }
+@media (max-width: 34rem) { .matchrow { grid-template-columns: 1fr; } }
+
+/* who says it */
+.spots { margin: 0.8rem 0 0; }
+.spot { border-top: 1px solid var(--rule-2); padding: 0.9rem 0 0.7rem; }
+.spot .quoted { margin: 0 0 0.6rem; }
+.spot .answer-row { display: flex; gap: 0.6rem 0.8rem; flex-wrap: wrap; align-items: end; }
+.spot .answer-row label > span { display: block; font-size: 0.84rem; color: var(--muted); }
+.spot-key { margin: 0.3rem 0 0; }
+.spot-key .yours { color: var(--pen); font-style: italic; }
+.spot-key .yours.differs { text-decoration: line-through; }
+.spot-key .theirs { font-weight: 600; }
+
+/* the second question, in four parts */
+dl.two-answers { margin: 0.8rem 0; }
+dl.two-answers dt { font-size: 0.9rem; color: var(--muted); margin-top: 0.8rem; }
+dl.two-answers dd { margin: 0.1rem 0 0; }
+dl.two-answers dd.yours { color: var(--pen); font-style: italic; }
+
+/* for next time */
+blockquote.carry { margin: 1.1rem 0; padding: 0.9rem 1.1rem 1rem; border-left: 3px solid var(--ink); background: var(--paper-2); }
+blockquote.carry p:last-child { font-size: 1.18rem; line-height: 1.4; margin: 0; font-style: italic; }
+ul.books-list { list-style: none; padding: 0; margin: 1rem 0; border-top: 1px solid var(--rule); }
+ul.books-list li { margin: 0; padding: 0.55rem 0; border-bottom: 1px solid var(--rule-2); }
+.book-name { font-weight: 600; margin-right: 0.5rem; }
+.book-parts { margin: 0.2rem 0 0.9rem; line-height: 1.9; }
+ul.books-list .book-parts { display: block; margin: 0; }
+.book-find { display: block; }
+.meeting-foot { border-top: 1px solid var(--ink); margin-top: 1rem; padding-top: 0.6rem; }
+
+/* ---------- pictures and records ---------- */
+
+figure.plate { margin: 0 0 1.5rem; }
+figure.plate img { display: block; max-width: 100%; height: auto; border: 1px solid var(--rule); background: var(--plate-ground); filter: var(--plate-filter); }
+figure.plate.tall img { max-height: 32rem; width: auto; }
+figure.plate figcaption { font-size: 0.84rem; line-height: 1.4; color: var(--ink-2); margin-top: 0.5rem; }
+figure.plate .credit { color: var(--muted); }
+
+figure.record { display: grid; grid-template-columns: 4.4rem minmax(0, 1fr); gap: 1rem; align-items: center; margin: 1.2rem 0; padding: 0.9rem 1rem; border: 1px solid var(--rule); background: var(--field); border-radius: 3px; }
+.record .disc { position: relative; width: 4.4rem; height: 4.4rem; border-radius: 50%; background: radial-gradient(circle, var(--paper) 0 4%, var(--red) 5% 26%, #0c0c0c 27% 29%, #1d1d1d 30% 62%, #111 63% 64%, #1d1d1d 65% 100%); box-shadow: 0 0 0 1px #000, 0 6px 12px -8px rgba(0, 0, 0, 0.7); }
+.record .disc::after { content: ''; position: absolute; left: 50%; top: 9%; width: 1px; height: 14%; background: rgba(255, 255, 255, 0.28); }
+@keyframes turn { to { transform: rotate(360deg); } }
+.record.playing .disc { animation: turn 2.4s linear infinite; }
+@media (prefers-reduced-motion: reduce) { .record.playing .disc { animation: none; } }
+.record-title { font-weight: 600; margin: 0; line-height: 1.3; }
+.record-who { font-size: 0.9rem; color: var(--ink-2); margin: 0.1rem 0 0.5rem; }
+.record audio { display: block; width: 100%; height: 2.3rem; }
+.record .credit { font-size: 0.78rem; line-height: 1.35; color: var(--muted); margin: 0.45rem 0 0; }
+
+/* ---------- the term and the week ---------- */
+
+ol.weeks { list-style: none; margin: 1.8rem 0; padding: 0; border-top: 1px solid var(--ink); max-width: var(--wide); }
+ol.weeks > li { margin: 0; border-bottom: 1px solid var(--rule); }
+a.week-row { display: grid; grid-template-columns: 2.8rem minmax(0, 1fr) 5.2rem; gap: 0.2rem 1rem; padding: 0.95rem 0; text-decoration: none; align-items: start; }
+.w-plate { grid-column: 3; width: 5.2rem; height: 5.2rem; object-fit: cover; object-position: 50% 30%; border: 1px solid var(--rule); filter: var(--plate-filter); }
+.w-n { font-size: 1.5rem; font-weight: 600; line-height: 1; color: var(--muted); font-variant-numeric: lining-nums; }
+.w-title { display: block; font-weight: 600; font-size: 1.14rem; line-height: 1.25; }
+.w-sub { display: block; color: var(--ink-2); font-size: 0.93rem; }
+.w-carry { display: block; font-style: italic; margin-top: 0.3rem; }
+.w-state { display: block; font-size: 0.84rem; color: var(--muted); margin-top: 0.25rem; }
+a.week-row:hover .w-title { text-decoration: underline; text-decoration-color: var(--muted); text-underline-offset: 0.18em; }
+@media (max-width: 34rem) { a.week-row { grid-template-columns: 2rem minmax(0, 1fr) 3.6rem; } .w-plate { width: 3.6rem; height: 3.6rem; } }
+
+.week-head { margin-bottom: 1.2rem; }
+.week.with-plate { display: grid; grid-template-columns: minmax(0, var(--measure)) minmax(0, 24rem); grid-template-areas: 'head plate' 'body plate'; grid-template-rows: auto 1fr; gap: 0 3rem; align-items: start; }
+.week.with-plate > .week-head { grid-area: head; }
+.week.with-plate > .week-body { grid-area: body; }
+.week.with-plate > figure.plate { grid-area: plate; position: sticky; top: 4.2rem; }
+/* A part of a book with its pictures. Each plate stands before the lines it
+   was drawn for: out in the margin beside them where there is one, and in
+   the column where there is not. */
+.read-page { display: flow-root; }
+.reading figure.plate { --plate-w: min(27rem, calc(100vw - var(--measure) - 7rem)); float: right; clear: right; width: var(--plate-w); margin: 0.35rem calc(-3.5rem - var(--plate-w)) 2.5rem 0; -webkit-user-select: none; user-select: none; }
+/* A plate for the last lines of a part comes after them, and in the margin is drawn up beside them. */
+.reading figure.plate.after { margin-top: -24rem; }
+@supports (width: 1cqw) {
+  .read-page { container-type: inline-size; }
+  .reading figure.plate { --plate-w: min(27rem, calc(100cqw - var(--measure) - 3.5rem)); }
+}
+@media (max-width: 64rem) {
+  .reading figure.plate, .reading figure.plate.after { float: none; width: auto; max-width: 30rem; margin: 1.7rem 0 1.9rem; }
+}
+@media (max-width: 64rem) {
+  .week.with-plate { grid-template-columns: minmax(0, 1fr); grid-template-areas: 'head' 'plate' 'body'; grid-template-rows: auto; }
+  .week.with-plate > figure.plate { position: static; max-width: 30rem; }
+}
+.card { border: 1px solid var(--rule); background: var(--field); border-radius: 3px; padding: 1.1rem 1.3rem 1.25rem; margin: 1.5rem 0; }
+.card .kicker { margin-bottom: 0.3rem; }
+.card h2 { margin: 0 0 0.45rem; font-size: 1.45rem; }
+.card h2 a { text-decoration: none; }
+.card h2 a:hover { text-decoration: underline; text-decoration-color: var(--muted); text-underline-offset: 0.16em; }
+.card > p:last-of-type { margin-bottom: 0; }
+.card .row { margin: 0.9rem 0 0; }
+.meeting-card.held { background: transparent; }
+.book-head { margin-top: 1.4rem; }
+fieldset.either { margin: 1rem 0 0; }
+fieldset.either legend { font-weight: 500; font-variant-caps: all-small-caps; letter-spacing: 0.07em; color: var(--muted); }
+details.opera-auden summary { color: var(--ink-2); }
+.also { display: grid; grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr)); gap: 0.8rem; margin: 1rem 0 2rem; }
+a.tile { display: block; border: 1px solid var(--rule); border-radius: 3px; padding: 0.8rem 1rem 0.9rem; text-decoration: none; }
+a.tile:hover { border-color: var(--ink); }
+.tile .kicker { display: block; margin-bottom: 0.2rem; }
+.tile-title { display: block; font-weight: 600; line-height: 1.3; }
+.tile-what { display: block; font-size: 0.9rem; color: var(--ink-2); margin-top: 0.15rem; }
+.tile-state { display: block; font-size: 0.84rem; color: var(--muted); margin-top: 0.35rem; }
+.week-nav { justify-content: space-between; border-top: 1px solid var(--rule); padding-top: 0.6rem; margin-top: 2.4rem; }
+.home-links { margin-top: 2.6rem; padding-top: 0.8rem; border-top: 1px solid var(--rule); font-size: 0.92rem; color: var(--muted); }
+
+/* ---------- your book ---------- */
+
+blockquote.kept-line { margin: 1.1rem 0; padding: 0.1rem 0 0.1rem 1.1rem; border-left: 3px solid var(--pen); }
+blockquote.kept-line > p:first-child { font-size: 1.12rem; line-height: 1.55; white-space: pre-wrap; margin-bottom: 0.3rem; }
+blockquote.kept-line .source { margin: 0; }
+blockquote.kept-line button.quiet { padding: 0; font-size: 0.84rem; color: var(--muted); }
+ul.pairs { list-style: none; padding: 0; margin: 0.6rem 0 1rem; display: flex; flex-wrap: wrap; gap: 0.35rem 1.4rem; }
+ul.pairs li { margin: 0; }
+ul.pairs .yours { color: var(--pen); font-style: italic; margin-right: 0.45rem; }
+ul.pairs .yours.differs { text-decoration: line-through; text-decoration-thickness: 0.07em; }
+ul.pairs .yours.none { font-size: 0.86rem; opacity: 0.75; }
+ul.pairs .theirs { font-weight: 600; }
+ul.pairs li.same .theirs { box-shadow: inset 0 -2px 0 var(--pen); }
+ul.heart-list { list-style: none; padding: 0; }
+.book .entry { border-top: 1px solid var(--rule-2); }
+.book-auden { margin: 0.7rem 0 1rem; padding: 0.7rem 0.9rem 0.75rem; background: var(--slate); color: var(--chalk); border-radius: 3px; font-size: 0.95rem; }
+.book-auden .step-label { color: var(--chalk-2); }
+.book-auden a { color: var(--chalk); text-decoration-color: var(--chalk-2); }
+.book-week { display: flow-root; }
+.book-plate { float: right; width: 5.2rem; height: 5.2rem; object-fit: cover; object-position: 50% 30%; margin: 1.6rem 0 0.4rem 1rem; border: 1px solid var(--rule); filter: var(--plate-filter); }
+
+/* by heart: what the site has to say about a word of the piece */
+.word-notes { margin: 0.8rem 0 1.4rem; }
+.word-note { margin-top: 1rem; padding-left: 0.9rem; border-left: 2px solid var(--rule); }
+.word-note .word-head { font-weight: 600; margin: 0 0 0.25rem; }
+.word-note p { margin: 0 0 0.45rem; }
+
+/* a line being kept while reading */
+.keep-bar { position: fixed; left: 50%; bottom: 1.2rem; transform: translateX(-50%); z-index: 20; display: flex; gap: 0.8rem; align-items: center; background: var(--ink); color: var(--paper); padding: 0.5rem 0.6rem 0.5rem 1rem; border-radius: 3px; box-shadow: 0 10px 24px -10px rgba(0, 0, 0, 0.6); font-size: 0.92rem; max-width: calc(100vw - 2rem); }
+.keep-bar button { color: var(--ink); background: var(--paper); border-color: var(--paper); }
+.keep-bar button:hover { background: transparent; color: var(--paper); }
+.keep-bar[hidden], .keep-bar [hidden] { display: none; }
+/* the short way through a week's book */
+.short-way { margin: 1.1rem 0 0.4rem; padding: 0.8rem 1rem 0.9rem; border: 1px solid var(--rule); border-radius: 3px; }
+.short-way .step-label { margin-bottom: 0.2rem; }
+.short-way p { margin-bottom: 0.4rem; }
+.short-way .short-parts { margin: 0; line-height: 1.75; }
+.short-way a.been { color: var(--muted); }
+/* lines of this part that are in the reader's book */
+.reading .kept-here { box-shadow: -3px 0 0 var(--pen); background: var(--pen-wash); }
+.reading .verse .vl.kept-here { box-shadow: none; background: linear-gradient(var(--pen-wash), var(--pen-wash)) no-repeat 1.4rem 0 / calc(100% - 1.4rem) 100%; }
+.carry-line { margin: 0.9rem 0 0.2rem; padding: 0.55rem 0.9rem 0.6rem; border-left: 3px solid var(--ink); background: var(--paper-2); font-style: italic; }
+.carry-line .step-label { font-style: normal; margin: 0; }
+.carry-line.at-foot { margin: 0 0 0.9rem; }
+@media (max-width: 34rem) {
+  /* On a phone the bar runs the width of the screen, its words above its button. */
+  .keep-bar { left: 0.6rem; right: 0.6rem; bottom: 0.6rem; transform: none; max-width: none; flex-wrap: wrap; justify-content: space-between; padding: 0.55rem 0.7rem; }
+  .keep-bar > span:first-child { flex: 1 1 100%; }
+}
+
+@media print {
+  .board, .sortboard { background: #fff; color: #000; box-shadow: none; border: 1px solid #000; }
+  .board-title, .board-source, .bin-head, .bin-sub { color: #000; }
+}
+@media (max-width: 34rem) {
+  /* A line of verse should stay a line: on a phone the sheet runs nearly
+     to the edges of the screen and is typed smaller. */
+  .passage.sheet { font-size: 0.75rem; margin-inline: -0.45rem; padding: 1rem 0.6rem 0.9rem 0.7rem; }
+  .passage.sheet .cloze .vl, .passage.sheet .cloze p { line-height: 2.3; }
+  .passage.sheet input.blank { font-size: 0.95rem; }
+  .passage { font-size: 1.02rem; }
+  .step-ask { font-size: 1.32rem; }
+}

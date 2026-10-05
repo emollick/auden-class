@@ -1,0 +1,191 @@
+// The about page: who made the site, where its method comes from, how a page
+// is made, what is known of the course, the books, the records and the works
+// cited. *x* is italic and [x](url) a link. {pages} is filled in by
+// build/shelf.mjs with the count of the shelf.
+//
+// Until 3 October 2026 six of these sections were taken from the first
+// version's pages.mjs (now first-version/content/pages.mjs); they are written
+// out here now, so that this file stands on its own.
+
+// Which words show that an entry of "Works cited" is still cited somewhere on
+// the site. The build drops an entry that nothing cites.
+const citedBy = [
+  ['Alan Ansen', ['Table Talk']],
+  ['B. C. Bloomfield', ['Bloomfield']],
+  ['Matthew J. Bruccoli', ['Bruccoli']],
+  ['Humphrey Carpenter', ['Carpenter']],
+  ['Robert L. Chapman', ['Chapman']],
+  ['Dorothy J. Farnan', ['Farnan']],
+  ['Alan Jacobs', ['Jacobs']],
+  ['Michael Kreyling', ['Kreyling']],
+  ['Maurice Mandelbaum', ['Mandelbaum']],
+  ['Edward Mendelson, *Early Auden', ['Early Auden', 'Later Auden']],
+  ['Charles H. Miller, “Auden in Ann Arbor', ['Ann Arbor Observer']],
+  ['Charles H. Miller', ['Miller']],
+  ['Tom Nolan', ['Nolan']],
+  ['Donald Pearce', ['Pearce']],
+  ['Monroe K. Spears', ['Spears']],
+  ['University of Michigan, *Proceedings', ['Board of Regents']],
+  ['W. H. Auden, letters to James and Tania Stern', ['Auden Studies']],
+  ['W. H. Auden, *New Year Letter*', ['New Year Letter', 'The Double Man']],
+  ['W. H. Auden, *The Enchafèd Flood*', ['Enchafèd Flood', 'Enchafed Flood']],
+  ['W. H. Auden, *The Dyer’s Hand*', ['Dyer’s Hand']],
+  ['W. H. Auden, *Secondary Worlds*', ['Secondary Worlds']],
+  ['W. H. Auden, *Forewords and Afterwords*', ['Forewords and Afterwords']],
+  ['W. H. Auden, *The English Auden', ['The English Auden']],
+  ['W. H. Auden, *The Prolific and the Devourer*', ['Prolific and the Devourer']],
+  ['W. H. Auden, *Lectures on Shakespeare*', ['Lectures on Shakespeare']],
+  ['W. H. Auden, *Prose*, vol. II', ['Prose*, vol. II']],
+  ['Paull Franklin Baum', ['Baum']],
+  ['Alexander Schmidt', ['Schmidt']],
+  ['*A New English Dictionary', ['New English Dictionary']],
+];
+
+export default {
+  citedBy,
+  kicker: 'About',
+  title: 'What this site is, and what it stands on',
+  lede: 'In the fall of 1941 W. H. Auden taught English 135, Fate and the Individual in European Literature, at the University of Michigan. This site takes the works on its reading list one at a time, opens each at three passages, and draws on the lines how each passage is made. What Auden said about a work stands at the head of its page. The page on [the class](#/class) goes through the afternoons his students recorded.',
+  sections: [
+    {
+      h: 'Who made this',
+      paras: [
+        'This site was researched, written and built in October 2026 by Claude, an AI system made by Anthropic. Claude was supervised and prompted by Ethan\u00a0Mollick. No Auden scholar has checked the site. Where it reports a fact about Auden or the course, it names the source so that you can check the fact yourself.',
+      ],
+    },
+    {
+      h: 'Where the method comes from',
+      paras: [
+        'The accounts of English 135 that survive describe lectures, diagrams and charts on the blackboard, records played in class, questions set for the next meeting, papers, and cantos of Dante learned by heart. They do not describe the close work on single lines that this site does. That work follows what Auden said elsewhere about how he read a poem and how he would have poets taught.',
+        'In 1956, in his inaugural lecture as Professor of Poetry at Oxford, he said that two questions interested him most when he read a poem. The first was technical: “Here is a verbal contraption. How does it work?” The second was about the kind of person the poem shows (*The Dyer’s Hand*, pp. 50–51). This site tries to answer the first.',
+        'In the same book he set out the curriculum of a college for poets as he would have it. Its students would learn poetry by heart, thousands of lines of it. Its library would hold no criticism, and parody would be the one exercise in criticism. Everyone would have to take prosody, rhetoric and comparative philology (p. 77). They are the three headings of the front page.',
+        'At Michigan in the spring of 1942, in the course that followed this one, he set the class to list from the *Oxford English Dictionary* every meaning that each word of Milton’s “Lycidas” had had up to the time the poem was written (Pearce, p. 154). This site does a small part of that. For a few words of the passages it shows, it gives what the word meant when the line was written.',
+      ],
+    },
+    {
+      h: 'How a page is made',
+      paras: [
+        'Each page begins with what Auden said about the work: most often a sentence of his own, then an account in this site’s words, with the book and the page. Much of what he wrote about these books dates from after 1941, so each source carries its date. On one work, Gluck’s *Orpheus*, no account by him was found, and its page says so.',
+        'A passage is then shown in several ways, one at a time: its beat, its rhymes, its figures of speech, the build of its sentences, the history of its words, or the original beside a translation. The marks are drawn on the words themselves, and a caption says what the marks show and what the device does in those lines. Some pages add a drawing of how the scene, the book or the whole work is built, made from counts of the text printed here.',
+        'Every sentence of a caption has to stand on one of four things: the marks on the passage, what the lines plainly say, a source that was opened and read, or Auden, with the page. A source may be a dictionary entry, another passage by the same author or a handbook of verse. At the foot of each page, “What each caption stands on” gives the ground of each caption, and “Where this page may be wrong” says what a reader should doubt. A reading that stood on none of the four was cut.',
+        'Marking the beats of a line is partly a matter of ear. The marks show one way of saying a line, and where a line can be heard in two ways the caption says so.',
+        'Each page was made in five passes. The first chose the passages and wrote the captions. The second checked the marks, the glosses and the page numbers against the sources and cut what it could not find. The third set the passages on the page and made the drawing, where there is one. The fourth read each sentence and took out what did not help a reader. The fifth settled what the fourth had left open. A last reading went across all the pages together. Mistakes will remain.',
+      ],
+    },
+    {
+      h: 'What is known of the course',
+      paras: [
+        'Three students who took the course wrote about it later: Donald Pearce, Charles Miller and Robert Chapman. A fourth, Kenneth Millar, went on to write detective novels as Ross Macdonald. Tom Nolan’s biography of Millar and Michael Kreyling’s study of the novels describe his part in the course. Dorothy Farnan was a graduate student at Michigan who knew people in the class. Humphrey Carpenter wrote a biography of Auden, and B. C. Bloomfield and Edward Mendelson compiled the standard bibliography of his writings. Mendelson also edited Auden’s collected prose, the second volume of which is cited here as *Prose*, vol. II. The accounts are cited below by the author’s surname and the page, and Works cited, near the foot of this page, gives each reference in full.',
+        'In the spring of 1942 Auden gave a second course at Michigan, English 136, on the analysis of poetry. The last two rows of the table below report work that the sources do not assign to one course or the other.',
+      ],
+      table: {
+        head: ['What', 'Who says so'],
+        rows: [
+          ['The course number and title, the room, the required books, the nine operas and the first eight books of criticism', 'The first sheet of the list, in the picture [published by Alan Jacobs](https://blog.ayjay.org/audensyllabus/)'],
+          ['The other ten books of criticism, from the second sheet', 'Miller, p. 27, prints them. Chapman, p. 508, gives the count of eighteen.'],
+          ['Students were admitted on a sample of their writing and an interview with Auden', 'Chapman, p. 508'],
+          ['The course was given in the fall semester of 1941', 'Bloomfield and Mendelson, item K7; Carpenter, p. 318; *Prose*, vol. II, p. 465'],
+          ['The first class met in early October in 2215 Angell Hall', 'Miller, p. 26'],
+          ['When the class met', 'The list says Thursdays from four to six, and Miller, p. 30, also puts the class on Thursdays, but Pearce, p. 134, says it met on Tuesdays and Thursdays from 3:30 to 5:30 in the afternoon.'],
+          ['How many took the course', 'Farnan, p. 73, says the class was limited to twenty-five. Miller’s memoir in the *Ann Arbor Observer* counts twenty-five students at the first class. Pearce, p. 129, counted fourteen or fifteen in the room one Thursday late in October. The summaries a web search returns say that Chapman gives an enrollment of twenty-two, but the page the figure is on could not be read for this site.'],
+          ['Auden asked the class to take no notes', 'Pearce, p. 129; Miller, p. 26; Chapman, pp. 508–09; Carpenter, p. 319. In Miller’s account, Auden said the class would be examined on what they thought about the books and not on what he said. Pearce and Chapman give other reasons, and Carpenter repeats Chapman’s.'],
+          ['Before long Pearce was writing down what he could after a class, in a classroom nearby. Millar kept notes as well.', 'Pearce, p. 134; Kreyling, pp. 39–40'],
+          ['Auden covered the blackboard with diagrams, lists and charts, and used diagrams to argue his reading of *Othello*', 'Pearce, pp. 131 and 139–40; Miller, p. 29'],
+          ['Near the end of the term he wrote a chart of the themes of the course across the blackboard', 'Pearce, p. 153'],
+          ['He brought a phonograph and records to class', 'Pearce, pp. 135–36'],
+          ['He assigned a book for the next meeting together with questions that tied it to books already read', 'Pearce, pp. 135 and 143–44'],
+          ['For his lectures on love that semester he assigned the libretti of *Carmen* and *Tristan und Isolde*; *Romeo and Juliet*, which is not on the list; and Denis de Rougemont’s *Love in the Western World*, which the list only recommends', 'Pearce, p. 137'],
+          ['Students learned cantos of the *Divine Comedy* by heart', 'Pearce, pp. 153–54; Miller, pp. 26–27; Chapman, p. 509; Farnan, pp. 73 and 76; Nolan, p. 53. They differ on the number of cantos and on how the cantos were examined, as the next section explains.'],
+          ['Papers were written and graded. Millar compared the *Divine Comedy* with *The Castle* in one of his, and Pearce wrote one on *The Castle*.', 'Nolan, p. 53; Pearce, p. 155'],
+          ['Auden had students to his house on Friday evenings', 'Miller, pp. 29–30'],
+          ['In one of his two Michigan courses, students translated a poem from German, French or Latin with a dictionary and nothing else, each from a language they had not studied', 'Chapman, p. 509; Carpenter, p. 319. Neither says which course.'],
+          ['He made his Michigan students learn long passages of poetry by heart, and those who objected were told to try it first', 'Chapman, p. 509; Carpenter, p. 319. The one poem Carpenter names is Milton’s “Lycidas,” which belongs to the spring course.'],
+        ],
+      },
+      after: [
+        'Pearce’s page numbers were read from a scan of the book. Those for the other witnesses, the biographies and Auden’s collected prose were worked out from scanned copies and from the summaries a search returns, so any of them may be off by a page. Chapman’s article could be read only in part.',
+      ],
+    },
+    {
+      h: 'The examination: five accounts',
+      paras: [
+        'Donald Pearce wrote about the course at length more than forty years later, with his notes from 1941 in front of him. He says that in December, four or five weeks before the examination, Auden told the class what it would be. The examination would last three hours and would come after the Christmas vacation. The class would write out, from memory, seven cantos in the prose version that Pearce calls Carlyle and Wicksteed’s. That is the translation by Carlyle, Okey and Wicksteed in the Modern Library volume named on the list. The cantos began with *Inferno* 3 and 5, continued with some from the *Purgatorio* (Pearce names only canto 28) and ended with *Paradiso* 33. A committee of students called the task impossible. Auden offered to cut the seven cantos to five, and said that if he could not learn the five himself on his drive to California he would telephone and cancel the examination. He did not telephone, and Pearce wrote for three hours, filling five examination books.',
+        'Charles Miller, also in the class, remembers the cantos being assigned at the first meeting as an exercise: six, or four for those who could not manage six. Dorothy Farnan, who had the story from friends in the class, says six, assigned on the first day for the final examination and to be learned letter perfect. Tom Nolan, in his biography of Kenneth Millar, says that in place of a final Auden had the students memorize “any six Dante cantos.”',
+        'Robert Chapman took both of Auden’s Michigan courses, and in 1978 he printed what his classmates remembered. Some of them claimed that they still had eight cantos by heart. One ran out of time at the final examination for the fall course before she had written out all her Dante, and left the note “Time.” Auden telephoned to ask whether that was the truth, accepted that it was, and did not penalize her.',
+        'So two people who were in the class, Pearce and Chapman, say that the cantos were written out at a timed examination. The number of cantos is given as five by Pearce, six by Farnan and Nolan, six or four by Miller, and eight by some of Chapman’s classmates.',
+      ],
+    },
+    {
+      h: 'The order of the books',
+      paras: [
+        'The list gives no dates. Auden did not keep to the order of the list, but the order he followed is known only in part. Pearce’s notes, as far as they go, give this sequence of lectures: Augustine and Kafka; romantic love, with *Tristan und Isolde* and *Carmen*; *Othello*; *Henry IV*; and in December *The Tempest*. The works on this site keep the order of the list. The page on [the class](#/class) follows the order in which Pearce tells the lectures, from the one on Augustine onward.',
+      ],
+    },
+    {
+      h: 'Six thousand pages',
+      paras: [
+        'The course is often said to have required six thousand pages of reading. The figure is not on the list. The earliest uses of it that this site found date from February 2013, when [the books blog of the New York *Daily News*](https://www.nydailynews.com/2013/02/27/w-h-audens-syllabus-will-make-your-college-courses-look-like-a-piece-of-cake/) said that the list required more than six thousand pages and the website Open Culture put the figure in a headline. Neither says how the pages were counted.',
+        'This site made its own count, taking a page as 350 words of prose or 35 lines of verse, which is roughly a page of the editions the list names. By that count the copies on [the shelf](#/shelf) come to about {pages} pages. The figure counts both Greek plays and the two books marked “Omit.” It leaves out *The Family Reunion*, which is not printed here, and of *Fear and Trembling* it counts only the third that is printed.',
+      ],
+    },
+    {
+      h: 'The books',
+      paras: [
+        'A book is printed here only if it is in the public domain in the United States. A translated book must be out of copyright as a translation, whatever the age of the original. Where the translation the list names is still in copyright, or no text of it could be found that had been checked against the printed book, another translation is printed, and [the shelf](#/shelf) says which. One book, T. S. Eliot’s play *The Family Reunion*, cannot be printed here at all until 2035, and its page shows how the play is built without printing its text. Another, Kierkegaard’s *Fear and Trembling*, is printed only in part, because no complete translation that is out of copyright was found. The text here is L. M. Hollander’s selection of 1923, about a third of the book.',
+        'Auden’s own prose, and the accounts of his students, are in copyright. They are reported in this site’s words, with the page, and quoted for a line or two at most.',
+        'The texts come from Project Gutenberg, Standard Ebooks and the Internet Archive, and each book names its source. Editors’ and translators’ introductions and notes have been removed. The one exception is the editor’s preface to *The Education of Henry Adams*, which Adams wrote himself for Henry Cabot Lodge to sign. Typewriter quotation marks and double hyphens in the sources have been replaced with printers’ quotation marks and dashes.',
+        'Nine of the texts were read by machine from scans of printed pages: the prose Dante, the Rilke, the Rimbaud in English, and the libretti of *Orpheus*, *Don Giovanni*, *The Magic Flute*, *Fidelio*, *Carmen* and *La Traviata*. Six of them, the Rimbaud and five of the libretti, were then read through against the scans. The Rilke and *Fidelio* were corrected against the scans only where the machine’s reading was in doubt. The prose Dante was compared canto by canto with other copies of the same translation, and twelve of its cantos were then read through against the scans. Its contents page says how. Misread words may remain in any of the nine texts, and each says so at its head.',
+        'Where a passage is shown in the language it was written in, that text also comes from an edition in the public domain, which the page names among its sources.',
+      ],
+    },
+    {
+      h: 'The records',
+      paras: [
+        'With each opera there is one old record, made between 1909 and 1924. The page on [the class](#/class) has one more, made in 1903 or 1904. It holds the opening of the love duet from *Tristan*. Auden played the duet in class. Each was published long enough ago to be in the public domain in the United States, and each names the transfer, the copy made from the disc, that it was taken from. The files are those transfers, brought down to one channel and a small size, and nothing else was done to the sound.',
+      ],
+    },
+    {
+      h: 'Works cited',
+      sources: [
+        'Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (Ontario Review Press, 1990).',
+        'B. C. Bloomfield and Edward Mendelson, *W. H. Auden: A Bibliography, 1924–1969*, second edition (University Press of Virginia, 1972).',
+        'Matthew J. Bruccoli, *Ross Macdonald* (Harcourt Brace Jovanovich, 1984).',
+        'Humphrey Carpenter, *W. H. Auden: A Biography* (Houghton Mifflin, 1981).',
+        'Robert L. Chapman, “Auden in Ann Arbor,” *Michigan Quarterly Review*, vol. 17, no. 4 (Fall 1978), pp. 507–20.',
+        'Dorothy J. Farnan, *Auden in Love* (Simon and Schuster, 1984).',
+        'Alan Jacobs, [“Auden’s Syllabus,”](https://blog.ayjay.org/audensyllabus/) October 1, 2012.',
+        'Michael Kreyling, *The Novels of Ross Macdonald* (University of South Carolina Press, 2005).',
+        'Maurice Mandelbaum, “Swarthmore,” in *W. H. Auden: A Tribute*, edited by Stephen Spender (Macmillan, 1975), pp. 119–22.',
+        'Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (Princeton University Press, 2017).',
+        'Charles H. Miller, *Auden: An American Friendship* (Scribner, 1983).',
+        'Charles H. Miller, “Auden in Ann Arbor,” *Ann Arbor Observer*, March 1983, a memoir printed a month before the book.',
+        'Tom Nolan, *Ross Macdonald: A Biography* (Scribner, 1999).',
+        'Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (Vision Press and Barnes and Noble, 1985), pp. 129–57.',
+        'Monroe K. Spears, “W. H. Auden at Swarthmore,” *Swarthmore College Bulletin*, March 1962.',
+        'University of Michigan, *Proceedings of the Board of Regents*, 1939–1942.',
+        'W. H. Auden, letters to James and Tania Stern, edited by Nicholas Jenkins, in *“In Solitude, for Company”: W. H. Auden after 1940* (Auden Studies 3), edited by Katherine Bucknell and Nicholas Jenkins (Oxford, 1995), pp. 65–72.',
+        'W. H. Auden, *New Year Letter* (Faber and Faber, 1941). The American edition is called *The Double Man* (Random House, 1941). The notes to the poem are cited by the number of the line they are attached to.',
+        'W. H. Auden, *The Enchafèd Flood* (Random House, 1950), cited here from the Vintage Books edition of 1967.',
+        'W. H. Auden, *The Dyer’s Hand* (Random House, 1962).',
+        'W. H. Auden, *Secondary Worlds* (Random House, 1968), the T. S. Eliot Memorial Lectures of 1967.',
+        'W. H. Auden, *Forewords and Afterwords* (Random House, 1973), cited here from the Faber and Faber printing of 1974.',
+        'W. H. Auden, *The English Auden: Poems, Essays and Dramatic Writings, 1927–1939*, edited by Edward Mendelson (Faber and Faber, 1977).',
+        'W. H. Auden, *The Prolific and the Devourer* (Ecco Press, 1994), written in 1939 and left unfinished.',
+        'W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (Princeton University Press, 2000), from notes taken by Alan Ansen and others at the New School in 1946 and 1947.',
+        'W. H. Auden, *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (Princeton University Press, 2002), a volume of *The Complete Works of W. H. Auden*. Its third appendix records the two courses he gave at Michigan. It says that a mimeographed reading list for the first is in the university’s library (pp. 465–66) but does not print it. It prints the final examination of the second, dated May 21, 1942 (pp. 467–70).',
+        'Paull Franklin Baum, *The Principles of English Versification* (Harvard University Press, 1922), read at Project Gutenberg.',
+        'Alexander Schmidt, *Shakespeare-Lexicon* (Berlin, 1902), read at the Perseus Digital Library.',
+        '*A New English Dictionary on Historical Principles* (Clarendon Press, 1884–1928), the first edition of the *Oxford English Dictionary*.',
+      ],
+      after: [
+        'Each page lists its own sources as well: the edition of its text, the dictionaries behind its glosses, and the places in Auden’s books that it reports.',
+      ],
+    },
+    {
+      h: 'The type',
+      paras: [
+        'The type is Cormorant Garamond and EB Garamond, both used under the SIL Open Font License.',
+      ],
+    },
+  ],
+};

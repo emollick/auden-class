@@ -1,0 +1,1258 @@
+{
+ "piece": "rilke",
+ "title": "A single line of verse",
+ "where": "*The Journal of My Other Self* *(The Notebooks of Malte Laurids Brigge)*, Part One, pages 18 to 20 of the edition of 1930; and one poem, “Der Panther”",
+ "about": "Malte Laurids Brigge, twenty-eight and unknown, keeps these notebooks in a small room in Paris. He has just written that he is learning to see and ought to begin work, and that verses written young come to little, since verses are experiences. Then he says what a single line of verse requires. The third passage is a poem of 1902 or 1903, from the Paris stay the novel draws on; Rilke later called it the first result, in the Jardin des Plantes, of being schooled to work before nature.",
+ "view": {
+  "says": "Nothing by Auden that names this book has been found. In 1936 he praised the part of it that the first two passages here come from, as the critic Herbert Read quoted it: a fine passage, where Rilke counts out the mass of things seen and heard that one poem needs. That, he went on, was exactly his objection to Shelley, who seemed to him to have attended to nothing but ideas.",
+  "quote": "sensory experiences that should go to the making of a single poem",
+  "source": "“Psychology and Criticism,” *New Verse*, no. 20 (April–May 1936); in *The English Auden*, edited by Edward Mendelson (1977), p. 357",
+  "checked": "the three sentences (Rilke in a fine passage that Read has quoted, with the words quoted here; that this is precisely his objection to Shelley; that, reading Shelley, he feels he never looked at or listened to anything except ideas) read on 2026-10-03 through the full-text search of the Internet Archive scan of The English Auden (englishaudenpoem0000aude); the issue, the title and the page from remake/research/F_rilke.md, section 3.3; Read’s quotation of the passage, with his footnote naming the book, read the same way in Form in Modern Poetry (1932). The words quoted stand so in both Internet Archive scans of The English Auden (englishaudenpoem0000aude and englishaudenpoem00aude), “human mass” included; a full-text search of the Archive on 2026-10-03 finds the phrase in no other book. The examiner read the same three sentences, with the one before them and the one after, through the same search of both scans on 2026-10-03, and cut the quotation to the twelve words that follow “mass of”: the adjective before “mass” may be a misprint in the book, and the page prints the quotation first and large. The verb enumerates, named in the first caption, stands in the same sentence. The page, worked out by the examiner from the text of the scan englishaudenpoem0000aude: the page numbers stand in the text at the foot of each page (the essay, which the contents page puts at 356, has part of its text before the number 356; the next essay, put at 358, begins between the numbers 357 and 358); the sentence stands between the numbers 356 and 357, with no other number near it, so it is on p. 357. The finisher, on 2026-10-03, put the words “the critic” before Read’s name in the paraphrase. The ground is Auden’s own page, opened through the full-text search of the same scan (englishaudenpoem0000aude) on that day: the essay is headed with the book under review, In Defence of Shelley, by Herbert Read; in it Auden takes up what Read calls ontogenetic criticism; and he says that Read himself quoted the passage of Rilke in Form in Modern Poetry"
+ },
+ "plates": [
+  {
+   "id": "count",
+   "heading": "One sentence, eleven things",
+   "label": "The English of 1930",
+   "text": "rilke/p1-02",
+   "rows": [
+    "0.0[170-294]"
+   ],
+   "pair": {
+    "label": "Rilke’s German",
+    "text": "o-rilke/verse",
+    "rows": [
+     "0.0[149-251]"
+    ]
+   },
+   "beside": true,
+   "lenses": [
+    {
+     "kind": "sentence",
+     "label": "Sentence",
+     "spans": [
+      {
+       "from": [
+        "0.0",
+        170
+       ],
+       "to": [
+        "0.0",
+        177
+       ],
+       "tag": "main",
+       "label": "subject and verb"
+      },
+      {
+       "from": [
+        "0.0",
+        178
+       ],
+       "to": [
+        "0.0",
+        182
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        183
+       ],
+       "to": [
+        "0.0",
+        185
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        187
+       ],
+       "to": [
+        "0.0",
+        193
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        194
+       ],
+       "to": [
+        "0.0",
+        201
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        203
+       ],
+       "to": [
+        "0.0",
+        231
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        232
+       ],
+       "to": [
+        "0.0",
+        247
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        248
+       ],
+       "to": [
+        "0.0",
+        255
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        257
+       ],
+       "to": [
+        "0.0",
+        261
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        262
+       ],
+       "to": [
+        "0.0",
+        265
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        266
+       ],
+       "to": [
+        "0.0",
+        267
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        268
+       ],
+       "to": [
+        "0.0",
+        281.1
+       ],
+       "tag": "to",
+       "label": "the eleven things"
+      },
+      {
+       "from": [
+        "0.0",
+        281.2
+       ],
+       "to": [
+        "0.0",
+        294
+       ],
+       "tag": "turn",
+       "label": "not enough"
+      }
+     ],
+     "caption": "This is one sentence of 126 words in the English. It makes its assertion at once: subject and verb are done in the first eight words. The next 104 are a list. <b>To</b> stands at the head of eleven things to return to, as <i>an</i> does in Rilke’s German. The sentence could end after any of them. Handbooks of composition call such a sentence loose, and nothing in its grammar says when the list must stop. It stops at the dash, and all this is then called not enough. Auden’s verb for the passage is <i>enumerates</i>: Rilke counts out the things seen and heard that one poem needs.",
+     "why": "One short assertion carries eleven phrases, each headed by the same word, so the sentence can keep adding to its count before it calls the whole of it not enough; Auden says the passage counts out what one poem requires.",
+     "stands": "The marks on the passage, and a count of its words in the English printed here, with the pair joined by the dash counted as two words. The loose sentence: T. Clifford Allbutt, *Notes on the Composition of Scientific Papers* (1904), p. 64. The German is the same sentence in Rilke’s text. Auden’s verb: “Psychology and Criticism” (1936), in *The English Auden*, p. 357.",
+     "grounds": [
+      {
+       "claim": "one sentence of 126 words (125 word numbers on the plate, where stars and the and after the dash are printed as one); subject and verb in its first eight; then a list of 104: eleven phrases, each headed by to, of 5, 3, 7, 8, 29, 16, 8, 5, 4, 2 and 14 words (101), and the joining word and three times; the dash; the fourteen words that follow it",
+       "kind": "plate"
+      },
+      {
+       "claim": "the sentence is grammatically complete after the first of the eleven phrases and after each of the others: every comma and semicolon of the list ends one",
+       "kind": "plate"
+      },
+      {
+       "claim": "a loose sentence is one that might have ended at an earlier pause; a periodic sentence can end only when its period is complete",
+       "kind": "source",
+       "source": "T. Clifford Allbutt, Notes on the Composition of Scientific Papers (London: Macmillan, 1904), p. 64, read in the Internet Archive text (cu31924031387719); the term is also in William Strunk, The Elements of Style (1918), rule 14"
+      },
+      {
+       "claim": "the German has an at the head of each of the eleven things",
+       "kind": "plate"
+      },
+      {
+       "claim": "the sentence ends by saying that all this is still not enough",
+       "kind": "text",
+       "source": "rilke/p1-02, block 0, words 282 to 294"
+      },
+      {
+       "claim": "Auden’s verb for the passage is enumerates, and what Rilke counts, in his account, is the sensory experience that one poem requires",
+       "kind": "auden",
+       "source": "“Psychology and Criticism,” New Verse, no. 20 (April–May 1936); in The English Auden (1977), p. 357"
+      }
+     ]
+    },
+    {
+     "kind": "figure",
+     "label": "Figure",
+     "name": "climax",
+     "plain": "a ladder: words or phrases set in rising order, each step greater than the one before",
+     "draw": "list",
+     "parts": [
+      {
+       "row": "0.0",
+       "w": [
+        249,
+        255
+       ],
+       "tag": "step",
+       "label": "quiet rooms"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        258,
+        261
+       ],
+       "tag": "step",
+       "label": "the seaside"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        263,
+        265
+       ],
+       "tag": "step",
+       "label": "the sea"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        267,
+        267
+       ],
+       "tag": "step",
+       "label": "oceans"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        269,
+        281.1
+       ],
+       "tag": "step",
+       "label": "all the stars"
+      }
+     ],
+     "caption": "The last five things in the list rise in order, each with more space in it than the one before: quiet <b>rooms</b>, mornings by the <b>sea</b>, the sea itself, <b>oceans</b>, nights that flew with all the <b>stars</b>. Such a series is a climax, Greek for ladder. Through the first four steps the English phrases shrink as the things grow, from seven words to one. Then the last step is the longest, thirteen words, and the dash stops the list at its widest. So the <i>all this</i> that the sentence then calls not enough has just taken in the stars.",
+     "why": "The list ends on a rising series, from quiet rooms to all the stars, and the dash stops it at its widest; the words all this, which the sentence calls not enough, cover the largest things it has named.",
+     "stands": "The marks on the passage, and a count of the words in each of the five English phrases, without the *to* that heads it. Climax as Gideon O. Burton’s *Silva Rhetoricae* defines it. The sentence itself, for what it calls not enough.",
+     "grounds": [
+      {
+       "claim": "the five steps and what each names; seven, four, three, one and thirteen words (the to at the head of each phrase not counted); the dash after the fifth",
+       "kind": "plate"
+      },
+      {
+       "claim": "climax, Greek for ladder: words, phrases or clauses arranged in an order of increasing importance, often in parallel structure",
+       "kind": "source",
+       "source": "Gideon O. Burton, Silva Rhetoricae (rhetoric.byu.edu), under climax"
+      },
+      {
+       "claim": "what the sentence calls not enough is all this; the last thing named before the dash is the nights of travel, with the stars (words 268 to 281.1), so all this covers them (the lines read again by the finisher on 2026-10-03, to test the caption’s last sentence as a new one)",
+       "kind": "text",
+       "source": "rilke/p1-02, block 0, words 282 to 294"
+      }
+     ]
+    },
+    {
+     "kind": "compare",
+     "label": "German",
+     "ties": [
+      {
+       "a": [
+        "0.0",
+        175,
+        177
+       ],
+       "b": [
+        "p:0.0",
+        151,
+        151
+       ],
+       "say": "The German has one verb here, *zurückdenken*, to think back."
+      },
+      {
+       "a": [
+        "0.0",
+        178,
+        182
+       ],
+       "b": [
+        "p:0.0",
+        153,
+        157
+       ],
+       "say": "The German *an* does the work of the English *to*. It heads each of the eleven things."
+      },
+      {
+       "a": [
+        "0.0",
+        257,
+        261
+       ],
+       "b": [
+        "p:0.0",
+        219,
+        222
+       ],
+       "say": "*Meer* is sea. The word comes three times, and this is the first."
+      },
+      {
+       "a": [
+        "0.0",
+        262,
+        265
+       ],
+       "b": [
+        "p:0.0",
+        223,
+        226
+       ],
+       "say": "The German says *das Meer überhaupt*, the sea as a whole."
+      },
+      {
+       "a": [
+        "0.0",
+        266,
+        267
+       ],
+       "b": [
+        "p:0.0",
+        227,
+        228
+       ],
+       "say": "*Meere* is seas: the same noun, now plural. The English changes the word."
+      },
+      {
+       "a": [
+        "0.0",
+        282,
+        286
+       ],
+       "b": [
+        "p:0.0",
+        240,
+        244
+       ],
+       "say": "The German is *noch nicht genug*, not yet enough. It is the first of three times the paragraph says *noch nicht*."
+      }
+     ],
+     "caption": "The build of the sentence is Rilke’s. One verb, <i>zurückdenken</i>, to think back, carries the list, and each of the eleven things begins with <b>an</b>, as it begins with <b>to</b> in the English. The English says <i>sea</i> twice and then <b>oceans</b>. Rilke says <i>Meer</i>, sea, three times: by the sea, the sea as a whole, seas. Three steps of the climb shown under Figure are taken on that one noun: the word stays, and what it covers grows. After the dash comes <i>noch nicht genug</i>, not yet enough, the first of three <i>not yet</i> in the German.",
+     "why": "The build is Rilke’s: one verb and eleven phrases on an, kept in English as to; three steps of the climb use one noun, Meer, so the word stays while what it covers grows; then comes the first not yet.",
+     "stands": "The two passages as they stand together, and a count of *an* and *to* in them. The German words: the *Digitales Wörterbuch der deutschen Sprache* under *zurückdenken*, *überhaupt* and *noch*. The second and third *not yet*: Rilke, *Sämtliche Werke*, vol. 6, p. 724, as given at zeno.org.",
+     "grounds": [
+      {
+       "claim": "which words answer which; an eleven times at the head of a thing in the German and to eleven times in the English; Meer, Meer, Meere against sea, sea, oceans; the order of the two sentences",
+       "kind": "plate"
+      },
+      {
+       "claim": "zurückdenken is to think back to something past and takes an; überhaupt is seen as a whole, altogether; noch marks a state that still goes on, and noch nicht is not yet",
+       "kind": "source",
+       "source": "Digitales Wörterbuch der deutschen Sprache (dwds.de), under zurückdenken, überhaupt (sense 1) and noch (sense I.1, with the examples of noch nicht), read 2026-10-03"
+      },
+      {
+       "claim": "the German says noch nicht twice more before the last sentence: of having memories, and of the memories themselves",
+       "kind": "source",
+       "source": "Rilke, Die Aufzeichnungen des Malte Laurids Brigge, in Sämtliche Werke, vol. 6 (1955–1966), p. 724, as given at zeno.org"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "turn",
+   "heading": "Not until",
+   "label": "The English of 1930",
+   "text": "rilke/p1-02",
+   "rows": [
+    "0.0[354-442]"
+   ],
+   "pair": {
+    "label": "Rilke’s German: the last sentence",
+    "text": "o-rilke/verse",
+    "rows": [
+     "0.0[339-381]"
+    ]
+   },
+   "beside": true,
+   "lenses": [
+    {
+     "kind": "sentence",
+     "label": "Sentence",
+     "spans": [
+      {
+       "from": [
+        "0.0",
+        354
+       ],
+       "to": [
+        "0.0",
+        363
+       ],
+       "tag": "short",
+       "label": "three shorter sentences"
+      },
+      {
+       "from": [
+        "0.0",
+        364
+       ],
+       "to": [
+        "0.0",
+        387
+       ],
+       "tag": "short",
+       "label": "three shorter sentences"
+      },
+      {
+       "from": [
+        "0.0",
+        388
+       ],
+       "to": [
+        "0.0",
+        395
+       ],
+       "tag": "short",
+       "label": "three shorter sentences"
+      },
+      {
+       "from": [
+        "0.0",
+        396
+       ],
+       "to": [
+        "0.0",
+        417.1
+       ],
+       "tag": "when",
+       "label": "the condition"
+      },
+      {
+       "from": [
+        "0.0",
+        417.2
+       ],
+       "to": [
+        "0.0",
+        421
+       ],
+       "tag": "then",
+       "label": "the main clause"
+      },
+      {
+       "from": [
+        "0.0",
+        428
+       ],
+       "to": [
+        "0.0",
+        433
+       ],
+       "tag": "point",
+       "label": "the point"
+      }
+     ],
+     "caption": "Three shorter sentences come first. The fourth, of forty-eight words, begins with its condition, <b>Only when</b>, and runs twenty-two words before the dash and <b>only then</b>. Handbooks call this order periodic. The long sentence of the first passage could end in eleven places; this one cannot end before its point, <b>the first word of a poem</b>. From <i>a single verse</i> to this sentence the paragraph says <i>must</i> eight times. This sentence has no <i>must</i> and no <i>one</i>. Its subjects are the memories, <i>it</i>, and the word; the writer is there only as <i>us</i> and <i>ourselves</i>. Earlier sentences say what one must do; this one says what can then happen.",
+     "why": "Periodic order holds the sentence open until the first word of a poem arises; after eight uses of must it has none, its subjects are the memories and the word, and it says what can then happen.",
+     "stands": "The marks on the passage, with the pair joined by the dash counted as two words, and a count of *must* in [the paragraph](#/read/rilke/p1-02:0) from *a single verse* on. The periodic sentence: Charles Sears Baldwin, *Composition, Oral and Written* (1909), p. 122, and T. Clifford Allbutt, *Notes on the Composition of Scientific Papers* (1904), p. 64.",
+     "grounds": [
+      {
+       "claim": "three sentences of ten, twenty-four and eight words, then one of forty-eight (ourselves and only are printed as one); its condition of twenty-two words before the dash; only then; where the first word of a poem stands; no must and no one in the last sentence; its subjects they, it and the first word; us and ourselves",
+       "kind": "plate"
+      },
+      {
+       "claim": "a periodic sentence puts its conditions first and its main clause last, in order to end with the point; it can end only when its period is complete, where a loose sentence might have ended at an earlier pause",
+       "kind": "source",
+       "source": "Charles Sears Baldwin, Composition, Oral and Written (New York, 1909), p. 122; T. Clifford Allbutt, Notes on the Composition of Scientific Papers (London, 1904), p. 64; William Strunk, The Elements of Style (1918), rule 18"
+      },
+      {
+       "claim": "the long sentence could end after each of its eleven things; this one is not complete before arises",
+       "kind": "text",
+       "source": "rilke/p1-02, block 0, words 178 to 281 and 396 to 434"
+      },
+      {
+       "claim": "must comes eight times between a single verse and the last sentence",
+       "kind": "text",
+       "source": "rilke/p1-02, block 0, words 128 to 395: must at words 136, 145, 171, 296, 331, 338, 365 and 377"
+      },
+      {
+       "claim": "the German has muß nine times in the same stretch, and no muß and no man in its last sentence",
+       "kind": "source",
+       "source": "o-rilke/verse, block 0, words 112 to 381: muß at words 116, 125, 130, 150, 253, 282, 286, 313 and 323; the same in Sämtliche Werke, vol. 6, pp. 724–25, as given at zeno.org"
+      }
+     ]
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "0.0",
+       "w": [
+        358,
+        359
+       ],
+       "gloss": "*noch nicht*: not yet",
+       "note": "This is the second of three in the German: to think of all this is not yet enough, to have memories is not yet enough, and the memories themselves are not yet it.",
+       "source": "Rilke, Sämtliche Werke, vol. 6 (1955–1966), p. 724, as given at zeno.org; Digitales Wörterbuch der deutschen Sprache (dwds.de), under noch, sense I.1"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        388,
+        395
+       ],
+       "gloss": "German: are not yet it",
+       "note": "Rilke’s words are *selbst sind es noch nicht*, the memories themselves are not yet it, and the English of 1930 says the reverse.",
+       "source": "Rilke, Sämtliche Werke, vol. 6 (1955–1966), p. 724, as given at zeno.org; the same German is quoted in the Zentralblatt für Psychoanalyse, vol. 2, no. 8 (May 1912), on the Internet Archive"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        396,
+        397
+       ],
+       "gloss": "*Erst wenn*: not until",
+       "note": "*Erst* says that a thing does not come sooner than the time named, and it comes again where the English has *only then*: *erst dann*, not until then.",
+       "source": "Digitales Wörterbuch der deutschen Sprache (dwds.de), under erst, sense I.2"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        406,
+        406
+       ],
+       "gloss": "*Blick*: a look",
+       "note": "In Grimm’s German dictionary the first sense of *Blick* is a flash of light and a later one the light of the eye; it is the first noun of “Der Panther,” the third passage here.",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, vol. 2 (1860), cols. 113–16, under Blick, senses 1 and 3"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        408,
+        408
+       ],
+       "gloss": "*Gebärde*: bearing, gesture",
+       "note": "Rilke uses the same noun, *Gebärde*, near the start of the list for what small flowers make when they open; Grimm gives its first sense as a person’s whole bearing.",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, vol. 4, part 1.1 (1878), cols. 1729–36, under Geberde, senses 1 and 3; Rilke, Sämtliche Werke, vol. 6, p. 724; the noun stands at word 138 of the German paragraph as stored here (o-rilke/verse, block 0) and again at word 348, read by the finisher on 2026-10-03 for the word the critic added to the note"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        433,
+        433
+       ],
+       "gloss": "*Vers*: a line of verse",
+       "note": "The German list begins *Um eines Verses willen*, for the sake of one line, and ends on *das erste Wort eines Verses*, the first word of a line; Grimm derives *Vers* from Latin *versus*, the turn of the plow, a furrow, a line.",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, vol. 12, part 1, col. 1029 (printed 1895), under Vers, sense 1; Rilke, Sämtliche Werke, vol. 6, pp. 724–25"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        434,
+        434
+       ],
+       "gloss": "*aufsteht*: stands up",
+       "note": "Grimm gives the German verb for getting up from bed or from a seat, and says that in old narrative it is often followed by going, or by speaking. Here going follows: the first word of a line stands up and then goes forth, *ausgeht*.",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, vol. 1 (1854), cols. 746–48, under aufstehen, senses 1 and 2; the German sentence printed here, words 374 to 381, for what follows the verb"
+      }
+     ],
+     "caption": "Rilke’s German is printed for the last sentence. Before it the German says <i>noch nicht</i>, not yet, three times, the third time of the memories themselves: they <i>are not yet it</i>. Then <b>Only</b>, which is <i>erst</i>, not until, answers twice. The English of 1930 turns that third sentence around: there the memories are what <b>matter</b>, and the third step is gone. The list began for the sake of a single <i>Vers</i>, a line of verse, and it ends when the first word of a <i>Vers</i> <b>arises</b>: <i>aufsteht</i>, stands up. The English says <i>verse</i> there and <b>poem</b> here.",
+     "why": "In German three steps of not yet, the last about the memories themselves, lead to not until; the English of 1930 reverses the third, and where Rilke returns to his first noun, Vers, it says poem.",
+     "stands": "Rilke’s German: the last sentence as printed here, and the sentences before it in *Sämtliche Werke*, vol. 6, p. 724, as given at zeno.org. Grimm’s *Deutsches Wörterbuch* under *Vers*, *aufstehen*, *ausgehen*, *Blick* and *Geberde*; the *Digitales Wörterbuch der deutschen Sprache* under *erst* and *noch*. The English of [the whole paragraph](#/read/rilke/p1-02:0), for *verse* and *poem*.",
+     "grounds": [
+      {
+       "claim": "the German of the last sentence: Erst wenn, erst dann; Blick und Gebärde; das erste Wort eines Verses; aufsteht, and after it und (word 378) and ausgeht (word 381), the last word of the sentence",
+       "kind": "plate"
+      },
+      {
+       "claim": "the German before it: Um eines Verses willen; three times noch nicht; selbst sind es noch nicht",
+       "kind": "source",
+       "source": "Rilke, Die Aufzeichnungen des Malte Laurids Brigge, in Sämtliche Werke, vol. 6 (1955–1966), pp. 724–25, as given at zeno.org; the sentence on the memories is quoted in the same words in the Zentralblatt für Psychoanalyse, vol. 2, no. 8 (May 1912)"
+      },
+      {
+       "claim": "the English has verse at the start of the list and poem at its end, and not enough and not yet enough before the sentence that is reversed",
+       "kind": "text",
+       "source": "rilke/p1-02, block 0, words 132 to 134, 282 to 286, 354 to 360 and 429 to 433"
+      },
+      {
+       "claim": "Vers is the line of verse, from Latin versus (sense 1; sense 2 is a group of lines, a stanza); aufstehen is to get up or stand up, often followed by going or by speaking; the first senses of Blick and Gebärde",
+       "kind": "source",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under Vers, aufstehen, Blick and Geberde, read at dwds.de; for Vers also the Digitales Wörterbuch der deutschen Sprache, under Vers (1 the line; 2, in common use, the stanza), read 2026-10-03"
+      },
+      {
+       "claim": "aufstehen, sense 1 (from bed or a resting place): going, walking or moving off follows the getting up as often as eating does, as the action proper, for which the getting up is the condition; sense 2 (from the ground, a chair or a bench): speaking is joined to it, because the one who speaks first rises to be heard. Grimm’s word for these usages is episch, and most of his examples are from Luther’s Bible. In Rilke’s sentence aufsteht (German word 374) is followed by und (378) and ausgeht (381), where the English has arises (434) and goes forth (439 to 440); the note says only that going follows here. Sense 7 of the same entry is to arise, to come into being, with a thought that arises among its examples; the English arises answers to it, and the gloss on the page keeps the literal stands up. The third caveat says so since 2026-10-03: the finisher added a sentence of eleven words to it, on this ground",
+       "kind": "source",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, vol. 1 (1854; part 4, printed 1852), under aufstehen (the verb’s entry runs from col. 746, line 48, to col. 748, line 22), senses 1, 2 and 7, and under ausgehen (from col. 868, line 68: the Latin at its head is exire, egredi, prodire, interire; sense 1, to go out of the house or the room, as against going in), both opened by the finisher at dwds.de/wb/dwb on 2026-10-03; the German sentence as printed here (o-rilke/verse, block 0, words 374 to 381) and its English (rilke/p1-02, block 0, words 434 to 442)"
+      },
+      {
+       "claim": "erst: not sooner than the time named; noch nicht: not yet",
+       "kind": "source",
+       "source": "Digitales Wörterbuch der deutschen Sprache (dwds.de), under erst, sense I.2, and noch, sense I.1"
+      },
+      {
+       "claim": "where poem, arises, only and matter stand in the English",
+       "kind": "plate"
+      }
+     ]
+    },
+    {
+     "kind": "figure",
+     "label": "Figure",
+     "name": "metaphor",
+     "plain": "one thing spoken of as another",
+     "draw": "map",
+     "join": "none",
+     "parts": [
+      {
+       "row": "0.0",
+       "w": [
+        392,
+        392
+       ],
+       "tag": "A",
+       "label": "of the mind"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        402,
+        402
+       ],
+       "tag": "B",
+       "label": "of the body"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        406,
+        406
+       ],
+       "tag": "B"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        408,
+        408
+       ],
+       "tag": "B"
+      }
+     ],
+     "caption": "The memories are to turn into three things, and each belongs to a body: <b>blood</b>, a <b>glance</b>, a <b>gesture</b>. This is a metaphor: a thing of the mind is spoken of as the body. The list began, before the first passage here, with what one must <i>see</i> and with the <i>gestures</i> of flowers. It ends with memories that have become one’s own glance and gesture and can no longer be told apart from oneself. Auden wrote in 1939, reviewing Rilke’s poems, that a poet always has the problem of saying abstract ideas concretely, and that the symbols Rilke thinks in are physical, not intellectual. This prose sentence, too, puts <i>memories</i> in physical terms.",
+     "why": "The sentence speaks of a thing of the mind as the body: memories turn to blood, glance and gesture; Auden wrote that a poet always has to say abstract ideas concretely, and that the symbols Rilke thinks in are physical.",
+     "stands": "The marks on the passage, and the words *see* and *gestures* earlier in [the same paragraph](#/read/rilke/p1-02:0). Metaphor as Gideon O. Burton’s *Silva Rhetoricae* defines it. Auden: “Rilke in English,” *The New Republic*, 6 September 1939, p. 135.",
+     "grounds": [
+      {
+       "claim": "memories on one side; blood, glance and gesture on the other, three terms of the body: this is all that the caption’s last sentence claims for the prose sentence since the finisher narrowed it on 2026-10-03 (it had said that the sentence does it too, and it did not say which of Auden’s two points it meant)",
+       "kind": "plate"
+      },
+      {
+       "claim": "metaphor: a comparison made by referring to one thing as another",
+       "kind": "source",
+       "source": "Gideon O. Burton, Silva Rhetoricae (rhetoric.byu.edu), under metaphor"
+      },
+      {
+       "claim": "the list began with see and with the gestures of flowers; the memories end nameless and no longer to be distinguished from ourselves",
+       "kind": "text",
+       "source": "rilke/p1-02, block 0, words 135 to 143, 155 to 169 and 409 to 417; see is word 137 and gestures word 157, and the first passage here begins at word 170, so both stand before it, as the critic’s added words say (read by the finisher in the output of words.mjs on 2026-10-03)"
+      },
+      {
+       "claim": "one of a poet’s standing problems is how to say abstract ideas concretely; Rilke, like the Elizabethans and unlike the Metaphysicals, thinks in physical and not intellectual symbols; said in a review of the Duino Elegies, of his poetry. What Auden there calls new in Rilke is something else, seeing the human in terms of things, and the caption does not claim it for this sentence, whose terms are of the human body",
+       "kind": "auden",
+       "source": "“Rilke in English,” The New Republic, 6 September 1939, p. 135; in Prose, vol. II (2002), pp. 25–27; the two statements (the poet’s problem with abstract ideas, and the physical symbols that Rilke shares with the Elizabethans) were read again by the finisher on 2026-10-03, in snippets, through the full-text search of the public scan of the magazine at archive.org (new-republic-the-1914-1969)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "panther",
+   "heading": "In the Jardin des Plantes, Paris",
+   "beside": true,
+   "turn": { "1.3": 3, "2.0": 2, "2.1": 1 },
+   "label": "Rilke, 1902 or 1903",
+   "text": "rilke-de/panther",
+   "rows": [
+    "1.0-1.3",
+    "2.0-2.3",
+    "3.0-3.3"
+   ],
+   "pair": {
+    "label": "Jessie Lemont, 1918",
+    "text": "poems/panther-en",
+    "rows": [
+     "0.0-0.3",
+     "1.0-1.3",
+     "2.0-2.3"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "sentence",
+     "label": "Subjects",
+     "spans": [
+      {
+       "from": [
+        "1.0",
+        0
+       ],
+       "to": [
+        "1.0",
+        0
+       ],
+       "tag": "animal",
+       "label": "the animal: his, to him"
+      },
+      {
+       "from": [
+        "1.0",
+        1
+       ],
+       "to": [
+        "1.0",
+        1
+       ],
+       "tag": "subject",
+       "label": "the first subject of each stanza"
+      },
+      {
+       "from": [
+        "1.2",
+        0
+       ],
+       "to": [
+        "1.2",
+        0
+       ],
+       "tag": "animal",
+       "label": "the animal: his, to him"
+      },
+      {
+       "from": [
+        "2.0",
+        0
+       ],
+       "to": [
+        "2.0",
+        2
+       ],
+       "tag": "subject",
+       "label": "the first subject of each stanza"
+      },
+      {
+       "from": [
+        "3.0",
+        3
+       ],
+       "to": [
+        "3.0",
+        6
+       ],
+       "tag": "subject",
+       "label": "the first subject of each stanza"
+      },
+      {
+       "from": [
+        "3.1",
+        5
+       ],
+       "to": [
+        "3.1",
+        6
+       ],
+       "tag": "image",
+       "label": "the last subject: an image"
+      },
+      {
+       "from": [
+        "3.1",
+        4
+       ],
+       "to": [
+        "3.1",
+        4
+       ],
+       "tag": "verb",
+       "label": "its verb: goes in"
+      },
+      {
+       "from": [
+        "3.1",
+        7
+       ],
+       "to": [
+        "3.1",
+        7
+       ],
+       "tag": "verb",
+       "label": "its verb: goes in"
+      }
+     ],
+     "caption": "Only the title names the panther. The poem has it twice, both times in the first stanza: in <i>Sein Blick</i>, his gaze, and in <i>Ihm</i>, to him. It is never the subject of a verb. Each stanza takes as its first subject something seen of it: the gaze, <b>Blick</b>; the gait, <b>Gang</b>; the pupil’s curtain, <b>Vorhang der Pupille</b>. The last subject is <b>ein Bild</b>, an image that goes in. Rilke later called the poem the first result of his schooling under Rodin, to work before nature like a painter or sculptor, and wrote that one can see this in it. In the notebook Malte writes that he is learning to see.",
+     "why": "The animal is never a subject and each stanza starts from one thing seen of it; Rilke said the poem came of working before nature like a painter or sculptor, and that this can be seen in it.",
+     "stands": "The marks on the poem. German Wikipedia, “Der Panther,” on the three stanzas as gaze, gait and eye. Rilke’s letter of 17 March 1926, in *Briefe aus Muzot* (1935), read as Kih-Seong Kuh quotes it, *Die Tiersymbolik bei Rainer Maria Rilke* (1967), p. 60. Malte on learning to see: [an early entry](#/read/rilke/p1-01:8) and [the paragraph on verses](#/read/rilke/p1-02:0).",
+     "grounds": [
+      {
+       "claim": "the first subject of each stanza, and the image as subject after the full stop, with no new subject after it; the animal present only as Sein and Ihm, both in the first stanza (er in line 2 is the gaze: Blick is a masculine noun)",
+       "kind": "plate"
+      },
+      {
+       "claim": "the three stanzas describe the animal from outside: gaze, gait, eye",
+       "kind": "source",
+       "source": "German Wikipedia, “Der Panther,” section “Form” (read 2026-10-03)"
+      },
+      {
+       "claim": "Rilke on the great Rodin, under whom he was obliged for the time being to work before nature like a painter or sculptor, relentlessly grasping and copying; Der Panther, in the Jardin des Plantes in Paris, as the first result of this strict good schooling, an origin that he says one may see in the poem",
+       "kind": "source",
+       "source": "Rilke to a young friend, 17 March 1926, in Briefe aus Muzot 1921 bis 1926 (Leipzig: Insel, 1935), read in extracts through the full-text search of the Internet Archive scan (briefeausmuzot190000rain), and as quoted at length in Kih-Seong Kuh, Die Tiersymbolik bei Rainer Maria Rilke (Berlin: Ernst-Reuter-Gesellschaft, 1967), p. 60, read 2026-10-03 in the Internet Archive text of the book (IA40151827_0022)"
+      },
+      {
+       "claim": "Malte writes that he is learning to see",
+       "kind": "text",
+       "source": "rilke/p1-01, blocks 8 and 11; rilke/p1-02, block 0, words 10 to 16 (all three opened again by the finisher on 2026-10-03, to test the caption’s last sentence as a new one)"
+      },
+      {
+       "claim": "the sense of the German words",
+       "kind": "source",
+       "source": "the English versions by Stanley Appelbaum and Stephen Mitchell printed with the German in the English Wikipedia article “The Panther (poem)” (read 2026-10-03); Lemont’s version on the plate; Digitales Wörterbuch der deutschen Sprache (dwds.de), under Stab"
+      }
+     ]
+    },
+    {
+     "kind": "beat",
+     "label": "Beat",
+     "meterName": "five beats, the line beginning off the beat, in lines of eleven and ten syllables by turns; the last line has four beats",
+     "scan": {
+      "1.0": {
+       "meter": "x/x/x/x/x/x",
+       "voice": "x / x x x/x/ x /x",
+       "div": {
+        "6": "Stä|be"
+       }
+      },
+      "1.1": {
+       "meter": "x/x/x/x/x/",
+       "voice": "x / x/x x x / x /"
+      },
+      "1.2": {
+       "meter": "x/x/x/x/x/x",
+       "voice": "x / x / x /x /x /x",
+       "div": {
+        "6": "Stä|be",
+        "7": "gä|be"
+       }
+      },
+      "1.3": {
+       "meter": "x/x/x/x/x/",
+       "voice": "x /x /x /x /x /",
+       "div": {
+        "4": "kei|ne"
+       }
+      },
+      "2.0": {
+       "meter": "x/x/x/x/x/x",
+       "voice": "x /x / x/x /x /x",
+       "div": {
+        "1": "wei|che",
+        "3": "ge|schmei|dig",
+        "5": "Schrit|te,"
+       }
+      },
+      "2.1": {
+       "meter": "x/x/x/x/x/",
+       "voice": "x x x /x/x /x /",
+       "div": {
+        "3": "al|ler|klein|sten",
+        "4": "Krei|se"
+       }
+      },
+      "2.2": {
+       "meter": "x/x/x/x/x/x",
+       "voice": "x x x / x / x xx /x",
+       "div": {
+        "7": "ei|ne",
+        "8": "Mit|te,"
+       }
+      },
+      "2.3": {
+       "meter": "x/x/x/x/x/",
+       "voice": "x x x/ x /x /x /",
+       "div": {
+        "2": "be|täubt"
+       }
+      },
+      "3.0": {
+       "meter": "x/x/x/x/x/x",
+       "voice": "x /x / x /x x x/x"
+      },
+      "3.1": {
+       "meter": "x/x/x/x/x/",
+       "voice": "x /x / | x / x / x/",
+       "div": {
+        "7": "hin|ein,"
+       }
+      },
+      "3.2": {
+       "meter": "x/x/x/x/x/x",
+       "voice": "x / x /x /x/x /x",
+       "div": {
+        "4": "an|ge|spann|te",
+        "5": "Stil|le—"
+       }
+      },
+      "3.3": {
+       "meter": "x/x/x/x/",
+       "voice": "x / x /x / x /"
+      }
+     },
+     "points": [
+      {
+       "at": [
+        "3.1",
+        2,
+        3
+       ],
+       "say": "The one full stop inside a line. It parts the opening of the eye from what follows it."
+      },
+      {
+       "at": [
+        "3.3",
+        0,
+        6
+       ],
+       "say": "Eight syllables and four beats, after eleven lines of five beats."
+      }
+     ],
+     "caption": "The rule under each line is the measure and the dots are the speaking voice. For eleven lines the measure does not change. Two things happen once only, both in the last stanza, which begins <i>Nur manchmal</i>, only sometimes. Its second line has the poem’s one full stop inside a line; after it, <i>Dann</i>, then, an image goes in. The last line has four beats. It says the image <i>ceases to be</i>, and a study of animal symbolism in Rilke assumes that the poet cut the line short to strengthen that statement.",
+     "why": "The poem keeps five beats for eleven lines; its one full stop inside a line and its one four-beat line both come in the stanza that begins only sometimes, the short line where the image ceases to be.",
+     "stands": "The marks on the poem, with the syllables and beats counted line by line. What the last stanza says. The reading of the short last line: Kih-Seong Kuh, *Die Tiersymbolik bei Rainer Maria Rilke* (1967), p. 64, which German Wikipedia, “Der Panther,” follows.",
+     "grounds": [
+      {
+       "claim": "the syllables and beats of each line; the full stop inside line 10; the four beats of line 12",
+       "kind": "plate"
+      },
+      {
+       "claim": "the last stanza begins only sometimes; after the full stop an image goes in; the last line says it ceases to be",
+       "kind": "text",
+       "source": "rilke-de/panther, rows 3.0, 3.1 and 3.3"
+      },
+      {
+       "claim": "only the last line is an exception, with four beats; it is to be assumed that the poet tried by this to strengthen the statement that the image ceases to be in the heart",
+       "kind": "source",
+       "source": "Kih-Seong Kuh, Die Tiersymbolik bei Rainer Maria Rilke (Berlin: Ernst-Reuter-Gesellschaft, 1967), p. 64, read 2026-10-03 in the Internet Archive text of the book (IA40151827_0022); German Wikipedia, “Der Panther,” section “Form” (read 2026-10-03) says the same and cites this page and Hans Berendt, Rainer Maria Rilkes Neue Gedichte (1957), p. 112, which was not seen"
+      },
+      {
+       "claim": "the sense of the German words",
+       "kind": "source",
+       "source": "the English versions by Stanley Appelbaum and Stephen Mitchell printed with the German in the English Wikipedia article “The Panther (poem)” (read 2026-10-03); Lemont’s version on the plate; Digitales Wörterbuch der deutschen Sprache (dwds.de), under Stab"
+      }
+     ]
+    },
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "1.0": "a",
+      "1.1": "b",
+      "1.2": "a",
+      "1.3": "b",
+      "2.0": "c",
+      "2.1": "d",
+      "2.2": "c",
+      "2.3": "d",
+      "3.0": "e",
+      "3.1": "f",
+      "3.2": "e",
+      "3.3": "f"
+     },
+     "tails": {
+      "1.0": 3,
+      "1.1": 3,
+      "1.2": 3,
+      "1.3": 3,
+      "2.0": 4,
+      "2.1": 3,
+      "2.2": 4,
+      "2.3": 3,
+      "3.0": 4,
+      "3.1": 3,
+      "3.2": 4,
+      "3.3": 3
+     },
+     "threads": [
+      {
+       "sound": "äbe",
+       "at": [
+        [
+         "1.2",
+         6,
+         2,
+         3
+        ],
+        [
+         "1.3",
+         3,
+         2,
+         3
+        ]
+       ]
+      },
+      {
+       "sound": "tausend",
+       "at": [
+        [
+         "1.2",
+         5,
+         0,
+         7
+        ],
+        [
+         "1.3",
+         2,
+         0,
+         7
+        ]
+       ]
+      }
+     ],
+     "caption": "The rhymes go by turns, a b a b. In the first stanza <b>Stäbe</b>, bars, ends the first line, comes back inside the third with its rhyme <i>gäbe</i> right behind it, and returns as <i>Stäben</i> in the fourth, both times after <i>tausend</i>, a thousand. Repeating a word stresses it, and the word here is bars: to him there seem to be a thousand of them, and no world behind.",
+     "why": "The word for bars comes three times in the stanza that says there seem to be a thousand bars and no world behind them; repeating a word stresses it.",
+     "stands": "The marks on the poem, and what its first stanza says. Repeating one word for emphasis: Gideon O. Burton’s *Silva Rhetoricae*, under *ploce*. The sense of the German words: the *Digitales Wörterbuch der deutschen Sprache* under *Stab*, and the English versions printed in English Wikipedia, “The Panther (poem).”",
+     "grounds": [
+      {
+       "claim": "the rhyme letters; Stäbe at the end of line 1 and inside line 3, and Stäben inside line 4, with gäbe beside it in line 3; tausend before it both times",
+       "kind": "plate"
+      },
+      {
+       "claim": "the first stanza says it seems to him there are a thousand bars, and behind a thousand bars no world",
+       "kind": "text",
+       "source": "rilke-de/panther, rows 1.2 and 1.3"
+      },
+      {
+       "claim": "repeating a single word is a figure of emphasis (ploce); where the form of the word changes, as Stäbe to Stäben, the same handbook calls it polyptoton",
+       "kind": "source",
+       "source": "Gideon O. Burton, Silva Rhetoricae (rhetoric.byu.edu), under ploce and polyptoton, read 2026-10-03"
+      },
+      {
+       "claim": "the sense of the German words",
+       "kind": "source",
+       "source": "the English versions by Stanley Appelbaum and Stephen Mitchell printed with the German in the English Wikipedia article “The Panther (poem)” (read 2026-10-03); Lemont’s version on the plate; Digitales Wörterbuch der deutschen Sprache (dwds.de), under Stab"
+      }
+     ]
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "1.0",
+        4,
+        6
+       ],
+       "b": [
+        "p:0.0",
+        3,
+        7
+       ],
+       "say": "Word for word: from the going past of the bars. In the German the bars are what goes past. In the English the glance passes by the bars."
+      },
+      {
+       "a": [
+        "1.0",
+        1,
+        1
+       ],
+       "b": [
+        "p:0.0",
+        2,
+        2
+       ],
+       "say": "*Blick* is a look, a gaze. The notebook has the same word where its English says *glance*: the memories are to turn to *Blick und Gebärde*, glance and gesture."
+      },
+      {
+       "a": [
+        "1.1",
+        5,
+        7
+       ],
+       "b": [
+        "p:0.1",
+        4,
+        7
+       ],
+       "say": "The German has a verb: the gaze holds nothing any more. The English gives the stare two adjectives."
+      },
+      {
+       "a": [
+        "1.3",
+        4,
+        5
+       ],
+       "b": [
+        "p:0.3",
+        5,
+        7
+       ],
+       "say": "*Keine Welt* is no world. The English has *the empty air*."
+      },
+      {
+       "a": [
+        "3.1",
+        5,
+        7
+       ],
+       "b": [
+        "p:2.2",
+        3,
+        5
+       ],
+       "say": "*Ein Bild* is an image, in the singular, and it goes in. The English has a *flood of visions*, and they arise."
+      },
+      {
+       "a": [
+        "3.3",
+        1,
+        6
+       ],
+       "b": [
+        "p:2.3",
+        2,
+        7
+       ],
+       "say": "The German says that it ceases to be, in a line one beat short. The English visions sink and die, and the line keeps its five beats."
+      }
+     ],
+     "caption": "Lemont’s English of 1918 keeps the rhyme by turns and five beats to the line. It changes what some lines say. In the German the bars go past; in the English the glance passes by them. Twice the German says outright that something is not there, and the English gives a noun with adjectives. The gaze <i>holds nothing any more</i>; the English has a <i>dazed and vacant stare</i>. Behind the bars is <i>no world</i>; the English has <i>the empty air</i>. At the end one image <i>ceases to be</i>, in the short line; the English has a <i>flood of visions</i> that <i>sink and die</i>, in a line of full length.",
+     "why": "Lemont keeps rhyme and beat; for Rilke’s nothing and no world she has a vacant stare and empty air, and for one image that ceases to be in a short line, a flood of visions in a full one.",
+     "stands": "The two poems as they stand together, and a count of the syllables and beats in Lemont’s lines. *Vorübergehen* in the *Digitales Wörterbuch der deutschen Sprache*, and German Wikipedia, “Genitiv,” on the genitive (the form that says *of*) after a noun made from a verb. *Blick und Gebärde*: Rilke’s German for the second passage here. The English versions printed in English Wikipedia, for the sense of the German.",
+     "grounds": [
+      {
+       "claim": "which words answer which; ten syllables and five beats in each of Lemont’s twelve lines (scanned by word number: the first foot is turned round in her last two lines and the fourth in her seventh), her last line of ten syllables against eight in Rilke’s; her rhymes by turns in all three stanzas",
+       "kind": "plate"
+      },
+      {
+       "claim": "vorübergehen takes no object, one goes past at a thing; a genitive after such a verbal noun can answer to the subject of the verb, so the bars are what goes past",
+       "kind": "source",
+       "source": "Digitales Wörterbuch der deutschen Sprache (dwds.de), under vorübergehen; German Wikipedia, “Genitiv,” on the genitive with a noun made from a verb (read 2026-10-03); the plain words the critic set beside the term in the printed note (the form that says of) were tested by the finisher on 2026-10-03 in A New English Dictionary on Historical Principles, vol. IV (Oxford, 1901), under Genitive: sense A.1, and under B a quotation of about 1620 that says the English genitive is marked with of or with s; Kih-Seong Kuh, Die Tiersymbolik bei Rainer Maria Rilke (Berlin: Ernst-Reuter-Gesellschaft, 1967), p. 65, speaks of the bars that glide past before its eyes"
+      },
+      {
+       "claim": "the notebook has Blick und Gebärde where its English has glance and gesture",
+       "kind": "text",
+       "source": "o-rilke/verse, block 0, words 346 to 348; rilke/p1-02, block 0, words 406 to 408"
+      },
+      {
+       "claim": "the sense of the German lines: holds nothing any more, no world, an image goes in, ceases to be",
+       "kind": "source",
+       "source": "the English versions by Stanley Appelbaum and Stephen Mitchell printed with the German in the English Wikipedia article “The Panther (poem)” (read 2026-10-03); Lemont’s version on the plate; Digitales Wörterbuch der deutschen Sprache (dwds.de), under Stab"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "auden": [
+  {
+   "says": "Reviewing the *Duino Elegies* in English in 1939, Auden wrote that a poet always has the problem of saying abstract ideas concretely, and that hardly any poet between the seventeenth century and Rilke had found a new way to do it. Shakespeare, he says, saw what is not human in human terms. Rilke goes the other way and sees people in terms of things, which he calls *Dinge*; and that habit of thought, as Rilke had said himself, is more a child’s than an adult’s. All of this is said of the poems. The review does not name this book.",
+   "source": "“Rilke in English,” *The New Republic*, 6 September 1939, pp. 135–36; in *Prose*, vol. II (2002), pp. 25–27",
+   "checked": "read on 2026-10-03 in the text of the magazine (The New Republic, 6 September 1939, p. 135; research/F_work/nr_1939-09-06.txt, lines 3264 to 3450, where a search finds no Malte, Brigge, Notebook or Journal); the pages in Prose II are from remake/research/F_rilke.md, section 1"
+  },
+  {
+   "says": "In *New Year Letter*, published in 1941, the year of the course, the dead masters sit in judgment on the poet. One couplet names Rilke among them: things bless him, it says, using his German word, *die Dinge*, and it calls him loneliness’s Santa Claus. Later in the poem the Devil hands the poet a volume of Rilke and quotes the Eighth Elegy to him.",
+   "source": "*New Year Letter* (1941), lines 215–16 and 549–56",
+   "checked": "the couplet, and Auden’s note keyed to line 215, read on 2026-10-03 through the full-text search of the Internet Archive scans of New Year Letter (London: Faber, 1941; newyearletter0000aude) and The Double Man (New York, 1941; bwb_S0-DUH-879), which punctuate it differently; the second passage and both line numbers from remake/research/F_rilke.md, section 4.2. The examiner found both passages by the same search of the Faber scan on 2026-10-03: the couplet, the note to line 215 (from Rilke on dolls), the later lines where a Rilke is put into the poet’s hands and the Elegies are quoted to him, with 550 printed beside them, and the note that gives lines of the Eighth Elegy"
+  },
+  {
+   "says": "Donald Pearce, who took the course, made his notes from memory after a lecture. Where his notes on the *Henry IV* lecture stop, he says that more followed, on Rilke’s *Elegies* as far as he recalls, and that he meant to get it down the same night and lost it. No account of a class on this book has been found.",
+   "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 148",
+   "checked": "read on 2026-10-03 in the scan of Pearce’s essay, research/auden/pearce.txt; the page number stands at the foot of the page, after the sentence. The examiner read the same place, and the paragraph near the start where Pearce says how the notes were made (in a nearby room after a lecture, before what was said was gone; he has a record of some lectures, not of each), on 2026-10-03, and reworded the entry to say no more than that"
+  },
+  {
+   "says": "Auden’s later view was cooler. In his inaugural lecture at Oxford in 1956, printed in *The Dyer’s Hand*, he said that Rilke was still a great poet in his judgment, and one he could no longer read. Elsewhere in that book he names Mallarmé and Rilke as the leading heretics of one kind: the poet who credits art with a magical use of its own, until he takes himself for a god who makes his own universe and counts the visible world as nothing. He grants that both had genius, and says that the last impression their work leaves is of falseness and unreality.",
+   "source": "“Making, Knowing and Judging” and “The Poet & the City,” in *The Dyer’s Hand* (1962), pp. 51 and 76",
+   "checked": "read on 2026-10-03 in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 1705–06 (the date of the lecture), 2672–74 (p. 51) and 3770–90 (p. 76). The finisher opened the same scan on 2026-10-03 to test the words the critic added, that the lecture is printed in this book: the note at lines 1705–06 calls the essay an inaugural lecture given at Oxford on 11 June 1956, and the essay’s running heads stand over its pages in the book, p. 51 among them (line 2645). runs.py finds one run of five words that the entry shares with the scan, and it is the title of the book with the word before it"
+  }
+ ],
+ "next": "rilke/p1-01:0",
+ "sources": [
+  "The text: Rainer Maria Rilke, *The Journal of My Other Self*, translated by M. D. Herter Norton and John Linton (New York: W. W. Norton, 1930), pp. 18–20. Herbert Read quotes the same English from John Linton’s London edition (Hogarth Press, 1930).",
+  "The German with it: Rainer Maria Rilke, *Die Aufzeichnungen des Malte Laurids Brigge* (1910), as Project Gutenberg prints it (no. 2188). The sentences not printed here are from *Sämtliche Werke*, vol. 6 (1955–1966), pp. 724–25, as given at zeno.org. The sentence on the memories is quoted in the same words in the *Zentralblatt für Psychoanalyse*, vol. 2, no. 8 (May 1912), and in Robert Faesi, *Rainer Maria Rilke* (1919).",
+  "“Der Panther”: Rainer Maria Rilke, *Neue Gedichte* (Leipzig: Insel, printing of 1920). The English with it: *Poems*, translated by Jessie Lemont (New York: Tobias A. Wright, 1918).",
+  "W. H. Auden, “Psychology and Criticism,” *New Verse*, no. 20 (April–May 1936); in *The English Auden*, edited by Edward Mendelson (1977), pp. 356–58. Herbert Read, *Form in Modern Poetry* (1932), where the passage is quoted; not seen in full.",
+  "W. H. Auden, “Rilke in English,” *The New Republic*, 6 September 1939, pp. 135–36.",
+  "W. H. Auden, *New Year Letter* (1941), lines 215–16 and 549–56; *The Dyer’s Hand* (1962), pp. 51 and 76.",
+  "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 148.",
+  "Rainer Maria Rilke, letter of 17 March 1926 to a young friend, in *Briefe aus Muzot 1921 bis 1926* (Leipzig: Insel, 1935); not seen in full, and read as quoted by Kuh, p. 60.",
+  "Kih-Seong Kuh, *Die Tiersymbolik bei Rainer Maria Rilke* (Berlin: Ernst-Reuter-Gesellschaft, 1967), pp. 59–65, on “Der Panther.”",
+  "German Wikipedia: “Der Panther,” “Die Aufzeichnungen des Malte Laurids Brigge” and “Genitiv.” English Wikipedia: “The Panther (poem),” for two English versions of the poem.",
+  "Jacob and Wilhelm Grimm, *Deutsches Wörterbuch*, under *Vers*, *aufstehen*, *ausgehen*, *Blick* and *Geberde*; *Digitales Wörterbuch der deutschen Sprache*, under *erst*, *noch*, *überhaupt*, *zurückdenken*, *vorübergehen*, *Stab* and *Vers*. Both at dwds.de. *A New English Dictionary on Historical Principles*, vol. IV (1901), under Genitive.",
+  "Charles Sears Baldwin, *Composition, Oral and Written* (1909), p. 122; T. Clifford Allbutt, *Notes on the Composition of Scientific Papers* (1904), p. 64; William Strunk, *The Elements of Style* (1918), rules 14 and 18.",
+  "Gideon O. Burton, *Silva Rhetoricae* (rhetoric.byu.edu), under *climax*, *metaphor* and *ploce*."
+ ],
+ "caveats": [
+  "Nothing by Auden on this book by name has been found. His sentence of 1936 is about one part of it, which Herbert Read had quoted, and was read here only in snippets of a scanned copy. What he wrote of Rilke from 1939 on is about the poems.",
+  "The English of 1930 turns one sentence around: Rilke wrote that the memories themselves are not yet it. His German for that sentence is given from the collected works and is not printed with the English.",
+  "*Vers* is glossed here as a line of verse, its first sense in the dictionaries. In common use it can also mean a stanza, and the English of 1930 says *verse* in one place and *poem* in the other. *Aufsteht*, glossed as stands up, in Grimm also means to arise.",
+  "The stresses marked in “Der Panther” are one reader’s hearing of the lines. A few unstressed syllables could fairly be marked otherwise, and nothing said about the poem depends on them. The glosses of its German follow the dictionaries named and published English versions.",
+  "That Rilke cut the last line of “Der Panther” short to strengthen its statement is an assumption, and the study of 1967 that says so gives it as one. The poem’s date is not certain, and Rilke’s letter of 1926 about it was read as that study quotes it."
+ ],
+ "open": [
+  "No remark by Auden on this book by name has been found. The research note (F_rilke.md) could not search volumes I and V of his collected Prose.",
+  "Auden’s sentence of 1936 says that Read had quoted the passage. Whether Auden had read the book itself by then is not shown.",
+  "Both scans of The English Auden print the words “human mass” in his sentence of 1936; “human” may be a misprint in the book. The examiner cut the quotation at the head of the piece so that it begins after “mass of”: the twelve words left are not in doubt, and the paraphrase beside it says only “the mass”. No other printing of the essay could be searched: Prose, vol. I, which covers 1926 to 1938, has no searchable copy (F_rilke.md, section 3.2).",
+  "The German text on this machine (Project Gutenberg no. 2188, .cache/originals/rilke_malte_german.txt) has lost a word at line 458: it prints “selbstes” where the collected works have three words. I cut the whole paragraph (lines 428 to 462) into o-rilke/verse as it stands, so the damaged sentence is in the stored block (words 333 to 338), but neither pair shows it: the first shows words 149 to 251 and the second words 339 to 381. A sound text is at zeno.org; I may not fetch into .cache/originals. With it the sentence on the memories could be set beside its English.",
+  "The German words cited from outside the pair are from the text at zeno.org, and the page numbers 724 and 725 are read from its page marks, not from the printed volume.",
+  "The first plate holds one sentence of 126 words, over the 110 that POET.md gives for prose and under the checker’s limit. It cannot be cut without losing what the plate shows.",
+  "The hosted English is credited to M. D. Herter Norton and John Linton, as on the title page of the Norton edition (.cache/texts/ia_rilke_linton2_djvu.txt, lines 43 to 46); remake/research/D_texts.md gives Linton alone, which is the credit of the London edition (Hogarth Press, 1930) and of Read’s footnote. The reversed sentence stands in the scans of both editions and in Read’s quotation; why it was reversed is not known.",
+  "Rilke’s letter of 17 March 1926 was read in snippets, through the full-text search of the Internet Archive scan of Briefe aus Muzot, and as Kuh (1967), p. 60, quotes the sentence at length; its page in the book of letters was not seen. An article in Modern Language Notes (May 1945) cites the sentence at pages 370 and following of a book that appears to be this one.",
+  "The date of Der Panther is not certain: Kuh (1967), p. 59, says the collected works date it 1903 and that 1902 is possible. Kuh was read in the Internet Archive text of the book (IA40151827_0022); its page numbers are worked out from the page marks of that text and from the leaf numbers the archive’s search gives (leaf 61 is page 59). Berendt (1957), p. 112, which the German reference article also cites for the short last line, was not seen.",
+  "In the scansion of Der Panther a few light syllables can be heard either way (they are listed in notes.md). No caption leans on them.",
+  "The two prose passages carry \"beside\": true, so that the English and Rilke’s German stand as two blocks in one size of type, each under its label. POET.md describes that setting for a second passage that is not a translation of the first; here the second is the original of the first. Without it the kit sets the German small and in italics under the English, though three tabs mark or gloss German words. The cost is length on a phone: the first passage runs to about 2,600 px there, against about 1,900 without it. The artist or the lead may wish to judge this.",
+  "New Verse no. 20 itself could not be opened: the Internet Archive lists a collection for the magazine with no issue in it, and the site of the Modernist Magazines Project did not answer from this machine. So Auden’s sentence of 1936 was read only in The English Auden.",
+  "Examiner, 2026-10-03: the page number 357 for Auden’s sentence of 1936 is the research note’s, from a snippet (F_rilke.md, section 3.3). The full-text search of the lending copies gives no page for a match, so the page was worked out from the text of one scan: the printed page numbers stand in it at the foot of each page, and the sentence stands between the numbers 356 and 357. That agrees with 357. It was not seen on a page image.",
+  "Examiner: the reading leans on one study, Kuh (1967), for the date of the poem, the letter of 1926 as quoted, and the assumption about the short last line. The sentence on the likeness of the first and last words, which also stood on it (p. 65), was cut from the Rhyme caption by the finisher on 2026-10-03. On p. 64 the same study gives the rhymes the wrong way round (it calls the first and third lines of each stanza the ones that end on a stressed syllable). Nothing is taken from that sentence. Berendt (1957), which the German reference article cites beside it, was not seen and is not in the Internet Archive. For the date there is a second witness: Brigitte L. Bradley, R. M. Rilkes Neue Gedichte: ihr zyklisches Gefüge (Bern: Francke, 1967), read in snippets of a lending copy (rmrilkesneuegedi0000brad), dates the poem to the end of 1902 or 1903. A search of that book finds no remark on the short last line.",
+  "Examiner: on the Figure tab of the second passage the page drew strokes from memories to blood and to glance and none to gesture, which stands two lines lower at desk width; on a phone it drew none. The lens now has \"join\": \"none\", so that the four words are told by their two colors at every width. The artist, at work on the piece at the same time, notes the same in art.md."
+ ]
+}

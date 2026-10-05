@@ -1,0 +1,580 @@
+[
+ {
+  "id": "dante-inferno",
+  "work": "dante",
+  "author": "Dante",
+  "workTitle": "The Divine Comedy: Inferno",
+  "title": "Three voices in Hell",
+  "where": "*Inferno*, Cantos 3, 5 and 26",
+  "lenses": [
+   "rhyme",
+   "figure",
+   "word",
+   "compare",
+   "sentence",
+   "beat",
+   "shape"
+  ],
+  "why": "The chain of rhyme hands each middle sound on: here it rhymes pain, maker and love, and the rhyme the gate leaves open is completed after it; to an Italian, Auden wrote, parting Dante’s matter from this form is unthinkable."
+ },
+ {
+  "id": "dante-purgatorio",
+  "work": "dante",
+  "author": "Dante",
+  "workTitle": "The Divine Comedy: Purgatorio",
+  "title": "Three places on the mountain",
+  "where": "*Purgatorio*, Cantos 15, 17 and 28",
+  "lenses": [
+   "figure",
+   "sentence",
+   "word",
+   "compare",
+   "rhyme",
+   "shape",
+   "beat"
+  ],
+  "why": "A question about dividing goods is answered by likening the good to light and the souls to bright bodies that give it back: light is not made less by the number receiving it. Auden copied the closing lines in 1941."
+ },
+ {
+  "id": "dante-paradiso",
+  "work": "dante",
+  "author": "Dante",
+  "workTitle": "The Divine Comedy: Paradiso",
+  "title": "The last canto",
+  "where": "*Paradiso*, Canto 33",
+  "lenses": [
+   "figure",
+   "rhyme",
+   "compare",
+   "word",
+   "sentence",
+   "beat",
+   "shape"
+  ],
+  "why": "The three paradoxes name Mary by the event the next lines state outright: in her the maker of human nature became its creature. Such pairs were a formula of the Church’s prayer, and in the poem’s faith each is fact."
+ },
+ {
+  "id": "agamemnon",
+  "work": "agamemnon",
+  "author": "Aeschylus",
+  "workTitle": "Agamemnon",
+  "title": "The yoke, the cloth and the net",
+  "where": "*Agamemnon*: the first chorus, the king’s return, the murder",
+  "lenses": [
+   "figure",
+   "rhyme",
+   "word",
+   "sentence",
+   "shape"
+  ],
+  "why": "The king gives one word to both acts, to disobeying and to killing his child, and calls neither the lesser evil; this is the choice Auden gives first for the Greek tragic situation, in which either course is wrong."
+ },
+ {
+  "id": "antigone",
+  "work": "antigone",
+  "author": "Sophocles",
+  "workTitle": "Antigone",
+  "title": "The laws and the city",
+  "where": "*Antigone*: the elders’ song on man, Antigone’s answer, Creon and his son",
+  "lenses": [
+   "word",
+   "beat",
+   "rhyme",
+   "shape",
+   "figure"
+  ],
+  "why": "The elders ask for the land’s laws and the gods’ sworn justice together, a high city for the man who keeps both and none for the man who dares wrong; Auden’s Antigone must fail her brother or her city."
+ },
+ {
+  "id": "horace",
+  "work": "horace",
+  "author": "Horace",
+  "workTitle": "Odes",
+  "title": "A ship, a crossing and a bee",
+  "where": "*Odes* I.14, I.3 and IV.2",
+  "lenses": [
+   "beat",
+   "figure",
+   "compare",
+   "word",
+   "shape"
+  ],
+  "why": "The measure is made of the lengths of syllables, a long one counted as two short; the break in the middle of the long line lets a question end one half and a command fill the other."
+ },
+ {
+  "id": "augustine",
+  "work": "augustine",
+  "author": "Augustine",
+  "workTitle": "Confessions",
+  "title": "The restless heart",
+  "where": "*Confessions*, Books I, II and X",
+  "lenses": [
+   "figure",
+   "sentence",
+   "word",
+   "shape"
+  ],
+  "why": "Augustine says why he tells God what God knows: he tells it before God to his own kind, to stir up his devotion and theirs, so that all may say the psalm’s praise."
+ },
+ {
+  "id": "henry-iv-2",
+  "work": "henry-iv-2",
+  "author": "Shakespeare",
+  "workTitle": "Henry IV, Part 2",
+  "title": "Falstaff’s prose, the King’s verse",
+  "where": "*Henry IV, Part 2*: Act 1, Scene 2; Act 3, Scene 1; Act 5, Scene 5",
+  "lenses": [
+   "figure",
+   "word",
+   "sentence",
+   "shape",
+   "beat",
+   "rhyme"
+  ],
+  "why": "Falstaff twice answers the Chief Justice with the judge’s own words crossed, which makes a wish of one charge and turns the other on the Prince; Auden said he uses word-play on purpose, to be liked and treated kindly."
+ },
+ {
+  "id": "othello",
+  "work": "othello",
+  "author": "Shakespeare",
+  "workTitle": "Othello",
+  "title": "A word said twice",
+  "where": "*Othello*, Act 3, Scene 3; Act 4, Scene 1; Act 5, Scene 2",
+  "lenses": [
+   "figure",
+   "beat",
+   "word",
+   "sentence",
+   "shape"
+  ],
+  "why": "Iago hands Othello’s words back as questions and commits himself to nothing; the monster, and the conclusion that Iago means something, come from Othello, as in Auden’s account, where Iago need only bring up what is already in Othello’s mind."
+ },
+ {
+  "id": "hamlet",
+  "work": "hamlet",
+  "author": "Shakespeare",
+  "workTitle": "Hamlet",
+  "title": "Three speeches of Hamlet",
+  "where": "*Hamlet*, Act 1, Scene 2; Act 3, Scene 1; Act 5, Scene 2",
+  "lenses": [
+   "sentence",
+   "figure",
+   "word",
+   "rhyme",
+   "beat",
+   "shape"
+  ],
+  "why": "The sentence lists every outward sign of grief, a line to each, before its last words say what they cannot do; a verb kept to the end holds the sense open until all are named."
+ },
+ {
+  "id": "tempest",
+  "work": "tempest",
+  "author": "Shakespeare",
+  "workTitle": "The Tempest",
+  "title": "Ariel’s song",
+  "where": "*The Tempest*, Act 1, Scene 2, with Act 3, Scene 2 and the Epilogue",
+  "lenses": [
+   "beat",
+   "rhyme",
+   "figure",
+   "word",
+   "sentence",
+   "shape",
+   "compare"
+  ],
+  "why": "The song is in the measure of the charms in A Midsummer Night’s Dream and Macbeth, and Auden calls it a spell; the voice leaves the measure most where two stresses slow it on the new word."
+ },
+ {
+  "id": "volpone",
+  "work": "volpone",
+  "author": "Ben Jonson",
+  "workTitle": "Volpone",
+  "title": "The Fox’s gold, song and sentence",
+  "where": "*Volpone*, Acts 1, 3 and 5",
+  "lenses": [
+   "word",
+   "sentence",
+   "beat",
+   "rhyme",
+   "figure",
+   "shape"
+  ],
+  "why": "Volpone greets his gold in the words of Christian worship, saint, hail, adoration, relic, shrine, so Act 1 opens on a man worshipping money; Auden says a Jonson hero is one of the seven deadly sins."
+ },
+ {
+  "id": "pascal",
+  "work": "pascal",
+  "author": "Pascal",
+  "workTitle": "Pensées",
+  "title": "The heart and the reason",
+  "where": "*Pensées*, fragments 277 and 278, 347 and 348, and 233",
+  "lenses": [
+   "figure",
+   "word",
+   "shape",
+   "sentence"
+  ],
+  "why": "One word in two senses credits the heart with reasons and says that reason, the knowing power, does not know them; the clause is an addition in the manuscript, and Auden says Pascal set the heart above the reason."
+ },
+ {
+  "id": "phedre",
+  "work": "phedre",
+  "author": "Racine",
+  "workTitle": "Phèdre",
+  "title": "Racine’s line",
+  "where": "*Phèdre*, Act 1, Scenes 1 and 3, and Act 2, Scene 5",
+  "lenses": [
+   "beat",
+   "figure",
+   "compare",
+   "word",
+   "rhyme"
+  ],
+  "why": "The third line is twelve syllables of Phèdre’s parentage and nothing else, and the cut after the sixth sets her father in one half and her mother in the other."
+ },
+ {
+  "id": "blake",
+  "work": "blake",
+  "author": "Blake",
+  "workTitle": "The Marriage of Heaven and Hell",
+  "title": "The voice of the Devil",
+  "where": "The section of that name, the first “Memorable Fancy” and “Proverbs of Hell”",
+  "lenses": [
+   "compare",
+   "sentence",
+   "word",
+   "beat",
+   "figure"
+  ],
+  "why": "The contraries keep the errors’ nouns, Body, Soul, Energy and Reason, and leave out Evil, Good and God: the third error has God torment man in Eternity, and Auden called an eternal penalty imposed by God a misunderstanding of Hell."
+ },
+ {
+  "id": "faust",
+  "work": "faust",
+  "author": "Goethe",
+  "workTitle": "Faust, Part I",
+  "title": "The changing measures of Faust",
+  "where": "*Faust*, Part I: the Prologue in Heaven, the first Study scene and Gretchen’s room",
+  "lenses": [
+   "beat",
+   "rhyme",
+   "figure",
+   "compare",
+   "word",
+   "shape"
+  ],
+  "why": "The measure changes where the speaker changes: the archangels keep the four-beat stanza of their hymn, and Mephistopheles, who says he cannot make high words, speaks the mixed rhymed lines in which the Lord then answers him."
+ },
+ {
+  "id": "kierkegaard",
+  "work": "kierkegaard",
+  "author": "Kierkegaard",
+  "workTitle": "Fear and Trembling",
+  "title": "Abraham told four ways",
+  "where": "*Fear and Trembling*: the Preparation, the Panegyric on Abraham and the Preliminary Expectoration, in the English of L. M. Hollander (1923)",
+  "lenses": [
+   "figure",
+   "compare",
+   "shape",
+   "word",
+   "sentence"
+  ],
+  "why": "After each of four retellings of Abraham’s journey comes a paragraph on weaning a child, opened and closed alike: a refrain that marks each telling as one of a set, which is how the narrator describes them."
+ },
+ {
+  "id": "baudelaire",
+  "work": "baudelaire",
+  "author": "Baudelaire",
+  "workTitle": "Intimate Journals",
+  "title": "The dandy’s warning",
+  "where": "*Intimate Journals*: *Rockets*, XIII and XXVI; *My Heart Laid Bare*, LXXII and LXXIX",
+  "lenses": [
+   "figure",
+   "sentence",
+   "word",
+   "compare"
+  ],
+  "why": "The simile turns I into a man and keeps him, so his pride is told of a third person, by comparison with the passers-by; Auden calls it the dandy’s mistake to seek individuality in being unlike others."
+ },
+ {
+  "id": "peer-gynt",
+  "work": "peer-gynt",
+  "author": "Ibsen",
+  "workTitle": "Peer Gynt",
+  "title": "Two riddles and an onion",
+  "where": "*Peer Gynt*, Acts 2 and 5",
+  "lenses": [
+   "figure",
+   "beat",
+   "word",
+   "compare",
+   "shape"
+  ],
+  "why": "The two sayings are built alike, and in Ibsen the commands differ by one added word; the Old Man himself calls it the sundering word."
+ },
+ {
+  "id": "karamazov",
+  "work": "karamazov",
+  "author": "Dostoevsky",
+  "workTitle": "The Brothers Karamazov",
+  "title": "The Grand Inquisitor",
+  "where": "*The Brothers Karamazov*, Part II, Book V, Chapter 5",
+  "lenses": [
+   "figure",
+   "shape",
+   "word",
+   "sentence",
+   "compare"
+  ],
+  "why": "Dostoevsky has the old man forbid an answer and supply his own, and has Ivan say so; the old man holds that the Prisoner has no right to add anything, and Auden that he has no need to answer."
+ },
+ {
+  "id": "rimbaud",
+  "work": "rimbaud",
+  "author": "Rimbaud",
+  "workTitle": "Une Saison en Enfer",
+  "title": "The experiment and its record",
+  "where": "*A Season in Hell* (*Une saison en enfer*, 1873): the chapters “Alchemy of the Word” and “Adieu”",
+  "lenses": [
+   "sentence",
+   "figure",
+   "word",
+   "beat",
+   "rhyme",
+   "shape",
+   "compare"
+  ],
+  "why": "The steps stand in the past definite, which the grammar of the time keeps for a time completely over: he sets down as closed history what he did to himself."
+ },
+ {
+  "id": "adams",
+  "work": "adams",
+  "author": "Henry Adams",
+  "workTitle": "The Education of Henry Adams",
+  "title": "The dynamo and the Virgin",
+  "where": "*The Education of Henry Adams*, chapters 25, 19 and 1",
+  "lenses": [
+   "figure",
+   "sentence",
+   "compare",
+   "shape",
+   "word"
+  ],
+  "why": "The simile joins machine and Cross by one verb, feel; two sentences later the likeness is gone and one, not he, begins to pray; Auden’s verdict is that Adams worshiped the Dynamo, and the passage itself reports prayer to it."
+ },
+ {
+  "id": "moby-dick",
+  "work": "moby-dick",
+  "author": "Melville",
+  "workTitle": "Moby-Dick",
+  "title": "Ishmael and Ahab",
+  "where": "*Moby-Dick*, Chapters 1, 37 and 128",
+  "lenses": [
+   "sentence",
+   "figure",
+   "word",
+   "beat",
+   "shape"
+  ],
+  "why": "The main clause waits behind four whenever clauses; in two Ishmael finds himself doing things, in the fourth his low spirits and a principle act on him; the main verb means consider; Auden’s Ishmael has consciousness and no will."
+ },
+ {
+  "id": "rilke",
+  "work": "rilke",
+  "author": "Rilke",
+  "workTitle": "The Journal of My Other Self",
+  "title": "A single line of verse",
+  "where": "*The Journal of My Other Self* *(The Notebooks of Malte Laurids Brigge)*, Part One, pages 18 to 20 of the edition of 1930; and one poem, “Der Panther”",
+  "lenses": [
+   "sentence",
+   "figure",
+   "compare",
+   "word",
+   "beat",
+   "rhyme"
+  ],
+  "why": "One short assertion carries eleven phrases, each headed by the same word, so the sentence can keep adding to its count before it calls the whole of it not enough; Auden says the passage counts out what one poem requires."
+ },
+ {
+  "id": "castle",
+  "work": "castle",
+  "author": "Kafka",
+  "workTitle": "The Castle",
+  "title": "K. and the Castle",
+  "where": "*The Castle*, chapters 1, 2 and 8, in the English of Willa and Edwin Muir (1930)",
+  "lenses": [
+   "sentence",
+   "compare",
+   "word",
+   "shape",
+   "figure"
+  ],
+  "why": "One sentence says five things of a street, each new one taking back part of the last, and ends no nearer the Castle; Auden cites Kafka’s aphorism that there is a goal and no way, only wavering."
+ },
+ {
+  "id": "family-reunion",
+  "work": "family-reunion",
+  "author": "T. S. Eliot",
+  "workTitle": "The Family Reunion",
+  "title": "Furies in the drawing room",
+  "where": "*The Family Reunion* (1939), the whole play",
+  "lenses": [
+   "shape"
+  ],
+  "why": "Eliot made a line of three stresses and varying length to bring verse close to the speech of his day; Auden could read no line he tried with fewer than four stresses."
+ },
+ {
+  "id": "orpheus",
+  "work": "orpheus",
+  "author": "Gluck",
+  "workTitle": "Orpheus",
+  "title": "Orpheus calls Eurydice",
+  "where": "*Orfeo ed Euridice*, Act 3, Scene 1, with Act 1, Scenes 1 and 2",
+  "lenses": [
+   "beat",
+   "rhyme",
+   "figure",
+   "shape",
+   "word",
+   "compare"
+  ],
+  "why": "Calzabigi writes the aria in the line of eight, since Petrarch’s time a line of religious verse and of verse for music, and its two fixed stresses hold through the cries and stops of the third line."
+ },
+ {
+  "id": "don-giovanni",
+  "work": "don-giovanni",
+  "author": "Mozart",
+  "workTitle": "Don Giovanni",
+  "title": "The catalogue and the duet",
+  "where": "*Don Giovanni*, Act 1",
+  "lenses": [
+   "beat",
+   "rhyme",
+   "word",
+   "compare",
+   "figure",
+   "sentence"
+  ],
+  "why": "The accents of this line never move, and in the totals all but one fall on a country or a figure, so the regular cadence the reference books describe carries a count, and Auden calls the Don’s pleasure arithmetical."
+ },
+ {
+  "id": "magic-flute",
+  "work": "magic-flute",
+  "author": "Mozart",
+  "workTitle": "The Magic Flute",
+  "title": "The trials",
+  "where": "*The Magic Flute*, Act 2: the questions before the trials, the Queen of the Night’s aria, and the end of the opera",
+  "lenses": [
+   "word",
+   "compare",
+   "sentence",
+   "beat",
+   "rhyme",
+   "figure"
+  ],
+  "why": "One high word asks two men whether they will win by fighting; Tamino takes it up and names his victory and reward, and Papageno refuses it in a bird-catcher’s familiar words: for Auden, the spiritual and the natural."
+ },
+ {
+  "id": "fidelio",
+  "work": "fidelio",
+  "author": "Beethoven",
+  "workTitle": "Fidelio",
+  "title": "Leonore’s answer",
+  "where": "*Fidelio*, Act 2, Scene 5, with Act 1, Scene 6 and Act 2, Scene 3",
+  "lenses": [
+   "compare",
+   "sentence",
+   "word",
+   "beat",
+   "rhyme",
+   "figure",
+   "shape"
+  ],
+  "why": "In the shortened text of two American librettos Leonore’s answer has lost its reason and is a denial said twice, which is how the notes of Auden’s lecture give it, beside Cordelia’s twice-said denial of any cause."
+ },
+ {
+  "id": "dutchman",
+  "work": "dutchman",
+  "author": "Wagner",
+  "workTitle": "The Flying Dutchman",
+  "title": "Senta’s ballad",
+  "where": "*The Flying Dutchman*, Act 2, Scene 1, with lines from Acts 1, 2 and 3",
+  "lenses": [
+   "beat",
+   "rhyme",
+   "word",
+   "compare",
+   "figure",
+   "sentence",
+   "shape"
+  ],
+  "why": "The measure is steady while the ballad describes the ship; at the cry Hui the lines begin on the beat, and where he flies like an arrow two syllables, sung as quick notes, come before each beat."
+ },
+ {
+  "id": "tristan",
+  "work": "tristan",
+  "author": "Wagner",
+  "workTitle": "Tristan und Isolde",
+  "title": "No more Isolde",
+  "where": "*Tristan und Isolde*, Act 2, Scenes 1 and 2, and the end of Act 3",
+  "lenses": [
+   "sentence",
+   "rhyme",
+   "word",
+   "figure",
+   "beat",
+   "compare"
+  ],
+  "why": "Of the ten verbs two are Isolde’s, both past, and seven are Lady Love’s, who took the deed, turns it and may lead her. Auden in 1941: the lovers’ tie holds no possibilities, being fixed to the potion they drank."
+ },
+ {
+  "id": "gotterdammerung",
+  "work": "gotterdammerung",
+  "author": "Wagner",
+  "workTitle": "Götterdämmerung",
+  "title": "The end foretold",
+  "where": "*Götterdämmerung*, the Prelude and Act 3, with the English of Margaret Armour (1911)",
+  "lenses": [
+   "rhyme",
+   "word",
+   "figure",
+   "compare",
+   "shape"
+  ],
+  "why": "Wagner gave up end-rhyme for the stave of the oldest German verse because, he wrote, it follows the accents of speech and makes one image of the words it joins; here it joins eternal to end."
+ },
+ {
+  "id": "carmen",
+  "work": "carmen",
+  "author": "Bizet",
+  "workTitle": "Carmen",
+  "title": "Carmen’s liberty",
+  "where": "*Carmen*, Act 1, Scene 5; Act 2, Scenes 5 and 6; Act 3, Scene 2 (the scene numbers of the French libretto)",
+  "lenses": [
+   "beat",
+   "word",
+   "figure",
+   "compare",
+   "sentence",
+   "rhyme"
+  ],
+  "why": "Carmen answers the young men in the eight-syllable line of lyric and lighter verse; the line printed with ten has a word twice; the verses, which Auden says are addressed to the composer, were by Dean’s account the composer’s own."
+ },
+ {
+  "id": "traviata",
+  "work": "traviata",
+  "author": "Verdi",
+  "workTitle": "La Traviata",
+  "title": "Violetta alone",
+  "where": "*La Traviata*, Act 1, Scenes 3 and 5, and the last lines of Act 3",
+  "lenses": [
+   "figure",
+   "beat",
+   "word",
+   "compare",
+   "rhyme",
+   "shape"
+  ],
+  "why": "Piave closes both stanzas of Violetta’s song on Alfredo’s lines, so what she has just said, that his words are carved in her heart, is shown to be so; Auden held that in opera what is sung is so."
+ }
+]

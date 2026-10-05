@@ -1,0 +1,43 @@
+{
+ "hero": {"piece": "tempest", "plate": "song", "lens": "beat", "rows": ["225.0", "225.1"], "note": "The rule under each line is its measure, the pattern the song is written to, with a long stroke at each beat. The dots are the stresses of the speaking voice. The red dot under *Full* is a stress where the measure has no beat. The red ring under *Of*  is a beat that the voice passes over."},
+ "choices": {
+  "othello": {"plate": "echo", "lens": 1, "rows": ["96.0", "98.0", "100.0"]},
+  "blake": {"plate": "sentence", "lens": 0, "rows": ["32.0", "32.1"]},
+  "faust": {"plate": "heaven", "lens": 0, "rows": ["0.2", "0.3"], "say": {"measure": "four beats, the line beginning off the beat"}},
+  "peer-gynt": {"plate": "two-sayings", "lens": 1, "rows": ["42.2", "42.3"]},
+  "rimbaud": {"plate": "stanza", "lens": 0, "rows": ["38.0", "38.1"], "say": {"measure": "five counted syllables, the accent on the last"}},
+  "tristan": {"plate": "end", "lens": 2, "rows": ["43.0", "44.0"], "say": {"measure": "short lines of one or two beats"}},
+  "dante-paradiso": {"plate": "prayer", "lens": 1, "rows": ["0.0", "0.1", "0.2", "1.0"]},
+  "agamemnon": {"plate": "yoke", "lens": 2, "rows": ["39.6", "39.7", "39.8", "39.9"]},
+  "antigone": {"plate": "elders", "lens": 2, "rows": ["73.0", "73.1", "73.2", "73.3"]},
+  "tempest": {"plate": "song", "lens": 1, "rows": ["225.0", "225.1", "225.2", "225.3"]},
+  "volpone": {"plate": "song", "lens": 0, "rows": ["106.0", "106.1", "106.2", "106.3"]},
+  "dutchman": {"plate": "tale", "lens": 1, "rows": ["1.0", "1.1", "1.2", "1.3"]},
+  "henry-iv-2": {"plate": "rejection", "lens": 3, "rows": ["57.5"]},
+  "pascal": {"plate": "wager", "lens": 1, "row": "144.0", "words": [31, 56]},
+  "adams": {"plate": "sister", "lens": 1, "row": "9.0", "words": [38, 53]},
+  "orpheus": {"plate": "aria", "lens": 2, "rows": ["0.0", "1.0", "2.0"], "say": {"plain": "a turning away: the speaker turns from the hearers to speak to someone or something else"}},
+  "don-giovanni": {"plate": "close", "lens": 1, "rows": ["9.0", "9.1", "9.2"]},
+  "dante-inferno": {"plate": "francesca", "lens": 0, "rows": ["34.1", "34.2", "35.0"]},
+  "augustine": {"plate": "late", "lens": 3, "row": "37.0", "words": [85, 105]},
+  "karamazov": {"plate": "cry", "lens": 0, "row": "20.0", "words": [1047, 1070]},
+  "rilke": {"plate": "count", "lens": 0, "row": "0.0", "words": [248, 267], "say": {"keys": {"the eleven things": "things in the list"}}},
+  "castle": {"plate": "yard", "lens": 0, "row": "13.0", "words": [277, 296]},
+  "carmen": {"plate": "cartes", "lens": 2, "rows": ["1.0", "1.1", "1.2"]},
+  "hamlet": {"plate": "readiness", "lens": 1, "row": "161.0", "words": [0, 15]},
+  "kierkegaard": {"plate": "greater", "lens": 2, "row": "2.0", "words": [281, 301]},
+  "moby-dick": {"plate": "rails", "lens": 2, "row": "4.0", "words": [242, 259]},
+  "magic-flute": {"plate": "weddings", "lens": 0, "rows": ["6.0", "7.0"]},
+  "traviata": {"plate": "refrain", "lens": "compare", "say": {"label": "Italian", "pairLabel": "The English libretto"}},
+  "dante-purgatorio": {"plate": "share", "lens": 3, "rows": ["23.1", "23.2"], "say": {"label": "Italian", "pairLabel": "Okey, 1901"}},
+  "horace": {"plate": "crossing", "lens": 2, "rows": ["5.1", "5.2"], "say": {"label": "Latin"}},
+  "phedre": {"plate": "slip", "lens": 3, "rows": ["0.5", "0.6"], "say": {"label": "French"}},
+  "baudelaire": {"plate": "evening", "lens": 3, "row": "126.0", "words": [100, 117], "say": {"label": "Shipley, 1919", "pairLabel": "French"}},
+  "fidelio": {"plate": "name", "lens": "figure"},
+  "gotterdammerung": {"plate": "brand", "lens": 1, "rows": ["1.0", "2.0"]}
+ },
+ "order": {
+  "figure": ["henry-iv-2", "pascal", "orpheus", "adams", "don-giovanni", "fidelio"],
+  "sentence": ["dante-inferno", "augustine", "rilke", "karamazov", "castle", "carmen"]
+ }
+}

@@ -1,0 +1,1443 @@
+{
+  "piece": "kierkegaard",
+  "title": "Abraham told four ways",
+  "where": "*Fear and Trembling*: the Preparation, the Panegyric on Abraham and the Preliminary Expectoration, in the English of L. M. Hollander (1923)",
+  "about": "Kierkegaard published this book in Copenhagen in 1843 under the name Johannes de silentio, John of silence. Its subject is Genesis 22, where God tells Abraham to sacrifice his son Isaac. The first passage comes from four paragraphs on weaning a child, one after each of four retellings of the story. The second comes early in a speech in praise of Abraham, and in the third the narrator, who says he cannot understand Abraham, imagines meeting a man of the same faith in the Copenhagen of his day.",
+  "view": {
+    "says": "Auden cites Bonhoeffer, who died a martyr: an earthly happiness that God grants should simply be accepted. Kierkegaard could not truthfully have claimed as much for himself, Auden writes, but his Knight of Faith, who is drawn in this book, shows he knew this was a defect in him and no virtue. Kierkegaard, he says, holds such a man to be what everyone ought to be and admits he cannot understand him.",
+    "quote": "The ideal Christian he describes is happily married, looks like a cheerful grocer, and is respected by his neighbors.",
+    "source": "“A Knight of Doleful Countenance” (1968), in *Forewords and Afterwords* (1973), p. 192",
+    "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 9180-9202, on 2026-10-03 (the Bonhoeffer extract at lines 9182-9186, Auden's comment and the sentence quoted at 9188-9195); the page number 192 stands at the foot of the page (line 9204), before the next page's heading. The essay's first printing (The New Yorker, 25 May 1968) is from the book's own list of sources, fa.txt lines 24977-24979. Auden does not name Fear and Trembling in this passage; that the portrait of the knight of faith is in this book is from the hosted text, kierkegaard/p4, blocks 15-21. The words he gives to Kierkegaard there are Auden's own summary, with the Knight of the Doleful Countenance (the essay's title) in place of the book's knight of infinite resignation. Finisher, 2026-10-03: read again in the scan. That Bonhoeffer died a martyr is how Auden himself brings him in on this page (fa.txt, lines 9164-9166: he has, Auden says, the authority of a man who was really martyred, as Kierkegaard was not). The paraphrase had six of Auden's words in a row where it named the portrait (line 9189); it now says 'his Knight of Faith, who is drawn in this book', and the words 'in this book' are still the page's own, as above."
+  },
+  "plates": [
+    {
+      "id": "weaning",
+      "heading": "Four paragraphs on weaning",
+      "label": "How each paragraph opens",
+      "text": "kierkegaard/p2",
+      "rows": [
+        "6.0[0-11]",
+        "9.0[0-26]",
+        "13.0[0-12]",
+        "17.0[0-17]"
+      ],
+      "pair": {
+        "label": "How each ends",
+        "text": "kierkegaard/p2",
+        "rows": [
+          "6.0[59-69]",
+          "9.0[27-38]",
+          "13.0[61-76]",
+          "17.0[18-26]"
+        ]
+      },
+      "beside": true,
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Refrain",
+          "name": "refrain",
+          "plain": "words that come back at a set place in a song or poem; here, in the paragraph after each of four tellings, the same opening and a matching last sentence",
+          "draw": "align",
+          "parts": [
+            {
+              "row": "6.0",
+              "w": [
+                0,
+                6
+              ],
+              "tag": "opening",
+              "label": "the same opening"
+            },
+            {
+              "row": "9.0",
+              "w": [
+                0,
+                9
+              ],
+              "tag": "opening",
+              "label": "the same opening"
+            },
+            {
+              "row": "13.0",
+              "w": [
+                0,
+                6
+              ],
+              "tag": "opening",
+              "label": "the same opening"
+            },
+            {
+              "row": "17.0",
+              "w": [
+                0,
+                6
+              ],
+              "tag": "opening",
+              "label": "the same opening"
+            },
+            {
+              "row": "9.0",
+              "w": [
+                3,
+                5
+              ],
+              "tag": "added",
+              "label": "three words added"
+            },
+            {
+              "row": "p:6.0",
+              "w": [
+                60,
+                61
+              ],
+              "tag": "who",
+              "label": "called happy"
+            },
+            {
+              "row": "p:9.0",
+              "w": [
+                28,
+                30
+              ],
+              "tag": "who",
+              "label": "called happy"
+            },
+            {
+              "row": "p:13.0",
+              "w": [
+                62,
+                63
+              ],
+              "tag": "who",
+              "label": "called happy"
+            },
+            {
+              "row": "p:17.0",
+              "w": [
+                19,
+                20
+              ],
+              "tag": "who",
+              "label": "called happy"
+            }
+          ],
+          "caption": "Kierkegaard tells Abraham’s journey four times, and after each telling comes a paragraph about a mother weaning her child. Three of these open on the same seven words, and the second adds <b>has grown and</b>. All four close on a sentence that begins <b>Happy</b> and says who: three times <b>he who</b>, once <b>the child who</b>. In a song, a phrase that returns at a set place is a refrain, and the book’s subtitle is <i>Dialectical Lyric</i>. The returning paragraph marks each telling as one of a set. The narrator says so: a man thought about the event in these and <i>in many similar ways</i>, and always ended by asking who can understand Abraham.",
+          "why": "After each of four retellings of Abraham’s journey comes a paragraph on weaning a child, opened and closed alike: a refrain that marks each telling as one of a set, which is how the narrator describes them.",
+          "grounds": [
+            {
+              "claim": "three of the paragraphs open on the same seven words, the second adds three, and all four close on a sentence that begins Happy and then says who is happy: he who three times, the child who once",
+              "kind": "plate"
+            },
+            {
+              "claim": "a paragraph about weaning follows each of the four tellings",
+              "kind": "text",
+              "source": "kierkegaard/p2: the tellings are blocks 5, 8, 11-12 and 15-16; the paragraphs on weaning are blocks 6, 9, 13 and 17"
+            },
+            {
+              "claim": "a refrain is a phrase that recurs at a set place in a poem or song",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under refrain (the noun, late 14c.): a phrase that keeps coming back in a song, a chorus or a poem; Paull F. Baum, The Principles of English Versification (1922), chapter 5, on repetition and the refrain, and the glossary under Refrain. Baum treats the refrain as part of a stanza and says repetition is used in prose as well as verse; the caption says 'in a song' and uses the word of prose paragraphs by extension"
+            },
+            {
+              "claim": "the book’s subtitle is Dialectical Lyric",
+              "kind": "source",
+              "source": "the title page of Frygt og Bæven (Copenhagen, 1843), which reads Dialektisk Lyrik: Søren Kierkegaards Skrifter, vol. 4 (1997), p. 99, at tekster.kb.dk; Hollander's introduction to the Selections (1923) gives the subtitle as Dialectic Lyrics"
+            },
+            {
+              "claim": "the same words at the head of each unit set the units out as a series",
+              "kind": "source",
+              "source": "common knowledge of the craft, as POET.md allows (repeating a word at the head of each clause makes the clauses a list); Silva Rhetoricae, anaphora"
+            },
+            {
+              "claim": "the narrator says the man thought about the event thus and in many similar ways, and each time ended by asking who can understand Abraham",
+              "kind": "text",
+              "source": "kierkegaard/p2, block 18"
+            },
+            {
+              "claim": "the frame is Kierkegaard’s and not the translator’s",
+              "kind": "source",
+              "source": "the Danish text, Søren Kierkegaards Skrifter, vol. 4 (1997), pp. 108-11: each of the four paragraphs opens 'Naar Barnet' and goes on 'skal vænnes fra' (the second puts 'er blevet stort og' between), and each last sentence begins 'Held'"
+            }
+          ],
+          "stands": "The marks on the passage, and the same openings and closes in the Danish. What a refrain is: the Online Etymology Dictionary and Paull F. Baum, *The Principles of English Versification*, chapter 5, where it belongs to a stanza; the word is used here of prose. The subtitle, *Dialektisk Lyrik*: the title page of 1843. The narrator’s account of the four tellings: the [last paragraph of the Preparation](#/read/kierkegaard/p2:18)."
+        },
+        {
+          "kind": "compare",
+          "label": "Turn",
+          "ties": [
+            {
+              "a": [
+                "6.0",
+                6,
+                6
+              ],
+              "b": [
+                "p:6.0",
+                67,
+                67
+              ],
+              "say": "The verb of the opening comes back, with *worse means* beside it: worse than blackening a breast. The Danish is stronger: *more dreadful means*."
+            },
+            {
+              "a": [
+                "9.0",
+                19,
+                26
+              ],
+              "b": [
+                "p:9.0",
+                28,
+                34
+              ],
+              "say": "Here the one called happy is the child, who has lost a mother only in the sense just given."
+            },
+            {
+              "a": [
+                "13.0",
+                10,
+                12
+              ],
+              "b": [
+                "p:13.0",
+                72,
+                76
+              ],
+              "say": "The mother’s sorrow at the parting comes back as a sorrow someone was spared."
+            },
+            {
+              "a": [
+                "17.0",
+                9,
+                13
+              ],
+              "b": [
+                "p:17.0",
+                21,
+                26
+              ],
+              "say": "Nearly the same words, and the same tense."
+            }
+          ],
+          "caption": "Each last sentence takes up a word of its own paragraph: <b>wean</b>, <b>mother</b>, <b>sorrow</b>, <b>stronger food</b>. The paragraphs say what a mother does, as a rule. Three last sentences turn to the past: <b>needed not</b>, <b>lost not</b>, <b>needed not</b>. A past tense speaks of a case that is over, and each of the three says what someone was spared: <b>worse means</b>, any other loss of a mother, more sorrow. The fourth alone stays in the present and has no <i>not</i>.",
+          "why": "The paragraphs say what a mother does as a rule; three last sentences turn to the past, a case that is over, and each says what someone was spared: worse means, another loss, more sorrow.",
+          "grounds": [
+            {
+              "claim": "each last sentence repeats a word of its own paragraph; three of them are in the past tense with not, the fourth is in the present without it",
+              "kind": "plate"
+            },
+            {
+              "claim": "the paragraphs on weaning say what a mother does as a general thing: their main verbs are present, but for one will of habit in the English of the second; past forms come only inside a relative clause of the third",
+              "kind": "text",
+              "source": "kierkegaard/p2, blocks 6, 9, 13 and 17 (Hollander's 'will ... conceal' in block 9; 'had first lain' and 'rested' in block 13, of the child before it was weaned); the Danish, Søren Kierkegaards Skrifter, vol. 4 (1997), pp. 108-11, has 'sværter', 'skjuler', 'er' and 'har' for what the mother does, and the past only in 'laae' and 'hvilede' of the third paragraph"
+            },
+            {
+              "claim": "the tenses and the negatives are Kierkegaard’s",
+              "kind": "source",
+              "source": "the Danish text, Søren Kierkegaards Skrifter, vol. 4 (1997), pp. 108-11: 'ikke behøvede', 'ikke anderledes tabte', 'beholdt ... ikke behøvede' (past, with ikke), 'har' (present, no ikke)"
+            },
+            {
+              "claim": "a past tense speaks of something that is over",
+              "kind": "source",
+              "source": "common knowledge of grammar"
+            },
+            {
+              "claim": "each of the three past sentences says what the one called happy did not need or did not lose: worse means, the mother in any other sense, more sorrow",
+              "kind": "text",
+              "source": "kierkegaard/p2, the last sentences of blocks 6, 9 and 13 as the passage shows them (rows p:6.0, words 59-69; p:9.0, words 27-38; p:13.0, words 61-76), read by the finisher in the checker's proof, 2026-10-03. Put in place of five grounds for the inference that the first and third of these sentences look back at the Abraham of the telling before, which the caption no longer makes; they are whole in finisher/before.json, lines 244-268"
+            },
+            {
+              "claim": "where Hollander has worse means the Danish has more dreadful means",
+              "kind": "source",
+              "source": "the Danish text, Søren Kierkegaards Skrifter, vol. 4 (1997), p. 108: 'forfærdeligere Midler'; Ferrall and Repp, A Danish-English Dictionary (Copenhagen, 1845), p. 86, read on the page image at archive.org (leaf n125): Forfærde, to terrify, appal; forfærdelig, terrific, appalling, frightful, horrific, dreadful. The dictionary sorts æ with ae, which is why the poet did not find the word. Hollander himself turns the same comparative as 'more terrible' in the last words of the third telling (kierkegaard/p2, block 12; the Danish, p. 110) and as 'more terribly' in the speech (kierkegaard/p3, block 10; p. 115). Added by the examiner, 2026-10-03"
+            }
+          ],
+          "stands": "The marks on the passage: the repeated words and the tenses, the same in Kierkegaard’s Danish. *More dreadful*: Ferrall and Repp’s dictionary of 1845, under *Forfærdelig*. What each of the three says someone was spared: the last sentences themselves."
+        },
+        {
+          "kind": "shape",
+          "label": "Tellings",
+          "what": "Genesis 22 and the four tellings: what Abraham does in each, how each ends, and the paragraph on weaning that follows",
+          "facts": [
+            {
+              "story": "Genesis 22",
+              "Abraham": "says that he and the boy will come back, tells Isaac that God will provide the lamb, and takes the knife",
+              "the end": "an angel stops him; a ram is offered, Abraham is blessed, and they go home",
+              "counted": "The tellings and the paragraphs on weaning are in kierkegaard/p2; words counted with the site's word-splitter. All four tellings begin with the same six words (blocks 5, 8, 11, 15, words 0-5). Sarah is named in every telling (blocks 5, 8, 11, 15, 16) and nowhere in Genesis 22 (King James Bible, Project Gutenberg no. 10). Only the first telling quotes anyone's words (four speeches in block 5; no quotation marks in blocks 8, 11, 12, 15, 16). No telling has an angel or a blessing of Abraham; only the second has the ram.",
+              "where": "King James Bible, Genesis 22:1-19"
+            },
+            {
+              "story": "First telling",
+              "Abraham": "blesses and comforts Isaac, who begs for his life; then turns wild, says he is an idolater and that this is his own wish and not God’s command",
+              "the end": "Isaac calls on God as his only father; Abraham thanks God: better the boy think him inhuman than lose his faith",
+              "the mother": "blackens her breast",
+              "called happy": "the one who needed no worse means to wean the child",
+              "words": 343,
+              "words on weaning": 70,
+              "opening words in common": 6,
+              "read": "kierkegaard/p2:5",
+              "where": "kierkegaard/p2, blocks 5 and 6"
+            },
+            {
+              "story": "Second telling",
+              "Abraham": "rides with his eyes on the ground, binds Isaac and draws the knife without a word, then sees the ram and offers it",
+              "the end": "home; Abraham grows old and is never happy again; Isaac thrives as before",
+              "the mother": "hides her breast, and the child no longer has a mother",
+              "called happy": "the child who lost its mother in no other way",
+              "words": 149,
+              "words on weaning": 39,
+              "opening words in common": 6,
+              "read": "kierkegaard/p2:8",
+              "where": "kierkegaard/p2, blocks 8 and 9"
+            },
+            {
+              "story": "Third telling",
+              "Abraham": "rides lost in thought about Hagar and her son, driven out by him; he draws the knife",
+              "the end": "he rides back alone, again and again, to ask pardon for having been willing; he finds no rest",
+              "the mother": "sorrows with the child at the parting",
+              "called happy": "the one who kept the child near and had no more sorrow",
+              "words": 191,
+              "words on weaning": 77,
+              "opening words in common": 6,
+              "read": "kierkegaard/p2:11",
+              "where": "kierkegaard/p2, blocks 11, 12 (59 + 132 words) and 13"
+            },
+            {
+              "story": "Fourth telling",
+              "Abraham": "makes everything ready calmly; as he turns aside for the knife his left hand clenches in despair and he trembles, and Isaac sees it",
+              "the end": "home; Isaac has lost his faith, and no one ever speaks of it",
+              "the mother": "has stronger food ready, so that the child will not die",
+              "called happy": "the one who has the stronger food ready",
+              "words": 145,
+              "words on weaning": 27,
+              "opening words in common": 6,
+              "read": "kierkegaard/p2:15",
+              "where": "kierkegaard/p2, blocks 15, 16 (94 + 51 words) and 17"
+            }
+          ],
+          "caption": "The four tellings open on the same six words, the early morning of Genesis 22:3, and all four add Sarah, whom that chapter never names. Each changes Abraham. He lies to save Isaac’s faith; he obeys and never has joy again; he begs pardon for having been willing; his despair is seen. In Genesis 22 his son is spared and he is blessed. No telling ends in a blessing. The tellings are one man’s thoughts, and the Preparation opens with him: he admired the story more with age and found it <i>less and less clear</i>.",
+          "why": "The tellings keep the Bible’s opening and change Abraham, and none ends in a blessing, as Genesis does; the Preparation gives them as the thoughts of a man who found the story less and less clear.",
+          "grounds": [
+            {
+              "claim": "the four tellings begin with the same six words",
+              "kind": "text",
+              "source": "kierkegaard/p2, blocks 5, 8, 11 and 15, words 0-5, compared by script"
+            },
+            {
+              "claim": "Genesis 22:3 has Abraham rise early in the morning, and the tellings rework that chapter freely",
+              "kind": "source",
+              "source": "King James Bible, Genesis 22:3; Søren Kierkegaards Skrifter, vol. K4 (1998), the note to vol. 4, p. 105, on the story (Kierkegaard quotes and paraphrases Genesis 22:1-19, sometimes rather freely); Hollander's footnote to the Preparation says the same"
+            },
+            {
+              "claim": "Sarah is in all four tellings and is not named in Genesis 22",
+              "kind": "source",
+              "source": "kierkegaard/p2, blocks 5, 8, 11, 15, 16; King James Bible, Genesis 22:1-19, searched; Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 107, line 7 (the story in Genesis 22 does not include Sarah; the note derives her watching from the Book of Judith)"
+            },
+            {
+              "claim": "what Abraham does in each telling and how each ends",
+              "kind": "text",
+              "source": "kierkegaard/p2, blocks 5, 8, 11-12, 15-16"
+            },
+            {
+              "claim": "Genesis 22 ends with the angel, the ram, the blessing and the journey home",
+              "kind": "source",
+              "source": "King James Bible, Genesis 22:11-19 (read verse by verse by the examiner: exam.md, section 6). Finisher, 2026-10-03: the caption's sentence on how Genesis ends was a sentence of Auden's of 1947 until now; it says what the first row of the facts prints (the angel, the blessing). No Bible is on this machine, so the finisher did not open the chapter again"
+            },
+            {
+              "claim": "no telling ends with a blessing of Abraham",
+              "kind": "text",
+              "source": "kierkegaard/p2, blocks 5, 8, 11, 12, 15, 16: the only blessing is Abraham's of Isaac, in the middle of block 5"
+            },
+            {
+              "kind": "text",
+              "claim": "the tellings are the thoughts of a man who read the story with ever greater admiration as he grew older, and to whom it grew less and less clear",
+              "source": "kierkegaard/p2, block 0 (the man: his admiration grows with his years and the story grows less and less clear to him) and block 18 (thus and in many similar ways he thought about the event)"
+            }
+          ],
+          "stands": "The four tellings read beside Genesis 22 in the King James Bible. The notes of the Danish edition, *Søren Kierkegaards Skrifter*, vol. K4, say that the tellings paraphrase Genesis freely and that Sarah is not in that chapter. The man who thinks them: the [opening](#/read/kierkegaard/p2:0) and the [close](#/read/kierkegaard/p2:18) of the Preparation."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "6.0",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "Isaac’s weaning: Genesis 21:8",
+              "note": "Genesis 21:8 tells how Isaac grew and was weaned, and how Abraham gave a feast that day. The Danish edition has found no source for the mother who blackens her breast.",
+              "source": "King James Bible, Genesis 21:8; Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 108, line 5: source not identified"
+            },
+            {
+              "row": "9.0",
+              "w": [
+                14,
+                15
+              ],
+              "gloss": "as an unmarried girl would",
+              "note": "A maiden is an unmarried girl. The next sentence gives the result: the child no longer has a mother.",
+              "source": "Online Etymology Dictionary, under maiden: in Old English an unmarried woman, usually young, a virgin, a girl. The Danish is 'jomfrueligt'."
+            },
+            {
+              "row": "p:6.0",
+              "w": [
+                59,
+                59
+              ],
+              "gloss": "Danish *Held*: good luck",
+              "note": "A Danish dictionary of 1845 gives *Held* as good luck, fortune, success. Where the English Bible has *blessed* at Luke 23:29, the Danish New Testament of 1819 has another word, *salige*.",
+              "source": "J. S. Ferrall and Thorleifur Gudmundsson Repp, A Danish-English Dictionary (Copenhagen, 1845), p. 124, read on the page image; 'salige' for blessed in Luke 23:29, New Testament of 1819, as quoted in Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 117, line 21"
+            },
+            {
+              "row": "p:6.0",
+              "w": [
+                60,
+                61
+              ],
+              "gloss": "Danish: the one who",
+              "note": "The Danish *den, der* is he or she who, and the Danish says *the child* where Hollander says *his child*.",
+              "source": "Ferrall and Repp, A Danish-English Dictionary (1845), p. 57, under Den and Der; the Danish text, Søren Kierkegaards Skrifter, vol. 4 (1997), p. 108: 'Held den, der' and 'Barnet'"
+            }
+          ],
+          "caption": "<b>Happy</b> is <i>Held</i> in the Danish: good luck, good fortune. Each last sentence calls someone lucky. Kierkegaard’s book has this cry five times: four times here, and once in the Preliminary Expectoration, of whoever can make the movements of faith. There the translator, L. M. Hollander, writes <i>Blessed</i>. Hollander’s <b>he</b> and <b>his child</b> say more than the Danish <i>den, der</i> and <i>Barnet</i>: the one who, the child. The Danish leaves open whether a woman or a man is called lucky. Genesis gives Isaac’s own weaning a single verse, one chapter before the sacrifice.",
+          "why": "Happy translates a Danish word for good luck, cried five times in the book, the fifth of whoever can make the movements of faith; where Hollander says he, the Danish leaves open whether a woman or a man is meant.",
+          "grounds": [
+            {
+              "claim": "Held is good luck, fortune, success",
+              "kind": "source",
+              "source": "Ferrall and Repp, A Danish-English Dictionary (Copenhagen, 1845), p. 124, read on the page image at archive.org (adanishenglishd00reppgoog)"
+            },
+            {
+              "claim": "the word Held comes five times in the Danish book: at the head of the four last sentences here and once more",
+              "kind": "source",
+              "source": "counted on the Danish text of Frygt og Bæven, Søren Kierkegaards Skrifter, vol. 4 (1997), at tekster.kb.dk/text/sks-fb-txt-root: 'Held den, der' three times and 'Held det Barn, der' once in Stemning (pp. 108-11), and 'Held den, der kan gjøre' once in Foreløbig Expectoration (p. 133). The adverb heldigviis, luckily, also comes; it is not counted"
+            },
+            {
+              "claim": "the fifth is said of whoever can make the movements of faith, and Hollander writes Blessed there",
+              "kind": "text",
+              "source": "kierkegaard/p4, block 15"
+            },
+            {
+              "claim": "the Danish says the one who and the child, and so leaves open whether a woman or a man is meant; he and his child are Hollander’s",
+              "kind": "source",
+              "source": "the Danish text, vol. 4, pp. 108-11; Ferrall and Repp (1845), p. 57: Den, with a relative, is he or she that; Der, the relative pronoun, is who, which, that"
+            },
+            {
+              "claim": "Genesis tells of Isaac’s weaning in one verse of the chapter before the sacrifice",
+              "kind": "source",
+              "source": "King James Bible, Genesis 21:8"
+            },
+            {
+              "claim": "no source is known for the blackened breast",
+              "kind": "source",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 108, line 5"
+            },
+            {
+              "claim": "a maiden is an unmarried girl",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under maiden"
+            }
+          ],
+          "stands": "*Held*, *den* and *der*: J. S. Ferrall and T. G. Repp, *A Danish-English Dictionary* (1845). The five places where the Danish has *Held*: a count on the text of *Søren Kierkegaards Skrifter*, vol. 4; the fifth is in the [Preliminary Expectoration](#/read/kierkegaard/p4:15). Isaac’s weaning: Genesis 21:8, in the King James Bible. That no source is known for the blackened breast: the notes of the same edition; *maiden*: the Online Etymology Dictionary."
+        }
+      ]
+    },
+    {
+      "id": "greater",
+      "heading": "Greater than all",
+      "text": "kierkegaard/p3",
+      "rows": [
+        "2.0[206-311]"
+      ],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Build",
+          "spans": [
+            {
+              "from": [
+                "2.0",
+                226
+              ],
+              "to": [
+                "2.0",
+                237
+              ],
+              "tag": "turn",
+              "label": "but one is greater"
+            },
+            {
+              "from": [
+                "2.0",
+                271
+              ],
+              "to": [
+                "2.0",
+                278.1
+              ],
+              "tag": "turn",
+              "label": "but one is greater"
+            },
+            {
+              "from": [
+                "2.0",
+                206
+              ],
+              "to": [
+                "2.0",
+                214
+              ],
+              "tag": "others",
+              "label": "others who were great"
+            },
+            {
+              "from": [
+                "2.0",
+                215
+              ],
+              "to": [
+                "2.0",
+                225
+              ],
+              "tag": "others",
+              "label": "others who were great"
+            },
+            {
+              "from": [
+                "2.0",
+                238
+              ],
+              "to": [
+                "2.0",
+                246
+              ],
+              "tag": "others",
+              "label": "others who were great"
+            },
+            {
+              "from": [
+                "2.0",
+                247
+              ],
+              "to": [
+                "2.0",
+                254
+              ],
+              "tag": "others",
+              "label": "others who were great"
+            },
+            {
+              "from": [
+                "2.0",
+                255
+              ],
+              "to": [
+                "2.0",
+                262
+              ],
+              "tag": "others",
+              "label": "others who were great"
+            },
+            {
+              "from": [
+                "2.0",
+                263
+              ],
+              "to": [
+                "2.0",
+                270
+              ],
+              "tag": "others",
+              "label": "others who were great"
+            },
+            {
+              "from": [
+                "2.0",
+                278.2
+              ],
+              "to": [
+                "2.0",
+                285
+              ],
+              "tag": "how",
+              "label": "great through what"
+            },
+            {
+              "from": [
+                "2.0",
+                286
+              ],
+              "to": [
+                "2.0",
+                293
+              ],
+              "tag": "how",
+              "label": "great through what"
+            },
+            {
+              "from": [
+                "2.0",
+                294
+              ],
+              "to": [
+                "2.0",
+                301
+              ],
+              "tag": "how",
+              "label": "great through what"
+            },
+            {
+              "from": [
+                "2.0",
+                302
+              ],
+              "to": [
+                "2.0",
+                311
+              ],
+              "tag": "how",
+              "label": "great through what"
+            }
+          ],
+          "caption": "Two sentences run on one plan. First come others who were great, two in the first sentence and four in the second. Then <b>but</b> turns to one who is greater than all of them. The first time that one is <b>he who believed in God</b>. The second time the place holds a name, <b>Abraham</b>, which the speech has not yet said. Before the name comes, the paragraph that ends here gives this verdict five times, each time to an unnamed <i>he who</i>. The school pattern for a speech of praise compares its subject with someone else, to raise the praise. This speech builds the top rank first, so the name arrives already defined.",
+          "why": "Two sentences keep one plan, others who were great and then one greater than all, and the second puts the name Abraham where the first had he who believed in God: the name arrives already defined.",
+          "grounds": [
+            {
+              "claim": "the two sentences have the same parts in the same order, and Abraham stands where he who believed in God stood",
+              "kind": "plate"
+            },
+            {
+              "claim": "this is the first Abraham in the speech",
+              "kind": "text",
+              "source": "kierkegaard/p3, blocks 0-2: the first Abraham is word 272 of block 2, after 749 words, counted with the site's word-splitter"
+            },
+            {
+              "claim": "the paragraph gives its verdict six times, the first five to an unnamed he who",
+              "kind": "text",
+              "source": "kierkegaard/p3, block 2, words 59-63, 102-107, 146-151, 174-178, 232-237 and 273-277: of him who loved God, who hoped for the impossible, who strove with God, who struggled with God, who believed in God, and then of Abraham"
+            },
+            {
+              "claim": "the Danish holds the name back in the same way and words the verdict the same way all six times",
+              "kind": "source",
+              "source": "Lovtale over Abraham, Søren Kierkegaards Skrifter, vol. 4 (1997), pp. 112-13: 'større end Alle' six times; the name first comes in 'men Abraham var større end Alle', after 655 Danish words of the speech itself (counted by the examiner on the text at tekster.kb.dk; the poet's 659 seems to count the title too; the number is not printed)"
+            },
+            {
+              "claim": "a speech of praise makes a favorable comparison to raise its subject",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), Progymnasmata: Encomium, whose directions include comparing the subject favorably with another person so that the praise rises"
+            }
+          ],
+          "stands": "The marks on the passage. That this is the first *Abraham* in the speech, and the sixth time the paragraph gives its verdict: counted in the text printed here, from [the head of the speech](#/read/kierkegaard/p3:0). The Danish holds the name back to the same sentence. The comparison in a speech of praise: *Silva Rhetoricae*, on the encomium."
+        },
+        {
+          "kind": "figure",
+          "label": "Paradox",
+          "name": "paradox",
+          "plain": "a statement that contradicts itself on the surface and is still meant as true; here, four times, a ground of greatness defined by a word of blame",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "2.0",
+              "w": [
+                285,
+                285
+              ],
+              "tag": "defect",
+              "label": "the seeming defect"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                293,
+                293
+              ],
+              "tag": "defect",
+              "label": "the seeming defect"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                301,
+                301
+              ],
+              "tag": "defect",
+              "label": "the seeming defect"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                308,
+                311
+              ],
+              "tag": "defect",
+              "label": "the seeming defect"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                281,
+                281
+              ],
+              "tag": "gift",
+              "label": "Abraham’s four"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                289,
+                289
+              ],
+              "tag": "gift",
+              "label": "Abraham’s four"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                297,
+                297
+              ],
+              "tag": "gift",
+              "label": "Abraham’s four"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                305,
+                305
+              ],
+              "tag": "gift",
+              "label": "Abraham’s four"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                246,
+                246
+              ],
+              "tag": "heroes",
+              "label": "the heroes’ four"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                254,
+                254
+              ],
+              "tag": "heroes",
+              "label": "the heroes’ four"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                262,
+                262
+              ],
+              "tag": "heroes",
+              "label": "the heroes’ four"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                270,
+                270
+              ],
+              "tag": "heroes",
+              "label": "the heroes’ four"
+            }
+          ],
+          "caption": "The second sentence names four things heroes are great by: <b>strength</b>, <b>wisdom</b>, <b>hopes</b>, <b>love</b>. Then it gives Abraham the same four in the same order, each defined by a word of blame: <b>weakness</b>, <b>folly</b>, <b>madness</b>, <b>hatred of one’s self</b>. Each of the four is a paradox, and the book later uses the word of Abraham: his life, the narrator says, has <i>the enormous paradox</i> for its content.",
+          "why": "The four things heroes are great by are given to Abraham, each defined by a word of blame: four paradoxes, for a man whose life the narrator calls a paradox.",
+          "grounds": [
+            {
+              "claim": "the same four nouns come twice in the same order, the second time each with a defining word",
+              "kind": "plate"
+            },
+            {
+              "claim": "the others who were great are heroes",
+              "kind": "text",
+              "source": "kierkegaard/p3, block 2, second sentence, which calls each of them a hero, great in his own way"
+            },
+            {
+              "claim": "what a paradox is",
+              "kind": "source",
+              "source": "Silva Rhetoricae, paradox (the entry defines it as a statement that seems to contradict itself and still points to a truth; its example is the saying about losing one's life and finding it); Online Etymology Dictionary, under paradox (the sense of a statement that looks self-contradictory and is neither illogical nor clearly false dates from the 1560s)"
+            },
+            {
+              "claim": "the narrator says that the enormous paradox is the content of Abraham’s life, and that Abraham confronts him as the paradox",
+              "kind": "text",
+              "source": "kierkegaard/p4, blocks 7 and 8 (and block 31: the enormous paradox that is his significance); the Danish calls 'hiint uhyre Paradox' the 'Indholdet af Abrahams Liv', Søren Kierkegaards Skrifter, vol. 4 (1997), p. 128. Added by the examiner, 2026-10-03, in place of a sentence about what a speech of praise lists, which went beyond the outline it cited"
+            },
+            {
+              "claim": "the four pairs are Kierkegaard’s; Hollander writes hopes for Haab and expression for Form",
+              "kind": "source",
+              "source": "Søren Kierkegaards Skrifter, vol. 4 (1997), p. 113: the nouns Kraft, Viisdom, Haab, Kjærlighed come twice, the second time with Afmagt, Daarskab, Vanvid and 'Had til sig selv'"
+            }
+          ],
+          "stands": "The marks on the passage. Paradox as *Silva Rhetoricae* and the Online Etymology Dictionary define it. The narrator on the paradox of Abraham’s life: the [Preliminary Expectoration](#/read/kierkegaard/p4:7)."
+        },
+        {
+          "kind": "word",
+          "label": "Sources",
+          "notes": [
+            {
+              "row": "2.0",
+              "w": [
+                281,
+                285
+              ],
+              "gloss": "2 Corinthians 12:9",
+              "note": "Paul asks to be spared a suffering and is told that strength is made perfect in weakness. The Danish edition says the phrase probably points here.",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 113, line 29 (formentlig, presumably, of 2 Corinthians 12:1-10); King James Bible, 2 Corinthians 12:9-10"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                289,
+                293
+              ],
+              "gloss": "1 Corinthians 3:18-19",
+              "note": "Paul: whoever seems wise in this world must become a fool to be wise, for this world’s wisdom is foolishness with God. The edition calls the phrase an allusion to this.",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 113, line 30 (an allusion, with no hedge); King James Bible, 1 Corinthians 3:18-19"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                297,
+                301
+              ],
+              "gloss": "no source in the Danish edition",
+              "note": "The edition has no note here. Where this translation has *expression*, the Danish has *Form*, that is, form. The close of the speech says Abraham found the expression for the divine madness, where the edition points to Plato’s *Phaedrus*.",
+              "source": "Søren Kierkegaards Skrifter, vol. 4 (1997), p. 113: 'det Haab, hvis Form er Vanvid'; vol. K4 has notes to lines 29, 30 and 31 of that page and none to this phrase; kierkegaard/p3, block 17; vol. K4, note to vol. 4, p. 119, line 9 (formentlig, presumably, an allusion to Plato's Phaedrus 244a-245c, 256a-e, 265b)"
+            },
+            {
+              "row": "2.0",
+              "w": [
+                305,
+                311
+              ],
+              "gloss": "John 12:25",
+              "note": "The verse says that whoever hates his life in this world will keep it for life eternal. The edition says the phrase perhaps alludes to it.",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 113, line 31 (måske, perhaps); King James Bible, John 12:25"
+            }
+          ],
+          "caption": "The notes of the Danish edition trace three of the four pairings to the New Testament. <b>Strength</b> and <b>weakness</b>: <i>probably</i> Paul, whose Lord tells him that strength is made perfect in weakness. <b>Wisdom</b> and <b>folly</b>: Paul again, for whom this world’s wisdom is foolishness with God. <b>Love</b> and <b>hatred of one’s self</b>: <i>perhaps</i> John, where he who hates his life in this world keeps it. For <b>hope</b> and <b>madness</b> the notes give nothing. So the orator’s sentence praises Abraham, three times in four, in terms the notes trace to Paul and John.",
+          "why": "By the Danish edition’s notes, three of the four pairings point to Paul and John, so the orator’s sentence praises Abraham largely in the New Testament’s terms.",
+          "grounds": [
+            {
+              "claim": "the edition traces three of the four phrases to the New Testament, one with probably and one with perhaps, and has no note on the third",
+              "kind": "source",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), notes to vol. 4, p. 113, lines 29, 30 and 31, at tekster.kb.dk/text/sks-fb-kom-root"
+            },
+            {
+              "claim": "what the three passages say",
+              "kind": "source",
+              "source": "King James Bible (Project Gutenberg no. 10): 2 Corinthians 12:9-10; 1 Corinthians 3:18-19; John 12:25"
+            },
+            {
+              "claim": "the sentence is built as an orator’s comparison",
+              "kind": "plate"
+            },
+            {
+              "claim": "the close of the speech speaks of the divine madness",
+              "kind": "text",
+              "source": "kierkegaard/p3, block 17"
+            }
+          ],
+          "stands": "The notes to this sentence in *Søren Kierkegaards Skrifter*, vol. K4, with their *probably* and *perhaps*. The verses in the King James Bible: 2 Corinthians 12:9, 1 Corinthians 3:18–19, John 12:25. The divine madness: the [close of the speech](#/read/kierkegaard/p3:17)."
+        },
+        {
+          "kind": "shape",
+          "label": "Speech",
+          "what": "the speech in praise of Abraham, paragraph by paragraph: how long each is and how often it names him",
+          "facts": [
+            {
+              "paragraph": 1,
+              "part": "the poet",
+              "about": "the hero, and the poet who can only admire him",
+              "words": 250,
+              "names Abraham": 0,
+              "read": "kierkegaard/p3:0",
+              "counted": "Paragraphs are the blocks of kierkegaard/p3 (Hollander's division: 18 paragraphs, 3,375 words by the site's word-splitter). Namings are the word Abraham, possessive forms included: 51 in all, the first at word 272 of block 2, after 749 words. In the Danish (Søren Kierkegaards Skrifter, vol. 4, pp. 112-19) Hollander's first two paragraphs are one, the first Abraham comes after 655 words of the speech itself (the title not counted), and the name comes 56 times; Hollander shortens the speech a little."
+            },
+            {
+              "paragraph": 2,
+              "part": "the poet",
+              "about": "the poet as the hero’s memory",
+              "words": 227,
+              "names Abraham": 0,
+              "read": "kierkegaard/p3:1"
+            },
+            {
+              "paragraph": 3,
+              "part": "the ranking",
+              "about": "the great ranked by what they loved, hoped for and strove with; the name comes in the last sentence",
+              "words": 312,
+              "words before the name": 749,
+              "names Abraham": 1,
+              "here": "this passage is its close",
+              "read": "kierkegaard/p3:2"
+            },
+            {
+              "paragraph": 4,
+              "part": "the life",
+              "about": "he leaves his own country",
+              "words": 221,
+              "names Abraham": 2,
+              "read": "kierkegaard/p3:3"
+            },
+            {
+              "paragraph": 5,
+              "part": "the life",
+              "about": "the promise, and time passing",
+              "words": 129,
+              "names Abraham": 2,
+              "read": "kierkegaard/p3:4"
+            },
+            {
+              "paragraph": 6,
+              "part": "the life",
+              "about": "he grows old without lament",
+              "words": 143,
+              "names Abraham": 2,
+              "read": "kierkegaard/p3:5"
+            },
+            {
+              "paragraph": 7,
+              "part": "the life",
+              "about": "he holds to his hope",
+              "words": 145,
+              "names Abraham": 2,
+              "read": "kierkegaard/p3:6"
+            },
+            {
+              "paragraph": 8,
+              "part": "the life",
+              "about": "the promise is kept",
+              "words": 217,
+              "names Abraham": 5,
+              "read": "kierkegaard/p3:7"
+            },
+            {
+              "paragraph": 9,
+              "part": "the life",
+              "about": "joy in his house",
+              "words": 15,
+              "names Abraham": 1,
+              "read": "kierkegaard/p3:8"
+            },
+            {
+              "paragraph": 10,
+              "part": "the trial",
+              "about": "God’s command to sacrifice Isaac",
+              "words": 107,
+              "names Abraham": 2,
+              "read": "kierkegaard/p3:9"
+            },
+            {
+              "paragraph": 11,
+              "part": "the trial",
+              "about": "all seems lost",
+              "words": 434,
+              "names Abraham": 12,
+              "read": "kierkegaard/p3:10"
+            },
+            {
+              "paragraph": 12,
+              "part": "the trial",
+              "about": "his faith is for this life",
+              "words": 42,
+              "names Abraham": 1,
+              "read": "kierkegaard/p3:11"
+            },
+            {
+              "paragraph": 13,
+              "part": "the trial",
+              "about": "what he would have done had he doubted",
+              "words": 160,
+              "names Abraham": 3,
+              "read": "kierkegaard/p3:12"
+            },
+            {
+              "paragraph": 14,
+              "part": "the trial",
+              "about": "he does not pray to be spared",
+              "words": 39,
+              "names Abraham": 2,
+              "read": "kierkegaard/p3:13"
+            },
+            {
+              "paragraph": 15,
+              "part": "the trial",
+              "about": "the morning, the mountain, the knife",
+              "words": 400,
+              "names Abraham": 8,
+              "read": "kierkegaard/p3:14"
+            },
+            {
+              "paragraph": 16,
+              "part": "the trial",
+              "about": "who gave him strength",
+              "words": 95,
+              "names Abraham": 2,
+              "read": "kierkegaard/p3:15"
+            },
+            {
+              "paragraph": 17,
+              "part": "the trial",
+              "about": "if he had doubted on the mountain",
+              "words": 153,
+              "names Abraham": 3,
+              "read": "kierkegaard/p3:16"
+            },
+            {
+              "paragraph": 18,
+              "part": "the address",
+              "about": "the speaker turns to Abraham and asks his pardon",
+              "words": 286,
+              "names Abraham": 3,
+              "read": "kierkegaard/p3:17"
+            }
+          ],
+          "caption": "In this translation the speech has eighteen paragraphs and 3,375 words. The first two never say <i>Abraham</i>. They are about the poet, who cannot do a hero’s deeds and can only admire and remember. The third ranks the great, and its last sentence is the first to name Abraham, 749 words in. Every later paragraph names him, fifty more times. The school pattern for such a speech runs: introduction, origins and upbringing, deeds, a comparison that lifts the subject, a closing exhortation or prayer. Kierkegaard’s comparison comes early, ahead of the life and of the name, so the name arrives at the top of a ranking already built.",
+          "why": "The speech keeps its hero’s name back through 749 words on the poet and on greatness, and sets the comparison ahead of the life, so that Abraham arrives at the top of a ranking already built.",
+          "grounds": [
+            {
+              "claim": "eighteen paragraphs, 3,375 words; no Abraham in the first two; the first naming after 749 words; fifty more in the fifteen paragraphs that follow, none of which lacks the name",
+              "kind": "text",
+              "source": "kierkegaard/p3, blocks 0-17, counted with the site's word-splitter (Abraham per block: 0, 0, 1, 2, 2, 2, 2, 5, 1, 2, 12, 1, 3, 2, 8, 2, 3, 3)"
+            },
+            {
+              "claim": "the first two paragraphs are about the poet, who cannot do the hero’s deeds and can only admire and remember",
+              "kind": "text",
+              "source": "kierkegaard/p3, blocks 0 and 1"
+            },
+            {
+              "claim": "the order of the school speech of praise",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), Progymnasmata: Encomium: an exordium; the person's stock; upbringing; deeds; a favorable comparison; an epilogue with an exhortation or a prayer"
+            },
+            {
+              "claim": "in the speech the ranking comes before the life and the trial, and the name first comes in the ranking’s last sentence",
+              "kind": "text",
+              "source": "kierkegaard/p3: block 2 ranks; blocks 3-8 tell the life; blocks 9-16 the trial; block 17 addresses Abraham"
+            },
+            {
+              "claim": "the comparison comes before the name in the Danish too",
+              "kind": "source",
+              "source": "Lovtale over Abraham, Søren Kierkegaards Skrifter, vol. 4 (1997), pp. 112-13: the name first comes in the last sentence of the second Danish paragraph"
+            }
+          ],
+          "stands": "Words and namings counted in the text printed here, in Hollander’s paragraphs; a naming is the word *Abraham*, possessives included. The Danish also holds the name back to this sentence. The order of a speech of praise: *Silva Rhetoricae*, on the encomium. What the paragraphs are about: the [speech itself](#/read/kierkegaard/p3:0), to its [last paragraph](#/read/kierkegaard/p3:17)."
+        }
+      ]
+    },
+    {
+      "id": "window",
+      "heading": "The man at the window",
+      "text": "kierkegaard/p4",
+      "rows": [
+        "21.0[58-160]"
+      ],
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Yet",
+          "spans": [
+            {
+              "from": [
+                "21.0",
+                102
+              ],
+              "to": [
+                "21.0",
+                103
+              ],
+              "tag": "yet",
+              "label": "and yet"
+            },
+            {
+              "from": [
+                "21.0",
+                129
+              ],
+              "to": [
+                "21.0",
+                131.1
+              ],
+              "tag": "yet",
+              "label": "and yet"
+            },
+            {
+              "from": [
+                "21.0",
+                146.2
+              ],
+              "to": [
+                "21.0",
+                147
+              ],
+              "tag": "yet",
+              "label": "and yet"
+            },
+            {
+              "from": [
+                "21.0",
+                58
+              ],
+              "to": [
+                "21.0",
+                64
+              ],
+              "tag": "seen",
+              "label": "what can be seen"
+            },
+            {
+              "from": [
+                "21.0",
+                65
+              ],
+              "to": [
+                "21.0",
+                90
+              ],
+              "tag": "seen",
+              "label": "what can be seen"
+            },
+            {
+              "from": [
+                "21.0",
+                91
+              ],
+              "to": [
+                "21.0",
+                101
+              ],
+              "tag": "seen",
+              "label": "what can be seen"
+            },
+            {
+              "from": [
+                "21.0",
+                104
+              ],
+              "to": [
+                "21.0",
+                128
+              ],
+              "tag": "unseen",
+              "label": "what cannot be seen"
+            },
+            {
+              "from": [
+                "21.0",
+                148
+              ],
+              "to": [
+                "21.0",
+                160
+              ],
+              "tag": "unseen",
+              "label": "what cannot be seen"
+            },
+            {
+              "from": [
+                "21.0",
+                131.2
+              ],
+              "to": [
+                "21.0",
+                146.1
+              ],
+              "tag": "aside",
+              "label": "the narrator breaks in"
+            }
+          ],
+          "caption": "Three statements give what anyone could see: the pipe, a likeness to the <b>green-grocer</b>, the unconcern of an idler. Then <b>and yet</b> turns to what cannot be seen: the price of his leisure, <b>the absurd</b>, <b>the movement of infinity</b>. <b>Yet</b> comes four times, as <i>dog</i> does in the Danish, and before the last the narrator breaks in: he could be furious, if only from envy. The paragraphs before say that no outward sign betrays the man. So the look comes first, and what it does not show comes after <i>yet</i>. Auden’s summary of this portrait keeps both halves, the ideal Christian and the cheerful grocer, and adds that Kierkegaard finds the man incomprehensible.",
+          "why": "The portrait has shown a man whom no outward sign betrays, so the sentence sets the visible first and brings in what he does after yet, said four times; Auden’s summary keeps both halves.",
+          "grounds": [
+            {
+              "claim": "three statements of what is seen, then and yet, then what is not seen; yet four times; the narrator’s aside before the last",
+              "kind": "plate"
+            },
+            {
+              "claim": "the Danish sentence has dog four times",
+              "kind": "source",
+              "source": "Foreløbig Expectoration, Søren Kierkegaards Skrifter, vol. 4 (1997), p. 135: 'og dog kjøber han', 'Og dog, dog, ja jeg kunde', 'dog har dette Menneske'"
+            },
+            {
+              "claim": "the paragraphs before say that no sign of the infinite or of anything beyond the ordinary betrays the man",
+              "kind": "text",
+              "source": "kierkegaard/p4, blocks 17, 18 and 19"
+            },
+            {
+              "claim": "the narrator says he could be furious with envy, and elsewhere that he cannot make the movement of faith or understand Abraham",
+              "kind": "text",
+              "source": "kierkegaard/p4, block 21, words 131-146; blocks 13, 15 and 28"
+            },
+            {
+              "claim": "the sentence gives what is seen before what is not seen, and the paragraphs before have said that nothing seen betrays the man: the reason the caption gives",
+              "kind": "text",
+              "source": "kierkegaard/p4, blocks 17-21; the examiner put this in place of 'what he does has to be stated', which was an inference not marked as one"
+            },
+            {
+              "claim": "Auden: Kierkegaard’s ideal Christian has the look of a cheerful grocer; as Auden gives it, Kierkegaard holds him to be what everyone ought to be and cannot understand him",
+              "kind": "auden",
+              "source": "“A Knight of Doleful Countenance” (1968), in Forewords and Afterwords (1973), p. 192"
+            }
+          ],
+          "stands": "The marks on the passage. The four *dog* of the Danish sentence: *Søren Kierkegaards Skrifter*, vol. 4, p. 135. That nothing betrays the man: the [paragraphs before](#/read/kierkegaard/p4:17), and the narrator on what he himself cannot do, [a little later](#/read/kierkegaard/p4:28). Auden’s summary: *Forewords and Afterwords*, p. 192."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "21.0",
+              "w": [
+                76,
+                76
+              ],
+              "gloss": "Danish *Spekhøker*: provision dealer",
+              "note": "The Danish edition explains *Spekhøker* as a small tradesman in pork, butter and other provisions, and a dictionary of 1845 gives *chandler, cheesemonger*. A greengrocer sells vegetables. Auden says *grocer*.",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 135, line 7; Ferrall and Repp, A Danish-English Dictionary (1845), p. 298, read on the page image; Online Etymology Dictionary, under greengrocer (1723, from green in the sense vegetable, and grocer) and chandler (by the 1580s a dealer in provisions); Forewords and Afterwords, p. 192"
+            },
+            {
+              "row": "21.0",
+              "w": [
+                109,
+                115
+              ],
+              "gloss": "Ephesians 5:16: redeeming the time",
+              "note": "The Danish says he buys the opportune time at the dearest price. The edition points to Ephesians 5:15-16, which the Danish New Testament of 1819 words the same way. To redeem is to buy back.",
+              "source": "Søren Kierkegaards Skrifter, vol. 4 (1997), p. 135: 'kjøber han' ... 'den beleilige Tid til den dyreste Priis'; vol. K4, note to p. 135, line 9 (an allusion to Ephesians 5:15-16, where the New Testament of 1819 has 'kiøber den beleilige Tiid'; compare Colossians 4:5); Ferrall and Repp (1845), p. 28, Beleilig: convenient, seasonable, opportune; King James Bible, Ephesians 5:16; Online Etymology Dictionary, under redeem (to buy back; the sense of saving time is after Ephesians 5:16)"
+            },
+            {
+              "row": "21.0",
+              "w": [
+                128,
+                128
+              ],
+              "gloss": "outside the understanding’s categories",
+              "note": "A term of the book. Six paragraphs on, it says the absurd is no category of the understanding and is not the improbable, the unforeseen or the unexpected.",
+              "source": "kierkegaard/p4, block 27"
+            },
+            {
+              "row": "21.0",
+              "w": [
+                157,
+                160
+              ],
+              "gloss": "giving everything up",
+              "note": "The next sentence explains it: he has resigned everything and then taken hold of it all again. The book calls the first step *infinite resignation* and says faith must pass through it.",
+              "source": "kierkegaard/p4, block 21, words 161-179; blocks 15 and 26"
+            }
+          ],
+          "caption": "Two kinds of word meet here. From the street: <b>pipe</b>, <b>green-grocer</b>, <b>happy-go-lucky fellow</b>. From the book’s own stock: <b>the absurd</b>, <b>the movement of infinity</b>. Between them stands a phrase of the Danish New Testament: <b>purchases his leisure</b> is, in the Danish, <i>buys the opportune time</i>, as in Ephesians 5:16. The sentence needs both kinds, since it says of one man what the street sees and what the book claims. In lines this translation leaves out just after, Kierkegaard names what this knight of faith alone can do: express <i>the sublime in the pedestrian</i>. The <i>Expectoration</i> of the section’s title is properly a coughing up from the chest, and figuratively a pouring out of the heart.",
+          "why": "The sentence says of one man what the street sees and what the book claims, so street words and abstract terms stand together; a few lines on, the Danish says only this knight can express the sublime in the pedestrian.",
+          "grounds": [
+            {
+              "claim": "the words of the street and the abstract terms stand in one sentence, joined by and yet",
+              "kind": "plate"
+            },
+            {
+              "claim": "Spekhøker is a small dealer in pork, butter and other provisions; chandler, cheesemonger in 1845",
+              "kind": "source",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 135, line 7; Ferrall and Repp, A Danish-English Dictionary (1845), p. 298"
+            },
+            {
+              "claim": "the Danish phrase is that of Ephesians 5:15-16 in the Danish New Testament of 1819; the King James Bible has redeeming the time",
+              "kind": "source",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 135, line 9; King James Bible, Ephesians 5:16; Ferrall and Repp (1845), p. 28, Beleilig"
+            },
+            {
+              "claim": "the absurd and the movement of infinity are terms the book itself explains",
+              "kind": "text",
+              "source": "kierkegaard/p4, blocks 15, 21, 26 and 27"
+            },
+            {
+              "claim": "the sentence says of one man what can be seen of him and what he does",
+              "kind": "text",
+              "source": "kierkegaard/p4, block 21, words 58-160"
+            },
+            {
+              "claim": "a few lines after this passage the Danish says that only this knight can express the sublime in the pedestrian, and Hollander leaves those lines out",
+              "kind": "source",
+              "source": "Foreløbig Expectoration, Søren Kierkegaards Skrifter, vol. 4 (1997), pp. 135-36 (p. 136, line 5: 'det Sublime i det Pedestre'; the sentence goes on to say that only that knight can do it and calls it 'det eneste Vidunder'); vol. K4, note to p. 136, line 5 (the note explains the two words as the soaring and the walking, the exalted and the prosaic). Hollander goes from the window paragraph (kierkegaard/p4, block 21, which ends on marks of omission) to block 22, whose opening words about this miracle answer the Danish. The English phrase in the caption is a word-for-word rendering of the Danish, not a quotation from a translation"
+            },
+            {
+              "claim": "the word of the section’s title is properly a coughing up, what is coughed up from the chest (Latin pectus), and figuratively to pour out one’s heart",
+              "kind": "source",
+              "source": "Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 123, line 1; read by the poet, and again by the lead on 2026-10-03 in the page of notes saved from tekster.kb.dk"
+            },
+            {
+              "claim": "Auden’s word for the tradesman is grocer (the note on the green-grocer)",
+              "kind": "auden",
+              "source": "“A Knight of Doleful Countenance” (1968), in Forewords and Afterwords (1973), p. 192: the sentence quoted at the head of the page; read by the finisher in the scan, fa.txt, lines 9191-9193, on 2026-10-03. The ground that stood here, for Auden's sentence on Kierkegaard's styles, went with that sentence; the list keeps it"
+            }
+          ],
+          "stands": "*Spekhøker*, *Expectoration*, the phrase from Ephesians and *the sublime in the pedestrian*: the Danish text and notes in *Søren Kierkegaards Skrifter*, vols. 4 (pp. 135–36) and K4, with Ferrall and Repp’s dictionary of 1845. Ephesians 5:16 in the King James Bible; *greengrocer* and *redeem* in the Online Etymology Dictionary. The book on the absurd: [six paragraphs on](#/read/kierkegaard/p4:27). Auden’s word *grocer*: *Forewords and Afterwords*, p. 192."
+        },
+        {
+          "kind": "shape",
+          "label": "Day",
+          "what": "the knight of faith’s portrait in this translation’s five paragraphs: when, and whom he is likened to",
+          "facts": [
+            {
+              "when": "at first sight",
+              "he": "is introduced to the narrator, who starts back",
+              "likened to": "a parish beadle",
+              "likenesses": 1,
+              "words": 130,
+              "read": "kierkegaard/p4:17",
+              "counted": "The portrait is kierkegaard/p4, blocks 17-21, one row for each block (130, 213, 231, 79 and 180 words by the site's word-splitter, 833 in all). A likeness is any person the narrator compares the man to: parish-beadle (block 17); citizen dressed in his best, philistine, clerk (18); shopkeeper, mail-carrier, chef, Esau (19); capitalist (20); girl of sixteen, green-grocer, happy-go-lucky fellow (21): twelve. The capitalist is the impression of a stranger, as the narrator reports it. One general phrase in block 18, about the zest of worldly people, names no figure and is not counted. The Danish has the same twelve (Søren Kierkegaards Skrifter, vol. 4, pp. 133-35: Rodemester, Borgermand, Spidsborger, Skriverkarl, Kræmmersjæl, Postbud, Restaurateur, Esau, Capitalist, Pige, Spekhøkeren, Døgenigt), and prints the whole portrait as one paragraph: the five paragraphs are Hollander's. Checked by the examiner, 2026-10-03. The times of day are those the text names: Sundays and church (18), the afternoon and toward evening (19), the evening twilight (21). The Danish edition's note to vol. 4, p. 134, line 19 also reads the walk as a Sunday outing, to the Deer Park north of Copenhagen."
+            },
+            {
+              "when": "at his business; then Sunday, at church",
+              "he": "treads the ground firmly, is exact at his business, sings in the congregation",
+              "likened to": "a citizen in his best, off to the park on Sunday; a philistine; a bookkeeping clerk",
+              "likenesses": 3,
+              "words": 213,
+              "read": "kierkegaard/p4:18"
+            },
+            {
+              "when": "the afternoon, then toward evening",
+              "he": "walks out to the forest and home again, thinking of a hot dish his wife may have ready",
+              "likened to": "a shopkeeper on an outing; a mail-carrier, by his gait; a chef, by his talk; Esau, by his appetite",
+              "likenesses": 4,
+              "words": 231,
+              "read": "kierkegaard/p4:19"
+            },
+            {
+              "when": "on the way home",
+              "he": "plans a building with a stranger at a building lot",
+              "likened to": "a capitalist",
+              "likenesses": 1,
+              "words": 79,
+              "read": "kierkegaard/p4:20"
+            },
+            {
+              "when": "the evening twilight",
+              "he": "leans in his window, watches the square, smokes his pipe",
+              "likened to": "a girl of sixteen, for peace of mind; the green-grocer across the street; a happy-go-lucky fellow",
+              "likenesses": 3,
+              "words": 180,
+              "here": "this passage",
+              "read": "kierkegaard/p4:21"
+            }
+          ],
+          "caption": "The portrait reaches the window by way of a Sunday: church, an afternoon walk to the forest, home toward evening, the window at dusk. The narrator likens the man to twelve figures, from a parish beadle at first sight to the <b>green-grocer</b> and the <b>happy-go-lucky fellow</b> at the window. He has said why: those who have faith look like the philistines, and he watches in vain for a sign of the infinite. Only at the window does he say what the man does every moment.",
+          "why": "The portrait follows a Sunday and likens the man twelve times to someone else because, as the narrator says, those who have faith look like the philistines; only at the window does he say what the man does.",
+          "grounds": [
+            {
+              "claim": "the portrait names a day off on Sundays and church, then the afternoon, then toward evening, then the evening twilight at the window",
+              "kind": "text",
+              "source": "kierkegaard/p4, blocks 18, 19 and 21; Søren Kierkegaards Skrifter, vol. K4 (1998), note to vol. 4, p. 134, line 19, which calls the walk a Sunday outing to Dyrehaven"
+            },
+            {
+              "claim": "twelve figures the man is likened to by name",
+              "kind": "text",
+              "source": "kierkegaard/p4, blocks 17-21, counted by hand: parish-beadle; citizen dressed in his best, philistine, clerk; shopkeeper, mail-carrier, chef, Esau; capitalist; girl of sixteen, green-grocer, happy-go-lucky fellow. Counted again by the examiner, who found one general phrase besides (worldly people and their zest, block 18), not counted because it names no figure; the Danish has the same twelve"
+            },
+            {
+              "claim": "the narrator says those who have faith are easily mistaken because their bearing is like that of the philistines",
+              "kind": "text",
+              "source": "kierkegaard/p4, block 15"
+            },
+            {
+              "claim": "the narrator watches for a sign of the infinite and says nothing betrays the man",
+              "kind": "text",
+              "source": "kierkegaard/p4, blocks 17, 18 and 19"
+            },
+            {
+              "claim": "only in the last paragraph of the portrait does the narrator state what the man does every moment",
+              "kind": "text",
+              "source": "kierkegaard/p4, block 21, words 102-179; blocks 19 and 20 say only what the man believes or thinks about a dish and a building"
+            }
+          ],
+          "stands": "The portrait itself, from the narrator’s [warning about the philistines](#/read/kierkegaard/p4:15) and its [first paragraph](#/read/kierkegaard/p4:17) to the window: the times of day it names, and the twelve figures the man is likened to by name, counted in the text printed here (a general phrase about worldly people is not counted)."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In 1947, in his introduction to Baudelaire’s *Intimate Journals*, Auden wrote that the Old Testament has its own idea of the hero, which orthodox Christianity works out more consciously. His example is Abraham, whom poetry would not count a hero, since he has no gifts out of the ordinary. Auden sets him beside Agamemnon, who gives up his daughter for the army of the Greeks and suffers for it. Abraham, by contrast, is told to give up his son to try his faith. He tells no one and obeys, and so the son is spared and a blessing follows. The passage does not name this book.",
+      "quote": "What makes him exceptional is that he, outwardly an average man, is called by God to an exceptional task and obeys.",
+      "source": "Introduction to Charles Baudelaire, *Intimate Journals* (1947), in *Prose*, vol. II (2002), pp. 309–10",
+      "checked": "not seen in a full copy. Quoted in research notes C (remake/research/C_auden_on_works.md), section 15 and appendix H17s, where the researcher marks it VERIFIED (snippet). The examiner read the same sentences on 2026-10-03 in full-text search snippets of two scans at archive.org: the volume of Prose itself (item prosetravelbooks0000aude, catalogued as the set, 602 images; its hits are those of vol. 2) and the 1947 edition of the Intimate Journals (item intimatejournals0000char_k2x1). The sentence quoted is word for word as given, 21 words. The snippets carry no page numbers: pp. 309-10 are as the research notes give them. Finisher, 2026-10-03: the four scans on this machine (The Dyer's Hand, Forewords and Afterwords, The Enchafèd Flood, Pearce) were searched for this passage and hold none of it. The nearest things in them are of other years: The Enchafèd Flood (1950), pp. 90-95, on heroic authority of three kinds, aesthetic, ethical and religious; Forewords and Afterwords, p. 19 (1948), where Agamemnon must kill his daughter or fail his army. So the entry still rests on snippets. It said 'a hero of a third kind' and never said what the first two are. They are not in what the research notes hold of this page (H17s begins at the third), so the count is gone and the entry says less; it now says what Auden was introducing. Research notes C, H5, hold an earlier sentence of the same introduction, from snippets (three ideas of the individual, two Greek and one Jewish; the Greek poets' hero is the exceptional man): the finisher could not open it and did not use it. No caption leans on this passage any longer"
+    },
+    {
+      "says": "On the same page as his sentence about the cheerful grocer, Auden writes that Kierkegaard’s mastery of his own language shows even through translation: he commands every style, lofty or homely, abstract or concrete. His one great fault as a writer, which Auden finds common in lonely men of genius, is that he does not know where to end.",
+      "source": "“A Knight of Doleful Countenance” (1968), in *Forewords and Afterwords* (1973), p. 192",
+      "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 9196-9202, on 2026-10-03; Auden's four words for the styles are high, homely, abstract, concrete"
+    },
+    {
+      "says": "Introducing a selection of Kierkegaard in 1952, Auden wrote that his pages are often those of a poet or a philosopher, and that he was neither. He was a preacher, whose work was to set out and defend Christian teaching and Christian conduct. Auden compares him with Newman: both had to preach to a society that had turned secular and still called itself Christian.",
+      "source": "“Søren Kierkegaard” (1952), in *Forewords and Afterwords* (1973), p. 168",
+      "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 8041-8049, on 2026-10-03; the contents page of the book gives 168 as the essay's first page, and its list of sources (lines 24970-24975) gives the 1952 selection, The Living Thoughts of Kierkegaard"
+    },
+    {
+      "says": "Reviewing a translation of *Either/Or* in 1944, Auden advised a Christian reader to begin Kierkegaard with this book or with *Training in Christianity*.",
+      "source": "“A Preface to Kierkegaard,” *The New Republic*, 15 May 1944, in *Prose*, vol. II (2002), pp. 213–14",
+      "checked": "not seen in a full copy: quoted in research notes C, section 15 and appendix H17t (VERIFIED (snippet)). The examiner found the sentence on 2026-10-03 in full-text search snippets of the volume at archive.org (item prosetravelbooks0000aude). The venue and date, which the research notes gave from memory, are now checked: a snippet of the volume prints 'The New Republic, 15 May 1944' at the end of the review, and Mendelson's Early Auden, Later Auden (2017) cites the review so in a note, with Prose II 214 for another sentence of it. The volume's textual notes begin this review at page 213 (snippet). Taken out of the list by the critic at 12:36 UTC on 2026-10-03 and put back by the finisher the same afternoon, word for word: it is the one place found where Auden names this book, and it says who should begin with it. The finisher read the sentence as research notes C, H17t, give it (the philosopher, the psychologist and the general reader are each sent to another book); the four scans on this machine do not hold the review"
+    },
+    {
+      "says": "Donald Pearce, a student in the class, wrote his notes just after the lectures, since note-taking in class was forbidden. By his account, on a Thursday late in October 1941 Auden described the aesthetic and the ethical attitudes, said that Kierkegaard treats these categories in full, and called him the last of Europe’s great thinkers on ethics. His scheme, as Pearce gives it: ethics gives up the individual for the universal, aesthetics does the reverse, and religion makes the individual a martyr. Religion, he said, is where the other two meet. What was seen of these pages does not name this book.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 129–31 and 134",
+      "checked": "not seen in a full copy: quoted in research notes C, section 15 and appendix H21, from snippets of pp. 129-30. The examiner found the same sentences on 2026-10-03 in full-text search snippets of the book at archive.org (item whaudenfarinteri0000bold): the opening of the essay (a Thursday afternoon in late October 1941), the sentence on Kierkegaard and the three-line scheme; a search of the whole volume for the title Fear and Trembling found nothing. The scan research/auden/pearce.txt begins on p. 131 inside the last sentences of this lecture (the example of the millionaire), not after it; the page number stands at the foot. How Pearce made his notes is from the scan: that note-taking was forbidden, on p. 131; that he wrote a page or two in a nearby room after a lecture, in a notebook, on p. 134. That he was a graduate student is in research notes A and was not found in the scan, so the entry says student"
+    },
+    {
+      "says": "Kenneth Millar, who took the class in the fall of 1941 and later wrote novels as Ross Macdonald, kept notes on it. Michael Kreyling reports that his fullest notes were on this book and on Kafka’s *The Castle*.",
+      "source": "Michael Kreyling, *The Novels of Ross Macdonald* (2005), pp. 39–40",
+      "checked": "research notes A (remake/research/A_michigan_course.md), section 3.2 (Kreyling p. 40, VERIFIED (scan)) and section 4 (p. 39: Auden taught Millar for one semester, fall 1941, in English 135). The examiner found the sentence on 2026-10-03 in a full-text search snippet of the book at archive.org (item novelsofrossmacd0000krey), which names both titles; the page number is as the research notes give it. Moved up by the finisher, 2026-10-03, to stand beside the other record of the class"
+    },
+    {
+      "says": "The grocer of Auden’s sentence of 1968 is already in a poem of 1940. Edward Mendelson finds that the sonnets of “The Quest” vary themes of Kierkegaard. In one, “The Hero,” the man who has succeeded in his quest wins little respect, since to other people he seems too much a grocer, and all that sets him apart from people who have run no such risk is the pleasure he takes in small things and in routine. Mendelson sets him beside the knight of faith, whom one would take for a shopkeeper.",
+      "source": "“The Hero,” in *The Collected Poetry of W. H. Auden* (1945), pp. 259–60; Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (2017), pp. 459–60",
+      "checked": "added by the examiner on 2026-10-03. Mendelson's book was read in its full text at archive.org (item early-auden-later-auden-a-critical-biography-edward-mendelson-2017), where each page's number stands at its head: p. 459 (Auden worked on 'The Quest' in the early summer of 1940) and p. 460 (the sonnets as variations on themes of Kierkegaard; 'The Hero' and the grocer; the knight of faith whom one would take for a shopkeeper; his note to the page cites Fear and Trembling in Robert Payne's translation of 1939, p. 50). The sonnet itself was read in the scan of The Collected Poetry (1945) at archive.org, where the page numbers stand at the foot: it begins at the foot of p. 259 and ends on p. 260. Nothing of the poem is quoted; it is in copyright and the piece already has its two quotations. Mendelson also writes (p. 602) that Kierkegaard's knight, with his shopkeeper's look, gave Auden in his Italian years the thought that ordinary life can be a sign of the absolute; that is not in the list"
+    },
+    {
+      "says": "Two more poems of these years use the book, by Mendelson’s account. “In Sickness and in Health” (1940) calls the command to rejoice absurd because Kierkegaard’s Abraham believed by virtue of the absurd. The idea of two lines of “At the Grave of Henry James” (1941), about dancing lightly, comes from the book’s description of the knights of infinite resignation as dancers. That description stands just after the third passage here, in lines this translation leaves out.",
+      "source": "Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (2017), pp. 476 and 485",
+      "checked": "read by the examiner on 2026-10-03 in the full text of Mendelson's book at archive.org: p. 476 (the absurd command; his note cites Fear and Trembling, p. 43) and the footnote on p. 485 (two lines of the James poem, which Auden later mocked; he found the idea in the book's description of the knight of infinite resignation, and Mendelson quotes the passage about the dancer). The poet's entry, from research notes C, section 15 and line 1070, said 'one line'. That the dancer passage follows the window paragraph and is left out by Hollander: Søren Kierkegaards Skrifter, vol. 4 (1997), pp. 135-36, against kierkegaard/p4, blocks 21 and 22"
+    }
+  ],
+  "next": "kierkegaard/p2:0",
+  "sources": [
+    "The text: Søren Kierkegaard, *Fear and Trembling*, as selected and translated by L. M. Hollander in *Selections from the Writings of Kierkegaard* (University of Texas Bulletin no. 2326, 1923), as Project Gutenberg prints it (no. 60333). A note of Hollander’s calls his selection about a third of the book; counted in words against the Danish it is about a quarter.",
+    "The Danish: *Frygt og Bæven* (Copenhagen, 1843), in *Søren Kierkegaards Skrifter*, vol. 4 (Copenhagen: Søren Kierkegaard Forskningscenteret, 1997), pp. 99–210 (what is used here stands on pp. 99–136), with the notes to it in vol. K4 (1998), both at tekster.kb.dk.",
+    "The King James Bible: Genesis 21:8 and 22:1–19; Luke 23:29; John 12:25; 1 Corinthians 3:18–19; 2 Corinthians 12:9–10; Ephesians 5:15–16.",
+    "J. S. Ferrall and Thorleifur Gudmundsson Repp, *A Danish-English Dictionary* (Copenhagen: Gyldendal, 1845): Beleilig, Den, Der, Forfærdelig, Held, Spekhøker.",
+    "W. H. Auden, *Forewords and Afterwords* (1973): “Søren Kierkegaard” (1952), p. 168; “A Knight of Doleful Countenance” (1968), p. 192.",
+    "W. H. Auden, introduction to Charles Baudelaire, *Intimate Journals* (1947), and “A Preface to Kierkegaard” (*The New Republic*, 15 May 1944), in *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 309–10 and 213–14. Not seen in full.",
+    "W. H. Auden, *The Collected Poetry of W. H. Auden* (1945): “The Quest: A Sonnet Sequence,” the sonnet “The Hero,” pp. 259–60.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 129–31 and 134: notes made after Auden’s lecture of October 1941. Pages 129–30 not seen in full.",
+    "Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (2017), pp. 459–60, 476 and 485.",
+    "Michael Kreyling, *The Novels of Ross Macdonald* (2005), pp. 39–40. Not seen in full.",
+    "Online Etymology Dictionary: chandler, greengrocer, maiden, paradox, redeem, refrain.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu): paradox, anaphora, and the school exercise of the encomium.",
+    "Paull F. Baum, *The Principles of English Versification* (1922), chapter 5 and the glossary, on repetition and the refrain."
+  ],
+  "caveats": [
+    "The English is L. M. Hollander’s selection of 1923: about a quarter of the book (he says a third). It leaves out the three Problems and much else, and trims the speech in praise of Abraham. Counts and paragraphs follow his text. Which translation Auden’s class read was not found.",
+    "Auden’s sentences of 1947 and 1944 were read only in search snippets of the volume reprinting them; those of 1947 do not name this book. His lecture of October 1941 is known from notes a student, Donald Pearce, wrote afterward; what was seen of them does not name it either.",
+    "The second and fourth paragraphs on weaning are shown whole; the marks of omission there only divide opening from close. The first and third are shown without their middles. Hollander’s *he* and *his child* say more than the Danish, which has *the one who* and *the child*.",
+    "The count of twelve likenesses in the portrait takes each named figure once and leaves out one general phrase about worldly people.",
+    "The New Testament sources for the second passage are those proposed in the notes of the Danish edition, which says *probably* of one and *perhaps* of another. *The sublime in the pedestrian* is this page’s word-for-word English for Kierkegaard’s Danish, in lines the translation printed here leaves out."
+  ],
+  "open": [
+    "Two things given as Auden's were read only as the research notes quote them (C, appendices H17s and H17t), not in his own text: the 1947 passage on Abraham (Prose, vol. 2, pp. 309-10), from which one of the piece's two quotations comes, and the 1944 review (Prose, vol. 2, pp. 213-14). Neither passage could be opened from here. [Examiner, 2026-10-03: both were found in full-text search snippets of the volume at archive.org, and the 1947 sentences also in a scan of the 1947 edition; the wording is as the research notes give it and the quotation is exact. Neither was seen in a full copy. The snippets carry no page numbers, so pp. 309-10 rest on the research notes alone; for the review, the volume's own notes put its first page at 213 and Mendelson (2017) cites p. 214.] [Finisher, 2026-10-03: the four scans on this machine hold neither passage (searched by words and by runs). The critic took the 1944 entry out of the list and the finisher put it back; the entry's own record says why. The 1947 passage now stands in the first entry of the list only: the three captions that leaned on it (Tellings, Paradox, Day) reach their reasons without it and no longer use it.]",
+    "Pearce's pages on the Kierkegaard lecture (pp. 129-30) were read only as the research notes quote them (C, appendix H21); the scan of Pearce begins in the middle of p. 131. What was seen does not name Fear and Trembling, and the lecture's matter (the ethical, the aesthetic, the religious) belongs to the three Problems, which Hollander's selection leaves out. So no passage is built on the lecture; it is reported under what else Auden said, with a caveat. [Examiner: the same sentences were found in search snippets of the book at archive.org; pp. 129-30 are still unseen as pages. The scan begins on p. 131 inside the end of this lecture. That Pearce was a graduate student is in research notes A only; the list now says student.]",
+    "Mendelson (pp. 476, 485) and Kreyling (pp. 39-40) were not opened; they are given from research notes C (section 15 and line 1070) and A (line 403). [Examiner: Mendelson was read in the full text at archive.org, pp. 459-60, 476, 485 and 602 with their notes; the list was corrected from it (two lines of the James poem, not one) and an entry was added for the sonnet 'The Hero' (p. 460), where Auden's grocer first appears. Kreyling was seen only in a search snippet that names both titles; his page number rests on research notes A.]",
+    "Which translation the class read is not known. Research notes D say Lowrie's was registered for copyright on 10 December 1941, after the course began, and that Robert Payne's (Oxford, 1939) existed; neither was seen. The text printed here is Hollander's selection of 1923, about a third of the book. [Examiner: Mendelson's note to his p. 460 cites Payne's translation of 1939, p. 50, for the knight of faith as Auden read him in 1940, so Payne's is a translation Auden himself had read; what the class was told to read is still not known, and the page says nothing of Payne. The course sheet names no edition (research notes A). Whether Auden's word grocer comes from Payne was not checked: Payne's text was not seen. The third is Hollander's own figure, in the last footnote to his selection as Project Gutenberg prints it. A count does not bear it out: the hosted text has 11,785 words; the Danish (vol. 4, pp. 99-210, as tekster.kb.dk gives it) has about 41,000; and in the Preparation, which he gives paragraph for paragraph, his English runs to 1,511 words for 1,318 of the Danish (in the speech, 3,375 for 2,970). At that rate the whole book would be about 47,000 words of his English, and his selection a quarter of it. The first source line and the first caveat now say so.]",
+    "Auden does not name Fear and Trembling on the page the view comes from (Forewords and Afterwords, p. 192). That his 'portrait of the Knight of Faith' is the one in this book is from the hosted text (kierkegaard/p4, blocks 15-21). The sentence he gives to Kierkegaard there is his own summary and is not in Hollander's text in those words.",
+    "The Danish text and its notes (Søren Kierkegaards Skrifter, vols. 4 and K4, at tekster.kb.dk) were read in Danish, and every English rendering of them in the reading is the poet's own. The Danish word behind Hollander's 'worse means' ('forfærdeligere', more terrible) was not found in the 1845 dictionary and nothing is said of it. ordnet.dk could not be reached. [Examiner: the Danish behind every claim was read again at tekster.kb.dk, and the dictionary pages for Held, Den, Der, Spekhøker and Beleilig were read on the page images. The word behind 'worse means' is in the dictionary after all, on p. 86 (it sorts æ with ae): Forfærde, to terrify, appal; forfærdelig, terrific, appalling, frightful, horrific, dreadful. So the Danish says more dreadful means, and the first remark of the Turn tab now says so, with a ground. ordnet.dk was not tried again.]",
+    "Hollander changes two things near the passages that the reading does not use: in the first telling he has Abraham resolve to conceal from Isaac where they are going, where the Danish has him say he will not conceal it; and after the window paragraph he leaves out the comparison with a dancer (vol. 4, pp. 135-36), in which the phrase about the sublime in the pedestrian stands. The second is cited in the third passage's Words tab from the Danish. [Examiner: a third: just before the words the third passage shows, Hollander leaves out a sentence in which the narrator says the man is no genius either (vol. 4, p. 135). And the Danish prints the whole portrait as one paragraph; the five paragraphs of the Day tab are Hollander's, which its heading line and a caveat now say.]",
+    "The count of twelve likenesses in the portrait is by hand and depends on what counts as one: every person the narrator compares the man to, including Esau and the capitalist a stranger takes him for. [Examiner: counted again in the English and the Danish: twelve named figures in both. One general phrase (the zest of worldly people) is not counted; the caption now says twelve figures (the critic took out 'other') and a caveat says how they were counted.]",
+    "For the artist and the lead. (1) The first passage sets openings and last sentences as two blocks ('beside': true). A row that stops short of its paragraph's end, or starts after its beginning, carries marks of omission; for the second and fourth paragraphs nothing lies between the two parts, which a caveat says. (2) In the Refrain tab the marks on the last sentences start at the second word on purpose: a mark on the first word of each would be given a spine that runs through the marks of omission. (3) The three shape tabs (Tellings, Speech, Day) are drawn by the artist's script, site/js/pieces/kierkegaard.js; each row carries a 'read' address for a link.",
+    "From the examiner, 2026-10-03. (1) The examiner wrote only inside this piece's folder and did not build the site's page. The built page (site/data/pieces/kierkegaard.json) is made by the artist's runs. The examiner's last changes to anything printed were made at 10:04 UTC (the first two lines of the sources and the first caveat: Hollander's selection is about a quarter of the book by a count of words, not the third his own note claims). A run of the artist built the page again at 10:06 UTC, and at 10:08 UTC the built file was byte for byte what a private build of the reading gives. If the reading is changed again, build once more (node build/pieces.mjs kierkegaard). Two tests that a built page is current: the first remark of the Turn tab ends with the words 'more dreadful means', and the first caveat says 'about a quarter'. The examiner looked at every tab and the whole page in a private copy of the site, the last time with the kit and the artist's script as they stood at 10:08 UTC; the three drawings read the mended facts without error. (2) In the facts of the shape tabs no key was renamed, added or removed. Four strings a drawing prints were changed: in the Tellings tab, 'the mother' of the second telling and 'Abraham' of the third (each ran seven words together as Hollander has them, and is now a paraphrase); in the Speech tab, 'about' of the third paragraph; and the heading line of the Day tab ('what'). (3) The reading uses refrain of prose paragraphs; Baum keeps the word for stanzas, and the tab's plain-words line and its note say so. If the lead wants a stricter term, 'repetition' is the fallback. (4) Auden's 1944 sentence comes from a review of another book of Kierkegaard's and names this one in a list; it was kept in the list because it is the one place found where he names this book and says who should read it first; by the letter of EXAMINER.md it could go to notes.md. [The critic took it out at 12:36 UTC; the finisher put it back, and took out instead the entry on 'Genius & Apostle' (The Dyer's Hand, p. 443), which is whole at the end of notes.md.] (5) The artist proposes one new fact for the Speech tab, on the row of paragraph 3: 'words before the name': 749 (art.md, section 3). The examiner counted the same number in the hosted text, so it is true; it was left for the lead to set, as the artist asks. [The lead set it at 12:12 UTC, with the artist's other key, 'opening words in common': 6, on the four rows of the tellings.] (6) Titles are now marked for italics in the line under the title, the source lines and the list, and words spoken of as words are marked in the notes of the three Words and Sources tabs; this answers art.md, section 4. (7) notes.md has a short section added at its end by the examiner (a passing use of the book's term in The Dyer's Hand, p. 454, and Mendelson, p. 602).",
+    "From the finisher, 2026-10-03; the full record is the last section of notes.md. (1) Auden is now in one caption, Yet, where the passage meets the view at the head. Five sentences of his were cut from captions that reach their reasons without them: three from the 1947 passage (Tellings, Paradox, Day), one of 1952 (Sources) and one of 1968 (Words of the third passage). The list keeps all three sources. (2) The Turn caption no longer says that the first and third Happy sentences look back at the Abraham just told: the tellings are not among the lines shown, so it stops at what those lines say. The five grounds for the inference are in finisher/before.json. (3) The first entry of the list no longer counts a 'third' kind of hero, because the first two could not be opened; research notes C, H5, hold the sentence that counts them, from snippets. (4) The list: the 1944 entry is back, the entry on 'Genius & Apostle' is out, and Millar stands beside Pearce. (5) Not done: 'Preliminary Expectoration' is glossed nowhere on the page (the Danish edition's note on the word is recorded in notes.md, under 'Looked for and not found'); and two keys in the script say 'as long as its words', a phrase other pieces' scripts share."
+  ]
+}

@@ -1,0 +1,1398 @@
+{
+  "piece": "dante-paradiso",
+  "title": "The last canto",
+  "where": "*Paradiso*, Canto 33",
+  "about": "Dante has risen to the last heaven, one of pure light, where the blessed form a white rose. Beatrice, who led him up, is back in her seat among them, and Saint Bernard, devoted to the Virgin Mary, stands beside him. The canto opens with Bernard’s prayer to her that Dante may be given the strength to see God; the prayer is granted, and the rest is what he saw. He is, he says, like a man after a dream: the feeling stays and the sight is almost gone.",
+  "view": {
+    "says": "For Auden, Dante is the greatest writer of dream literature: his images never run dry, and his exact structure of logic and mathematics fixes even the number of lines. For Dante, he wrote, the vision of one beloved person’s glory is not the foot of a long ladder: a single step leads from it to God, and in the last vision that love is transformed, not destroyed.",
+    "quote": "there is only one step to take, from the personal creature who can love and be loved to the personal Creator who is Love",
+    "source": "“George Macdonald” (1954) and the Introduction to *The Protestant Mystics* (1964), both in *Forewords and Afterwords* (1973), pp. 269 and 68",
+    "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt: lines 12831-12840 (in this scan the page number follows the text of its page; 269 stands at line 12856) and lines 3238-3244 (68 stands at line 3253); the Vision of Eros is defined at lines 2984-2988. The scan drops most punctuation and prints the word is in capitals, which appears to stand for an italic; the quotation keeps the scan's one comma."
+  },
+  "plates": [
+    {
+      "id": "prayer",
+      "heading": "Saint Bernard’s prayer: lines 1 to 9",
+      "label": "Dante",
+      "text": "dante-italian/par-33",
+      "rows": [
+        "0.0-2.2"
+      ],
+      "pair": {
+        "label": "Wicksteed’s prose, 1899",
+        "text": "dante-temple/par-33",
+        "rows": [
+          "0.0-2.0"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "paradox",
+          "plain": "a statement that contradicts itself on the surface and is still meant as true",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "0.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "pair-1",
+              "label": "virgin"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                1,
+                1
+              ],
+              "tag": "pair-1",
+              "label": "mother"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "pair-2",
+              "label": "daughter"
+            },
+            {
+              "row": "0.0",
+              "w": [
+                5,
+                5
+              ],
+              "tag": "pair-2",
+              "label": "son"
+            },
+            {
+              "row": "0.1",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "pair-3",
+              "label": "lowly"
+            },
+            {
+              "row": "0.1",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "pair-3",
+              "label": "high"
+            }
+          ],
+          "caption": "The prayer opens with three pairs of terms, and each pair is one name for Mary: <b>Vergine Madre</b>, virgin mother; <b>figlia del tuo figlio</b>, daughter of your son; <b>umile e alta</b>, lowly and high. By the measure of nature the two terms of each pair contradict each other. A statement that contradicts itself and is true all the same is a paradox. Pairs like these were already a formula of the Church’s public prayer. The next three lines state the event they point to: she raised human nature so high that its maker did not disdain to become its creature. In the faith the poem holds, each pair is fact.",
+          "why": "The three paradoxes name Mary by the event the next lines state outright: in her the maker of human nature became its creature. Such pairs were a formula of the Church’s prayer, and in the poem’s faith each is fact.",
+          "stands": "The marks on the passage, and lines 4 to 6. Paradox as *Silva Rhetoricae* defines it. That the pairs contradict by nature’s measure and hold in faith, that such pairs were a formula of the liturgy, and that all three point to the event of lines 4 to 6: the notes on these lines by Sapegno, Singleton, Bosco and Reggio, and Chiavacci Leonardi, read at the Dartmouth Dante Project.",
+          "grounds": [
+            {
+              "claim": "three pairs of terms in lines 1 and 2, each pair one name for the person addressed",
+              "kind": "plate"
+            },
+            {
+              "claim": "by a natural measure the two terms of each pair contradict each other, and on the plane of faith all are true: virgin and mother, daughter and mother of God, the humblest of creatures and the most exalted",
+              "kind": "source",
+              "source": "Sapegno, note to Paradiso 33.1–2 (1955–57); Chiavacci Leonardi, note to 33.1 (1991–97); Hollander, note to 33.1 (2000–07); all read at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "a paradox is a statement that contradicts itself on the surface and holds a truth",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), paradox; the Italian commentaries call the pairs antitheses; Hollander’s note to 33.1 speaks of Dante’s paradoxical expressions"
+            },
+            {
+              "claim": "such pairs were already a formula of the liturgy",
+              "kind": "source",
+              "source": "Sapegno, note to Paradiso 33.1–2; Bosco and Reggio, note to 33.1 (1979); Singleton, note to 33.1–3 (1970–75)"
+            },
+            {
+              "claim": "she ennobled human nature so far that its maker did not disdain to become its creature",
+              "kind": "text",
+              "source": "rows 1.0 to 1.2 (lines 4 to 6); the Temple Classics note to line 6 (Oelsner, 1899)"
+            },
+            {
+              "claim": "all three pairs point to the Incarnation, the event of lines 4 to 6",
+              "kind": "source",
+              "source": "Singleton, note to Paradiso 33.1–3; Bosco and Reggio, note to 33.1 (the second pair is developed in the next two tercets)"
+            },
+            {
+              "claim": "in Christian faith these pairs are fact, and no play on words",
+              "kind": "source",
+              "source": "Chiavacci Leonardi, note to Paradiso 33.1; Bosco and Reggio, note to 33.1"
+            }
+          ]
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "0.0": "a",
+            "0.1": "b",
+            "0.2": "a",
+            "1.0": "b",
+            "1.1": "c",
+            "1.2": "b",
+            "2.0": "c",
+            "2.1": "d",
+            "2.2": "c"
+          },
+          "tails": {
+            "0.0": 5,
+            "0.1": 3,
+            "0.2": 5,
+            "1.0": 3,
+            "1.1": 3,
+            "1.2": 3,
+            "2.0": 3,
+            "2.1": 3,
+            "2.2": 3
+          },
+          "threads": [
+            {
+              "sound": "fatt",
+              "at": [
+                [
+                  "1.1",
+                  5,
+                  0,
+                  4
+                ],
+                [
+                  "1.2",
+                  5,
+                  0,
+                  4
+                ]
+              ]
+            }
+          ],
+          "caption": "Lines 1 and 3 rhyme. The line between them ends on <b>creatura</b>, creature, and lines 4 and 6 answer it with <b>natura</b>, nature, and <b>fattura</b>, the thing made. Line 5 ends on <b>fattore</b>, maker, answered by <b>amore</b>, love, and <b>fiore</b>, flower. This is terza rima, the chained rhyme Dante was the first to use for a long poem. <i>Fattore</i> and <i>fattura</i> come from one verb, to make. They end the lines that say the maker of human nature did not disdain to become its making. Maker then rhymes with love: line 7 says that in her womb love was lit again.",
+          "why": "Maker and thing made, two words from one verb, end the lines that say the one became the other; maker then rhymes with love, the love that the next line says was lit again in her womb.",
+          "stands": "The marks on the passage, and lines 4 to 7. Terza rima and Dante’s first use of it: the Treccani *Vocabolario* under *terzina*, and the *Encyclopaedia Britannica* under *terza rima*. *Fattore* and *fattura*: the *Vocabolario*, whose entry for *fattura* cites these lines, and the *Enciclopedia Dantesca* under *fattura*.",
+          "grounds": [
+            {
+              "claim": "which line ends rhyme, and the four letters that fattore and fattura share",
+              "kind": "plate"
+            },
+            {
+              "claim": "terza rima: the middle line of each group of three gives the rhyme to the first and third lines of the next; Dante was the first to use it, and the first to use it for a long poem",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, terzina; Encyclopaedia Britannica, terza rima"
+            },
+            {
+              "claim": "fattura is the thing made, set against fattore, the maker, and so a synonym of creatura; fattore is from Latin factor, from facere, to make; the two words of lines 5 and 6 are a play on one root",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, fattura (sense 3, which cites these lines) and fattore; Enciclopedia Dantesca, fattura (the two words as a play on the same root). (Examiner: the caption used to call fattura the maker’s word with the creature’s ending; no source says that, and fattura is the creature’s word. The sentence was cut.)"
+            },
+            {
+              "claim": "lines 5 and 6 end on fattore and fattura, and the sentence they close says that the maker of human nature did not disdain to become its making",
+              "kind": "text",
+              "source": "rows 1.0 to 1.2 (lines 4 to 6); Wicksteed’s prose beside them has Maker and making"
+            },
+            {
+              "claim": "line 7 says that love was lit again in her womb; its last word is the word for love, which rhymes with maker",
+              "kind": "text",
+              "source": "row 2.0 (line 7)"
+            }
+          ]
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            {
+              "a": [
+                "0.0",
+                0,
+                1
+              ],
+              "b": [
+                "p:0.0",
+                0,
+                1
+              ],
+              "say": "The first pair crosses word for word."
+            },
+            {
+              "a": [
+                "0.0",
+                2,
+                5
+              ],
+              "b": [
+                "p:0.0",
+                2,
+                5
+              ],
+              "say": "The sense is whole. In Italian, daughter and son are one word with two endings, *figlia* and *figlio*. English has two unlike words."
+            },
+            {
+              "a": [
+                "0.1",
+                0,
+                2
+              ],
+              "b": [
+                "p:0.0",
+                6,
+                8
+              ],
+              "say": "The third pair is kept: *lowly* and *uplifted*."
+            },
+            {
+              "a": [
+                "0.1",
+                5,
+                5
+              ],
+              "b": [
+                "p:0.0",
+                12,
+                12
+              ],
+              "say": "In the verse *creatura* ends a line and sets a rhyme that lines 4 and 6 must meet. In prose the word sets nothing."
+            },
+            {
+              "a": [
+                "1.1",
+                5,
+                5
+              ],
+              "b": [
+                "p:1.0",
+                12,
+                12
+              ],
+              "say": "*Maker* for *fattore*."
+            },
+            {
+              "a": [
+                "1.2",
+                5,
+                5
+              ],
+              "b": [
+                "p:1.0",
+                18,
+                18
+              ],
+              "say": "*Making* for *fattura*. Wicksteed keeps one root for the two words, as Dante does."
+            },
+            {
+              "a": [
+                "1.2",
+                3,
+                3
+              ],
+              "b": [
+                "p:1.0",
+                16,
+                16
+              ],
+              "say": "*Farsi* is *fare*, to make, turned on oneself: to make oneself, and so to become. It is the verb inside *fattore* and *fattura*. The English word *become* loses it."
+            },
+            {
+              "a": [
+                "2.2",
+                0,
+                4
+              ],
+              "b": [
+                "p:2.0",
+                15,
+                19
+              ],
+              "say": "The image crosses. The flower is the rose of the blessed, shown in cantos 30 and 31. For *germinato*, sprouted, Wicksteed has *unfolded*."
+            }
+          ],
+          "caption": "Beside Dante’s lines is the English prose of Wicksteed, printed in 1899 facing the Italian. A student recalls that Auden’s class had to write out cantos of the <i>Comedy</i> from memory in this prose, this canto last. Auden wrote that the sound of a poem, with its rhythm, rhymes and puns, cannot be translated, and that what does not rest on the words themselves, such as an image, can be, to a degree. The three pairs cross into English whole, and <i>Maker</i> and <i>making</i> keep one root as <i>fattore</i> and <i>fattura</i> do. The rhyme is gone, and so is the one letter that parts <i>figlia</i> from <i>figlio</i>.",
+          "why": "The class learned this canto in Wicksteed’s prose, and the prose bears out what Auden wrote of translation: what does not rest on the words themselves can cross, and rhyme and wordplay stay behind.",
+          "stands": "The two versions as they stand side by side. The class and this prose: Donald Pearce, “Fortunate Fall,” pp. 153–54; Auden on what can be translated: *The Dyer’s Hand*, pp. 23–24. *Farsi* and *germinato*: the Treccani *Vocabolario* under *fare* and *germinare*. The rose of the blessed: [canto 30](#/read/dante-temple/par-30:38) and the opening of [canto 31](#/read/dante-temple/par-31:0).",
+          "grounds": [
+            {
+              "claim": "which words of the prose answer which words of the verse; no rhyme in the prose",
+              "kind": "plate"
+            },
+            {
+              "claim": "Wicksteed’s prose Paradiso, Temple Classics, 1899, with the Italian facing the English; the Carlyle and Wicksteed version is this Temple Classics text",
+              "kind": "source",
+              "source": "remake/research/D_texts.md, the entry for Dante’s Comedy (the translation on the syllabus)"
+            },
+            {
+              "claim": "Auden told the class it would write out cantos from memory in the Carlyle and Wicksteed prose, the last of them Paradiso 33",
+              "kind": "auden",
+              "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in W. H. Auden: The Far Interior, edited by Alan Bold (1985), pp. 153–54"
+            },
+            {
+              "claim": "the sound of the words, their rhythm, rhymes and puns are lost in translation; what does not depend on the words themselves, such as an image or a comparison, can cross in part",
+              "kind": "auden",
+              "source": "“Writing,” in The Dyer’s Hand (1962), pp. 23–24"
+            },
+            {
+              "claim": "farsi is to become, from fare, Latin facere; fattore and fattura come from the same verb",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, fare² (etymology; sense 10: farsi, divenire), fattore, fattura"
+            },
+            {
+              "claim": "the flower is the rose of the blessed in the highest heaven; germinare is to sprout",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, germinare (which cites this line and glosses the flower); Paradiso 30.117 and 31.1 in the hosted text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "book",
+      "heading": "What he saw in the light: lines 82 to 90",
+      "label": "Dante",
+      "text": "dante-italian/par-33",
+      "rows": [
+        "27.0-29.2"
+      ],
+      "pair": {
+        "label": "Longfellow, 1867",
+        "text": "dante-longfellow/par-33",
+        "rows": [
+          "27.0-29.2"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "metaphor",
+          "plain": "one thing spoken of as another",
+          "draw": "map",
+          "join": [
+            [
+              2,
+              3
+            ]
+          ],
+          "parts": [
+            {
+              "row": "28.1",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "book",
+              "label": "bound"
+            },
+            {
+              "row": "28.1",
+              "w": [
+                3,
+                5
+              ],
+              "tag": "book",
+              "label": "in one volume"
+            },
+            {
+              "row": "28.2",
+              "w": [
+                4,
+                5
+              ],
+              "tag": "book",
+              "label": "lies apart in quires"
+            },
+            {
+              "row": "28.2",
+              "w": [
+                0,
+                3
+              ],
+              "tag": "meant",
+              "label": "through the universe"
+            },
+            {
+              "row": "28.1",
+              "w": [
+                1,
+                2
+              ],
+              "tag": "meant",
+              "label": "with love"
+            },
+            {
+              "row": "28.0",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "meant",
+              "label": "in its depth"
+            }
+          ],
+          "caption": "Three words come from the making of books. <b>Legato</b> is the word for binding a book. <b>Si squaderna</b> is made from <i>quaderno</i>, a quire, the gathering of folded sheets from which a book is sewn; the verb says the quires lie apart. So the things of the universe are spoken of as the loose quires of a book, and in the depth of the light Dante sees them bound, with love, in one <b>volume</b>. This is the first thing he tells of what he saw.",
+          "why": "Dante gives the first thing he saw in the light as a bound book, so the scattered things of the universe and the one volume are the same leaves, loose and sewn; they are bound, the line says, with love.",
+          "stands": "The marks on the passage, and lines 85 to 87; metaphor as *Silva Rhetoricae* defines it. The book words: the Treccani *Vocabolario* under *legare*, *squadernare* (which explains these lines) and *quaderno*, and the *Enciclopedia Dantesca* under *squadernarsi*. That this is the first thing he reports seeing: Chiavacci Leonardi’s note to lines 85–87.",
+          "grounds": [
+            {
+              "claim": "the three book words, and what each is said of",
+              "kind": "plate"
+            },
+            {
+              "claim": "metaphor: a comparison made by referring to one thing as another",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), metaphor"
+            },
+            {
+              "claim": "legare, of books: to sew the sheets together and give them a cover",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, legare¹ (sense 2a)"
+            },
+            {
+              "claim": "squadernare, from quaderno: to unsew a book into its quires; in these lines, created things divided and scattered like the separate sheets of a volume, and seen gathered into one",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, squadernare (sense 3, which glosses these lines) and quaderno (sense 2a); Enciclopedia Dantesca, squadernarsi"
+            },
+            {
+              "claim": "what is scattered through the universe is what is bound, with love, in one volume, in the depth of the eternal light",
+              "kind": "text",
+              "source": "rows 27.1 and 28.0 to 28.2 (lines 83 and 85 to 87): one subject for both verbs"
+            },
+            {
+              "claim": "this is the first thing he reports of what he saw in the light",
+              "kind": "source",
+              "source": "Chiavacci Leonardi, note to Paradiso 33.85–87; Bosco and Reggio, note to 33.85–90; both read at the Dartmouth Dante Project; lines 52 to 84 in the hosted text"
+            }
+          ]
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "28.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "is held deep within",
+              "note": "From *interno*, inner: to go deep inside, or to be held there. Some commentators also hear the sense to become threefold, of the Trinity; others reject that.",
+              "source": "Treccani, Vocabolario, internare (sense 2a, which cites this line); Enciclopedia Dantesca, internarsi"
+            },
+            {
+              "row": "28.1",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "bound, as a book is",
+              "note": "Said of books, *legare* is to sew the sheets together and give them a cover.",
+              "source": "Treccani, Vocabolario, legare¹ (sense 2a)"
+            },
+            {
+              "row": "28.1",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "a book · Latin: a roll",
+              "note": "Latin *volumen*, a thing rolled up, and so a roll of writing, from *volvere*, to turn. Twice in the *Paradiso* Dante uses *volume* for the turning heavens. In *Inferno* 1 it is Virgil’s book, and rhymes with *lume* there too.",
+              "source": "Lewis and Short, A Latin Dictionary, volumen; Treccani, Vocabolario, volume (etymology; senses 3 and 4); Enciclopedia Dantesca, volume (Paradiso 23.112 and 28.14); Inferno 1.80–84 in the hosted text"
+            },
+            {
+              "row": "28.2",
+              "w": [
+                4,
+                5
+              ],
+              "gloss": "lies apart in quires",
+              "note": "From *quaderno*, a quire: four sheets folded and sewn, eight leaves. To *squadernare* a book is to unsew it. Some twenty lines earlier the Sibyl’s oracle is lost on light leaves in the wind.",
+              "source": "Treccani, Vocabolario, squadernare (sense 3) and quaderno (sense 2a); Paradiso 33.64–66 with the Temple Classics note to lines 65–66; Chiavacci Leonardi, note to 33.85–87, sets the two passages together"
+            },
+            {
+              "row": "29.0",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "things that exist in themselves",
+              "source": "Singleton, note to Paradiso 33.88–90; Sapegno and Chiavacci Leonardi, notes to 33.88; all read at the Dartmouth Dante Project"
+            },
+            {
+              "row": "29.0",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "qualities that exist in things",
+              "source": "Singleton, note to Paradiso 33.88–90; Sapegno and Chiavacci Leonardi, notes to 33.88"
+            },
+            {
+              "row": "29.0",
+              "w": [
+                4,
+                5
+              ],
+              "gloss": "how the two are related",
+              "note": "The old commentators took *costume* as natural workings, and Longfellow follows them. Recent ones take it as the relation of substance to accident.",
+              "source": "Sapegno and Chiavacci Leonardi, notes to Paradiso 33.88; Bosco and Reggio, note to 33.88–90"
+            },
+            {
+              "row": "29.1",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "blown together · fused",
+              "note": "Latin *conflare*: to blow together, to kindle a fire, and from that to melt and fuse metals.",
+              "source": "Lewis and Short, A Latin Dictionary, conflo (I and II)"
+            },
+            {
+              "row": "29.2",
+              "w": [
+                6,
+                7
+              ],
+              "gloss": "one single light · mere glimmer",
+              "note": "Latin *simplex*, onefold: *sem-*, one, with a root found in *plicare*, to fold. Longfellow reads *one simple light*. The Treccani dictionary cites this line for the sense *no more than*.",
+              "source": "Treccani, Vocabolario, semplice¹ (etymology; senses 1 and 4a); Singleton and Bosco and Reggio, notes to Paradiso 33.88–90"
+            }
+          ],
+          "caption": "Lines 85 to 87 are in a bookbinder’s words: <b>legato</b>, bound; <b>volume</b>; <b>si squaderna</b>, lies apart in quires. Lines 88 to 90 say it again in the terms of the schools of his day. <b>Sustanze</b> are things that exist in themselves, and <b>accidenti</b> the qualities that exist in them. <b>Conflati</b> is from a Latin verb for melting metals together. The sentence ends on <b>un semplice lume</b>, which is read two ways: the thing he speaks of is one light without parts, or what he says of it is no more than a glimmer. At line 55 he has said that from there on his sight was greater than speech shows.",
+          "why": "Dante says one thing twice, in a bookbinder’s words and then in the terms of the schools, and ends on a phrase read as one light or a bare glimmer; he has said speech falls short of his sight.",
+          "stands": "The Treccani *Vocabolario* under *internare*, *legare*, *volume*, *squadernare*, *quaderno* and *semplice*; Lewis and Short’s Latin dictionary under *volumen* and *conflo*; the *Enciclopedia Dantesca* under *internarsi* and *volume*. Substance, accident and the two readings of the last phrase: the notes of Sapegno, Singleton, Bosco and Reggio, and Chiavacci Leonardi to lines 88–90. In the poem: [line 55](#/read/dante-temple/par-33:18), [the Sibyl’s leaves](#/read/dante-temple/par-33:21) and [Virgil’s volume](#/read/dante-italian/inf-01:27).",
+          "grounds": [
+            {
+              "claim": "the senses and histories of legato, volume, si squaderna, conflati and semplice",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, under legare¹, volume, squadernare, quaderno, semplice¹; Lewis and Short, volumen and conflo"
+            },
+            {
+              "claim": "lines 88 to 90 repeat in the terms of philosophy what lines 85 to 87 say in an image; substance and accident are common terms of scholastic philosophy",
+              "kind": "source",
+              "source": "Bosco and Reggio, note to Paradiso 33.88–90; Chiavacci Leonardi and Sapegno, notes to 33.88; Singleton, note to 33.88–90; all read at the Dartmouth Dante Project"
+            },
+            {
+              "claim": "the two readings of un semplice lume: one simple light; no more than a glimmer of what he saw",
+              "kind": "source",
+              "source": "Longfellow’s line on the plate and Wicksteed’s prose (dante-temple/par-33, block 29); Treccani, Vocabolario, semplice¹ (senses 1 and 4a); Singleton and Bosco and Reggio, notes to Paradiso 33.88–90"
+            },
+            {
+              "claim": "the sentence ends on un semplice lume",
+              "kind": "text",
+              "source": "row 29.2 (line 90)"
+            },
+            {
+              "claim": "from that point his sight was greater than speech shows",
+              "kind": "text",
+              "source": "Paradiso 33.55–57 (dante-italian/par-33, block 18)"
+            }
+          ]
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "27.0": "a",
+            "27.1": "b",
+            "27.2": "a",
+            "28.0": "b",
+            "28.1": "c",
+            "28.2": "b",
+            "29.0": "c",
+            "29.1": "d",
+            "29.2": "c"
+          },
+          "tails": {
+            "27.0": 4,
+            "27.1": 4,
+            "27.2": 4,
+            "28.0": 4,
+            "28.1": 3,
+            "28.2": 4,
+            "29.0": 3,
+            "29.1": 3,
+            "29.2": 3
+          },
+          "threads": [
+            {
+              "sound": "lume",
+              "at": [
+                [
+                  "28.1",
+                  5,
+                  2,
+                  4
+                ],
+                [
+                  "29.2",
+                  7,
+                  0,
+                  4
+                ]
+              ]
+            }
+          ],
+          "caption": "Line 83 ends on <b>etterna</b>, eternal. In terza rima, the chained rhyme of this poem, its sound must come back twice, and the two words that bring it are verbs of opposite sense: <b>s’interna</b>, is held deep within, and <b>si squaderna</b>, lies apart in quires. One subject has both verbs. So the rhyme, which makes the end of a line stand out, sets there the gathered and the scattered state of the same things. The line between them ends on <b>volume</b>, and <b>lume</b>, light, the same word without its first two letters, answers it. Six times in the poem a line ends on the word for volume, and each time the word for light rhymes with it.",
+          "why": "The chain’s rhyme sets at two line ends the verbs for being held within and for lying apart, said of the same things; the next rhyme has lume, light, inside volume, and the poem pairs the two every time.",
+          "stands": "The marks on the passage, and lines 85 to 87. The chain’s rule: the Treccani *Vocabolario* under *terzina*; the two verbs, under *internare* and *squadernare*. That rhyme underlines a line’s end: the *Enciclopedia dell’Italiano* under *rima*, and Baum, *The Principles of English Versification*, chapter 3. Counted in the Italian printed here: lines ending on the word for volume (*Inferno* 1.84; *Paradiso* 15.50, 23.112, 26.119, 28.14, 33.86).",
+          "grounds": [
+            {
+              "claim": "which lines rhyme; the four letters that volume and lume share",
+              "kind": "plate"
+            },
+            {
+              "claim": "the middle line of a tercet gives the rhyme to the first and third lines of the next",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, terzina"
+            },
+            {
+              "claim": "s’interna: is contained within; si squaderna: is divided and scattered like the unsewn sheets of a book; the dictionary sets the two against each other in glossing these lines",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, internare (sense 2a) and squadernare (sense 3)"
+            },
+            {
+              "claim": "one subject for both verbs: what is scattered is what is gathered",
+              "kind": "text",
+              "source": "rows 28.0 to 28.2 (lines 85 to 87)"
+            },
+            {
+              "claim": "the return of the rhyme at the end of the line underlines the close of the line; the likeness of sound between rhyme words also sets up a relation of sense between them",
+              "kind": "source",
+              "source": "Treccani, Enciclopedia dell’Italiano (2011), rima, by Claudio Ciociola, section 3 (Funzioni), added by the examiner as the Italian authority; Paull F. Baum, The Principles of English Versification (1922), chapter 3, on the line (in rhymed verse the end of the line is emphasized)"
+            },
+            {
+              "claim": "the word for volume, singular or plural, ends a line six times in the poem, and each time the word for light rhymes with it",
+              "kind": "text",
+              "source": "counted in the hosted Italian, dante-italian: Inferno 1.84; Paradiso 15.50, 23.112, 26.119, 28.14, 33.86 (the examiner’s count, exam.md section 7; counted again by the lead on 3 October 2026)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "end",
+      "heading": "The end of the poem: lines 139 to 145",
+      "label": "Dante",
+      "text": "dante-italian/par-33",
+      "rows": [
+        "46.0-48.0"
+      ],
+      "pair": {
+        "label": "Longfellow, 1867",
+        "text": "dante-longfellow/par-33",
+        "rows": [
+          "46.0-48.0"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "46.0",
+                1
+              ],
+              "to": [
+                "46.0",
+                4
+              ],
+              "tag": "verb",
+              "label": "verbs: were not enough for this"
+            },
+            {
+              "from": [
+                "46.0",
+                5
+              ],
+              "to": [
+                "46.0",
+                7
+              ],
+              "tag": "subject",
+              "label": "subjects: my own wings"
+            },
+            {
+              "from": [
+                "46.1",
+                3
+              ],
+              "to": [
+                "46.1",
+                5
+              ],
+              "tag": "subject",
+              "label": "my mind"
+            },
+            {
+              "from": [
+                "46.1",
+                6
+              ],
+              "to": [
+                "46.1",
+                7
+              ],
+              "tag": "verb",
+              "label": "was struck"
+            },
+            {
+              "from": [
+                "46.2",
+                0
+              ],
+              "to": [
+                "46.2",
+                2
+              ],
+              "tag": "agent",
+              "label": "by a flash"
+            },
+            {
+              "from": [
+                "46.2",
+                5
+              ],
+              "to": [
+                "46.2",
+                6
+              ],
+              "tag": "subject",
+              "label": "its wish"
+            },
+            {
+              "from": [
+                "46.2",
+                7
+              ],
+              "to": [
+                "46.2",
+                7
+              ],
+              "tag": "verb",
+              "label": "came"
+            },
+            {
+              "from": [
+                "47.0",
+                4
+              ],
+              "to": [
+                "47.0",
+                4
+              ],
+              "tag": "verb",
+              "label": "failed"
+            },
+            {
+              "from": [
+                "47.0",
+                5
+              ],
+              "to": [
+                "47.0",
+                5
+              ],
+              "tag": "subject",
+              "label": "power"
+            },
+            {
+              "from": [
+                "47.1",
+                2
+              ],
+              "to": [
+                "47.1",
+                2
+              ],
+              "tag": "verb",
+              "label": "was turning"
+            },
+            {
+              "from": [
+                "47.1",
+                3
+              ],
+              "to": [
+                "47.1",
+                8
+              ],
+              "tag": "object",
+              "label": "what is turned: desire and will"
+            },
+            {
+              "from": [
+                "47.2",
+                0
+              ],
+              "to": [
+                "47.2",
+                5
+              ],
+              "tag": "comparison",
+              "label": "like a wheel evenly moved"
+            },
+            {
+              "from": [
+                "48.0",
+                0
+              ],
+              "to": [
+                "48.0",
+                0
+              ],
+              "tag": "subject",
+              "label": "and last, the love"
+            },
+            {
+              "from": [
+                "48.0",
+                1
+              ],
+              "to": [
+                "48.0",
+                7
+              ],
+              "tag": "subject",
+              "label": "that moves sun and stars"
+            }
+          ],
+          "caption": "The last three lines make one statement, and its subject comes last. First the verb, <b>volgeva</b>, was turning; then what is turned, my desire and my will; then a wheel that is evenly moved. Only the last line names what turns them: <b>l’amor</b>, love. A sentence that holds back what completes its sense is called periodic; here that is the subject. In all seven lines no verb has Dante for its subject: his wings are not enough, his mind is struck, power fails. Auden gave the <i>Comedy</i> as his example of a quest in which the vision is given by grace and reached by no act of the dreamer.",
+          "why": "Dante keeps the subject of the last statement, love, for the last line. In all seven lines no verb has him for its subject, and Auden says such a vision is reached by no act of the dreamer.",
+          "stands": "The marks on the passage, and the seven lines themselves. That the subject of the last statement is held for the last line: Singleton’s note to line 143. The periodic sentence as *Silva Rhetoricae* defines it, under *period*. Auden: “K.’s Quest,” in *The Kafka Problem*, pp. 47–48.",
+          "grounds": [
+            {
+              "claim": "the order of the last statement: verb, object, comparison, and the subject last; the subject and verb of each earlier clause",
+              "kind": "plate"
+            },
+            {
+              "claim": "the subject of volgeva is withheld until the final line, where it is love; desire and will are its objects",
+              "kind": "source",
+              "source": "Singleton, note to Paradiso 33.143 (1970–75); Bosco and Reggio and Chiavacci Leonardi, notes to 33.143–145; all read at the Dartmouth Dante Project; Longfellow’s lines on the plate keep the order"
+            },
+            {
+              "claim": "the periodic sentence: the completion of sense is suspended until the end",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), period; and anastrophe, for the verb set before its subject"
+            },
+            {
+              "claim": "no verb in these seven lines has Dante as its subject: the subjects are his wings, his mind, its wish, power, love, and a wheel",
+              "kind": "text",
+              "source": "rows 46.0 to 48.0 (lines 139 to 145)"
+            },
+            {
+              "claim": "the vision is given by grace and is earned by nothing the dreamer does; the Comedy is the example (the sentence quoted below)",
+              "kind": "auden",
+              "source": "“K.’s Quest,” in The Kafka Problem, edited by Angel Flores (1946), pp. 47–48"
+            }
+          ]
+        },
+        {
+          "kind": "beat",
+          "label": "Measure",
+          "meterName": "eleven syllables: the last accent always on the tenth and, as a rule, another on the fourth or the sixth",
+          "scan": {
+            "46.0": {
+              "meter": "...../.../.",
+              "voice": "x x /x x / x /x /x",
+              "div": {
+                "4": "ciò",
+                "6": "pro|prie",
+                "7": "pen|ne:"
+              }
+            },
+            "46.1": {
+              "meter": "...../.../.",
+              "voice": "x x / x x /x x x/x",
+              "div": {
+                "4": "mia",
+                "5": "men|te"
+              }
+            },
+            "46.2": {
+              "meter": ".../...../.",
+              "voice": "x x x/~ x x x /x /x",
+              "div": {
+                "2": "ful|go|re",
+                "5": "sua",
+                "6": "vo|glia",
+                "7": "ven|ne."
+              }
+            },
+            "47.0": {
+              "meter": "...../.../.",
+              "voice": "x /x xx/ / x/ /x",
+              "div": {
+                "2": "fan|ta|sia"
+              }
+            },
+            "47.1": {
+              "meter": ".../...../.",
+              "voice": "x / x/~ x x x/~ x ~ /x",
+              "div": {
+                "1": "già",
+                "4": "mio"
+              }
+            },
+            "47.2": {
+              "meter": ".../...../.",
+              "voice": "x /x /x xx/~ x /x",
+              "div": {
+                "1": "co|me",
+                "3": "ch’i|gual|men|te"
+              }
+            },
+            "48.0": {
+              "meter": "...../.../.",
+              "voice": "x/ x /~ x /~ x /x /x",
+              "div": {
+                "2": "mo|ve",
+                "4": "so|le",
+                "6": "l’al|tre"
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "47.0",
+                2,
+                3
+              ],
+              "say": "The last syllable of *fantasia* is the sixth of the line, and stressed. *Qui*, here, is the seventh, and can be heard stressed too: two more stresses together, at the middle of the line."
+            },
+            {
+              "at": [
+                "47.0",
+                4,
+                5
+              ],
+              "say": "The last syllable of *mancò* and the first of *possa* are both stressed: the ninth and tenth of the line, with nothing unstressed between them."
+            },
+            {
+              "at": [
+                "48.0",
+                0,
+                7
+              ],
+              "say": "Stress on syllables 2, 4, 6, 8 and 10. Twice a final vowel runs into the vowel that begins the next word, and a small arc ties the two. So thirteen written syllables count as eleven."
+            }
+          ],
+          "caption": "Dante’s line has eleven syllables. The last accent always falls on the tenth and, as a rule, another on the fourth or the sixth. In Italian, stresses tend to fall on every second syllable, and verse tends to avoid two side by side. The last line keeps that pattern exactly. Line 142 ends on two stresses together: <b>mancò possa</b>, failed and power, its ninth syllable and its tenth. A stress on the ninth, a study of Dante’s verse says, strikes against the tenth and brings out the word it falls on. Here that word is <i>mancò</i>: power, the line says, failed his high fantasy, the faculty that receives images.",
+          "why": "The line that says power failed ends on two stresses together, which Italian verse tends to avoid; a stress on the ninth brings out its word, here failed. The last line returns to a stress on every second syllable.",
+          "stands": "The marks on the passage: the stresses as one reader hears them, by the rules of the Italian line (*Enciclopedia dell’Italiano* and Treccani *Vocabolario*, under *endecasillabo*). Where stresses tend to fall: Luca Zuliani, “Sulla cesura dell’endecasillabo,” p. 173; Bruno Germano, *Il solfeggio dei versi*, p. 24. A stress on the ninth: *Enciclopedia Dantesca*, under *endecasillabo*, section 6. Fantasy as the faculty that receives images: Singleton’s note to line 142.",
+          "grounds": [
+            {
+              "claim": "where the stresses fall in each of the seven lines",
+              "kind": "plate"
+            },
+            {
+              "claim": "the Italian eleven-syllable line: a fixed stress on the tenth syllable and, in the prevailing type, a main stress on the fourth or the sixth; a final vowel and the vowel that begins the next word count as one syllable",
+              "kind": "source",
+              "source": "Treccani, Enciclopedia dell’Italiano (2010), endecasillabo; Treccani, Vocabolario, endecasillabo, sinalefe and dialefe"
+            },
+            {
+              "claim": "in Italian prosody stresses tend to fall every two syllables",
+              "kind": "source",
+              "source": "Luca Zuliani, “Sulla cesura dell’endecasillabo” (2021), p. 173"
+            },
+            {
+              "claim": "two stresses in a row are met in the line, but the tendency is to avoid them",
+              "kind": "source",
+              "source": "Bruno Germano, Il solfeggio dei versi: appunti di prosodia (Fondazione Natalino Sapegno, 2018), p. 24"
+            },
+            {
+              "claim": "a secondary accent on the ninth syllable, when it is prominent, strikes against that of the tenth and brings out the word it falls on; in general a strong accent right before or right after a main accent often gives the line a labored intensity and brings out the word that bears it",
+              "kind": "source",
+              "source": "Enciclopedia Dantesca (1970), endecasillabo, by Ignazio Baldelli, section 6. Line 142 is not among its examples: that the remark holds of this line is the page’s own application. (Examiner: this replaces a ground taken from Baum’s handbook of English verse, chapter 5, that stresses which fall together slow a line.)"
+            },
+            {
+              "claim": "the ninth syllable of line 142 is the last of mancò, a verb accented on its ending, so the word brought out is failed",
+              "kind": "plate"
+            },
+            {
+              "claim": "line 142 says that here power failed the high fantasy; fantasy is the faculty that receives images, so the line says he has reached the limit of what he can see",
+              "kind": "text",
+              "source": "row 47.0; Singleton, note to Paradiso 33.142 (an image-receiving faculty, not an image-making one), and Chiavacci Leonardi, note to 33.142, both read at the Dartmouth Dante Project; Enciclopedia Dantesca, possa and fantasia"
+            }
+          ]
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "46.0": "a",
+            "46.1": "b",
+            "46.2": "a",
+            "47.0": "b",
+            "47.1": "c",
+            "47.2": "b",
+            "48.0": "c"
+          },
+          "tails": {
+            "46.0": 4,
+            "46.1": 4,
+            "46.2": 4,
+            "47.0": 4,
+            "47.1": 4,
+            "47.2": 4,
+            "48.0": 4
+          },
+          "threads": [
+            {
+              "sound": "mo",
+              "at": [
+                [
+                  "47.2",
+                  5,
+                  0,
+                  2
+                ],
+                [
+                  "48.0",
+                  2,
+                  0,
+                  2
+                ]
+              ]
+            }
+          ],
+          "caption": "In terza rima the middle line of each group of three gives the rhyme to the next group. So the chain cannot end on a group: its middle line would have no answer. Every canto ends on one line more. The word left waiting is <b>velle</b>, Latin for <i>to will</i>, used as a noun: his will. The line that answers it ends the poem on <b>stelle</b>, stars. The poem has <i>velle</i> twice, both times rhymed with <i>stelle</i>. <b>Mossa</b>, moved, the rhyme word before, returns in the last line as <b>move</b>, moves, the word that ends the first line of the <i>Paradiso</i>. Auden wrote that the poem’s structure fixes even the number of its lines; the rhyme scheme requires this one.",
+          "why": "The middle rhyme of the last group of three needs one more line, so the form requires line 145; velle, his will, is answered by stelle, the stars, and the last line’s verb ends the Paradiso’s first line too.",
+          "stands": "The marks on the passage; the closing line of the chain: the Treccani *Vocabolario* under *terzina*. *Velle* and *move*: the same dictionary under *velle* and *muovere*, and the *Enciclopedia Dantesca* under *velle*. Counted in the Italian printed here: every canto has a multiple of three lines, plus one; *velle* comes twice, here and in [canto 4](#/read/dante-italian/par-04:8); *move* ends the first line of [canto 1](#/read/dante-italian/par-01:0). Auden: *Forewords and Afterwords*, p. 269.",
+          "grounds": [
+            {
+              "claim": "which lines rhyme; the same two letters open mossa and move",
+              "kind": "plate"
+            },
+            {
+              "claim": "the series of tercets closes with one line that rhymes with the middle line of the last tercet",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, terzina"
+            },
+            {
+              "claim": "every one of the hundred cantos is a run of three-line groups and one closing line",
+              "kind": "source",
+              "source": "counted in this session from the hosted Italian text, dante-italian"
+            },
+            {
+              "claim": "velle is the Latin infinitive to will, used as a noun for the will; it comes twice in the poem, both times in rhyme with stelle",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, velle; Enciclopedia Dantesca, velle; counted in the hosted Italian (Paradiso 4.25 and 33.143)"
+            },
+            {
+              "claim": "mossa and move are forms of one verb, muovere, to move",
+              "kind": "source",
+              "source": "Treccani, Vocabolario, muovere"
+            },
+            {
+              "claim": "the first line of the Paradiso ends on move, the verb of the poem’s last line",
+              "kind": "text",
+              "source": "hosted Italian, dante-italian par-01, line 1 (the examiner’s finding, exam.md section 7; checked again by the lead on 3 October 2026)"
+            },
+            {
+              "claim": "the structure of the poem settles even how many lines there are",
+              "kind": "auden",
+              "source": "“George Macdonald” (1954), in Forewords and Afterwords (1973), p. 269"
+            }
+          ]
+        },
+        {
+          "kind": "shape",
+          "label": "Whole",
+          "what": "the hundred cantos of the Comedy: how many lines each has, how every canto ends, and the last word of each of the three parts",
+          "facts": {
+            "counted": "Every number here is counted with a script from the hosted Italian text (dante-italian, Project Gutenberg no. 1012). A line is one line of verse; headings are not counted.",
+            "cantos": 100,
+            "lines": 14233,
+            "plan": "1 + 33 + 33 + 33: the Inferno has 34 cantos, and its first canto introduces the whole poem (Encyclopaedia Britannica, The Divine Comedy)",
+            "parts": [
+              {
+                "name": "Inferno",
+                "cantos": 34,
+                "lines": 4720,
+                "linesPerCanto": [
+                  136,
+                  142,
+                  136,
+                  151,
+                  142,
+                  115,
+                  130,
+                  130,
+                  133,
+                  136,
+                  115,
+                  139,
+                  151,
+                  142,
+                  124,
+                  136,
+                  136,
+                  136,
+                  133,
+                  130,
+                  139,
+                  151,
+                  148,
+                  151,
+                  151,
+                  142,
+                  136,
+                  142,
+                  139,
+                  148,
+                  145,
+                  139,
+                  157,
+                  139
+                ],
+                "lastCanto": 34,
+                "lastLine": 139,
+                "lastWord": "stelle",
+                "lastLineSays": "they come out and see the stars again"
+              },
+              {
+                "name": "Purgatorio",
+                "cantos": 33,
+                "lines": 4755,
+                "linesPerCanto": [
+                  136,
+                  133,
+                  145,
+                  139,
+                  136,
+                  151,
+                  136,
+                  139,
+                  145,
+                  139,
+                  142,
+                  136,
+                  154,
+                  151,
+                  145,
+                  145,
+                  139,
+                  145,
+                  145,
+                  151,
+                  136,
+                  154,
+                  133,
+                  154,
+                  139,
+                  148,
+                  142,
+                  148,
+                  154,
+                  145,
+                  145,
+                  160,
+                  145
+                ],
+                "lastCanto": 33,
+                "lastLine": 145,
+                "lastWord": "stelle",
+                "lastLineSays": "he is pure and ready to rise to the stars"
+              },
+              {
+                "name": "Paradiso",
+                "cantos": 33,
+                "lines": 4758,
+                "linesPerCanto": [
+                  142,
+                  148,
+                  130,
+                  142,
+                  139,
+                  142,
+                  148,
+                  148,
+                  142,
+                  148,
+                  139,
+                  145,
+                  142,
+                  139,
+                  148,
+                  154,
+                  142,
+                  136,
+                  148,
+                  148,
+                  142,
+                  154,
+                  139,
+                  154,
+                  139,
+                  142,
+                  148,
+                  139,
+                  145,
+                  148,
+                  142,
+                  151,
+                  145
+                ],
+                "lastCanto": 33,
+                "lastLine": 145,
+                "lastWord": "stelle",
+                "lastLineSays": "the love that moves sun and stars"
+              }
+            ],
+            "cantoShape": "all 100 cantos are built this way: groups of three lines, then one closing line",
+            "everyCantoIsTercetsPlusOne": true,
+            "shortest": {
+              "lines": 115,
+              "cantos": [
+                "Inferno 6",
+                "Inferno 11"
+              ]
+            },
+            "longest": {
+              "lines": 160,
+              "cantos": [
+                "Purgatorio 32"
+              ]
+            },
+            "howManyCantosOfEachLength": {
+              "115": 2,
+              "124": 1,
+              "130": 4,
+              "133": 4,
+              "136": 13,
+              "139": 16,
+              "142": 16,
+              "145": 13,
+              "148": 13,
+              "151": 9,
+              "154": 7,
+              "157": 1,
+              "160": 1
+            },
+            "thisCanto": {
+              "name": "Paradiso 33",
+              "lines": 145,
+              "groupsOfThree": 48,
+              "closingLine": 1,
+              "rhymeSounds": 49,
+              "note": "the first rhyme sound and the last have two words each; the 47 between have three"
+            },
+            "passage": {
+              "firstLine": 139,
+              "lastLine": 145
+            },
+            "stelle": "the last word of all three parts; the lines are Inferno 34.139, Purgatorio 33.145 and Paradiso 33.145",
+            "velle": "twice in the poem, Paradiso 4.25 and 33.143, both times rhymed with stelle",
+            "move": "the first line of the Paradiso ends on move, moves; its last line has move as its verb",
+            "purgatorioEnd": "Purgatorio 33.136–141: Dante tells the reader he would sing more if he had room, but the pages laid out for this second part are full, and the curb of art lets him go no further"
+          },
+          "caption": "The <i>Comedy</i> has 100 cantos: one to open the whole and 33 for each of three parts. Every canto is a chain of three-line groups closed by a single line. The parts run to 4,720, 4,755 and 4,758 lines. Auden speaks of a mathematical structure that fixes even the number of lines. At the end of the <i>Purgatorio</i> Dante says the pages laid out for that part are full, and the curb of art lets him go no further. Each part ends on <b>stelle</b>, stars: the <i>Inferno</i> on seeing them again, the <i>Purgatorio</i> on being ready to rise to them, the <i>Paradiso</i> on the love that moves them.",
+          "why": "Each canto and the whole poem are built as threes with one over, and the three nearly equal parts end on one word; Auden speaks of a mathematical structure that fixes even the number of lines.",
+          "stands": "A count of the cantos and lines of [the Italian printed here](#/read/dante-italian): a line is one line of verse, and headings are not counted. One canto and three times 33: the *Encyclopaedia Britannica* under *The Divine Comedy*. Dante on his pages: [the end of the *Purgatorio*](#/read/dante-temple/pur-33:45); the last lines of the [*Inferno*](#/read/dante-italian/inf-34:46), the [*Purgatorio*](#/read/dante-italian/pur-33:48) and the *Paradiso*. Auden: *Forewords and Afterwords*, p. 269.",
+          "grounds": [
+            {
+              "claim": "the number of cantos and of lines, the shape of every canto, the last word of each part",
+              "kind": "source",
+              "source": "counted in this session from the hosted Italian text, dante-italian (Project Gutenberg no. 1012)"
+            },
+            {
+              "claim": "33 cantos to each part and one more, in the Inferno, that introduces the whole",
+              "kind": "source",
+              "source": "Encyclopaedia Britannica, The Divine Comedy"
+            },
+            {
+              "claim": "the structure of the poem settles even how many lines there are",
+              "kind": "auden",
+              "source": "“George Macdonald” (1954), in Forewords and Afterwords (1973), p. 269"
+            },
+            {
+              "claim": "the pages laid out for the second part are full, and the curb of art lets him go no further",
+              "kind": "text",
+              "source": "Purgatorio 33.136–141 (dante-italian/pur-33, blocks 45 and 46)"
+            },
+            {
+              "claim": "what the last line of each part says of the stars",
+              "kind": "text",
+              "source": "Inferno 34.139, Purgatorio 33.145, Paradiso 33.145 (the last block of dante-italian/inf-34, pur-33 and par-33)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In an essay on Kafka, Auden sorts the quests of literature into kinds and gives the *Comedy* as his example of the Dream Quest. The journey is after no object. It seeks knowledge of the spirit, a sight of what is real behind what appears, and the dreamer, awake again, can from then on live his earthly life. The dreamer stands for everyman. Seeing will not of itself change him, Auden adds, but one who has seen and stays the same has more to answer for than those who never saw.",
+      "quote": "it is not by any act or virtue of his that he attains this vision, for the vision is a gift of Divine Grace",
+      "source": "“K.’s Quest,” in *The Kafka Problem*, edited by Angel Flores (New York: New Directions, 1946), pp. 47–48",
+      "checked": "the passage is copied in remake/research/C_auden_on_works.md, section 1 and appendix H12. In this session its sentences were also read, a snippet at a time, in the Internet Archive's full-text search of the 1946 edition (item kafkaproblem0000ange). The scan is restricted and the page was not seen whole. Examiner: each sentence found again in the same search extracts (the heading of the kind, its example, the purpose of the journey, the dreamer on waking, the sentence quoted, the sentence on responsibility); a page marker 48 stands just before the quoted sentence in the extract, so the passage runs over pp. 47 and 48."
+    },
+    {
+      "says": "In *New Year Letter*, published in the spring of 1941, before the course, Auden imagines himself on trial before a court of dead poets, and the judge who presides over his case is Dante. He draws him as a gaunt, weathered explorer who ruined his worldly prospects and gave his whole self, feeling, senses, will and thinking, to what lies beyond nature. With rational love for a guide he crossed Hell, Purgatory and Heaven, and he saw, exactly and in detail, all that surrounds and sustains the soul.",
+      "source": "*New Year Letter* (1941), Part 1; in *The Collected Poetry of W. H. Auden* (1945), pp. 269–70",
+      "checked": "the lines are copied in remake/research/C_auden_on_works.md (section 1, and the appendix entry on New Year Letter, Part I, the tribunal of poets); I did not see them in a scan. Examiner: read in the text of The Collected Poetry of W. H. Auden (1945) at the Internet Archive; in that text the page number stands at the foot of its page, and the lines on Dante begin on the page numbered 269 and end on 270"
+    },
+    {
+      "says": "Donald Pearce, who took the course in 1941, describes the final examination. Auden told the class they would write out, from memory, seven of the *Comedy*’s cantos in the prose of Carlyle and Wicksteed, the version, he said, that Eliot used in *The Waste Land*. The list began with *Inferno* 3 and 5 and finished with this canto. When a committee of students called the task impossible he cut seven to five. Pearce says the last canto took him one afternoon to learn, and that in the examination he wrote without a stop for the full three hours. Others in the class remembered the number of cantos as six.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 153–54; for the six cantos, Charles H. Miller, *Auden: An American Friendship* (1983), pp. 26–27 and 77–78",
+      "checked": "read in the scan of Pearce's essay, research/auden/pearce.txt: the announcement ends on the page whose foot is numbered 153, and the learning of this canto and the examination follow on the next page. The other witnesses are set side by side in remake/research/A_michigan_course.md, section 3.1. Examiner: Pearce read again at the same place; Miller's two sentences about six cantos (his own account of the first class, and Angelyn Stevens as he quotes her) seen in search extracts of the scanned book at the Internet Archive (item audenamericanfri00mill); his page numbers are those of the research note, which had the scan"
+    },
+    {
+      "says": "Auden did not accept that poetry is simply what cannot be translated. What the words sound like, how they move, and whatever meaning hangs on sound, a rhyme or a pun, cannot be carried over. Pictures and comparisons taken from what the senses know can be, in part, and so can a poet’s own way of seeing the world. His test: put a poem of Goethe’s and one of Hölderlin’s into literal prose, and a reader can still tell that two different men wrote them.",
+      "source": "“Writing,” in *The Dyer’s Hand* (1962), pp. 23–24",
+      "checked": "read in the scan of The Dyer's Hand, research/auden/dh.txt, lines 1470-1496 (the head of page 24 stands at line 1488)"
+    }
+  ],
+  "next": "dante-temple/par-33:0",
+  "sources": [
+    "The text printed here: Dante Alighieri, *La Divina Commedia*, [the Italian](#/read/dante-italian) as Project Gutenberg prints it (no. 1012). Beside it, [the translation of Henry Wadsworth Longfellow](#/read/dante-longfellow) (1867; Project Gutenberg, no. 1004) and [the prose *Paradiso* of Philip H. Wicksteed](#/read/dante-temple) in the Temple Classics (London: J. M. Dent, 1899; here from the printing of 1910), a book that sets the Italian facing the English.",
+    "W. H. Auden, *Forewords and Afterwords* (1973): Introduction to *The Protestant Mystics* (1964), p. 68; “George Macdonald” (1954), p. 269.",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Writing,” pp. 23–24.",
+    "W. H. Auden, “K.’s Quest,” in *The Kafka Problem*, edited by Angel Flores (New York: New Directions, 1946), pp. 47–48 (not seen in full: read in search extracts of a scanned copy).",
+    "W. H. Auden, *New Year Letter* (1941), Part 1; in *The Collected Poetry of W. H. Auden* (1945), pp. 269–70.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 153–54: a student’s account of the final examination of the 1941 course.",
+    "Charles H. Miller, *Auden: An American Friendship* (1983), pp. 26–27 and 77–78: two members of the class who remembered six cantos (not seen in full).",
+    "Treccani, *Vocabolario* on line (treccani.it), under *terzina*, *endecasillabo*, *sinalefe*, *dialefe*, *sineresi*, *fattura*, *fattore*, *fare*, *germinare*, *internare*, *legare*, *volume*, *quaderno*, *squadernare*, *conflato*, *semplice*, *velle* and *muovere*.",
+    "*Enciclopedia dell’Italiano* (Treccani, 2010–11): *endecasillabo* and *rima*, both by Claudio Ciociola.",
+    "*Enciclopedia Dantesca* (1970), at treccani.it: *endecasillabo*, by Ignazio Baldelli, section 6; *fattura*, *internarsi*, *volume*, *squadernarsi*, *velle*, *possa* and *fantasia*.",
+    "Charlton T. Lewis and Charles Short, *A Latin Dictionary* (1879), at the Perseus Digital Library: *volumen* and *conflo*.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu): paradox, metaphor, period and anastrophe.",
+    "Paull F. Baum, *The Principles of English Versification* (1922), chapter 3, on rhyme and the end of the line.",
+    "Bruno Germano, *Il solfeggio dei versi: appunti di prosodia* (Fondazione Natalino Sapegno, 2018), pp. 24 and 27.",
+    "Luca Zuliani, “Sulla cesura dell’endecasillabo,” in *Interruzioni e cesure*, edited by Raffaele Donnarumma and Francesca Romoli (Pisa University Press, 2021), pp. 165–76, at p. 173.",
+    "*Encyclopaedia Britannica* online: “The Divine Comedy” and “terza rima.”",
+    "Notes to *Paradiso* 33, read at the Dartmouth Dante Project (dante.dartmouth.edu): Hermann Oelsner for the Temple Classics (1899), Natalino Sapegno (1955–57), Charles S. Singleton (1970–75), Umberto Bosco and Giovanni Reggio (1979), Anna Maria Chiavacci Leonardi (1991–97) and Robert Hollander (2000–07)."
+  ],
+  "caveats": [
+    "The stresses are marked as one reader hears them, by the rules of the Italian line. A few syllables in lines 139 to 144 can be heard or counted another way. The captions lean only on the ninth and tenth syllables of line 142 and on the last line.",
+    "What a stress on the ninth syllable does is a general remark about Dante’s line in the *Enciclopedia Dantesca*. Line 142 is not among its examples: that the remark holds there is this page’s own application. No commentary read for this page marks the stresses of these lines.",
+    "Three meanings are disputed. The last phrase of line 90 is read as one simple light or as a mere glimmer. What *disio* and *velle* each name in line 143 is debated; here they are only desire and will. That *s’interna* also means *is threefold* is rejected by some commentators.",
+    "Auden’s remark is general: the poem’s structure, he says, dictates even the number of verses. That the closing line of each canto and the line counts are cases of it is this page’s reading. His essay “K.’s Quest” was read only in search extracts of a scanned copy.",
+    "That seven cantos were cut to five is one student’s memory, printed more than forty years later. Two others in the class remembered six. Only Pearce names this canto and the prose version."
+  ],
+  "open": [
+    "The scansion of lines 139 to 145 is mine, made by the rules for the Italian eleven-syllable line. I found no commentary that scans these lines or remarks on the two stresses at the end of line 142.",
+    "Four syllables can be heard another way: the first stress of line 140 on its second syllable in place of the third; in line 141 the hiatus set between da and un (the hosted text prints no diaeresis on sua, and Dante counts da and un apart in Inferno 13.32); qui in line 142 without stress; sì in line 144 with stress. The captions lean only on the ninth and tenth syllables of line 142 and on the last line.",
+    "That stresses side by side slow a line is taken from a handbook of English verse. The Italian sources say only that stresses tend to fall every two syllables and that verse tends to avoid two in a row; one adds that a stress next to another carries emphasis. (Examiner: mended. The caption no longer says that meeting stresses slow the line. It gives what the Enciclopedia Dantesca says under endecasillabo, section 6: a prominent stress on the ninth strikes against the tenth and brings out its word. Line 142 is not among that article’s examples; the application is the page’s own, and a caveat says so.)",
+    "“K.’s Quest” was read in the research notes and in search snippets of a restricted scan; the page was not seen whole. The lines of New Year Letter on Dante were read only in the research notes. (Examiner: the lines of New Year Letter have now been read in the text of the 1945 Collected Poetry, pp. 269–70. “K.’s Quest” is still known only from search extracts of the restricted scan, and a caveat says so; a page marker 48 in the extract stands just before the quoted sentence.)",
+    "The scan of Forewords and Afterwords drops most punctuation. The quotation in the view keeps the scan’s one comma and sets in lower case a word the scan prints in capitals.",
+    "Un semplice lume (line 90) is read two ways. Longfellow and Wicksteed take it as one simple light; the Treccani dictionary and the recent commentaries take it as a mere glimmer of what he saw. The captions give both.",
+    "S’interna (line 85): that the word also means to be threefold is a reading of some commentators which others reject. It is given in a note as a possibility only.",
+    "The Italian commentaries call the three pairs of lines 1 and 2 antitheses. Paradox is my choice of English term for them; it fits the definition, and one commentary in English calls them paradoxical expressions.",
+    "What disio and velle each mean in line 143 is disputed among the commentaries. The reading gives them only as desire and will.",
+    "Auden’s remark on a structure that fixes the number of verses is general. That the single closing line of each canto and the line counts are instances of it is my application, not his.",
+    "How many cantos the class learned differs with the witness: six in most accounts, seven cut to five in Pearce, eight in another. Only Pearce names this canto and the prose version.",
+    "The volume in which Zuliani’s article appeared is known to me only from a search result; the page was read in a PDF of the article. (Examiner: settled. The contents page of the volume itself, Interruzioni e cesure, edited by Raffaele Donnarumma and Francesca Romoli, Pisa University Press, 2021, has Zuliani’s essay at p. 165 and the next at p. 177.)",
+    "Examiner: the Encyclopaedia Britannica articles (The Divine Comedy; terza rima) would not open from here and were read in copies kept by the Wayback Machine.",
+    "Examiner: Charles H. Miller’s book was seen only in search extracts of the scanned copy at the Internet Archive (the two sentences about six cantos). Its page numbers, 26–27 and 77–78, are those of the project’s note on the course, which had the scan.",
+    "Examiner: the read-on link goes to the opening of canto 33 in the Temple prose, not to canto 1 of the Paradiso. Left as the poet set it: it is the canto the piece is about and the one the class learned by heart.",
+    "Examiner: the Italian printed here (Project Gutenberg no. 1012) does not say which edition it follows. The scansion of line 141 depends on its printing sua without a diaeresis; an edition that marks one would count the line another way, with the same eleven syllables.",
+    "Examiner: three changes go beyond wording and the lead may want to look at them. The sentence that called fattura the maker’s word with the creature’s ending was cut as invented (first passage, Rhyme). The reason given for the two stresses at the end of line 142 now stands on the Enciclopedia Dantesca in place of a handbook of English verse (third passage, Beat). The meter is written as a count, so the key under the Beat tab no longer speaks of beats and off-beats."
+  ]
+}

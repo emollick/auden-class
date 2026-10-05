@@ -1,0 +1,1614 @@
+{
+ "piece": "dutchman",
+ "title": "Senta’s ballad",
+ "where": "*The Flying Dutchman*, Act 2, Scene 1, with lines from Acts 1, 2 and 3",
+ "about": "Senta is the daughter of Daland, a Norwegian sea captain. At home, among girls who sit spinning, she looks at a picture of a pale man in black and sings them the ballad of the Flying Dutchman, which she has often heard from her nurse, Mary. The Dutchman is a captain damned to sail without end; every seven years he may land to seek a wife. Her father has just met him on the coast and promised him his daughter.",
+ "view": {
+  "says": "Auden left no account of this opera alone. He called Nietzsche the best guide to Wagner. Nietzsche, he wrote, saw one theme return in one opera after another: someone wants to be saved. Here, as Nietzsche has it, marriage saves even the Wandering Jew and settles him down. Auden’s own Wagner, in *New Year Letter* (1941), stages a hero who roars for his mother or for death, and Woman, who redeems.",
+  "quote": "And Woman, passive as in dreams, / Redeems, redeems, redeems, redeems.",
+  "source": "“The Greatest of the Monsters” (1969), in *Forewords and Afterwords* (1973), pp. 253–54; *New Year Letter* (1941), as printed in *The Collected Poetry of W. H. Auden* (New York: Random House, 1945), p. 308",
+  "checked": "read in the scan of Forewords and Afterwords, research/auden/fa.txt, lines 12139–12165 (the passage from Nietzsche begins on p. 253 and its sentence on this opera stands on p. 254), and in the page image of The Collected Poetry (1945) at the Internet Archive (in.ernet.dli.2015.215337, leaf n326, which has 308 printed at its foot; the comma after dreams is plain there, where the machine-read text of the scan has a full stop), both on 2026-10-03; both are also given in the research notes, C section 29"
+ },
+ "plates": [
+  {
+   "id": "tale",
+   "heading": "The first stanza",
+   "label": "Wagner",
+   "text": "o-dutchman/ballad",
+   "rows": [
+    "1.0-1.6",
+    "1.7[1-2]"
+   ],
+   "pair": {
+    "label": "The English libretto",
+    "text": "dutchman/act-2",
+    "rows": [
+     "54.1-54.7"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "beat",
+     "label": "Beat",
+     "meterName": "six lines of eight syllables and four beats, the first four with a beat on every second syllable; then a close of six beats, where after the cry two syllables come before each beat",
+     "scan": {
+      "1.0": {
+       "meter": "x/|x/|x/|x/",
+       "voice": "\\ x x / x /x /",
+       "div": {
+        "5": "Mee|re"
+       }
+      },
+      "1.1": {
+       "meter": "x/|x/|x/|x/",
+       "voice": "/\\ x /x / x /",
+       "div": {
+        "0": "Blut|roth",
+        "2": "Se|gel,"
+       }
+      },
+      "1.2": {
+       "meter": "x/|x/|x/|x/",
+       "voice": "x /x / x /x /",
+       "div": {
+        "1": "ho|hem",
+        "4": "blei|che"
+       }
+      },
+      "1.3": {
+       "meter": "x/|x/|x/|x/",
+       "voice": "x /x / \\ \\x /",
+       "div": {
+        "1": "Schif|fes",
+        "4": "oh|ne"
+       }
+      },
+      "1.4": {
+       "meter": "/|x/|x/|xx/",
+       "voice": "/ | x / x / | xx/",
+       "div": {
+        "5": "Jo|ho|he!"
+       }
+      },
+      "1.5": {
+       "meter": "/|x/|x/|xx/",
+       "voice": "/ | x / x / | xx/",
+       "div": {
+        "5": "Jo|ho|he!"
+       }
+      },
+      "1.6": {
+       "meter": "/|xx/|xx/|xx/|xx/",
+       "voice": "/ | x x / \\ x / | xx / | xx /",
+       "div": {
+        "7": "oh|ne",
+        "9": "oh|ne"
+       }
+      },
+      "1.7": {
+       "meter": "xx/",
+       "voice": "xx /",
+       "div": {
+        "1": "oh|ne"
+       }
+      }
+     },
+     "caption": "Wagner wrote the words himself. Four lines keep one measure, eight syllables with a beat on every second one, while they tell of the ship and its master on watch. Then three lines start on a beat: the cry <b>Hui</b>, which imitates air rushing past. Outside the ballad only the Dutchman’s crew cry it, in Act 3. The two lines about the wind end on the call <b>Johohe</b>, marked here as the printed tune has it: two short notes, then a long one. After the last <b>Hui</b> every beat has two syllables before it, and the tune gives each pair two quick notes. That line says he flies like an arrow.",
+     "why": "The measure is steady while the ballad describes the ship; at the cry Hui the lines begin on the beat, and where he flies like an arrow two syllables, sung as quick notes, come before each beat.",
+     "points": [
+      {
+       "at": [
+        "1.0",
+        0,
+        1
+       ],
+       "say": "Said aloud, the first two lines can each begin on a stress: the verb of the question, then *Blut*, blood. The measure puts its beat on the second syllable. In the tune printed in an 1895 libretto the first syllable is a short note before the bar line, the highest of its phrase."
+      },
+      {
+       "at": [
+        "1.6",
+        7,
+        10
+       ],
+       "say": "Wagner’s own edition of 1871 prints the close as two lines of three beats each: the cry and the arrow, then the three phrases that begin with *ohne*. This libretto runs them into one long line and carries the last two words over."
+      }
+     ],
+     "grounds": [
+      {
+       "claim": "Wagner wrote the words of the opera himself",
+       "kind": "source",
+       "source": "Wagner, “Autobiographische Skizze,” in Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 23"
+      },
+      {
+       "claim": "rows 1.0 to 1.3 have eight syllables and four beats, a beat on every second syllable; rows 1.4 to 1.6 begin on a beat; Johohe is two light syllables and a beat; after the last Hui each beat has two syllables before it",
+       "kind": "plate"
+      },
+      {
+       "claim": "the first four lines tell of the ship, its colors and its master on watch; the last line says he flies like an arrow",
+       "kind": "text"
+      },
+      {
+       "claim": "Hui imitates the sound of air in swift movement",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under hui, sense 1; Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under hui, 1 and 1 g"
+      },
+      {
+       "claim": "outside the ballad only the Dutchman’s crew cry Hui",
+       "kind": "source",
+       "source": "counted in the German libretto (Project Gutenberg no. 27769): Hui stands on nine lines of the ballad and on three lines of the chorus of the Dutchman’s crew in Act 3, and nowhere else. The examiner counted again in Wagner’s text of 1871 (Gesammelte Schriften und Dichtungen, vol. 1, pp. 339–40 and 358: the same nine lines and three) and in the Fürstner libretto of 1901 (nine lines of the ballad, and five of that chorus on p. 41); in both, no one else cries it"
+      },
+      {
+       "claim": "in the tune Johohe is two short notes and a long accented one; each pair of syllables in the last line is two short notes and each beat a longer one; the first syllable of each of the first four lines is a short note before the bar line, the highest of its phrase",
+       "kind": "source",
+       "source": "the melody of the first stanza, printed with the words in The Flying Dutchman, Oliver Ditson Company’s Standard Opera Libretto (Boston, copyright 1895), p. 16"
+      },
+      {
+       "claim": "Wagner’s edition prints the close of the stanza as two lines",
+       "kind": "source",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 339"
+      }
+     ],
+     "stands": "The marks on the passage and what its lines say. *Hui*: the DWDS dictionary and Grimm’s; the German libretto has it on nine lines of the ballad, on three of [the chorus of the Dutchman’s crew](#/read/dutchman/act-3:71) in Act 3, and nowhere else. The tune: the melody printed in the Ditson libretto of 1895, p. 16. Wagner’s authorship and line division: *Gesammelte Schriften und Dichtungen*, vol. 1, pp. 23 and 339."
+    },
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "1.0": "a",
+      "1.1": "b",
+      "1.2": "a",
+      "1.3": "b",
+      "1.4": "c",
+      "1.5": "c",
+      "1.7": "x"
+     },
+     "tails": {
+      "1.0": 2,
+      "1.1": 3,
+      "1.2": 3,
+      "1.3": 3,
+      "1.4": 6,
+      "1.5": 6
+     },
+     "threads": [
+      {
+       "sound": "r",
+       "at": [
+        [
+         "1.3",
+         5,
+         0,
+         1
+        ],
+        [
+         "1.6",
+         10,
+         0,
+         1
+        ],
+        [
+         "1.7",
+         2,
+         0,
+         1
+        ]
+       ]
+      }
+     ],
+     "caption": "The first four lines rhyme by turns: <b>an</b> with <b>Mann</b>, <b>Mast</b> with <b>Rast</b>. A handbook of English verse calls four-beat lines rhymed this way closely similar to the ballad stanza, and Wagner heads the song <i>Ballade</i>. The two lines about the wind end on the same call. The last word, <b>Ruh</b>, the rest he is without, has no rhyme. What ties it to <b>Rast</b> is its first letter: <i>ohne Rast und Ruh</i>, without halt or rest, is a set phrase that Goethe and Schiller also use. In 1851 Wagner wrote that end rhyme was a deceit and that for his <i>Siegfried</i> he had turned to verse rhymed on first sounds.",
+     "why": "The telling lines rhyme by turns, much as a ballad stanza does; the last word, Ruh, the rest he lacks, has no rhyme and is held to Rast by its first letter, the binding Wagner later preferred to rhyme.",
+     "grounds": [
+      {
+       "claim": "rows 1.0 to 1.3 rhyme a b a b; rows 1.4 and 1.5 end on the same word; Ruh rhymes with no line of the stanza; Rast and Ruh begin with the same letter",
+       "kind": "plate"
+      },
+      {
+       "claim": "a stanza of four beats rhymed by turns is closely similar to the ballad stanza",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 4, “Four-Line Stanza: Quatrain”"
+      },
+      {
+       "claim": "Wagner heads the song “Ballade”",
+       "kind": "source",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 339"
+      },
+      {
+       "claim": "Ruh, rest, is what the line says he is without",
+       "kind": "text"
+      },
+      {
+       "claim": "Rast and Ruh are joined in a set phrase, which Goethe and Schiller have as “ohne Rast und Ruh”",
+       "kind": "source",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under rast (f.), sense 5 (the entry begins in vol. VIII, col. 148), and under ruhe, sense 5; DWDS (Digitales Wörterbuch der deutschen Sprache) under Rast"
+      },
+      {
+       "claim": "a tie by first sounds is alliteration, which Wagner calls Stabreim",
+       "kind": "source",
+       "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5, on alliteration; DWDS (Digitales Wörterbuch der deutschen Sprache) under Stabreim; Wagner, Oper und Drama, in Gesammelte Schriften und Dichtungen, vol. 4 (1872), p. 118"
+      },
+      {
+       "claim": "in 1851 Wagner called end rhyme a deceit and said that for Siegfried he turned to verse rhymed on first sounds",
+       "kind": "source",
+       "source": "Richard Wagner, “Eine Mittheilung an meine Freunde” (1851), in Gesammelte Schriften und Dichtungen, vol. 4 (Leipzig: E. W. Fritzsch, 1872), pp. 399–400"
+      }
+     ],
+     "stands": "The marks on the passage. The ballad stanza: Baum, *The Principles of English Versification*, chapter 4; Wagner’s heading *Ballade*: *Gesammelte Schriften und Dichtungen*, vol. 1, p. 339. The set phrase *ohne Rast und Ruh*, in Goethe and Schiller: Grimm’s dictionary, under *rast* and *ruhe*. Wagner on end rhyme and on verse rhymed by first sounds: “Eine Mittheilung an meine Freunde” (1851), in the same edition, vol. 4, pp. 399–400."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "1.0",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "did you come upon the ship",
+       "note": "The verb is *antreffen*, to find a person or a thing at a place; its first part, *an*, stands apart at the end of the line. *Ihr* is you, said to several people: the question goes to the hearers.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under antreffen and ihr"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        4,
+        5
+       ],
+       "gloss": "at sea",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Meer"
+      },
+      {
+       "row": "1.1",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "blood-red the sails",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under blutrot and Segel"
+      },
+      {
+       "row": "1.1",
+       "w": [
+        3,
+        5
+       ],
+       "gloss": "black the mast",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under schwarz and Mast"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "on the high deck",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Bord, sense 2, and hoch"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        3,
+        5
+       ],
+       "gloss": "the pale man",
+       "note": "Before the song the girls say that Senta sighs for the pale man, the man in the picture. In the next scene Erik tells Senta that she is pale herself.",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 2, Scene 1, before the ballad, and Scene 2; DWDS (Digitales Wörterbuch der deutschen Sprache) under bleich"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "the ship’s master",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Herr, sense 3"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        3,
+        3
+       ],
+       "gloss": "is awake · keeps watch",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under wachen, senses 1 and 2"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        4,
+        5
+       ],
+       "gloss": "without a halt",
+       "note": "*Rast* is a pause for rest on a journey. An old sense of the word is the stretch of road between two resting places. English *rest* is its kin.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Rast, with Wolfgang Pfeifer’s etymology there"
+      },
+      {
+       "row": "1.4",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "the rush of air",
+       "note": "*Hui* imitates the sound of air in swift movement. Grimm’s dictionary says that in the newer language it commonly paints great speed.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under hui, sense 1; Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under hui, 1 g"
+      },
+      {
+       "row": "1.4",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "how the wind roars",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under sausen, sense 1, and Wind"
+      },
+      {
+       "row": "1.5",
+       "w": [
+        1,
+        4
+       ],
+       "gloss": "how it whistles in the rope",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under pfeifen, sense 3, and Tau (a thick rope, used especially on ships); the noun is singular"
+      },
+      {
+       "row": "1.6",
+       "w": [
+        1,
+        3
+       ],
+       "gloss": "like an arrow",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Pfeil, sense 1"
+      },
+      {
+       "row": "1.6",
+       "w": [
+        4,
+        6
+       ],
+       "gloss": "he flies away",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under hinfliegen (to fly in a direction away from the speaker; to fly away, to hurry off); DWDS (Digitales Wörterbuch der deutschen Sprache) under hin, sense 1"
+      },
+      {
+       "row": "1.6",
+       "w": [
+        7,
+        8
+       ],
+       "gloss": "without a mark to reach",
+       "note": "*Ziel* is the mark a marksman shoots at, and also the end point of a journey or a sea voyage. Among Grimm’s examples is an arrow that flies through the dark until it reaches its *Ziel*.",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under ziel, I 1 a and I 1 b; DWDS (Digitales Wörterbuch der deutschen Sprache) under Ziel, senses 1 a and 1 b"
+      },
+      {
+       "row": "1.6",
+       "w": [
+        9,
+        10
+       ],
+       "gloss": "without a halt",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Rast"
+      },
+      {
+       "row": "1.7",
+       "w": [
+        1,
+        2
+       ],
+       "gloss": "without rest",
+       "note": "*Ruhe* is the ceasing of movement, and peace. Grimm’s dictionary gives a further sense with examples from Hans Sachs to Heine: after the toil of life a person finds *Ruhe* in death.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Ruhe, senses 1 to 3; Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under ruhe (f.), II 1 c"
+      }
+     ],
+     "caption": "Three phrases that begin with <b>ohne</b>, without, close the stanza. <b>Ziel</b> is a marksman’s mark and a voyage’s end: the line likens him to an arrow and takes the mark away. <b>Rast</b> is a halt on a journey. <b>Ruh</b> is stillness, peace and, in Grimm’s dictionary, the rest found in death. In Act 1 the Dutchman says damnation denies him grave and death; in Act 2 he asks Senta whether her faithfulness will bring the long-desired <i>Ruh</i>. Auden sets the Flying Dutchman beside Ishmael, the exile and the Wandering Jew as names of one figure. Of the Romantic view of the sea he writes that no lasting destination is known.",
+     "why": "The close names what he is without: a mark, a halt and rest, a word German also uses of death and the Dutchman of what Senta’s troth may bring; Auden lists him beside the exile and the Wandering Jew.",
+     "grounds": [
+      {
+       "claim": "three phrases that begin with ohne close the stanza (rows 1.6 and 1.7)",
+       "kind": "plate"
+      },
+      {
+       "claim": "Ziel is a marksman’s mark and the end point of a journey or sea voyage",
+       "kind": "source",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under ziel, I 1 a and I 1 b; DWDS (Digitales Wörterbuch der deutschen Sprache) under Ziel, senses 1 a and 1 b"
+      },
+      {
+       "claim": "the line likens him to an arrow and adds: without a mark",
+       "kind": "text"
+      },
+      {
+       "claim": "Rast is a pause for rest on a journey",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Rast"
+      },
+      {
+       "claim": "Ruhe is the ceasing of movement and peace, and the rest found in death",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Ruhe, senses 1 to 3; Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under ruhe (f.), II 1 c"
+      },
+      {
+       "claim": "in Act 1 the Dutchman says that damnation’s command is: nowhere a grave, never death",
+       "kind": "text",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 1, Scene 2; the first two rows of the third plate"
+      },
+      {
+       "claim": "in Act 2, Scene 3 the Dutchman asks Senta whether, after a life of torment, he is to find in her troth the long-desired Ruh (Senta also uses the noun of him, in Scene 2: what took his Ruh from him for ever)",
+       "kind": "text",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 2, Scene 3, the Dutchman’s speech before Senta’s answer, and Act 2, Scene 2; in the hosted English, dutchman/act-2, block 178"
+      },
+      {
+       "claim": "Auden lists Ishmael, the exile, the Wandering Jew and the Flying Dutchman as names of one half of a double-natured hero",
+       "kind": "auden",
+       "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 5"
+      },
+      {
+       "claim": "of the Romantic attitude to the sea: a lasting destination is unknown even if it may exist",
+       "kind": "auden",
+       "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 13"
+      }
+     ],
+     "stands": "The German words: the DWDS dictionary under each word glossed, and Grimm’s dictionary under *ziel*, *ruhe*, *hui* and *hinfliegen*. What the lines say, here, in [the Dutchman’s monologue](#/read/dutchman/act-1:21) in Act 1 and in [his question to Senta](#/read/dutchman/act-2:178) in Act 2. On who is pale: [the girls](#/read/dutchman/act-2:21) before the ballad and [Erik](#/read/dutchman/act-2:124) after it. Auden: *The Enchafèd Flood*, pp. 5 and 13."
+    },
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "1.0",
+        0,
+        1
+       ],
+       "b": [
+        "p:54.1",
+        0,
+        1
+       ],
+       "say": "Wagner’s first line asks the hearers a question: did you come upon the ship at sea. The English tells it as a fact."
+      },
+      {
+       "a": [
+        "1.3",
+        3,
+        5
+       ],
+       "b": [
+        "p:54.4",
+        0,
+        7
+       ],
+       "say": "The ship’s master keeps watch without a halt. The English leaves out the watch and describes his eyes and his face; its *pale* comes from the line above in Wagner."
+      },
+      {
+       "a": [
+        "1.4",
+        0,
+        0
+       ],
+       "b": [
+        "p:54.5",
+        0,
+        0
+       ],
+       "say": "*Hui* imitates rushing air. *Huzza* was first a sailor’s shout of high spirits, encouragement or applause."
+      },
+      {
+       "a": [
+        "1.6",
+        4,
+        5
+       ],
+       "b": [
+        "p:54.7",
+        1,
+        2
+       ],
+       "say": "Wagner’s word is *er*, he. The ship is *das Schiff*, neuter, so *er* does not point to it; at this place in the second stanza it is the damned man who sails. In the English the ship, *she*, leaps."
+      },
+      {
+       "a": [
+        "1.6",
+        7,
+        10
+       ],
+       "b": [
+        "p:54.7",
+        7,
+        8
+       ],
+       "say": "With the two words carried below, these phrases name three things he is without: a mark to reach, a halt, rest. The English has two words for endless time."
+      }
+     ],
+     "caption": "Beside Wagner’s stanza stands the English of a New York libretto that names no translator. Its first four lines keep his eight syllables, his rhyme by turns and the ship’s colors. They give up his question to the hearers and the watch without a halt. At the close his <i>er</i>, he, flies like an arrow; in the English the ship, <i>she</i>, <b>leaps</b> <b>forever</b>. Auden’s objection to opera in translation lies elsewhere. In song, he believed, a listener hears syllables, not words: Wagner sung in English is intolerable, and would be even if the translation were the better poem, because the new syllables do not suit the pitch and pace of the notes.",
+     "why": "In its first four lines the English keeps Wagner’s count and rhyme and changes what the lines say; Auden held that Wagner in English fails for another reason, the fit of syllable to note, however good the translation.",
+     "grounds": [
+      {
+       "claim": "the words tied; each of the English rows 54.1 to 54.4 has eight syllables, and they rhyme a b a b (counted with the build tools)",
+       "kind": "plate"
+      },
+      {
+       "claim": "the English is that of Rullman’s German and English libretto for the Metropolitan Opera House, which names no translator",
+       "kind": "source",
+       "source": "the note of the hosted text (Project Gutenberg no. 31963)"
+      },
+      {
+       "claim": "Wagner’s first line is a question to the hearers; the master keeps watch without a halt; er flies like an arrow; in the second stanza the damned man sails without rest",
+       "kind": "text"
+      },
+      {
+       "claim": "antreffen is to find someone or something at a place; Schiff is a neuter noun; Hui imitates rushing air",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under antreffen, Schiff and hui"
+      },
+      {
+       "claim": "huzza was at first a sailor’s shout of exaltation, encouragement or applause",
+       "kind": "source",
+       "source": "Online Etymology Dictionary, under huzza"
+      },
+      {
+       "claim": "Auden on opera in translation: in song the listener hears syllables, not words; Wagner in English would sound intolerable even if the translation were the better poem",
+       "kind": "auden",
+       "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 473"
+      }
+     ],
+     "stands": "The two versions as they stand side by side, and a count of syllables in the English lines; the libretto names no translator. The DWDS dictionary under *antreffen*, *Schiff* and *hui*; the Online Etymology Dictionary under *huzza*. The second stanza of the German ballad, where the damned man sails without rest. Auden: *The Dyer’s Hand*, p. 473."
+    }
+   ]
+  },
+  {
+   "id": "refrain",
+   "heading": "The refrain, and what is sung in its place",
+   "label": "Wagner",
+   "text": "o-dutchman/ballad",
+   "rows": [
+    "2.0-2.4",
+    "6.0-6.1",
+    "7.0-7.2"
+   ],
+   "pair": {
+    "label": "The English libretto",
+    "text": "dutchman/act-2",
+    "rows": [
+     "55.0-55.4",
+     "60.0-60.1",
+     "62.0-62.2"
+    ]
+   },
+   "lenses": [
+    {
+     "kind": "compare",
+     "label": "English",
+     "ties": [
+      {
+       "a": [
+        "2.1",
+        5,
+        9
+       ],
+       "b": [
+        "p:55.1",
+        1,
+        7
+       ],
+       "say": "Wagner: a woman true to him until death. The English: a woman’s heart that does not fail in its mission."
+      },
+      {
+       "a": [
+        "2.2",
+        3,
+        5
+       ],
+       "b": [
+        "p:55.2",
+        3,
+        3
+       ],
+       "say": "Wagner turns to the man himself: *du*, you, pale seaman. The English goes on with *he*."
+      },
+      {
+       "a": [
+        "6.1",
+        5,
+        11
+       ],
+       "b": [
+        "p:60.1",
+        0,
+        7
+       ],
+       "say": "The girls ask where he will meet the woman who would stay his own, true until death (*treueigen*, a compound from the love poetry of Wagner’s century). The English woman is to win his love and share his treasures."
+      },
+      {
+       "a": [
+        "7.0",
+        4,
+        5
+       ],
+       "b": [
+        "p:62.0",
+        4,
+        5
+       ],
+       "say": "*Treu* is troth, faith kept, kin to English *true*. The English has *love*. The third stanza of the ballad keeps the two apart: false love, false troth."
+      },
+      {
+       "a": [
+        "7.1",
+        3,
+        5
+       ],
+       "b": [
+        "p:62.1",
+        3,
+        5
+       ],
+       "say": "Senta asks that God’s angel show her to him. In the English she asks the angel to bring him to her."
+      },
+      {
+       "a": [
+        "7.2",
+        0,
+        6
+       ],
+       "b": [
+        "p:62.2",
+        0,
+        6
+       ],
+       "say": "Wagner: through me you shall reach salvation. The English line describes the man at sea."
+      }
+     ],
+     "caption": "The first five lines are the refrain, the returning part, sung after the first stanza. The last five are sung in its place after the third: two by the girls, three by Senta. The small lines are the libretto’s English. Twice here Wagner names the condition of the Dutchman’s rescue: a woman true <i>bis in den Tod</i>, until death. The English keeps a true woman and both times leaves the death out; its woman is to win his love and share his treasures. In Act 3 the Dutchman says that only a woman true to him until death can free him, and in her last line Senta calls herself true to him until death.",
+     "why": "The libretto’s English keeps the true woman and both times leaves out Wagner’s until death, the term of the condition that the Dutchman states in Act 3 and Senta’s last line repeats.",
+     "grounds": [
+      {
+       "claim": "the words tied",
+       "kind": "plate"
+      },
+      {
+       "claim": "rows 2.0 to 2.4 are the refrain as it follows the first stanza; rows 6.0 to 7.2 follow the third stanza, two lines for the girls and three for Senta",
+       "kind": "text",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 2, Scene 1"
+      },
+      {
+       "claim": "the phrase until death stands twice on the plate, in rows 2.1 and 6.1",
+       "kind": "plate"
+      },
+      {
+       "claim": "the English ballad never says death; it says true once, in the last line of the refrain, and constant twice later",
+       "kind": "text",
+       "source": "counted in the hosted English (dutchman/act-2, blocks 54 to 62)"
+      },
+      {
+       "claim": "in Act 3 the Dutchman says that only a woman who keeps troth until death can free him from the curse; Senta’s last line",
+       "kind": "text",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 3, the last scene; the third plate"
+      },
+      {
+       "claim": "getreu and treu: true, firm in faith; Treue, kin to English true; zeigen, to let someone see; erreichen, to get to; Heil, salvation",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under getreu, treu, Treue (with Pfeifer’s etymology), zeigen, erreichen and Heil"
+      },
+      {
+       "claim": "treueigen is a compound in use since the nineteenth century, above all in love poetry",
+       "kind": "source",
+       "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under treueigen, which cites this line"
+      },
+      {
+       "claim": "the third stanza sets false love beside false troth",
+       "kind": "text",
+       "source": "row 5.6 of the hosted ballad"
+      }
+     ],
+     "stands": "The two versions as they stand, line under line, and a count of *death* and *true* in the English ballad printed here. The DWDS dictionary under *treu*, *Treue*, *zeigen*, *erreichen* and *Heil*; Grimm’s dictionary under *treueigen*, which cites this line. The Dutchman’s [words in the last scene](#/read/dutchman/act-3:118) and Senta’s [last line](#/read/dutchman/act-3:136). False love and false troth: the third stanza of the German ballad."
+    },
+    {
+     "kind": "figure",
+     "label": "Figure",
+     "name": "apostrophe",
+     "plain": "a turning away: the speaker turns from the hearers to speak to someone or something else",
+     "draw": "other",
+     "parts": [
+      {
+       "row": "2.2",
+       "w": [
+        3,
+        5
+       ],
+       "tag": "you",
+       "label": "you, your"
+      },
+      {
+       "row": "6.0",
+       "w": [
+        5,
+        5
+       ],
+       "tag": "you",
+       "label": "you, your"
+      },
+      {
+       "row": "6.1",
+       "w": [
+        2,
+        2
+       ],
+       "tag": "you",
+       "label": "you, your"
+      },
+      {
+       "row": "6.1",
+       "w": [
+        9,
+        9
+       ],
+       "tag": "you",
+       "label": "you, your"
+      },
+      {
+       "row": "7.0",
+       "w": [
+        7,
+        7
+       ],
+       "tag": "you",
+       "label": "you, your"
+      },
+      {
+       "row": "7.1",
+       "w": [
+        4,
+        4
+       ],
+       "tag": "you",
+       "label": "you, your"
+      },
+      {
+       "row": "7.2",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "you",
+       "label": "you, your"
+      },
+      {
+       "row": "2.0",
+       "w": [
+        2,
+        4
+       ],
+       "tag": "he",
+       "label": "he, him"
+      },
+      {
+       "row": "2.1",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "he",
+       "label": "he, him"
+      },
+      {
+       "row": "2.1",
+       "w": [
+        10,
+        10
+       ],
+       "tag": "he",
+       "label": "he, him"
+      },
+      {
+       "row": "2.4",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "he",
+       "label": "he, him"
+      },
+      {
+       "row": "2.1",
+       "w": [
+        2,
+        3
+       ],
+       "tag": "she",
+       "label": "a woman, she"
+      },
+      {
+       "row": "2.2",
+       "w": [
+        6,
+        6
+       ],
+       "tag": "she",
+       "label": "a woman, she"
+      },
+      {
+       "row": "2.4",
+       "w": [
+        0,
+        1
+       ],
+       "tag": "she",
+       "label": "a woman, she"
+      },
+      {
+       "row": "6.0",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "she",
+       "label": "a woman, she"
+      },
+      {
+       "row": "6.1",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "she",
+       "label": "a woman, she"
+      },
+      {
+       "row": "7.0",
+       "w": [
+        2,
+        3
+       ],
+       "tag": "she",
+       "label": "a woman, she"
+      },
+      {
+       "row": "7.0",
+       "w": [
+        0,
+        0
+       ],
+       "tag": "I",
+       "label": "I, me, my"
+      },
+      {
+       "row": "7.0",
+       "w": [
+        4,
+        4
+       ],
+       "tag": "I",
+       "label": "I, me, my"
+      },
+      {
+       "row": "7.1",
+       "w": [
+        3,
+        3
+       ],
+       "tag": "I",
+       "label": "I, me, my"
+      },
+      {
+       "row": "7.2",
+       "w": [
+        1,
+        1
+       ],
+       "tag": "I",
+       "label": "I, me, my"
+      },
+      {
+       "row": "2.3",
+       "w": [
+        0,
+        0
+       ],
+       "tag": "pray",
+       "label": "to the girls"
+      }
+     ],
+     "caption": "The refrain begins by telling of him: the pale man, <i>er</i>, he. Its third line addresses him, <b>du</b>, you, pale seaman; a stage direction that Wagner’s own edition prints after this refrain has Senta turn to his picture toward the end of the stanza, which there takes in the refrain. Then she turns back to her hearers: <b>Betet</b>, pray. In the lines sung at the end the girls too say you to him, and Senta says a word the ballad has used once before, in his oath: <b>Ich</b>, I. She asks to be the woman the song has prayed for. Nietzsche, Auden’s best guide to Wagner, saw one theme return in opera after opera: someone wants to be saved.",
+     "why": "The refrain turns from telling of him to addressing him, as Senta turns to his picture, and at the end she answers its prayer with I; the theme Auden reports from Nietzsche is here: someone wants to be saved.",
+     "grounds": [
+      {
+       "claim": "he and him in rows 2.0, 2.1 and 2.4; you in row 2.2 and in rows 6.0 to 7.2; an order to the hearers in row 2.3; I, me and my in rows 7.0 to 7.2",
+       "kind": "plate"
+      },
+      {
+       "claim": "apostrophe is a turning of one’s speech from one audience to another, most often to an abstraction, to an inanimate object or to the absent; the word is from the Greek for a turning away",
+       "kind": "source",
+       "source": "Gideon O. Burton, Silva Rhetoricae (Brigham Young University), under apostrophe; Online Etymology Dictionary, under apostrophe (n.2)"
+      },
+      {
+       "claim": "toward the end of the stanza (which in Wagner’s edition includes its refrain) Senta turns toward the picture",
+       "kind": "source",
+       "source": "the stage direction after the first stanza and its refrain, Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 340"
+      },
+      {
+       "claim": "before Senta’s lines the ballad has I only once, inside the Dutchman’s oath in the second stanza",
+       "kind": "text",
+       "source": "counted in the hosted ballad: row 3.3"
+      },
+      {
+       "claim": "the refrain asks the hearers to pray that a woman keep faith with him; Senta’s first line asks to be that woman",
+       "kind": "text"
+      },
+      {
+       "claim": "Auden calls Nietzsche by far the best guide to Wagner and reports what Nietzsche perceived: in opera after opera the same theme turns up. That someone always wants to be saved is Nietzsche’s sentence, which Auden quotes",
+       "kind": "auden",
+       "source": "“The Greatest of the Monsters” (1969), in Forewords and Afterwords (1973), p. 253"
+      }
+     ],
+     "stands": "The marks on the passage; apostrophe as *Silva Rhetoricae* and the Online Etymology Dictionary define it. Senta’s turn to the picture: the stage direction in Wagner’s *Gesammelte Schriften und Dichtungen*, vol. 1, p. 340. A count of *ich* in the German ballad: before these lines it stands once, in the oath of the second stanza. Auden: *Forewords and Afterwords*, p. 253."
+    },
+    {
+     "kind": "sentence",
+     "label": "Verbs",
+     "spans": [
+      {
+       "from": [
+        "2.0",
+        1
+       ],
+       "to": [
+        "2.0",
+        1
+       ],
+       "tag": "is",
+       "label": "said as fact"
+      },
+      {
+       "from": [
+        "2.0",
+        8
+       ],
+       "to": [
+        "2.0",
+        8
+       ],
+       "tag": "is",
+       "label": "said as fact"
+      },
+      {
+       "from": [
+        "2.1",
+        0
+       ],
+       "to": [
+        "2.1",
+        0
+       ],
+       "tag": "may",
+       "label": "supposed or wished"
+      },
+      {
+       "from": [
+        "2.2",
+        1
+       ],
+       "to": [
+        "2.2",
+        2
+       ],
+       "tag": "ask",
+       "label": "a question"
+      },
+      {
+       "from": [
+        "2.2",
+        7
+       ],
+       "to": [
+        "2.2",
+        7
+       ],
+       "tag": "ask",
+       "label": "a question"
+      },
+      {
+       "from": [
+        "2.4",
+        4
+       ],
+       "to": [
+        "2.4",
+        4
+       ],
+       "tag": "may",
+       "label": "supposed or wished"
+      },
+      {
+       "from": [
+        "6.0",
+        1
+       ],
+       "to": [
+        "6.0",
+        2
+       ],
+       "tag": "ask",
+       "label": "a question"
+      },
+      {
+       "from": [
+        "6.0",
+        9
+       ],
+       "to": [
+        "6.0",
+        9
+       ],
+       "tag": "may",
+       "label": "supposed or wished"
+      },
+      {
+       "from": [
+        "6.1",
+        0
+       ],
+       "to": [
+        "6.1",
+        1
+       ],
+       "tag": "ask",
+       "label": "a question"
+      },
+      {
+       "from": [
+        "6.1",
+        10
+       ],
+       "to": [
+        "6.1",
+        10
+       ],
+       "tag": "may",
+       "label": "supposed or wished"
+      },
+      {
+       "from": [
+        "7.0",
+        1
+       ],
+       "to": [
+        "7.0",
+        1
+       ],
+       "tag": "may",
+       "label": "supposed or wished"
+      },
+      {
+       "from": [
+        "7.0",
+        6
+       ],
+       "to": [
+        "7.0",
+        6
+       ],
+       "tag": "shall",
+       "label": "a promise"
+      },
+      {
+       "from": [
+        "7.1",
+        0
+       ],
+       "to": [
+        "7.1",
+        0
+       ],
+       "tag": "may",
+       "label": "supposed or wished"
+      },
+      {
+       "from": [
+        "7.2",
+        2
+       ],
+       "to": [
+        "7.2",
+        2
+       ],
+       "tag": "shall",
+       "label": "a promise"
+      }
+     ],
+     "caption": "Only one thing in the refrain is stated as fact: <b>Erlösung</b>, redemption, a setting free, <b>kann</b>, can, still come to him. All that concerns the woman is condition, question or wish: <b>Fänd</b>’, if he found; when will you find her; pray that a woman may keep faith. The girls ask where she is. Senta answers in the wish form too: <b>sei</b>, let me be, as in long live the king. Then she promises: <b>sollst</b>, you shall. Her first line ends on the verb <b>erlösen</b>, to redeem. In Auden’s lines on Wagner that verb is Woman’s, four times over. In the last scene her <i>sei</i> becomes <i>bin</i>, am.",
+     "why": "The refrain states that he can be saved and leaves the woman to if, when and may; Senta steps into that wish form with let me be, then promises, and her verb is the one Auden gives Woman: redeem.",
+     "grounds": [
+      {
+       "claim": "the verbs marked by their form in four kinds: one statement (its two verb words); six verbs in the forms of what is supposed or wished (two past subjunctives, four present subjunctives); three questions; two promises. The order to pray in row 2.3 is not marked here; the Figure tab marks it",
+       "kind": "plate"
+      },
+      {
+       "claim": "sei, halt’, könne and Mög’ are present subjunctives, the form of wishes such as long live the king; Fänd’ and bliebe are past subjunctives, the form of conditions",
+       "kind": "source",
+       "source": "English Wikipedia, “Subjunctive mood,” the section on German; DWDS (Digitales Wörterbuch der deutschen Sprache) under mögen"
+      },
+      {
+       "claim": "sollen in a promise: the speaker will see that it comes about",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under sollen, sense 1 c"
+      },
+      {
+       "claim": "erlösen is to free; lösen is to loose",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under erlösen, with Pfeifer’s etymology"
+      },
+      {
+       "claim": "what each line says of him and of the woman",
+       "kind": "text"
+      },
+      {
+       "claim": "in the last scene Senta says: it is I through whose troth you shall find your salvation",
+       "kind": "text",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 3, the last scene; Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 362"
+      },
+      {
+       "claim": "in Auden’s lines Woman redeems, the verb said four times",
+       "kind": "auden",
+       "source": "New Year Letter (1941), as printed in The Collected Poetry of W. H. Auden (New York: Random House, 1945), p. 308"
+      }
+     ],
+     "stands": "The marks on the passage, and what the lines say. The German verb forms: English Wikipedia, “Subjunctive mood,” on German; the DWDS dictionary under *mögen*, *sollen* and *erlösen*. Senta’s *bin* in the last scene: the German libretto, and Wagner’s *Gesammelte Schriften und Dichtungen*, vol. 1, p. 362. Auden: *The Collected Poetry* (1945), p. 308."
+    },
+    {
+     "kind": "shape",
+     "label": "Scene",
+     "what": "the refrain through the first two scenes of Act 2: who sings each time, and what Wagner’s stage directions say of Senta",
+     "facts": [
+      {
+       "when": "The curtain rises",
+       "who sings": "the girls",
+       "what is sung": "their spinning song",
+       "Senta, in Wagner’s directions": "leans back in a grandfather’s chair, arms folded, sunk in dreamy contemplation of the picture of a pale man in black",
+       "read": "dutchman/act-2:0",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 335"
+      },
+      {
+       "when": "Before the ballad",
+       "who sings": "Senta, softly, to herself",
+       "what is sung": "a verse of the ballad",
+       "Senta, in Wagner’s directions": "does not leave her position (her nurse then asks, in her own lines, whether she will dream her young life away before the portrait)",
+       "read": "dutchman/act-2:15",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 337"
+      },
+      {
+       "when": "After the first stanza",
+       "who sings": "Senta",
+       "what is sung": "the refrain",
+       "Senta, in Wagner’s directions": "toward the end of the stanza turns toward the picture; the girls listen with sympathy; the nurse has stopped spinning",
+       "read": "dutchman/act-2:55",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), pp. 339–40"
+      },
+      {
+       "when": "After the second stanza",
+       "who sings": "Senta; the girls softly join in the closing rhyme",
+       "what is sung": "the refrain",
+       "Senta, in Wagner’s directions": "the girls are moved; Senta goes on with growing agitation",
+       "read": "dutchman/act-2:57",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 340"
+      },
+      {
+       "when": "After the third stanza",
+       "who sings": "the girls, softly, after a pause",
+       "what is sung": "two lines that ask where the woman is",
+       "Senta, in Wagner’s directions": "too strongly affected, has sunk back in the chair",
+       "read": "dutchman/act-2:59",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), pp. 340–41"
+      },
+      {
+       "when": "Then",
+       "who sings": "Senta",
+       "what is sung": "three lines of her own, where the refrain has its question and its call to pray",
+       "Senta, in Wagner’s directions": "carried away by sudden inspiration, springs up from the chair; the nurse and the girls spring up in fright",
+       "read": "dutchman/act-2:61",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 341"
+      },
+      {
+       "when": "Just after",
+       "who sings": "the girls, the nurse and Erik",
+       "what is sung": "cries of alarm, then the news that her father is coming",
+       "Senta, in Wagner’s directions": "has stayed as she stood and heard nothing of what was said; at the news that her father is coming she starts up like one waking",
+       "read": "dutchman/act-2:73",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 341"
+      },
+      {
+       "when": "Scene 2: Erik tells his dream",
+       "who sings": "Erik",
+       "what is sung": "his dream of her father and a stranger",
+       "Senta, in Wagner’s directions": "sits down exhausted and sinks as into a magnetic sleep, so that she seems to dream the dream he tells; she answers with her eyes closed",
+       "read": "dutchman/act-2:136",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 345"
+      },
+      {
+       "when": "The end of Scene 2",
+       "who sings": "Senta, alone, softly",
+       "what is sung": "the close of the refrain in Wagner’s own text; the English printed here gives her the girls’ two lines instead",
+       "Senta, in Wagner’s directions": "sunk in silent thought, her eyes fixed on the picture; the door opens, her father and the Dutchman come in, she cries out and stands rooted to the spot",
+       "read": "dutchman/act-2:162",
+       "source": "Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), p. 347",
+       "note": "Wagner’s text of 1871 gives the last three lines of the refrain complete. In the libretto of 1901 that agrees with the score (Berlin: Fürstner, p. 28) the last word is not sung before the door opens. The American libretto shown on this plate has the girls’ question here."
+      }
+     ],
+     "caption": "When the curtain rises Wagner’s stage direction has Senta sunk in dreamy contemplation of the picture. After the first stanza she sings the refrain alone; after the second the girls softly join its close; after the third she sinks back and the girls sing on. Then, carried away, she springs up with her own lines. Afterward she has heard nothing of what was said and starts like one waking, and while Erik tells his dream she sinks, the direction says, as into a magnetic sleep. In Auden’s lines on Wagner, Woman redeems while passive, as one is in dreams.",
+     "why": "Wagner’s directions have Senta sunk in dreamy contemplation before the ballad and starting like one waking after it; between, the refrain passes to her hearers and she breaks in carried away; Auden’s Woman redeems while passive, as in dreams.",
+     "grounds": [
+      {
+       "claim": "each stage direction in the table: the dreamy contemplation, the turn to the picture, the girls joining, Senta sinking back and springing up carried away, the waking, the magnetic sleep, the close sung alone",
+       "kind": "source",
+       "source": "the stage directions of Act 2 in Richard Wagner, Gesammelte Schriften und Dichtungen, vol. 1 (Leipzig: E. W. Fritzsch, 1871), pp. 335, 337, 339–41, 345 and 347"
+      },
+      {
+       "claim": "who sings the refrain each time, and what replaces it after the third stanza",
+       "kind": "text",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 2, Scenes 1 and 2, read beside Wagner’s edition"
+      },
+      {
+       "claim": "in the libretto that agrees with the score the last return of the refrain breaks off before its last word",
+       "kind": "source",
+       "source": "Der fliegende Holländer, Vollständige mit der Partitur übereinstimmende Ausgabe (Berlin: Adolph Fürstner, 1901), p. 28"
+      },
+      {
+       "claim": "Auden’s Woman redeems while passive, as in dreams (of Wagner’s stage in general)",
+       "kind": "auden",
+       "source": "New Year Letter (1941), as printed in The Collected Poetry of W. H. Auden (New York: Random House, 1945), p. 308"
+      }
+     ],
+     "stands": "The stage directions of Act 2 in Wagner’s own edition of the text, *Gesammelte Schriften und Dichtungen*, vol. 1 (1871), pp. 335–47; the English libretto printed here has none in this act. The last return of the refrain in the libretto of 1901 that agrees with the score (Berlin: Fürstner), p. 28. Auden: *The Collected Poetry* (1945), p. 308."
+    }
+   ]
+  },
+  {
+   "id": "oath",
+   "heading": "One rhyme in three acts",
+   "text": "o-dutchman/end",
+   "rows": [
+    "0.0-0.1",
+    "1.0-1.3",
+    "3.0-3.1"
+   ],
+   "lenses": [
+    {
+     "kind": "rhyme",
+     "label": "Rhyme",
+     "ends": {
+      "0.0": "a",
+      "0.1": "a",
+      "1.0": "b",
+      "1.1": "a",
+      "1.2": "b",
+      "1.3": "a",
+      "3.0": "a",
+      "3.1": "a"
+     },
+     "tails": {
+      "0.0": 2,
+      "0.1": 2,
+      "1.0": 4,
+      "1.1": 2,
+      "1.2": 4,
+      "1.3": 2,
+      "3.0": 2,
+      "3.1": 2
+     },
+     "threads": [
+      {
+       "sound": "t",
+       "at": [
+        [
+         "1.3",
+         1,
+         0,
+         1
+        ],
+        [
+         "1.3",
+         4,
+         0,
+         1
+        ],
+        [
+         "3.1",
+         3,
+         0,
+         1
+        ],
+        [
+         "3.1",
+         7,
+         0,
+         1
+        ]
+       ]
+      }
+     ],
+     "caption": "Three places in the opera share one rhyme. Two lines are the Dutchman’s in Act 1, four are Senta’s in Act 2, two are her last words. Each time <b>Tod</b>, death, rhymes with <b>Gebot</b>, command; the libretto has that noun once in each act, always in this rhyme. First the command is damnation’s and forbids him death. He says he has sought death, and in Auden’s lines the Wagner hero roars for it. In Senta’s lines <b>Tod</b> ends the phrase that means until death, the limit of her <b>Treue</b>, troth, and the two words begin alike. After the last <b>Tod</b> the stage direction has her leap into the sea and his ship sink at once.",
+     "why": "One rhyme, death with command, ties the Dutchman’s sentence to Senta’s vow and her last cry: the death that the first command forbids him is the term she sets to her troth, and Auden’s Wagner hero roars for death.",
+     "grounds": [
+      {
+       "claim": "Tod rhymes with Gebot in all three places; in rows 1.3 and 3.1 the word for troth or true and the word Tod begin with the same letter",
+       "kind": "plate"
+      },
+      {
+       "claim": "the rhyme is exact: Tod ends in the sound t",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Tod and Gebot, the pronunciations given there"
+      },
+      {
+       "claim": "the noun Gebot, alone or in a compound, stands three times in the libretto, once in each act, each time rhymed with Tod",
+       "kind": "source",
+       "source": "counted in the German libretto (Project Gutenberg no. 27769)"
+      },
+      {
+       "claim": "whose lines these are; the first command is damnation’s, and it refuses him grave and death; the Dutchman says he sought death",
+       "kind": "text",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 1, Scene 2 (his monologue), Act 2, Scene 3, and the end of Act 3"
+      },
+      {
+       "claim": "in Auden’s lines on what Wagner put on the stage, the hero, whom the next sentence calls a huge doll, roars for death or mother, which the poem calls one and the same",
+       "kind": "auden",
+       "source": "New Year Letter (1941), as printed in The Collected Poetry of W. H. Auden (New York: Random House, 1945), p. 308"
+      },
+      {
+       "claim": "after the last couplet Senta throws herself into the sea and at once the Dutchman’s ship sinks with all its crew",
+       "kind": "source",
+       "source": "the last stage direction, in the German libretto (Project Gutenberg no. 27769) and in the Fürstner libretto of 1901, p. 47"
+      }
+     ],
+     "stands": "The marks on the passage. A count of *Gebot* in the German libretto: three times, once in each act, each time rhymed with *Tod*; the sounds of the two words: the DWDS dictionary. The Dutchman’s search for death: [his monologue in Act 1](#/read/dutchman/act-1:19); Senta’s leap and the sinking of his ship: the [last stage direction](#/read/dutchman/act-3:138). Auden: *The Collected Poetry* (1945), p. 308."
+    },
+    {
+     "kind": "word",
+     "label": "Word",
+     "notes": [
+      {
+       "row": "0.0",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "nowhere a grave",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under nirgends and Grab"
+      },
+      {
+       "row": "0.0",
+       "w": [
+        3,
+        5
+       ],
+       "gloss": "never death",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under niemals and Tod"
+      },
+      {
+       "row": "0.1",
+       "w": [
+        2,
+        2
+       ],
+       "gloss": "damnation’s",
+       "note": "*Verdammnis* is a word of religion: the punishment of hell. It is formed on *verdammen*, to condemn, which comes from Latin *damnare*.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Verdammnis, with Pfeifer’s etymology"
+      },
+      {
+       "row": "0.1",
+       "w": [
+        3,
+        3
+       ],
+       "gloss": "dread command",
+       "note": "*Gebot* is a command; it is kin to English *bid*. *Schreck* is sudden terror. The compound is in neither of the dictionaries used here.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Gebot (with Pfeifer’s etymology under bieten) and under Schreck; neither the DWDS nor Grimm has the compound"
+      },
+      {
+       "row": "1.0",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "in my heart’s highest purity",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Herz and Reine (poetic for Reinheit, purity)"
+      },
+      {
+       "row": "1.1",
+       "w": [
+        0,
+        1
+       ],
+       "gloss": "I know",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under kennen"
+      },
+      {
+       "row": "1.1",
+       "w": [
+        2,
+        4
+       ],
+       "gloss": "troth’s high command",
+       "note": "*Treue* is faith kept with someone. Its first sense was a pact between two parties, and from that came the keeping of a pact. English *true* and *troth* are its kin.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Treue and treu, with Pfeifer’s etymology; Online Etymology Dictionary, under troth"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        0,
+        3
+       ],
+       "gloss": "to whom I devote it",
+       "note": "*Weihen* is a word of religion, to consecrate a priest or a church. In elevated speech it is to give something wholly to someone.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under weihen, senses 1 and 2"
+      },
+      {
+       "row": "1.2",
+       "w": [
+        4,
+        7
+       ],
+       "gloss": "I give the one thing",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under schenken"
+      },
+      {
+       "row": "1.3",
+       "w": [
+        0,
+        4
+       ],
+       "gloss": "troth until death",
+       "note": "Among the dictionary’s examples under *treu* is this one: to be true to someone until death.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under treu, sense 1"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        0,
+        0
+       ],
+       "gloss": "praise",
+       "note": "In Act 1, in the two lines after the couplet shown above, the Dutchman turns to the praised angel of God, who won him the condition of his rescue.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under preisen; the German libretto (Project Gutenberg no. 27769), Act 1, Scene 2"
+      },
+      {
+       "row": "3.0",
+       "w": [
+        1,
+        5
+       ],
+       "gloss": "your angel and his command",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Engel and Gebot"
+      },
+      {
+       "row": "3.1",
+       "w": [
+        0,
+        2
+       ],
+       "gloss": "here I stand",
+       "note": "*Hier* marks the place where the speaker is. The Dutchman’s couplet begins with nowhere and never.",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under hier, sense I 1, and under stehen"
+      },
+      {
+       "row": "3.1",
+       "w": [
+        3,
+        4
+       ],
+       "gloss": "true to you",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under treu, sense 1"
+      },
+      {
+       "row": "3.1",
+       "w": [
+        5,
+        7
+       ],
+       "gloss": "until death",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Tod"
+      }
+     ],
+     "caption": "<b>Gebot</b> is a command, and the word for each of the Ten Commandments. It has a different owner each time. In Act 1 it is damnation’s: no grave and no death. In Act 2 it is troth’s, and Senta says she knows it: troth until death. At the end it is his angel’s. In Act 1 the Dutchman speaks of an angel of God who won him the condition of his rescue, and in Act 3 he states that condition: only a woman true until death can free him from the curse. Her last line begins with <b>Hier</b>, here, and gives the condition back: true to you until death.",
+     "why": "The same word, command, passes from damnation to troth to the angel, and Senta’s last line repeats in her own person the condition the Dutchman has stated: true until death.",
+     "grounds": [
+      {
+       "claim": "the sense of each phrase, set under it",
+       "kind": "plate"
+      },
+      {
+       "claim": "Gebot is a command and the word of the Ten Commandments; Verdammnis is the punishment of hell; Treue is faith kept, at first a pact; hier marks the speaker’s own place",
+       "kind": "source",
+       "source": "DWDS (Digitales Wörterbuch der deutschen Sprache) under Gebot, Verdammnis, Treue (with Pfeifer’s etymology) and hier"
+      },
+      {
+       "claim": "the command is damnation’s in row 0.1, troth’s in row 1.1 and the angel’s in row 3.0",
+       "kind": "plate"
+      },
+      {
+       "claim": "in Act 1 the Dutchman speaks of the angel of God who won him the condition of his salvation; in Act 3 he says that only a woman who keeps troth until death can free him from the curse",
+       "kind": "text",
+       "source": "the German libretto (Project Gutenberg no. 27769), Act 1, Scene 2, and Act 3, the last scene"
+      }
+     ],
+     "stands": "The DWDS dictionary under *Gebot*, *Verdammnis*, *Schreck*, *Treue*, *treu*, *weihen*, *preisen* and *hier*, with Wolfgang Pfeifer’s etymologies there; the Online Etymology Dictionary under *troth*. The Dutchman on his angel, [in Act 1](#/read/dutchman/act-1:21), and on the condition of his rescue, [in the last scene](#/read/dutchman/act-3:118)."
+    }
+   ]
+  }
+ ],
+ "auden": [
+  {
+   "says": "In *The Enchafèd Flood* the Flying Dutchman is one of four names Auden gives to a single figure; the others are Ishmael, the exile and the Wandering Jew. That figure is one half of a double-natured hero he finds in a dream told by Wordsworth. The other half is Don Quixote, the dedicated man.",
+   "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), p. 5",
+   "checked": "read in the scan, research/auden/ef.txt, lines 296–307, on 2026-10-03; the page follows from the running heads and from the numbers printed at the foot of pp. 10 to 13"
+  },
+  {
+   "says": "In the same book he lists what is new in the Romantic attitude to the sea. Every man of feeling and honor wants to leave land and city. Man’s true state is the voyage, and the sea is his real situation. What is decisive happens at sea: the choice that counts forever, temptation, fall and redemption. Life on shore is always trivial. Whether there is a lasting destination nobody knows, and a lasting bond can be neither had nor wished for. He does not apply the list to this opera.",
+   "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 12–13",
+   "checked": "read in the scan, research/auden/ef.txt, lines 570–600, on 2026-10-03; the numbers 12 and 13 stand at the foot of the pages"
+  },
+  {
+   "says": "In the 1969 essay he calls Wagner’s operas freaks, which have to be listened to differently from most operas. Wagner, he writes, expected his heroes and heroines to be admired, and what he in fact shows is a line of ill-bred neurotics, drawn with the greatest skill. No one else paints what in people is unreasoning, sick, cranky and bent on its own ruin as it really is, with its spell on it. To get the full good of the operas a listener has to find all this in himself and at the same moment hold it at a distance, as what he must overcome.",
+   "source": "“The Greatest of the Monsters” (1969), in *Forewords and Afterwords* (1973), pp. 253 and 255",
+   "checked": "read in the scan, research/auden/fa.txt, lines 12130–12136 and 12222–12250, on 2026-10-03; the scan drops most punctuation"
+  },
+  {
+   "says": "In his own prose note to the lines on Wagner in *New Year Letter*, Auden ranks Wagner first among the Romantic artists. He calls the operas masterpieces when they are taken as studies of tribulation, like a psychoanalyst’s case histories, and absurd when they are taken as dramatic plots, because the characters know beforehand that their mistakes are mistakes; his example is the *Ring*. In giving voice to suffering, he writes, Wagner may be the greatest genius there has been, and his genius stops there.",
+   "source": "his note to line 1432 of *New Year Letter* (London: Faber, 1941), pp. 143–44; read only in snippets of a scanned copy, with a gap",
+   "checked": "read only in the research notes, remake/research/C_auden_on_works.md, appendix H6, which pieces the note together from search snippets of the Faber edition and leaves a gap; the book was not opened in this session"
+  },
+  {
+   "says": "In “Notes on Music and Opera” he writes that a librettist’s verses are meant, like a private letter, for the composer and not for the public, and that, as he believes, people listening to song hear syllables, not words. That is his reason for being, in general, against opera sung in translation. In English, he says, Wagner or Strauss sounds intolerable, and a translation that was the better poem would not help, because the new syllables do not suit the pitch and speed of the notes that carry them.",
+   "quote": "In song, poetry is expendable, syllables are not.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), p. 473",
+   "checked": "read in the scan, research/auden/dh.txt, lines 22250–22290, on 2026-10-03; the running head of p. 473 stands above the passage"
+  },
+  {
+   "says": "In the same notes he says that what opera imitates is human willfulness. Music, he writes, is immediate, and nothing merely potential or passive can live beside it; what the great operatic roles share is that each is a state of passion and will. What is sung is so, and for that reason there can be no self-deception in opera. A good libretto plot gives its characters every possible occasion to be carried away, and the theory of music-drama needs a libretto without one sensible moment, which Wagner managed.",
+   "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), pp. 470–72",
+   "checked": "read in the scan, research/auden/dh.txt, lines 22118–22215, on 2026-10-03, between the running heads of pp. 470, 471 and 472"
+  }
+ ],
+ "next": "dutchman/act-1:0",
+ "sources": [
+  "The text: Richard Wagner, *Der fliegende Holländer*, in the German of the libretto that Fred. Rullman of New York published for the Metropolitan Opera House, as Project Gutenberg prints it (no. 27769). The English set beside it is from the same publisher’s German and English libretto (Project Gutenberg no. 31963), which names no translator and gives no date.",
+  "Richard Wagner, *Gesammelte Schriften und Dichtungen*, vol. 1 (Leipzig: E. W. Fritzsch, 1871): “Autobiographische Skizze,” p. 23; *Der fliegende Holländer*, pp. 335–47 and 362–63, his own text of Acts 2 and 3 with its stage directions.",
+  "Richard Wagner, *Gesammelte Schriften und Dichtungen*, vol. 4 (Leipzig: E. W. Fritzsch, 1872): *Oper und Drama*, p. 118, on *Stabreim*; “Eine Mittheilung an meine Freunde” (1851), pp. 399–400, on end rhyme and the verse of *Siegfried*.",
+  "Richard Wagner, *Der fliegende Holländer*, “Vollständige mit der Partitur übereinstimmende Ausgabe” (Berlin: Adolph Fürstner, 1901), pp. 28 and 47: the libretto that agrees with the score.",
+  "*The Flying Dutchman*, English and German versions edited and adapted by J. C. Macy and J. Troutbeck, Oliver Ditson Company’s Standard Opera Libretto (copyright 1895), p. 16: the melody of the ballad’s first stanza, printed with the words.",
+  "W. H. Auden, “The Greatest of the Monsters” (1969), in *Forewords and Afterwords* (1973), pp. 253–55.",
+  "W. H. Auden, *New Year Letter* (1941), as printed in *The Collected Poetry of W. H. Auden* (New York: Random House, 1945), p. 308. His prose note to these lines, in *New Year Letter* (London: Faber, 1941), pp. 143–44, was not seen in full.",
+  "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 5 and 12–13.",
+  "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Notes on Music and Opera,” pp. 470–73.",
+  "*Digitales Wörterbuch der deutschen Sprache* (dwds.de), with Wolfgang Pfeifer’s etymological dictionary in its entries: *antreffen*, *bleiben*, *bleich*, *blutrot*, *Bord*, *Engel*, *erlösen*, *Erlösung*, *erreichen*, *Gebot*, *getreu*, *Grab*, *Heil*, *Herr*, *Herz*, *hier*, *hin*, *hoch*, *hui*, *ihr*, *kennen*, *Mast*, *Meer*, *mögen*, *niemals*, *nirgends*, *ohne*, *pfeifen*, *Pfeil*, *preisen*, *Rast*, *Reine*, *Ruhe*, *sausen*, *schenken*, *Schiff*, *Schreck*, *schwarz*, *Segel*, *sollen*, *Stabreim*, *stehen*, *Tau*, *Tod*, *treffen*, *treu*, *Treue*, *Verdammnis*, *wachen*, *Weib*, *weihen*, *weilen*, *Wind*, *zeigen* and *Ziel*.",
+  "Jacob and Wilhelm Grimm, *Deutsches Wörterbuch*, in the digital edition at dwds.de: *hinfliegen*, *hui*, *rast*, *ruhe*, *treueigen* and *ziel*.",
+  "Online Etymology Dictionary: apostrophe, huzza, troth.",
+  "Gideon O. Burton, *Silva Rhetoricae* (Brigham Young University): apostrophe.",
+  "Paull F. Baum, *The Principles of English Versification* (1922): chapter 4, on the four-line stanza; chapter 5, on alliteration.",
+  "English Wikipedia, “Subjunctive mood”: the section on German."
+ ],
+ "caveats": [
+  "Nothing Auden said about this opera by itself is on record. The view at the head of the page is put together from his essay of 1969 and from lines of 1941 that describe Wagner’s dramas in general.",
+  "The German shown is that of an American libretto and differs in places from the text Wagner printed in 1871. There Senta’s first line of her own reads, in English: let me be the one who redeems you through her troth.",
+  "The last return of the refrain, at the end of Scene 2, differs by edition: Wagner’s text gives its last three lines whole, a libretto of 1901 that agrees with the score breaks off before the last word, and the libretto shown here gives Senta the girls’ two lines.",
+  "The stresses marked are one reader’s hearing. The first word of each of the first two lines, and *wacht* in the fourth, can fairly be given more weight or less. The tune was read in the melody printed in a libretto of 1895, not in a score.",
+  "In the arrow line *er*, he, is taken to be the pale man, as at the same place in the second stanza. Grammar rules out the ship, which is neuter. It does not rule out the wind, which is masculine too."
+ ],
+ "open": [
+  "Nothing is on record of what Auden said about this opera in the 1941 class. The view is put together from an essay of 1969 and from lines of 1941 that describe Wagner’s dramas in general.",
+  "The plates show the German of an American libretto, which differs in places from Wagner’s own text of 1871. In the first of Senta’s three lines on the second plate, Wagner’s text and the 1901 libretto that agrees with the score say: let me be the one who redeems you through her troth. The wording shown, with das Weib and soll, is that of the American librettos (Rullman, and Ditson 1895), and where it came from was not found. The captions lean on sei, Mög’, mich and sollst, which both wordings have; the bold word erlösen and the mark on soll exist only in the wording shown.",
+  "Other differences from Wagner’s text of 1871: the close of each stanza is two lines there and one long line here; the third line of the refrain ends in a question mark there and an exclamation mark here; Wagner has einstens for einst; and the last line of the opera reads there, in English, see me here, true to you until death, where the text shown and the libretto of 1901 have here I stand.",
+  "The last return of the refrain, at the end of Scene 2, differs by edition: it is complete in Wagner’s text of 1871, breaks off before its last word in the libretto of 1901, and is replaced by the girls’ question in the libretto shown here.",
+  "The stage directions in the Scene table are from Wagner’s edition of 1871. The hosted English has no stage directions in Act 2, so a reader cannot check them on the site; the table’s \"read\" keys point to the nearest speech in the English.",
+  "The tune was read only in the melody printed with the words in the Ditson libretto of 1895, not in a score.",
+  "The scansion marks one way of saying the lines. A voice can also stress the first word of the first two lines, or wacht in the fourth, more or less than is marked. Johohe is stressed on its last syllable after the way it is sung.",
+  "In the arrow line the word er, he, is taken for the pale man, as at the same place in the second stanza. It cannot be the ship, which is neuter; the wind and the mast are masculine nouns too.",
+  "No English stands beside the third plate, because its eight lines lie in three acts of the hosted English. There the word for command is law in Act 1 and demands in Act 2, and the last couplet has neither angel nor command.",
+  "The compounds Schreck-Gebot and Hochgebot are in neither dictionary; they are glossed from their parts.",
+  "The scan of Forewords and Afterwords drops most punctuation, so Auden’s prose there is paraphrased and not quoted. The lines from New Year Letter are quoted from the page image of The Collected Poetry (1945), p. 308, with the punctuation printed there; the London edition of 1941 was not seen, and by the research notes it prints Death and Mother with capitals.",
+  "Auden’s prose note of 1941 was read only in the research notes. The Swarthmore chart of 1943 is no longer on the page: its entry was taken out of the list and is kept in notes.md.",
+  "The verse handbook cited describes English verse. It is used for the stanza form and for alliteration, not for German stress.",
+  "The count of Hui is of the German libretto shown (nine lines of the ballad, three of the chorus of the Dutchman’s crew). The examiner counted again: Wagner’s text of 1871 has it on the same nine lines and three; the libretto of 1901 that agrees with the score, and the hosted English, have it five times in that chorus. In all of them no one but Senta, in the ballad, and the Dutchman’s crew cries it.",
+  "Examiner: the part o-dutchman/end was cut again, from lines 262-267, 1162-1165, 1587-1588 and 1639-1640 of the German libretto, so that the build sets its sign of omission between the three places of the third passage (before, the eight lines from three acts ran on as one). The last couplet is now rows 3.0 and 3.1; the two lines of block 2 (the Dutchman’s statement of the condition in Act 3) are hosted and not shown. The label of the part, which the page prints beside the heading of the passage, was worded to fit the eight lines shown. The site data built at 06:26 UTC on 3 October 2026 has the two signs of omission, and the artist’s pictures taken at 06:24 UTC show them.",
+  "Examiner: in the Scene table the key read holds addresses such as dutchman/act-2:0. In the artist’s pictures taken at 06:24 UTC on 3 October 2026 the plain table of the kit printed them as a column headed read. That is settled: the kit (site/js/kit/lens-shape.js) was changed at 06:30 UTC to leave out a key named read, and since 06:34 UTC the artist’s drawing (site/js/pieces/dutchman.js) stands in place of the plain table and uses read for the links of its rows; the picture taken at 06:48 UTC shows no such column. The key was left as the poet named it.",
+  "Examiner: the artist’s drawing of the Scene table takes as the column of stage directions the longest column that is not when, who sings, what is sung or read. Today that is the right one (989 characters in all, against 899 for source). If the directions are shortened or the sources lengthened, the drawing would print the sources in their place; the script should pass over source and note. Nothing in the table was changed after the drawing was made.",
+  "Examiner: the last row of the first stanza begins with a dash, which the tools count as a word by itself. A scan must give every word shown a mark, so the poet shows the row from its second word, and the page prints points of omission there. No word of the libretto is left out at that place, only the dash.",
+  "On the first plate two plain glosses take one of two fair readings. The words glossed as on the high deck could also be heard as on the tall ship (Grimm has a ship of high Bord, a tall-sided ship). The rope in the whistling line is a singular that stands for the ship’s ropes; the gloss keeps the singular."
+ ]
+}

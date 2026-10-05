@@ -1,0 +1,1647 @@
+{
+  "piece": "carmen",
+  "title": "Carmen’s liberty",
+  "where": "*Carmen*, Act 1, Scene 5; Act 2, Scenes 5 and 6; Act 3, Scene 2 (the scene numbers of the French libretto)",
+  "about": "In a square in Seville the young men ask Carmen, a gypsy, when she will love them. She answers with a song, then throws a flower at the one man still at his work, the soldier Don José. He goes to prison for her, and the night he comes out she says that if he loved her he would follow her to the mountains; he refuses, then draws his sword on an officer and has to go. In Act 3, among smugglers, she turns up death in the cards.",
+  "view": {
+    "says": "In *The Enchafèd Flood* Auden describes the wilderness of the Romantics, sea or desert, as the place with no community, where a person is free alike of the evils and of the duties of life among others. Byron’s ocean is one example, Captain Nemo’s sea another, and Carmen’s mountains a third. Such places are marked by the absence of limits. Because they are free, he adds, they are lonely.",
+    "quote": "And so Carmen tempts Don José to leave the fertile plain for the barren lawless mountains.",
+    "source": "*The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 15–17",
+    "checked": "read in the scan of The Enchafèd Flood, research/auden/ef.txt lines 676-790, on 2026-10-03, by the poet before me and again by me. In this scan the page number stands at the foot: the no-community sentences are on p. 15, the Carmen sentence with four quoted lines and the absence of limitations on p. 16, six more lines, the credit to Meilhac and Halévy and the lonely places on p. 17. The scan prints Jose without its accent. Second examiner, 2026-10-03: read again in the same scan, whose title page gives the Vintage Books edition of September 1967, so the page numbers are that edition’s; the quotation was compared with the scan by script, letter for letter apart from the accent, and matched."
+  },
+  "plates": [
+    {
+      "id": "habanera",
+      "heading": "The Habanera",
+      "label": "The French libretto, 1875",
+      "text": "o-carmen/habanera",
+      "rows": [
+        "0.0-0.7",
+        "1.0-1.3"
+      ],
+      "pair": {
+        "label": "The English libretto, about 1910",
+        "text": "carmen/act-1",
+        "rows": [
+          "110.0-110.7",
+          "110.9-110.12"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Count",
+          "meterName": "eight counted syllables to the line; one line is printed with ten",
+          "scan": {
+            "0.0": {
+              "meter": "......./",
+              "voice": "xx x x xx x/~"
+            },
+            "0.1": {
+              "meter": "......./",
+              "voice": "x x x x xxx/"
+            },
+            "0.2": {
+              "meter": "......./",
+              "voice": "x x x x x x x/~"
+            },
+            "0.3": {
+              "meter": "......./",
+              "voice": "x x xx x xx/"
+            },
+            "0.4": {
+              "meter": "......./",
+              "voice": "x x x xx~ x x/~",
+              "div": {
+                "3": "me|na|ce",
+                "5": "pri|è|re ;"
+              }
+            },
+            "0.5": {
+              "meter": "......./",
+              "voice": "x xx x xx x /",
+              "div": {
+                "3": "l’au|tre"
+              }
+            },
+            "0.6": {
+              "meter": "......./",
+              "voice": "x x xx x x x/~",
+              "div": {
+                "2": "l’au|tre",
+                "5": "pré|fè|re ;"
+              }
+            },
+            "0.7": {
+              "meter": "......./",
+              "voice": "x x x x x x x /",
+              "div": {
+                "7": "plaît."
+              }
+            },
+            "1.0": {
+              "meter": "......./",
+              "voice": "xx x xx x x/~",
+              "div": {
+                "4": "Bo|hê|me,"
+              }
+            },
+            "1.1": {
+              "meter": "........./",
+              "voice": "x x xx xx xx x /"
+            },
+            "1.2": {
+              "meter": "......./",
+              "voice": "x x x xx x x /~",
+              "div": {
+                "3": "m’ai|mes",
+                "6": "t’ai|me ;"
+              }
+            },
+            "1.3": {
+              "meter": "......./",
+              "voice": "x x xx x x~ x /",
+              "div": {
+                "2": "t’ai|me,",
+                "4": "gar|de"
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "0.0",
+                4,
+                4
+              ],
+              "say": "The line ends on a mute *e*. The count leaves it out. In singing, the same history of French verse says, it is always sounded in full."
+            },
+            {
+              "at": [
+                "0.4",
+                3,
+                3
+              ],
+              "say": "A vowel follows, so this final *e* is not counted."
+            },
+            {
+              "at": [
+                "0.5",
+                1,
+                1
+              ],
+              "say": "A consonant follows, so this final *e* is a syllable."
+            },
+            {
+              "at": [
+                "1.1",
+                2,
+                3
+              ],
+              "say": "One word, printed twice: as printed, the line has ten syllables. After the second verse the refrain is printed again with the word once, and there this line has eight."
+            }
+          ],
+          "caption": "French verse is measured by the number of syllables. Here the line has eight, which a history of French verse gives as the line of lyric pieces and lighter poetry: Carmen is answering the young men with a song. The endings go by turns: a mute <i>e</i>, which the count leaves out and a singer sounds, then a full syllable. One line of the refrain is printed with a word twice, and has ten. Auden says a libretto’s verses are addressed to the composer. By Winton Dean’s account the composer wrote these himself, and the tune is adapted from a song by Sebastián Yradier with the same plan, verse in the minor and refrain in the major.",
+          "why": "Carmen answers the young men in the eight-syllable line of lyric and lighter verse; the line printed with ten has a word twice; the verses, which Auden says are addressed to the composer, were by Dean’s account the composer’s own.",
+          "grounds": [
+            {
+              "claim": "the count of each line, the two endings by turns, which final e is counted, and the word printed twice in the second line of the refrain",
+              "kind": "plate"
+            },
+            {
+              "claim": "after the second verse the refrain is printed again, and its second line has the word once: six words, eight syllables",
+              "kind": "text",
+              "source": "o-carmen/habanera, block 3, row 1 (French source lines 570-596), counted by number (notes.md, The counts)"
+            },
+            {
+              "claim": "the young men who came in with Carmen ask her what day she will love them; she says she does not know, and the song follows at once in the same speech",
+              "kind": "text",
+              "source": "the French text of Act 1, Scene 5, lines 557-570 of .cache/originals/bizet_carmen_fr_wikisource.txt, read by the second examiner on 2026-10-03; in the English printed beside it, act-1 blocks 106 to 110"
+            },
+            {
+              "claim": "French verse rests on a fixed number of syllables; the mute e is not counted at the end of a line, is dropped before a vowel and counted before a consonant; in singing the mute e at the end of a line is always pronounced in full",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 1, 4–5 and 7, with note 1 on p. 7"
+            },
+            {
+              "claim": "the two kinds of ending alternate; Ronsard recommended it so that verse should be fitter for music",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 64–65"
+            },
+            {
+              "claim": "the line of eight is now almost entirely confined to lyrical poetry; in the eighteenth century it was favoured for lyrical pieces, the ode and all branches of lighter poetry",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 140–42"
+            },
+            {
+              "claim": "by Dean’s account the words of this song are the composer’s own, as the manuscript of them that survives shows; its tune he adapted from El Arreglito, a song by Sebastián Yradier (1809–65), which has the same plan, a verse in D minor and a refrain in D major",
+              "kind": "source",
+              "source": "Winton Dean, Bizet (London: Dent, 1975), pp. 213–14 and 229, read in snippets of the scan at archive.org (item bizet0000dean); p. 229 is from the book’s index (notes.md, Step 5)"
+            },
+            {
+              "claim": "the verses a librettist writes are addressed to the composer and not to the public",
+              "kind": "auden",
+              "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 473"
+            }
+          ],
+          "stands": "The marks on the passage; the young men’s question [before it](#/read/carmen/act-1:105); the refrain as the French prints it again after the second verse. L. E. Kastner, *A History of French Versification*, pp. 1, 4–5 and 7 (the count, the mute *e*, how it is sung), 64–65 (the two endings), 140–42 (the line of eight). Winton Dean, *Bizet* (1975), pp. 213–14 and 229. Auden: *The Dyer’s Hand*, p. 473."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "0.0",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "rebel",
+              "note": "Littré’s first sense is one who rises against a lawful authority. His third belongs to the language of gallantry: one who does not yield to love.",
+              "source": "Littré, under rebelle, 1 and 3"
+            },
+            {
+              "row": "0.1",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "to tame",
+              "note": "Littré: to make tame, as a lion or birds. Familiarly, of a woman: to get her used to hearing love talked of.",
+              "source": "Littré, under apprivoiser, 1 and 2"
+            },
+            {
+              "row": "1.0",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "child, native",
+              "note": "One of Littré’s senses is a native of a place: the children of Paris.",
+              "source": "Littré, under enfant, 13"
+            },
+            {
+              "row": "1.0",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "Bohemia",
+              "note": "Littré: gypsies are called *bohèmes* because they were thought to come from Bohemia. They are wandering bands with no fixed home and no regular trade, who often tell fortunes.",
+              "source": "Littré, under bohème, 1 and the etymology"
+            },
+            {
+              "row": "1.1",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "law",
+              "note": "Littré’s first sense is a rule laid down by the sovereign authority. His seventeenth is the sway a woman has over a man.",
+              "source": "Littré, under loi, 1 and 17"
+            },
+            {
+              "row": "1.3",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "care, watch",
+              "note": "Littré: with the verb *to take*, to watch out, to take one’s precautions.",
+              "source": "Littré, under garde, 5"
+            }
+          ],
+          "caption": "In Littré’s dictionary three of these words have a sense in the language of courtship. <b>Rebelle</b> is one who will not yield to love. <b>Apprivoiser</b>, to tame, is to get a woman used to hearing love talked of. <b>Loi</b>, law, is the sway a woman has over a man. The song turns all three on love itself, in their first senses: love is the rebel against authority, the bird not to be tamed, the one that knows no law. The refrain gives it a country, <b>Bohême</b>, Bohemia, where gypsies were thought to come from, and Carmen is a gypsy. Auden names Carmen as the classic case of a type of woman, the Infernal Venus, who is against all order.",
+          "why": "The song gives three words of courtship, rebel, tame and law, in their first senses to love itself, and makes love a gypsy like the singer; Auden names Carmen the classic case of the woman against all order.",
+          "grounds": [
+            {
+              "claim": "the words glossed and where they stand; love is the subject of the first line and of the first line of the refrain",
+              "kind": "plate"
+            },
+            {
+              "claim": "rebelle: who rises against a lawful authority, and in the style of gallantry who does not yield to love; apprivoiser: to make tame, and familiarly to accustom a woman to hearing talk of love; loi: a prescription of the sovereign authority, and the sway a woman has over a man; enfant: a native; bohème: wandering bands, so called because they were believed to come from Bohemia; garde, with the verb prendre: to watch, to take one’s precautions",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under rebelle (1 and 3), apprivoiser (1 and 2), loi (1 and 17), enfant (13), bohème (1 and the etymology) and garde (5), read again on 2026-10-03 in the saved pages"
+            },
+            {
+              "claim": "Carmen says that she is a gypsy; José and the lieutenant have called her one",
+              "kind": "text",
+              "source": "the French text of Act 1, spoken dialogue, lines 865, 1103 and 1181 of .cache/originals/bizet_carmen_fr_wikisource.txt, read on 2026-10-03"
+            },
+            {
+              "claim": "the second mythical type of woman, the Infernal Venus, draws men to ruin and is against order of every kind; Carmen is her classic case. One of the passages Auden prints under that heading is from Mérimée’s story of Carmen, so the name there is the figure of the story as much as of the opera",
+              "kind": "auden",
+              "source": "“The Mythical Sex” (1947), in Prose, vol. II (2002), p. 328"
+            }
+          ],
+          "stands": "The marks on the passage. Littré under *rebelle*, *apprivoiser*, *loi*, *enfant*, *bohème* and *garde*. Carmen calls herself a gypsy in the spoken dialogue of the French text, later in Act 1. Auden on the type of woman who is against all order, with Carmen as its classic case: “The Mythical Sex,” in his *Prose*, vol. II, p. 328."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "anadiplosis",
+          "plain": "a doubling back: the words that end one clause begin the next; here they come back after a second *si*",
+          "draw": "chain",
+          "parts": [
+            {
+              "row": "1.2",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "if",
+              "label": "if"
+            },
+            {
+              "row": "1.2",
+              "w": [
+                1,
+                4
+              ],
+              "tag": "you",
+              "label": "you do not"
+            },
+            {
+              "row": "1.2",
+              "w": [
+                5,
+                6
+              ],
+              "tag": "I",
+              "label": "I do"
+            },
+            {
+              "row": "1.3",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "if",
+              "label": "if"
+            },
+            {
+              "row": "1.3",
+              "w": [
+                1,
+                2
+              ],
+              "tag": "I",
+              "label": "I do"
+            },
+            {
+              "row": "1.3",
+              "w": [
+                3,
+                6
+              ],
+              "tag": "warning",
+              "label": "the warning"
+            }
+          ],
+          "join": [
+            [
+              2,
+              4
+            ]
+          ],
+          "caption": "The refrain ends on two sentences built alike: <i>si</i>, if, a condition, then a result. Both conditions are in the present; in Act 2 she will say what would happen if. The result of the first, that she loves, comes back after the second <i>si</i> as its condition, the link rhetoric calls anadiplosis, and from it follows a warning. So the warning is for the one who does not love her. The pronoun is <i>tu</i>, one person, though many men asked. One man, José, has gone on working; after the song she goes straight to him, and left alone he puts it down to his paying her no attention. Auden’s example of a lifelong one-sided romance is José and Carmen.",
+          "why": "The result of the first if-sentence is the condition of the second, so the warning falls on whoever does not love her, on stage José, the one man at his work; Auden’s example of a one-sided romance is these two.",
+          "grounds": [
+            {
+              "claim": "the two ifs; the pronoun and verb that end the first sentence stand again after the second if; the one spoken to is the subject of the verb to love once, with a negation; the pronoun for the one spoken to is the singular; the verbs are in the present and the last is an imperative",
+              "kind": "plate"
+            },
+            {
+              "claim": "anadiplosis: the repetition of the last word or phrase of one line, clause or sentence at the beginning of the next",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under anadiplosis, read in the saved page on 2026-10-03"
+            },
+            {
+              "claim": "a conditional sentence has a condition introduced by si and a result; a result in the present indicative, the imperative or the future requires the if-clause in the present indicative, and a result in the conditional requires it in the imperfect; the conditional says what would happen in case something else were to happen",
+              "kind": "source",
+              "source": "W. H. Fraser and J. Squair, High School French Grammar (Toronto, 1900), sections 265, 274 and 275"
+            },
+            {
+              "claim": "in Act 2 her if-clause is in the imperfect and its result in the conditional",
+              "kind": "text",
+              "source": "o-carmen/la-bas rows 0.0 and 1.0, the second passage of this reading"
+            },
+            {
+              "claim": "the young men surround her and ask when she will love them; José looks up and goes quietly on with his work; before the song she looks at all of them; after it she leaves the circle, goes straight to José, who is at work, and throws the flower at him",
+              "kind": "text",
+              "source": "carmen/act-1 blocks 104-113; the French text, lines 555-568, 604 and 618 of .cache/originals/bizet_carmen_fr_wikisource.txt"
+            },
+            {
+              "claim": "alone after she has gone, José says that all this came of his paying her no attention, and that she came as women and cats do, who come when they are not called",
+              "kind": "text",
+              "source": "the French text of Act 1, Scene 6, spoken, line 629 of .cache/originals/bizet_carmen_fr_wikisource.txt, read by the second examiner on 2026-10-03; the English printed here gives José alone in verse (carmen/act-1 blocks 115 to 118) and does not have this remark"
+            },
+            {
+              "claim": "to idolize one real person romantically for a whole life is possible, and happens, only where the love is on one side and the other party plays the cruel fair; his example is Don José and Carmen, named in that order, and he does not say which of the two is which (read again by the finisher on 2026-10-03, research/auden/dh.txt lines 5808-5810)",
+              "kind": "auden",
+              "source": "“Balaam and His Ass,” in The Dyer’s Hand (1962), p. 121"
+            }
+          ],
+          "stands": "The marks on the passage. *Silva Rhetoricae* and the Online Etymology Dictionary under *anadiplosis*. The tenses after *if*: W. H. Fraser and J. Squair, *High School French Grammar* (1900), sections 274 and 275. The stage directions before and after the song: [Act 1](#/read/carmen/act-1:104). What José says when alone: the spoken French of Act 1, Scene 6, not in this English. Auden on the one-sided romance: *The Dyer’s Hand*, p. 121."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            {
+              "a": [
+                "0.1",
+                4,
+                4
+              ],
+              "b": [
+                "p:110.1",
+                7,
+                7
+              ],
+              "say": "*To tame* is kept, and kept at the end of the line, where the English rhymes it two lines on."
+            },
+            {
+              "a": [
+                "1.0",
+                2,
+                4
+              ],
+              "b": [
+                "p:110.9",
+                5,
+                5
+              ],
+              "say": "The French gives love a birthplace, Bohemia, and so makes it a gypsy. The English gives it a rank: a *lord*."
+            },
+            {
+              "a": [
+                "1.1",
+                2,
+                3
+              ],
+              "b": [
+                "p:110.10",
+                3,
+                3
+              ],
+              "say": "The French word stands twice, and the line as printed has ten syllables. The English line has ten as well; this adjective is one of the words it adds."
+            },
+            {
+              "a": [
+                "1.1",
+                6,
+                6
+              ],
+              "b": [
+                "p:110.10",
+                4,
+                4
+              ],
+              "say": "The French has one bare noun, *loi*, law. The English gives the law *fetters*."
+            },
+            {
+              "a": [
+                "1.2",
+                0,
+                0
+              ],
+              "b": [
+                "p:110.11",
+                0,
+                0
+              ],
+              "say": "Both *ifs* are kept, and the present tense with them."
+            },
+            {
+              "a": [
+                "1.3",
+                3,
+                6
+              ],
+              "b": [
+                "p:110.12",
+                6,
+                6
+              ],
+              "say": "Four French words of warning, one English word. It rhymes with the last word two lines up."
+            }
+          ],
+          "caption": "This English seems made for singing. It rhymes every second line, and its first four lines count nine, eight, nine and eight syllables, as the French lines do when the mute <i>e</i> is sung. The line the French prints with ten has ten here. What is named changes. The French gives love a birthplace, <b>Bohême</b>, Bohemia, the gypsies’ supposed home; the English gives it a rank, a <i>lord</i>. For the bare noun <b>loi</b>, law, the English has <i>fetters</i>, to be worn, and that verb is its rhyme. Auden was not, as a rule, for opera in translation: a composer, he held, writes for the syllables.",
+          "why": "The English keeps the sung count in its first lines and a rhyme, and changes what is named: the gypsy with no law becomes a lord who will wear no fetters; Auden held that a composer writes for the syllables.",
+          "grounds": [
+            {
+              "claim": "which French words answer which English words; the English lines end alike in the second and fourth lines of the verse and of the refrain",
+              "kind": "plate"
+            },
+            {
+              "claim": "the first four English lines have nine, eight, nine and eight syllables; the second line of the English refrain has eight words and ten syllables, the third nine, the fourth eight; that second line has a negative, the law in the possessive, an adjective, fetters, and ends on the verb to wear; by the second examiner’s count rows 6 and 9 of the block have eight syllables where the French line as sung has nine, so the caption claims the count only for the first four lines and the line of ten",
+              "kind": "text",
+              "source": "carmen/act-1 block 110, rows 0-3 and 9-12, counted word by word with the kit’s rule and checked by number (notes.md, Step 5)"
+            },
+            {
+              "claim": "in singing the mute e at the end of a line is always pronounced in full, so a line of eight with that ending is sung as nine",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), p. 7, note 1, with pp. 4–5 for the count"
+            },
+            {
+              "claim": "bohème: wandering bands with no fixed home, so called because they were believed to come from Bohemia; loi: a prescription of the sovereign authority",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under bohème and loi (1)"
+            },
+            {
+              "claim": "in listening to song we hear syllables and not words; it is the syllabic values of the words that determine the vocal line a composer writes; for that reason he is not generally in favor of performing operas in translation",
+              "kind": "auden",
+              "source": "“Notes on Music and Opera,” in The Dyer’s Hand (1962), p. 473"
+            }
+          ],
+          "stands": "The marks on the two versions, and a count of the English lines. L. E. Kastner, *A History of French Versification*, p. 7, for the mute *e* in singing. Littré under *bohème* and *loi*. Auden on syllables and on opera in translation: *The Dyer’s Hand*, p. 473."
+        }
+      ]
+    },
+    {
+      "id": "la-bas",
+      "heading": "Over there",
+      "label": "The French libretto, 1875",
+      "text": "o-carmen/la-bas",
+      "turn": { "1.3": 3 },
+      "stage": { "0.0": { "name": 0, "text": "CARMEN" }, "2.0": { "name": 0, "text": "CARMEN" }, "3.0": { "name": 0, "text": "TOUS" } },
+      "speakers": { "TOUS": "all" },
+      "rows": [
+        "0.0[1-5]",
+        "1.0-1.3",
+        "2.0-2.1",
+        "3.0",
+        "4.0-4.2"
+      ],
+      "pair": {
+        "label": "The English libretto, about 1910",
+        "text": "carmen/act-2",
+        "rows": [
+          "253.0-253.5",
+          "261.1-261.2",
+          "333.0-333.4"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "sentence",
+          "label": "Mood",
+          "spans": [
+            {
+              "from": [
+                "0.0",
+                3
+              ],
+              "to": [
+                "0.0",
+                3
+              ],
+              "tag": "if",
+              "label": "if"
+            },
+            {
+              "from": [
+                "0.0",
+                5
+              ],
+              "to": [
+                "0.0",
+                5
+              ],
+              "tag": "supposed",
+              "label": "loved"
+            },
+            {
+              "from": [
+                "1.0",
+                4
+              ],
+              "to": [
+                "1.0",
+                4
+              ],
+              "tag": "supposed",
+              "label": "would follow"
+            },
+            {
+              "from": [
+                "2.0",
+                4
+              ],
+              "to": [
+                "2.0",
+                4
+              ],
+              "tag": "stated",
+              "label": "will follow"
+            },
+            {
+              "from": [
+                "2.1",
+                1
+              ],
+              "to": [
+                "2.1",
+                1
+              ],
+              "tag": "stated",
+              "label": "love"
+            },
+            {
+              "from": [
+                "2.1",
+                5
+              ],
+              "to": [
+                "2.1",
+                5
+              ],
+              "tag": "stated",
+              "label": "will follow"
+            }
+          ],
+          "caption": "The first sentence is a supposition. After <i>si</i>, if, the verb is in the imperfect, <b>aimais</b>, loved, and the result in the conditional, <b>suivrais</b>, would follow: the form, a French grammar says, for what would happen if. José has just sung what her flower was to him in prison, and she has answered that he does not love her. Later, where the stage direction calls him almost won over, she sings the line again with one letter gone: <b>suivras</b>, will follow. The if is gone too, and <i>loved</i> is now <b>aimes</b>, love. Auden’s verb for what she does to José is <i>tempts</i>.",
+          "why": "Carmen first puts José’s following her as a supposition, if with the imperfect and the conditional; when he is almost won over she repeats the line in the future with no if; Auden’s verb for what she does is tempts.",
+          "grounds": [
+            {
+              "claim": "the if, the tense of each of the five verbs, and the one letter between the conditional and the future of the same verb",
+              "kind": "plate"
+            },
+            {
+              "claim": "the stem of the conditional is that of the future; a result in the conditional has its if-clause in the imperfect and says what would happen in case something else were to happen; a result in the future has its if-clause in the present",
+              "kind": "source",
+              "source": "W. H. Fraser and J. Squair, High School French Grammar (Toronto, 1900), sections 115 (observation), 116, 265 (1) and 275"
+            },
+            {
+              "claim": "si is the conjunction of a condition or a supposition",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under si (1)"
+            },
+            {
+              "claim": "José’s song just before is about the flower she threw, which he kept in prison, and ends on his being hers; in the French text printed here it has no word for love (counted by the second examiner; the English, block 243, does speak of love); her reply is that he does not love her, for if he did he would follow; the direction almost won over stands before the two later lines; he then refuses to desert",
+              "kind": "text",
+              "source": "the French text of Act 2, lines 2427-2460, 2501 and 2512-2518 of .cache/originals/bizet_carmen_fr_wikisource.txt; in the English, carmen/act-2 blocks 243-245 and 263"
+            },
+            {
+              "claim": "Auden’s verb for what Carmen does to José is tempts: the sentence quoted in the view, in which she draws him from the plain to the mountains",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 16"
+            }
+          ],
+          "stands": "The marks on the passage. W. H. Fraser and J. Squair, *High School French Grammar* (1900), sections 115, 116, 265 and 275, for the conditional and the sentences it goes in. José’s song and her answer to it are in [Act 2](#/read/carmen/act-2:242); the direction that he is almost won over is in the French text only. Auden’s sentence: *The Enchafèd Flood*, p. 16."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "0.0",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "over there",
+              "note": "Littré: below, or at some distance. In these lines the place has no other name.",
+              "source": "Littré, under bas, 25 (là-bas)"
+            },
+            {
+              "row": "1.1",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "no, not any",
+              "note": "Set before a noun, *point* denies it, and the verb is left understood.",
+              "source": "Littré, under point (the adverb), 3"
+            },
+            {
+              "row": "1.2",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "the call back to barracks",
+              "note": "Littré: the duty of soldiers to be back at a set hour, and the signal given for it.",
+              "source": "Littré, under retraite, 3"
+            },
+            {
+              "row": "3.0",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "wandering, not fixed",
+              "note": "Littré: to lead a wandering life is to live at random, without aim.",
+              "source": "Littré, under errant, 1"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                2,
+                2
+              ],
+              "gloss": "the whole world",
+              "note": "Littré’s first sense is the unlimited system of the planets and stars. His third is the earth, or a great part of it.",
+              "source": "Littré, under univers, 1 and 3"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "law",
+              "note": "Littré’s first sense: a rule laid down by the sovereign authority.",
+              "source": "Littré, under loi, 1"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "will",
+              "note": "Littré: the power within by which a person decides to do or not to do.",
+              "source": "Littré, under volonté, 1"
+            },
+            {
+              "row": "4.1",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "intoxicating",
+              "note": "Littré’s first sense is what makes drunk. The second is figurative: what deludes, exalts, charms.",
+              "source": "Littré, under enivrant, 1 and 2"
+            },
+            {
+              "row": "4.2",
+              "w": [
+                1,
+                1
+              ],
+              "gloss": "having no master",
+              "note": "Littré’s first sense: the condition of a person who belongs to no master.",
+              "source": "Littré, under liberté, 1"
+            }
+          ],
+          "caption": "In these lines the place has one name, <b>là-bas</b>, over there, said six times. It is described first by what it lacks: <i>point</i>, no, officer to obey, and no <b>retraite</b>, the bugle call back to barracks. José named that call when the bugles sounded and he said he must go. What it has comes in the last four lines, sung by all as the act ends, and Littré defines two of their words by a lack too: <b>errante</b>, not fixed, and <b>liberté</b>, having no master. Auden says such places are marked by the absence of limits. The thing prized above all is <b>enivrante</b>, intoxicating: in Littré what makes drunk and, by a figure, what deludes, exalts or charms.",
+          "why": "In these lines the place is only over there, described by what it lacks, no officer and no call to barracks, and by words Littré defines as lacks; Auden marks such places by the absence of limits.",
+          "grounds": [
+            {
+              "claim": "the words glossed and where they stand; là-bas six times in the lines shown",
+              "kind": "plate"
+            },
+            {
+              "claim": "là-bas; point before a noun; retraite; errant; univers; loi; volonté; enivrant; liberté",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under bas (25), point (the adverb, 3), retraite (3), errant (1), univers (1 and 3), loi (1), volonté (1), enivrant (1 and 2) and liberté (1)"
+            },
+            {
+              "claim": "while Carmen dances the bugles sound the retreat in the distance; José says so and says he must go back to quarters for roll call",
+              "kind": "text",
+              "source": "the French text of Act 2, lines 2334-2363 of .cache/originals/bizet_carmen_fr_wikisource.txt"
+            },
+            {
+              "claim": "the last four lines are sung by all at the close of the act",
+              "kind": "text",
+              "source": "the French text of Act 2, lines 2668-2674; in the English, carmen/act-2 blocks 332-333"
+            },
+            {
+              "claim": "Auden says of the sea and the desert, just after his sentence on Carmen’s mountains and the four lines he quotes, that what marks both is that they have no limits",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 16"
+            }
+          ],
+          "stands": "The marks on the passage. Littré under *bas*, *point*, *retraite*, *errant*, *univers*, *loi*, *volonté*, *enivrant* and *liberté*. The bugles and José’s words about them come earlier in [Act 2](#/read/carmen/act-2:212); the last four lines are sung by all at [its close](#/read/carmen/act-2:332). Auden on the absence of limits: *The Enchafèd Flood*, p. 16."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "isocolon",
+          "plain": "parts of the same length and the same build, set side by side",
+          "draw": "pair",
+          "parts": [
+            {
+              "row": "3.0",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "first half",
+              "label": "the open sky"
+            },
+            {
+              "row": "3.0",
+              "w": [
+                3,
+                5
+              ],
+              "tag": "second half",
+              "label": "the wandering life"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                0,
+                2
+              ],
+              "tag": "first half",
+              "label": "country: whole world"
+            },
+            {
+              "row": "4.0",
+              "w": [
+                3,
+                6
+              ],
+              "tag": "second half",
+              "label": "law: one’s will"
+            }
+          ],
+          "join": [
+            [
+              0,
+              1
+            ],
+            [
+              2,
+              3
+            ]
+          ],
+          "caption": "The last four lines have no verb. Each of the first two is cut into matched halves: the open sky, the wandering life; then for country the whole world, for law one’s own will. In the long line each half has six syllables: <i>pour</i>, for, a noun, then what stands in its place. In Littré <i>loi</i> is first a rule laid down by the sovereign authority: here that authority is oneself. The line rhymes <b>volonté</b>, will, with <b>liberté</b>. Auden quoted these four lines in 1943 as the song of a teacher who promises that nothing will be required: for the pupils, he said, the affair begins as Hans Andersen and ends as Grimm.",
+          "why": "The list has no verb; its long line is two matched halves, each putting the whole world or one’s own will in place of a country or a law; Auden, quoting the lines, said the affair ends as Grimm.",
+          "grounds": [
+            {
+              "claim": "the two halves of each of the two lines; no verb in the last four lines; the last words of the second and fourth of them end alike",
+              "kind": "plate"
+            },
+            {
+              "claim": "the halves count four and four syllables in the first line and six and six in the second",
+              "kind": "source",
+              "source": "counted by the rules in L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 4–7 (notes.md, The counts, rows 3.0 and 4.0)"
+            },
+            {
+              "claim": "isocolon: a series of similarly structured elements having the same length",
+              "kind": "source",
+              "source": "Silva Rhetoricae (rhetoric.byu.edu), under isocolon"
+            },
+            {
+              "claim": "loi: a prescription of the sovereign authority; univers: first the unlimited system of planets and stars, third the earth or a great part of it, the sense taken here; volonté: the inner power by which one decides; pays: a region, a country",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under loi (1), univers (1 and 3), volonté (1) and pays (1)"
+            },
+            {
+              "claim": "in a talk of 1943 he likens the progressive educator to Carmen, done up in cellophane, whose song is of a country where nothing is required; he quotes these four lines as that song, and says that for the pupils, his little Don Josés, the affair begins as a tale of Hans Andersen and ends as one of Grimm",
+              "kind": "auden",
+              "source": "“Vocation and Society” (1943), in Prose, vol. II (2002), p. 179, read in snippets; the page found by the first examiner in the search inside the volume at Google Books"
+            }
+          ],
+          "stands": "The marks on the passage, and a count of the syllables in each half by the rules in L. E. Kastner, *A History of French Versification*, pp. 4 to 7. *Silva Rhetoricae* under *isocolon*. Littré under *loi*, *univers*, *volonté* and *pays*. Auden on these lines: “Vocation and Society” (1943), in his *Prose*, vol. II, p. 179."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            {
+              "a": [
+                "1.0",
+                2,
+                4
+              ],
+              "b": [
+                "p:253.1",
+                3,
+                5
+              ],
+              "say": "The French says *you would follow me*. The English says *would we go*, and adds *together*."
+            },
+            {
+              "a": [
+                "1.2",
+                3,
+                3
+              ],
+              "b": [
+                "p:253.4",
+                3,
+                3
+              ],
+              "say": "*Retraite* is the call back to barracks at a set hour. The English says only *the trumpet*."
+            },
+            {
+              "a": [
+                "2.1",
+                0,
+                1
+              ],
+              "b": [
+                "p:261.2",
+                1,
+                4
+              ],
+              "say": "The French now states it: *you love me*. The English keeps an *if*."
+            },
+            {
+              "a": [
+                "4.0",
+                0,
+                2
+              ],
+              "b": [
+                "p:333.1",
+                0,
+                4
+              ],
+              "say": "*For country, the whole world*. The English has *the wide world*, and makes it *our dwelling*."
+            },
+            {
+              "a": [
+                "4.0",
+                5,
+                6
+              ],
+              "b": [
+                "p:333.2",
+                0,
+                1
+              ],
+              "say": "*Sa volonté* is one’s own will, each person’s. The English says *our will*."
+            },
+            {
+              "a": [
+                "4.1",
+                4,
+                4
+              ],
+              "b": [
+                "p:333.3",
+                1,
+                2
+              ],
+              "say": "*Enivrante*, intoxicating, has no word in the English, which says that liberty surpasses the rest."
+            }
+          ],
+          "caption": "Here the English does not rhyme and keeps to the order of the French. Three of its changes run one way. <i>Tu me suivrais</i> is you would follow me; the English has <i>would we go</i>, and adds <i>together</i>. <i>Sa volonté</i> is one’s own will; the English has <i>our will</i>, and <i>our dwelling</i> in the line before. In the French one person follows another, and the only law is each person’s will. Auden counts her mountains among the wild places with no community, and says that because such places are free they are lonely. The stage direction that opens the next act sets it in complete solitude and dark night.",
+          "why": "Where the French has one person following another and each one’s own will for law, the English makes a we with our will; Auden counts her mountains among places with no community, free and for that reason lonely.",
+          "grounds": [
+            {
+              "claim": "which French words answer which English words",
+              "kind": "plate"
+            },
+            {
+              "claim": "the French verb is you would follow me, and its possessive in the long line is the third person singular; the English has we, together and our; the English lines do not rhyme; no word for we, our or together stands in the French of these lines or of the speeches they are taken from",
+              "kind": "text",
+              "source": "rows 1.0 and 4.0 of the French; rows 253.1, 261.1-261.2, 333.1 and 333.2 of the English; the French words counted by script by the second examiner on 2026-10-03 in lines 2462-2500 and 2660-2676 of .cache/originals/bizet_carmen_fr_wikisource.txt (none found)"
+            },
+            {
+              "claim": "the curtain of Act 3 rises on rocks, a wild place, complete solitude and dark night",
+              "kind": "text",
+              "source": "the French text, line 2678 of .cache/originals/bizet_carmen_fr_wikisource.txt; in the English, carmen/act-3 block 1"
+            },
+            {
+              "claim": "retraite: the signal for soldiers to be back at a set hour; enivrant: that makes drunk, and by a figure that deludes, exalts, charms; univers: the earth or a great part of it; volonté: the inner power by which one decides",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under retraite (3), enivrant (1 and 2), univers (3) and volonté (1)"
+            },
+            {
+              "claim": "neither the sea nor the desert holds a community (p. 15); Carmen’s mountains are one of his examples of such a place (p. 16); because such places are free, he says, they are lonely and estranging (p. 17)",
+              "kind": "auden",
+              "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), pp. 15–17"
+            }
+          ],
+          "stands": "The marks on the two versions; in the French of these speeches no word for *we*, *our* or *together* was found. Littré under *retraite*, *enivrant*, *univers* and *volonté*. The stage direction is at the head of [Act 3](#/read/carmen/act-3:1). Auden on the place with no community, free and so lonely: *The Enchafèd Flood*, pp. 15 to 17."
+        }
+      ]
+    },
+    {
+      "id": "cartes",
+      "heading": "Carmen reads the cards",
+      "label": "The French libretto, 1875",
+      "text": "o-carmen/cartes",
+      "turn": { "0.0": 3, "0.4": 4, "0.6": 4, "1.4": 3 },
+      "rows": [
+        "0.0-0.7",
+        "1.0-1.5"
+      ],
+      "pair": {
+        "label": "The English libretto, about 1910",
+        "text": "carmen/act-3",
+        "rows": [
+          "76.0-76.11",
+          "78.0-78.1"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "beat",
+          "label": "Count",
+          "meterName": "a line of twelve counted syllables, cut after the sixth, then a line of six; the last two lines have eight and twelve",
+          "scan": {
+            "0.0": {
+              "meter": "...../...../",
+              "voice": "x x x xx/ | x xxx x/~",
+              "div": {
+                "6": "a|mè|res,"
+              }
+            },
+            "0.1": {
+              "meter": "...../",
+              "voice": "x x x xx/"
+            },
+            "0.2": {
+              "meter": "...../...../",
+              "voice": "xx x x x / | x xx x x/~",
+              "div": {
+                "6": "car|tes",
+                "8": "sin|cè|res"
+              }
+            },
+            "0.3": {
+              "meter": "...../",
+              "voice": "x x xxx /"
+            },
+            "0.4": {
+              "meter": "...../...../",
+              "voice": "x x xx x / | x x x~ x x/~",
+              "div": {
+                "2": "li|vre",
+                "7": "pa|ge",
+                "9": "heu|reu|se,"
+              }
+            },
+            "0.5": {
+              "meter": "...../",
+              "voice": "x~ x xx x /",
+              "div": {
+                "0": "Mê|le",
+                "2": "cou|pe"
+              }
+            },
+            "0.6": {
+              "meter": "...../...../",
+              "voice": "x xx x x / | x xxx x/~",
+              "div": {
+                "1": "car|te",
+                "7": "joy|eu|se,"
+              }
+            },
+            "0.7": {
+              "meter": "...../",
+              "voice": "xxx x x/"
+            },
+            "1.0": {
+              "meter": "...../...../",
+              "voice": "x x x x x/ | x x x xx/~"
+            },
+            "1.1": {
+              "meter": "...../",
+              "voice": "x xx x x /"
+            },
+            "1.2": {
+              "meter": "...../...../",
+              "voice": "xxxx x / | x x~ xxx/~",
+              "div": {
+                "0": "Re|com|men|ce",
+                "4": "car|te"
+              }
+            },
+            "1.3": {
+              "meter": "...../",
+              "voice": "xx xx x /"
+            },
+            "1.4": {
+              "meter": "......./",
+              "voice": "x xx~ xx x x/~",
+              "div": {
+                "1": "qu’im|por|te,",
+                "4": "qu’im|por|te ?…"
+              }
+            },
+            "1.5": {
+              "meter": "...../...../",
+              "voice": "xx xxx / | xx x x x /~",
+              "div": {
+                "7": "for|te !"
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "0.0",
+                3,
+                3
+              ],
+              "say": "The cut. The sixth syllable ends a word and takes an accent, and the voice rests here."
+            },
+            {
+              "at": [
+                "0.1",
+                0,
+                3
+              ],
+              "say": "Twelve syllables, then six, rhymed by turns. A history of French verse gives as its example of this stanza Malherbe’s poem consoling a friend on the death of his daughter."
+            },
+            {
+              "at": [
+                "0.6",
+                1,
+                1
+              ],
+              "say": "The final *e* of *carte*, card, is a syllable here, because a consonant follows."
+            },
+            {
+              "at": [
+                "1.2",
+                4,
+                4
+              ],
+              "say": "The same word. Here a vowel follows, and its *e* is not counted."
+            },
+            {
+              "at": [
+                "1.4",
+                0,
+                4
+              ],
+              "say": "Eight syllables. The stanzas of twelve and six are over."
+            }
+          ],
+          "caption": "French verse is measured by the number of syllables. A final <i>e</i> counts before a consonant, is dropped before a vowel, and is left out at a line’s end. The two women beside Carmen have just told their fortunes in lines of eight, with one line of ten in their refrain. Eight is the measure of her first song and, by a history of French verse, of lyric pieces and lighter poetry. Carmen has read death in four lines of her own. What she sings next is in another measure: a line of twelve, resting after its sixth syllable, then a line of six. The line of twelve has been the standard line of French tragedy since the sixteenth century.",
+          "why": "The two women read their fortunes in the short line of song; when Carmen has read death in hers the verse changes to the line of twelve, which has been the standard line of French tragedy since the sixteenth century.",
+          "grounds": [
+            {
+              "claim": "the count of each line, the rest after the sixth syllable of the long lines, and which final e is counted",
+              "kind": "plate"
+            },
+            {
+              "claim": "the two women’s lines just before are of eight syllables, with one line of ten in the refrain, sung twice",
+              "kind": "text",
+              "source": "the French text, Act 3, Scene 2, lines 2832-2912 of .cache/originals/bizet_carmen_fr_wikisource.txt, counted line by line on 2026-10-03 (notes.md)"
+            },
+            {
+              "claim": "between the two women’s song and the passage Carmen has four lines of her own, of eight, six, six and ten syllables, in which she turns up her cards and reads death, for herself first and then for him; a direction follows (in a low voice, still shuffling) and then the passage",
+              "kind": "text",
+              "source": "the French text, Act 3, Scene 2, lines 2928-2934 of .cache/originals/bizet_carmen_fr_wikisource.txt, counted by the second examiner on 2026-10-03; in the English, carmen/act-3 blocks 72 to 75. Read again by the finisher on 2026-10-03: her four lines are source lines 2928, 2930, 2931 and 2933 (2929, 2932 and 2934 are directions); she names death in the second of them, and in the third her own verb is to read, in the past tense; in the English they are blocks 72 and 74"
+            },
+            {
+              "claim": "Carmen’s first song is in lines of eight",
+              "kind": "text",
+              "source": "the French text, Act 1, Scene 5 (o-carmen/habanera), every row counted (notes.md, The counts)"
+            },
+            {
+              "claim": "French verse rests on a fixed number of syllables; the mute e is not counted at the end of a line, is dropped before a vowel and counted before a consonant",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 1, 4–5 and 7"
+            },
+            {
+              "claim": "at the cut the voice rests, and the syllable before it is accented and ends a word (p. 82); the line of twelve is cut after its sixth syllable (p. 91)",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 82 and 91"
+            },
+            {
+              "claim": "the line of eight: lyric pieces, the ode, all branches of lighter poetry, and till the early seventeenth century comedy",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 141–42"
+            },
+            {
+              "claim": "since Jodelle’s Didon, in the 1550s, the line of twelve has ranked as the standard tragic line",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), p. 148"
+            },
+            {
+              "claim": "Kastner, on stanzas that set a line of twelve against a shorter one, says the shorter line is often one of six, and gives as his example Malherbe’s Consolation to M. du Périer, which he calls famous and of which he prints a stanza, cross-rhymed; that the poem was written on the death of du Périer’s daughter is in its full title",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), p. 201; the poem’s full title in the list of works of the French Wikipedia article François de Malherbe, and as the title of the poem’s page at French Wikisource (seen by the second examiner on 2026-10-03)"
+            }
+          ],
+          "stands": "The marks on the passage. A count in the French text of the two women’s lines before it (their English is in [Act 3](#/read/carmen/act-3:36)), of Carmen’s four lines after them and of the first song. L. E. Kastner, *A History of French Versification*, pp. 1, 4–5 and 7 (the count, the mute *e*), 82 and 91 (the cut), 141–42 (the line of eight), 148 (of twelve), 201 (the stanza)."
+        },
+        {
+          "kind": "rhyme",
+          "label": "Rhyme",
+          "ends": {
+            "0.0": "a",
+            "0.1": "b",
+            "0.2": "a",
+            "0.3": "b",
+            "0.4": "c",
+            "0.5": "d",
+            "0.6": "c",
+            "0.7": "d",
+            "1.0": "e",
+            "1.1": "f",
+            "1.2": "e",
+            "1.3": "f",
+            "1.4": "g",
+            "1.5": "g"
+          },
+          "tails": {
+            "0.0": 4,
+            "0.1": 2,
+            "0.2": 4,
+            "0.3": 2,
+            "0.4": 4,
+            "0.5": 3,
+            "0.6": 4,
+            "0.7": 3,
+            "1.0": 4,
+            "1.1": 3,
+            "1.2": 4,
+            "1.3": 3,
+            "1.4": 4,
+            "1.5": 4
+          },
+          "threads": [
+            {
+              "sound": "or",
+              "at": [
+                [
+                  "1.1",
+                  4,
+                  1,
+                  2
+                ],
+                [
+                  "1.3",
+                  3,
+                  1,
+                  2
+                ],
+                [
+                  "1.4",
+                  1,
+                  6,
+                  2
+                ],
+                [
+                  "1.4",
+                  4,
+                  6,
+                  2
+                ],
+                [
+                  "1.5",
+                  7,
+                  1,
+                  2
+                ]
+              ]
+            }
+          ],
+          "caption": "Each stanza is four lines, rhymed by turns. Its long lines end on a syllable with a mute <i>e</i>, the ending French verse calls feminine: <b>amères</b>, bitter, <b>sincères</b>, sincere. Its short lines end on a full syllable, the masculine ending. French poets have alternated the two since the sixteenth century, and Ronsard gave the reason: verse so made is fitter for music. In singing, the mute <i>e</i> is heard like any other vowel. In the third stanza the short lines end on <b>sort</b>, fate, and <b>mort</b>, death. The last two lines rhyme as a pair: <b>qu’importe</b>, what does it matter, and <b>forte</b>, strong. Their rhyme keeps the sound <i>or</i> of <b>sort</b> and <b>mort</b>.",
+          "why": "The stanzas keep the alternation of endings that Ronsard recommended to fit verse for music; the short lines of the third stanza end on the words for fate and death, and the couplet after it rhymes on their sound.",
+          "grounds": [
+            {
+              "claim": "which lines rhyme and on which letters: first with third and second with fourth in each of three sets of four lines (rows 0.0-0.3, 0.4-0.7 and 1.0-1.3), then the last two lines as a pair, so each of the three stanzas is four lines; which endings have a mute e; the letters or in five words, in four of the last five lines (rows 1.1, 1.3, 1.4 and 1.5)",
+              "kind": "plate"
+            },
+            {
+              "claim": "Ronsard recommended alternating masculine and feminine lines so that verse would be fitter for music; poets have kept the rule since; in song the mute e of a feminine ending is audible like any other vowel",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 64–65, and p. 7, note 1"
+            },
+            {
+              "claim": "sort is fate; mort is death; qu’importe expresses indifference; fort is strong; amer is bitter to the taste and, by a figure, painful; sincère is said of one who tells truly what he feels and thinks, and of things too",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under sort (1), mort (the noun, 1), importer (the second entry, 4), fort (1 and 18), amer (1 and 2) and sincère (1 and 2); the last two opened by the second examiner in the first examiner’s saved pages"
+            }
+          ],
+          "stands": "The marks on the passage. L. E. Kastner, *A History of French Versification*, pp. 64–65, for the alternation of the two endings, Ronsard’s reason for it, and the mute *e* in singing. Littré under *amer*, *sincère*, *sort*, *mort*, *importer* and *fort*."
+        },
+        {
+          "kind": "sentence",
+          "label": "Build",
+          "spans": [
+            {
+              "from": [
+                "0.4",
+                5
+              ],
+              "to": [
+                "0.4",
+                5
+              ],
+              "tag": "if",
+              "label": "if"
+            },
+            {
+              "from": [
+                "0.5",
+                0
+              ],
+              "to": [
+                "0.5",
+                2
+              ],
+              "tag": "command",
+              "label": "shuffle and cut"
+            },
+            {
+              "from": [
+                "0.6",
+                0
+              ],
+              "to": [
+                "0.6",
+                1
+              ],
+              "tag": "subject",
+              "label": "the card"
+            },
+            {
+              "from": [
+                "0.6",
+                5
+              ],
+              "to": [
+                "0.6",
+                6
+              ],
+              "tag": "verb",
+              "label": "will turn"
+            },
+            {
+              "from": [
+                "1.0",
+                1
+              ],
+              "to": [
+                "1.0",
+                1
+              ],
+              "tag": "if",
+              "label": "if"
+            },
+            {
+              "from": [
+                "1.0",
+                5
+              ],
+              "to": [
+                "1.0",
+                5
+              ],
+              "tag": "if",
+              "label": "if"
+            },
+            {
+              "from": [
+                "1.0",
+                6
+              ],
+              "to": [
+                "1.0",
+                8
+              ],
+              "tag": "subject",
+              "label": "the dread word"
+            },
+            {
+              "from": [
+                "1.1",
+                0
+              ],
+              "to": [
+                "1.1",
+                1
+              ],
+              "tag": "verb",
+              "label": "is written"
+            },
+            {
+              "from": [
+                "1.2",
+                0
+              ],
+              "to": [
+                "1.2",
+                2
+              ],
+              "tag": "command",
+              "label": "begin again"
+            },
+            {
+              "from": [
+                "1.2",
+                3
+              ],
+              "to": [
+                "1.2",
+                5
+              ],
+              "tag": "subject",
+              "label": "the pitiless card"
+            },
+            {
+              "from": [
+                "1.3",
+                0
+              ],
+              "to": [
+                "1.3",
+                0
+              ],
+              "tag": "verb",
+              "label": "will say"
+            }
+          ],
+          "caption": "The second and third stanzas, marked here, are built alike: <i>si</i>, if, then a command, then what the card will do. If your page is lucky, shuffle and cut without fear. But if you must die, begin again twenty times. They differ at the line ends. In the second stanza the card and its verb share a line. In the third, each long line ends on its subject, <i>the dread word</i>, <i>the pitiless card</i>, and the verb waits for the short line. French classical critics, a history of French verse reports, held that a run-over hurries the reader past the rhyme into the next line, where a stronger pause then falls. Here it falls after <b>sort</b>, fate, and <b>mort</b>, death.",
+          "why": "In the lucky stanza the card and its verb share a line; in the stanza of death both long lines break between subject and verb, so the voice runs past the rhyme and pauses after fate and death.",
+          "grounds": [
+            {
+              "claim": "where the three ifs, the two commands and each subject and verb stand; that the long lines of the third stanza end on a subject with no verb yet; that all eleven marks of this tab stand in the second and third stanzas (rows 0.4 to 0.6 and 1.0 to 1.3), and none in the first stanza, in row 0.7 or in the last two lines",
+              "kind": "plate"
+            },
+            {
+              "claim": "what the two sentences say: if the page is lucky, shuffle and cut without fear, and the card will turn up joyful; but if you must die, if fate has written the dread word, begin again twenty times, and the pitiless card will always say death",
+              "kind": "text",
+              "source": "rows 0.4-0.7 and 1.0-1.3"
+            },
+            {
+              "claim": "a run-over carries a clause begun in one line into the next (p. 107); the classical poets allowed it when the part that runs over makes up all of the following line (p. 112), as it does here; their case against it, which Kastner reports and thinks well founded on the whole though pressed too far, was that words joined in grammar are not parted in reading, so that the reader passes quickly over the rhyme and a stronger pause falls in the next line (pp. 113–14)",
+              "kind": "source",
+              "source": "L. E. Kastner, A History of French Versification (Oxford, 1903), pp. 107 and 112–14, read by the second examiner in the first examiner’s saved copy"
+            },
+            {
+              "claim": "si is the conjunction of a condition; heureux is first that promises good luck; redoutable is to be dreaded; impitoyable is without pity; sort is fate; mort is death",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under si (1), heureux (1), redoutable, impitoyable (1), sort (1) and mort (the noun, 1)"
+            }
+          ],
+          "stands": "The marks on the passage, and what its two sentences say. L. E. Kastner, *A History of French Versification*, p. 107 for the run-over and pp. 113–14 for the classical case against it, which he reports. Littré under *si*, *heureux*, *redoutable*, *impitoyable*, *sort* and *mort*."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            {
+              "a": [
+                "0.1",
+                2,
+                2
+              ],
+              "b": [
+                "p:76.1",
+                2,
+                2
+              ],
+              "say": "The French says *tu*, you, in every stanza. The English says *I* in this one line, and *thou*, *thy* and *thee* after it."
+            },
+            {
+              "a": [
+                "0.5",
+                0,
+                2
+              ],
+              "b": [
+                "p:76.5",
+                2,
+                4
+              ],
+              "say": "*Mêler* and *couper* are the card player’s words: to shuffle the pack, then to cut it in two. The English says *throw* and *play*."
+            },
+            {
+              "a": [
+                "1.1",
+                4,
+                4
+              ],
+              "b": [
+                "p:76.9",
+                2,
+                2
+              ],
+              "say": "*Sort* is fate. In Littré it is also, among the ancients, a supposed way of learning the future by throwing dice, and the Latin word meant at first tallies of wood thrown on the ground. The English says *heaven*."
+            },
+            {
+              "a": [
+                "1.2",
+                0,
+                2
+              ],
+              "b": [
+                "p:76.10",
+                2,
+                9
+              ],
+              "say": "The French is a command: *begin again twenty times*. In its place the English has a clause that gives the cards a will."
+            },
+            {
+              "a": [
+                "1.3",
+                2,
+                3
+              ],
+              "b": [
+                "p:76.11",
+                3,
+                4
+              ],
+              "say": "The French sentence ends on the card’s own words, set in quotation marks: *la mort*, death. The English says *thy doom* here, and *death* in the line she sings next."
+            },
+            {
+              "a": [
+                "1.5",
+                1,
+                1
+              ],
+              "b": [
+                "p:78.1",
+                1,
+                2
+              ],
+              "say": "*Braver* is to face a person or a thing as a brave man does: to defy."
+            },
+            {
+              "a": [
+                "1.5",
+                5,
+                7
+              ],
+              "b": [
+                "p:78.1",
+                6,
+                6
+              ],
+              "say": "*La plus forte* is the strongest. The English says *strong*."
+            }
+          ],
+          "caption": "The English is from a libretto sold in New York about 1910. It follows the French line by line, without the rhyme or the count. The French says <i>tu</i>, you, in every stanza; the English begins with <i>I</i>. <b>Sort</b>, fate, becomes <i>heaven</i>. The card’s own words, <b>la mort</b>, death, become <i>thy doom</i>. <b>La plus forte</b>, the strongest, becomes <i>strong</i>. In a lecture on <i>Richard III</i>, pieced together from listeners’ notes, Auden said that people of very strong will are inclined to a belief in fate and in signs, and his example was Carmen reading the cards. Both are in the French: what fate has written the card will say, and Carmen is the strongest.",
+          "why": "Auden’s example of a strong will that believes in fate and signs is this scene, and the French words say both; the English has heaven for fate, doom for death and strong for the strongest.",
+          "grounds": [
+            {
+              "claim": "which French words answer which English words",
+              "kind": "plate"
+            },
+            {
+              "claim": "the French says tu or its forms in each of the three stanzas and Carmen’s name twice in the last line; the English says I in its second line and thou, thy and thee after it; the English lines do not rhyme and do not keep the count",
+              "kind": "text",
+              "source": "rows 0.1, 0.4, 0.6, 0.7, 1.0 and 1.5 of the French; rows 76.1, 76.6-76.11 of the English"
+            },
+            {
+              "claim": "each of the three stanzas closes a sentence at its last line: rows 0.3 and 0.7 end on a full stop, and row 1.3 on the exclamation mark and the closing quotation mark of the card’s words; none of the other nine lines ends on a full stop, a question mark or an exclamation mark, and the points of omission inside row 1.2 are followed by a small letter; so the sentence that begins at row 1.0 ends on the two words in quotation marks. The English has its word for death in the first line Carmen sings after the direction, row 78.0, word 4",
+              "kind": "text",
+              "source": "rows 0.0 to 1.3 of the French, which are lines 2935-2942 and 2944-2947 of .cache/originals/bizet_carmen_fr_wikisource.txt (the fourteen lines stand there as eight, a blank line, and six); the point that ends each line was read by script by the finisher on 2026-10-03, and no line was printed; rows 76.11 and 78.0 of the English, with the direction between them at carmen/act-3 block 77"
+            },
+            {
+              "claim": "sort: destiny, taken as the cause of what happens in a life (1); among the ancients a supposed way of knowing the future with dice that were thrown (7; drawing lots is sense 8, not used here); from Latin sortem, the sortes being at first, by Mommsen’s account, tallies of wood on a cord that were thrown on the ground (the etymology). mêler: to shuffle the cards. couper: to divide the pack in two after the shuffle. braver: to act the brave man toward someone or something, to defy. mort: the end of life. fort: who has much strength",
+              "kind": "source",
+              "source": "Émile Littré, Dictionnaire de la langue française (1873–74), under sort (1, 7 and the etymology), mêler, couper (19), braver (1), mort (the noun, 1) and fort (1)"
+            },
+            {
+              "claim": "the English is that of the Rullman libretto, New York, about 1910, with no translator named",
+              "kind": "source",
+              "source": "Carmen, French and English (New York: F. Rullman, about 1910), the scan at archive.org/details/carmen1910bize, as described in remake/research/D_texts.md"
+            },
+            {
+              "claim": "people of very strong will tend to believe in fate and in signs (the sentence quoted in the list under the plates); Carmen reading the cards is the example given with it, in a lecture an editor reconstructed from the notes of listeners",
+              "kind": "auden",
+              "source": "Lectures on Shakespeare, reconstructed and edited by Arthur Kirsch (2000), p. 21"
+            }
+          ],
+          "stands": "The marks on the two versions. Littré under *sort*, *mêler*, *couper*, *braver*, *mort* and *fort*. Auden on strong will and the belief in fate and signs: *Lectures on Shakespeare*, edited by Arthur Kirsch, p. 21, in the lecture on *Richard III*."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In a talk at Swarthmore College in January 1943 Auden sets the old schoolmaster, who flogged, against the progressive educator, whom he calls a Carmen wrapped in cellophane: one who sings of a land where nobody suffers and nothing is required of anyone, and there is only the self and its expression. He then quotes the four lines on liberty that close Act 2, and adds that this affair, as the little Don Josés soon find out, begins as Hans Andersen and ends as Grimm.",
+      "source": "“Vocation and Society” (1943), in *Prose*, vol. II (2002), p. 179",
+      "checked": "snippets of the scanned volume at archive.org (item prosetravelbooks0000aude), chained by me on 2026-10-03 and saved in the scratchpad (carmen-poet/fts_prosetravelbooks0000aude_*.json): the sentence on the two educators, the four lines of the libretto, and the sentence after them on Hans Andersen and Grimm; also the editor’s textual note, which says the essay was based on a talk to the Swarthmore chapter of Phi Beta Kappa on 15 January 1943. The page: the lecture begins on p. 175 (running head and textual note); the running head of p. 179 stands about 370 words before the sentence, and the next head the search text has is that of p. 181, about 580 words after the sentence on Grimm; no head for p. 180 is in the search text. The two pages hold about 1,000 words, so the passage (words 340 to 430 of them) is most probably all on p. 179. The same text was read earlier in snippets of Auden Studies 3 (item insolitudeforcom0000aude), where the poet took it to have been first printed, pp. 15-30. Not seen as a page. Examiners, 2026-10-03: the first examiner found the page in the search inside the volume at Google Books (Prose. 1939-1948, 2002), which gives the page with each hit: the sentence on the educator, the four lines and the sentence on Hans Andersen and Grimm are all on p. 179. Books of 1977-78 on Google Books already quote the sentence, so the printed notes no longer say that Auden Studies 3 printed the talk first."
+    },
+    {
+      "says": "In his New York lecture on *Richard III*, as an editor has put it together from the notes of people who heard it, Auden says that the more a man masters other people’s wills, the more what he did not intend and cannot control comes to matter to him. He gives Carmen reading the cards as his example of the rule quoted here.",
+      "quote": "Very strong-willed people are apt to believe in fate and signs",
+      "source": "*Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), p. 21",
+      "checked": "snippets of the scanned book at archive.org (item lecturesonshakes00aude), chained by the poet before me and read again by me on 2026-10-03 in the saved snippet files (scratchpad carmen-poet/fts_lecturesonshakes00aude_*.json): the sentence, the sentence before it, the sentence after it on losing at cards, and Kirsch’s note keyed to p. 21, which names Act III. The page itself was not seen."
+    },
+    {
+      "says": "Writing of Tristan and of Don Giovanni, Auden says that to idolize one real person romantically for a whole life is possible, and does happen, on one condition: the love must be on one side only, with one of the two playing the Cruel Fair. His example is Don José and Carmen. An idol, he explains, is what a person makes answerable for his own existence, and it is an idol no longer once it makes a claim on him in return.",
+      "source": "“Balaam and His Ass,” in *The Dyer’s Hand* (1962), p. 121",
+      "checked": "read again by the second examiner, lines 5792-5814 of the same scan, on 2026-10-03; first read in the scan of The Dyer’s Hand, research/auden/dh.txt lines 5808-5814, on 2026-10-03; the running head [ 121 stands at line 5776 and 122 ] at line 5820. Finisher, 2026-10-03: lines 5808-5814 read again. He calls the idolatry lifelong, names José before Carmen, and does not say which of the two plays the Cruel Fair. The Figure caption of the first passage now names the two in his order and has his word lifelong; it does not say which is which"
+    },
+    {
+      "says": "In a piece of 1947 on the mythical types of woman, Auden’s second type is the Infernal Venus. She lures men to ruin and is against order of every kind. She stirs men and leaves them unhappy, and as a rule she ends badly. Her classic case, he writes, is Carmen, and he follows the sentence with a passage of Mérimée’s story.",
+      "source": "“The Mythical Sex” (1947), in *Prose*, vol. II (2002), p. 328",
+      "checked": "snippets of the scanned volume at archive.org (item prosetravelbooks0000aude), chained by the poet before me (notes.md): the textual note gives the title and p. 325 for the start; the Carmen sentence is followed at once by the running head of p. 329, so it stands at the foot of p. 328. Not seen as a page."
+    },
+    {
+      "says": "In a piece written for *Vogue* in 1948 Auden says that opera is about willed feeling: there could be none unless people, besides having emotions, insisted on having them, whatever trouble that gives themselves and others. Every great character of opera, he says, is of this kind, and Carmen is one of the six he names.",
+      "source": "“Opera Addict” (1948), in *Prose*, vol. II (2002), p. 401",
+      "checked": "snippets of the scanned volume at archive.org (item prosetravelbooks0000aude), as given in remake/research/C_auden_on_works.md, H17h, and read again by the poet before me. The textual note says the piece begins on p. 400; the page of this sentence was not seen (probably p. 401). Examiners, 2026-10-03: the first examiner found in the search inside the volume at Google Books that the sentence on willed feeling and the list of six characters, Carmen among them, are on p. 401; the second examiner read the saved snippets again, and read the later essay in the scan of The Dyer’s Hand (research/auden/dh.txt lines 22110-22150, p. 470: the remark on willfulness and six roles, none of them Carmen). Critic, 2026-10-03: the last sentence of the entry, which pointed to that later essay, was cut (critic.md, change 11), so the entry now reports “Opera Addict” alone. Finisher, 2026-10-03: lines 22110-22150 read again, as the examiner gives them; nothing printed on the page now stands on p. 470, and the page is out of the list of sources (the list gives p. 473 for that essay). The later passage is kept whole in notes.md, under “Taken out of the list of what Auden said”."
+    },
+    {
+      "says": "Of the words of an opera Auden says that the verses a librettist writes are addressed to the composer and not to the public, and that their work is done once they have given him a melody. In song, he holds, a listener hears syllables and not words, and it is the syllables that decide what vocal line a composer writes. For that reason he is not, as a rule, in favor of performing operas in translation.",
+      "source": "“Notes on Music and Opera,” in *The Dyer’s Hand* (1962), p. 473",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt lines 22240-22300, on 2026-10-03. Examiners, 2026-10-03: the head of p. 473 stands at line 22253 and that of p. 474 at line 22301, and everything reported here lies between them, so the page is 473 alone"
+    },
+    {
+      "says": "Donald Pearce, who took the course of 1941, remembers that when he asked to join it Auden told him there would be opera scores and libretti, and named *Carmen* first. That semester Auden lectured often on love, and the class was set the libretti of *Tristan und Isolde* and *Carmen*, with *Romeo and Juliet* and Denis de Rougemont’s *Love in the Western World*. On neither page does Pearce report anything Auden said of the opera itself.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 133 and 137",
+      "checked": "read in the scan of Pearce’s essay, research/auden/pearce.txt, on 2026-10-03. The number stands at the foot of each page, before the next page’s heading: the first sentence stands between the foot numbers 132 and 133, the second after the foot number 136. The research notes give p. 136 for the second; by the scan it is p. 137. The scan lacks most of pp. 138-145, so the statement that nothing more is said of Carmen rests on the full-text search recorded in the research notes (section 32). Second examiner, 2026-10-03: both places read again in the scan, the foot number 133 just after the first; the entry now claims only what the two places report."
+    },
+    {
+      "says": "By Alan Ansen’s record of his talk in the late 1940s, Auden thought *Carmen* a very great work.",
+      "source": "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1990), p. 18",
+      "checked": "snippets of the scanned book at archive.org (item tabletalkofwhaud0000anse), read again by me on 2026-10-03 in the saved snippet files: the running head of p. 18 stands just before the sentence. Not seen as a page."
+    }
+  ],
+  "next": "carmen/act-1:0",
+  "sources": [
+    "The text: *Carmen*, opéra-comique in four acts, words by Henri Meilhac and Ludovic Halévy, music by Georges Bizet, first performed in Paris on 3 March 1875. The French is that of *Théâtre de Meilhac et Halévy*, vol. 7 (Paris: Calmann-Lévy, 1901), as French Wikisource gives it.",
+    "The English: *Carmen*, the libretto in French and English published by F. Rullman (New York, about 1910). It names no translator.",
+    "W. H. Auden, *The Enchafèd Flood* (1950; Vintage Books edition, 1967), pp. 15–17.",
+    "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Balaam and His Ass,” p. 121; “Notes on Music and Opera,” p. 473.",
+    "W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (2000), p. 21, in the lecture on *Richard III*. Not seen in full.",
+    "W. H. Auden, *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002): “Vocation and Society” (1943), p. 179; “The Mythical Sex” (1947), p. 328; “Opera Addict” (1948), p. 401. Not seen in full.",
+    "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1990), p. 18. Not seen in full.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 133 and 137: his memories of the course of 1941. Not seen in full.",
+    "Winton Dean, *Bizet* (London: Dent, 1975), pp. 213–14 and 229, on the words and the tune of the Habanera and on the words of the card solo. Not seen in full.",
+    "L. E. Kastner, *A History of French Versification* (Oxford, 1903): pp. 1–7, the count and the mute *e*; pp. 64–65, the two kinds of ending; pp. 82 and 91, the cut; pp. 107 and 112–14, the run-over; pp. 140–42, the line of eight; p. 148, the line of twelve; p. 201, the stanza of twelve and six.",
+    "Émile Littré, *Dictionnaire de la langue française* (1873–74): *amer*, *apprivoiser*, *bas* (for *là-bas*), *bohème*, *braver*, *couper*, *enfant*, *enivrant*, *errant*, *fort*, *garde*, *heureux*, *impitoyable*, *importer*, *liberté*, *loi*, *mêler*, *mort*, *pays*, *point*, *rebelle*, *redoutable*, *retraite*, *si*, *sincère*, *sort*, *univers*, *volonté*.",
+    "W. H. Fraser and J. Squair, *High School French Grammar* (Toronto, 1900), sections 115, 116, 265, 274 and 275: the conditional and sentences with *if*.",
+    "*Silva Rhetoricae* (rhetoric.byu.edu), under *isocolon* and *anadiplosis*.",
+        "Online Etymology Dictionary (etymonline.com), under *anadiplosis*.",
+    "The full title of Malherbe’s poem, “Consolation à M. du Périer sur la mort de sa fille”: the list of his works in the French Wikipedia article on François de Malherbe, and, with the name spelled du Perrier, the title of a page of the poem at French Wikisource."
+  ],
+  "caveats": [
+    "The English is from a libretto sold in New York about 1910, with no translator named. In the first song it rhymes every second line and seems made for singing; in the other two passages it keeps the order of the French without rhyme. It is not a close translation.",
+    "Auden’s remark on Carmen and the cards comes from a lecture pieced together by an editor from listeners’ notes. It was read here only in snippets of a scanned copy, as were his pieces of 1943, 1947 and 1948, Ansen’s record of his talk and Winton Dean’s book on Bizet.",
+    "The marks show the count of syllables and the accents the rule fixes, on the sixth syllable of a long line and the last of every line. French verse leaves the other stresses free, and they are not marked.",
+    "The second passage sets together three places in Act 2: five lines of Carmen’s to José, two that she sings a little later, and four that everyone sings as the act ends. Auden quotes one line more of her speech than the French text printed here has.",
+    "The first passage is the first of the song’s two verses and its refrain; the French text prints the refrain’s second line with one word twice, then once; no score was consulted. By Winton Dean’s account its words are Bizet’s own, and he also reworked those of the card solo."
+  ],
+  "open": [
+    "Lectures on Shakespeare, p. 21 (Carmen reading the cards): the sentence, its neighbors and Kirsch’s note keyed to p. 21 were read in snippets only. The page was not seen.",
+    "“Opera Addict” (Prose II): the piece begins on p. 400 by the textual note. The poet had not seen the page of the sentence that names Carmen. Examiners: the search inside the volume at Google Books gives p. 401 for the sentence on willed feeling and for the list of six characters, and the printed source now says p. 401. Still read in snippets only.",
+    "“Vocation and Society” (1943): the research notes know it only from Auden Studies 3 and give no page for the sentence. It is also in Prose, vol. II, beginning on p. 175 (running head and textual note read in snippets). The poet reckoned the passage at pp. 179–80 from the running heads in the snippets (the head of p. 179 about 370 words before the sentence on the educator, the next head found that of p. 181). Examiners: the search inside the volume at Google Books gives the page with each hit, and puts the sentence on the educator, the four lines and the sentence on Hans Andersen and Grimm all on p. 179. The reading now gives p. 179. Read in snippets only; the page was not seen as a page.",
+    "Pearce: the research notes give p. 136 for the sentence on the libretti assigned for the lectures on love. In the scan the foot number 136 stands before it, so the reading gives p. 137. The scan lacks most of pp. 138–145.",
+    "The brief asks for a caveat calling the English a singing version made to fit the notes. That holds for the first song. The second and third passages are unrhymed and keep the order of the French without its count (the third line for line; in the second one French row twice makes two English rows), so the caveat says what each is.",
+    "Malherbe’s Consolation: that it was written on the death of du Périer’s daughter rests on the poem’s full title as the French Wikipedia article on Malherbe lists it. Wikisource would not answer the poet (too many requests). It answered the second examiner: a page of the poem there bears the full title, with the name spelled du Perrier (saved in the scratchpad, carmen-exam2/ws_malherbe.json).",
+    "The hosted part o-carmen/la-bas joins three places of Act 2 (source lines 2480-2485, 2509-2510 and 2670-2674) as blocks that follow each other, and the build at first drew no gap between them. The captions and a caveat say that they are three places. Finisher, 3 October: the index of the hosted part now marks the two places where lines are left out (site/data/texts/o-carmen/index.json, changed at 14:06 UTC), and since the built copy of 14:06 UTC the page shows three points after rows 1.3 and 2.1 of the French, as it does in the English; seen in the pictures of the Mood and English tabs at 1280 and 390.",
+    "The long line of the liberty quatrain stands three ways in the French text of 1901: at source line 2495 (her solo) the second half has the pronoun for you where the others have the word for law; at 2664 (to José) the possessive is the second person; at 2672 (all) it is the third person, the form Auden quotes. The plate shows the last.",
+    "Auden’s first quoted line on p. 16 of The Enchafèd Flood is not in the French text of 1901 nor in the English libretto. It ends on the rhyme of row 1.2, which has no rhyme partner in this text.",
+    "Winton Dean, Bizet (London: Dent, 1975), was read only in snippets of the scan at archive.org (item bizet0000dean). The sentence that the words of the song are Bizet’s own runs from p. 213 to p. 214 (the running head of p. 214 stands inside it). The passage on Yradier’s song and the keys, verse in D minor and refrain in D major, is given as p. 229 from the book’s index (Yradier 229-31, Heugel 229); the page was not seen. The poet before me calls this the third edition; the catalogue record does not say. On p. 214 Dean adds that Bizet also improved the libretto at Carmen’s solo in the card scene, adding concrete detail and sharpening the characterization, and that Halévy’s first drafts of both passages survive by accident; which lines of the solo are Bizet’s was not found. A caveat says so; no caption leans on it.",
+    "The word printed twice in row 1.1 of the first song: the reading says only what the French text prints (twice in the first printing of the refrain, once in the second, block 3 row 1). No score was opened. The English singing version has ten syllables in that line, and the sung text in the English Wikipedia article on the aria has the word twice.",
+    "The English of the first song: the syllable counts are by the kit’s rule, checked word by word in numbers. Rows 0-5 have 9, 8, 9, 8, 9, 8; rows 6-7 have 8 and 8 by the rule and could not be checked further, so the caption speaks of the first four lines. Second examiner: counted again by ear, row 6 has eight where the French line as sung has nine, and so has row 9; the caption no longer says that the count stays. Row 110.8 (two words, between verse and refrain) is left out of the pair so that the two versions stand line for line.",
+    "Fraser and Squair: the rule for the tenses of an if-sentence is section 275 (with 274). Section 265 (1) defines the conditional. The earlier notes give 265 for both; the grounds and the printed note of the Mood tab of the second passage now cite 265 and 275.",
+    "The heading of the first passage, The Habanera, is the usual name of the song and of the record on the page. Neither the French text of 1901 nor the English libretto uses it.",
+    "From the examiner: the English copy numbers the scenes of Act 2 differently from the French text. The lines of the second passage fall in its Scenes 4 and 5 (act-2 blocks 184 to 276, and 277 on), where the French has Scenes 5 and 6. `where` gives the French numbers and says so. Act 1, Scene 5 and Act 3, Scene 2 agree in both.",
+    "From the examiner: the scan of The Enchafèd Flood is the Vintage Books edition of September 1967, and pp. 15–17 are that edition’s pages; the printed notes now say so. The accent on José’s name in the quoted sentence could not be tested: the scan drops every accent, and no copy that can be searched was found.",
+    "From the examiner: two entries were taken out of the list of what Auden said (EXAMINER.md, step 5). One was the general passage on willfulness in “Notes on Music and Opera” (The Dyer’s Hand, pp. 468, 470 and 471), which does not name this opera; the examiner then mentioned it in a last sentence of the entry for “Opera Addict”, which makes the same point and names Carmen; the critic cut that sentence on 3 October (critic.md, change 11), so nothing printed now stands on p. 470 and the page is out of the list of sources. The other was “Cav & Pag” (pp. 477–78), which names the opera in passing for its gypsies and bullfighters. Both were read in the scan and were reported truly. They are kept whole in notes.md, under “Taken out of the list of what Auden said”, where the lead copied them on 3 October.",
+    "From the examiner: Dean. By the search at Google Books the first edition of his book (1965) says on p. 215 that the words of the song were fitted to the tune. That sentence was not found in what could be searched of the edition of 1975 cited here, so the reading does not say it. Page 229 for the passage on Yradier still rests on the index.",
+    "From the examiner: the name anadiplosis in the first passage. By the definition the returning words begin the next clause; in row 1.3 they stand after the conjunction (word 0). The name is kept, and the caption says where the words come back. The lens holds without the name: what is drawn is the link.",
+    "From the examiner: José’s song before the second passage has no word for love in the French text printed here (source lines 2427 to 2454, counted by script); it ends on his being hers. The English libretto does speak of love (act-2 block 243). The Mood caption follows the French text. No score was opened.",
+    "From the examiner: three of the four tabs of the third passage (Count, Rhyme, Build; the third was named Sentence until the lead renamed it on 3 October) give their reason from the verse and its handbook and do not name Auden; his remark on fate and signs is in the English tab. No page of his was found that speaks of the measure, the rhyme or the syntax of these lines, so none was added.",
+    "From the examiner: in “The Mythical Sex” the sentence that makes Carmen the classic case of the Infernal Venus is followed by a passage of Mérimée’s story, so the name there is the figure of the story as much as of the opera. The entry in the list says so; the Word caption of the first passage gives only the sentence.",
+    "From the examiner: Pearce’s essay was read in a scan that lacks most of pp. 138–145. The entry claims only what pp. 133 and 137 report, and the printed source says the essay was not seen in full.",
+    "From the examiner: the stanza of the third passage. Kastner (p. 201) gives Malherbe’s poem as his example of the stanza of twelve and six and calls the poem famous; he does not call it the famous case of the stanza, as the remark pinned to row 0.1 had it. Mended. That the libretto’s stanza was meant to recall Malherbe’s is nowhere said, and the reading does not say it.",
+    "From the finisher: the stanzas of the third passage. The French source prints the fourteen lines as eight and then six (source lines 2935-2942, a blank line, 2944-2949, counted by script on 3 October), so the page shows a space after row 0.7 and none after rows 0.3 and 1.3, and none is to be added; since the build of 14:06 UTC the stage direction stands between rows 1.3 and 1.4. Nothing printed now leans on a space to show a stanza: the Rhyme caption says each stanza is four lines, the Build caption says its two stanzas are the ones marked there, the fifth Count remark speaks of the stanzas of twelve and six, and the fifth English remark of the French sentence.",
+    "From the finisher: what waits on work that is the lead’s. The stage direction between the third stanza and the last two lines of the third passage (act-3 block 77) is shown since the lead’s change to the build (the built copy of 14:06 UTC on 3 October): it stands over row 1.4 on every tab, in the pictures of 14:09 to 14:11 UTC. A sign for the line left out of the English of the first song (row 110.8) was not shown in the pictures of 14:11 UTC, and still waits on the build. No caption needs either; the fifth English remark of the third passage says the line she sings next, which holds with the direction between. That nothing at the first passage says what its English is waits on the kit, which is to print each version’s label where one version stands under the other.",
+    "From the finisher: a word of a caption set in bold or italic lights every place where it stands in either version (the kit’s rule; each such word was pointed at in a browser on 3 October, and the places that lit are listed by row and word in finisher/lit-after.txt). Two light a place the caption does not mean. In the third passage the French word for fate, bold in the Rhyme, Build and English captions, also lights the English verb spelled like it in the line under row 0.1 (word 3). In the Figure tab of the second passage the French word for for, in italic, also lights row 1.3, word 0. Neither can be mended in the reading without losing the true place. Two bold verbs of the Mood caption light nothing, because the text joins each to the pronoun before it (rows 0.0 word 5 and 2.1 word 1). For the kit."
+  ]
+}

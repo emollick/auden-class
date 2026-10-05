@@ -1,0 +1,83 @@
+# second batch: where each point of the later lectures stands (label <tab> word or short phrase)
+december	December 1941
+last-lecture	last lecture
+back-wall	back wall
+integrated	integrated
+organically	organically
+one-long-poem	one long poem
+twelfth-night	Twelfth Night
+pericles	Pericles
+transformation	transformation
+alchem	alchem
+romance	romance
+erring	erring
+secret-arts	secret
+other-self	other self
+milan	Milan
+faust	Faust
+dykes	dyke
+art-of-life	art of life
+chess	chess
+romeo	Romeo and Juliet
+antony	Antony
+prospero-shakespeare	testament
+caliban	Caliban
+blake	Blake
+spectre	spectre
+gonzalo	Gonzalo
+polonius	Polonius
+board-goethe	on the board
+above-us	above us
+richard	Richard III
+antonio	Antonio
+valery	Valery
+valery2	Valéry
+living-author	living author
+last-four	last four plays
+sweetening	sweeten
+machiavel	Machiavel
+sleeper	sleep
+tempted	tempted
+left-edge	left
+whole-width	width
+prepared	prepared
+two-tier	tier
+bourgeois	Bourgeois
+gaiety	Gaiety
+determinism	Determinism
+integrity	integrity
+science	science
+ironism	Ironism
+classical	Classical
+catholicism	Catholicism
+pragmatic	pragmatic
+uncodified	codified
+pens	pens
+four-five-weeks	four or five weeks
+christmas	Christmas vacation
+inferno	Inferno
+purgatorio	Purgatorio
+paradiso	Paradiso
+impossible	impossible
+california	California
+eliot	Eliot
+blue	blue
+errors	errors
+solitary	Solitary Reaper
+oed	Oxford English Dictionary
+required-course	required course
+essay-castle	essay I had written for him
+daemon	daemon
+telephone	telephone
+anima	anima
+1805	1805
+hotspur	Hotspur
+groddeck	Groddeck
+pregnan	pregnan
+coward	coward
+body-politic	body politic
+hollow	hollow
+foreign-war	foreign
+father-sage	sage
+elizabethans	Elizabethans
+exhaust	exhaust

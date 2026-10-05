@@ -1,0 +1,951 @@
+{
+  "piece": "gotterdammerung",
+  "title": "The end foretold",
+  "where": "*Götterdämmerung*, the Prelude and Act 3, with the English of Margaret Armour (1911)",
+  "about": "*Götterdämmerung* is the last of the four operas of Wagner’s *Ring of the Nibelung*; he wrote the words himself. In the Prelude the three Norns, the Fates, sing as they pass a golden rope, and the third foretells the burning of Valhalla, the hall of the gods. In Act 3 the Rhinemaidens tell Siegfried he will be killed that day unless he gives them the ring; he refuses, and they pass judgment on him. At the end Brünnhilde, at his pyre, sends Wotan’s ravens home and throws the torch.",
+  "view": {
+    "says": "Auden told the English Institute in 1940 that the people of the *Ring* behave oddly: their mistakes are ones they know in advance to be mistakes. The audience of *Oedipus Rex* knows what its hero does not; here the actors know as well. His example is Valhalla, set on fire with wood of the World Ash Tree; he asks why Wotan keeps such fuel there.",
+    "quote": "the actors are never tired of explaining exactly what is going to happen and how awful it will be; they deny their own knowledge",
+    "source": "“Mimesis and Allegory” (1940), in *Prose*, vol. II (2002), pp. 81–82",
+    "checked": "Read on 2026-10-03 in the scanned copy at archive.org (item prosetravelbooks0000aude; its catalogue title is that of vol. I, but the text is vol. II), which can be read only through its full-text search, one snippet at a time; the snippets were chained phrase by phrase. The lecture stands at pp. 78-87 (by the editor's note Auden gave it at Columbia University on 14 September 1940, at the English Institute's second annual conference, in the section on literary criticism). Page 81 ends at 'the behavior', where the footnote to Nietzsche's The Case of Wagner stands; page 82 runs from 'of the characters is odd' to 'The final moral would seem to'. Each sentence used was found once only in the volume. NOTE: remake/research/C_auden_on_works.md (section 31 and H17c) gives this passage to 'James Joyce and Richard Wagner', pp. 115-19. That is wrong: that essay (Common Sense, March 1941) is mainly about Joyce and does not contain it."
+  },
+  "plates": [
+    {
+      "id": "norn",
+      "heading": "The third Norn foretells the end",
+      "label": "Wagner",
+      "text": "o-gotterdammerung/norn",
+      "rows": [
+        "0.0-6.0"
+      ],
+      "pair": {
+        "label": "Armour, 1911",
+        "text": "gotterdammerung/prelude",
+        "rows": [
+          "19.9-19.15"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "rhyme",
+          "label": "Stave",
+          "threads": [
+            {
+              "sound": "br",
+              "at": [
+                ["1.0", 0, 0, 2],
+                ["2.0", 1, 0, 2]
+              ]
+            },
+            {
+              "sound": "h",
+              "at": [
+                ["1.0", 2, 0, 1],
+                ["2.0", 0, 0, 1],
+                ["2.0", 3, 0, 1]
+              ]
+            },
+            {
+              "sound": "s",
+              "at": [
+                ["3.0", 0, 0, 1],
+                ["4.0", 0, 0, 1],
+                ["4.0", 3, 0, 1]
+              ]
+            },
+            {
+              "sound": "gl",
+              "at": [
+                ["3.0", 2, 0, 2],
+                ["4.0", 2, 0, 2]
+              ]
+            },
+            {
+              "sound": "of a vowel that opens the word",
+              "at": [
+                ["5.0", 1, 0, 1],
+                ["5.0", 3, 0, 1],
+                ["6.0", 1, 0, 1],
+                ["6.0", 3, 0, 2]
+              ]
+            }
+          ],
+          "caption": "These lines do not rhyme. The colored letters are staves, or alliteration: one sound at the head of stressed words, the binding of the oldest German verse. Wagner wrote in 1851 that end-rhyme was a cheat and that this verse bends to the accents of speech. Auden, in 1944, called the words of the <i>Ring</i> alliterative verse full of old and embarrassing expressions; <b>sehrend</b>, wounding, is a word that written German lost early. After the first, the lines pair off: <b>br</b> and <b>h</b>, <b>s</b> and <b>gl</b>, then vowels, which count as alike. Wagner held that a stave makes one image of the words it joins: here <b>ewigen</b>, eternal, and <b>Ende</b>, end.",
+          "why": "Wagner gave up end-rhyme for the stave of the oldest German verse because, he wrote, it follows the accents of speech and makes one image of the words it joins; here it joins eternal to end.",
+          "grounds": [
+            {
+              "claim": "no line ends in rhyme; which sounds come back at the head of which stressed words; after the first line the lines go in three pairs, the first tied by br and h, the second by s and gl, the third by vowels",
+              "kind": "plate"
+            },
+            {
+              "claim": "a stave is the same sound at the head of stressed syllables, and it was the principle of the oldest German and English verse",
+              "kind": "source",
+              "source": "Jacob and Wilhelm Grimm, Deutsches Wörterbuch, under Stabreim (vol. X,II,I, col. 377): sameness of the first sound of stressed syllables, above all as the principle of old Germanic verse, whose stressed lifts are called staves. Paull F. Baum, The Principles of English Versification (1922), chapter 5: alliteration, or initial rime, is the agreement of the sounds at the beginning of accented syllables, and the early English, German and Scandinavian prosodies made it a determining principle."
+            },
+            {
+              "claim": "Wagner, 1851: end-rhyme a cheat; this verse bends to the actual accents of speech; it is the verse the folk once sang",
+              "kind": "source",
+              "source": "Richard Wagner, A Communication to My Friends (1851), translated by William Ashton Ellis, Richard Wagner's Prose Works, vol. 1 (London, 1892; read in the second edition, 1895), pp. 375-76. He is writing of his Siegfried poem (his note names it Siegfrieds Tod), which Ellis's preface to vol. 8 (1899), pp. vii-viii, describes as the earlier version of Götterdämmerung, scene after scene nearly word for word. Ellis's note at vol. 1, pp. 132-33, says the Ring uses this verse almost throughout."
+            },
+            {
+              "claim": "Auden, 1944: the text of the Ring is in an alliterative meter and is full of archaic and embarrassing expressions (his word for the second kind is shy-making)",
+              "kind": "auden",
+              "source": "Program notes for a broadcast of Die Walküre (1944), in Prose, vol. II: 1939–1948, edited by Edward Mendelson (2002), Appendix VI, p. 503"
+            },
+            {
+              "claim": "sehrend, one of the three words on the s stave, is from sehren, to wound, a verb the written language lost early",
+              "kind": "source",
+              "source": "Grimm, Deutsches Wörterbuch, under sehren (vol. X,I, col. 164): verwunden, verletzen; the New High German written language lost the word early and keeps it in the compound versehren; it lives on in dialect. The mark on row 4.0, word 0."
+            },
+            {
+              "claim": "words that open on a vowel count as staves to one another",
+              "kind": "source",
+              "source": "Wagner, Opera and Drama (1851), part II, chapter vi, in Ellis's translation, Prose Works, vol. 2 (1893; read in the second edition, 1900), p. 227: the likeness of stave-words comes either from a kinship of vowel sounds that stand open in front, with no consonant before them, or from the same first consonant; his own note gives two vowel pairs as examples. Ellis's note, vol. 1, p. 132: where vowels are used they must be of different sound."
+            },
+            {
+              "claim": "Wagner held that a stave makes one image of the words it joins (the caption then names the two words that the vowel stave joins inside row 5.0)",
+              "kind": "source",
+              "source": "Wagner, Opera and Drama, in Ellis's translation, Prose Works, vol. 2, p. 227 (kindred roots sound alike to the ear and knit like objects into one collective image). Until 3 October 2026 the caption went on 'opposites too', from p. 291 of the same volume (the Stabreim coupled speech-roots of opposite emotional expression and so presented them to the feeling as akin). The finisher cut those two words: Wagner's examples on that page are of opposite feelings, and that eternal and end are such a pair was the poet's own application (notes.md, section 4). What is left is his general statement and what the marks show: the arc under row 5.0 joins words 1 and 3."
+            },
+            {
+              "claim": "ewigen means eternal, endless; Ende means end",
+              "kind": "source",
+              "source": "Grimm, Deutsches Wörterbuch, under ewig (vol. III, col. 1200: aeternus; the everlasting, the endless) and Ende (vol. III, col. 447: finis)"
+            }
+          ],
+          "stands": "The marks on the passage. What a stave is: Grimm’s *Deutsches Wörterbuch*, under *Stabreim*, and Paull F. Baum, *The Principles of English Versification*, chapter 5. Wagner’s reasons: *A Communication to My Friends* (1851), in W. Ashton Ellis’s translation, pp. 375–76, and *Opera and Drama* (1851), p. 227. Auden on the meter: *Prose*, vol. II, p. 503. *Sehren*, *ewig* and *Ende*: Grimm."
+        },
+        {
+          "kind": "word",
+          "label": "Dawn",
+          "notes": [
+            {
+              "row": "0.0",
+              "w": [1, 1],
+              "gloss": "the world-ash",
+              "note": "The ash from which Wotan cut his spear; the second Norn has just told how he had it felled.",
+              "source": "the hosted text, gotterdammerung/prelude, blocks 12 (rows 16-19) and 16 (rows 9-13)"
+            },
+            {
+              "row": "5.0",
+              "w": [1, 1],
+              "gloss": "eternal",
+              "note": "Grimm’s dictionary defines the word as the everlasting, the endless; Armour has *high*.",
+              "source": "Grimm, Deutsches Wörterbuch, under ewig (vol. III, col. 1200); Armour's word is p:19.14, word 4"
+            },
+            {
+              "row": "5.0",
+              "w": [2, 3],
+              "gloss": "the gods’ end",
+              "note": "The phrase is sung twice in the libretto: here, and by Brünnhilde in the third passage.",
+              "source": "counted in the German libretto (.cache/originals/wagner_goetterdaemmerung_de_zeno.txt, lines 229 and 5395)"
+            },
+            {
+              "row": "6.0",
+              "w": [0, 0],
+              "gloss": "dawns",
+              "source": "Grimm, Deutsches Wörterbuch, under Dämmerung (vol. II: crepusculum, the twilight of morning and of evening) and aufdämmern (vol. I, col. 631: lucescere, to rise dawning, to break; a word then not a hundred years old; Goethe's morning that dawns is among the examples, most of which are of hopes, shapes and times to come)"
+            },
+            {
+              "row": "6.0",
+              "w": [1, 1],
+              "gloss": "forever",
+              "source": "Grimm, Deutsches Wörterbuch, under ewig, the adverb (vol. III, col. 1203: semper)"
+            },
+            {
+              "row": "6.0",
+              "w": [3, 3],
+              "gloss": "up: the verb’s other half",
+              "source": "Grimm, Deutsches Wörterbuch, under aufdämmern"
+            },
+            {
+              "row": "p:19.15",
+              "w": [1, 2],
+              "gloss": "not in the German",
+              "source": "rows 5.0-6.0 set against p:19.14-19.15"
+            }
+          ],
+          "caption": "The opera’s title is never sung in it. Its two halves stand here: <b>Götter</b>, gods, and <b>dämmert</b>. <i>Dämmerung</i> is the half-light of morning or evening, and the title word, on record from 1772, came from confusing two Old Norse names, the fate of the gods and their darkening. With <b>auf</b>, up, the Norn’s verb means to dawn: the end of the eternal gods dawns. Armour keeps the dawn and adds <i>in darkness</i>. The scene’s second line asks, in this verb, whether day is dawning; the answer is that the light is fire. Here too the dawn comes with fire: Valhalla burning with wood of the World Ash, which is Auden’s example.",
+          "why": "The Norn foretells the end in the two halves of the title, with a verb that means to dawn; her dawn comes with the fire of the world-ash logs, which is Auden’s example of people who know what is coming.",
+          "grounds": [
+            {
+              "claim": "the title word is not sung anywhere in the opera",
+              "kind": "source",
+              "source": "A search of the German libretto (the text of Richard Wagner, Die Musikdramen, Hamburg 1971, as zeno.org gives it; .cache/originals/wagner_goetterdaemmerung_de_zeno.txt): no line of it contains the word Götterdämmerung."
+            },
+            {
+              "claim": "the two halves of the title stand in the last two lines; Armour keeps Dawn and adds in darkness, for which the German line has no word",
+              "kind": "plate"
+            },
+            {
+              "claim": "Dämmerung is the twilight of morning or of evening",
+              "kind": "source",
+              "source": "Grimm, Deutsches Wörterbuch, under Dämmerung (vol. II): crepusculum; morning and evening twilight"
+            },
+            {
+              "claim": "the title word is found from 1772 and came of a confusion of two Old Norse names",
+              "kind": "source",
+              "source": "Grimm, Deutsches Wörterbuch, under Götterdämmerung (vol. IV,I,V): attested since 1772 among the bardic poets, a false loan-translation of Old Norse ragna rökkr, darkening of the gods, which had been confused with ragna rök, fate of the gods; the word names the downfall of the gods and the world-fire before a new age of the world. The Online Etymology Dictionary, under Gotterdammerung and Ragnarok, gives the same two Norse words."
+            },
+            {
+              "claim": "the Norn's verb, with auf, means to dawn",
+              "kind": "source",
+              "source": "Grimm, Deutsches Wörterbuch, under aufdämmern (vol. I, col. 631): lucescere, to rise dawning, to break; one of its examples is Goethe's morning that dawns"
+            },
+            {
+              "claim": "the lines say that when the wood burns and its glow scorches the hall, the end of the eternal gods dawns: the dawn comes with that fire",
+              "kind": "text",
+              "source": "rows 1.0 to 6.0, with Armour's lines under them"
+            },
+            {
+              "claim": "the scene's second line asks in the same verb whether day is dawning, and the answer is that the light is Loge's fire and it is night",
+              "kind": "text",
+              "source": "the German libretto, the Prelude, the second Norn's first line (line 65 of the zeno text) and the third Norn's answer; in the hosted text, gotterdammerung/prelude, blocks 4 and 6"
+            },
+            {
+              "claim": "Auden's example is the burning of Valhalla with wood from the World Ash Tree",
+              "kind": "auden",
+              "source": "“Mimesis and Allegory” (1940), in Prose, vol. II: 1939–1948, edited by Edward Mendelson (2002), p. 82"
+            }
+          ],
+          "stands": "The marks on the passage, and what its lines say. Grimm’s *Deutsches Wörterbuch*, under *Götterdämmerung*, *Dämmerung*, *aufdämmern* and *ewig*. A search of the German libretto for the title word. The [first lines of the Prelude](#/read/gotterdammerung/prelude:2), where the second Norn asks whether day is dawning and the third answers that the light is fire. Auden’s example: *Prose*, vol. II, p. 82."
+        }
+      ]
+    },
+    {
+      "id": "rhine",
+      "heading": "The Rhinemaidens’ verdict on Siegfried",
+      "label": "Wagner",
+      "text": "o-gotterdammerung/rhine",
+      "rows": [
+        "0.0-10.0"
+      ],
+      "pair": {
+        "label": "Armour, 1911",
+        "text": "gotterdammerung/act-3",
+        "rows": [
+          "93.2-93.4",
+          "95.0-95.1",
+          "97.0-97.5"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Against",
+          "name": "antithesis",
+          "plain": "two opposed things set side by side, often in phrases of the same build",
+          "draw": "pair",
+          "join": [[2, 3], [4, 5], [7, 8]],
+          "parts": [
+            {
+              "row": "0.0",
+              "w": [1, 3],
+              "tag": "A",
+              "label": "to his credit"
+            },
+            {
+              "row": "2.0",
+              "w": [1, 3],
+              "tag": "B",
+              "label": "against him"
+            },
+            {
+              "row": "3.0",
+              "w": [0, 2],
+              "tag": "A",
+              "label": "to his credit"
+            },
+            {
+              "row": "4.0",
+              "w": [1, 3],
+              "tag": "B",
+              "label": "against him"
+            },
+            {
+              "row": "5.0",
+              "w": [0, 2],
+              "tag": "A",
+              "label": "to his credit"
+            },
+            {
+              "row": "6.0",
+              "w": [1, 3],
+              "tag": "B",
+              "label": "against him"
+            },
+            {
+              "row": "7.0",
+              "w": [0, 2],
+              "tag": "A",
+              "label": "to his credit"
+            },
+            {
+              "row": "8.0",
+              "w": [0, 2],
+              "tag": "A",
+              "label": "to his credit"
+            },
+            {
+              "row": "9.0",
+              "w": [0, 2],
+              "tag": "B",
+              "label": "against him"
+            },
+            {
+              "row": "10.0",
+              "w": [0, 2],
+              "tag": "B",
+              "label": "against him"
+            }
+          ],
+          "caption": "The Rhinemaidens sum Siegfried up four times, each in two halves: something to his credit, then what stands against it. He thinks himself wise and strong, and is bound and blind. The two middle sentences match, three words then four, both closing on <b>sie nicht</b>, them not: oaths he swore and does not heed, runes he knows and does not read. A highest good was given him, and he does not know he threw it away. Auden says the people of the <i>Ring</i> deny their own knowledge.",
+          "why": "Four times the verdict sets something to Siegfried’s credit beside what stands against it; the third says he knows runes and does not read them, and Auden’s charge against the Ring’s people is that they deny their own knowledge.",
+          "grounds": [
+            {
+              "claim": "four statements of two halves each (the fourth is cut at a semicolon and runs on after the passage); the second and third are sentences built alike, three words then four, both ending on the same two words",
+              "kind": "plate"
+            },
+            {
+              "claim": "what each sentence says: he thinks himself wise and strong and is bound and blind; oaths sworn and not heeded; runes known and not read; a highest good granted, and he does not know he has thrown it away",
+              "kind": "text",
+              "source": "rows 0.0 to 10.0, with Armour's lines under them. The last sentence does not end with the passage: after a semicolon the German goes on to say that the ring alone, which is to be his death, he means to keep (hosted text, gotterdammerung/act-3, block 97, rows 6-7)."
+            },
+            {
+              "claim": "antithesis is the setting side by side of contrasting words or ideas, often in parallel structure",
+              "kind": "source",
+              "source": "Gideon O. Burton, Silva Rhetoricae (rhetoric.byu.edu), under antithesis"
+            },
+            {
+              "claim": "Auden: the people of the Ring deny their own knowledge",
+              "kind": "auden",
+              "source": "“Mimesis and Allegory” (1940), in Prose, vol. II: 1939–1948, edited by Edward Mendelson (2002), p. 82"
+            }
+          ],
+          "stands": "The marks on the passage, and what its lines say. Antithesis as *Silva Rhetoricae* defines it. Auden: *Prose*, vol. II, p. 82."
+        },
+        {
+          "kind": "word",
+          "label": "Knowing",
+          "notes": [
+            {
+              "row": "0.0",
+              "w": [1, 1],
+              "gloss": "wise",
+              "note": "German *weise* and *weiß*, knows, come from one root, which meant to see: to know was to have seen.",
+              "source": "Online Etymology Dictionary, under wise (adj.), which gives German weise and the root's sense 'to see', hence 'to know', and under wit (v.), which gives German wissen: Proto-Germanic 'to have seen', hence 'to know', from the same root"
+            },
+            {
+              "row": "1.0",
+              "w": [0, 1],
+              "gloss": "fancies himself",
+              "note": "Grimm gives the verb as to suppose or assume, found in written German only in older times, and its simple form *wähnen* as to believe, or to assume falsely.",
+              "source": "Grimm, Deutsches Wörterbuch, under verwähnen (vol. XII,I, col. 2073; sense 2: vermuten, annehmen; sense 3, the same used reflexively; sense 4: to put into a delusion; in the written language only in older times) and wähnen (vol. XIII, col. 650: erwarten, hoffen, vermuten, glauben, falsch annehmen)"
+            },
+            {
+              "row": "5.0",
+              "w": [0, 0],
+              "gloss": "secrets · secret letters",
+              "note": "Grimm: a secret, a secret counsel, a character of the Germanic secret and magic writing; in the Prelude Brünnhilde says she has given him her holy runes.",
+              "source": "Grimm, Deutsches Wörterbuch, under Rune (vol. VIII, col. 1518); hosted text, gotterdammerung/prelude, block 51, rows 8-11"
+            },
+            {
+              "row": "5.0",
+              "w": [1, 1],
+              "gloss": "knows",
+              "source": "Online Etymology Dictionary, under wit (v.): German wissen"
+            },
+            {
+              "row": "6.0",
+              "w": [1, 1],
+              "gloss": "reads: makes out",
+              "note": "The same word as English *read*, whose old senses were to counsel and to interpret; at his death Hagen asks him, in a form of this verb, whether he can make out the ravens’ whisper.",
+              "source": "Online Etymology Dictionary, under read (v.): Old English rædan, to advise, counsel, to read, to explain; German raten, to advise, counsel, interpret, guess; connected to riddle through the notion of interpreting. Grimm, Deutsches Wörterbuch, under rathen (vol. VIII, col. 173: adjuvare, consilium dare, divinare). Hagen's question: German libretto, Act 3, Scene 2, the two lines before the spear-thrust (lines 4861-4863 of the zeno text; the verb is erraten and the ravens' sound is Geraun, from raunen, which Grimm derives from the noun Rune); hosted text, gotterdammerung/act-3, block 213."
+            },
+            {
+              "row": "10.0",
+              "w": [0, 2],
+              "gloss": "he does not know",
+              "source": "as above, under wit (v.); Armour's line p:97.5"
+            },
+            {
+              "row": "p:97.1",
+              "w": [2, 3],
+              "gloss": "the German: does not read",
+              "note": "*Rede* is an old spelling of *read* that poets fond of old words kept in use; Wagner’s line has *does not* where Armour has *cannot*.",
+              "source": "Online Etymology Dictionary, under rede (n.): it has the same source as read; the noun went out of literary use in the 1600s and came back a little in the archaizing and poetic language of the 1800s. The Century Dictionary, quoted there on the verb, calls rede the early spelling of read, used by Spenser and a favorite with the poets who imitated his old words, and says nothing in the word's history supports spelling the two differently. Row 6.0 against p:97.1. Wagner's poem as he printed it in 1872 has the same words in this line (Gesammelte Schriften und Dichtungen, vol. 6, p. 340)."
+            }
+          ],
+          "caption": "Words of knowing run through the verdict. Two of them, <b>weise</b>, wise, and <b>weiß</b>, knows, come from one root, which meant to see; the man who thinks himself wise is called <b>blind</b>. <b>Runen</b> are secrets, and letters of a secret script; Brünnhilde gave him hers. The verb <b>rät</b>, the same word as English <i>read</i>, means to counsel, interpret or guess. Wagner’s line says he does not read them; Armour’s <i>cannot</i> is her own. Auden says the people of the <i>Ring</i> explain exactly what is coming and deny their own knowledge. Here the same voices have just told Siegfried he will be killed today, and he keeps the ring.",
+          "why": "The verdict is made of words for knowing; its third sentence says he knows runes and does not read them, just after he was told he would die today, and Auden says the Ring’s people deny their own knowledge.",
+          "grounds": [
+            {
+              "claim": "where the words of knowing stand in the passage; that the one who thinks himself wise is called blind",
+              "kind": "plate"
+            },
+            {
+              "claim": "weise and weiß (from wissen) come from one root, which meant to see; the Germanic verb meant to have seen and so to know",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under wise (adj.) and wit (v.)"
+            },
+            {
+              "claim": "Runen: secrets, and the characters of a secret writing",
+              "kind": "source",
+              "source": "Grimm, Deutsches Wörterbuch, under Rune (vol. VIII, col. 1518); Online Etymology Dictionary, under rune"
+            },
+            {
+              "claim": "Brünnhilde gave him her runes",
+              "kind": "text",
+              "source": "hosted text, gotterdammerung/prelude, block 51 (rows 8-11: what the gods taught her she has given, the hoard of holy runes), block 53 (he answers that her teaching has left him untaught) and block 70 (the ring is to pay for her runes)"
+            },
+            {
+              "claim": "rät (from raten) is the same word as English read, and the German verb means to advise or counsel, to interpret, to guess",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under read (v.): German raten, to advise, counsel, interpret, guess, from the same Germanic verb as Old English rædan; read is connected to riddle through the notion of interpreting. Grimm, Deutsches Wörterbuch, under rathen (vol. VIII, col. 173): adjuvare, consilium dare, divinare"
+            },
+            {
+              "claim": "Wagner's line says he does not read them; Armour's cannot is not in the German",
+              "kind": "text",
+              "source": "row 6.0 against p:97.1; the poem of 1872 reads the same in this line (Gesammelte Schriften und Dichtungen, vol. 6, Leipzig 1872, p. 340)"
+            },
+            {
+              "claim": "the Rhinemaidens have just told him he will fall today unless he gives the ring to the Rhine, and he refuses and keeps it",
+              "kind": "text",
+              "source": "hosted text, gotterdammerung/act-3, block 82 (rows 12-17), block 84 and block 90"
+            },
+            {
+              "claim": "Auden: the people of the Ring explain exactly what is coming and deny their own knowledge (the sentence quoted at the head of the page)",
+              "kind": "auden",
+              "source": "“Mimesis and Allegory” (1940), in Prose, vol. II: 1939–1948, edited by Edward Mendelson (2002), p. 82"
+            }
+          ],
+          "stands": "The marks on the passage. The Online Etymology Dictionary under *wise*, *wit*, *read* and *rede*; Grimm’s *Deutsches Wörterbuch* under *Rune*, *raten*, *verwähnen* and *wähnen*. Brünnhilde’s runes: [the Prelude](#/read/gotterdammerung/prelude:51). The warning and his answer: [Act 3](#/read/gotterdammerung/act-3:82). Hagen’s question: [Act 3](#/read/gotterdammerung/act-3:213), with the German of the line. Auden: *Prose*, vol. II, p. 82."
+        },
+        {
+          "kind": "rhyme",
+          "label": "English",
+          "threads": [
+            {
+              "sound": "w",
+              "at": [
+                ["0.0", 1, 0, 1],
+                ["1.0", 0, 3, 1],
+                ["9.0", 2, 3, 1],
+                ["10.0", 0, 0, 1]
+              ]
+            },
+            {
+              "sound": "b",
+              "at": [
+                ["2.0", 1, 2, 1],
+                ["2.0", 3, 0, 1],
+                ["p:93.4", 2, 0, 1],
+                ["p:93.4", 6, 0, 1]
+              ]
+            },
+            {
+              "sound": "f",
+              "at": [
+                ["p:93.4", 5, 0, 1],
+                ["p:93.4", 7, 0, 1],
+                ["p:97.3", 0, 0, 1],
+                ["p:97.4", 1, 0, 1]
+              ]
+            },
+            {
+              "sound": "of a vowel that opens the word",
+              "at": [
+                ["3.0", 0, 0, 2],
+                ["4.0", 1, 0, 1]
+              ]
+            },
+            {
+              "sound": "r",
+              "at": [
+                ["5.0", 0, 0, 1],
+                ["6.0", 1, 0, 1],
+                ["p:97.0", 0, 0, 1],
+                ["p:97.1", 3, 0, 1]
+              ]
+            },
+            {
+              "sound": "g",
+              "at": [
+                ["7.0", 2, 0, 1],
+                ["8.0", 2, 2, 1],
+                ["p:97.2", 1, 0, 1],
+                ["p:97.2", 2, 0, 1]
+              ]
+            }
+          ],
+          "caption": "The colored letters are staves, Wagner’s in the German and Armour’s in the English. In his second and third sentences the stave ties what Siegfried has to what he fails to do with it: <b>Eide</b>, oaths, to <b>achtet</b>, heeds, and <b>Runen</b> to <b>rät</b>. In this verse vowels count as alike. Wagner held that a stave makes one image of the words it joins. Armour keeps three of his staves on the same letter: <i>blind</i> and <i>bound</i>, <i>Runes</i> and <i>rede</i>, <i>glorious gift</i>. Two of these are the same words in both languages. The oldest English verse was bound this way too. She drops his <b>w</b>, which opens and closes the passage, and his vowels, and adds an <i>f</i> of her own.",
+          "why": "In the two matched sentences Wagner’s stave ties what Siegfried has to what he fails to do with it; Armour keeps three of his staves on the same letter, twice with the same words, and drops two.",
+          "grounds": [
+            {
+              "claim": "which sounds come back at the head of which stressed syllables, in the German and in the English; that the staves of the second and third sentences fall on the noun of the first half and the verb of the second; that Armour has b, r and g where Wagner has them, no stave on w or on the vowels (her lines under rows 0.0-1.0, 3.0-4.0 and 9.0-10.0), and an f that is not in the German",
+              "kind": "plate"
+            },
+            {
+              "claim": "Wagner held that a stave makes one image of the words it joins",
+              "kind": "source",
+              "source": "Wagner, Opera and Drama (1851), part II, chapter vi, in William Ashton Ellis's translation, Richard Wagner's Prose Works, vol. 2 (1893; read in the second edition, 1900), p. 227"
+            },
+            {
+              "claim": "in this verse words that open on a vowel count as staves to one another, whatever the vowel (the caption: vowels count as alike), which is why the letters marked in rows 3.0 and 4.0 are a pair",
+              "kind": "source",
+              "source": "The ground that the Stave tab of the first passage gives: Wagner, Opera and Drama (1851), part II, chapter vi, in Ellis's translation, Prose Works, vol. 2, p. 227 (stave-words are alike either by a kinship of vowel sounds that stand open in front or by the same first consonant), and Ellis's note, vol. 1, p. 132 (where vowels are used they must be of different sound). The finisher, who added the sentence on 3 October 2026, could not open Ellis from where it works, and read instead A New English Dictionary on Historical Principles, vol. I (Oxford, 1888), p. 236, under Alliteration, sense 2: accented syllables of a verse that begin with the same consonant or group of consonants, or with different vowel sounds, as the build of verse in Old English and the Germanic languages generally (the scan ned_oed01arch.txt, lines 99192-99196)."
+            },
+            {
+              "claim": "blind and bound, Runes and rede are the same words as blind and gebunden, Runen and rät",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under blind (German blind), bind (Old English bindan, past participle bunden; German binden), bound (the past participle of bind), rune (Old High German runa), read (German raten) and rede (from the source of read)"
+            },
+            {
+              "claim": "alliteration was a ruling principle of the oldest English verse as of the German",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 5: the early English, German and Scandinavian prosodies made it a determining principle"
+            },
+            {
+              "claim": "the stave on w at the head of the passage is in the poem Armour translated as well as in the sung text",
+              "kind": "source",
+              "source": "Wagner, Gesammelte Schriften und Dichtungen, vol. 6 (Leipzig: E. W. Fritzsch, 1872), p. 340: the poem's first two lines here differ from the sung text, but they too bind weise with wähnt"
+            }
+          ],
+          "stands": "The marks on the passage. Wagner on what a stave does, and on vowels: *Opera and Drama* (1851), in W. Ashton Ellis’s translation, p. 227. The words the two languages share: the Online Etymology Dictionary under *blind*, *bind*, *rune*, *read* and *rede*. Alliteration in the oldest English verse: Paull F. Baum, *The Principles of English Versification*, chapter 5."
+        }
+      ]
+    },
+    {
+      "id": "brand",
+      "heading": "Brünnhilde with the torch",
+      "label": "Wagner",
+      "text": "o-gotterdammerung/brand",
+      "rows": [
+        "0.0-10.0"
+      ],
+      "pair": {
+        "label": "Armour, 1911",
+        "text": "gotterdammerung/act-3",
+        "rows": [
+          "317.0-317.10"
+        ]
+      },
+      "lenses": [
+        {
+          "kind": "word",
+          "label": "Now",
+          "notes": [
+            {
+              "row": "1.0",
+              "w": [0, 0],
+              "gloss": "whisper",
+              "note": "Grimm derives the verb from the noun *rune*, a secret. In Act 1 Waltraute uses it for the wish Wotan whispered, that the ring go back to the Rhine’s daughters, and Brünnhilde uses it when she sends her refusal to the gods.",
+              "source": "Grimm, Deutsches Wörterbuch, under raunen (vol. VIII, col. 294: murmeln, flüstern; from the noun that is rune). German libretto, Act 1, Scene 3: Waltraute's narration (line 1849 of the zeno text; hosted text, gotterdammerung/act-1, block 290, rows 58-65) and Brünnhilde's answer (line 1995; hosted text, block 308, rows 0-3, where Armour has repeat). The verb, or a noun made from it, stands in ten lines of the libretto (lines 103, 269, 1555, 1849, 1995, 3213, 3629, 3885, 4863 and 5383)."
+            },
+            {
+              "row": "7.0",
+              "w": [2, 3],
+              "gloss": "the gods’ end",
+              "source": "counted in the German libretto (lines 229 and 5395 of the zeno text)"
+            },
+            {
+              "row": "8.0",
+              "w": [0, 0],
+              "gloss": "dawns",
+              "note": "The verb that means to dawn, completed by *auf* at the end of the line, as in the first passage.",
+              "source": "Grimm, Deutsches Wörterbuch, under aufdämmern (vol. I, col. 631)"
+            },
+            {
+              "row": "8.0",
+              "w": [1, 1],
+              "gloss": "now",
+              "note": "The Norn’s line has *ewig da* in this place: forever, then.",
+              "source": "the first passage, row 6.0, with Armour's line under it, which begins And then. Grimm, Deutsches Wörterbuch, under da (vol. II, col. 646): the adverb of place (ibi, there), which often stands in the clause that answers a where; and under the second da, from older dô (vol. II, col. 656), the adverb of time (tum, tunc: at that time, then)."
+            },
+            {
+              "row": "9.0",
+              "w": [1, 2],
+              "gloss": "I throw",
+              "note": "The Norn’s words were *den wirft der Gott*, the god throws it.",
+              "source": "German libretto, the Prelude, the third Norn's second speech (line 303 of the zeno text)"
+            },
+            {
+              "row": "9.0",
+              "w": [4, 4],
+              "gloss": "the burning brand",
+              "note": "The Norn’s word for the fire the god was to throw; Grimm gives it as a burning piece of wood, and English *brand* is the same word.",
+              "source": "German libretto, the Prelude, the third Norn's second speech (line 299 of the zeno text). Grimm, Deutsches Wörterbuch, under Brand (vol. II: titio, torris, the burning piece or log). Online Etymology Dictionary, under brand (n.)."
+            }
+          ],
+          "caption": "Brünnhilde’s sentence is the third Norn’s, come true. <b>Götter Ende</b>, the gods’ end, is sung twice in the libretto, there and here, each time with <b>dämmert</b> and <b>auf</b>, dawns. The Norn’s gods were eternal, and their end was to dawn then, <i>da</i>, and forever, <i>ewig</i>. Here the gods are not called eternal, and the word is <b>nun</b>, now. The Norn said the god would throw the fire among the logs; Brünnhilde says <b>werf ich</b>, I throw. She sends Wotan’s ravens home to whisper it, <b>Raunt</b>, Waltraute’s verb in Act 1 for the wish he whispered. Auden observes that she and Siegfried make no new world: they burn with the old one.",
+          "why": "The end comes in the words that foretold it, with now where the Norn sang then and forever, and I where she sang the god; Auden notes that the lovers make no new world and burn with the old one.",
+          "grounds": [
+            {
+              "claim": "the words marked here, set against the first passage: the same phrase and the same verb; the Norn's line has the adjective for eternal and the words for forever and then, this one has neither and has the word for now",
+              "kind": "plate"
+            },
+            {
+              "claim": "the Norn's da, which follows her when-clauses, means then",
+              "kind": "source",
+              "source": "Grimm, Deutsches Wörterbuch, under da (vol. II, cols. 646 and 656): the adverb that answers a where or a when in the following clause, and the adverb of time (tum, tunc). Armour's line under it in the first passage (p:19.14) begins And then."
+            },
+            {
+              "claim": "the phrase for the gods' end is sung twice in the libretto, both times with the verb for dawning, dämmert completed by auf; the verb in that form is sung three times in all, the first being the second Norn's question",
+              "kind": "source",
+              "source": "counted in the German libretto (the text of Die Musikdramen, 1971, at zeno.org; .cache/originals/wagner_goetterdaemmerung_de_zeno.txt): the phrase at lines 229 and 5395; the verb with auf at lines 65, 231 and 5397. The verb without auf is sung once more, at line 247, where the first Norn asks again whether day is dawning or the fire is shining; the noun Dämmern is sung once, of evening, at line 2043; the stage directions have Dämmerung at lines 2457 and 4887. No line has the title word."
+            },
+            {
+              "claim": "the Norn said that the god would throw the fire among the logs of the world-ash",
+              "kind": "text",
+              "source": "German libretto, the Prelude, the third Norn's second speech (lines 293-307 of the zeno text); hosted text, gotterdammerung/prelude, block 28, where Armour has the fire 'thrown' with no thrower named"
+            },
+            {
+              "claim": "Brünnhilde says that she throws the brand, and first sends the ravens home to whisper to their lord what they heard by the Rhine; what the Norn foretold then happens, and the last stage direction shows the hall of the gods in flames",
+              "kind": "text",
+              "source": "rows 0.0-2.0 and 7.0-10.0; hosted text, gotterdammerung/act-3, blocks 318 and 324 (the directions after her speech and at the end)"
+            },
+            {
+              "claim": "the ravens are Wotan's; in Act 1 Waltraute reports, in the verb of row 1.0, the wish he whispered, that Brünnhilde give the ring back to the Rhine's daughters; Brünnhilde uses the same verb there when she sends Waltraute back to the gods with her refusal; just before this passage she gives the ring to the Rhine's daughters",
+              "kind": "text",
+              "source": "hosted text, gotterdammerung/act-1, block 290 (rows 41-47, the ravens sent for tidings; rows 58-65, the whispered wish) and block 308 (rows 0-7, her answer); German lines 1849 and 1995 have the verb of row 1.0 here; gotterdammerung/act-3, block 313 (his ravens) and block 315 (the ring given to the Rhine's daughters)"
+            },
+            {
+              "claim": "Auden: Siegfried and Brünnhilde make no new world and burn with the old one (the sentence quoted in the list under the passages)",
+              "kind": "auden",
+              "source": "“Mimesis and Allegory” (1940), in Prose, vol. II: 1939–1948, edited by Edward Mendelson (2002), p. 81"
+            }
+          ],
+          "stands": "The marks on this passage and on the first. A count of the phrase and of the verb in the German libretto. The third Norn’s [second prophecy](#/read/gotterdammerung/prelude:28) and [Waltraute’s account](#/read/gotterdammerung/act-1:290) of Wotan, each with its German. Grimm’s *Deutsches Wörterbuch* under *da*, *raunen* and *Brand*. Auden: *Prose*, vol. II, p. 81."
+        },
+        {
+          "kind": "compare",
+          "label": "English",
+          "ties": [
+            {
+              "a": ["2.0", 3, 3],
+              "b": ["p:317.2", 6, 6],
+              "say": "*Rhein* and *Rhine*, like *Raben* and *ravens* two lines earlier, are the same words, so Wagner’s stave on *r* crosses into English."
+            },
+            {
+              "a": ["1.0", 0, 0],
+              "b": ["p:317.1", 0, 0],
+              "say": "*Whisper* becomes *tell*. In Act 1 Armour’s Waltraute says *whispered*."
+            },
+            {
+              "a": ["7.0", 3, 3],
+              "b": ["p:317.8", 3, 3],
+              "say": "*End*. For this word Armour wrote *downfall* in the Prelude and writes *doom* here."
+            },
+            {
+              "a": ["8.0", 0, 2],
+              "b": ["p:317.7", 4, 4],
+              "say": "*Dawns now*. In the Prelude she kept *Dawn*; here the gods are *drawing near*, so in her English the verb does not come back."
+            },
+            {
+              "a": ["9.0", 1, 2],
+              "b": ["p:317.9", 0.2, 1],
+              "say": "*I throw* becomes *thrown be*, with no *I*. In the Prelude her Norn says *is thrown*, with no god."
+            }
+          ],
+          "caption": "Armour stays close, and where the two languages share a word she keeps the stave: <i>ravens</i> and <i>Rhine</i> for <b>Raben</b> and <b>Rhein</b>. <b>Raunt</b>, whisper, becomes <i>Tell</i>. Her English hardly shows that the Norn’s sentence returns. For the same German words she wrote <i>downfall</i> and <i>Dawn</i> in the Prelude and writes <i>doom</i> and <i>drawing near</i> here, so of that sentence only <i>Gods</i> and a stave on <i>d</i> come back. In both places her English names no thrower: <i>is thrown</i> there and <i>thrown be</i> here. Wagner names one each time: the god, then <b>ich</b>, I.",
+          "why": "The English keeps Wagner’s stave where it shares his words, but it turns the returning sentence two ways and names no thrower, so the Norn’s prophecy does not come back in Brünnhilde’s mouth as it does in the German.",
+          "grounds": [
+            {
+              "claim": "which English words answer which German ones here; that ravens and Rhine keep the stave on r",
+              "kind": "plate"
+            },
+            {
+              "claim": "Raben and ravens, Rhein and Rhine are the same words",
+              "kind": "source",
+              "source": "Online Etymology Dictionary, under raven (German Rabe) and Rhine (from German Rhein)"
+            },
+            {
+              "claim": "in the Prelude Armour wrote downfall, Dawn and darkness for the Norn's sentence; here she writes drawing near and doom, so of her words for that sentence only Gods (and the article) and the first letter d return (p:19.14-19.15 in the first passage against p:317.7-317.8 here)",
+              "kind": "plate"
+            },
+            {
+              "claim": "Armour's third Norn says the fire is thrown, with no thrower, where the German names the god",
+              "kind": "text",
+              "source": "hosted text, gotterdammerung/prelude, block 28, row 6, against the German of the same line (line 303 of the zeno text)"
+            },
+            {
+              "claim": "Armour's Waltraute says that Wotan whispered, where here the same German verb becomes tell",
+              "kind": "text",
+              "source": "hosted text, gotterdammerung/act-1, block 290, row 61, against German line 1849; row 1.0 here against p:317.1"
+            }
+          ],
+          "stands": "The marks on this passage and on the first. Armour’s [third Norn](#/read/gotterdammerung/prelude:28) and her [Waltraute](#/read/gotterdammerung/act-1:290), each set against the German of the same lines. The Online Etymology Dictionary under *raven* and *Rhine*."
+        },
+        {
+          "kind": "shape",
+          "label": "Told",
+          "what": "where in the libretto each end is told before it comes",
+          "facts": {
+            "lines": 2026,
+            "counted": "Lines of verse in the hosted text (Margaret Armour's translation, Project Gutenberg no. 49507), counted in order through the Prelude and the three acts with a script over site/data/texts/gotterdammerung/*.json: every row of every verse block; speakers' names and stage directions are not counted. The index of the hosted text gives the same four totals. A telling is a place where a character says that the end will come, or how; its line is the line of the decisive words. Other lines hint at either end or call for it and are not marked: act-1 block 305 (on the ring hangs the world's undoing) and block 314 (Waltraute's cry of woe on the gods); act-2 block 309 (Hagen: his perjury gives him to my spear), blocks 336, 354, 357, 365 and 367 (the plotters name his death as what they need) and blocks 379 and 381 (so shall it be; let him die); act-3 block 98 (a woman shall inherit before night) and block 313 (Brünnhilde sends the god the tidings he fears).",
+            "parts": [
+              {
+                "name": "Prelude",
+                "lines": 256,
+                "read": "gotterdammerung/prelude:0"
+              },
+              {
+                "name": "Act 1",
+                "lines": 577,
+                "read": "gotterdammerung/act-1:0"
+              },
+              {
+                "name": "Act 2",
+                "lines": 635,
+                "read": "gotterdammerung/act-2:0"
+              },
+              {
+                "name": "Act 3",
+                "lines": 558,
+                "read": "gotterdammerung/act-3:0"
+              }
+            ],
+            "ends": [
+              {
+                "name": "The end of the gods",
+                "told": [
+                  {
+                    "line": 79,
+                    "who": "The third Norn",
+                    "says": "when the logs of the world-ash burn, the end of the gods will dawn",
+                    "read": "gotterdammerung/prelude:19",
+                    "where": "prelude, block 19, rows 10-15; line 79 is row 14"
+                  },
+                  {
+                    "line": 111,
+                    "who": "The third Norn",
+                    "says": "the fire will be thrown among the logs",
+                    "read": "gotterdammerung/prelude:28",
+                    "where": "prelude, block 28, rows 4-8; line 111 is row 6. The German names the thrower, the god."
+                  },
+                  {
+                    "line": 644,
+                    "who": "Waltraute",
+                    "says": "Wotan has had the world-ash felled and its logs heaped round the hall, and sits there in silence",
+                    "read": "gotterdammerung/act-1:290",
+                    "where": "act-1, block 290, rows 15-22 and 31-36; line 644 is row 19. The last stage direction of the opera refers back to this speech by name."
+                  },
+                  {
+                    "line": 754,
+                    "who": "Brünnhilde",
+                    "says": "she will keep the ring, though the glory of Valhalla perish",
+                    "read": "gotterdammerung/act-1:308",
+                    "where": "act-1, block 308, rows 4-7; line 754 is row 6"
+                  },
+                  {
+                    "line": 866,
+                    "who": "Alberich",
+                    "says": "Wotan and all the gods are waiting for their downfall",
+                    "read": "gotterdammerung/act-2:14",
+                    "where": "act-2, block 14, rows 16-19; line 866 is row 17"
+                  }
+                ],
+                "comes": {
+                  "line": 2002,
+                  "who": "Brünnhilde",
+                  "what": "throws the torch; in the last stage direction flames take the hall of the gods",
+                  "read": "gotterdammerung/act-3:317",
+                  "where": "act-3, block 317, row 9 is line 2002; the directions are blocks 318 and 324, the last of which stands after the last line of verse, 2026"
+                }
+              },
+              {
+                "name": "The death of Siegfried",
+                "told": [
+                  {
+                    "line": 896,
+                    "who": "Hagen",
+                    "says": "through him Siegfried is already speeding to his doom",
+                    "read": "gotterdammerung/act-2:25",
+                    "where": "act-2, block 25, rows 0-1; line 896 is row 0"
+                  },
+                  {
+                    "line": 1251,
+                    "who": "Siegfried",
+                    "says": "if Brünnhilde’s charge is true, let the point of Hagen’s spear be the one that strikes him dead",
+                    "read": "gotterdammerung/act-2:276",
+                    "where": "act-2, block 276, rows 6-11; line 1251 is row 6. Hagen holds out his spear for the oath in block 273."
+                  },
+                  {
+                    "line": 1263,
+                    "who": "Brünnhilde",
+                    "says": "on the same spear-point, may its sharpness kill him",
+                    "read": "gotterdammerung/act-2:279",
+                    "where": "act-2, block 279, rows 6-9; line 1263 is row 6"
+                  },
+                  {
+                    "line": 1363,
+                    "who": "Hagen",
+                    "says": "told by Brünnhilde that only Siegfried’s back can be wounded, he says his spear will strike there",
+                    "read": "gotterdammerung/act-2:319",
+                    "where": "act-2, block 319 (her words, row 1 is line 1358) and block 321 (his, line 1363)"
+                  },
+                  {
+                    "line": 1436,
+                    "who": "Hagen",
+                    "says": "tomorrow, on the hunt; it will be given out that a boar killed him",
+                    "read": "gotterdammerung/act-2:377",
+                    "where": "act-2, block 377, rows 2-5; line 1436 is row 5"
+                  },
+                  {
+                    "line": 1564,
+                    "who": "The Rhinemaidens",
+                    "says": "he will fall today unless he gives the ring to the Rhine",
+                    "read": "gotterdammerung/act-3:82",
+                    "where": "act-3, block 82, rows 12-17; line 1564 is row 13"
+                  },
+                  {
+                    "line": 1656,
+                    "who": "Siegfried",
+                    "says": "he tells the hunters that he was told he would be killed today",
+                    "read": "gotterdammerung/act-3:130",
+                    "where": "act-3, block 130, rows 5-6; line 1656 is row 6"
+                  }
+                ],
+                "comes": {
+                  "line": 1791,
+                  "who": "Hagen",
+                  "what": "drives his spear into Siegfried’s back, in a stage direction after this line",
+                  "read": "gotterdammerung/act-3:214",
+                  "where": "act-3, block 214, a direction; 1,791 lines of verse stand before it and block 216 is line 1792"
+                }
+              }
+            ],
+            "passages": [
+              {
+                "name": "The third Norn",
+                "first": 74,
+                "last": 80,
+                "read": "gotterdammerung/prelude:19"
+              },
+              {
+                "name": "The Rhinemaidens’ verdict",
+                "first": 1605,
+                "last": 1615,
+                "read": "gotterdammerung/act-3:93"
+              },
+              {
+                "name": "Brünnhilde with the torch",
+                "first": 1993,
+                "last": 2003,
+                "read": "gotterdammerung/act-3:317"
+              }
+            ]
+          },
+          "caption": "The line down the page is the libretto: 2,026 lines of verse in this translation. Each mark is a place where someone speaks of the gods’ end or of Siegfried’s death before it comes: that it will come, or how. The earliest is the third Norn’s, at line 79. Siegfried names the weapon himself, in the oath on Hagen’s spear that Auden, in talk a friend wrote down, called wonderful. The Rhinemaidens tell him the day, and he repeats it to the hunters. Auden says these people never tire of explaining what will happen and how terrible it will be. The spear strikes after line 1,791; the torch is thrown at line 2,002.",
+          "why": "Both ends are told again and again, by different voices, before they come, and Siegfried’s by Siegfried himself; Auden’s complaint is that the people of the Ring never tire of explaining what will happen.",
+          "grounds": [
+            {
+              "claim": "the libretto has 2,026 lines of verse in this translation, and the line at which each telling and each end stands",
+              "kind": "source",
+              "source": "counted in the hosted text, gotterdammerung (prelude 256, act-1 577, act-2 635, act-3 558 lines of verse); the counting rule and the block and row of every mark are in the facts"
+            },
+            {
+              "claim": "what each speaker says at each mark, and that each says it before the event",
+              "kind": "text",
+              "source": "hosted text: prelude, blocks 19 and 28; act-1, blocks 290 and 308; act-2, blocks 14, 25, 276, 279, 319-321 and 377; act-3, blocks 82 and 130"
+            },
+            {
+              "claim": "Siegfried swears on the point of Hagen's spear and calls on that point to strike him; Hagen's spear kills him; Brünnhilde throws the brand and the hall of the gods burns",
+              "kind": "text",
+              "source": "hosted text: act-2, blocks 273-276; act-3, block 214 (the direction); act-3, blocks 317, 318 and 324"
+            },
+            {
+              "claim": "Auden called the oath on the spear wonderful",
+              "kind": "auden",
+              "source": "Alan Ansen, The Table Talk of W. H. Auden, edited by Nicholas Jenkins (1991), p. 16"
+            },
+            {
+              "claim": "Auden: these people never tire of explaining what will happen and how terrible it will be (the sentence quoted at the head of the page)",
+              "kind": "auden",
+              "source": "“Mimesis and Allegory” (1940), in Prose, vol. II: 1939–1948, edited by Edward Mendelson (2002), p. 82"
+            }
+          ],
+          "stands": "A count of the lines of verse in the text printed here; which lines count as tellings is a judgment. The oath: [Act 2](#/read/gotterdammerung/act-2:276). The warning: [Act 3](#/read/gotterdammerung/act-3:82). The spear: [Act 3](#/read/gotterdammerung/act-3:214). Auden on the oath: Alan Ansen, *The Table Talk of W. H. Auden*, p. 16. Auden on explaining: *Prose*, vol. II, p. 82."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "In the lecture of 1940 Auden tries two readings of the *Ring* as allegory and finds that each goes vague in this opera. To a historian it is the Germany of Wagner’s century: the gods are the old nobility, the dwarfs the men of money, the giants the workers, and Siegfried and Brünnhilde the pair who set the country free; yet at the end the ring only returns to the Rhine. On a psychoanalytic reading one would expect the pair to grow up and marry elsewhere, she Gunther and he Gutrune; the libretto shows those marriages as unfaithfulness that magic has worked, and fatal to both.",
+      "quote": "Siegfried and Brünnhilde do not create the new world, they go up in flames with the old",
+      "source": "“Mimesis and Allegory” (1940), in *Prose*, vol. II (2002), pp. 81–82",
+      "checked": "Read on 2026-10-03 in snippets of the scanned copy at archive.org (item prosetravelbooks0000aude), chained phrase by phrase from the top of p. 81 (the running head 'Reviews 1940 81' stands before 'noise, created a taste') to the top of p. 83; the sentence quoted is on p. 81 and was found once in the volume. The psychoanalytic reading stands on p. 82, between the footnote that closes p. 81 and the running head 'Essays and Reviews 1940 83'."
+    },
+    {
+      "says": "Auden took Wagner for the test case of his lecture because he thought him the greatest modern artist and the most typical. The story and its people are allegory, he says, yet Wagner treats them as realistically as opera can, turning recitative, sung speech, into an unending melody that follows the speaking voice. His explanation of the characters’ illogic is the composer: suffering was what Wagner’s art could express, and they act against sense so that he can keep writing the music he did best. For expressing failure, betrayed love like Brünnhilde’s included, Auden ranks him with the greatest geniuses. The best of him, he says, is in the monologues.",
+      "source": "“Mimesis and Allegory” (1940), in *Prose*, vol. II (2002), pp. 80–81 and 83",
+      "checked": "Read on 2026-10-03 in snippets of the scanned copy at archive.org (item prosetravelbooks0000aude). The sentence on why he chose Wagner ('I choose him because') comes before the list of what the age owes to Wagner, and that list runs over the head of p. 81, so the sentence is on p. 80. The paradox (allegorical plot, realistic treatment, recitative made into melody that keeps to the rhythms of the speaking voice) was chained from 'within the limits of the operatic form' to 'the natural speaking voice', on p. 81. The explanation by Wagner's own suffering, the list of sufferings with Brünnhilde for betrayed love, the judgment that happiness and success were beyond him, and the remark on monologues are on p. 83, which runs from 'be: civilization can only be built' to the footnote citing The Case of Wagner, p. 34, under the running head 'Essays and Reviews 1940 83'. The two words that follow 'recitative' in the entry, 'sung speech', are the critic's gloss of the term, added on 3 October 2026; they are not in the poet's paraphrase of Auden's sentence. The finisher could open no ground for them from where it works: no volume of the dictionary at hand has the letter R. The Orpheus page prints the same gloss on a ground its own finisher opened that day (Treccani, under recitativo: a way of singing that follows the cadences and inflections of speech and makes no closed melody)."
+    },
+    {
+      "says": "*New Year Letter*, the long poem Auden published in 1941, says that the hero Wagner put on the stage has done all his thinking once he knows that his ruin is fated, and lives to suffer. The note to those lines makes the same charge as the lecture. No Romantic artist is greater than Wagner, it says, because none goes further in the Romantic heresy of setting the necessity of cause above the necessity of logic. The operas are masterly case histories of people in trouble and, as plots, absurd: the fire at Valhalla, fed with wood of the World Ash, is the instance here too.",
+      "source": "*New Year Letter* (1941), lines 1432 ff., p. 66, and the note to line 1432, pp. 143–44",
+      "checked": "Read on 2026-10-03 in snippets of the scanned copy of the Faber edition at archive.org (item newyearletter0000aude), chained phrase by phrase. In this edition the page numbers stand at the foot of the page: the last line of the Letter is followed by 75 and then the heading of the Notes; the pages before The Quest and the Epilogue end with 160 and 182, and the contents page gives The Quest 161 and Epilogue 183. The number 143 falls inside the sentence about mistakes, so the note begins on p. 143 (the greatest Romantic artist, the heresy, case histories and absurd plots) and goes on to p. 144 (knowing beforehand, Oedipus, the fire, Mozart). The number 65 falls one line before line 1432 (the examiner searched the scan again: it stands before the line that ends the sentence before), so the verse stands at the top of p. 66. The note also says that for spontaneous happiness, friendship and requited love one must go elsewhere, to Mozart; the piece leaves that out. remake/research/C_auden_on_works.md, section 31, gives two of the verse lines from the Collected Poetry of 1945."
+    },
+    {
+      "says": "In 1944 Auden wrote notes for a college radio broadcast of *Die Walküre*, the second opera of the cycle. He says there that Wagner’s text for the *Ring*, dated by him to 1853, is in an alliterative meter full of old and embarrassing expressions.",
+      "source": "Program notes for a broadcast of *Die Walküre* (1944), in *Prose*, vol. II (2002), p. 503",
+      "checked": "Read on 2026-10-03 in snippets of the scanned copy at archive.org (item prosetravelbooks0000aude), chained from the editor's headnote through the opening paragraphs. The headnote dates the notes to the spring of 1944 at Swarthmore: an undergraduate, H. C. Robbins Landon, was in charge of music at the college's radio station and got teachers to write notes for its evening concerts; he read Auden's out himself, before the broadcast and between the acts; the printed text follows the manuscript in the Berg Collection. Page: the running head 'Auden on the Air 503' stands a few lines before the title; the head '504 Appendix VI' follows the opening paragraphs; the volume's index gives 'Walküre, Die, 503'. The sentence on the meter and the list of beings are in the opening paragraphs, on p. 503. The sentence on what the later operas hold is in the summary of Act 3, after the running head 'Auden on the Air 505', which falls near the end of the summary of Act 2; the notes end before Appendix VII. He also offers there a reading of the myth as psychology (he takes Valhalla for consciousness, and the river and the caves for what lies beneath it), which the piece does not use. Not in remake/research/C_auden_on_works.md. The finisher (3 October 2026) cut two sentences from the entry: that he lists the Norns among the beings of the Ring (p. 503), and what he tells his listeners the later operas hold for Siegfried (p. 505). They only showed that he named things, and no caption leaned on them; they are kept whole at the end of notes.md. What remains is the sentence on the meter, which this record and the examiner's (exam.md, section 5) put on p. 503, so the page reference was narrowed to that page. The volume is not among the scans on this machine, and the finisher did not open it again."
+    },
+    {
+      "says": "Alan Ansen, a friend who wrote down Auden’s conversation between 1946 and 1948, has him say that just three Wagner operas please him from beginning to end: *Die Walküre*, *Götterdämmerung* and *Tristan*. Within the *Ring* he puts this one second, after *Die Walküre*, and he names two things in it: the oath on the spear in Act 2, which he calls wonderful, and the duet of Brünnhilde and Waltraute in Act 1.",
+      "source": "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1991), p. 16",
+      "checked": "Read on 2026-10-03 in snippets of the scanned copy at archive.org (item tabletalkofwhaud0000anse). He gives his order within the Ring (Die Walküre, then this opera) and goes straight on to the oath and the duet; the remark on the duet is followed at once by the running head 'W. H. Auden 17', so all of it stands at the foot of p. 16. Ansen's record runs from November 1946 to April 1948. On p. 44 of the same book (the head of p. 45 follows about 150 words later) Auden says Wagner meant little to him before he read Nietzsche's The Case of Wagner, and the editor's note says he read it soon after he arrived in the United States in 1939; the piece gives that from his own text in The Dyer's Hand."
+    },
+    {
+      "says": "In a BBC talk of 1955 on Tolkien, Auden sets Wagner’s ring beside Tolkien’s. The allegory of the *Ring*, he says first, is only political and psychological: Wotan is no true god, just an old feudal lord, no wiser and no better behaved than anyone else. Each ring gives its wearer rule over the world, and each can be made only by someone who gives up love. Wagner’s ring, because of Alberich’s curse, brings bad luck on every owner, yet it leaves them uncorrupted. Siegfried himself, although the woodbird has told him what it is, takes no interest in it and comes close to handing it back to the Rhinemaidens.",
+      "source": "“History, Feigned and Real” (BBC talk, 1955), in *Prose*, vol. III (2008), pp. 689–90",
+      "checked": "Read on 2026-10-03 in snippets of the scanned copy at archive.org (item trent_0116405823828; its title page reads Prose, Volume III: 1949-1955, Princeton University Press, copyright 2008), chained phrase by phrase. The editor's note says Auden recorded the talk, on Tolkien's The Return of the King, that it was broadcast in the BBC Third Programme on 16 November 1955, and that the printed text follows a transcript kept at the BBC Written Archives Centre; the index gives the talk at p. 686. The running head 'Auden on the Air 689' stands before the comparison with Wagner; the head '690 Appendix V' stands between the sentence on Sauron's mistakes and the sentence on Alberich's curse, so the sentences on the curse and on Siegfried are on p. 690 and the sentences on Wotan and on the two rings on p. 689. Not in remake/research/C_auden_on_works.md. The place in the opera that his last sentence describes is Act 3, Scene 1: before the warning Siegfried takes the ring from his finger and holds it up for the Rhinemaidens, and they tell him to keep it until he has felt the harm in it (hosted text, gotterdammerung/act-3, blocks 71-79; read again by the finisher on 3 October 2026). Until that day the caption of the Against tab reported this remark, with two grounds of its own; the finisher cut it there, because nothing in the figure drawn on that tab is about the ring."
+    },
+    {
+      "says": "Nietzsche’s *The Case of Wagner* was on the list of critical reading Auden recommended for the Michigan course, and the lecture of 1940 quotes it twice. In *The Dyer’s Hand* he says Nietzsche’s book first opened his ears to Wagner, and rates it above any other critical study of one figure he knows: an attack that never lets the reader forget how great its subject is. Elsewhere in *The Dyer’s Hand* Auden is mostly against opera sung in translation, because a listener hears syllables and not words. Wagner in English is unbearable to hear, he says, however good the translation: the new syllables do not fit the notes.",
+      "source": "*The Dyer’s Hand* (1962), pp. 48 and 473; Charles H. Miller, *Auden: An American Friendship* (1983), p. 27",
+      "checked": "Read on 2026-10-03 in the scan of The Dyer's Hand (research/auden/dh.txt): lines 2527-2534, in 'Making, Knowing and Judging', between the running heads of p. 48 (line 2507) and p. 49 (line 2553); and lines 22276-22288, in 'Notes on Music and Opera', between the running heads of p. 473 (line 22253) and p. 474 (line 22301). On p. 48 he also calls his earlier notions of Wagner silly; the piece leaves that out. The two footnotes to The Case of Wagner in the lecture of 1940 are at Prose, vol. II, pp. 81 and 83, each under a passage quoted from it. The course's list: read on 2026-10-03 in snippets of the scanned copy of Miller's memoir at archive.org (item audenamericanfri00mill). After his sentence on the required books and the opera libretti, Miller, who was in the class, writes that a list of recommended reading went with them and gives eighteen titles; Nietzsche's stands between Eliot's Selected Essays and Thomas Mann's Past Masters. Just before, he has Auden tell the class that he recommends other books as well as the required ones. The page: the book's index gives 'Tristan and Isolde, 27, 75', and the sentence on the libretti, which names that opera, stands immediately before the list. remake/research/A_michigan_course.md, section 1.5, gives the same list from p. 27 (verified there in the scan) and the heading of the mimeographed sheet, Recommended Critical Reading."
+    },
+    {
+      "says": "Reviewing a life of Wagner in 1969, Auden sets out the theory of Wagner’s *Opera and Drama* (1851): the words matter as much as the music, or more; nobody sings together with anybody else; no word is said twice; regular meter is to be left alone, and rhyme too. Only *Das Rheingold* and Acts 1 and 2 of *Die Walküre*, he says, keep its rules. *Götterdämmerung* has, in a phrase he quotes, poisoned drinks, an ensemble of plotters and a massed chorus, and Bernard Shaw, he says, was right that it shares a good deal with Verdi’s *Un ballo in maschera*.",
+      "source": "“The Greatest of the Monsters,” in *Forewords and Afterwords* (1973), pp. 251–52",
+      "checked": "Read by the finisher on 3 October 2026 in the scan of Forewords and Afterwords (research/auden/fa.txt), when this entry was put back in the list in place of the close of the same review (the Dutchman page reports that close; it is whole at the end of notes.md). The theory, in five numbered points, is at lines 12035-12059, p. 251; the entry gives the first two (the words; no duets or ensembles, no repeated words, no strict meter or rhyme). The works that conform, and Shaw's remark, are at lines 12066-12095, p. 252. Auden says there that the theory is at bottom an attack on opera made for singers, that Wagner stayed true to that, and that only those two works conform to what he calls its positive dogmas; the entry's 'its rules' are those. The list of what Götterdämmerung has stands in quotation marks inside Auden's sentence, after a passage quoted from Gutman; whose words they are was not traced, so the entry says 'in a phrase he quotes'. The phrase has a fourth item, stage surprises in the manner of Scribe, which the entry leaves out. The remark on Un ballo in maschera is Shaw's as Auden reports it, and 'quite rightly' is Auden's; where Shaw made it was not looked up. Auden does not name Verdi in that sentence: the next essay in the book, on Verdi's letters, names the opera among his (line 12312). Pages: the contents page (lines 114-115) gives this essay at 244 and the next at 256; the foot numbers 244, 247 and 248 stand at lines 11715, 11867 and 11917; seven running heads follow, the title and the author's name by turns, at lines 11921, 11967, 12012, 12063, 12110, 12158 and 12209, which are pp. 249 to 255. The date and the book reviewed are in the book's list of first printings (lines 25005-25007): The New Yorker, 4 January 1969, a review of Robert Gutman's Richard Wagner: The Man, His Mind, and His Music. Tested with build/tools/runs.py against the scan: the entry shares no run of five words with it (two runs of four, one of them the title of Verdi's opera). As the poet first wrote it, the entry gave the quoted list as Auden's own reasons and shared a run of five words with his sentence on rhyme; both were mended. Kept out of the piece: on p. 249 (lines 11940-11945) he says Wagner should be taken fast and recalls a very slow performance of this opera under Knappertsbusch; at the head of p. 253 (lines 12113-12114) a quoted passage speaks of a love theme from Die Walküre that goes with Brünnhilde's devotion to her horse."
+    }
+  ],
+  "next": "gotterdammerung/prelude:0",
+  "sources": [
+    "The text: Richard Wagner, *The Twilight of the Gods*, translated by Margaret Armour, in *Siegfried & The Twilight of the Gods* (1911), as Project Gutenberg prints it (no. 49507). The German of the three passages is the libretto of *Götterdämmerung* as sung, from Richard Wagner, *Die Musikdramen* (Hamburg, 1971), as zeno.org gives it.",
+    "Richard Wagner, *Gesammelte Schriften und Dichtungen*, vol. 6 (Leipzig: E. W. Fritzsch, 1872), pp. 254–55, 340 and 360–61: the same three passages in the poem as Wagner printed it.",
+    "W. H. Auden, “Mimesis and Allegory,” a lecture given at Columbia University on 14 September 1940, in *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (2002), pp. 78–87; Wagner and the *Ring* at pp. 80–83.",
+    "W. H. Auden, *New Year Letter* (1941), Part III, lines 1432 and after (p. 66), and the note to line 1432, pp. 143–44.",
+    "W. H. Auden, program notes for a broadcast of *Die Walküre*, written for the radio station of Swarthmore College in the spring of 1944, in *Prose*, vol. II, p. 503.",
+    "W. H. Auden, “History, Feigned and Real,” a talk on Tolkien broadcast by the BBC on 16 November 1955, in *Prose*, vol. III: 1949–1955, edited by Edward Mendelson (2008), pp. 689–90.",
+    "W. H. Auden, *The Dyer’s Hand* (1962): “Making, Knowing and Judging,” p. 48, and “Notes on Music and Opera,” p. 473.",
+    "W. H. Auden, “The Greatest of the Monsters,” a review of Robert Gutman’s life of Wagner (*The New Yorker*, 4 January 1969), in *Forewords and Afterwords* (1973), pp. 251–52.",
+    "Alan Ansen, *The Table Talk of W. H. Auden*, edited by Nicholas Jenkins (1991), p. 16: Auden’s conversation as Ansen wrote it down between 1946 and 1948.",
+    "Charles H. Miller, *Auden: An American Friendship* (1983), p. 27: the list of recommended reading for the Michigan course, by a student who took it. Not seen in full.",
+    "Richard Wagner, *A Communication to My Friends* and *Opera and Drama* (both 1851), in *Richard Wagner’s Prose Works*, translated by William Ashton Ellis: vol. 1 (second edition, 1895), pp. 132–33 and 375–76; vol. 2 (second edition, 1900), p. 227.",
+    "Jacob and Wilhelm Grimm, *Deutsches Wörterbuch*, in the online edition at dwds.de: Götterdämmerung, Dämmerung, aufdämmern, ewig, Ende, da, sehren, Stabreim, Rune, raten, raunen, wähnen, verwähnen and Brand.",
+    "Online Etymology Dictionary: wise, wit, read, rede, rune, blind, bind, bound, brand, raven, Rhine, Gotterdammerung and Ragnarok.",
+    "Paull F. Baum, *The Principles of English Versification* (1922), chapter 5, on alliteration.",
+    "Gideon O. Burton, *Silva Rhetoricae* (rhetoric.byu.edu), under *antithesis*."
+  ],
+  "caveats": [
+    "The German printed here is the text as sung. The poem Wagner printed in 1872, which Armour’s English appears to follow, words the first three lines of the second passage a little differently, with *strong* before *wise*, and has another word for *once* in the first.",
+    "Auden’s lecture of 1940, his radio notes of 1944, his talk of 1955, the verse and note of *New Year Letter*, Ansen’s *Table Talk* and Miller’s memoir were read only in snippets of scanned copies, a sentence at a time, and not in a full copy.",
+    "The praise of the oath on the spear comes from a friend’s record of Auden’s talk, not from Auden’s own text.",
+    "Which lines count as telling an end beforehand is a judgment. The drawing marks places where a character says that the end will come, or how; other lines only hint at it or call for it.",
+    "A stave is a matter of the ear. In the first line of the first passage *Weltesche* can be heard to bind with *war*, and that is left unmarked."
+  ],
+  "open": [
+    "The research notes are wrong about where Auden's main passage on the Ring stands. remake/research/C_auden_on_works.md (section 31, H17c) gives the sentences on Siegfried and Brünnhilde going up in flames, on characters who know beforehand, and on Luther and Hitler to 'James Joyce and Richard Wagner' (Common Sense, March 1941; Prose II, pp. 115-19). They are in 'Mimesis and Allegory', the English Institute lecture of 14 September 1940 (Prose II, pp. 78-87; the Ring at pp. 81-83). So the date is 1940, not 1941. Any other piece that cites this passage from the notes (Tristan, the Dutchman, Joyce) should be checked. The notes also lack three things used here: Auden's program notes for a broadcast of Die Walküre (Swarthmore, spring 1944; Prose II, Appendix VI, pp. 503-5), where he describes the verse of the Ring as alliterative and as full of old words and of words that embarrass (his own word for those is shy-making); his BBC talk on Tolkien, 'History, Feigned and Real' (16 November 1955; Prose III, Appendix V, pp. 689-90), which compares Wagner's ring with Tolkien's and speaks of Siegfried and the Rhinemaidens; and The Dyer's Hand, p. 473 (he is against opera in translation, and cannot bear Wagner in English). The Dyer's Hand, p. 48, on The Case of Wagner, is in the notes, but under the critical list of part four and not under this work; so is his sentence in Forewords and Afterwords, p. 253, that Nietzsche is the best guide to Wagner. The notes do not have the close of that review (p. 255), on what Wagner's heroes are. It was in this page's list until 3 October 2026, when the finisher took it out because the Dutchman page reports the same paragraph (the entry is whole at the end of notes.md); the list here now gives pp. 251-52 of the review, the theory of Opera and Drama and Shaw's remark on this opera. The other Wagner pieces may want all of these.",
+    "Auden's lecture of 1940, his radio notes of 1944, his talk of 1955, the verse and note of New Year Letter and the Table Talk could be read only through archive.org's full-text search, snippet by snippet (The Dyer's Hand and Forewords and Afterwords were read in the scans on this machine). The page numbers rest on running heads, footnotes and the index seen in the snippets: Prose II p. 80 (inferred: the sentence stands before a list that runs over the head of p. 81), pp. 81, 82, 83, and pp. 503 and 505 (the head of p. 503 stands just before the title, the head of p. 504 after the opening paragraphs, the head of p. 505 near the end of the summary of Act 2, and the index gives Die Walküre at 503); Prose III pp. 689-90 (heads of both pages seen); New Year Letter p. 66 and pp. 143-44 (the numbers 65 and 143 fall inside the passages; that they stand at the foot of the page was settled from the ends of the Letter, the Notes and The Quest); Table Talk p. 16 (the next words carry the head of p. 17) and p. 44 (the head of p. 45 follows about 150 words later); Miller's memoir p. 27, also read only in snippets (its index gives Tristan and Isolde at 27 and 75, and the sentence that names that opera stands immediately before the list of recommended reading; the research notes give the same page from the scan). The archive.org item for Prose II carries the catalogue title of vol. I.",
+    "The German on the plates is the sung text (zeno.org, from Die Musikdramen, 1971). Wagner's poem of 1872 (Gesammelte Schriften und Dichtungen, vol. 6) reads differently in the first three lines of the second passage (strong before wise; the plain verb wähnt; no doch) and has sonst for einst in the first line of the first passage. The sung reading was confirmed only in OCR of vocal scores and later librettos found through archive.org search, not in a score seen page by page. That Armour translated the poem and not the sung text is an inference from her wording: dauntless and wise, in the poem's order; no word for the hero; and in the third passage a dash after Thus, where the poem has a dash after so (vol. 6, p. 361) and the sung text has none.",
+    "The third lens of the third plate is a shape. The artist has since given it a drawing of its own (site/js/pieces/gotterdammerung.js; art.md, section 1). Its facts are: lines, parts[] (name, lines, read), ends[] (name, told[] of line, who, says, read; comes of line, who, what, read) and passages[] (name, first, last, read). The script reads all of them when the page runs, so a changed says or name shows in the drawing by itself.",
+    "The poet did not see the page drawn (a poet may not build or photograph it) and tested this reading with the checker and by reading the kit's code. The page has since been built and photographed by the examiner, the artist, the critic and the finisher. The poet left three things to look at; what was found is at the end of this note. (1) All three plates are set line under line (as many English rows as German). In the kit as it stood at 07:45 UTC on 3 October (lens-figure.js, lens-rhyme.js and plate.js were read again then), a stroke of a figure and a dotted thread of sound go from one line to the next only where the two rows are neighbours in the plate's list of rows and no line of type lies between them, and in a line-under-line plate the English row stands between two German rows. If that is so, the staves that bind two short lines (most of them here: the Stave tab of the first passage, the English tab of the second) will show by the color of their letters and by points under them, with no join, and the three strokes the Against tab asks for (its join: the two halves of the second, third and fourth sentences) will not be drawn; the kit's own rule is that such parts are told by their color. (2) The English tab of the second passage has six threads of sound, each in a color of its own; if six are too many to hold, the f thread, which is Armour's own, is the one to drop, with the last clause of the caption. (3) Row 9 of Armour's lines in the third passage opens with two words joined by a dash; the tie on it names the second of them. What was found: (1) is so. No stroke joins one German line to the next while an English line lies between them, and the two halves and the staves are told by color (art.md, section 3, fault 2); whether the plates norn and rhine should set the English beside the German is proposed by the artist (art.md, section 4) and is the lead's to decide. (2) The six colors hold; the fourth, a slate, looks faint on its letters (art.md, section 3, fault 6). (3) The tie stands on the second of the two words (the pictures of that tab).",
+    "The record on hand for this opera is the funeral march, which has no words, so no passage here is tied to it.",
+    "From the examiner (3 October 2026; the full record is exam.md). Every mark, count, dictionary entry and page was opened again, and the page was built and looked at. What was changed in the reading: (1) the Against tab no longer says the verdict 'is close to' what Auden says; it reports his two remarks as he made them, the one of 1955 with its own point, that the ring does not corrupt Siegfried, and its grounds now name the place in this scene where he offers the ring (the finisher has since cut the remark of 1955 from that caption, with those two grounds, because nothing in the figure drawn there is about the ring; the remark stays in the list under the passages); (2) Knowing: the root of weise and weiß meant to see (to have seen is the Germanic verb made from it), rät is glossed from the two dictionaries as counsel, interpret, guess, and the reflexive verb of the second line is glossed fancies himself, with Grimm's remark that written German has it only in older times; (3) Dawn and Now: the verb with auf 'means to dawn' and is no longer called the verb for daybreak (most of Grimm's examples are of hopes and times to come); (4) Now: in Act 1 the whisper verb is not Wotan's alone; Brünnhilde uses it herself when she sends Waltraute back with her refusal (German line 1995), and the caption, the note and the grounds now say whose verb it is; (5) the English tab of the second passage says that Armour lets go the vowel stave as well as the w; (6) the reasons given for Against, Knowing and Told set Auden's sentence beside what the lines say and no longer call the lines his complaint; (7) in the list under the passages the talk of 1955 follows Auden's own order and says 'takes no interest', which is his, where it had 'cares nothing'; the one word quoted from the notes of 1944 is no longer printed; (8) the page of New Year Letter: the number 65 falls one line, not two, before line 1432 (the page is still 66). What the examiner could not do: see Auden's lecture, notes, talk, poem and Ansen's and Miller's books other than in search snippets; check the sung German against a score. What others should look at: the Told tab was still the kit's table when this was written, and the artist has since drawn it; on the English tab of the second passage the dotted strokes of the r and g threads run from Wagner's word to Armour's word beneath it and on to the next line, so the two languages zigzag together, and an artist may want to keep each language's strokes apart; on the Against tab no stroke is drawn between the halves (an English line lies between them), and the halves are told by their two colors, which reads clearly.",
+    "From the finisher (3 October 2026; the full record is the last section of notes.md, and the reading as the critic left it is finisher/before.json). Changed: the list gives pp. 251-52 of the review of 1969 again and no longer its close; the entry on the radio notes of 1944 lost two sentences and its page is now p. 503; the Against caption no longer reports the remark of 1955; the Stave caption no longer says 'opposites too'; the English caption of the second passage says that vowels count as alike; two strings in the facts of the Told drawing were reworded. Still open: the finisher could not open Prose II and III, New Year Letter or Ellis's Wagner, so the page narrowed for the notes of 1944 and the first ground for the vowels rest on the poet's and the examiner's reading (the rule for vowels was checked in A New English Dictionary, under Alliteration); the Tristan page gives three of the rules of 1851 from the same two pages of the review; whether the first two plates set the English beside the German is the lead's, and every sentence holds either way."
+  ]
+}

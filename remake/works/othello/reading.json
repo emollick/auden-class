@@ -1,0 +1,1269 @@
+{
+  "piece": "othello",
+  "title": "A word said twice",
+  "where": "*Othello*, Act 3, Scene 3; Act 4, Scene 1; Act 5, Scene 2",
+  "about": "Othello, a Moor and a general of Venice, has married Desdemona, a senator’s daughter. Iago, his ensign, wanted the lieutenancy that Othello gave to Michael Cassio, and is working to make Othello believe that Cassio and Desdemona are lovers. In the first passage Iago begins, soon after Cassio has been seen leaving Desdemona; in the second he tells Othello that Cassio has talked; in the third Othello stands over his sleeping wife, come to kill her.",
+  "view": {
+    "says": "Auden compares Iago to an analyst with a patient, except that this one works to kill. Iago never has to lie, Auden says, because everything he tells Othello is meant to bring to the surface what is already in Othello’s mind. Even where a plain lie would be safe, Iago gives an answer that can be taken two ways and leaves the taking to Othello.",
+    "quote": "his answer is equivocal and its interpretation is left to Othello",
+    "source": "“The Joker in the Pack,” in *The Dyer’s Hand* (1962), p. 266",
+    "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 12695-12717, on 2026-10-03"
+  },
+  "plates": [
+    {
+      "id": "echo",
+      "heading": "Othello and Iago",
+      "turn": { "112.1": 3 },
+      "text": "othello/a3s3",
+      "rows": [
+        "96.0-112.2"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "anadiplosis",
+          "plain": "a doubling back: the word that ends one sentence begins the next",
+          "draw": "chain",
+          "parts": [
+            {
+              "row": "98.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "A",
+              "label": "indeed"
+            },
+            {
+              "row": "100.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "A",
+              "label": "indeed"
+            },
+            {
+              "row": "100.0",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "A",
+              "label": "indeed"
+            },
+            {
+              "row": "100.1",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "B",
+              "label": "honest"
+            },
+            {
+              "row": "102.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "B",
+              "label": "honest"
+            },
+            {
+              "row": "104.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "B",
+              "label": "honest"
+            },
+            {
+              "row": "104.0",
+              "w": [
+                2,
+                2
+              ],
+              "tag": "B",
+              "label": "honest"
+            },
+            {
+              "row": "108.0",
+              "w": [
+                3,
+                3
+              ],
+              "tag": "C",
+              "label": "think"
+            },
+            {
+              "row": "110.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "C",
+              "label": "think"
+            },
+            {
+              "row": "112.0",
+              "w": [
+                0,
+                0
+              ],
+              "tag": "C",
+              "label": "think"
+            }
+          ],
+          "why": "Iago hands Othello’s words back as questions and commits himself to nothing; the monster, and the conclusion that Iago means something, come from Othello, as in Auden’s account, where Iago need only bring up what is already in Othello’s mind.",
+          "caption": "A word ends one speech and begins the next: <b>indeed</b>, then <b>honest</b>, then <b>think</b>. Rhetoric calls this anadiplosis, a doubling back, and here the doubled word changes speakers. Iago speaks four times, thirteen words in all. Three of the four are questions, and two of those are Othello’s last word handed back with <i>my lord</i>. Iago’s one statement goes no further than <i>for aught I know</i>. Auden writes that Iago never has to lie, because what he says is meant to bring up what is already in Othello’s mind. It is Othello who names the device, <i>he echoes me</i>, who says <b>monster</b>, and who concludes that Iago means something.",
+          "grounds": [
+            {
+              "claim": "which words come back, who says them, and how much Iago says",
+              "kind": "plate"
+            },
+            {
+              "claim": "anadiplosis is beginning a sentence or clause with the last, or a prominent, word of the one before; the Greek means a doubling back",
+              "kind": "source",
+              "source": "A New English Dictionary on Historical Principles, vol. I (1888), under Anadiplosis"
+            },
+            {
+              "claim": "Iago does not need lies, because what he says is meant to make Othello aware of something already in his mind; Auden’s pronoun leaves open which of the two men has guessed it",
+              "kind": "auden",
+              "source": "“The Joker in the Pack,” in The Dyer’s Hand (1962), p. 266"
+            },
+            {
+              "claim": "Othello says that Iago repeats him, speaks of a monster in Iago’s thought, and says that Iago means something",
+              "kind": "text",
+              "source": "rows 112.0 to 112.2"
+            }
+          ],
+          "stands": "The marks on the passage, and what its last three lines say. Anadiplosis as *A New English Dictionary* (1888) defines it. Auden, “The Joker in the Pack,” in *The Dyer’s Hand*, p. 266."
+        },
+        {
+          "kind": "beat",
+          "label": "Beat",
+          "meterName": "ten syllables and five beats, the line beginning off the beat, without rhyme",
+          "scan": {
+            "96.0": {
+              "meter": "x/x/x/x/x/",
+              "voice": "x / x / x/ x /x /"
+            },
+            "98.0": {
+              "meter": "x/",
+              "voice": "x/"
+            },
+            "100.0": {
+              "meter": "x/xx/x/x/x/",
+              "voice": "x/ \\ x/ x/ x / x /"
+            },
+            "100.1": {
+              "meter": "x/x/x",
+              "voice": "\\ x x /x"
+            },
+            "102.0": {
+              "meter": "x/x/",
+              "voice": "/x x /"
+            },
+            "104.0": {
+              "meter": "x/x/x",
+              "voice": "/x \\ /x"
+            },
+            "106.0": {
+              "meter": "x/x/x/",
+              "voice": "x / x / x /"
+            },
+            "108.0": {
+              "meter": "x/x/",
+              "voice": "\\ x x /"
+            },
+            "110.0": {
+              "meter": "/x/",
+              "voice": "/ x /"
+            },
+            "112.0": {
+              "meter": "/x/x/x/x/",
+              "voice": "/ x / x / x /x \\",
+              "div": {
+                "4": "heaven,"
+              }
+            },
+            "112.1": {
+              "meter": "x/x/x/x/x/",
+              "voice": "x / x \\ x /x \\ x /"
+            },
+            "112.2": {
+              "meter": "x/x/x/x/x/x",
+              "voice": "x /x \\ x / x / x /x",
+              "div": {
+                "1": "hid|eous"
+              }
+            }
+          },
+          "points": [
+            {
+              "at": [
+                "98.0",
+                0,
+                0
+              ],
+              "say": "Two syllables, one beat. Othello’s reply is a full line without it."
+            },
+            {
+              "at": [
+                "100.0",
+                0,
+                1
+              ],
+              "say": "Eleven syllables. Othello says Iago’s word back and then answers it. *Ay* can be heard as a sixth beat."
+            },
+            {
+              "at": [
+                "108.0",
+                0,
+                3
+              ],
+              "say": "The Folger edition prints Iago’s six syllables and these four as one line of ten. The Globe edition makes its line of ten from this question and the three words said twice after it. A Victorian grammar of Shakespeare’s English has a name for a part-line that ends one line and begins the next: *amphibious*."
+            },
+            {
+              "at": [
+                "112.0",
+                0,
+                2
+              ],
+              "say": "Iago’s three words again. Here they begin a line of five beats, which starts on a beat and counts *heaven* as one syllable. The Globe edition gives these three words to the line before."
+            }
+          ],
+          "why": "Shakespeare breaks the five-beat line into short pieces here; in his verse a line left short can mark a pause, and Othello soon calls Iago’s pauses stops and says they frighten him the more.",
+          "caption": "The first line is whole: ten syllables, five beats. Iago’s <b>Indeed?</b> has two syllables and one beat. After another full line six short pieces follow, none longer than six syllables. Editions join them into lines differently. The Folger and Globe editions both print Iago’s <b>Indeed?</b> alone, and each leaves other pieces short. In Shakespeare’s verse a line left short can mark a pause. A dozen lines on, Othello calls Iago’s pauses <i>stops</i> and says they frighten him the more.",
+          "grounds": [
+            {
+              "claim": "the length of each line and piece, and where the beats fall",
+              "kind": "plate"
+            },
+            {
+              "claim": "Iago’s one word is a line by itself (3.3.113); his six syllables and Othello’s four are the two parts of one line (3.3.118–19); lines 115, 116, 117 and 120 are left short",
+              "kind": "source",
+              "source": "The Folger Shakespeare, Othello, edited by Barbara Mowat and Paul Werstine, 3.3.113–21, read at folger.edu"
+            },
+            {
+              "claim": "Iago’s one word is line 101; his six syllables are line 104, alone; Othello’s question and the three words said twice are line 105; the rest of that row is line 106, a short line",
+              "kind": "source",
+              "source": "The Globe edition of The Works of William Shakespeare, edited by W. G. Clark and W. Aldis Wright (Macmillan, 1866 printing), Othello 3.3.101–106: the page read in the scan at archive.org for its indentation, and the text at the Perseus Digital Library for its line numbers"
+            },
+            {
+              "claim": "a part-line spoken by a second speaker is often also the first part of the verse that follows",
+              "kind": "source",
+              "source": "E. A. Abbott, A Shakespearian Grammar (1870; read in the 1901 printing), section 513, The Amphibious Section"
+            },
+            {
+              "claim": "a syllable or foot can be left out where there is a marked pause, and a short line among five-beat lines can go with a pause or with action that takes up the space of the missing words",
+              "kind": "source",
+              "source": "E. A. Abbott, A Shakespearian Grammar (1870; read in the 1901 printing), sections 508 and 511"
+            },
+            {
+              "claim": "where light syllables are wanting in a line, a pause, the rest, takes their place",
+              "kind": "source",
+              "source": "Paull F. Baum, The Principles of English Versification (1922), chapter 3, on pause"
+            },
+            {
+              "claim": "Othello says that Iago weighs his words before he speaks them and that these stops frighten him the more",
+              "kind": "text",
+              "source": "othello/a3s3, rows 116.1 to 116.3"
+            },
+            {
+              "claim": "a stop is a cessation of speech, an interruption: a pause or breaking-off made by one speaking",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Stop (the noun), sense 2, which quotes this line; A New English Dictionary, vol. IX, part 1 (1919), Stop, sb.2, sense 6b, which also quotes it"
+            }
+          ],
+          "stands": "The syllables and beats marked on the passage. How two editions divide the lines: the Folger Shakespeare (3.3.113–21) and the Globe edition of 1866 (3.3.101–106). Abbott’s *Shakespearian Grammar*, sections 508, 511 and 513, and Baum’s *Principles of English Versification*, chapter 3, on short lines and pauses. Othello’s own word for the pauses, [a dozen lines on](#/read/othello/a3s3:116), as Schmidt’s *Shakespeare-Lexicon* explains it under Stop."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "100.1",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "honorable · upright · chaste",
+              "note": "The lexicon of Shakespeare’s words puts this line under honorable, respectable; the word could also praise a man as upright and truthful or a woman as chaste, and was a vague word of praise, often said to an inferior.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Honest, sense 2, which cites this line, and senses 1 and 4; A New English Dictionary, vol. V (1901), Honest, senses 1c, 3a, 3b and 3c"
+            },
+            {
+              "row": "112.1",
+              "w": [
+                5,
+                5
+              ],
+              "gloss": "Latin *monstrum*, a warning sign",
+              "note": "Latin *monstrum* was first a portent sent as a warning, from *monere*, to warn; the Latin verb for to show, *monstrare*, is formed from it.",
+              "source": "A New English Dictionary, vol. VI (1908), Monster, sb., and Monstrate, v.; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Monster, which quotes these lines and explains the word here as something monstrous"
+            }
+          ],
+          "why": "The word Iago hands back names the virtue that, as Auden told his class, Othello prizes and Iago sees as the key to him; and the monster, Auden writes, is a fear already in Othello’s own mind.",
+          "caption": "<b>Honest</b> and <i>honesty</i> have been said twenty-one times before this line, twelve of them about Iago, and never yet to ask whether someone is honest. Here Othello asks it of Cassio. Auden told his class that Othello sets great store by simple virtues such as honesty, and that Iago sees this is the key to him. The word could also mean chaste, and later in the scene Othello says it of his wife, in doubt. The noun <b>monster</b> is first heard here, from Othello; Iago takes it up later for jealousy. Auden reads it as Othello’s own fear: that Venice values him only for his use.",
+          "grounds": [
+            {
+              "claim": "honest and honesty come 52 times in the play, 21 of them before this line, 12 of those said of Iago or of his conduct; none of the 21 asks whether someone is honest; the noun monster comes six times, first here",
+              "kind": "source",
+              "source": "counted from the hosted text (Project Gutenberg no. 1531) with the build tools; the places are listed in the notes"
+            },
+            {
+              "claim": "Othello makes much of plain virtues such as honesty, and Iago sees that this explains him",
+              "kind": "auden",
+              "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in W. H. Auden: The Far Interior, edited by Alan Bold (1985), p. 142"
+            },
+            {
+              "claim": "honest also meant chaste, usually of a woman",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. V (1901), Honest, sense 3b; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Honest, sense 4, which cites the second of the later lines"
+            },
+            {
+              "claim": "Othello says the word of Desdemona twice later in the scene, the second time in doubt",
+              "kind": "text",
+              "source": "othello/a3s3, rows 176.1 and 289.1"
+            },
+            {
+              "claim": "Iago calls jealousy a monster",
+              "kind": "text",
+              "source": "othello/a3s3, row 146.1"
+            },
+            {
+              "claim": "Auden takes the monster to be Othello’s own buried fear: that the city values him for his use and for nothing else",
+              "kind": "auden",
+              "source": "“The Joker in the Pack,” in The Dyer’s Hand (1962), p. 266"
+            }
+          ],
+          "stands": "A count of *honest*, *honesty* and the noun *monster* in the text printed here, each place read in its line. *A New English Dictionary* and Schmidt’s *Shakespeare-Lexicon* under Honest and Monster. Later lines of the same scene: Othello on his wife, [first](#/read/othello/a3s3:176) and [again](#/read/othello/a3s3:289), and Iago on [jealousy](#/read/othello/a3s3:146). Auden as a student’s notes report him (Pearce, p. 142) and in *The Dyer’s Hand*, p. 266."
+        }
+      ]
+    },
+    {
+      "id": "lie",
+      "heading": "Othello and Iago",
+      "text": "othello/a4s1",
+      "rows": [
+        "37.0-49.0"
+      ],
+      "lenses": [
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "43.0",
+              "w": [
+                0,
+                0
+              ],
+              "gloss": "lie down · tell a lie",
+              "note": "Two Old English verbs, *licgan*, to lie down, and *leogan*, to tell a lie, had come to be spelled and said alike.",
+              "source": "A New English Dictionary, vol. VI (1908), Lie, v.1 and Lie, v.2"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                0,
+                2
+              ],
+              "gloss": "*to lie with*: sleep with",
+              "source": "A New English Dictionary, vol. VI (1908), Lie, v.1, sense 1f; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Lie (the verb of lying down), sense 2"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                7,
+                9
+              ],
+              "gloss": "*to lie on*: tell lies about",
+              "source": "A New English Dictionary, vol. VI (1908), Lie, v.2, sense 1b"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                12,
+                12
+              ],
+              "gloss": "slander",
+              "note": "Made from the verb that means to tell a lie.",
+              "source": "A New English Dictionary, vol. I (1888), Belie, v.2, sense 2; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Belie, which cites this line"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                17,
+                17
+              ],
+              "gloss": "foul · obscene",
+              "note": "The Oxford dictionary’s first example of the word as morally foul or obscene is this line; the lexicon of Shakespeare’s words puts the line under disgusting, nauseous.",
+              "source": "A New English Dictionary, vol. IV (1901), Fulsome, sense 6b; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Fulsome, sense 1"
+            }
+          ],
+          "why": "Shakespeare gives Iago a word that is two verbs, so the answer can be taken two ways and, as Auden says, the taking is left to Othello, whose prose finds both senses, names slander, and returns to the bed.",
+          "caption": "Iago’s answer is one syllable, and two verbs share it: to lie down and to tell a lie. Asked <i>With her?</i> he gives two prepositions and <i>what you will</i>. Auden quotes these lines: even here, where a plain lie would be safe, the answer can be taken two ways and the taking is left to Othello. Othello takes it both ways. <i>Lie with her</i> is the bed. <i>Lie on her</i>, he says, is said when they <b>belie</b> her, when lies are told about a woman. He has named slander, and he goes back to the bed: <b>fulsome</b>, foul. When Othello has fallen in a trance, Iago’s own word for such women is <i>guiltless</i>.",
+          "grounds": [
+            {
+              "claim": "what Iago answers, and which of his words Othello repeats and in what order",
+              "kind": "plate"
+            },
+            {
+              "claim": "two verbs of different origin, spelled alike by 1600; to lie with is to sleep with; to lie on is to tell lies about",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. VI (1908), Lie, v.1 (sense 1f) and Lie, v.2 (sense 1b); Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Lie (the verb of lying down), sense 2"
+            },
+            {
+              "claim": "to belie is to tell lies about, to slander; fulsome here is morally foul, obscene, or disgusting",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. I (1888), Belie, v.2, sense 2; vol. IV (1901), Fulsome, sense 6b; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Belie and Fulsome, both of which cite this speech"
+            },
+            {
+              "claim": "even when a lie would be safe, Iago’s answer is two-sided and Othello must read it for himself; Auden quotes these lines",
+              "kind": "auden",
+              "source": "“The Joker in the Pack,” in The Dyer’s Hand (1962), p. 266"
+            },
+            {
+              "claim": "Othello falls in a trance, by the stage direction after his speech; over him Iago speaks of chaste and guiltless women who meet reproach",
+              "kind": "text",
+              "source": "othello/a4s1, block 50 (the stage direction) and rows 52.1 to 52.3"
+            }
+          ],
+          "stands": "What the lines of the passage say. *A New English Dictionary* under Lie (two verbs), Belie and Fulsome, and Schmidt’s *Shakespeare-Lexicon* under the same three words. Auden, *The Dyer’s Hand*, p. 266, where he quotes these lines. [The stage direction](#/read/othello/a4s1:50) after the speech, and Iago’s words [over the fallen Othello](#/read/othello/a4s1:52)."
+        },
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "antimetabole",
+          "plain": "the same words said again in the opposite order",
+          "draw": "cross",
+          "parts": [
+            {
+              "row": "49.0",
+              "w": [
+                20,
+                20
+              ],
+              "tag": "A",
+              "label": "confess"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                22,
+                23
+              ],
+              "tag": "B",
+              "label": "be hanged"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                29,
+                30
+              ],
+              "tag": "B",
+              "label": "be hanged"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                34,
+                34
+              ],
+              "tag": "A",
+              "label": "confess"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                27,
+                27
+              ],
+              "tag": "C",
+              "label": "the order"
+            },
+            {
+              "row": "49.0",
+              "w": [
+                32,
+                32
+              ],
+              "tag": "C",
+              "label": "the order"
+            }
+          ],
+          "why": "Othello turns the proverb round so that hanging comes before confession: he ordered Cassio’s death in Act 3, before he heard of these confessions, and for him, Auden says, what Desdemona has or has not done no longer matters.",
+          "caption": "<i>Confess and be hanged</i> was a proverb. The Oxford dictionary says it appears to have been a degree ruder than saying <i>you lie</i>. Othello says it of Cassio, then turns it round: <b>hanged</b> first, <b>confess</b> after. In the play the death sentence has come first: Othello orders Cassio’s death in Act 3, and what he here calls Cassio’s <i>confessions</i> he first hears of in this scene. In Act 5 Othello tells his wife to confess and, in the same speech, that she is to die. Once Othello doubts her love, Auden writes, it no longer matters what she has or has not done.",
+          "grounds": [
+            {
+              "claim": "the two halves of the saying and the order in which Othello puts them the second time",
+              "kind": "plate"
+            },
+            {
+              "claim": "confess and be hanged was a proverbial phrase of the sixteenth and seventeenth centuries, which appears to have been a degree ruder than saying you lie; this line is quoted",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. II (1893), Confess, v., sense 10"
+            },
+            {
+              "claim": "antimetabole: the same words or ideas repeated in inverse order",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. I (1888), under Antimetabole"
+            },
+            {
+              "claim": "Othello orders Cassio’s death and resolves on his wife’s",
+              "kind": "text",
+              "source": "othello/a3s3, rows 342.3 to 342.4 and 346.1 to 346.3"
+            },
+            {
+              "claim": "in this scene Iago first tells Othello that Cassio has said something, and does not say plainly what; Othello calls it confessions (row 49.0, word 18.2). The word confess is used earlier in the play of other people and other things, and in Act 3 Iago reports only what Cassio said in his sleep",
+              "kind": "text",
+              "source": "othello/a4s1, rows 31.0 to 35.1, and rows 37.0 to 49.0 on the plate"
+            },
+            {
+              "claim": "Othello tells Desdemona to confess and that she is to die",
+              "kind": "text",
+              "source": "othello/a5s2, rows 58.1 to 58.4"
+            },
+            {
+              "claim": "once Othello doubts that she loves him, it does not matter what she did or did not do",
+              "kind": "auden",
+              "source": "“The Joker in the Pack,” in The Dyer’s Hand (1962), p. 266"
+            }
+          ],
+          "stands": "The marks on the passage. *A New English Dictionary* under Confess, for the proverb, and under Antimetabole. Three other places in the play: Othello’s order for Cassio’s death, [Act 3, Scene 3](#/read/othello/a3s3:342); Iago’s first word that Cassio has talked, [Act 4, Scene 1](#/read/othello/a4s1:31); Othello to Desdemona, [Act 5, Scene 2](#/read/othello/a5s2:58). Auden, *The Dyer’s Hand*, p. 266."
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "43.0",
+                0
+              ],
+              "to": [
+                "43.0",
+                0
+              ],
+              "tag": "iago",
+              "label": "Iago: eight words"
+            },
+            {
+              "from": [
+                "47.0",
+                0
+              ],
+              "to": [
+                "47.0",
+                6
+              ],
+              "tag": "iago",
+              "label": "Iago: eight words"
+            },
+            {
+              "from": [
+                "49.0",
+                35
+              ],
+              "to": [
+                "49.0",
+                38
+              ],
+              "tag": "whole",
+              "label": "three whole sentences"
+            },
+            {
+              "from": [
+                "49.0",
+                39
+              ],
+              "to": [
+                "49.0",
+                50
+              ],
+              "tag": "whole",
+              "label": "three whole sentences"
+            },
+            {
+              "from": [
+                "49.0",
+                51
+              ],
+              "to": [
+                "49.0",
+                58
+              ],
+              "tag": "whole",
+              "label": "three whole sentences"
+            },
+            { "from": ["49.0", 59], "to": ["49.0", 59], "tag": "pieces", "label": "pieces of one to four words" },
+            { "from": ["49.0", 60], "to": ["49.0", 63], "tag": "pieces", "label": "pieces of one to four words" },
+            { "from": ["49.0", 64], "to": ["49.0", 65.1], "tag": "pieces", "label": "pieces of one to four words" },
+            { "from": ["49.0", 65.2], "to": ["49.0", 65.2], "tag": "pieces", "label": "pieces of one to four words" },
+            { "from": ["49.0", 65.3], "to": ["49.0", 65.3], "tag": "pieces", "label": "pieces of one to four words" },
+            { "from": ["49.0", 65.4], "to": ["49.0", 66], "tag": "pieces", "label": "pieces of one to four words" }
+          ],
+          "why": "The longest run of whole sentences in the speech is Othello’s reasoning about his own shaking, where he says words are not its cause; on Auden’s account Iago’s words are meant to bring up what is already in Othello’s mind.",
+          "caption": "Iago has said eight words since Othello’s <i>What? What?</i> Othello answers with seventy-four. He begins by saying Iago’s phrases back, and he ends in pieces of one to four words: <i>Noses, ears, and lips</i>. Near the end three whole sentences stand together, and they are about himself. He trembles. Nature, he says, would not put on such passion <i>without some instruction</i>: without some prompting, as the lexicon of Shakespeare’s words explains it. What shakes him, he says, is <i>not words</i>. Auden’s account is that Iago’s words are meant to bring up what is already in Othello’s mind. After the last piece the stage direction is <i>Falls in a trance</i>.",
+          "grounds": [
+            {
+              "claim": "how many words each man says, where the whole sentences stand, and how short the last pieces are",
+              "kind": "plate"
+            },
+            {
+              "claim": "Othello says he trembles, that nature would not take on such passion without some instruction, and that words are not what shake him",
+              "kind": "text",
+              "source": "row 49.0, words 35 to 58"
+            },
+            {
+              "claim": "to invest herself in such passion is to dress herself in it, to put it on; instruction in this sentence is prompting, suggestion",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Invest, sense 1, and Instruction, sense 5, both of which quote this sentence"
+            },
+            {
+              "claim": "what Iago says is meant to make Othello aware of something already in his mind; Auden says this of all Iago’s talk with Othello and does not comment on the three sentences marked here",
+              "kind": "auden",
+              "source": "“The Joker in the Pack,” in The Dyer’s Hand (1962), p. 266"
+            },
+            {
+              "claim": "the stage direction after the speech",
+              "kind": "text",
+              "source": "othello/a4s1, block 50"
+            }
+          ],
+          "stands": "A count of the words each man says in the passage, and the marks on it. What Othello’s three sentences say, with Schmidt’s *Shakespeare-Lexicon* under Invest and Instruction, which quote them. Auden, *The Dyer’s Hand*, p. 266. [The stage direction](#/read/othello/a4s1:50) that follows the speech."
+        },
+        {
+          "kind": "shape",
+          "label": "Play",
+          "what": "how much Othello and Iago speak in verse and in prose, act by act",
+          "facts": {
+            "counted": "Every number is counted on the text printed here (Project Gutenberg no. 1531). Verse and prose are as that text prints them. A word is what stands between spaces or dashes. A speech is one turn under a speaker’s name. The two counts of prose speeches are of turns that hold any prose: 23 for Othello and 79 for Iago, corrected by the examiner on 2026-10-03 from 24 and 82, which were counts of prose blocks (four turns hold two prose blocks, parted by a direction or a song: Iago at a2s1 143 to 145, a2s3 55 to 58 and 72 to 75; Othello at a4s1 222 to 224).",
+            "acts": [
+              {
+                "act": "Act 1",
+                "Othello verse lines": 153,
+                "Othello verse words": 1132,
+                "Othello prose words": 0,
+                "Iago verse lines": 146,
+                "Iago verse words": 1126,
+                "Iago prose words": 658
+              },
+              {
+                "act": "Act 2",
+                "Othello verse lines": 86,
+                "Othello verse words": 631,
+                "Othello prose words": 0,
+                "Iago verse lines": 210,
+                "Iago verse words": 1623,
+                "Iago prose words": 1282
+              },
+              {
+                "act": "Act 3",
+                "Othello verse lines": 255,
+                "Othello verse words": 1793,
+                "Othello prose words": 0,
+                "Iago verse lines": 232,
+                "Iago verse words": 1712,
+                "Iago prose words": 0
+              },
+              {
+                "act": "Act 4",
+                "Othello verse lines": 127,
+                "Othello verse words": 843,
+                "Othello prose words": 360,
+                "Iago verse lines": 125,
+                "Iago verse words": 872,
+                "Iago prose words": 491
+              },
+              {
+                "act": "Act 5",
+                "Othello verse lines": 211,
+                "Othello verse words": 1480,
+                "Othello prose words": 0,
+                "Iago verse lines": 91,
+                "Iago verse words": 653,
+                "Iago prose words": 0
+              },
+              {
+                "act": "The play",
+                "Othello verse lines": 832,
+                "Othello verse words": 5879,
+                "Othello prose words": 360,
+                "Iago verse lines": 804,
+                "Iago verse words": 5986,
+                "Iago prose words": 2431
+              }
+            ],
+            "othelloBeforeThisPassage": {
+              "verse lines": 511,
+              "verse words": 3653,
+              "prose words": 0
+            },
+            "othelloProse": [
+              {
+                "place": "Act 4, Scene 1: the two words and the long speech of this passage",
+                "words": 76,
+                "blocks": "45 and 49",
+                "read": "othello/a4s1:45"
+              },
+              {
+                "place": "Act 4, Scene 1: asides while he watches Cassio",
+                "words": 72,
+                "blocks": "116 to 153",
+                "read": "othello/a4s1:116"
+              },
+              {
+                "place": "Act 4, Scene 1: with Iago, settling the two deaths",
+                "words": 192,
+                "blocks": "174 to 224",
+                "read": "othello/a4s1:174"
+              },
+              {
+                "place": "Act 4, Scene 3: to Desdemona",
+                "words": 20,
+                "blocks": "15",
+                "read": "othello/a4s3:15"
+              }
+            ],
+            "othelloProseSpeeches": 23,
+            "iagoProse": [
+              {
+                "to": "Roderigo",
+                "place": "Act 1, Scene 3; Act 2, Scene 1; Act 4, Scene 2",
+                "words": 1478
+              },
+              {
+                "to": "Cassio and the men drinking with him",
+                "place": "Act 2, Scene 3; Act 4, Scene 1",
+                "words": 634
+              },
+              {
+                "to": "Othello",
+                "place": "Act 4, Scene 1, after Cassio has gone",
+                "words": 120,
+                "blocks": "176 to 220",
+                "read": "othello/a4s1:176"
+              },
+              {
+                "to": "Desdemona, the company on the quay, and himself aside",
+                "place": "Act 2, Scene 1",
+                "words": 118
+              },
+              {
+                "to": "Brabantio",
+                "place": "Act 1, Scene 1",
+                "words": 81
+              }
+            ],
+            "iagoProseSpeeches": 79,
+            "othelloInOrder": [
+              {"act": "Act 1", "kind": "verse", "words": 1132, "blocks": "a1s2 5 to 66; a1s3 72 to 142"},
+              {"act": "Act 2", "kind": "verse", "words": 631, "blocks": "a2s1 154 to 169; a2s3 3 to 179"},
+              {"act": "Act 3", "kind": "verse", "words": 1793, "blocks": "a3s2 3 to 7; a3s3 31 to 346; a3s4 43 to 125"},
+              {"act": "Act 4", "kind": "verse", "words": 97, "blocks": "a4s1 5 to 41"},
+              {"act": "Act 4", "kind": "prose", "words": 76, "blocks": "a4s1 45 to 49"},
+              {"act": "Act 4", "kind": "verse", "words": 69, "blocks": "a4s1 66 to 110"},
+              {"act": "Act 4", "kind": "prose", "words": 72, "blocks": "a4s1 116 to 153"},
+              {"act": "Act 4", "kind": "prose", "words": 192, "blocks": "a4s1 174 to 224"},
+              {"act": "Act 4", "kind": "verse", "words": 677, "blocks": "a4s1 231 to 304; a4s2 3 to 90; a4s3 5 to 11"},
+              {"act": "Act 4", "kind": "prose", "words": 20, "blocks": "a4s3 15"},
+              {"act": "Act 5", "kind": "verse", "words": 1480, "blocks": "a5s1 29 to 37; a5s2 4 to 380"}
+            ],
+            "iagoInOrder": [
+              {"act": "Act 1", "kind": "verse", "words": 610, "blocks": "a1s1 5 to 40"},
+              {"act": "Act 1", "kind": "prose", "words": 81, "blocks": "a1s1 62 to 70"},
+              {"act": "Act 1", "kind": "verse", "words": 329, "blocks": "a1s1 79; a1s2 3 to 56"},
+              {"act": "Act 1", "kind": "prose", "words": 577, "blocks": "a1s3 147 to 183"},
+              {"act": "Act 1", "kind": "verse", "words": 187, "blocks": "a1s3 188"},
+              {"act": "Act 2", "kind": "verse", "words": 325, "blocks": "a2s1 86 to 132"},
+              {"act": "Act 2", "kind": "prose", "words": 118, "blocks": "a2s1 136 to 145"},
+              {"act": "Act 2", "kind": "verse", "words": 21, "blocks": "a2s1 167"},
+              {"act": "Act 2", "kind": "prose", "words": 579, "blocks": "a2s1 172 to 192"},
+              {"act": "Act 2", "kind": "verse", "words": 220, "blocks": "a2s1 197"},
+              {"act": "Act 2", "kind": "prose", "words": 142, "blocks": "a2s3 15 to 43"},
+              {"act": "Act 2", "kind": "verse", "words": 128, "blocks": "a2s3 48"},
+              {"act": "Act 2", "kind": "prose", "words": 3, "blocks": "a2s3 55"},
+              {"act": "Act 2", "kind": "verse", "words": 30, "blocks": "a2s3 57"},
+              {"act": "Act 2", "kind": "prose", "words": 64, "blocks": "a2s3 58 to 72"},
+              {"act": "Act 2", "kind": "verse", "words": 55, "blocks": "a2s3 74"},
+              {"act": "Act 2", "kind": "prose", "words": 18, "blocks": "a2s3 75 to 87"},
+              {"act": "Act 2", "kind": "verse", "words": 474, "blocks": "a2s3 98 to 169"},
+              {"act": "Act 2", "kind": "prose", "words": 358, "blocks": "a2s3 182 to 222"},
+              {"act": "Act 2", "kind": "verse", "words": 370, "blocks": "a2s3 227 to 235"},
+              {"act": "Act 3", "kind": "verse", "words": 1712, "blocks": "a3s1 43 to 47; a3s2 5; a3s3 29 to 348; a3s4 136 to 148"},
+              {"act": "Act 4", "kind": "verse", "words": 641, "blocks": "a4s1 3 to 112"},
+              {"act": "Act 4", "kind": "prose", "words": 169, "blocks": "a4s1 122 to 220"},
+              {"act": "Act 4", "kind": "verse", "words": 231, "blocks": "a4s1 227 to 321; a4s2 115 to 170"},
+              {"act": "Act 4", "kind": "prose", "words": 322, "blocks": "a4s2 174 to 222"},
+              {"act": "Act 5", "kind": "verse", "words": 653, "blocks": "a5s1 3 to 180; a5s2 224 to 347"}
+            ],
+            "inOrderNote": "Added by the artist for the drawing. othelloInOrder and iagoInOrder are the unbroken runs of each man’s verse and of his prose inside each act, in the order he speaks them; Othello’s prose is divided at the four places of othelloProse. Counted on the text printed here with remake/works/othello/count-order.mjs, which checks every sum against acts, othelloBeforeThisPassage and othelloProse. The drawing takes the order from these two lists and every amount it prints from the other keys.",
+            "passageNote": "The text printed here sets Othello’s two words at block 45 as prose. The Folger edition sets Iago’s one word, those two words and Iago’s next seven as a single line of verse (4.1.42–44), and begins the prose with the long speech.",
+            "grammarSource": "E. A. Abbott, A Shakespearian Grammar, section 511, gives this speech (4.1.34–44 in his numbering) and one of Lear’s as its examples of the highest passion expressing itself in prose; section 515a says prose is also used to express frenzy and gives the same speech."
+          },
+          "why": "Othello speaks only verse until Iago’s one word and prose only in Act 4, beginning here; Iago, who Auden says is a different man with each listener, has moved between verse and prose since the first scene.",
+          "caption": "Before <i>With her?</i> Othello has spoken 3,653 words, all of them verse. His prose begins here: 360 words, all in Act 4. In Act 5 he speaks verse and nothing else. A Victorian grammar of Shakespeare’s English gives this speech as an example of the highest passion going into prose. Iago has used both forms since the first scene: 2,431 words of prose, most of them to Roderigo and to Cassio. Writing of how the part should be acted, Auden sees a different honest Iago for each person Iago talks to. To Othello Iago speaks verse, except once: later in this scene the two settle the deaths of Desdemona and Cassio in prose.",
+          "grounds": [
+            {
+              "claim": "every count of lines and words, and to whom Iago speaks his prose",
+              "kind": "source",
+              "source": "counted from the hosted text (Project Gutenberg no. 1531) with the build tools; verse and prose as that text prints them"
+            },
+            {
+              "claim": "the highest passion of all expresses itself in prose, as in this speech of Othello’s; prose is also used to express frenzy, with the same speech as the example",
+              "kind": "source",
+              "source": "E. A. Abbott, A Shakespearian Grammar (1870; read in the 1901 printing), sections 511 and 515a"
+            },
+            {
+              "claim": "Iago is a different honest man with each person he talks to; Auden says it while telling the actor how to play the part in company and alone, and does not speak there of verse and prose",
+              "kind": "auden",
+              "source": "“The Joker in the Pack,” in The Dyer’s Hand (1962), p. 258"
+            },
+            {
+              "claim": "Othello and Iago settle the two deaths in prose: she is to be strangled in her bed, and Iago takes Cassio on himself",
+              "kind": "text",
+              "source": "othello/a4s1, blocks 174 to 224"
+            }
+          ],
+          "stands": "A count of every line and word that Othello and Iago speak in the text printed here, with verse and prose as that text prints them and a word taken as what stands between spaces or dashes. Abbott’s *Shakespearian Grammar*, sections 511 and 515a. Auden, *The Dyer’s Hand*, p. 258. The prose talk of the two men [later in this scene](#/read/othello/a4s1:174)."
+        }
+      ]
+    },
+    {
+      "id": "light",
+      "heading": "Othello: lines 1 to 13",
+      "turn": { "4.11": 4 },
+      "text": "othello/a5s2",
+      "rows": [
+        "4.0-4.11",
+        "4.12[0-4]"
+      ],
+      "lenses": [
+        {
+          "kind": "figure",
+          "label": "Figure",
+          "name": "antanaclasis",
+          "plain": "the same words said again with a different meaning",
+          "draw": "pair",
+          "join": [[0, 3]],
+          "parts": [
+            {
+              "row": "4.6",
+              "w": [
+                0,
+                3
+              ],
+              "tag": "A",
+              "label": "the flame"
+            },
+            {
+              "row": "4.7",
+              "w": [
+                4,
+                6
+              ],
+              "tag": "A",
+              "label": "the flame"
+            },
+            {
+              "row": "4.8",
+              "w": [
+                3,
+                5
+              ],
+              "tag": "A",
+              "label": "the flame"
+            },
+            {
+              "row": "4.6",
+              "w": [
+                6,
+                9
+              ],
+              "tag": "B",
+              "label": "her life"
+            },
+            {
+              "row": "4.9",
+              "w": [
+                6,
+                9
+              ],
+              "tag": "B",
+              "label": "her life"
+            },
+            {
+              "row": "4.10",
+              "w": [
+                0,
+                5
+              ],
+              "tag": "B",
+              "label": "her life"
+            },
+            {
+              "row": "4.12",
+              "w": [
+                2,
+                3
+              ],
+              "tag": "B",
+              "label": "her life"
+            }
+          ],
+          "why": "The line gives two acts the same four words, and the next six lines draw the difference themselves: the flame can be lit again if he repents, and for her light he does not know where the fire is.",
+          "caption": "One line says the same four words twice. The first time they mean the flame burning in the room, the second time her life. Nothing in the line itself marks the change; the six lines after it do. He speaks first to the flame, <i>thou flaming minister</i>, then to her, <i>thou cunning’st pattern of excelling nature</i>, and the word <b>light</b> comes back three times, once as the flame’s and twice as hers. The flame’s he can restore, <i>should I repent me</i>. For hers he does not know where the fire is that can.",
+          "grounds": [
+            {
+              "claim": "the four words said twice in one line, and where light comes back in the lines after it",
+              "kind": "plate"
+            },
+            {
+              "claim": "a light is burning in the room where Desdemona sleeps",
+              "kind": "text",
+              "source": "othello/a5s2, the stage direction at block 1"
+            },
+            {
+              "claim": "light is a word Shakespeare plays on often; in this line it is also life",
+              "kind": "source",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Light (the noun): the head of the entry, which calls it a word much played on by the poet, and sense 7, life, which refers to this line"
+            },
+            {
+              "claim": "antanaclasis: the same word repeated in a different sense",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. I (1888), under Antanaclasis"
+            },
+            {
+              "claim": "he can restore the flame’s light if he repents; he does not know where the fire is that can relight hers",
+              "kind": "text",
+              "source": "rows 4.7 to 4.12"
+            }
+          ],
+          "stands": "The marks on the passage and what its lines say. The stage direction [at the head of the scene](#/read/othello/a5s2:1). Schmidt’s *Shakespeare-Lexicon* under Light, which calls it a word much played on by the poet and refers to this line under the sense life. Antanaclasis as *A New English Dictionary* (1888) defines it."
+        },
+        {
+          "kind": "sentence",
+          "label": "Sentence",
+          "spans": [
+            {
+              "from": [
+                "4.7",
+                0
+              ],
+              "to": [
+                "4.7",
+                3
+              ],
+              "tag": "if",
+              "label": "the condition"
+            },
+            {
+              "from": [
+                "4.9",
+                4
+              ],
+              "to": [
+                "4.9",
+                9
+              ],
+              "tag": "if",
+              "label": "the condition"
+            },
+            {
+              "from": [
+                "4.7",
+                4
+              ],
+              "to": [
+                "4.7",
+                6
+              ],
+              "tag": "to",
+              "label": "the one spoken to"
+            },
+            {
+              "from": [
+                "4.10",
+                0
+              ],
+              "to": [
+                "4.10",
+                5
+              ],
+              "tag": "to",
+              "label": "the one spoken to"
+            },
+            {
+              "from": [
+                "4.8",
+                0
+              ],
+              "to": [
+                "4.9",
+                3
+              ],
+              "tag": "main",
+              "label": "what follows"
+            },
+            {
+              "from": [
+                "4.11",
+                0
+              ],
+              "to": [
+                "4.12",
+                4
+              ],
+              "tag": "main",
+              "label": "what follows"
+            },
+            {
+              "from": [
+                "4.8",
+                0
+              ],
+              "to": [
+                "4.8",
+                0
+              ],
+              "tag": "who",
+              "label": "the one who can"
+            },
+            {
+              "from": [
+                "4.11",
+                5
+              ],
+              "to": [
+                "4.11",
+                7
+              ],
+              "tag": "who",
+              "label": "the one who can"
+            },
+            {
+              "from": [
+                "4.8",
+                6
+              ],
+              "to": [
+                "4.8",
+                6
+              ],
+              "tag": "verb",
+              "label": "the verb, last in its clause"
+            },
+            {
+              "from": [
+                "4.12",
+                4
+              ],
+              "to": [
+                "4.12",
+                4
+              ],
+              "tag": "verb",
+              "label": "the verb, last in its clause"
+            }
+          ],
+          "why": "Shakespeare builds the two sentences alike, condition, address, the verb placed last, and changes who can: over the flame it is Othello, and over his wife a fire he does not know where to find.",
+          "caption": "Two sentences are built to one plan. Each begins with a condition: <i>If I quench thee</i>, <i>But once put out thy light</i>. Each turns aside to name the one spoken to, the flame in three words and the woman in a whole line. In each the thing acted on comes before its verb, so the verb comes last: <b>restore</b> ends its clause and <b>relume</b> its sentence. The end of a sentence is usually its place of most weight. The two differ in who can. In the first sentence it is <i>I</i>. In the second it is a fire, and he does not know where it is.",
+          "grounds": [
+            {
+              "claim": "the matching parts of the two sentences, and the place of each verb",
+              "kind": "plate"
+            },
+            {
+              "claim": "the end of a sentence is the place for what is to be most prominent",
+              "kind": "source",
+              "source": "William Strunk, Jr., The Elements of Style (1918; the 1920 edition read at Project Gutenberg, no. 37134), rule 18"
+            },
+            {
+              "claim": "in the first sentence Othello says I can; in the second he says he does not know where the fire is that can",
+              "kind": "text",
+              "source": "rows 4.8 and 4.11 to 4.12"
+            }
+          ],
+          "stands": "The marks on the passage and what its two sentences say. Strunk’s *Elements of Style* (1918), rule 18, on the end of a sentence."
+        },
+        {
+          "kind": "word",
+          "label": "Word",
+          "notes": [
+            {
+              "row": "4.0",
+              "w": [
+                3,
+                3
+              ],
+              "gloss": "reason · lawsuit · charge",
+              "note": "The lexicon of Shakespeare’s words puts this line under the motive of an action; in law a cause was a case in court, and the word could also stand for the charge itself.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Cause (the noun), sense 1, which quotes this line; A New English Dictionary, vol. II (1893), Cause, sb., senses 3, 7, 8 and 9"
+            },
+            {
+              "row": "4.4",
+              "w": [
+                3,
+                4
+              ],
+              "gloss": "the stone of tombs",
+              "note": "*Monumental* at first meant belonging to a tomb, and the Oxford dictionary’s first example of the word is this line. The lexicon explains it here: of a human figure placed over a grave.",
+              "source": "A New English Dictionary, vol. VI (1908), Monumental, a., sense 1; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Monumental, sense 2, which quotes this line"
+            },
+            {
+              "row": "4.7",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "servant",
+              "note": "Latin *minister* is a servant, from *minus*, less.",
+              "source": "A New English Dictionary, vol. VI (1908), Minister, sb., sense 1; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Minister (the noun), sense 3, servant in general, which cites this line"
+            },
+            {
+              "row": "4.10",
+              "w": [
+                1,
+                2
+              ],
+              "gloss": "masterpiece, skillfully made",
+              "note": "The lexicon puts this line under *cunning* as made with skill, and under *pattern* as a masterpiece.",
+              "source": "Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Cunning (the adjective), sense 4, and Pattern (the noun), sense 3, both of which quote this line"
+            },
+            {
+              "row": "4.11",
+              "w": [
+                6,
+                6
+              ],
+              "gloss": "of Prometheus, the fire-thief",
+              "note": "In the Greek story Prometheus made man out of clay and stole fire from Olympus.",
+              "source": "A New English Dictionary, vol. VII (1909), Promethean and Prometheus; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Promethean, which cites this line"
+            },
+            {
+              "row": "4.12",
+              "w": [
+                4,
+                4
+              ],
+              "gloss": "light again",
+              "note": "The Oxford dictionary’s first example of this verb is this line.",
+              "source": "A New English Dictionary, vol. VIII (1914), Relume, v.; Oxford English Dictionary, relume, v. (public page): earliest evidence before 1616, in Shakespeare; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Relume, which quotes this line"
+            }
+          ],
+          "why": "He says cause three times and will not name it, as in Act 4, where, Auden notes, his charges are nameless; the word itself could mean a reason, a lawsuit or a charge.",
+          "caption": "He says <b>cause</b> three times and will not name it. The word meant a reason, a lawsuit, sometimes a charge. Auden writes that what exactly she has done no longer matters to Othello: in Act 4 he charges her with nameless things, not with adultery with Cassio. Here too nothing is named, and the one reason given is <i>more men</i>. <b>Monumental</b> alabaster is the stone of a tomb, of the figure placed over a grave, and he says it of a sleeping woman’s skin.",
+          "grounds": [
+            {
+              "claim": "he says cause three times, will not name it, and says she must die or she will betray more men; she is asleep",
+              "kind": "text",
+              "source": "rows 4.0 to 4.5, and the stage direction at block 1"
+            },
+            {
+              "claim": "cause: a reason or motive; in law, a case; sometimes a charge or accusation",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. II (1893), Cause, sb., senses 3, 7, 8 and 9; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Cause (the noun), sense 1, which quotes this line"
+            },
+            {
+              "claim": "where Othello treats the castle as a brothel he does not charge her with adultery with Cassio but with things that have no name; just what she did no longer counts",
+              "kind": "auden",
+              "source": "“The Joker in the Pack,” in The Dyer’s Hand (1962), p. 268"
+            },
+            {
+              "claim": "monumental in early use meant belonging to a tomb, with this line as the first example; here, of a human figure placed over a grave",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. VI (1908), Monumental, a., sense 1; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Monumental, sense 2, which quotes this line"
+            },
+            {
+              "claim": "minister, a servant; Prometheus, who made man out of clay and stole fire",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. VI (1908), Minister, sb., sense 1; vol. VII (1909), Promethean and Prometheus; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Minister (the noun), sense 3, and Promethean"
+            },
+            {
+              "claim": "relume, to light again, with this line as the first example",
+              "kind": "source",
+              "source": "A New English Dictionary, vol. VIII (1914), Relume, v.; Oxford English Dictionary, relume, v.; Alexander Schmidt, Shakespeare-Lexicon (Berlin, 1902), under Relume"
+            }
+          ],
+          "stands": "What the lines say, and the stage direction [at the head of the scene](#/read/othello/a5s2:1). *A New English Dictionary* under Cause, Monumental, Minister, Promethean, Prometheus and Relume, and the *Oxford English Dictionary*’s public page for *relume*. Schmidt’s *Shakespeare-Lexicon* under the same words and under Cunning and Pattern. Auden, *The Dyer’s Hand*, p. 268."
+        }
+      ]
+    }
+  ],
+  "auden": [
+    {
+      "says": "Auden begins from the villain. He can think of no other play in which one character alone does deeds and all the rest only show behavior: every act in it is Iago’s. Othello’s fall, he writes, is another man’s work, so that an audience pities Othello without respecting him and keeps for Iago the respect Auden calls aesthetic.",
+      "quote": "nothing he says or does originates with himself",
+      "source": "“The Joker in the Pack,” in *The Dyer’s Hand* (1962), pp. 246–47",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 11695-11727, on 2026-10-03"
+    },
+    {
+      "says": "Auden asks the actor of Iago for the greatest contrast between Iago in company and Iago alone. With others he should show every skill a great actor has, and be a different honest man for each person he talks to: one for Roderigo, one for Cassio, one for Othello, one for Desdemona. Alone, he should speak his soliloquies badly, pausing where the verse asks for no pause and stressing words that do not matter. The reason Auden gives is that what Iago wants in the end is nothingness, for the others and for himself.",
+      "source": "“The Joker in the Pack,” in *The Dyer’s Hand* (1962), p. 258",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 12277-12300, on 2026-10-03"
+    },
+    {
+      "says": "At the end of Act 3, Scene 3, Othello tells Iago he is now his lieutenant, and Iago answers that he is Othello’s own for ever. Auden calls the answer a mocking repetition of a line Othello spoke earlier, and reads *lieutenant* here as a private and unlawful commission, to have Cassio killed in secret, and no public rank. He does not say which line he means. Earlier in the scene Othello tells Iago that he is bound to him for ever.",
+      "source": "“The Joker in the Pack,” in *The Dyer’s Hand* (1962), p. 249",
+      "checked": "read in the scan of The Dyer’s Hand, research/auden/dh.txt, lines 11813-11832, on 2026-10-03; the two lines are othello/a3s3, rows 164.0 and 348.0"
+    },
+    {
+      "says": "Donald Pearce took the class in 1941 and wrote down what he could afterward. His notes say that the lectures on Shakespeare were mostly about the minds of the characters and the society around them, and hardly touched the verse or the rhetoric, though Auden asked the class to read Wilson Knight, who does. Auden called Othello deliberately naive, a man who lays great stress on simple virtues such as honesty, and said that Iago sees this is the key to him. Iago he called the one brilliant mind in the play: cold, unable to love, reasoning without a flaw, moving other people like pieces in a game.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 139 and 142–43",
+      "checked": "read in research/A_pearce_gap2.txt, a copy of these pages kept with the research scans, and in remake/research/E_pd_pearce.md, on 2026-10-03; the pages are missing from research/auden/pearce.txt"
+    },
+    {
+      "says": "Pearce’s notes give six diagrams that Auden put on the blackboard for the lecture on *Othello*. Each sorts the people of the play: by rank, by self-confidence, by sex appeal, by passion, by sophistication, by intelligence. The last sets Iago alone as intelligent and the rest as stupid. Charles Miller, another student in the class, remembered the diagrams as meant to prove Othello a stupid man and Iago more honest than anyone else in the play. Miller adds that he and other students were put off by what looked like flippancy about Shakespeare.",
+      "source": "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 139–40; Charles H. Miller, *Auden: An American Friendship* (1983), p. 29",
+      "checked": "Pearce: read on 2026-10-03 in research/A_pearce_gap2.txt, a copy of these pages kept with the research scans; the first diagram stands on p. 139 and the other five on p. 140, by the page numbers printed at the foot of each page in that copy. Miller: seen on 2026-10-03 in the snippets that archive.org’s full-text search returns from the scanned copy of his book (audenamericanfri00mill): the sentence about the blackboard, with the words before it, and the sentence after it. Miller was not seen in a full copy. The page was settled by the examiner on 2026-10-03, with the same search limited to that book: the folio of p. 28 stands in the scan’s text directly before the sentence about the blackboard; folios in this book stand at the foot of the page (its index puts Augustine on p. 26, Racine on p. 149 and Alice Cox on p. 88, and each name falls on that side of a folio); the index puts Sidney Cox, named a few sentences later, on p. 29. remake/research/A_michigan_course.md gives p. 29 as well; pp. 27–28, in remake/research/C_auden_on_works.md, section 7 and H7, was a page or two out."
+    }
+  ],
+  "next": "othello/a1s1:0",
+  "sources": [
+    "The text printed here: William Shakespeare, *Othello*, as Project Gutenberg prints it (no. 1531).",
+    "W. H. Auden, “The Joker in the Pack,” in *The Dyer’s Hand and Other Essays* (1962), pp. 246–72; the pages used are 246–47, 249, 258, 266 and 268.",
+    "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), pp. 139–43: notes made after Auden’s lectures in the fall of 1941.",
+    "Charles H. Miller, *Auden: An American Friendship* (New York: Scribner, 1983), p. 29: a student’s memory of the class. Not seen in full.",
+    "Alexander Schmidt, *Shakespeare-Lexicon* (Berlin, 1902), at the Perseus Digital Library, the lexicon of Shakespeare’s words named in the captions: under Belie, Cause, Cunning, Fulsome, Honest, Instruction, Invest, Lie, Light, Minister, Monster, Monumental, Pattern, Promethean, Relume and Stop.",
+    "*A New English Dictionary on Historical Principles* (Oxford), the Oxford dictionary of the captions, for the senses and first records of words and the names of the figures: vol. I (1888), Anadiplosis, Antanaclasis, Antimetabole, Belie; vol. II (1893), Cause, Confess; vol. IV (1901), Fulsome; vol. V (1901), Honest; vol. VI (1908), Lie, Minister, Monster, Monstrate, Monumental; vol. VII (1909), Promethean, Prometheus; vol. VIII (1914), Relume; vol. IX, part 1 (1919), Stop.",
+    "*Oxford English Dictionary*, oed.com, under *relume*, v.: the date of the earliest example.",
+    "*The Folger Shakespeare*, *Othello*, edited by Barbara Mowat and Paul Werstine, at folger.edu, 3.3.112–24, 4.1.39–54 and 5.2.1–13: how the lines are divided, and which words stand only in the 1623 Folio or the 1622 Quarto.",
+    "*The Works of William Shakespeare*, the Globe edition, edited by W. G. Clark and W. Aldis Wright (Macmillan, 1866), *Othello* 3.3.100–120, in the copy at archive.org and, with its line numbers, at the Perseus Digital Library: another division of the same lines.",
+    "*The Works of William Shakespeare*, edited by W. G. Clark and W. Aldis Wright, vol. VIII (Cambridge, 1866), Project Gutenberg no. 49008, *Othello* 3.3: a third division of the same lines.",
+    "*Mr. William Shakespeares Comedies, Histories, & Tragedies* (1623), as transcribed at Internet Shakespeare Editions, University of Victoria: *Othello*, Act 3, Scene 3, for the Folio’s own lines and words.",
+    "E. A. Abbott, *A Shakespearian Grammar* (1870; the 1901 printing), the Victorian grammar of the captions, sections 508, 511, 513 and 515a: short lines, pauses, part-lines shared by two lines, and prose for the highest passion.",
+    "Paull F. Baum, *The Principles of English Versification* (1922), chapter 3: the pause that takes the place of missing syllables.",
+    "William Strunk, Jr., *The Elements of Style* (1918; the 1920 edition, Project Gutenberg no. 37134), rule 18: the end of a sentence as its place of most weight."
+  ],
+  "caveats": [
+    "What Auden told his class in 1941 is known from notes that a student, Donald Pearce, made after the lectures. It is not Auden’s own text. Charles Miller’s sentence about the blackboard was seen only in search results from a scanned copy of his book.",
+    "Auden’s sentence that Iago never has to lie goes further than the play. In [Act 3, Scene 3](#/read/othello/a3s3:319) Iago says he saw Cassio wipe his beard with the handkerchief that day, when he has it himself. And that Cassio has talked, in the second passage, rests on Iago’s word alone.",
+    "Editions divide the short speeches of the first passage into lines differently. The Folger and the Globe do it as the Beat tab says; the Cambridge edition of 1866 prints each speech by itself. The stresses marked on the short pieces can be heard in more than one way.",
+    "The counts of verse and prose follow the text printed here, which prints Othello’s *With her?* in the second passage as prose. The Folger edition sets those two words in a verse line. Counted that way, his prose comes to 358 words, not 360.",
+    "Two early printings differ: the Quarto of 1622 lacks the long speech of the second passage from *To confess* onward, and has another word for *relume*. In the first passage the Folio of 1623 has *thou* for *he*. The Globe edition prints Iago’s three short speeches there with exclamation marks."
+  ],
+  "open": [
+    "Auden’s sentence that Iago need not lie goes further than the play does. In Act 3, Scene 3 Iago says he saw Cassio wipe his beard with the handkerchief that day, which is untrue. In Act 5, Scene 2 he says he told Othello no more than what Othello himself found apt and true, and a moment later admits he told him that Desdemona was false. The first passage shows him committing himself to nothing. In the second he reports that Cassio has said he did something, which rests on his word alone (the examiner’s item below). The passages do not show that he never lies.",
+    "Pearce’s pages 137 to 145 are missing from the scan research/auden/pearce.txt. They were read in another copy kept with the research files (A_pearce_gap2.txt) and in the research summary E_pd_pearce.md. The page numbers given follow the page numbers printed in that copy. What Pearce gives is a student’s notes made after the lectures, not Auden’s own text.",
+    "The hosted text prints Othello’s two words at Act 4, Scene 1, block 45 as prose, and the counts follow it. The Folger edition sets them as part of a verse line, so that his prose begins two words later, with the long speech. Counted that way from the hosted text, his prose comes to 358 words.",
+    "The second half of the long speech on the second plate, from the proverb to the end, stands in the 1623 Folio and not in the 1622 Quarto, by the marks in the Folger edition. In the first passage, where the hosted text has Othello speak of Iago as he, the 1623 Folio and the Folger edition have him say thou. On the third plate relume is the Folio’s word; Schmidt’s lexicon records that the 1622 Quarto has return there, and that the Quartos have cunning where the plate has cunning’st.",
+    "Editions divide the short speeches of the first plate into lines in different ways; the Beat tab gives the Folger’s and the Globe’s, in its caption and, since the critic’s changes, more fully in its third and fourth remarks. The Cambridge edition of 1866, by the Globe’s editors, prints each of them as a line by itself. The plate scans each speech as the hosted text prints it, and the scansion of the short pieces can be heard in more than one way. The notes give the other hearings.",
+    "The question marks after Iago’s three short speeches on the first plate are those of the hosted text, the 1623 Folio and the Folger edition. The Globe edition prints exclamation marks there.",
+    "The two dictionaries do not gloss fulsome alike for the second plate: the Oxford dictionary gives this line as its first example of morally foul, obscene; Schmidt’s lexicon puts it under disgusting, nauseous.",
+    "Miller’s sentence about the blackboard was seen in the snippets that archive.org’s full-text search returns from the scanned copy of his book, not in a full copy. The snippets show no page number; the research notes (C_auden_on_works.md, section 7 and H7) give pages 27–28, which the examiner corrected to p. 29 (the next item). Pearce’s own notes bear the memory out: they keep six blackboard diagrams from the lecture on Othello (pp. 139–40), and those pages were read in full.",
+    "From the examiner: Miller’s page is 29, not 27–28, and this replaces what the item above says about the page. In the text of the scanned copy the folio of p. 28 stands directly before the sentence about the blackboard. Folios in that book stand at the foot of the page, by three checks against its own index (Augustine on p. 26, Alice Cox on p. 88, Racine on p. 149), and the index puts Sidney Cox, who is named a few sentences later, on p. 29. A_michigan_course.md gives p. 29 as well. C_auden_on_works.md, section 7 and H7, still says pp. 27–28 and should be corrected. Miller was still not seen in a full copy.",
+    "From the examiner: Auden’s sentence on p. 266 about what Iago’s words are designed to do has a pronoun that can be read two ways. What is brought to Othello’s consciousness is either what Iago has guessed is there or what Othello has guessed. The analyst of Auden’s comparison is Iago, which favors the first. The poet had written the second as if it were certain. The view, two captions and two reasons now say only what both readings share: it is already in Othello’s mind.",
+    "From the examiner: inside the second passage Iago does say something untrue. At row 39.0, after block 35, he reports that Cassio has said he did something, and does not say what. Later in the same scene (block 80, rows 10 to 12) he says that he will make Cassio tell again where, how often and when he has had Othello’s wife and is to have her again. The second caveat had said that the first two passages show only that he commits himself to nothing. It now says that Cassio’s talk rests on Iago’s word alone.",
+    "From the examiner: the Figure caption of the second passage said that the first talk of a confession comes in Act 4. Forms of confess are spoken seven times before that scene, of other people and other things, once by Iago to Cassio himself (Act 2, Scene 3, block 214), and in Act 3 Iago reports what Cassio said in his sleep. The caption now says only that Othello orders Cassio’s death in Act 3 and first hears in this scene of what he calls Cassio’s confessions.",
+    "From the examiner: the two counts of prose speeches in the facts of the Play tab were counts of prose blocks, 24 and 82. A speech is defined there as one turn under a speaker’s name, and four turns hold two prose blocks each. Counted as turns they are 23 and 79, and the facts now say so. The artist’s drawing prints these two numbers from the same keys.",
+    "From the examiner: the Figure and Sentence tabs of the second passage stand on words that are only in the 1623 Folio (row 49.0 from word 19 to the end), by the marks in the Folger edition. The fifth caveat tells the reader. A lead who wants only words that both early texts share would have to drop these two tabs.",
+    "From the examiner: the checker’s one warning is on Othello’s own word at row 112.0, word 6, quoted in italics in the Figure caption of the first passage. The sentence says only that he names the device. It was left.",
+    "From the examiner: my own scansion of the first passage differs from the poet’s in the weight of single words at rows 100.0 (word 1), 100.1 (word 0), 104.0 (word 1), 108.0 (word 0), 112.0 (word 7) and 112.2 (words 6 and 7). Either hearing can be defended. The captions rest only on the counts of syllables, which are the same both ways."
+  ]
+}
