@@ -145,7 +145,7 @@
       { "row": "5.3", "w": [3, 3], "gloss": "leap across", "note": "Among the dictionary’s examples of things leapt across: the new walls Remus jumped in mockery of his brother, flames, nets, a river, and these waters.", "source": "Lewis and Short under transilio, I (β), citing Livy 1, 7, 2, Ovid, Pliny, Florus and this line" },
       { "row": "5.3", "w": [4, 4], "gloss": "shallows, waters", "note": "Properly a shallow place or a ford. In the poets it is a body of water, the sea.", "source": "Lewis and Short under vadum" }
      ],
-     "caption": "The glosses are from Lewis and Short’s Latin dictionary. The stanza opens on <b>nequicquam</b>, to no purpose. The god is <b>prudens</b>, a short form of <i>providens</i>, seeing ahead; the dictionary puts this line under <i>knowing, wise</i>. The ships are <b>impiae</b>, without reverence for gods, parents or country, and the waters are not to be touched. The verb, <b>transiliunt</b>, means <i>leap across</i>: its other objects in the dictionary are walls, flames, nets and a river. The edition printed here finds in the ode a lament for the presumption of mankind. Auden, quoting the stanza, calls the attempt to cross the sea rash and close to hubris, a Greek word that first meant presumption toward the gods.",
+     "caption": "The glosses are from Lewis and Short’s Latin dictionary. The stanza opens on <b>nequicquam</b>, to no purpose. The god is <b>prudens</b>, a short form of <i>providens</i>, seeing ahead; the dictionary puts this line under <i>knowing, wise</i>. The ships are <b>impiae</b>, without reverence for gods, parents or country, and the waters are not to be touched. The verb, <b>transiliunt</b>, means <i>leap across</i>: its other objects in the dictionary are walls, flames, nets and a river. The edition printed here finds in the ode a lament for the presumption of mankind. Auden, quoting the stanza, calls the attempt to cross the sea rash and close to hubris. Elsewhere he explains hubris as the Greek tragic hero’s belief that he is a god.",
      "why": "The words that judge the crossing are in the Latin: to no purpose, without reverence, not to be touched. The edition finds in the ode a lament for human presumption, and Auden calls the attempt rash, close to hubris.",
      "grounds": [
       { "claim": "the sense of each word glossed", "kind": "source", "source": "Lewis and Short under nequiquam, abscindo, prudens, dissociabilis, impius, tango, ratis, transilio and vadum, each read on 2026-10-03" },
@@ -154,10 +154,10 @@
       { "claim": "the waters are cited under the verb touch in the sense of reaching or coming to a place", "kind": "source", "source": "Lewis and Short under tango, I.B.2.a" },
       { "claim": "in connected discourse the word most prominent in the speaker’s mind comes first, and so on in order of prominence; the stanza is one sentence, and the first word glossed is its first word", "kind": "source", "source": "Allen and Greenough, New Latin Grammar (1903), section 597, read at Dickinson College Commentaries on 2026-10-03 (finisher: the tab kept no ground for its first note). The grammar does not call it a rule of prose, but its examples are from Cicero and Caesar, and the note now says the rule is shown from prose. The sentence: rows 5.0 to 5.3 of the hosted Latin, after the question mark that ends row 4.3" },
       { "claim": "the ode is taken up with reproaches against the inventor of navigation and a lament for the presumption of mankind", "kind": "source", "source": "the introductory note on Ode III in the hosted edition: Macleane, revised by Chase (1895)" },
-      { "claim": "hubris is from the Greek for wanton violence, insolence, outrage, originally presumption toward the gods", "kind": "source", "source": "Online Etymology Dictionary under hubris, read on 2026-10-03" },
+      { "claim": "in Greek tragedy the sin the gods hold against the hero is hybris: a confidence so great that he takes himself for a god, out of reach of suffering; only the unusually fortunate are tempted to it", "kind": "auden", "source": "“The Greeks and Us,” in Forewords and Afterwords (1973), pp. 19 and 21; the essay is of 1948, and Auden spells the word hybris there (outside review, 2026-10-05: the caption used to call hubris a Greek word that first meant presumption toward the gods, following the Online Etymology Dictionary; Liddell and Scott’s Greek lexicon has no such sense, and in Homer and Hesiod the word is used of outrage done to other people, so the history was cut and Auden’s own account put in its place)" },
       { "claim": "the attempt to cross the sea is rash and close to hubris (the sentence quoted in the view)", "kind": "auden", "source": "The Enchafèd Flood (1950; Vintage Books edition, 1967), p. 9" }
      ],
-     "stands": "Each gloss is from the entry for the word in Lewis and Short’s *Latin Dictionary* (1879). The form of *touch* and the rule for a first word: Allen and Greenough’s *New Latin Grammar*, sections 500 and 597. The reading of *prudens* as foreseeing and the summary of the ode are from the notes of the edition printed here. *Hubris*: the Online Etymology Dictionary. Auden: *The Enchafèd Flood*, p. 9."
+     "stands": "Each gloss is from the entry for the word in Lewis and Short’s *Latin Dictionary* (1879). The form of *touch* and the rule for a first word: Allen and Greenough’s *New Latin Grammar*, sections 500 and 597. The reading of *prudens* as foreseeing and the summary of the ode: the notes of the edition printed here. Auden: *The Enchafèd Flood*, p. 9; *Forewords and Afterwords*, pp. 19 and 21."
     },
     {
      "kind": "compare",
@@ -377,7 +377,7 @@
   "W. H. Auden, *The Enchafèd Flood, or The Romantic Iconography of the Sea* (1950; Vintage Books edition, 1967), pp. 6–10 and 12–13.",
   "Horace, *The Odes and Epodes*, with an English translation by C. E. Bennett (Loeb Classical Library; first published 1914), in a later printing at the Internet Archive: the edition named on Auden’s reading list, compared here for the two places he quotes and for the third passage.",
   "W. H. Auden, *The Dyer’s Hand and Other Essays* (1962): “Translating Opera Libretti,” written with Chester Kallman, p. 485.",
-  "W. H. Auden, *Forewords and Afterwords* (1973): “The Greeks and Us,” pp. 5–6; “A Civilized Voice,” p. 124.",
+  "W. H. Auden, *Forewords and Afterwords* (1973): “The Greeks and Us,” pp. 5–6, 19 and 21; “A Civilized Voice,” p. 124.",
   "W. H. Auden, “The Horatians” (written in 1968; in *City Without Walls*, 1969): not seen in full; its close as quoted by Edward Mendelson.",
   "Edward Mendelson, *Early Auden, Later Auden: A Critical Biography* (Princeton University Press, 2017), pp. 416, 747, 773 and 778–79.",
   "Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: The Far Interior*, edited by Alan Bold (1985), p. 133.",
@@ -386,7 +386,7 @@
   "Quintilian, *Institutio Oratoria*, book 8, chapter 6, section 44: the Latin at The Latin Library; the English of H. E. Butler (Loeb Classical Library, 1920–22) at LacusCurtius, with Butler’s introduction.",
   "Cicero, *Pro Sestio*, sections 45–46 (the ship of the commonwealth): the Latin at The Latin Library, found through Lewis and Short under *navis*. His uses of *fingo* for nests and honeycombs are known here only from Lewis and Short’s citations under *fingo*.",
     "*Silva Rhetoricae* (rhetoric.byu.edu), under *antithesis*.",
-  "Online Etymology Dictionary: transgress, providence, prudent, hubris."
+  "Online Etymology Dictionary: transgress, providence, prudent."
  ],
  "caveats": [
   "The dots mark the accent each Latin word has in speech, by the rule in Allen and Greenough’s grammar; words of one syllable are marked as one reader would say them. That grammar also teaches a beat of the voice within each foot, which is not drawn here.",

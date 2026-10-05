@@ -17,7 +17,7 @@ In the fall of 1941 W. H. Auden taught English 135, Fate and the Individual in E
 Who made this
 
 [about.sections[0].paras[0]]
-This site was researched, written and built in October 2026 by Claude, an AI system made by Anthropic. No Auden scholar has checked it. Where it reports a fact about Auden or the course, it names the source so that you can check the fact yourself.
+This site was researched, written and built in October 2026 by Claude, an AI system made by Anthropic. Claude was supervised and prompted by Ethan Mollick. No Auden scholar has checked the site. Where it reports a fact about Auden or the course, it names the source so that you can check the fact yourself.
 
 [about.sections[1].h]
 Where the method comes from
@@ -56,7 +56,7 @@ Each page was made in five passes. The first chose the passages and wrote the ca
 What is known of the course
 
 [about.sections[3].paras[0]]
-Three students who took the course wrote about it later: Donald Pearce, Charles Miller and Robert Chapman. A fourth, Kenneth Millar, went on to write detective novels as Ross Macdonald. Tom Nolan’s biography of Millar and Michael Kreyling’s study of the novels describe his part in the course. Dorothy Farnan was a graduate student at Michigan who knew people in the class. Humphrey Carpenter wrote a biography of Auden, and B. C. Bloomfield and Edward Mendelson compiled the standard bibliography of his writings. Mendelson also edited Auden’s collected prose, the second volume of which is cited here as *Prose*, vol. II. The accounts are cited below by the author’s surname and the page, and Works cited, near the bottom of this page, gives each reference in full.
+Three students who took the course wrote about it later: Donald Pearce, Charles Miller and Robert Chapman. A fourth, Kenneth Millar, went on to write detective novels as Ross Macdonald. Tom Nolan’s biography of Millar and Michael Kreyling’s study of the novels describe his part in the course. Dorothy Farnan was a graduate student at Michigan who knew people in the class. Humphrey Carpenter wrote a biography of Auden, and B. C. Bloomfield and Edward Mendelson compiled the standard bibliography of his writings. Mendelson also edited Auden’s collected prose, the second volume of which is cited here as *Prose*, vol. II. The accounts are cited below by the author’s surname and the page, and Works cited, near the foot of this page, gives each reference in full.
 
 [about.sections[3].paras[1]]
 In the spring of 1942 Auden gave a second course at Michigan, English 136, on the analysis of poetry. The last two rows of the table below report work that the sources do not assign to one course or the other.
@@ -155,7 +155,7 @@ Pearce, p. 137
 Students learned cantos of the *Divine Comedy* by heart
 
 [about.sections[3].table.rows[14][1]]
-Pearce, pp. 153–54; Miller, pp. 26–27; Chapman, p. 509; Farnan, pp. 73 and 76; Nolan, p. 53. They differ on the number of cantos and on how the cantos were examined, as the next section explains.
+Auden’s letter to Ursula Niebuhr, December 19, 1941; Pearce, pp. 153–54; Miller, pp. 26–27; Chapman, p. 509; Farnan, pp. 73 and 76; Nolan, p. 53. They differ on the number of cantos and on how the cantos were examined, as the next section explains.
 
 [about.sections[3].table.rows[15][0]]
 Papers were written and graded. Millar compared the *Divine Comedy* with *The Castle* in one of his, and Pearce wrote one on *The Castle*.
@@ -185,19 +185,22 @@ Chapman, p. 509; Carpenter, p. 319. The one poem Carpenter names is Milton’s �
 Pearce’s page numbers were read from a scan of the book. Those for the other witnesses, the biographies and Auden’s collected prose were worked out from scanned copies and from the summaries a search returns, so any of them may be off by a page. Chapman’s article could be read only in part.
 
 [about.sections[4].h]
-The examination: five accounts
+The accounts of the examination
 
 [about.sections[4].paras[0]]
-Donald Pearce wrote about the course at length more than forty years later, with his notes from 1941 in front of him. He says that in December, four or five weeks before the examination, Auden told the class what it would be. The examination would last three hours and would come after the Christmas vacation. The class would write out, from memory, seven cantos in the prose version that Pearce calls Carlyle and Wicksteed’s. That is the translation by Carlyle, Okey and Wicksteed in the Modern Library volume named on the list. The cantos began with *Inferno* 3 and 5, continued with some from the *Purgatorio* (Pearce names only canto 28) and ended with *Paradiso* 33. A committee of students called the task impossible. Auden offered to cut the seven cantos to five, and said that if he could not learn the five himself on his drive to California he would telephone and cancel the examination. He did not telephone, and Pearce wrote for three hours, filling five examination books.
+Auden’s own account was written at the time. On the morning of December 19, 1941, the day he was to leave Ann Arbor for the Christmas vacation, he wrote to his friend Ursula Niebuhr. For the final examination, he told her, his class had only to memorize six cantos of Dante and write them out. The class was shocked and thought it could not be done. He had promised to ask for less if he could not learn it all himself, and on the train from Chicago to Los Angeles he would try. The letter is printed in *Remembering Reinhold Niebuhr* (pp. 281–82). It was read for this site in the short extracts that searches of two scanned copies return, and the pages themselves were not seen.
 
 [about.sections[4].paras[1]]
-Charles Miller, also in the class, remembers the cantos being assigned at the first meeting as an exercise: six, or four for those who could not manage six. Dorothy Farnan, who had the story from friends in the class, says six, assigned on the first day for the final examination and to be learned letter perfect. Tom Nolan, in his biography of Kenneth Millar, says that in place of a final Auden had the students memorize “any six Dante cantos.”
+Donald Pearce wrote about the course at length more than forty years later, with his notes from 1941 in front of him. He says that in December, four or five weeks before the examination, Auden told the class what it would be. The examination would last three hours and would come after the Christmas vacation. The class would write out, from memory, seven cantos in the prose version that Pearce calls Carlyle and Wicksteed’s. That is the translation by Carlyle, Okey and Wicksteed in the Modern Library volume named on the list. The cantos began with *Inferno* 3 and 5, continued with some from the *Purgatorio* (Pearce names only canto 28) and ended with *Paradiso* 33. A committee of students called the task impossible. Auden offered to cut the seven cantos to five, and said that if he could not learn the five himself on his drive to California he would telephone and cancel the assignment. He did not telephone, and Pearce wrote for three hours, filling five examination books.
 
 [about.sections[4].paras[2]]
-Robert Chapman took both of Auden’s Michigan courses, and in 1978 he printed what his classmates remembered. Some of them claimed that they still had eight cantos by heart. One ran out of time at the final examination for the fall course before she had written out all her Dante, and left the note “Time.” Auden telephoned to ask whether that was the truth, accepted that it was, and did not penalize her.
+Charles Miller, also in the class, remembers the cantos being assigned at the first meeting as an exercise: six, or four for those who could not manage six. Dorothy Farnan, who had the story from friends in the class, says six, assigned on the first day for the final examination and to be learned letter perfect. Tom Nolan, in his biography of Kenneth Millar, says that in place of a final Auden had the students memorize “any six Dante cantos.”
 
 [about.sections[4].paras[3]]
-So two people who were in the class, Pearce and Chapman, say that the cantos were written out at a timed examination. The number of cantos is given as five by Pearce, six by Farnan and Nolan, six or four by Miller, and eight by some of Chapman’s classmates.
+Robert Chapman took both of Auden’s Michigan courses, and in 1978 he printed what his classmates remembered. Some of them claimed that they still had eight cantos by heart. One ran out of time at the final examination for the fall course before she had written out all her Dante, and left the note “Time.” Auden telephoned to ask whether that was the truth, accepted that it was, and did not penalize her.
+
+[about.sections[4].paras[4]]
+So Auden’s own letter says that the cantos were set for the final examination. Two people who were in the class, Pearce and Chapman, say that the cantos were written out at a timed examination. The number of cantos is given as six by Auden in December, five by Pearce, six by Farnan and Nolan, six or four by Miller, and eight by some of Chapman’s classmates. The letter and Pearce also differ on the journey and on the promise. In the letter Auden is going by train, and promises to ask for less if he cannot learn the cantos himself. In Pearce’s account he is driving, and promises to cancel the assignment. The letter was written before the journey, so it does not say what was asked in the end.
 
 [about.sections[5].h]
 The order of the books
@@ -284,42 +287,45 @@ Donald Pearce, “Fortunate Fall: W. H. Auden at Michigan,” in *W. H. Auden: T
 University of Michigan, *Proceedings of the Board of Regents*, 1939–1942.
 
 [about.sections[9].sources[14]]
-W. H. Auden, letters to James and Tania Stern, edited by Nicholas Jenkins, in *“In Solitude, for Company”: W. H. Auden after 1940* (Auden Studies 3), edited by Katherine Bucknell and Nicholas Jenkins (Oxford, 1995), pp. 65–72.
+W. H. Auden, letter to Ursula Niebuhr of December 19, 1941, in *Remembering Reinhold Niebuhr: Letters of Reinhold and Ursula M. Niebuhr*, edited by Ursula M. Niebuhr (HarperSanFrancisco, 1991), pp. 281–82.
 
 [about.sections[9].sources[15]]
-W. H. Auden, *New Year Letter* (Faber and Faber, 1941). The American edition is called *The Double Man* (Random House, 1941). The notes to the poem are cited by the number of the line they are attached to.
+W. H. Auden, letters to James and Tania Stern, edited by Nicholas Jenkins, in *“In Solitude, for Company”: W. H. Auden after 1940* (Auden Studies 3), edited by Katherine Bucknell and Nicholas Jenkins (Oxford, 1995), pp. 65–72.
 
 [about.sections[9].sources[16]]
-W. H. Auden, *The Enchafèd Flood* (Random House, 1950), cited here from the Vintage Books edition of 1967.
+W. H. Auden, *New Year Letter* (Faber and Faber, 1941). The American edition is called *The Double Man* (Random House, 1941). The notes to the poem are cited by the number of the line they are attached to.
 
 [about.sections[9].sources[17]]
-W. H. Auden, *The Dyer’s Hand* (Random House, 1962).
+W. H. Auden, *The Enchafèd Flood* (Random House, 1950), cited here from the Vintage Books edition of 1967.
 
 [about.sections[9].sources[18]]
-W. H. Auden, *Secondary Worlds* (Random House, 1968), the T. S. Eliot Memorial Lectures of 1967.
+W. H. Auden, *The Dyer’s Hand* (Random House, 1962).
 
 [about.sections[9].sources[19]]
-W. H. Auden, *Forewords and Afterwords* (Random House, 1973), cited here from the Faber and Faber printing of 1974.
+W. H. Auden, *Secondary Worlds* (Random House, 1968), the T. S. Eliot Memorial Lectures of 1967.
 
 [about.sections[9].sources[20]]
-W. H. Auden, *The English Auden: Poems, Essays and Dramatic Writings, 1927–1939*, edited by Edward Mendelson (Faber and Faber, 1977).
+W. H. Auden, *Forewords and Afterwords* (Random House, 1973), cited here from the Faber and Faber printing of 1974.
 
 [about.sections[9].sources[21]]
-W. H. Auden, *The Prolific and the Devourer* (Ecco Press, 1994), written in 1939 and left unfinished.
+W. H. Auden, *The English Auden: Poems, Essays and Dramatic Writings, 1927–1939*, edited by Edward Mendelson (Faber and Faber, 1977).
 
 [about.sections[9].sources[22]]
-W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (Princeton University Press, 2000), from notes taken by Alan Ansen and others at the New School in 1946 and 1947.
+W. H. Auden, *The Prolific and the Devourer* (Ecco Press, 1994), written in 1939 and left unfinished.
 
 [about.sections[9].sources[23]]
-W. H. Auden, *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (Princeton University Press, 2002), a volume of *The Complete Works of W. H. Auden*. Its third appendix records the two courses he gave at Michigan. It says that a mimeographed reading list for the first is in the university’s library (pp. 465–66) but does not print it. It prints the final examination of the second, dated May 21, 1942 (pp. 467–70).
+W. H. Auden, *Lectures on Shakespeare*, reconstructed and edited by Arthur Kirsch (Princeton University Press, 2000), from notes taken by Alan Ansen and others at the New School in 1946 and 1947.
 
 [about.sections[9].sources[24]]
-Paull Franklin Baum, *The Principles of English Versification* (Harvard University Press, 1922), read at Project Gutenberg.
+W. H. Auden, *Prose*, vol. II: 1939–1948, edited by Edward Mendelson (Princeton University Press, 2002), a volume of *The Complete Works of W. H. Auden*. Its third appendix records the two courses he gave at Michigan. It says that a mimeographed reading list for the first is in the university’s library (pp. 465–66) but does not print it. It prints the final examination of the second, dated May 21, 1942 (pp. 467–70).
 
 [about.sections[9].sources[25]]
-Alexander Schmidt, *Shakespeare-Lexicon* (Berlin, 1902), read at the Perseus Digital Library.
+Paull Franklin Baum, *The Principles of English Versification* (Harvard University Press, 1922), read at Project Gutenberg.
 
 [about.sections[9].sources[26]]
+Alexander Schmidt, *Shakespeare-Lexicon* (Berlin, 1902), read at the Perseus Digital Library.
+
+[about.sections[9].sources[27]]
 *A New English Dictionary on Historical Principles* (Clarendon Press, 1884–1928), the first edition of the *Oxford English Dictionary*.
 
 [about.sections[9].after[0]]
@@ -452,9 +458,6 @@ Next
 
 [shelf.read.missing]
 There is no such book or part on this shelf.
-
-[shelf.read.failed]
-The book could not be loaded. Try again in a moment.
 
 [shelf.works[0].author]
 Dante
@@ -1415,7 +1418,28 @@ About
 This site draws on the lines of each passage, and it needs JavaScript to do it. Turn JavaScript on in your browser and load the page again.
 
 [site/index.html]
-W. H. Auden’s course at the University of Michigan in 1941: the afternoons his students recorded, and the works on his reading list, each opened at a few passages, with the beat, the rhymes, the figures and the words drawn on the lines.
+W. H. Auden’s course at the University of Michigan in the fall of 1941: the afternoons as his students wrote them down, and passages from the works on his reading list, with the beat, the rhymes and the figures of speech drawn on the lines.
+
+[site/index.html]
+https://auden-english-135.netlify.app/
+
+[site/index.html]
+Fate and the Individual: Auden’s course of 1941
+
+[site/index.html]
+https://auden-english-135.netlify.app/card-1.png
+
+[site/index.html]
+Fate and the Individual. W. H. Auden’s course at the University of Michigan, fall 1941. Two lines of Ariel’s song from Shakespeare’s The Tempest: “Full fathom five thy father lies. Of his bones are coral made.” Under each line is its measure: a rule with a long stroke at each beat, and dots at the stresses of the speaking voice. The first line begins with a red dot, a stress off the beat. The second begins with a red ring, a beat the voice passes over.
+
+[site/index.html]
+summary_large_image
+
+[site/index.html]
+https://auden-english-135.netlify.app/card-x-1.png
+
+[site/index.html]
+Fate and the Individual. W. H. Auden’s course at the University of Michigan, fall 1941. Two lines of Ariel’s song from Shakespeare’s The Tempest: “Full fathom five thy father lies. Of his bones are coral made.” Under each line is its measure: a rule with a long stroke at each beat, and dots at the stresses of the speaking voice. A red dot is a stress off the beat, and a red ring a beat the voice passes over.
 
 ### site/js/main.js
 
@@ -1435,7 +1459,22 @@ Not found
 There is no page at this address.
 
 [site/js/main.js]
-The works
+The\u00a0works
+
+[site/js/main.js]
+It still could not be loaded.
+
+[site/js/main.js]
+This page could not be loaded.
+
+[site/js/main.js]
+Try again
+
+[site/js/main.js]
+Trying again
+
+[site/js/main.js]
+Not loaded
 
 ### site/js/home.js
 
@@ -1497,9 +1536,6 @@ The original stands with an English version of it, and words that answer each ot
 The measure
 
 [site/js/home.js]
-Fate and the Individual
-
-[site/js/home.js]
 “Here is a verbal contraption.
 
 [site/js/home.js]
@@ -1512,13 +1548,13 @@ W. H. Auden, on the first of the two questions that interested him most when he 
 The Dyer’s Hand
 
 [site/js/home.js]
-The afternoons
-
-[site/js/home.js]
-The reading list of that course names thirty-three works, nine of them operas. The three headings below are courses he would have required of every student in a college for poets: prosody, rhetoric and comparative philology (
-
-[site/js/home.js]
 All the works
+
+[site/js/home.js]
+The reading list of that course names thirty-three works, nine of them operas. The three headings below are courses Auden would have required of every student in a college for poets: prosody, rhetoric and comparative philology (
+
+[site/js/home.js]
+are listed at the foot of this page.
 
 [site/js/home.js]
 In the order of Auden’s reading list. The list itself, and the books to read, are on
@@ -1528,6 +1564,9 @@ the shelf
 
 [site/js/home.js]
 to come
+
+[site/js/home.js]
+Fate and the Individual
 
 ### site/js/class.js
 
@@ -1553,13 +1592,13 @@ Where this page may be wrong
 The works
 
 [site/js/class.js]
-A page for every work on the list →
+A page for every work on the list
 
 [site/js/class.js]
 The shelf
 
 [site/js/class.js]
-The list, and the books that can be read here →
+The list, and the books that can be read here
 
 ### site/js/class-figures.js
 
@@ -1786,4 +1825,4 @@ Place in the record
 The record could not be played here.
 
 
-(8516 words)
+(8963 words)

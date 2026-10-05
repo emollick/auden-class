@@ -82,7 +82,7 @@ All of this is gathered, with pages, in `remake/research/A_michigan_course.md`
 (the course), `B_pedagogy.md` (how he taught), `E_pd_pearce.md` (Pearce
 pp. 129–31 and 137–46) and `C_auden_on_works.md` (Part Four: the idea of the
 course). The about page (`content/about.mjs`) already sets out the record as a
-table and sets the five accounts of the examination side by side. The class
+table and sets the accounts of the examination side by side. The class
 page must not contradict it.
 
 ## How the page is written

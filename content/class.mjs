@@ -509,10 +509,12 @@ export default {
       id: 'exam',
       when: 'Announced in December 1941 · held after Christmas',
       title: 'The examination',
-      src: 'Pearce, pp. 153–54; Chapman, p. 509; Miller, pp. 77–78; Farnan, pp. 76–77',
+      src: 'Pearce, pp. 153–54; Auden’s letter to Ursula Niebuhr, December 19, 1941; Chapman, p. 509; Miller, pp. 77–78; Farnan, pp. 76–77',
       paras: [
         'Then Auden said what the final examination would be. Pens and paper came out, which had not happened before that term. The examination would come four or five weeks later, after the Christmas vacation, and last three hours. The class would write out seven cantos of the *Divine Comedy* from memory: the third and fifth of the *Inferno*, some of the *Purgatorio* and the last of the *Paradiso*. Of the *Purgatorio* cantos Pearce names the twenty-eighth. The text was the prose translation in the Modern Library volume on the list, the version, Auden told them, that Eliot used in *The Waste Land*.',
-        'The class took the news in silence and then grumbled. A committee of students called it impossible and inhumane. Auden was surprised and thought it neither. He offered to cut the seven cantos to five, with a bargain: he was about to drive to California, and if he could not learn the five himself on the way, he would telephone and call the examination off. He did not telephone.',
+        'The class took the news in silence and then grumbled. A committee of students called it impossible and inhumane. Auden was surprised and thought it neither. He offered to cut the seven cantos to five, with a bargain: he was about to drive to California, and if he could not learn the five himself on the way, he would telephone and cancel the assignment. He did not telephone.',
+        'That is Pearce’s account, written more than forty years later. Auden gave his own on the morning of December 19, 1941, the day he was to leave for California, in a letter to his friend Ursula Niebuhr. For the final examination, he wrote, his class had only to memorize six cantos of Dante and write them out. The class was shocked and thought it could not be done. He had promised to ask for less if he could not learn it all himself, and on the train from Chicago to Los Angeles he would try (*Remembering Reinhold Niebuhr*, pp. 281–82).',
+        'The letter has six cantos where Pearce has seven cut to five, a train where he has a drive, and a promise to ask for less where he has a promise to cancel the assignment. Written before the journey, it does not say what was asked in the end.',
         'The third canto of the *Inferno* took Pearce about a week of afternoons, and every trick of memory he knew, before it held. A couple of weeks later a canto took three afternoons. The last canto of the *Paradiso* took one.',
         'Miller remembered that in the fall Angelyn Stevens, a faculty wife who sat in on Auden’s classes that year, kept typed pages of Dante pinned above her kitchen sink, to learn her cantos over the dishes: six of them, in his account (pp. 77–78). Dorothy Farnan, a graduate student at Michigan who knew people in the class, tells of students up late over their cantos, and of senior professors who went to Auden and could not move him (pp. 76–77).',
         'At the examination Pearce wrote without a break for the whole three hours. He filled five examination books and believed he had not made a mistake. He thinks the memorizing may be the most valuable thing Auden taught him. In his own classes since, he says, he has asked the same, and met the same resistance, and then gratitude.',
@@ -542,7 +544,7 @@ export default {
       id: 'papers',
       when: 'Through the term',
       title: 'Papers and exercises',
-      src: 'Farnan, pp. 73 and 77; Nolan, p. 53; Kreyling, endnotes; Chapman, p. 509; Miller, pp. 26–28; Pearce, pp. 135, 143–44 and 153–55',
+      src: 'Farnan, pp. 73 and 77; Nolan, p. 53; Kreyling, endnotes; Chapman, p. 509; Miller, pp. 26–28; Pearce, pp. 135, 143–44 and 153–55; Auden’s letter to Ursula Niebuhr, December 19, 1941',
       paras: [
         'Papers were assigned and graded. In her notebook Angelyn Stevens called the work “tremendous, if you did everything” (Farnan, p. 73).',
       ],
@@ -569,7 +571,7 @@ export default {
             { text: 'Poems written to a set scansion, a given pattern of beats', by: 'Stevens’s notebook, which does not name the course: Farnan, p. 73', ways: [
               { piece: 'tempest', plate: 'song', tab: 0, label: 'Ariel’s song, with its beats marked' },
             ] },
-            { text: 'Cantos of the *Divine Comedy*, learned by heart', by: 'Written out at the examination: Pearce, pp. 153–54. Given as an exercise at the first class: Miller, pp. 26–27', ways: [
+            { text: 'Cantos of the *Divine Comedy*, learned by heart', by: 'Set for the final examination: Auden’s letter to Ursula Niebuhr, December 19, 1941. Written out at the examination: Pearce, pp. 153–54. Given as an exercise at the first class: Miller, pp. 26–27', ways: [
               { to: 'exam', label: 'The examination' },
             ] },
           ],
@@ -652,7 +654,8 @@ export default {
     'Auden gave two courses that year, this one in the fall and [one on the analysis of poetry](#/class/after) in the spring. Chapman seldom says which of the two an answer to his questionnaire is about, and Angelyn Stevens’s notebook, as Farnan reports it, does not say either.',
     'Pearce’s pp. 129–30 and 138–45, with the head of p. 131 and the foot of p. 137, could be read for this site only in the short extracts a search of the scanned book returns. The pages themselves were not seen. They hold the Thursday on Kierkegaard, most of the lecture on love, the lecture on *Othello* and the opening of the lecture on *Henry IV*. The extracts give the names and labels of each scheme for *Othello* in order, not their places on the page, so the way the six schemes are set out here is this site’s arrangement. In the first, the people set under the upper label are the six whom Auden named together in the lecture as the top of the society (p. 141). In the third the extract runs the two columns together, and the sides given here follow the order of the names and what Auden said in the lecture.',
     'Pearce prints the chart in three pieces to fit his page, and the scan of that page runs the labels of each line together. Where one label ends and the next begins is this site’s reading, from the way the two rows pair. The words are the same in the book of 1985 and in the reprint of the essay in his *Para/Worlds* (1989).',
-    'The accounts of the cantos disagree on their number and on when they were assigned. Miller has six asked for at the first class, as an exercise, and four allowed to anyone who could not manage six (pp. 26–27). Farnan, who was not in the class, also has six, assigned on the first day (pp. 73 and 76). Nolan has each student choose six, in place of an examination (p. 53). Pearce has seven assigned in December and cut to five (pp. 153–54). Chapman’s classmates spoke of eight (p. 509). The account of the examination on this page is Pearce’s.',
+    'The accounts of the cantos disagree on their number and on when they were assigned. Auden’s letter to Ursula Niebuhr of December 19, 1941, has six, for the final examination, and a promise to ask for less if he could not learn them himself (*Remembering Reinhold Niebuhr*, pp. 281–82). Miller has six asked for at the first class, as an exercise, and four allowed to anyone who could not manage six (pp. 26–27). Farnan, who was not in the class, also has six, assigned on the first day (pp. 73 and 76). Nolan has each student choose six, in place of an examination (p. 53). Pearce has seven assigned in December and cut to five (pp. 153–54). Chapman’s classmates spoke of eight (p. 509). The account of the examination on this page is Pearce’s, with Auden’s letter set beside it.',
+    'Auden’s letter to Ursula Niebuhr could be read for this site only in the short extracts a search of the scanned book returns. Two scanned copies were searched, and they agree. The pages themselves were not seen.',
     'What was drunk on Friday evenings is told four ways. Miller’s book has beer brought by the students, and his memoir coffee only. The biographer Humphrey Carpenter has plenty of cheap wine (p. 319), and Farnan a weekly tea (p. 73).',
   ],
   sources: [
@@ -668,6 +671,7 @@ export default {
       'Michael Kreyling, *The Novels of Ross Macdonald* (2005).',
       'Matthew J. Bruccoli, *Ross Macdonald* (1984).',
     ] },
+    'Auden’s letter to Ursula Niebuhr of December 19, 1941, in *Remembering Reinhold Niebuhr: Letters of Reinhold and Ursula M. Niebuhr*, edited by Ursula M. Niebuhr (1991), pp. 281–82.',
     'Auden’s letters to James and Tania Stern, edited by Nicholas Jenkins, in *Auden Studies* 3 (1995), pp. 65–72.',
     'University of Michigan, *Proceedings of the Board of Regents*, January 1942.',
     'The reading list of the course, in the picture [published by Alan Jacobs](https://blog.ayjay.org/audensyllabus/).',
