@@ -80,3 +80,19 @@ clone.
 comes from. The `credit` lines in `content/records.mjs` say where each record
 comes from. The licenses of the two typefaces are beside them in
 `site/fonts/`.
+
+## License
+
+The code and the site's own writing are under the MIT License, in
+`LICENSE`. It does not cover what the site prints or quotes from others:
+
+- The hosted texts in `site/data/texts`, the ten records in
+  `site/records` and the first version's pictures in
+  `first-version/site/plates` are in the public domain in the United
+  States. Two of the translations came out in 1930 and may still be in
+  copyright elsewhere: Willa and Edwin Muir's *The Castle*, and
+  M. D. Herter Norton and John Linton's Rilke.
+- Auden's words, and those of the other writers the site reports, are
+  quoted briefly and remain under their own copyright.
+- The typefaces are under the SIL Open Font License, whose text is beside
+  them in `site/fonts/` and `first-version/site/fonts/`.
