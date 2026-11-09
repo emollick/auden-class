@@ -13,7 +13,7 @@
 # (pages fetched from other sites), pictures, audio outside site/records, zips.
 {
   # the site as served, and what builds, tests and deploys it
-  for f in README.md .gitignore netlify.toml package.json; do [ -f "$f" ] && echo "$f"; done
+  for f in README.md LICENSE .gitignore netlify.toml package.json; do [ -f "$f" ] && echo "$f"; done
   find site content tests -type f
   find build -type f ! -path '*/__pycache__/*' ! -name '*.pyc'
   find deploy -maxdepth 1 -type f -name '*.list'
